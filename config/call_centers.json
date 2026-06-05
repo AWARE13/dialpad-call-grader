@@ -1,0 +1,19 @@
+{
+  "call_centers": {
+    "North Austin":    "6059781097930752",
+    "South Austin":    "5415116541640704",
+    "South Austin Alt":"4518275526574080",
+    "Leander":         "5228981035089920",
+    "San Antonio":     "6627360982056960",
+    "Houston":         "5991438108213248",
+    "Dallas":          "4645958333906944",
+    "Fort Worth":      "5221847950049280",
+    "McKinney":        "5221559331602432",
+    "Garland":         "6654487771103232",
+    "Tampa":           "5107631565979648"
+  },
+  "notes": {
+    "office_lines_verified": "2026-06-05 — office target_type is pass-through only (all 0-min hangups). All real sales calls route through call centers.",
+    "dedup_method": "Key on (external_number, date_started rounded to nearest minute) — API returns two legs per call"
+  }
+}

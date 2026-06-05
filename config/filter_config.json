@@ -1,0 +1,31 @@
+{
+  "pre_filter": {
+    "direction": "inbound",
+    "min_duration_ms": 300000,
+    "state": "hangup",
+    "pricing_keywords": ["$", "hour", "per mover", "per person", "estimate", "book", "schedule", "rate"],
+    "exclude_keywords": ["complaint", "damage claim", "reschedule", "cancel"]
+  },
+  "call_types": {
+    "full_sales_call": {
+      "description": "Standard inbound sales call — full 85-pt rubric applies",
+      "indicators": ["pricing discussed", "estimate given", "booking attempted"]
+    },
+    "walkthrough_scheduler": {
+      "description": "Intake call for moves >=1800 sqft — routes to virtual walkthrough. Mini-rubric TBD.",
+      "indicators": ["virtual walkthrough", "walkthrough", "schedule a walkthrough", "1800", "2000", "2500"],
+      "rubric": "PENDING — needs Amanda + Cameron decision"
+    },
+    "skip": {
+      "description": "Not gradeable — exclude entirely",
+      "types": [
+        "Customer complaint / service recovery call",
+        "Availability-only call (fully booked, no pricing)",
+        "Vendor / supplier call",
+        "Voicemail",
+        "Incomplete inquiry (never reached pricing)"
+      ]
+    }
+  },
+  "notes": "Pre-filter is a first pass only. Final call type classification happens after reading transcript."
+}
