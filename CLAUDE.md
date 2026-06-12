@@ -15,10 +15,24 @@ AI-powered sales call auditing tool. Pulls calls from Dialpad, filters to legiti
 source ~/.zshrc
 curl -s -H "Authorization: Bearer $DIALPAD_API_KEY" https://dialpad.com/api/v2/company
 
-# Run a full audit (pull + filter + grade)
+# --- WEEKLY WORKFLOW (primary) ---
+# Dry run first — confirm candidates before grading
+python3 scripts/weekly_audit.py --dry-run
+
+# Full weekly run — 2 calls per rep, all 33 reps
+python3 scripts/weekly_audit.py
+
+# Single rep (spot check or regrade)
+python3 scripts/weekly_audit.py --rep "Nicole"
+
+# Extend lookback window (use if a rep had a light week)
+python3 scripts/weekly_audit.py --days 14
+
+# --- SPOT CHECK / MANUAL (secondary) ---
+# Run a manual audit (branch-based, not roster-based)
 python3 scripts/run_audit.py
 
-# Pull candidates only (no grading)
+# Pull branch candidates only
 python3 scripts/pull_candidates.py
 ```
 
@@ -26,6 +40,14 @@ python3 scripts/pull_candidates.py
 
 ## What This Does
 
+### Weekly workflow (primary)
+1. **Roster** — Loads 33-rep grading list from `~/Documents/GitHub/cos-amanda/data/dialpad-grading-roster.json`
+2. **Pull** — Hits Dialpad API per user ID, selects up to 2 qualifying calls per rep from the past 7 days
+3. **Filter** — Keeps calls >5 min, state=hangup, routed through a call center
+4. **Grade** — Gary reads each transcript and grades against config/rubric.md
+5. **Report** — Outputs per-rep markdown report to `output/weekly/YYYY-MM-DD_weekly_report.md`
+
+### Manual spot-check (secondary)
 1. **Pull** — Hits all 10 Dialpad call centers, pulls last 50 calls each
 2. **Filter** — Keeps inbound, >5 min, state=hangup, deduped by leg
 3. **Grade** — AI reads each transcript against the 85-pt rubric in `config/rubric.md`
@@ -37,20 +59,31 @@ python3 scripts/pull_candidates.py
 
 ```
 dialpad-call-grader/
-├── CLAUDE.md                  ← You are here
+├── CLAUDE.md                        ← You are here
 ├── config/
-│   ├── rubric.md              ← 85-pt Sales Call Scorecard (source of truth)
-│   ├── call_centers.json      ← All branch call center IDs (cached)
-│   └── filter_config.json     ← Pre-filter rules
+│   ├── rubric.md                    ← 85-pt Sales Call Scorecard (source of truth)
+│   ├── call_centers.json            ← All branch call center IDs (cached)
+│   └── filter_config.json           ← Pre-filter rules
 ├── scripts/
-│   ├── pull_candidates.py     ← Pull + filter calls from all branches
-│   ├── run_audit.py           ← Full pipeline: pull → grade → report
-│   └── grade_call.py          ← Grade a single call by call_id
+│   ├── weekly_audit.py              ← PRIMARY: weekly roster run (2 calls/rep/week)
+│   ├── pull_roster_candidates.py    ← Pull candidates by rep ID from grading roster
+│   ├── pull_candidates.py           ← Pull + filter calls from all branches (manual use)
+│   ├── run_audit.py                 ← Manual audit pipeline: pull → grade → report
+│   └── grade_call.py                ← Grade a single call by call_id
 ├── output/
-│   ├── grades/                ← Per-call scorecards (JSON + markdown)
-│   └── transcripts/           ← Cached raw transcripts (avoid re-pulling)
+│   ├── weekly/                      ← Weekly reports + per-rep grade JSONs
+│   ├── grades/                      ← Manual spot-check scorecards
+│   └── transcripts/                 ← Cached raw transcripts (avoid re-pulling)
 └── README.md
 ```
+
+## Grading Roster
+
+**File:** `~/Documents/GitHub/cos-amanda/data/dialpad-grading-roster.json`
+**33 reps** as of 2026-06-11. Includes US and Philippines team.
+To add a rep: add an entry with `name`, `dialpad_id`, and `"active": true`.
+To pause a rep (trainee, leave): set `"active": false` — they'll be skipped without deletion.
+Chauany Shivers and Brianne Newbro start 2026-06-15 — add their Dialpad IDs once provisioned.
 
 ---
 
@@ -134,8 +167,26 @@ Full rubric: `config/rubric.md`
 
 ---
 
+## Report (HTML Dashboard)
+
+**File:** `output/report.html`
+**Status:** Built 6/5/2026 — Amanda wants to refine it next week before sharing.
+
+What's in it:
+- Dark Einstein-branded header
+- Company-wide pattern summary bar (color coded red/amber/green)
+- Call cards per rep: score circle, section-by-section rubric breakdown, script flag chips, coaching notes in orange callout
+- Walkthrough schedulers in separate section with rubric mismatch note
+
+**Next session:** Amanda wants to polish the design further, then host on GitHub Pages for a shareable link. After that, send individual feedback reports to each rep.
+
+The Google Sheet (`1XS8lH8uVSDgqhazg9e4T-BCVuvIalpBnBrCtpdf_Pfs`) is also live but Amanda prefers the HTML dashboard. Sheet can be kept as a data backup or scrapped.
+
+---
+
 ## Audit Log
 
-| Date | Calls pulled | Candidates | Graded | Key finding |
-|------|-------------|------------|--------|-------------|
-| 2026-06-05 | ~500 (10 branches) | 64 | 2 | Save Your Ass 0/5 company-wide; Nicole Cruz hit all 3 differentiators |
+| Date | Mode | Candidates | Graded | Key finding |
+|------|------|------------|--------|-------------|
+| 2026-06-05 | Manual (branch) | 64 | 5 | Save Your Ass 0/5 company-wide; Nicole Cruz hit all 3 differentiators |
+| 2026-06-11 | Weekly roster dry run | 64 | 0 | Pipeline validated — 32/33 reps with calls, Maria Yangson no calls |

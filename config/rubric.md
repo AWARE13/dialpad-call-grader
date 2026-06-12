@@ -119,6 +119,53 @@
 
 ---
 
+## Phone Presence Assessment (transcript-based, not scored against 85 pts)
+
+**Scored separately on a 1–5 scale. Does not add to or subtract from the 85-pt total.**
+**Important:** This is assessed from transcript language only — not actual vocal tone. Flag calls for audio review when the transcript gives insufficient signal.
+
+### Rating scale
+
+| Score | Label | What it looks like in transcript |
+|-------|-------|----------------------------------|
+| 5 | Outstanding | Genuine warmth, uses customer's name naturally, humor or rapport moments, customer responds positively (laughs, says "you're great", asks to work with this rep again) |
+| 4 | Engaging | Consistently warm language, affirmations feel natural, customer seems comfortable, good energy in word choice |
+| 3 | Adequate | Polite but transactional, warmth present but inconsistent, few affirmations, minimal rapport beyond the task |
+| 2 | Flat | Mostly scripted/robotic, minimal acknowledgment of customer's emotions or concerns, little warmth in language |
+| 1 | Disengaging | Curt, dismissive, or awkward — customer pushback goes unacknowledged, no name use, no empathy markers |
+
+### What to look for in the transcript
+
+**Warmth indicators (push score up):**
+- Affirmations: "Absolutely!", "Great question!", "Of course!", "I totally understand"
+- Empathy statements: "I know moving can be stressful", "That makes total sense"
+- Genuine humor or lightness — customer laughs or reciprocates
+- Natural transitions that acknowledge what the customer just said (not just plowing ahead)
+- Customer explicitly expresses satisfaction, comfort, or asks to book with this rep specifically
+
+**Flat/robotic indicators (push score down):**
+- Mechanical transitions — jumps topic to topic without acknowledging customer response
+- Scripted-sounding phrases repeated verbatim without variation
+- Misses obvious emotional cues (customer expresses worry, rep ignores it)
+- Barely any variation in language across the whole call
+- Customer seems disengaged, monosyllabic, or asks questions that suggest they weren't listening
+
+### Flag for audio review when:
+- Score is 1 or 2 (low warmth — want to verify it's actually flat voice, not just sparse transcript)
+- Score is 4 or 5 but customer seemed disengaged anyway (possible that transcript shows effort but audio tells a different story)
+- Any call where the transcript doesn't give enough signal (very short exchanges, customer dominated, transcript gaps)
+
+### Output fields to add to each graded call:
+```
+"phone_presence_score": 1-5,
+"phone_presence_label": "Outstanding|Engaging|Adequate|Flat|Disengaging",
+"phone_presence_notes": "One sentence — what drove the score",
+"audio_review_flag": true/false,
+"audio_review_reason": "Why flagged (or null)"
+```
+
+---
+
 ## Walkthrough Scheduler Mini-Rubric
 
 **STATUS: PENDING — needs Amanda + Cameron decision (Week 2)**
