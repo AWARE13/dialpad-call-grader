@@ -1,0 +1,810 @@
+{
+  "call_id": "5634080977526784",
+  "lines": [
+    {
+      "content": "Okay.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:19:29.278955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:19:29.278955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:19:29.278955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:19:29.278955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:19:29.278955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:19:29.278955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:19:29.278955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "Good morning this is Lucas with Einstein moving, how can I help you?",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:19:34.078955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Hi Lucas! My name is Kayla Gibson and I submitted an inquiry online for a quote for a move. I just wanted to talk to you guys a little bit more about some of the details because like, the information that I submit online makes it look like I'm moving from one really big house to another big house and like we're not moving everything. So I just wanted to talk to you a little bit about that and also see if you guys had any earlier availability given that.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:19:34.124250",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "call_purpose",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:19:34.124250",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "ner",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:19:35.073250",
+      "type": "moment"
+    },
+    {
+      "content": "ner",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:19:35.883955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "contact_name",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:19:36.353250",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "ner",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:19:36.353250",
+      "type": "moment"
+    },
+    {
+      "content": "ner",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:19:36.363955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:19:37.163955",
+      "type": "custom_moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "For sure. Let me see if I can find your profile. You said it's Kalee Gibson.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:20:09.478955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Yeah, Kayla.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:20:10.724250",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "ner",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:20:11.193250",
+      "type": "moment"
+    },
+    {
+      "content": "ner",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:20:12.923955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "ner",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:20:13.323955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "Gotcha. And this is for a south Austin location.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:20:17.278955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Mm-hmm.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:20:18.524250",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:20:20.923955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "We're moving from south to east, so like, 535 to like, east Austin.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:20:23.324250",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:20:25.078955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "ner",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:20:30.393250",
+      "type": "moment"
+    },
+    {
+      "content": "Gotcha. Okay.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:20:31.078955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "Gotcha. I didn't see it in our like lead inbox the what was the email you use or so I can find it a little bit easier.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:20:35.278955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "K-A-Y Gibson GI BSO N. 0506 @gmail.com.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:20:38.324250",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "pii",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:20:42.473250",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "email_address",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:20:43.593250",
+      "type": "moment"
+    },
+    {
+      "content": "Alrighty. Okay, sweet and.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:20:50.878955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "Alrighty. Okay. Yeah, so, yeah, it looks like you're moving from the 13004. Bloomington drive over to the 1130. I'm at and 2300. Down to a 1900 square foot home and you're saying like, it realistically, we shouldn't be expecting as much stuff as we would see from a full, like, a 2300. Square foot, correct?",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:21:02.878955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "ner",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:21:08.443955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Yes.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:21:08.924250",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Yeah, correct. We're not moving like any beds or anything crazy like that we're not moving a couch like yeah, it's like very pretty straightforward, we just, there's two items that like realistically we probably could move ourselves but we just don't wanna have to go like get a U-Haul most of it is like probably anywhere from like forty to fifty boxes just with like clothes and belongings and stuff like that. And then a dining table like a six person dining table and then the chairs to go with it. A treadmill which is like a little bit larger than like probably your average, like in-home. Tread now but it's been disassembled. Yeah, it's the Nordic track.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:21:20.924250",
+      "type": "transcript"
+    },
+    {
+      "content": "What is?",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:21:25.678955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "Do you know what brand it is?",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:22:09.478955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "question",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:22:09.478955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Oh, they are B. fee but we did disassemble it. So like it's all in three pieces. Like, well yeah! It's like the, we've taken the arm and piece off and then it's like separate from the walking pad. So it's a lot easier to move.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:22:11.924250",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Yeah, those guys get a little beefy.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:22:13.678955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "And then we have like a small like, a in like a mini fridge in the garage, six garage totes, and then there's a small and I mean, like a small two person love seat in the upstairs but and then like some kia shelves for organization, but that's pretty much it.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:22:29.324250",
+      "type": "transcript"
+    },
+    {
+      "content": "Gotcha, so.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:22:32.278955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "I just to make sure I didn't miss anything so far. What we got is den table with the six chairs, treadmill that will be taken apart. I mean, for some large garage totes I love seat. So my kia shells and you said no beds were going as well. Correct?",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:23:00.478955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "ner",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:23:10.603955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "No beds and no large sofa and no TVs.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:23:10.724250",
+      "type": "transcript"
+    },
+    {
+      "content": "Gotcha. Okay, and yeah, based on what you've kind of tell me, yeah, definitely not what we would typically expect in terms of you mentioned the love seat and the shelves are upstairs in terms of anything that's going back upstairs or, or some things we should take note of.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:23:19.678955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Just the love seat will go back upstairs and then a couple of the IKEA shelves but some of them will, they'll probably be an even split between upstairs and downstairs. So, yeah, but the treadmill is literally just gonna be in the garage and the dining table will be on the first level, so.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:23:31.724250",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:23:50.278955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "Gotcha. Okay. So yeah, definitely not what we typically see and definitely within our capabilities getting it done the day you submitted, I the reason why they kinda sent you no availability. What you're looking for the thirteenth which is a fully booked out day. Are you flexible within that day at all or are you kind of dead set on the thirteenth?",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:24:01.078955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Mm-hmm.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:24:15.524250",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:24:19.083955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Could we do Sunday the fourteenth?",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:24:19.124250",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "question",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:24:19.124250",
+      "type": "moment"
+    },
+    {
+      "content": "Let me Cech forward to that date.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:24:25.678955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "That day is fully booked as well. Let me double-check with our north Austin crew just in case they can have some openings on those days.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:24:29.878955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "ner",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:24:36.363955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Give me one second, I'm also gonna look at the calendar on my end.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:24:39.524250",
+      "type": "transcript"
+    },
+    {
+      "content": "Gotcha.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:24:47.278955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Okay, sorry, I'm back.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:25:11.924250",
+      "type": "transcript"
+    },
+    {
+      "content": "No, no worries. Yeah, I would say like based off what you're telling me I think this job take two movers like, four to five hours on the higher end. I mean that might be a little bit on the more conservative side. I do try to play it a little bit conservative when it comes to my estimate just to, you know, plan for the worst but expect the best kind of situation we do have an hour rate per mover of $107 per mover per hour and this does include everything we need for the move. So, trucks taxes insurances pads bands, wraps particular items and any tools if we do end up needing to assemble anything or reassemble anything all the tools for that as well. There's no way to any additional charges, it is just gonna be that flat hourly rate for the movers the whole time. And with that being said, we have a two and a half hour minimum we charge and then everything else after that two and a half hours gets billed in fifteen minute increments. So you only pay for we, for what you use on the day of.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:25:17.278955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "monologuing",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:25:17.803955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Mm-hmm.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:25:23.324250",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:25:26.683955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Yeah.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:25:32.924250",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:25:39.483955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Mm-hmm.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:25:46.724250",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:25:51.563955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Mm-hmm.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:25:52.724250",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:25:55.843955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Mm-hmm.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:26:00.524250",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:26:02.803955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "monologuing",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:26:05.123955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "So, if I end up saying, oh, this is gonna take five, I think it's gonna take five hours, but it takes to movers like four hours in like fifteen minutes or three hours and 45 minutes or something like that. You'll just pay for the time that they end up going on the day of.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:26:07.078955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "monologuing",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:26:11.483955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Sure.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:26:14.324250",
+      "type": "transcript"
+    },
+    {
+      "content": "And when it comes down to the thirteenth, I mean we have an afternoon slot, I could probably squeeze you on to.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:26:20.878955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "With that being said the afternoon slot would be that 12:30 to 230 window. We kind of give a window due to in case if we do end up showing like the first job finished a little bit early. If we can show up it was in that time we'll you know, give you a call. See if you start earlier and then the event that we do show up outside that window will instantly start discounted money off of that final bill. I'm not here to waste your time where to get and get the job done and get out your hair. But yeah, we'll instantly start discount money if we do end up showing up outside that 2:30 window.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:26:28.078955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "time",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:26:31.523955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "monologuing",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:26:33.083955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Mm-hmm.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:26:35.324250",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:26:40.843955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Mm-hmm.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:26:43.724250",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:26:49.083955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Mm-hmm did you have anything on the fourteenth?",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:26:52.124250",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:26:54.723955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "The Sunday the fourteenth, I believe was fully booked out. Let me double-check.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:26:59.278955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "And then last resort, what about Monday the fifteenth?",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:27:02.324250",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:27:07.243955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "Monday, the fifteenth.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:27:09.478955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "As well fully booked out. Yeah we have that one slot on the Saturday the thirteenth for the afternoon, for that five hours that we could squeeze you in on if that's okay with you. I know like the afternoon start times not always most optimal in terms of you know, getting things done. But we have that 12:30 to 230 window on that Saturday the thirteenth.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:27:13.678955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Yeah.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:27:17.924250",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:27:18.003955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:27:18.083955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "monologuing",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:27:22.403955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Yeah, let's go ahead and just book that.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:27:29.324250",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:27:29.683955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:27:34.083955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "Gotcha and just give you a heads-up there's no deposit required to get you on for this day. So there's no kind of like no risk and if we do need to change the date due to like anything that does come up or and whatnot, we always just change the date around as well. There's no additional fee for that.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:27:35.878955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Okay, cool.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:27:45.524250",
+      "type": "transcript"
+    },
+    {
+      "content": "But alrighty, I'll get you booked down for the thirteenth for that twelve they're due 2:30, sorry, thirteenth. I see fifteen sorry, it's already been a long morning. Get you booked for the thirteenth for that 12:30 to 230 window. And I get you a confirmation email sent over in just a minute, unless you have any other questions for me today.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:27:50.878955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:27:52.243955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Yeah.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:27:53.924250",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:27:54.923955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "time",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:28:01.323955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:28:03.003955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "No, I think that sounds great. Thank you, I appreciate it.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:28:04.124250",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "positive_sentiment",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:28:06.193250",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, well my name again is Lucas, if you have any questions please feel free to reach back out to us through the phone, through the email or you can shoot us a text and get you from there.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:28:10.678955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "ner",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:28:11.923955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "Okay, sounds good. Thanks so much. Have a good day. Bye.",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:28:14.324250",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICcz63B4QkM",
+      "content": "positive_sentiment",
+      "name": "Kayla Gibson",
+      "time": "2026-06-09T14:28:14.324250",
+      "type": "moment"
+    },
+    {
+      "content": "action_item",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:28:16.483955",
+      "type": "moment",
+      "user_id": "6549949337878528"
+    },
+    {
+      "content": "Thank you too. Bye.",
+      "name": "Lukas Konrad",
+      "time": "2026-06-09T14:28:20.878955",
+      "type": "transcript",
+      "user_id": "6549949337878528"
+    }
+  ]
+}

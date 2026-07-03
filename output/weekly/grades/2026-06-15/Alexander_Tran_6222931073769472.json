@@ -1,0 +1,105 @@
+{
+  "call_id": "6222931073769472",
+  "rep_name": "Alexander Tran",
+  "branch": "Houston",
+  "duration_min": 8.8,
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "total_score": 39,
+  "mastery": false,
+  "sections": {
+    "set_the_agenda": {
+      "score": 2,
+      "max": 7,
+      "missed": [
+        "wrong customer name used ('Francisco' instead of 'Francesca')",
+        "how are you today",
+        "check availability",
+        "agenda statement",
+        "sound good confirmation"
+      ]
+    },
+    "probe_for_info": {
+      "score": 7,
+      "max": 9,
+      "missed": [
+        "home size not discussed",
+        "moving stressors"
+      ]
+    },
+    "pricing_differentiators": {
+      "score": 6,
+      "max": 20,
+      "missed": [
+        "what's included (gas, truck, tools, insurance)",
+        "No Worries Damage Coverage by name",
+        "Meet Your Mover",
+        "On-Time Guarantee",
+        "no hidden fees pitch"
+      ]
+    },
+    "clock": {
+      "score": 1,
+      "max": 4,
+      "missed": [
+        "clock starts on-site",
+        "2.5 hour minimum",
+        "sense-check"
+      ]
+    },
+    "estimate": {
+      "score": 10,
+      "max": 13,
+      "missed": [
+        "number of movers not explicitly stated",
+        "typical time range framing"
+      ]
+    },
+    "save_your_ass": {
+      "score": 4,
+      "max": 10,
+      "missed": [
+        "consolidation examples (specific items)",
+        "take a carload tip",
+        "explicit prep = lower bill framing",
+        "dedicated sense-check"
+      ]
+    },
+    "quote_booking": {
+      "score": 3,
+      "max": 11,
+      "missed": [
+        "booking attempt not explicit",
+        "BOLDED list",
+        "reply with corrections",
+        "hours and contact"
+      ]
+    },
+    "politeness": {
+      "score": 1,
+      "max": 3,
+      "missed": [
+        "used wrong name (Francisco vs Francesca)",
+        "warm farewell (truncated)"
+      ]
+    },
+    "bonus": {
+      "score": 5,
+      "max": 8,
+      "missed": [
+        "Ecobox/Sparefoot",
+        "rapport/humor moment"
+      ]
+    }
+  },
+  "save_your_ass_hit": true,
+  "meet_your_mover_hit": false,
+  "on_time_guarantee_hit": false,
+  "email_handoff_hit": true,
+  "agenda_opener_hit": false,
+  "top_strength": "Outstanding estimate delivery \u2014 broke down all three cost variables (hourly, overnight fee, travel charge) with specific dollar amounts, gave conservative vs. best-case scenarios, and handled the specialty dining table situation expertly.",
+  "coaching_note": "Used the wrong customer name throughout the call and missed all three Einstein differentiators \u2014 the estimate was strong but without No Worries, Meet Your Mover, or On-Time Guarantee, this call built no brand loyalty.",
+  "phone_presence_score": 3,
+  "phone_presence_label": "Adequate",
+  "phone_presence_notes": "Alex was professional and knowledgeable but the wrong-name error at the top set a transactional tone, and Francesca's responses remained polite but minimal throughout."
+}

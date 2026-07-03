@@ -1,0 +1,796 @@
+{
+  "call_id": "5394606706204672",
+  "lines": [
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:22:37.572091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:22:37.572091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_trigger",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:22:37.572091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "This is Landon with Einstein Moving Company. How can I help you?",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:22:44.128091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:22:44.128091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:22:44.128091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:22:44.128091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:22:44.128091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:22:44.128091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:22:44.128091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:22:44.128091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:22:44.128091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ner",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:22:44.852091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ner",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:22:45.492091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:22:46.572091",
+      "type": "custom_moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Hi, Landon, this is Nicholas Rodrig and.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:22:48.910769",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "ner",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:22:49.324769",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "contact_name",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:22:50.244769",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "ner",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:22:50.244769",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Was calling, oh, I just wanted to confirm my movers. I know I called earlier about it to call or to confirm. But pretty much situation was I had called this another, maybe it wasn't this exact ein moving company or the franchise number maybe? With another one. I called them and I asked them like, hey, I sent him some information last night I replied to one of the emails trying to confirm I move. And they said that there's actually no more availability for next week Tuesday then this morning I had got a confirmation that it was there and I called earlier, they said it was all good and I'm really just double checking again cause I was kinda half paying attention earlier and I was out of work call. So I just really wanted to double-check that I am good to go. Because I honestly five minutes before I receive the.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:22:53.710769",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "call_purpose",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:22:53.710769",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:23:09.928091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:23:33.928091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "Yeah, you're good.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:23:36.928091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Confirmation email, I also called another movers and confirm something with them as well. So just trying to make sure I can make sure I cancel for anything with them and like but also, I need some movers on Tuesday of next week so like I, you know, I still need to be covered there, so.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:23:47.110769",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:23:50.728091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:23:53.728091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "Yeah, we've got you.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:23:56.728091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "Hey, I can get it. Yeah, no, I get it. We have you on the schedule here. It looks like you were talking to Zach, it looks like we my I work at the north Dallas branch but we're all, it's all like one company. We don't have like the, like franchise or anything. So we're able to like move jobs around if we need to if we have like availability in another branch. So it looks like we had a job canceled on Tuesday so Zach was able to get it moved over to our branch. So you're squared I have you set at 8:30 or like 8:30 AM to 9:00 AM arrival window on that Tuesday the sixteenth they're coming to 17910. At Kelly Boulevard in Dallas. And that's a 11 bedroom apartment on the second floor.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:24:00.328091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:24:00.328091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:24:00.328091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ner",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:24:06.612091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ner",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:24:08.652091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ner",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:24:19.492091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "time",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:24:23.812091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "time",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:24:24.932091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "address",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:24:31.652091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ner",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:24:32.572091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Yes, I mean, that sounds good, you said 8:30 to nine is when they arrive. Okay.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:24:37.510769",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "time",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:24:41.444769",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm that's the arrival window that they have for now. Yeah. Do you need a different time?",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:24:42.328091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:24:42.328091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:24:42.328091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "question",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:24:46.528091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Alright. Let me just make sure you by any chance, can I get it a little later?",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:24:47.110769",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, like what time like? Like.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:24:56.128091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Did I have like a few work meetings that I need to be on like remotely?",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:24:56.710769",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm I have a, I mean, I have an afternoon window. I have afternoon, start time the arrival window for the afternoon just a little wider cause they'll be doing a job in the morning but it'll be, it's 11:30 to 130. Would be the arrival window for that one or sorry 12:30 it's 12:30 to 230. That's my bad be, 12:30 to 230 for, for a second. Mm-hmm.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:25:00.928091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:25:00.928091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:25:00.928091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:25:05.572091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "time",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:25:10.852091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "time",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:25:15.212091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "time",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:25:16.052091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "time",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:25:17.852091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Oh, thirty to 2:30. You know what? Honestly, let me see me see, let me see. Sorry, I'm pulling my work schedule right now.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:25:18.310769",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "time",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:25:19.404769",
+      "type": "moment"
+    },
+    {
+      "content": "You're okay, dude, you're okay. No rush at all, man.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:25:28.528091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "12:30 to 230 yeah. That it does work. That actually works a lot better for me. I mean does it really, yeah, yeah in the morning I just have stuff work sadly.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:25:30.910769",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "time",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:25:30.910769",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, bye.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:25:39.328091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "That's fine. Yeah, no, it's cool. It's cool man. That's why I, that's why we that's why we ask these questions. We wanna make sure it's gonna work the best for you as well as the guys.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:25:44.128091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:25:50.572091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "3230 and then it'll still come with like the mattress bag that I know that I need, I don't think there's anything else like, or do you guys do like tarps or something for like, the couches and stuff or no, I don't know if there's like moving the wrongs.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:25:54.310769",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:25:59.728091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "Yeah, we pat and wrap everything. We, yeah, we pat and wrap everything with moving blankets and shrink wrap. So everything, all your items will be owed and wrapped and anything we need to disassemble and reassemble we do that as well. There's no like extra fees for it it's not just built into the right.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:26:07.528091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Okay.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:26:11.110769",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Okay, yeah, okay, yeah. That 12:30 to 230 does work a lot better for me if we're able to move it to there, I mean if not, I can make something work, work with work not the end of the world.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:26:18.910769",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "time",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:26:23.884769",
+      "type": "moment"
+    },
+    {
+      "content": "Perfect.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:26:26.128091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "Yeah, I've, no, I've got it, I've got it moved over on there now. So I have it set on that and then I'll send you a confirmation email just so you have it for your records.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:26:28.528091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:26:28.528091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:26:28.528091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "action_item",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:26:34.492091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:26:34.812091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:26:35.412091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Okay, alright, yeah, that's good to me. Is there anything else I should be aware of is it like another fee for it being, what's it called? Like travel distance fee. Is that also built inside, like, to my understanding is built into the rate. Okay bye. Yeah, it's really just a $200.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:26:38.710769",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "question",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:26:49.644769",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, no yeah, no. We will sometimes have travel fees whenever, yeah, whenever we're going like a certain distance we'll have travel fees, but you're, all of your like locations are within or fifteen mile rate like free travel radius, so there's no additional fees, there's no fees for like the credit card there's no fees for travel, there's no fee for like the truck, there's nothing like that, so it's literally just the $100 an hour per mover or the $200 overall and then the time just prorated in fifteen minute increments after that minimum time they got, discuss.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:26:54.928091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:26:54.928091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "currency",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:26:59.244769",
+      "type": "moment"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:27:07.932091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:27:08.092091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "currency",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:27:15.372091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "currency",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:27:17.452091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Okay. Yeah, I mean that makes sense. Is there, I'm sorry I'm blanking one more question.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:27:24.310769",
+      "type": "transcript"
+    },
+    {
+      "content": "You're fine, dude. The, you're good. You're asking all the right questions you need to make sure that you're squared and all this stuff moving is, a move a big deal.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:27:29.728091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:27:29.728091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:27:32.452091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Let's see. Yeah, I had the, so, okay, that's covered.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:27:35.110769",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "And then yeah, I guess it was that point if I forgot it but I think yeah, I mean it sounds pretty simple. I mean, I don't think it should be a terribly hard move either, she mattress bag.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:27:44.110769",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "negative_sentiment",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:27:44.110769",
+      "type": "moment"
+    },
+    {
+      "content": "No, it seems really easy, he has the inventory list here. I'm looking at couch recliner bed desk EV, entertainment center and then a smaller TV.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:27:57.928091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Oh, yeah, yeah.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:28:02.110769",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Recline will be a little hard I don't, yeah, I don't think the recliner comes apart which is makes it a little difficult but it's a little heavy too but I'm also not the strongest person, so.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:28:04.510769",
+      "type": "transcript"
+    },
+    {
+      "content": "That's alright.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:28:11.128091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "Yeah, yeah, they're getting paid to do it man. They're oh, you'll be, you'll be impressed by the guys when they show up.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:28:15.928091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Yes. Oh, my paying, so, paying like they'll have the iPad there and everything. You just tap the card. Okay that's good then.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:28:21.310769",
+      "type": "transcript"
+    },
+    {
+      "content": "Awesome.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:28:23.128091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:28:26.728091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "ner",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:28:27.684769",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, ApplePay you can use ApplePay you can use a card. We just don't accept cash or checks but anything else, yeah.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:28:29.728091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Okay, yeah, no, that sounds good to me. I mean I'm all good on questions. I don't think there's anything else on my end.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:28:35.110769",
+      "type": "transcript"
+    },
+    {
+      "content": "Perfect man. Well if anything else comes up Nicholas just give us a call. We'll be here.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:28:41.728091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:28:41.728091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ner",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:28:43.612091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Alright, appreciate it. Thank you.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:28:45.910769",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "positive_sentiment",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:28:46.644769",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "support_issue_resolved",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:28:46.644769",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, of course man. I'll send that confirmation email over now.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:28:47.728091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:28:49.452091",
+      "type": "moment",
+      "user_id": "4826542193295360"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09ZuPvAkM",
+      "content": "Alright, thank you. Bye.",
+      "name": "Rodriguez Nicho",
+      "time": "2026-06-11T18:28:51.310769",
+      "type": "transcript"
+    },
+    {
+      "content": "Alrighty, alrighty.",
+      "name": "Landon Vaughan",
+      "time": "2026-06-11T18:28:52.528091",
+      "type": "transcript",
+      "user_id": "4826542193295360"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "call_id": "6207780305051648",
+  "rep_name": "Roselyn Pammit",
+  "branch": "North Austin",
+  "duration_min": 17.0,
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "total_score": 54,
+  "mastery": false,
+  "sections": {
+    "set_the_agenda": {
+      "score": 3,
+      "max": 7,
+      "missed": [
+        "how are you today",
+        "check availability for move date",
+        "agenda statement",
+        "sound good confirmation"
+      ]
+    },
+    "probe_for_info": {
+      "score": 8,
+      "max": 9,
+      "missed": [
+        "moving stressors"
+      ]
+    },
+    "pricing_differentiators": {
+      "score": 18,
+      "max": 20,
+      "missed": [
+        "complete Meet Your Mover explanation (called it 'meter for feature')",
+        "trip fee N/A auto-granted"
+      ]
+    },
+    "clock": {
+      "score": 4,
+      "max": 4,
+      "missed": []
+    },
+    "estimate": {
+      "score": 9,
+      "max": 13,
+      "missed": [
+        "truck size concern not fully resolved",
+        "walk distance not quantified",
+        "assembly/disassembly detail thin"
+      ]
+    },
+    "save_your_ass": {
+      "score": 5,
+      "max": 10,
+      "missed": [
+        "consolidation examples (toys, garden tools, drawer items)",
+        "take a carload tip",
+        "dedicated sense-check close"
+      ]
+    },
+    "quote_booking": {
+      "score": 3,
+      "max": 11,
+      "missed": [
+        "booking attempt not visible (truncated)",
+        "BOLDED list",
+        "reply with corrections",
+        "hours and contact"
+      ]
+    },
+    "politeness": {
+      "score": 1,
+      "max": 3,
+      "missed": [
+        "customer name used 3+ times",
+        "warm farewell (truncated)"
+      ]
+    },
+    "bonus": {
+      "score": 3,
+      "max": 8,
+      "missed": [
+        "rapport/humor",
+        "budget framing",
+        "Ecobox/Sparefoot"
+      ]
+    }
+  },
+  "save_your_ass_hit": true,
+  "meet_your_mover_hit": true,
+  "on_time_guarantee_hit": true,
+  "email_handoff_hit": false,
+  "agenda_opener_hit": false,
+  "top_strength": "Delivered all three Einstein differentiators, the no-hidden-fees pitch, and the clock explanation with a clean sense-check \u2014 strongest pricing section in the batch.",
+  "coaching_note": "Never asked the customer's availability or attempted to book, and the transcript truncation reveals a growing truck-size objection that was not effectively addressed \u2014 missing the close is the single biggest revenue leak.",
+  "phone_presence_score": 3,
+  "phone_presence_label": "Adequate",
+  "phone_presence_notes": "Roselyn was polite and thorough but the call felt scripted; she didn't use Tracy's name naturally and stumbled on the phone connection without acknowledging Tracy's frustration."
+}

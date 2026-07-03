@@ -1,0 +1,747 @@
+{
+  "call_id": "5921513678249984",
+  "lines": [
+    {
+      "content": "This is just with Einstein Moving Company. How can I help you?",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:22:04.672918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:22:04.672918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:22:04.672918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:22:04.672918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:22:04.672918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:22:04.672918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:22:04.672918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:22:04.672918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "ner",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:22:05.636918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:22:06.836918",
+      "type": "custom_moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "Hey, Justin. Can I get a quote and or see if you're even available for the morning of July 12th?",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:22:08.354162",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "call_purpose",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:22:08.354162",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "ner",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:22:08.786162",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "question",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:22:09.146162",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "date",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:22:13.706162",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, absolutely. Let me pull up my calendar to see what that day is looking like. So I'll start there see if that's even a, gonna work for you. And while my calendar is loading, just so I have a rough idea of what I'm looking for, let me grab a few details here, what kind of residents are you moving from?",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:22:16.072918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "Okay.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:22:21.554162",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:22:32.996918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "My daughter's moving from her apartment to a condo.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:22:35.954162",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Gotcha. And do you know the zip code? She's moving from and moving to.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:22:42.472918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "question",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:22:45.316918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "The zip cause you're moving from is 78757 and the zip code she's moving to is in Fluger Hille but I don't have that zip code on me.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:22:49.154162",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "postcode",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:22:50.826162",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. That's fine. I think I actually have that one memorized I believe it's 78660 let me plug that in. Yup, yeah.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:22:58.072918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "That sounds, that sounds right. Yeah, I knew something odd like that.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:23:05.354162",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Gotcha. Gotcha. Okay, cool. And your payment for the twelfth. Oh, and her current apartments. How many bedrooms in there?",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:23:08.872918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "It's a one bedroom, two to apartment on the bottom floor to a two bedroom condo and obviously it's on the bottom floor as well.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:23:19.154162",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:23:21.472918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Gotcha. Gotcha. Okay.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:23:31.072918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Cool! Let me see what the twelfth is looking like.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:23:34.072918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "That is, what's that? That's a Sunday.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:23:38.272918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Okay, so we do have availability on that day the morning. Unfortunately it's already booked out though. So the earliest appointment we have would be us starting rough roughly about mid-day. Between 12:00 and two. Does something like that work for you or does it got to be in the morning?",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:23:46.072918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "time",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:23:59.676918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "It doesn't have to be, I I mean, think it should work. Yeah, let's get a, let's get a quote first and see if that's I mean, obviously if we get a good quote we'll wait.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:24:05.354162",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:24:07.672918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Yeah, let's do it.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:24:14.272918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Cool, yeah, let's talk about it a bit more here and I can break it all down for you. My name is Jess but who am I speaking with?",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:24:19.072918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "ner",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:24:24.756918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "question",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:24:25.436918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "My name is Hank.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:24:26.354162",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "contact_name",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:24:27.146162",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "ner",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:24:27.146162",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, hang great to meet you here. Yeah, let's keep going talking about it I guess let's start with the apartment your daughter's moving from, which you've already given me a lot of the info there. So, one bedroom, apartment on the ground level, are there any additional rooms or spaces being moved like, maybe a source closet, garage, anything like that?",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:24:29.272918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "question",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:24:44.316918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "No, not at all, it's one Bero apartment, pretty easy access. It's 6801 Burnett road in Austin.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:24:50.954162",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "ner",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:24:59.706162",
+      "type": "moment"
+    },
+    {
+      "content": "Gotcha. Gotcha. Okay.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:25:02.272918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Do you know if she has any kind of, we'll call like specialty items, anything like large appliances or antiques, or anything super heavy like maybe a piano or what kind of equipment, or something added the ordinary.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:25:07.672918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "Oh, no. Yeah, no she's got your basic you know, young, early twenties girl stuff. Nothing big. Kind of a small couch I think maybe two TVs but one, she'll probably move herself, cause it's small and the one in the living room and then you know, couch and a, you know, a, the dining tables, like a three or four person Di any title that comes apart to it. Not that big of a deal. Mainly a bunch of boxes that she's packing up, that she will have already packed and sealed bedroom, stuff, bathroom, stuff, kitchen stuff. I mean, nothing over nothing out of the ordinary, no pianos, nothing's no antiques.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:25:17.954162",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, gotcha.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:25:28.072918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:25:46.672918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Yup.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:25:52.672918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:26:02.272918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Gotcha, gotcha. Okay. And usually for a, a residence the size in terms of boxes, we, on average, we see about twenty years. So do you think you'll have like, something around there? Any maybe more, maybe less.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:26:05.272918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "question",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:26:15.996918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "Yeah, maybe, I mean, if so, it'll probably be or close but I think she's gonna move that herself, cause she's real particular about that. But yeah, I would say maybe 1520 boxes. Yeah, that sounds about right.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:26:17.954162",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:26:24.472918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:26:26.872918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Cool, cool. Okay, yeah, then let's move on. Let's talk a bit about the condo she's moving to on, on the outside at the condo, in terms of like the truck access and parking roughly how close can we get parks there.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:26:31.672918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "Right in front of the, right in front of the property. There's ones like, when you pull up in front of the property, there is one sidewalk that goes from the, from the road to the front door, and that's probably, roughly about thirty, about forty feet maybe, and it's just an open yard with one I want to call it sidewalk, but it's like a sidewalk from the road to, directly straight to the front door.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:26:45.554162",
+      "type": "transcript"
+    },
+    {
+      "content": "Nice.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:26:58.072918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:27:07.672918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Very cool, okay. Sounds pretty much as easy and straightforward as it gets. That's awesome I believe those are pretty much all my questions. Actually let me see if I have any others, I guess my last question for now, do you have any specific concerns or stressors about the moving process in general I can address for you.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:27:13.072918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "Well, yeah, I guess what, I don't know, it's concern's more of a question now, if there's something that needs to be broken down like, her bed or the dresser drawers coming out, will your guys put that back together for her?",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:27:34.754162",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:27:48.076918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Yes, absolutely. So, we arrive with a fully socked bag of tools if needed. And yeah any kind of disassemble reassembly that's done. We can help out with that. And then we take apart, we will put that together for and, you know, put it in the room that it belongs in. Make sure it's all set up.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:27:48.472918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "Mm-hmm.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:27:52.754162",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "Okay.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:28:00.554162",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "Okay. Well that sounds. Yeah, that's basically yeah, other than, I guess you guys are all insured and, and whatever else. I don't know, background check, all that normal stuff.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:28:03.554162",
+      "type": "transcript"
+    },
+    {
+      "content": "Absolutely, yeah, I'm fully insured our guys, they go through a, a very thorough screening before they even offer the position. They have two different what's it called, interviews, a couple of trial is in the field, a background check. So yes. All that guys are very highly vetted and honestly they're really good at what they do. And beyond that they're just really great guys. They're pleasant to be around which, which counts for Len, sure.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:28:15.472918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "Alright.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:28:31.754162",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "All good, all good, I'm just asking. All good. Yeah.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:28:38.954162",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, then I'm ready to get into my estimate for you here. Hank don't worry about taking any notes, I memorize anything cause I'll follow up with an email when we're done speaking here. What's a good email address to send that to?",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:28:44.872918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "ner",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:28:46.956918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "action_item",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:28:50.076918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "issue_unresolved",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:28:50.076918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "Okay.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:28:51.554162",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "H, can two that's I'll spell it out. HCA. NTU 1221 @gmail.com.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:28:55.154162",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "pii",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:29:01.754162",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "email_address",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:29:04.754162",
+      "type": "moment"
+    },
+    {
+      "content": "Perfect. Okay.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:29:08.872918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Yeah, the pricing with us here it's very simple. A move the size we'd send you a two main team that's our smallest crew size I think that's all you'll need from us and for a crew that size on that day the 12th of July we charge $210 per hour that gets you everything that is needed zero additional fees on top of that. So everything already mentioned like the dog and hand truck storing for protection tools. All that will have with us the clock starts when we're on site and get going they'll have us for however long as needed. We have a two and a half hour minimum and once that is exceeded the move is prorated in fifteen minute increments until it's all set and done that way you're only paying for, for the time actually needed. That being said about the minimum. I don't actually think you're going to be very far away from it honestly a typical one bedroom apartment usually takes two and a half to three and a half hours to move everything being like on the ground level a.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:29:10.672918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:29:11.116918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "date",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:29:24.196918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "currency",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:29:27.076918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:29:48.436918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Access pretty close parking that in my mind pushes a closer to lower into that range. The only thing that brings up some of that time is the drive looks like about a 25 to thirty minute drive. So, overall, I think if we gave us about three hours that probably would be sufficient to completed let's say we hit exactly three hours that comes out to a total of $630 all in that's not binding though. If we only use the two and a half or two and three quarters or whatever it actually turns out to be that is all that you're charged for. But yeah, those are my thoughts with everything here. Any thoughts on your end. Any questions you have for me?",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:30:11.272918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "currency",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:30:33.196918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:30:33.436918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "Okay.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:30:43.154162",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "No, you've been pretty thorough. So like I said I'm calling for my daughter cause that's you know, who was there and I, and I'm, I think it sounds great if it's up to me, I would just say that. Yeah, let's, let's lock it in but I'm gonna shoot her, I'll actually call her and let her know what you told me. And then what's your name again? You told me your name a second ago.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:30:47.954162",
+      "type": "transcript"
+    },
+    {
+      "content": "For.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:30:56.872918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "question",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:31:06.986162",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:31:07.672918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Yeah, it's fine. My name is Jesa and it'll be, it'll be at the bottom of the email that I'm gonna send you as well.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:31:10.672918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "ner",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:31:12.356918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "Alright, Jesa what I'll do is, I'll either respond to your email or call you back, one of the two and I'm feeling pretty good about it cause I want to get it locked in A SAP, so I'm gonna call her right now. Hopefully she answers and then I'll call you back and get back with you. How long are you there till today?",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:31:16.154162",
+      "type": "transcript"
+    },
+    {
+      "content": "Sure.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:31:22.672918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "action_item",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:31:27.946162",
+      "type": "moment"
+    },
+    {
+      "content": "I myself will be here until about 4:00 or so we have managers in until, okay, awesome then. Yeah, all good, we're good to go we'll just wait for your callback. Alrighty, take care, bye-bye.",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:31:35.272918",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "Oh, yeah. I'll call you back later for then.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:31:37.754162",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Jespah Lara",
+      "time": "2026-07-02T17:31:38.316918",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "action_item",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:31:38.786162",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "Alright.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:31:41.954162",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "Alright, I'll call you back. Alright, thanks, bye.",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:31:44.954162",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC89pPu4gsM",
+      "content": "action_item",
+      "name": "Hank Cantu",
+      "time": "2026-07-02T17:31:45.746162",
+      "type": "moment"
+    }
+  ]
+}

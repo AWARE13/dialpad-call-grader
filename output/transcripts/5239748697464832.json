@@ -1,0 +1,978 @@
+{
+  "call_id": "5857611693105152",
+  "lines": [
+    {
+      "content": "Hey, this is Joe with lin son moving. How can I help?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:54:13.579864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:54:13.579864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:54:13.579864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:54:13.579864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:54:13.579864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:54:13.579864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ner",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:54:14.789864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ner",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:54:15.709864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:54:17.179864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Hi, I was, I'm sorry.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:54:17.946714",
+      "type": "transcript"
+    },
+    {
+      "content": "How can I help?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:54:21.379864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:54:21.379864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "What did you? Oh, thanks. So I was filling out the online estimate and it said that because my home is larger than 2400 square feet which requires a custom estimate and involves a location outside of your service area. It requires another custom estimate but I'm moving from circle C ranch to Flueger I thought that was inside of your zone is that not.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:54:22.146714",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "question",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:54:22.146714",
+      "type": "moment"
+    },
+    {
+      "content": "Alright.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:54:36.379864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "Sorry, you cut out for a period of time but what's your name?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:54:46.579864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Oh, sorry. My name is Amanda Santa.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:54:50.946714",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:54:50.989864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "contact_name",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:54:53.410714",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "ner",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:54:53.410714",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, I think I, I'm thinking not, not sure if this is actually correct but I think you're, you live in south Austin area and then you're moving to the north Austin branch. So like in that south area we don't have a travel charge for the first location. But in order to kind of get in that northwest side of, or northeast side of Austin Fluker ville, it's like, I think $75 trial charge to get back.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:54:54.979864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ner",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:55:02.509864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Mm-hmm.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:55:04.146714",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:55:05.349864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Yeah.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:55:07.146714",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:55:15.749864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "currency",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:55:17.869864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Okay.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:55:20.946714",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes ma'am. You said it Amanda, Santa.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:55:22.579864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "That's kind of on the last place. Yeah. Santa, but you can say Santa that's fine. Travel. Okay, can you tell me what the estimate would be for the rest or do you want me to just wait until, at least now I know that will be covered. So should I just wait until they email me?",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:55:24.546714",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:55:25.229864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "ner",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:55:27.610714",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:55:28.579864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "ner",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:55:28.890714",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "question",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:55:33.250714",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, I have your mover profile pulled up here give me one second.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:55:39.979864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Okay.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:55:46.146714",
+      "type": "transcript"
+    },
+    {
+      "content": "Are moving the entire house for you?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:55:49.579864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Yes.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:55:53.346714",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. How many bedrooms are there?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:55:54.379864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "There's three bedrooms and an office. And I wasn't sure if that counts as a a bedroom. So, I didn't know.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:55:57.546714",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And then do you have any additional rooms, or areas that need to be moved like garage items, maybe some patio furniture or shut in the backyard?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:56:03.979864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:56:05.389864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Yes, yup, garage. Three car garage. It's a two car and that has an extra space. So there's like bicycles and all kinds of stuff out there and then there's patio furniture outside.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:56:10.146714",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. What do we have in the garage that needs to be moved?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:56:25.579864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:56:26.109864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Oh, and the two large oh, two large garden boxes as well in the garage. A lot of totes two, like big steel shelf systems. I'm sure they'll be taken apart though.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:56:26.346714",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "There's a, oh, I have a step mill, a big one. Like a gym step mill.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:56:43.746714",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:56:50.179864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "A decorative stuff. Lots of tools.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:56:53.346714",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "I think that's it. Extra suit cases. Okay.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:56:58.146714",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Cool, and then the patio we got the two large garden boxes. Anything else back there?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:56:59.779864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Yeah, there's a rug and there'll be two large drugs. So, that rug outside and then there's patio furniture two couches, and then there's a like a fire pit thing standing. It's a gas one.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:57:06.546714",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and in terms of your furniture, anything sup, anything super heavy there like a safe pan or a pol table.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:57:21.979864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "It's not super heavy. I'm sorry, go ahead.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:57:23.946714",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "No, I have like these fireplaces, they're like a shell of a fireplace. They have their heaters, I have two of those. They're quite large but they're not extremely heavy, they're not anywhere near $6.600 but they are big.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:57:29.946714",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:57:31.579864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:57:38.779864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "currency",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:57:42.490714",
+      "type": "moment"
+    },
+    {
+      "content": "Anything made at, anything. Made out a glass.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:57:44.179864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Yes I have several mirrors but we can probably move those in one of the vehicles that were the truck probably on our own but yes, there's. Let me see 12344 large mirrors.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:57:49.146714",
+      "type": "transcript"
+    },
+    {
+      "content": "Anything else that kind of stands out being breakable there in terms of the furniture.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:58:09.379864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "No, we have three desks. So, I'm sorry.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:58:15.546714",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Any of?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:58:17.179864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "That are made out of glass.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:58:20.179864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "No, just heavy, it's just a big desk. I guess it'd be taking apart, they wouldn't be heavy.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:58:22.146714",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, any appliances Washer/Dryer fridge?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:58:26.779864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Yes, fridge and Washer/Dryer oh, I'm sorry it gas, I believe.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:58:30.546714",
+      "type": "transcript"
+    },
+    {
+      "content": "That a gas or electric dryer.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:58:33.379864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "Yeah, we can.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:58:41.179864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "There's more fridges there's two very large fridges in the garage as well but one's the fridge and one's a freezer, they look the same but they're big.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:58:41.946714",
+      "type": "transcript"
+    },
+    {
+      "content": "But.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:58:46.579864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "Okay, the three fridges. Total or, or just two fridges. And a freezer.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:58:51.379864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Yeah, 32 fridges and a freezer but they look this one mm-hmm.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:58:56.346714",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and then the gas dryer.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:58:59.779864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "The gas dryer we're more than happy to move it. We just can't disconnect the gas line for you, is that okay?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:59:03.379864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Yeah, that's fine.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:59:09.546714",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and let's see.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:59:10.579864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "Do you have any workout equipment outside of the step? Any antique furniture, large book collections.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:59:15.979864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:59:15.979864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Yes.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:59:20.346714",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "No antique furniture but I do have three Olympic bars one of them is a back grip bar. I have a trap bar for dead lift. Each of those ways 45 pumps, and then I have some weights. Most of them are bumper plates.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:59:23.946714",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:59:43.579864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "Got it and then.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:59:46.579864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "But not, not very much.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T18:59:47.946714",
+      "type": "transcript"
+    },
+    {
+      "content": "Cool and in terms of boxes we typically see a 140 to a 180 boxes. Do you think that sounds about right?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:59:53.179864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T18:59:58.949864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Yeah, probably I have no idea. I've started boxing things up but I don't know how many they're going to be. I can't imagine it being more than a 180.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:00:02.346714",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And you're going to do all the packing yourself.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:00:12.979864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Yup.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:00:16.146714",
+      "type": "transcript"
+    },
+    {
+      "content": "Any additional stops or just straight to a new location?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:00:17.779864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Straight there.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:00:21.546714",
+      "type": "transcript"
+    },
+    {
+      "content": "Cool, and we're going to 19712 lucky outline outlaw lane. That's in Fluger. Hille, it's a two story home about 2900 square feet, is that correct?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:00:26.179864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "phone_number",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:00:34.989864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:00:36.229864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Yes.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:00:37.746714",
+      "type": "transcript"
+    },
+    {
+      "content": "And then any special considerations there at the new home, anything you want the movers to be aware about?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:00:42.979864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "No, I think I want the fireplaces upstairs of one of them needs to go upstairs one might be going in the primary but I'm not exactly sure so one of the fireplaces would have to be moved upstairs but it's, again, it's like, just like a wood shell with a heater inside of it. So it's not massive but it's big looking, it's not heavy but it's big, that makes sense.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:00:49.746714",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, sounds good. Cool. Well, that's pretty much everything that I needed to go ahead and give you a good ballpark figure there for the move more than likely we would still need to get a virtual walkthrough completed where we pretty much get eyes on everything and can give you a quote based off that. But let me read to you what I got so far. Again pricing pretty simple we charge a flat hourly rate.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:01:15.379864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Okay.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:01:24.546714",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:01:31.949864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Okay.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:01:32.346714",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Okay.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:01:41.946714",
+      "type": "transcript"
+    },
+    {
+      "content": "$103 per mover per hour right now I'm estimating a $6.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:01:42.979864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "currency",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:01:42.979864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "I'm sorry hold on one second. You cut out, cut out. What did you say?",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:01:46.146714",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:01:47.989864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "Yeah, it's $103 an hour per person.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:01:49.579864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "question",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:01:50.250714",
+      "type": "moment"
+    },
+    {
+      "content": "currency",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:01:51.749864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Mm-hmm.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:01:54.546714",
+      "type": "transcript"
+    },
+    {
+      "content": "Right now I'm estimating a six man crew for your move. So it'd be $618 an hour. Everything that's included in your hourly rate, the gas taxes, insurance. Our truck, all the moving blankets, shrink wrap bands, everything that's needed to protect your furniture and the home, also, all the tools for any assembly reassembly that might be needed. The only thing additional that we would have is a $75 travel charge to get our truck back from, there's no additional fees outside of that. Sorry, I think we might need to do.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:01:56.179864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "currency",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:01:59.589864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Mm-hmm.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:02:13.746714",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:02:20.469864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Wait, so it'd be seventy. I'm sorry it'd be 75 on the way there, and then 75 on the way back.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:02:30.546714",
+      "type": "transcript"
+    },
+    {
+      "content": "The 75 to get her truck back, that's it.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:02:38.179864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Oh, okay. Just the one time travel fee. Okay.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:02:40.746714",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, per truck. And right now I mess three trucks.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:02:44.179864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "How many trucks?",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:02:46.746714",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:02:47.869864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Three, oh.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:02:50.346714",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes ma'am.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:02:51.979864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "Yeah, everything else is already included the gas taxes, insurance trucks. Moving blanket shrink wrap bands all the tools for any assembly disassemble right now. Typically a 2500 it usually takes five movers, two trucks, seven to eight hours. Sometimes we add a six man and add that third truck. That kind of what I have added right now just because it sounds like we're going to have.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:02:54.979864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "Sounds like we're going to have like a lot of stuff there in the garage as well. Patio furniture maybe some items that necessarily can't be stacked up. So right now let's just save. It took about six and a half to seven and a half hours with that six man crew we're looking at an estimated total around $42 to about $4,800.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:03:27.379864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "currency",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:03:45.349864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "currency",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:03:47.069864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Okay.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:03:49.146714",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, ma'am. I was gonna say I'm not sure if you have it, okay, okay. I was gonna say I'm not sure if you have any flexibility right now, we're completely booked on the fifteenth, we would probably have to shoot for the fourteenth the day before.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:03:53.179864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Okay, thank you.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:03:53.946714",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Oh, no-go ahead.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:03:57.546714",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "I can't, it's I'm buying the house so I'm closing on the fifteenth so it'd have to be the sixteenth which was what I put in the thing, but that is helpful to know that you're not available on the on the either of the dates.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:04:08.346714",
+      "type": "transcript"
+    },
+    {
+      "content": "Maybe our north Austin branch.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:04:20.779864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ner",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:04:21.749864",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "Okay. Sounds good. Did you have any other questions there regarding our pricing?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:04:26.779864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Nope, I'm just getting quotes so I really appreciate you taking the time.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:04:31.146714",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "positive_sentiment",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:04:31.146714",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, sounds good ma'am. Thank you. Alright, bye-bye.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-03T19:04:34.579864",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM_qCnnAgM",
+      "content": "Mm-hmm, bye-bye.",
+      "name": "(737) 230-0401",
+      "time": "2026-07-03T19:04:37.746714",
+      "type": "transcript"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "call_id": "6745286125625344",
+  "rep_name": "Dustin Street",
+  "branch": "Leander",
+  "duration_min": 11.2,
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "total_score": 31,
+  "mastery": false,
+  "sections": {
+    "set_the_agenda": {
+      "score": 3,
+      "max": 7,
+      "missed": [
+        "how are you today",
+        "agenda statement",
+        "sound good confirmation"
+      ]
+    },
+    "probe_for_info": {
+      "score": 6,
+      "max": 9,
+      "missed": [
+        "stairs/floors not asked",
+        "box count not asked",
+        "moving stressors"
+      ]
+    },
+    "pricing_differentiators": {
+      "score": 4,
+      "max": 20,
+      "missed": [
+        "what's included (gas, truck, insurance, tools)",
+        "disassembly included",
+        "No Worries Damage Coverage",
+        "Meet Your Mover",
+        "On-Time Guarantee",
+        "no hidden fees pitch"
+      ]
+    },
+    "clock": {
+      "score": 3,
+      "max": 4,
+      "missed": [
+        "sense-check ('does that make sense?')"
+      ]
+    },
+    "estimate": {
+      "score": 8,
+      "max": 13,
+      "missed": [
+        "drive time/shuttle time variable",
+        "walk distance variable"
+      ]
+    },
+    "save_your_ass": {
+      "score": 0,
+      "max": 10,
+      "missed": [
+        "prep = shorter move = lower bill",
+        "consolidation examples",
+        "take a carload tip",
+        "sense-check"
+      ]
+    },
+    "quote_booking": {
+      "score": 3,
+      "max": 11,
+      "missed": [
+        "attempt to book today",
+        "BOLDED list",
+        "reply with corrections",
+        "hours and contact"
+      ]
+    },
+    "politeness": {
+      "score": 1,
+      "max": 3,
+      "missed": [
+        "used customer name 3+ times (used 'ma'am' throughout, never 'Laurie')",
+        "warm farewell (truncated)"
+      ]
+    },
+    "bonus": {
+      "score": 3,
+      "max": 8,
+      "missed": [
+        "insurance explanation",
+        "proactive FAQs",
+        "budget framing"
+      ]
+    }
+  },
+  "save_your_ass_hit": false,
+  "meet_your_mover_hit": false,
+  "on_time_guarantee_hit": false,
+  "email_handoff_hit": true,
+  "agenda_opener_hit": false,
+  "top_strength": "Delivered a clear, well-organized estimate with high/low range and explained clock mechanics cleanly, and built genuine rapport with a fun moment about the customer's email pattern.",
+  "coaching_note": "Skipped all three Einstein differentiators and Save Your Ass entirely \u2014 the customer received no reason to choose Einstein over a cheaper competitor and got no coaching on prep before move day.",
+  "phone_presence_score": 4,
+  "phone_presence_label": "Engaging",
+  "phone_presence_notes": "Dustin was warm and conversational throughout, built natural rapport with the email name story, and the customer responded positively \u2014 genuine human connection despite missing key sales content."
+}

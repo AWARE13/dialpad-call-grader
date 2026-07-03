@@ -1,0 +1,488 @@
+{
+  "call_id": "6343776703160320",
+  "lines": [
+    {
+      "content": "This is Teresa. How can I help?",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:13:14.375199",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:13:14.375199",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:13:14.375199",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:13:14.375199",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:13:14.375199",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:13:14.375199",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:13:14.375199",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "ner",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:13:15.020199",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "question",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:13:15.820199",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "Hello.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:13:20.975199",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "So sorry Teresa. I just took a big bite of something. I'm so sorry.",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:13:23.395813",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "ner",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:13:24.471813",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, that's okay sir. That's.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:13:26.975199",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "Hi! I had filled in a like a form online and sent an email and then I got a call and just ask for a call back, like, ten minutes later and then I just called back in ten minutes instead of waiting.",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:13:30.595813",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "call_purpose",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:13:30.595813",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, okay gotcha. Let me just go ahead and.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:13:46.175199",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "And let me just check on the call that was made. Let me see here.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:13:55.775199",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "Okay. Yes, let me go ahead and transfer you over to Arden, so that we can take your details. Kindly stay on the line for me sir, okay? Thank you.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:14:24.575199",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "ner",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:14:31.420199",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "Awesome, thank you.",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:14:35.995813",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you for waiting sir. I do apologize for that long wait, partially another call came in but I can take your details here. I understand that you are looking to move on the 15th of June which falls on a Monday this Monday. Is that correct?",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:16:58.444271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "date",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:17:12.083271",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "Yes, mm-hmm.",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:17:17.325927",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, and let me see.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:17:20.044271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "So the starting address is, 36311 South First Street and this is a, an 800 square foot one bedroom apartment. Do you have additional spaces that we need to move, move to you like items from a garage or storage closet maybe?",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:17:24.844271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "address",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:17:26.763271",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "Mm-hmm.",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:17:34.125927",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:17:35.044271",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "No, maybe, maybe like a tiny little like patio table that's like the size of like a bed stand but, or a night table but really like a light one like, it's like glass and thin metal.",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:17:48.525927",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Alright, and will the elevator be reserved for the move, sir?",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:18:06.244271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "Yes.",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:18:14.925927",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, perfect. And then.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:18:17.644271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "So, is there a loading dock at this location?",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:18:23.044271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "question",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:18:24.083271",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "That's a good question. I need to ask both for where I'm moving and where I'm living at currently kind of the procedure there but I mean, I'd assume, so we're moving from like a larger like, apartment complex here on First Street and going to, like, high-rise downtown. So I just earn rainy. But like, I'd assume, I assume they do.",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:18:28.725927",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "call_purpose",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:18:28.725927",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "address",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:18:46.660927",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:18:47.644271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:18:52.444271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "Okay, perfect. Alright, and for the walk distance, okay, well, we can, you know where we can park the truck at the current location sir. And then what is that block distance from where we can park the truck to the elevator.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:19:00.244271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "Like there's a, oh, it's from the elevator. Okay, cause it just said the entrance online, so you can park like, there's a a parking lot right next to the building. We do have to go like into the building, I'd say if it's to the elevator that's a solid fifty to a hundred feet, like 75. Let's say.",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:19:19.725927",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:19:33.844271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:19:39.244271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:19:44.644271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "And then once we get to the fourth floor, is your apartment right there, or is there a walk involved there as well?",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:19:47.044271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "question",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:19:48.923271",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "I'd say, like a forty foot walk from the elevator to the door of my apartment.",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:19:53.925927",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, perfect. Alright, do you have any special considerations in terms of the furniture items that will be moving any anti ques airlines workout equipment or a safe maybe?",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:20:02.044271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "question",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:20:04.843271",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "Nope, just the items that I sent it an email to, to the. Yeah, the email that you had like recommended me to email after sending in that form and just listed out a few things that I needed moved it's nothing just the t.v.'s I guess but we're getting covers for those.",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:20:17.325927",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, okay.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:20:22.444271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "Oh, yes.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:20:30.844271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "Okay, let me pull up the email here. Here we go. Yes. With an energy center. Alright.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:20:39.844271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "Are removing boxes for you as well sir?",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:20:50.044271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "No, I don't think so. I don't think there will be a box that can hold anything there cause they're all pretty bigger items.",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:20:53.925927",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, but for the small miscellaneous items, you're going to be moving that yourself or are we moving that for you as well?",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:21:02.044271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "Oh, no. We'll be moving that ourselves, I think.",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:21:08.925927",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, gotcha. Alright.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:21:12.244271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "And so we're moving everything to 603.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:21:26.644271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "Davis Street, Street, this is a one bedroom condo on the thirteenth floor with the elevator access.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:21:32.644271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "address",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:21:32.644271",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "ner",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:21:32.644271",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "And you put a distance of fifty feet here, sir.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:21:46.444271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "Is that, is that correct or who you have to check?",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:21:52.444271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "question",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:21:52.444271",
+      "type": "moment",
+      "user_id": "5891803114012672"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "I know that there's, like a parking garage that's pretty, that's, that like, I'd assume is where you'd park. I honestly don't know, a hundred percent like, I really don't know the exact procedure of where to park over there. I've seen like, a space that I would assume people could pull up to and, and start unloading, that was about like fifty feet away from the front door. But if we're talking about the elevator, I would say closer to 75.",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:21:55.125927",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, gotcha.",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:22:24.844271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "content": "Okay, perfect and so now that I do have the information here, here, I've listed everything down I'll go ahead and transfer you over to Arda now and refer all the information that I have here for you so that she can give you a quote so please stay on the line for me, okay?",
+      "name": "Therese Ablang",
+      "time": "2026-06-12T20:22:53.644271",
+      "type": "transcript",
+      "user_id": "5891803114012672"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC0l8eU5QsM",
+      "content": "Awesome, thank you.",
+      "name": "Diego Cura",
+      "time": "2026-06-12T20:23:16.125927",
+      "type": "transcript"
+    }
+  ]
+}

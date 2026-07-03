@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sales Call Grading — Einstein Moving</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Arial', sans-serif; background: #f4f5f7; color: #1a1a2e; }
+
+  /* Header */
+  .header { background: #1a1a2e; padding: 28px 40px; display: flex; align-items: center; justify-content: space-between; }
+  .header-left h1 { color: #fff; font-size: 22px; font-weight: 700; letter-spacing: 0.5px; }
+  .header-left p { color: #8a8fa8; font-size: 13px; margin-top: 4px; }
+  .header-badge { background: #E8630A; color: #fff; font-size: 12px; font-weight: 700; padding: 6px 14px; border-radius: 20px; }
+
+  /* Layout */
+  .container { max-width: 1100px; margin: 0 auto; padding: 32px 24px; }
+
+  /* Pattern summary bar */
+  .pattern-bar { background: #fff; border-radius: 12px; padding: 24px 28px; margin-bottom: 28px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); }
+  .pattern-bar h2 { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #8a8fa8; margin-bottom: 16px; }
+  .pattern-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 16px; }
+  .pattern-stat { text-align: center; }
+  .pattern-stat .pct { font-size: 28px; font-weight: 800; }
+  .pattern-stat .label { font-size: 11px; color: #8a8fa8; margin-top: 3px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .pct.red { color: #e53e3e; }
+  .pct.amber { color: #dd6b20; }
+  .pct.green { color: #38a169; }
+
+  /* Section headers */
+  .section-label { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #8a8fa8; margin: 28px 0 12px; }
+
+  /* Call cards */
+  .call-card { background: #fff; border-radius: 12px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); margin-bottom: 20px; overflow: hidden; }
+  .call-card-header { padding: 20px 24px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #f0f1f3; }
+  .rep-info h3 { font-size: 17px; font-weight: 700; }
+  .rep-meta { display: flex; gap: 10px; margin-top: 5px; flex-wrap: wrap; }
+  .tag { font-size: 11px; font-weight: 600; padding: 3px 10px; border-radius: 12px; }
+  .tag-branch { background: #e8f0fe; color: #1a56db; }
+  .tag-type { background: #fef3c7; color: #92400e; }
+  .tag-type.full { background: #d1fae5; color: #065f46; }
+  .tag-type.skip { background: #fee2e2; color: #991b1b; }
+  .score-circle { text-align: center; min-width: 80px; }
+  .score-circle .score-num { font-size: 32px; font-weight: 800; line-height: 1; }
+  .score-circle .score-denom { font-size: 13px; color: #8a8fa8; }
+  .score-circle .score-pct { font-size: 12px; font-weight: 600; margin-top: 2px; }
+  .score-high { color: #38a169; }
+  .score-mid { color: #dd6b20; }
+  .score-low { color: #e53e3e; }
+
+  /* Rubric breakdown */
+  .call-card-body { padding: 20px 24px; }
+  .rubric-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 10px; margin-bottom: 18px; }
+  .rubric-item { background: #f8f9fb; border-radius: 8px; padding: 10px 12px; }
+  .rubric-item .r-label { font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px; color: #8a8fa8; font-weight: 600; }
+  .rubric-item .r-score { font-size: 18px; font-weight: 800; margin-top: 2px; }
+  .rubric-item .r-max { font-size: 11px; color: #8a8fa8; }
+  .r-zero { color: #e53e3e; }
+  .r-partial { color: #dd6b20; }
+  .r-full { color: #38a169; }
+
+  /* Script flags */
+  .flags { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
+  .flag { font-size: 11px; font-weight: 600; padding: 4px 10px; border-radius: 20px; display: flex; align-items: center; gap: 4px; }
+  .flag-hit { background: #d1fae5; color: #065f46; }
+  .flag-miss { background: #fee2e2; color: #991b1b; }
+
+  /* Coaching notes */
+  .coaching { background: #fffbeb; border-left: 3px solid #E8630A; border-radius: 0 8px 8px 0; padding: 12px 16px; }
+  .coaching .c-label { font-size: 10px; text-transform: uppercase; letter-spacing: 1px; font-weight: 700; color: #92400e; margin-bottom: 6px; }
+  .coaching p { font-size: 13px; line-height: 1.6; color: #44403c; }
+
+  /* Rubric mismatch warning */
+  .mismatch-note { background: #f0f4ff; border-left: 3px solid #4f6bed; border-radius: 0 8px 8px 0; padding: 10px 14px; margin-bottom: 14px; font-size: 12px; color: #3730a3; }
+
+  /* Footer */
+  .footer { text-align: center; padding: 32px; color: #8a8fa8; font-size: 12px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-left">
+    <h1>Sales Call Grading Report</h1>
+    <p>Einstein Moving Company · Dialpad AI Audit · Updated 2026-06-05</p>
+  </div>
+  <div class="header-badge">n = 5 calls</div>
+</div>
+
+<div class="container">
+
+  <!-- Pattern Summary -->
+  <div class="pattern-bar">
+    <h2>Company-Wide Script Hit Rates</h2>
+    <div class="pattern-grid">
+      <div class="pattern-stat">
+        <div class="pct red">0%</div>
+        <div class="label">Save Your Ass</div>
+      </div>
+      <div class="pattern-stat">
+        <div class="pct red">20%</div>
+        <div class="label">Meet Your Mover</div>
+      </div>
+      <div class="pattern-stat">
+        <div class="pct red">20%</div>
+        <div class="label">On-Time Guarantee</div>
+      </div>
+      <div class="pattern-stat">
+        <div class="pct red">0%</div>
+        <div class="label">Email Handoff Script</div>
+      </div>
+      <div class="pattern-stat">
+        <div class="pct amber">20%</div>
+        <div class="label">Agenda Opener</div>
+      </div>
+      <div class="pattern-stat">
+        <div class="pct amber">60%</div>
+        <div class="label">Used Name 3x+</div>
+      </div>
+      <div class="pattern-stat">
+        <div class="pct green">80%</div>
+        <div class="label">No Worries Coverage</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Full Sales Calls -->
+  <div class="section-label">Full Sales Calls</div>
+
+  <!-- Nicole Cruz -->
+  <div class="call-card">
+    <div class="call-card-header">
+      <div class="rep-info">
+        <h3>Nicole Cruz</h3>
+        <div class="rep-meta">
+          <span class="tag tag-branch">Dallas</span>
+          <span class="tag tag-type full">Full Sales Call</span>
+          <span class="tag" style="background:#f0f0f0;color:#555;">28.2 min · Cynthia White · 2026-06-05</span>
+        </div>
+      </div>
+      <div class="score-circle">
+        <div class="score-num score-mid">60</div>
+        <div class="score-denom">/ 85</div>
+        <div class="score-pct score-mid">71%</div>
+      </div>
+    </div>
+    <div class="call-card-body">
+      <div class="rubric-grid">
+        <div class="rubric-item"><div class="r-label">Set Agenda</div><div class="r-score r-partial">6</div><div class="r-max">/ 7</div></div>
+        <div class="rubric-item"><div class="r-label">Probe</div><div class="r-score r-partial">8</div><div class="r-max">/ 9</div></div>
+        <div class="rubric-item"><div class="r-label">Pricing & Diff</div><div class="r-score r-partial">18</div><div class="r-max">/ 20</div></div>
+        <div class="rubric-item"><div class="r-label">Clock</div><div class="r-score r-full">4</div><div class="r-max">/ 4</div></div>
+        <div class="rubric-item"><div class="r-label">Estimate</div><div class="r-score r-partial">10</div><div class="r-max">/ 13</div></div>
+        <div class="rubric-item"><div class="r-label">Save Your Ass</div><div class="r-score r-zero">0</div><div class="r-max">/ 10</div></div>
+        <div class="rubric-item"><div class="r-label">Quote / Booking</div><div class="r-score r-partial">7</div><div class="r-max">/ 11</div></div>
+        <div class="rubric-item"><div class="r-label">Politeness</div><div class="r-score r-full">3</div><div class="r-max">/ 3</div></div>
+        <div class="rubric-item"><div class="r-label">Bonus</div><div class="r-score r-partial">4</div><div class="r-max">/ 8</div></div>
+      </div>
+      <div class="flags">
+        <span class="flag flag-miss">✗ Save Your Ass</span>
+        <span class="flag flag-hit">✓ Meet Your Mover</span>
+        <span class="flag flag-hit">✓ On-Time Guarantee</span>
+        <span class="flag flag-hit">✓ No Worries Coverage</span>
+        <span class="flag flag-miss">✗ Email Handoff Script</span>
+        <span class="flag flag-hit">✓ Agenda Opener</span>
+        <span class="flag flag-hit">✓ Used Name 3x+</span>
+      </div>
+      <div class="coaching">
+        <div class="c-label">🎯 Coaching Notes</div>
+        <p><strong>Best score to date — only rep to hit all 3 differentiators.</strong> One thing holding her back: Save Your Ass (0/10) is left on the table every call. Add the prep speech back in — it's the single biggest lever for shorter moves and happier customers. Also: email handoff needs the "reply with corrections" step before it's complete.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Danah Celestial -->
+  <div class="call-card">
+    <div class="call-card-header">
+      <div class="rep-info">
+        <h3>Danah Celestial</h3>
+        <div class="rep-meta">
+          <span class="tag tag-branch">South Austin</span>
+          <span class="tag tag-type full">Full Sales Call</span>
+          <span class="tag" style="background:#f0f0f0;color:#555;">16 min · Carolina Arias · 2026-06-05</span>
+        </div>
+      </div>
+      <div class="score-circle">
+        <div class="score-num score-low">46</div>
+        <div class="score-denom">/ 85</div>
+        <div class="score-pct score-low">54%</div>
+      </div>
+    </div>
+    <div class="call-card-body">
+      <div class="rubric-grid">
+        <div class="rubric-item"><div class="r-label">Set Agenda</div><div class="r-score r-partial">5</div><div class="r-max">/ 7</div></div>
+        <div class="rubric-item"><div class="r-label">Probe</div><div class="r-score r-full">7</div><div class="r-max">/ 9</div></div>
+        <div class="rubric-item"><div class="r-label">Pricing & Diff</div><div class="r-score r-partial">14</div><div class="r-max">/ 20</div></div>
+        <div class="rubric-item"><div class="r-label">Clock</div><div class="r-score r-full">4</div><div class="r-max">/ 4</div></div>
+        <div class="rubric-item"><div class="r-label">Estimate</div><div class="r-score r-partial">8</div><div class="r-max">/ 13</div></div>
+        <div class="rubric-item"><div class="r-label">Save Your Ass</div><div class="r-score r-zero">0</div><div class="r-max">/ 10</div></div>
+        <div class="rubric-item"><div class="r-label">Quote / Booking</div><div class="r-score r-partial">5</div><div class="r-max">/ 11</div></div>
+        <div class="rubric-item"><div class="r-label">Politeness</div><div class="r-score r-partial">2</div><div class="r-max">/ 3</div></div>
+        <div class="rubric-item"><div class="r-label">Bonus</div><div class="r-score r-partial">1</div><div class="r-max">/ 8</div></div>
+      </div>
+      <div class="flags">
+        <span class="flag flag-miss">✗ Save Your Ass</span>
+        <span class="flag flag-miss">✗ Meet Your Mover</span>
+        <span class="flag flag-miss">✗ On-Time Guarantee</span>
+        <span class="flag flag-hit">✓ No Worries Coverage</span>
+        <span class="flag flag-miss">✗ Email Handoff Script</span>
+        <span class="flag flag-miss">✗ Agenda Opener</span>
+        <span class="flag flag-hit">✓ Used Name 3x+</span>
+      </div>
+      <div class="coaching">
+        <div class="c-label">🎯 Coaching Notes</div>
+        <p><strong>Three priorities:</strong> (1) The pricing math — "$94 per mover × 2 = $188/hr" required 3 re-explanations with Carolina. Practice delivering this in one breath with a confirmation pause. (2) Save Your Ass — completely skipped. 10 free points every call. (3) Add Meet Your Mover and On-Time Guarantee to the differentiator pitch — No Worries is solid, just extend the same muscle to the other two.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Roselyn Pammit -->
+  <div class="call-card">
+    <div class="call-card-header">
+      <div class="rep-info">
+        <h3>Roselyn Pammit</h3>
+        <div class="rep-meta">
+          <span class="tag tag-branch">Houston</span>
+          <span class="tag tag-type full">Full Sales Call</span>
+          <span class="tag" style="background:#f0f0f0;color:#555;">16.8 min · Nicole Warshak · 2026-06-05</span>
+        </div>
+      </div>
+      <div class="score-circle">
+        <div class="score-num score-low">32</div>
+        <div class="score-denom">/ 85</div>
+        <div class="score-pct score-low">38%</div>
+      </div>
+    </div>
+    <div class="call-card-body">
+      <div class="rubric-grid">
+        <div class="rubric-item"><div class="r-label">Set Agenda</div><div class="r-score r-zero">3</div><div class="r-max">/ 7</div></div>
+        <div class="rubric-item"><div class="r-label">Probe</div><div class="r-score r-partial">6</div><div class="r-max">/ 9</div></div>
+        <div class="rubric-item"><div class="r-label">Pricing & Diff</div><div class="r-score r-partial">10</div><div class="r-max">/ 20</div></div>
+        <div class="rubric-item"><div class="r-label">Clock</div><div class="r-score r-zero">1</div><div class="r-max">/ 4</div></div>
+        <div class="rubric-item"><div class="r-label">Estimate</div><div class="r-score r-partial">7</div><div class="r-max">/ 13</div></div>
+        <div class="rubric-item"><div class="r-label">Save Your Ass</div><div class="r-score r-zero">0</div><div class="r-max">/ 10</div></div>
+        <div class="rubric-item"><div class="r-label">Quote / Booking</div><div class="r-score r-zero">2</div><div class="r-max">/ 11</div></div>
+        <div class="rubric-item"><div class="r-label">Politeness</div><div class="r-score r-zero">1</div><div class="r-max">/ 3</div></div>
+        <div class="rubric-item"><div class="r-label">Bonus</div><div class="r-score r-zero">2</div><div class="r-max">/ 8</div></div>
+      </div>
+      <div class="flags">
+        <span class="flag flag-miss">✗ Save Your Ass</span>
+        <span class="flag flag-miss">✗ Meet Your Mover</span>
+        <span class="flag flag-miss">✗ On-Time Guarantee</span>
+        <span class="flag flag-miss">✗ No Worries Coverage</span>
+        <span class="flag flag-miss">✗ Email Handoff Script</span>
+        <span class="flag flag-miss">✗ Agenda Opener</span>
+        <span class="flag flag-miss">✗ Used Name 3x+</span>
+      </div>
+      <div class="coaching">
+        <div class="c-label">🎯 Coaching Notes</div>
+        <p><strong>Note: customer was unusually uncooperative — some gaps were customer-driven, not rep-driven.</strong> That said, three priorities: (1) Use the customer's name — zero times in 16 minutes is a significant rapport gap. (2) All 3 differentiators were skipped entirely — No Worries, Meet Your Mover, On-Time Guarantee. (3) The trip fee objection ("that's a ridiculous fee") needed a scripted response for repeat customers — "we don't have promotions" landed flat.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Walkthrough Schedulers -->
+  <div class="section-label">Walkthrough Schedulers <span style="font-weight:400;text-transform:none;font-size:11px;">— Full rubric doesn't apply. Qualitative notes only.</span></div>
+
+  <!-- Grant Hardison -->
+  <div class="call-card">
+    <div class="call-card-header">
+      <div class="rep-info">
+        <h3>Grant Hardison</h3>
+        <div class="rep-meta">
+          <span class="tag tag-branch">Dallas</span>
+          <span class="tag tag-type">Walkthrough Scheduler</span>
+          <span class="tag" style="background:#f0f0f0;color:#555;">12.9 min · Tanzy Niccol · 2026-06-05</span>
+        </div>
+      </div>
+      <div class="score-circle">
+        <div class="score-num" style="color:#8a8fa8;">—</div>
+        <div class="score-denom" style="color:#8a8fa8;">rubric N/A</div>
+      </div>
+    </div>
+    <div class="call-card-body">
+      <div class="mismatch-note">ℹ️ Move was 1,989 sqft — routes to virtual walkthrough. Pricing, clock, estimate, and Save Your Ass sections don't apply on intake. Score of 23/85 is misleading. Mini-rubric for walkthrough schedulers pending Amanda + Cameron decision.</div>
+      <div class="flags">
+        <span class="flag flag-hit">✓ Booked walkthrough</span>
+        <span class="flag flag-hit">✓ Strong rapport — "honorable people" line was excellent</span>
+        <span class="flag flag-hit">✓ No Worries + insurance explained well</span>
+        <span class="flag flag-miss">✗ Speaking too quickly (flagged 3x by Dialpad)</span>
+        <span class="flag flag-miss">✗ Customer name mispronounced throughout</span>
+      </div>
+      <div class="coaching">
+        <div class="c-label">🎯 Coaching Notes</div>
+        <p>Best rapport of the sample — the reassurance beat when Tanzy raised scope concerns was textbook. Real grading should happen on the walkthrough call (where full pitch lands). Slow down — speaking pace flagged 3x. Double-check customer name pronunciation at the start of every call.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Jules Nicolas -->
+  <div class="call-card">
+    <div class="call-card-header">
+      <div class="rep-info">
+        <h3>Jules Nicolas</h3>
+        <div class="rep-meta">
+          <span class="tag tag-branch">North Austin</span>
+          <span class="tag tag-type">Walkthrough Scheduler</span>
+          <span class="tag" style="background:#f0f0f0;color:#555;">6.3 min · Joe (disabled veteran) · 2026-06-05</span>
+        </div>
+      </div>
+      <div class="score-circle">
+        <div class="score-num" style="color:#8a8fa8;">—</div>
+        <div class="score-denom" style="color:#8a8fa8;">rubric N/A</div>
+      </div>
+    </div>
+    <div class="call-card-body">
+      <div class="mismatch-note">ℹ️ Move was 3,300 sqft transfer-in — walkthrough scheduler. Rubric mismatch applies.</div>
+      <div class="flags">
+        <span class="flag flag-hit">✓ Booked walkthrough correctly</span>
+        <span class="flag flag-hit">✓ Handled competitor objection (11am with competitor) without flinching</span>
+        <span class="flag flag-miss" style="background:#fff0f0;border:1px solid #e53e3e;">⚠️ CRITICAL: Veteran disclosure — zero response</span>
+        <span class="flag flag-miss">✗ Speaking too quickly (flagged 4x)</span>
+        <span class="flag flag-miss">✗ Never used customer's name</span>
+      </div>
+      <div class="coaching">
+        <div class="c-label">🎯 Coaching Notes</div>
+        <p><strong>Critical miss:</strong> Customer said "money is gonna be an issue... we have veteran discounts we work with" — Jules gave zero response. No acknowledgment of service, no veteran discount mention, no budget-conscious framing. Customer is actively comparison-shopping (had 11am with a competitor). The walkthrough tomorrow must open with veteran acknowledgment and budget-focused framing or this deal is likely lost. This should be a coached response for the whole team: <em>when a customer self-identifies as a veteran, acknowledge it immediately.</em></p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="footer">
+  Einstein Moving Company · Sales Call Grading · Generated by Gary (Amanda's AI Chief of Staff) · 2026-06-05<br>
+  Rubric: 85 pts total · Mastery = 77+ on 3 straight gradings · Source: Dialpad API
+</div>
+
+</body>
+</html>

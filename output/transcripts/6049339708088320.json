@@ -1,0 +1,614 @@
+{
+  "call_id": "5625361373929472",
+  "lines": [
+    {
+      "content": "Hi, this is Amy. How can I help you?",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:29:36.521012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:29:36.521012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:29:36.521012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:29:36.521012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:29:36.521012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:29:36.521012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:29:37.695012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:29:38.295012",
+      "type": "custom_moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "Hi, this is Harrison, I'm moving next weekend and was hoping to, to get a quote from you guys.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:29:39.650073",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "call_purpose",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:29:39.650073",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "contact_name",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:29:41.680073",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "ner",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:29:41.680073",
+      "type": "moment"
+    },
+    {
+      "content": "Sure, sure. Let me just check our calendar for next weekend. Let's see, are you just moving out of a one bedroom apartment? Is it a 2000 square foot house?",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:29:49.121012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:29:55.095012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "Mm-hmm yeah, it, it'll be out of a one bedroom apartment to a two bedroom apartment in the same apartment complex.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:29:58.850073",
+      "type": "transcript"
+    },
+    {
+      "content": "Gotcha, do you need help packing up your boxes, or you'll have the boxes ready to go?",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:30:09.521012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:30:11.321012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "We'll have the box ready to go.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:30:16.250073",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, we do have Saturday morning the twentieth or Sunday morning the twenty first. Would you have a, do you have a better preference?",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:30:19.121012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:30:29.295012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "I think probably Saturday.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:30:33.650073",
+      "type": "transcript"
+    },
+    {
+      "content": "Saturday or Sunday, Saturday. Okay sounds good. Let me just create a profile for you real quick. I'll ask you some more details and then prepare the estimate for you mm-hmm I have your phone number Harrison, what is your last name?",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:30:34.721012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:30:49.055012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:30:49.815012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "Gross, like a gross.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:30:52.250073",
+      "type": "transcript"
+    },
+    {
+      "content": "Do you mind spelling that for me please? Thank you.",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:30:58.121012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:30:58.121012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "G-R-O-S-S.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:31:01.850073",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you and then your email.",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:31:05.321012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "Harrison gross seventeen @gmail.com.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:31:08.450073",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "email_address",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:31:11.360073",
+      "type": "moment"
+    },
+    {
+      "content": "17 at, okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:31:15.521012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "How did you hear about it start muting.",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:31:27.521012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "Online credit.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:31:31.850073",
+      "type": "transcript"
+    },
+    {
+      "content": "Sure. Thank you. Alright, for the drop. I mean, sorry you're moving within the same complex so it's the same address. What's the complete address?",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:31:36.521012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:31:44.215012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "Yes. 1109 north interstate 35.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:31:45.650073",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "78702.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:31:58.850073",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you so much. Your current unit, which floor is it located?",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:32:02.921012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:32:05.695012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "We're moving from 7:00 to ten and there's an elevator.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:32:08.450073",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "time",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:32:09.720073",
+      "type": "moment"
+    },
+    {
+      "content": "Seven to ten, is it the same building or different buildings?",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:32:14.921012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:32:16.455012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "Same building.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:32:19.250073",
+      "type": "transcript"
+    },
+    {
+      "content": "Building should be easy seventy tenth floor forgo only. What's the square footage of the curve and then the new unit?",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:32:21.521012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:32:27.455012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "850 for the current and the new I think 1400.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:32:32.450073",
+      "type": "transcript"
+    },
+    {
+      "content": "How much, let's talk about the inventory, even just your major pieces. What's on your list?",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:32:41.921012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "Yeah. So, well, the mattress a sectional couch three lounge chairs, three bar stools, two desks, an end table, and a small dresser.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:32:49.250073",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:32:52.721012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "So, we're leaving out the Washer/Dryer fridge, anything super heavy like a gun say gym equipment maybe.",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:33:14.321012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "No, the couch should be the hardest piece.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:33:22.850073",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. And then how far is the walk from your front door, current front door going to the elevator? Are you down the hall? Is it a mall walk?",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:33:29.321012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:33:35.335012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "Yeah, it's probably a thirty second walk down the hall, up the elevator. Thirty second walk to the new apartment.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:33:38.450073",
+      "type": "transcript"
+    },
+    {
+      "content": "To benefit, okay, thank you. So you'll have the boxes ready to go. Normally, we would see around fifteen to 25 boxes coming out of a one bedroom unit. Do you think you'll be in that range or do you have books collection? What's a good quote part number?",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:33:47.321012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:33:58.055012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "Yeah, we were gonna definitely help out with the boxes, but I would say do like ten to, yeah, like ten.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:34:03.650073",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:34:12.375012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:34:14.735012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay, so let me just walk you through the basic pricing first no need to take notes. I'll send everything via email anyways so for Saturday.",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:34:16.121012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "We charge the hourly rate of $214.214. This is for two movers already and it's an all inclusive hourly late we have moving blankets, shin crap bends Dolly the tools for any disassemble or reassembly that needs to be done. This also includes taxes, insurance, gas and the best part here Harrison. No additional fees of any site. Your apartment complex is within a free service zone. So there's no travel fee. We won't charge you for the credit card fees, no disassemble reassembly fees. What we have is a two and a half hour minimum. If we go beyond that minimum time will be prorated in every fifteen minutes.",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:34:28.335012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:34:30.175012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "You got it.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:34:34.250073",
+      "type": "transcript"
+    },
+    {
+      "content": "swearing",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:34:41.255012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:34:42.735012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:34:46.055012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:34:49.735012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:35:02.895012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:35:08.055012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Any questions so far.",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:35:13.121012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "No, that makes sense.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:35:14.450073",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "support_issue_resolved",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:35:17.000073",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm so for your move since you're just moving within the same complex and looking at your inventory, I would estimate two and a half hours, but just to be a bit conservative I would allocate two and a half to three hours for you. In case needed for the minimum, we're looking at $535 for three hours, that's $642, but of course it's just an estimate, the more prepared you are, the more efficient the mover is gonna be, so last time, more money you get the same.",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:35:18.521012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:35:33.975012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:35:37.815012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "Okay, well, that gives me a, a lot of great information. I'm still shopping around but but thank you.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:35:46.250073",
+      "type": "transcript"
+    },
+    {
+      "content": "Same, mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:35:49.121012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Sure, sure let me send you the details whenever you're ready. No deposits required. It's just our booking up really fast, so call us back when you can. Thank you.",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:35:54.521012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:35:55.615012",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "Okay, thank you so much.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:36:03.050073",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "positive_sentiment",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:36:04.280073",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "support_issue_resolved",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:36:04.280073",
+      "type": "moment"
+    },
+    {
+      "content": "Of course, have a great weekend. Bye.",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:36:05.921012",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Call Closing",
+      "name": "Amy Arbasa",
+      "time": "2026-06-11T21:36:06.575012",
+      "type": "custom_moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC046aXwwkM",
+      "content": "You too, bye.",
+      "name": "(210) 872-3011",
+      "time": "2026-06-11T21:36:07.850073",
+      "type": "transcript"
+    }
+  ]
+}

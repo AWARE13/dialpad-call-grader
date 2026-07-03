@@ -1,0 +1,901 @@
+{
+  "call_id": "6122614933364736",
+  "lines": [
+    {
+      "content": "Hi, my name is Amy. How can I help you?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:43:55.954563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:43:55.954563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:43:55.954563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:43:55.954563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:43:55.954563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:43:55.954563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:43:55.954563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:43:57.137563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:43:57.697563",
+      "type": "custom_moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Hi, yes, I got a quote a few days back and.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:44:00.262539",
+      "type": "transcript"
+    },
+    {
+      "content": "I'm sorry ma'am your line is cutting in and out, I can barely hear you.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:44:06.754563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Can you hear me now?",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:44:11.662539",
+      "type": "transcript"
+    },
+    {
+      "content": "Can you try that again please.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:44:17.554563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Can you hear me?",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:44:20.062539",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, I can hear you a little bit better. Yeah, how can I help you?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:44:22.954563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:44:26.937563",
+      "type": "custom_moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "I got a quote a couple of days ago and it said that possibly more information as needed. So, I was calling to see what that might be.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:44:29.062539",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, let me pull up your profile. Can I have your first and last name?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:44:40.354563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Amy Griffith.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:44:44.662539",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "ner",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:44:44.662539",
+      "type": "moment"
+    },
+    {
+      "content": "And give me one sec. That's GRI SSI TH, for the last name.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:44:49.954563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Yes ma'am. Yes ma'am.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:44:56.062539",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:44:58.954563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "May I have your email address, please?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:45:02.554563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "It's no L. Bell 39 @gmail.com.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:45:06.862539",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "pii",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:45:09.456539",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "email_address",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:45:10.296539",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, found it here. Alright, let's see. Let me just check your request date. That is July 7th.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:45:19.954563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "It would actually, that day is change the day that I needed. Actually, the following day, the eighth, the Wednesday the eighth.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:45:29.062539",
+      "type": "transcript"
+    },
+    {
+      "content": "date",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:45:29.297563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "The eighth. Okay, give me one second I'll check the.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:45:37.954563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Yes ma'am.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:45:39.862539",
+      "type": "transcript"
+    },
+    {
+      "content": "Do you need help with backing your boxes or you'll have this ready to go.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:45:43.354563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "No, those are ready to go.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:45:48.262539",
+      "type": "transcript"
+    },
+    {
+      "content": "I'm sorry we're fully booked on the eighth and the next opening that we have would be July 10th Friday. Would that still work or is that too far?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:45:52.354563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "date",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:45:57.857563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:46:00.154563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Is there anything on the, that Tuesday the original date the seventh?",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:46:07.462539",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "question",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:46:07.462539",
+      "type": "moment"
+    },
+    {
+      "content": "No, seventh is also fully booked. So, from now to the ninth for fully booked even for a small project.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:46:13.354563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "What?",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:46:20.662539",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Okay, what time would it be Friday?",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:46:23.062539",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "question",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:46:25.462539",
+      "type": "moment"
+    },
+    {
+      "content": "We only have the morning, so we'll start around 8:30 to nine.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:46:28.354563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Okay.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:46:32.062539",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:46:32.977563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Yeah, that could work.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:46:39.262539",
+      "type": "transcript"
+    },
+    {
+      "content": "Sounds good let me see so let me confirm your pickup location. 2621. Alu. Lane, apartment A it's a two bedroom, one story town home about 1145 square footage and we're moving it to a third floor apartment no elevator, right? Just stairs.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:46:43.954563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "phone_number",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:46:56.817563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Correct.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:47:06.262539",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, totally fine we don't charge extra for that and then do we have any additional location to go to?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:47:07.954563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "No, ma'am, that's all.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:47:15.262539",
+      "type": "transcript"
+    },
+    {
+      "content": "Talking to your inventory. Can you please walk me through your even just the major large pieces.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:47:18.754563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Yeah, it's, so, it's one.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:47:25.462539",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Queen size bed and mattress block spring and one full-size mattress and box spring. Let's see, there's like two.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:47:31.462539",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Kinda, tall book cases that they're pretty late. We the, there's 22 other bookcases that are a little heavier. There's one like standard size couch. No, it doesn't have a bed in it or anything like that. It's pretty light and there's like a, a like a, a like a cedar chest kind of thing.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:47:48.262539",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:48:24.154563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "That's really all the big pieces. There's not a, there's not, it's not a lot of stuff honestly.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:48:28.462539",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you just to confirm, do you have a garage to you. You need us to move things from.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:48:34.954563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Do can you repeat that? I'm sorry.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:48:43.462539",
+      "type": "transcript"
+    },
+    {
+      "content": "Do you have any, do you have a garage or a patio area that we need to pay things from?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:48:46.954563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:48:46.954563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "There is a garage. Yes, that it can be deception be taken out for me out of the garage or the front door.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:48:55.462539",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, thank you. And then for the boxes, gotcha Raj. For the boxes we normally see around 35 to 45 boxes coming out of a Tahoe the size. Do you think you'll be in that range or do you have a book collection, maybe, shoe or China work collection. They'll put you beyond those 3545 boxes. What's a good estimate?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:49:07.954563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Probably the garage is better.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:49:08.062539",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:49:12.217563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:49:20.857563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:49:24.897563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "No, it wouldn't be more than that. It wouldn't be more than that.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:49:29.062539",
+      "type": "transcript"
+    },
+    {
+      "content": "Great, thank you. So let me just review the estimate initially said to you but still in line with the information of that.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:49:42.754563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Alright, so yeah, it looks like the initial estimate things apart, right? So for your move we will be sending two movers, one truck and we would allocate. Since we're the major fact, that is honestly your inventory is very straightforward. The manager factor here Amy is that the third floor apartment no elevator. So that's a bit you know, extreme new for the river. So we would allocate five to six hours for this move just in case needed and I would suggest budgeting are down $1,308 for that day.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:50:06.154563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:50:10.137563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:50:15.537563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:50:25.937563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Right.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:50:33.862539",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:50:41.697563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Okay.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:50:47.662539",
+      "type": "transcript"
+    },
+    {
+      "content": "Although the good thing is we're hourly based, so basically we just have a two and a half hour minimum if we go beyond that, we will prorate the time and every fifteen minute increments. In that way you only pay for the actual time that you use so B, as prepared as you can because last time you, people will take for sure less money you'd have to spend with the members.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:50:49.354563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Okay. Yeah. I was really planning on only dealing like the two and a half to three hours and if it's, you know, anything beyond that, I mean, I'm gonna move some stuff with some, I have other people to help me too I really just wanted to get like the big stuff, to be honest.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:51:12.262539",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm okay. Yeah, we can make that work we can probably set up like one and a half hour alarm here at the current apartment and then you know, until we can finish the move. Set it up for three hours Max. So, the budget for that let me see. It only takes three hours that $618.618 and since it's only, you're only requesting for three hours we can do it on Thursday July 9th afternoon.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:51:33.754563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:51:47.697563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Yeah.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:51:48.262539",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:51:55.657563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "date",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:52:06.257563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Oh, okay. The timeframe, you mean.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:52:11.062539",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, since it's only a half day we can do it on Thursday, start time is between 12:00 AM to 2:00 PM.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:52:16.354563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:52:22.177563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "For Thursday?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:52:25.354563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "I don't know if Thursday is gonna work, I mean, I can pretty much do. Okay. Yeah, I think that well she's, you said start time would be 12:00 on Thursday.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:52:26.062539",
+      "type": "transcript"
+    },
+    {
+      "content": "Or we can still do Friday morning or afternoon.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:52:31.954563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "time",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:52:43.976539",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, if you want an afternoon Thursday and Friday will be 12:00 AM to 2:00 PM but if you want a morning, we only have Friday, 8:30 tonight.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:52:46.954563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:52:50.457563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:52:54.257563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Okay, well let's go ahead and send you the Thursday then cause I'd like to get it done sooner rather than later. So Thursday at, at noon. That sounds good.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:52:56.062539",
+      "type": "transcript"
+    },
+    {
+      "content": "So Thursday again it would be anywhere from 12:00 AM to 2:00 PM but the movers will surely give you a call Mister on the way again if it only takes three hours that's 600.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:53:12.754563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:53:16.354563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Oh, they come between 12:00 and three is that what you say? I'm sorry, you're breaking up a little bit.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:53:21.862539",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "time",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:53:23.776539",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "question",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:53:25.056539",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, no worries. 12:00 to two between 12:00 to two.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:53:27.754563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:53:29.177563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Oh, gotcha. Okay, gotcha.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:53:30.862539",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:53:30.937563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Yoke you don't require a deposit so what let's lock the date Thursday July 9th afternoon.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:53:41.554563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "date",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:53:49.017563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Okay.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:53:51.862539",
+      "type": "transcript"
+    },
+    {
+      "content": "It's okay. Alright, let me put you on schedule.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:53:54.154563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "And then did they take the payment? Like right when that's done, the movers take the payment or how does the payment work then?",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:53:54.862539",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:53:59.337563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "So since we don't require a deposit. I'm not gonna take any details right now, but once we complete the move the movers they have their iPad with them, with the card terminal so you can just tap your card. Yeah, after the move is done, yeah.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:54:03.754563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:54:13.697563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Oh, okay. Okay, perfect.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:54:17.662539",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "positive_sentiment",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:54:19.456539",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Okay. Yeah, that sounds great.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:54:23.662539",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "positive_sentiment",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:54:23.662539",
+      "type": "moment"
+    },
+    {
+      "content": "Okeydokey Amy we are now on schedule. I'll send you the confirmation email again. That would be for Thursday July 9th between 12:00 to two. Again, it's just a friendly tip cause with the three hours request a time we can only do, you know, we will focus on the large heavy pieces. So be, can maximize the time.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:54:26.554563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:54:27.457563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:54:29.577563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "date",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:54:33.817563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:54:34.897563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Mm-hmm yeah, sounds good.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:54:48.862539",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you have a great weekend. I'll send you the email in a bit. Bye-bye.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:54:52.354563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Call Closing",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:54:53.377563",
+      "type": "custom_moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:54:54.017563",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "Okay, awesome. You as well. Thank you, bye-bye.",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:54:55.462539",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDMsqqlkQoM",
+      "content": "support_issue_resolved",
+      "name": "Amy Griffith",
+      "time": "2026-07-03T19:54:56.416539",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-03T19:54:58.354563",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    }
+  ]
+}

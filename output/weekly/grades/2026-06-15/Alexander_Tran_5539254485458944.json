@@ -1,0 +1,106 @@
+{
+  "call_id": "5539254485458944",
+  "rep_name": "Alexander Tran",
+  "branch": "Houston",
+  "duration_min": 6.1,
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "total_score": 30,
+  "mastery": false,
+  "sections": {
+    "set_the_agenda": {
+      "score": 4,
+      "max": 7,
+      "missed": [
+        "how are you today",
+        "agenda statement",
+        "sound good confirmation"
+      ]
+    },
+    "probe_for_info": {
+      "score": 6,
+      "max": 9,
+      "missed": [
+        "home size not confirmed",
+        "storage access concerns not asked",
+        "moving stressors"
+      ]
+    },
+    "pricing_differentiators": {
+      "score": 5,
+      "max": 20,
+      "missed": [
+        "what's included (gas, truck, tools, insurance)",
+        "disassembly included",
+        "No Worries Damage Coverage",
+        "Meet Your Mover",
+        "On-Time Guarantee",
+        "no hidden fees pitch"
+      ]
+    },
+    "clock": {
+      "score": 0,
+      "max": 4,
+      "missed": [
+        "clock starts on-site",
+        "2.5 hour minimum",
+        "15-minute increments",
+        "sense-check"
+      ]
+    },
+    "estimate": {
+      "score": 7,
+      "max": 13,
+      "missed": [
+        "number of movers not stated explicitly",
+        "specialty items variable",
+        "stairs/elevator variable"
+      ]
+    },
+    "save_your_ass": {
+      "score": 0,
+      "max": 10,
+      "missed": [
+        "prep = shorter move = lower bill",
+        "consolidation examples",
+        "take a carload tip",
+        "sense-check"
+      ]
+    },
+    "quote_booking": {
+      "score": 2,
+      "max": 11,
+      "missed": [
+        "no deposit not mentioned",
+        "BOLDED list",
+        "reply with corrections",
+        "questions before letting go",
+        "hours and contact"
+      ]
+    },
+    "politeness": {
+      "score": 3,
+      "max": 3,
+      "missed": []
+    },
+    "bonus": {
+      "score": 3,
+      "max": 8,
+      "missed": [
+        "insurance explanation",
+        "proactive FAQs",
+        "Ecobox/Sparefoot"
+      ]
+    }
+  },
+  "save_your_ass_hit": false,
+  "meet_your_mover_hit": false,
+  "on_time_guarantee_hit": false,
+  "email_handoff_hit": true,
+  "agenda_opener_hit": false,
+  "top_strength": "Warm, thorough, and personable throughout \u2014 used Julie's name naturally, handled scheduling friction smoothly, and secured a soft reservation with clear next steps.",
+  "coaching_note": "The entire clock section was skipped and no differentiators were mentioned \u2014 a returning customer who isn't fully sold on value is still a churn risk, and this call left her with pricing but no competitive differentiation.",
+  "phone_presence_score": 4,
+  "phone_presence_label": "Engaging",
+  "phone_presence_notes": "Alex was consistently warm and professional, Julie responded with genuine appreciation, and the call ended with a clean soft close \u2014 strong presence despite thin sales content."
+}

@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>AI Call Grading Report — 2026-07-03</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; background: #f9fafb; color: #111827; }
+  .header { background: linear-gradient(135deg, #1e3a5f 0%, #E8630A 100%); color: white; padding: 32px 40px; }
+  .header h1 { font-size: 1.8em; font-weight: 800; margin-bottom: 4px; }
+  .header p { opacity: 0.85; font-size: 0.95em; }
+  .container { max-width: 1200px; margin: 0 auto; padding: 32px 24px; }
+  .stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 16px; margin-bottom: 32px; }
+  .stat-card { background: white; border-radius: 12px; padding: 20px; box-shadow: 0 1px 4px rgba(0,0,0,.08); text-align: center; }
+  .stat-card .value { font-size: 2.2em; font-weight: 800; color: #E8630A; }
+  .stat-card .label { font-size: 0.82em; color: #6b7280; margin-top: 4px; text-transform: uppercase; letter-spacing: .04em; }
+  .section { background: white; border-radius: 12px; padding: 24px; box-shadow: 0 1px 4px rgba(0,0,0,.08); margin-bottom: 24px; }
+  .section h2 { font-size: 1.15em; font-weight: 700; color: #1e3a5f; margin-bottom: 16px; border-bottom: 2px solid #E8630A; padding-bottom: 8px; display: inline-block; }
+  table { width: 100%; border-collapse: collapse; }
+  th { text-align: left; font-size: 0.8em; text-transform: uppercase; letter-spacing: .05em; color: #6b7280; padding: 8px 12px; border-bottom: 1px solid #e5e7eb; }
+  td { padding: 10px 12px; border-bottom: 1px solid #f3f4f6; font-size: 0.9em; }
+  tr:last-child td { border-bottom: none; }
+  .flag-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }
+  .flag-card { background: #fef3c7; border-radius: 8px; padding: 16px; border: 1px solid #fde68a; }
+  .flag-card .flag-val { font-size: 1.8em; font-weight: 800; color: #92400e; }
+  .flag-card .flag-label { font-size: 0.8em; color: #78350f; margin-top: 2px; }
+  .alert { background: #fef2f2; border: 1px solid #fecaca; border-radius: 8px; padding: 16px; margin-bottom: 12px; }
+  .alert-title { font-weight: 700; color: #991b1b; margin-bottom: 4px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>⚡ Einstein AI Call Grading Report</h1>
+  <p>Week of 2026-07-03 &nbsp;·&nbsp; 33-Rep Roster &nbsp;·&nbsp; Powered by Gary</p>
+</div>
+
+<div class="container">
+
+  <div class="stat-grid">
+    <div class="stat-card">
+      <div class="value">38</div>
+      <div class="label">Calls Graded</div>
+    </div>
+    <div class="stat-card">
+      <div class="value">48.6</div>
+      <div class="label">Team Avg Score (/85)</div>
+    </div>
+    <div class="stat-card">
+      <div class="value">0</div>
+      <div class="label">Mastery Calls (77+)</div>
+    </div>
+    <div class="stat-card">
+      <div class="value">3%</div>
+      <div class="label">Save Your Ass Rate</div>
+    </div>
+    <div class="stat-card">
+      <div class="value">26%</div>
+      <div class="label">Meet Your Mover Rate</div>
+    </div>
+    <div class="stat-card">
+      <div class="value">21%</div>
+      <div class="label">On-Time Guarantee Rate</div>
+    </div>
+  </div>
+
+  <div class="alert">
+    <div class="alert-title">🚨 Week 1 Headline</div>
+    Team average: <strong>48.6/85</strong>. Mastery threshold (77+): <strong>0 calls</strong>.
+    Save Your Ass delivery rate: <strong>3%</strong> — the #1 coaching priority across the entire team.
+    The only call approaching mastery: <strong>Daniel Behseresht (75/85)</strong>.
+    Top performer by average: <strong>Nicole Cruz (67 avg)</strong>.
+  </div>
+
+  <div class="section">
+    <h2>Section Performance — Team Averages</h2>
+    <table>
+      <thead><tr><th>Section</th><th>Avg Score</th><th>Max</th><th>Hit Rate</th><th style="min-width:120px;">Bar</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <div class="section">
+    <h2>Differentiator Hit Rates</h2>
+    <div class="flag-grid">
+      <div class="flag-card">
+        <div class="flag-val">3%</div>
+        <div class="flag-label">Save Your Ass<br><small>1 / 38 calls</small></div>
+      </div>
+      <div class="flag-card">
+        <div class="flag-val">26%</div>
+        <div class="flag-label">Meet Your Mover<br><small>10 / 38 calls</small></div>
+      </div>
+      <div class="flag-card">
+        <div class="flag-val">21%</div>
+        <div class="flag-label">On-Time Guarantee<br><small>8 / 38 calls</small></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Rep Leaderboard</h2>
+    <table>
+      <thead><tr><th>#</th><th>Rep</th><th>Calls</th><th>Avg Score</th><th>Individual Scores</th><th>Mastery</th></tr></thead>
+      <tbody>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#1</td>
+            <td style="font-weight:600;">Nicole Cruz</td>
+            <td style="text-align:center;">1</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#ca8a04;">69.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">69</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#2</td>
+            <td style="font-weight:600;">Nicholas Dagel</td>
+            <td style="text-align:center;">1</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#ea580c;">64.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">64</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#3</td>
+            <td style="font-weight:600;">Arden Asilo</td>
+            <td style="text-align:center;">2</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#ea580c;">62.5</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">61 / 64</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#4</td>
+            <td style="font-weight:600;">Hector Zavala</td>
+            <td style="text-align:center;">1</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#ea580c;">61.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">61</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#5</td>
+            <td style="font-weight:600;">Calvin Hughes</td>
+            <td style="text-align:center;">1</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#ea580c;">59.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">59</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#6</td>
+            <td style="font-weight:600;">Daniel Behseresht</td>
+            <td style="text-align:center;">1</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#ea580c;">58.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">58</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#7</td>
+            <td style="font-weight:600;">Grant Hardison</td>
+            <td style="text-align:center;">1</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#ea580c;">58.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">58</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#8</td>
+            <td style="font-weight:600;">Jack Davis</td>
+            <td style="text-align:center;">2</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#ea580c;">56.5</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">58 / 55</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#9</td>
+            <td style="font-weight:600;">Alexander Tran</td>
+            <td style="text-align:center;">2</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#ea580c;">56.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">58 / 54</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#10</td>
+            <td style="font-weight:600;">Roselyn Pammit</td>
+            <td style="text-align:center;">2</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#ea580c;">54.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">51 / 57</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#11</td>
+            <td style="font-weight:600;">Joanna Ballon</td>
+            <td style="text-align:center;">1</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#ea580c;">53.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">53</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#12</td>
+            <td style="font-weight:600;">Landon Vaughan</td>
+            <td style="text-align:center;">2</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#ea580c;">51.5</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">50 / 53</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#13</td>
+            <td style="font-weight:600;">Garrison Cobe</td>
+            <td style="text-align:center;">2</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#ea580c;">51.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">49 / 53</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#14</td>
+            <td style="font-weight:600;">Jespah Lara</td>
+            <td style="text-align:center;">2</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#ea580c;">50.5</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">48 / 53</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#15</td>
+            <td style="font-weight:600;">Joel Villatoro</td>
+            <td style="text-align:center;">2</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#ea580c;">50.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">53 / 47</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#16</td>
+            <td style="font-weight:600;">Amy Arbasa</td>
+            <td style="text-align:center;">2</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#dc2626;">49.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">39 / 59</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#17</td>
+            <td style="font-weight:600;">Dustin Street</td>
+            <td style="text-align:center;">2</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#dc2626;">47.5</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">47 / 48</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#18</td>
+            <td style="font-weight:600;">Erik Orama</td>
+            <td style="text-align:center;">1</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#dc2626;">47.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">47</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#19</td>
+            <td style="font-weight:600;">Chris Beattie</td>
+            <td style="text-align:center;">1</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#dc2626;">41.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">41</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#20</td>
+            <td style="font-weight:600;">Lukas Konrad</td>
+            <td style="text-align:center;">1</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#dc2626;">40.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">40</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#21</td>
+            <td style="font-weight:600;">Jules Nicolas</td>
+            <td style="text-align:center;">2</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#dc2626;">34.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">32 / 36</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#22</td>
+            <td style="font-weight:600;">Frank Williams</td>
+            <td style="text-align:center;">1</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#dc2626;">33.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">33</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#23</td>
+            <td style="font-weight:600;">Chris Anderson</td>
+            <td style="text-align:center;">2</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#dc2626;">31.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">18 / 44</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#24</td>
+            <td style="font-weight:600;">Rance Pope</td>
+            <td style="text-align:center;">1</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#dc2626;">27.0</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">27</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;color:#374151;">#25</td>
+            <td style="font-weight:600;">Zachary Krodel</td>
+            <td style="text-align:center;">2</td>
+            <td style="text-align:center;">
+                <span style="font-weight:700;font-size:1.1em;color:#dc2626;">25.5</span>
+                <span style="color:#9ca3af;font-size:0.8em;">/85</span>
+            </td>
+            <td style="font-size:0.85em;color:#6b7280;">21 / 30</td>
+            <td style="text-align:center;color:#dc2626;">
+                —
+            </td>
+        </tr></tbody>
+    </table>
+  </div>
+
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:24px;">
+    <div class="section">
+      <h2>🏆 Top 5 Calls</h2>
+      
+        <div style="border:1px solid #e5e7eb;border-left:4px solid #ca8a04;border-radius:8px;padding:16px;margin-bottom:12px;">
+            <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+                <div>
+                    <span style="font-weight:700;font-size:1.05em;">Nicole Cruz</span>
+                    <span style="color:#6b7280;font-size:0.85em;margin-left:8px;">Tampa Einstein Moving Company · 10.8 min</span>
+                </div>
+                <span style="font-size:1.4em;font-weight:800;color:#ca8a04;">69<span style="font-size:0.6em;color:#9ca3af;">/85</span></span>
+            </div>
+            <div style="margin:8px 0;"></div>
+            <div style="font-size:0.85em;color:#374151;margin-top:8px;">
+                <strong>Strength:</strong> Hit every differentiator cleanly and in order — No Worries Coverage, Meet Your Mover, On-Time Guarantee, and the full no-hidden-fees pitch — while walking a packing-service move into a detailed, accurate estimate.<br>
+                <strong>Coaching:</strong> Complete miss on the Save Your Ass prep speech despite this being a full packing-service move — the highest-value section for controlling final bill was skipped entirely; add the consolidation/carload tips before the close.
+            </div>
+        </div>
+        <div style="border:1px solid #e5e7eb;border-left:4px solid #ea580c;border-radius:8px;padding:16px;margin-bottom:12px;">
+            <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+                <div>
+                    <span style="font-weight:700;font-size:1.05em;">Arden Asilo</span>
+                    <span style="color:#6b7280;font-size:0.85em;margin-left:8px;">Dallas Einstein Moving Company · 10.2 min</span>
+                </div>
+                <span style="font-size:1.4em;font-weight:800;color:#ea580c;">64<span style="font-size:0.6em;color:#9ca3af;">/85</span></span>
+            </div>
+            <div style="margin:8px 0;"></div>
+            <div style="font-size:0.85em;color:#374151;margin-top:8px;">
+                <strong>Strength:</strong> Textbook differentiator and clock delivery — hourly rate, full inclusions, trip fee disclosed transparently, No Worries coverage, Meet Your Mover, On-Time Guarantee, and no-hidden-fees pitch all covered clearly — and rep closed the loop by locking the booking with no deposit and a warm, personalized 4th of July sign-off.<br>
+                <strong>Coaching:</strong> No Save Your Ass prep speech (consolidation, carload tip) was offered despite ~10-15 furniture items and 10+ boxes where prep could meaningfully cut time — add it before the close to round out an otherwise near-mastery call.
+            </div>
+        </div>
+        <div style="border:1px solid #e5e7eb;border-left:4px solid #ea580c;border-radius:8px;padding:16px;margin-bottom:12px;">
+            <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+                <div>
+                    <span style="font-weight:700;font-size:1.05em;">Nicholas Dagel</span>
+                    <span style="color:#6b7280;font-size:0.85em;margin-left:8px;">North Austin Einstein Moving Company · 9.3 min</span>
+                </div>
+                <span style="font-size:1.4em;font-weight:800;color:#ea580c;">64<span style="font-size:0.6em;color:#9ca3af;">/85</span></span>
+            </div>
+            <div style="margin:8px 0;"></div>
+            <div style="font-size:0.85em;color:#374151;margin-top:8px;">
+                <strong>Strength:</strong> Built a clear, well-reasoned multi-stop estimate (apartment to storage plus a house drop-off), explicitly breaking out drive time, stairs, and the trip fee into the final $1,486 number.<br>
+                <strong>Coaching:</strong> No Worries Damage Coverage and On-Time Guarantee were never mentioned, and the Save Your Ass speech was reduced to a single line about prep saving time — add the consolidation and "take a carload" tips and close that section explicitly.
+            </div>
+        </div>
+        <div style="border:1px solid #e5e7eb;border-left:4px solid #ea580c;border-radius:8px;padding:16px;margin-bottom:12px;">
+            <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+                <div>
+                    <span style="font-weight:700;font-size:1.05em;">Arden Asilo</span>
+                    <span style="color:#6b7280;font-size:0.85em;margin-left:8px;">Dallas Einstein Moving Company · 19.2 min</span>
+                </div>
+                <span style="font-size:1.4em;font-weight:800;color:#ea580c;">61<span style="font-size:0.6em;color:#9ca3af;">/85</span></span>
+            </div>
+            <div style="margin:8px 0;"></div>
+            <div style="font-size:0.85em;color:#374151;margin-top:8px;">
+                <strong>Strength:</strong> Full differentiator pitch was delivered perfectly — hourly rate, inclusions, No Worries Damage Coverage, Meet Your Mover, On-Time Guarantee, and the complete no-hidden-fees list — and rep stayed calm and non-defensive when the customer disclosed distressing personal history and walked away.<br>
+                <strong>Coaching:</strong> The estimate (6.5-7 hrs) landed well above the customer's anchor from a prior mover and no Save Your Ass prep speech was ever offered to show how she could shrink that time — leading with consolidation/carload tips before quoting hours might have prevented the walk-away here.
+            </div>
+        </div>
+        <div style="border:1px solid #e5e7eb;border-left:4px solid #ea580c;border-radius:8px;padding:16px;margin-bottom:12px;">
+            <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+                <div>
+                    <span style="font-weight:700;font-size:1.05em;">Hector Zavala</span>
+                    <span style="color:#6b7280;font-size:0.85em;margin-left:8px;">North Austin Einstein Moving Company · 39.0 min</span>
+                </div>
+                <span style="font-size:1.4em;font-weight:800;color:#ea580c;">61<span style="font-size:0.6em;color:#9ca3af;">/85</span></span>
+            </div>
+            <div style="margin:8px 0;"></div>
+            <div style="font-size:0.85em;color:#374151;margin-top:8px;">
+                <strong>Strength:</strong> Exceptional, detailed insurance explanation and budget-conscious estimating — Hector explicitly told the customer he builds estimates conservatively 'to avoid surprises in the budget' and walked through the $2,000 No Worries coverage in depth, which visibly reassured her.<br>
+                <strong>Coaching:</strong> Never delivered the 'pricing is super simple' opener, Meet Your Mover email mention, On-Time Guarantee, or the full no-hidden-fees pitch (no CC fee/fuel surcharge/assembly fee) — these differentiators were skipped entirely despite a 39-minute call with ample time to include them.
+            </div>
+        </div>
+    </div>
+    <div class="section">
+      <h2>🎯 Coaching Priority — Lowest 8 Avgs</h2>
+      <table>
+        <thead><tr><th>Rep</th><th>Avg</th><th>Scores</th></tr></thead>
+        <tbody>
+        <tr>
+            <td style="font-weight:600;">Zachary Krodel</td>
+            <td style="text-align:center;font-weight:700;color:#dc2626;">25.5</td>
+            <td style="font-size:0.85em;color:#6b7280;">21 / 30</td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;">Rance Pope</td>
+            <td style="text-align:center;font-weight:700;color:#dc2626;">27.0</td>
+            <td style="font-size:0.85em;color:#6b7280;">27</td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;">Chris Anderson</td>
+            <td style="text-align:center;font-weight:700;color:#dc2626;">31.0</td>
+            <td style="font-size:0.85em;color:#6b7280;">18 / 44</td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;">Frank Williams</td>
+            <td style="text-align:center;font-weight:700;color:#dc2626;">33.0</td>
+            <td style="font-size:0.85em;color:#6b7280;">33</td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;">Jules Nicolas</td>
+            <td style="text-align:center;font-weight:700;color:#dc2626;">34.0</td>
+            <td style="font-size:0.85em;color:#6b7280;">32 / 36</td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;">Lukas Konrad</td>
+            <td style="text-align:center;font-weight:700;color:#dc2626;">40.0</td>
+            <td style="font-size:0.85em;color:#6b7280;">40</td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;">Chris Beattie</td>
+            <td style="text-align:center;font-weight:700;color:#dc2626;">41.0</td>
+            <td style="font-size:0.85em;color:#6b7280;">41</td>
+        </tr>
+        <tr>
+            <td style="font-weight:600;">Erik Orama</td>
+            <td style="text-align:center;font-weight:700;color:#dc2626;">47.0</td>
+            <td style="font-size:0.85em;color:#6b7280;">47</td>
+        </tr></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>📋 Bottom 5 Calls — Deepest Gaps</h2>
+    
+        <div style="border:1px solid #e5e7eb;border-left:4px solid #dc2626;border-radius:8px;padding:16px;margin-bottom:12px;">
+            <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+                <div>
+                    <span style="font-weight:700;font-size:1.05em;">Jules Nicolas</span>
+                    <span style="color:#6b7280;font-size:0.85em;margin-left:8px;">Dallas Einstein Moving Company · 7.8 min</span>
+                </div>
+                <span style="font-size:1.4em;font-weight:800;color:#dc2626;">32<span style="font-size:0.6em;color:#9ca3af;">/85</span></span>
+            </div>
+            <div style="margin:8px 0;"></div>
+            <div style="font-size:0.85em;color:#374151;margin-top:8px;">
+                <strong>Strength:</strong> Clearly broke down the packing vs. moving costs ($2,764 packing / $3,535 moving) and patiently re-explained the 'only pay for materials used' billing model after the call dropped.<br>
+                <strong>Coaching:</strong> Repeatedly addressed the customer as 'sir' despite her being female, skipped agenda-setting entirely, and never mentioned No Worries Damage Coverage, Meet Your Mover, or On-Time Guarantee — open with a proper agenda and weave in the differentiators.
+            </div>
+        </div>
+        <div style="border:1px solid #e5e7eb;border-left:4px solid #dc2626;border-radius:8px;padding:16px;margin-bottom:12px;">
+            <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+                <div>
+                    <span style="font-weight:700;font-size:1.05em;">Zachary Krodel</span>
+                    <span style="color:#6b7280;font-size:0.85em;margin-left:8px;">McKinney Einstein Moving Company · 6.8 min</span>
+                </div>
+                <span style="font-size:1.4em;font-weight:800;color:#dc2626;">30<span style="font-size:0.6em;color:#9ca3af;">/85</span></span>
+            </div>
+            <div style="margin:8px 0;"></div>
+            <div style="font-size:0.85em;color:#374151;margin-top:8px;">
+                <strong>Strength:</strong> Proactively and patiently explained the truck-capacity and DOT driving-hour logic without being pushed twice, e.g. 'with D.O.T. regulations we can't have them driving and moving for a certain number of hours,' which built credibility with a skeptical customer.<br>
+                <strong>Coaching:</strong> Never learned or used the customer's name across a 7-minute call and covered zero pricing differentiators (no damage coverage, Meet Your Mover, On-Time Guarantee); anchor early with the customer's name and always deliver the value pitch, even on complex long-distance ballparks.
+            </div>
+        </div>
+        <div style="border:1px solid #e5e7eb;border-left:4px solid #dc2626;border-radius:8px;padding:16px;margin-bottom:12px;">
+            <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+                <div>
+                    <span style="font-weight:700;font-size:1.05em;">Rance Pope</span>
+                    <span style="color:#6b7280;font-size:0.85em;margin-left:8px;">South Austin Einstein Moving Company · 6.1 min</span>
+                </div>
+                <span style="font-size:1.4em;font-weight:800;color:#dc2626;">27<span style="font-size:0.6em;color:#9ca3af;">/85</span></span>
+            </div>
+            <div style="margin:8px 0;"></div>
+            <div style="font-size:0.85em;color:#374151;margin-top:8px;">
+                <strong>Strength:</strong> Efficiently confirmed the missing booking details and gave a clear bottom-line quote ($945) with an explicit close attempt ('did you want to go ahead and get that booked?').<br>
+                <strong>Coaching:</strong> Gave a bare total with no rate breakdown and no differentiators (No Worries, Meet Your Mover, On-Time Guarantee, clock, or Save Your Ass) — this read as a data-gathering call rather than a full pricing conversation; walk the customer through the full pitch even on short follow-ups.
+            </div>
+        </div>
+        <div style="border:1px solid #e5e7eb;border-left:4px solid #dc2626;border-radius:8px;padding:16px;margin-bottom:12px;">
+            <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+                <div>
+                    <span style="font-weight:700;font-size:1.05em;">Zachary Krodel</span>
+                    <span style="color:#6b7280;font-size:0.85em;margin-left:8px;">McKinney Einstein Moving Company · 6.1 min</span>
+                </div>
+                <span style="font-size:1.4em;font-weight:800;color:#dc2626;">21<span style="font-size:0.6em;color:#9ca3af;">/85</span></span>
+            </div>
+            <div style="margin:8px 0;"></div>
+            <div style="font-size:0.85em;color:#374151;margin-top:8px;">
+                <strong>Strength:</strong> Moved quickly to a usable ballpark number for a complex long-distance-plus-storage move despite minimal information gathered, e.g. 'I can give you a very rough estimate.'<br>
+                <strong>Coaching:</strong> Never got the customer's name, skipped nearly all discovery (no stairs, access, boxes, or stressor questions), and delivered zero pricing differentiators; even on a quick ballpark call the rep should anchor with the customer's name and cover the value pitch.
+            </div>
+        </div>
+        <div style="border:1px solid #e5e7eb;border-left:4px solid #dc2626;border-radius:8px;padding:16px;margin-bottom:12px;">
+            <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+                <div>
+                    <span style="font-weight:700;font-size:1.05em;">Chris Anderson</span>
+                    <span style="color:#6b7280;font-size:0.85em;margin-left:8px;">South Austin Einstein Moving Company · 5.6 min</span>
+                </div>
+                <span style="font-size:1.4em;font-weight:800;color:#dc2626;">18<span style="font-size:0.6em;color:#9ca3af;">/85</span></span>
+            </div>
+            <div style="margin:8px 0;"></div>
+            <div style="font-size:0.85em;color:#374151;margin-top:8px;">
+                <strong>Strength:</strong> Rep proactively pulled up the daughter's existing booking profile and found the prior emailed estimate, saving the caller from re-explaining the whole move from scratch.<br>
+                <strong>Coaching:</strong> No agenda statement, no hourly-rate/differentiator pitch (No Worries coverage, Meet Your Mover, On-Time Guarantee, no-hidden-fees), no clock explanation, and no booking attempt or email handoff — this reads like a quick estimate recap rather than a real sales conversation; walk through the full pricing script even on "just checking a number" calls.
+            </div>
+        </div>
+  </div>
+
+  <div style="text-align:center;color:#9ca3af;font-size:0.8em;padding:24px 0;">
+    Generated by Gary · Einstein Moving Company AI Chief of Staff · 2026-07-03
+  </div>
+
+</div>
+</body>
+</html>

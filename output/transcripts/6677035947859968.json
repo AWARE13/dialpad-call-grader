@@ -1,0 +1,768 @@
+{
+  "call_id": "5586320413106176",
+  "lines": [
+    {
+      "content": "ai_scorecard_llm_v2_na",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:08:35.473961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_na",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:08:35.473961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:08:35.473961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_trigger",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:08:35.473961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "I, Sam we coming, is this Chris?",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:08:42.591961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:08:42.591961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:08:42.591961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:08:42.591961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:08:42.591961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:08:42.591961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:08:42.591961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:08:42.591961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:08:42.591961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:08:43.433961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:08:44.593961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "Hey, Chris, it's Ed. How you doing today?",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:08:45.608702",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "ner",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:08:46.821702",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "contact_name",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:08:47.221702",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "ner",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:08:47.221702",
+      "type": "moment"
+    },
+    {
+      "content": "I'm doing great. How are you?",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:08:48.591961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "Good. Happy almost four. Hey Chris can you help me with something? We've got a scheduled move at the towards the end of July that we've got set up on the books right now and I need just to tweak the time, the start time for that move. Can you look that up on your, in your computer there or anything and help me make that modification please?",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:08:51.008702",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "call_purpose",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:08:51.008702",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "positive_sentiment",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:08:51.008702",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "ner",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:08:54.301702",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "question",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:08:54.781702",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, sir. What's the date?",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:09:15.591961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:09:15.591961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "question",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:09:16.953961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "Great. Okay. So it's gonna be July 29th.",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:09:18.008702",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "date",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:09:20.341702",
+      "type": "moment"
+    },
+    {
+      "content": "And, what's the name on the job?",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:09:26.391961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "question",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:09:26.713961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "It's gonna be under robes. It's R-O-B-E-R-G-E.",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:09:28.208702",
+      "type": "transcript"
+    },
+    {
+      "content": "I gotcha Jan. Rober.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:09:33.591961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:09:33.591961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:09:34.353961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:09:34.713961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "Yup, that's good, good enough. And I, and I yeah, Chris I think we had that originally set up for 8:00, right?",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:09:35.408702",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, you just switch it to.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:09:37.191961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "ner",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:09:41.861702",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "time",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:09:44.141702",
+      "type": "moment"
+    },
+    {
+      "content": "8:30. Yes.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:09:45.591961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "time",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:09:45.591961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "8:30. Okay, can we move that to 2:00 PM?",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:09:46.808702",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "time",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:09:46.808702",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "question",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:09:48.541702",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "time",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:09:49.901702",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, it'll be, so basically, that the only thing about that is the afternoon, it's a tenant target start time of two. But it generally like, it has, we have two, I can do 2:00 to four arrival window. Or it's just a two arrival window. Cause it's going to be booked after another job. So they plan to arrive right in the middle. Okay, just as long as you're clear.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:09:52.191961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:09:52.191961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "That would be perfect.",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:09:54.008702",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "positive_sentiment",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:09:54.008702",
+      "type": "moment"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:09:59.313961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "time",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:10:04.233961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "Oh, yeah, no worries.",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:10:10.208702",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "No worries. Got it! No that, that's, no, no, no, you guys do a good job that, that's not a problem. And I think on that, Chris one thing I was gonna ask it, give me advice on that, so you guys moved us into the apartment, we're basically going from one apartment building right across the street to another. So there's no, we're, you're not gonna be using your truck once you get there, it's just transferring from one apartment into another apartment. But we actually, we have to cross a fairly unused street, it's between building so we're not gonna worry about traffic it'll be okay but I have one question do you guys have, you know, we've, we brought a lot of clothes with us that are on hangars. Do you have any long bars that are wrong wheels that we can just transfer the clothe on hangars and move them from one apartment to the other, do you have such a thing.",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:10:12.608702",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "ner",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:10:20.141702",
+      "type": "moment"
+    },
+    {
+      "content": "You, are you talking about like a clothing rack?",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:11:08.391961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "Yeah, I guess so right. Exactly. Just something that we can take our closer or on hangars put them on this rack and then just slide the whole rack over into the other, other closet.",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:11:13.208702",
+      "type": "transcript"
+    },
+    {
+      "content": "We.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:11:16.191961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "I gotcha. So we don't have any clothing rack like that. We do have gone dollar box, it's kind of big open face moving boxes that they can general for moving close that way if our guys are doing it, they'll just put, we generally put trash bags like upside down over the hanging clothes and zip tie the hangers together and just lay them flat in the gun box and will them to them from the truck. That way we don't have actual like wax or anything.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:11:28.791961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "Okay.",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:11:34.808702",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:11:35.793961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:11:41.913961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "Okay.",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:11:48.008702",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "Okay, alright, I've got a, we've got something that's not heavy duty, it's it will work, so we may actually try and initiate do some of that ourselves to get that done. So that, that's it. But as long as they know or if that helps you as long as you guys know, logistically, we've got a to get out a hallway to an elevator, we'll get down to the main floor. We'll cross the street and then immediately go into an elevator in the next building to go up to the other apartment. If that helps you out, I don't know how that you plan accordingly but that's kind of the goal here, okay?",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:11:50.408702",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:12:01.191961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "Okay, now I had a couple of questions. What is it your current? It's an 8502. Present road in Dallas.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:12:31.191961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:12:33.633961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "question",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:12:34.313961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "Yeah.",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:12:34.808702",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:12:37.353961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "Yes, so 8502 is the building that we're currently in, that's where, that's where the manual start and then we're gonna go over to 8600 and that's just literally the separation be buildings is like 200 feet and so we're going, yeah.",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:12:38.408702",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:12:39.591961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "Right.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:12:52.191961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "No.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:12:56.391961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "I gotcha. No someone just act it automates addresses. So someone an auto when you said about going close by. So there's an 8600. Press road in Plano and they had that at the unload address. So I just wanna make sure with the Dallas one.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:12:59.391961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:13:07.673961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "Oh, oh, oh, no, oh, oh, no, no, no. It's 8600 it's Dallas.",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:13:10.208702",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:13:11.393961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "contact_name",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:13:14.301702",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "ner",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:13:14.301702",
+      "type": "moment"
+    },
+    {
+      "content": "Gotcha. I gotcha. I changed it. Yeah.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:13:14.991961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:13:14.991961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "Yeah, yeah, definitely not Plano. Oh, no, no so, that's why I said get, you know, you're not, once you park your truck or whenever they get there, they're not gonna use that truck again. We're just gonna literally move stuff from one apartment building into the other. By crossing that street. However many fit it is, it's not very much. It's a, it's a side street between two buildings. It is a road that connects other people. But, it's not very well. It's not highly you so we're not gonna be waiting for traffic to go by for us to go back and forth but I just wanted them to know however they work out whatever it is, logistically, you know we're going from one apartment to the other, that's all. Okay.",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:13:16.208702",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "ner",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:13:17.901702",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:13:45.591961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "Okay, no worries. I've changed it to the afternoon. I'll send you an updated confirmation email with the afternoon time for the twenty ninth but we should be all set. Let's know anything changes.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:14:01.191961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:14:01.191961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:14:02.353961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "action_item",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:14:04.193961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:14:05.113961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "Okay.",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:14:06.608702",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "Great, that's perfect then I think that was on the twenty ninth. I think that's on that Thursday, right?",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:14:12.008702",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "positive_sentiment",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:14:12.821702",
+      "type": "moment"
+    },
+    {
+      "content": "Correct, it says, hold on. Yes, Thurs, no, it says Wednesday July 29th.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:14:18.591961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "date",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:14:26.473961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "Is it the twenty? Okay, hang on. Maybe, maybe I'm wrong a day here, brother. So let me just make sure we got that. Right. Yeah, you're right. I'm sorry. It is Wednesday. That's correct, that's the date. So it's definitely the twenty ninth so, we're good. Good. That's wonderful. Well, what, yeah, we'll look forward to seeing you have a safe fourth Chris. Okay?",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:14:27.608702",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "positive_sentiment",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:14:27.608702",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "question",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:14:27.608702",
+      "type": "moment"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:14:27.608961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "No worries, okay.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:14:33.591961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:14:34.033961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "Okay, alrighty, thanks for the call. We'll talk to you soon.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:14:43.191961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:14:43.191961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:14:43.191961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:14:43.191961",
+      "type": "moment",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "ner",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:14:50.461702",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, you as well. Thank you sir. Alright, you too.",
+      "name": "Chris Beattie",
+      "time": "2026-07-03T17:14:50.991961",
+      "type": "transcript",
+      "user_id": "6165469371629568"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDU0ozW8AsM",
+      "content": "Take care. Okay, bye-bye.",
+      "name": "(817) 692-1966",
+      "time": "2026-07-03T17:14:53.408702",
+      "type": "transcript"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "call_id": "4683249182646272",
+  "rep_name": "Roselyn Pammit",
+  "branch": "South Austin",
+  "duration_min": 5.2,
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "total_score": 16,
+  "mastery": false,
+  "sections": {
+    "set_the_agenda": {
+      "score": 3,
+      "max": 7,
+      "missed": [
+        "how are you today",
+        "check availability for move date",
+        "agenda statement",
+        "sound good confirmation"
+      ]
+    },
+    "probe_for_info": {
+      "score": 7,
+      "max": 9,
+      "missed": [
+        "special considerations",
+        "moving stressors"
+      ]
+    },
+    "pricing_differentiators": {
+      "score": 0,
+      "max": 20,
+      "missed": [
+        "pricing opener",
+        "hourly rate",
+        "what's included",
+        "disassembly included",
+        "No Worries Damage Coverage",
+        "Meet Your Mover",
+        "On-Time Guarantee",
+        "no hidden fees pitch"
+      ]
+    },
+    "clock": {
+      "score": 1,
+      "max": 4,
+      "missed": [
+        "clock starts on-site",
+        "15-minute increments",
+        "sense-check"
+      ]
+    },
+    "estimate": {
+      "score": 3,
+      "max": 13,
+      "missed": [
+        "typical time range",
+        "movers and trucks count",
+        "stairs/elevator variable",
+        "drive time variable",
+        "walk distance variable"
+      ]
+    },
+    "save_your_ass": {
+      "score": 0,
+      "max": 10,
+      "missed": [
+        "prep = shorter move = lower bill",
+        "consolidation examples",
+        "take a carload tip",
+        "sense-check"
+      ]
+    },
+    "quote_booking": {
+      "score": 1,
+      "max": 11,
+      "missed": [
+        "attempt to book today",
+        "no deposit mentioned",
+        "BOLDED list",
+        "reply with corrections",
+        "questions before letting go",
+        "hours and contact"
+      ]
+    },
+    "politeness": {
+      "score": 1,
+      "max": 3,
+      "missed": [
+        "customer name used 3+ times",
+        "customer mood positive at end"
+      ]
+    },
+    "bonus": {
+      "score": 0,
+      "max": 8,
+      "missed": [
+        "clear pace/efficiency",
+        "rapport/humor",
+        "insurance explanation",
+        "proactive FAQs",
+        "budget framing"
+      ]
+    }
+  },
+  "save_your_ass_hit": false,
+  "meet_your_mover_hit": false,
+  "on_time_guarantee_hit": false,
+  "email_handoff_hit": false,
+  "agenda_opener_hit": false,
+  "top_strength": "Gathered destination details from the quote form and confirmed storage unit access (elevator, floor, parking proximity).",
+  "coaching_note": "The entire pricing and differentiator section was skipped \u2014 customer got only a dollar figure with no value-build, making a price objection inevitable and impossible to overcome.",
+  "phone_presence_score": 2,
+  "phone_presence_label": "Flat",
+  "phone_presence_notes": "Interaction was purely transactional with no rapport or empathy; when the customer said he had lower quotes, Roselyn offered no retention language and simply said 'no problem.'"
+}

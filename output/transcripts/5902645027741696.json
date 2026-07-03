@@ -1,0 +1,964 @@
+{
+  "call_id": "6292793682894848",
+  "lines": [
+    {
+      "content": "Good afternoon, this is Cameron with Einstein Moving Company. How can I help you?",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:37:13.628046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:37:13.628046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:37:13.628046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:37:13.628046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:37:13.628046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:37:13.628046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "ner",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:37:15.089046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "ner",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:37:15.529046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:37:16.569046",
+      "type": "custom_moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Hi! Hi, I was trying to get a quote online, but it told me to give you a call.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:37:18.879728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "call_purpose",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:37:18.879728",
+      "type": "moment"
+    },
+    {
+      "content": "No problem. I can definitely help you with that. Did you, did you end up submitting the inquiry online?",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:37:23.828046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Awesome, so.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:37:27.279728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "positive_sentiment",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:37:27.279728",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "No, I didn't.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:37:30.879728",
+      "type": "transcript"
+    },
+    {
+      "content": "No issue.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:37:32.228046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "So really the only thing is that I just need a couple of like heavy things moved from my apartment, like I'm gonna do the rest, I just need like my couch and like my mattress and stuff moved. I was just calling to see what you guys' rates are.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:37:35.679728",
+      "type": "transcript"
+    },
+    {
+      "content": "Let me check. So this would be for the south. Let me pull up, I'll just have to.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:37:56.228046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "Just build your profile real quick that way I can like access our little database and a good a good first name. Last name.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:38:03.428046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Okay, yeah.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:38:08.679728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Erica and then last name par P-A-R-R.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:38:12.279728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "ner",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:38:12.279728",
+      "type": "moment"
+    },
+    {
+      "content": "And then is this a good phone number to reach you at 409-550-5350.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:38:20.228046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "phone_number",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:38:22.609046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Yes.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:38:26.679728",
+      "type": "transcript"
+    },
+    {
+      "content": "And then a good email address for you.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:38:31.628046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "It's gonna be my first name and my last name. The number two @gmail.com.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:38:35.079728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "email_address",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:38:40.598728",
+      "type": "moment"
+    },
+    {
+      "content": "And did you have a specific day you were looking to get this moved done?",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:38:49.628046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Yeah, I was hoping on the twentieth.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:38:54.879728",
+      "type": "transcript"
+    },
+    {
+      "content": "Just give me one second.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:39:10.628046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "Unfortunately, the south branch is, is booked out for that Saturday and Sunday. I do believe I could likely fit you into an afternoon slot on Friday though. When do you have any flexibility with your move date?",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:39:35.228046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Awesome.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:39:42.879728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "positive_sentiment",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:39:42.879728",
+      "type": "moment"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:39:49.628046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Yeah, I, I'm not sure I have to speak with my office about that cause the moving date is on the twentieth but we have, like, a little arrangement. I can maybe see if we can do Friday, but I'd have to check with them.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:39:54.279728",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:39:59.828046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "That's fine. I can just go ahead and just like build you up an estimate and let you know what like the pricing structures and all that.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:40:10.628046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Okay.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:40:12.879728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Yeah, that'd be great.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:40:17.679728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "positive_sentiment",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:40:17.679728",
+      "type": "moment"
+    },
+    {
+      "content": "But you said it was just gonna be a, a couple of heavy items. Did you have a happen to have a list?",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:40:18.428046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Yeah, it's gonna be a.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:40:24.879728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Couch. Oh, I have it, right, it's a two piece couch, a small entertainment center, a mattress, and then I have a washer and dryer but I don't wanna keep it. Would you all be able to like dispose it or do you all do that?",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:40:30.878728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "question",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:40:42.838728",
+      "type": "moment"
+    },
+    {
+      "content": "Unfortunately we do not.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:40:45.428046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Okay. Okay, I'll find someone else the ticket, okay. So no Washer/Dryer a coffee table and maybe two extra large boxes.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:40:48.279728",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Is this going to be an apartment move or a house move?",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:40:59.228046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:41:01.028046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Yeah, an apartment.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:41:04.479728",
+      "type": "transcript"
+    },
+    {
+      "content": "An apartment, which floor?",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:41:05.228046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "A second.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:41:08.679728",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, where's it going?",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:41:10.028046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "It's quite. I'm just moving to a different unit. It, it's in the same complex just a different building. Yes.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:41:14.079728",
+      "type": "transcript"
+    },
+    {
+      "content": "In complex. Okay, well, it sounds like this would be our minimum then, which I expect just let you know. Alright, what that would be so we charge $107 per hour per movers. With our typical to mover team which this would be would be a $214 per hour. And then with our, we have a two and a half hour minimum. Everything above that is prorated fifteen minute increments. But we, this would go above that and at that minimum it would be, you'd be looking at $535 flat.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:41:18.428046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Okay.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:41:27.279728",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:41:28.329046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:41:31.089046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "currency",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:41:32.729046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Mm-hmm.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:41:35.679728",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:41:44.329046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "535 alrighty. Alright.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:41:47.679728",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes ma'am.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:41:49.028046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Fine.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:41:54.879728",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:41:55.689046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "If you'd like I can, we also don't require any deposit nor any kind of cancellation fee or, or any kind of has to get moved around. As long as there's availability open if you'd like I can build you a profile and, or like actually build out your estimate and move you on to the schedule.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:41:56.828046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "535.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:41:57.279728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Mm-hmm.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:42:06.879728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "That'd be Friday. Yeah.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:42:12.879728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "I'll be, we sure that yeah, I'll have to, I'll have to figure out if I can get my, I mean, there's no cancellation fee or anything like that what you said. Okay, yeah, I guess we might as well and then I'll let you all know if I have to cancel or not.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:42:18.879728",
+      "type": "transcript"
+    },
+    {
+      "content": "No ma'am.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:42:26.228046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "No problem. Yeah, that's just the smart way to do it. That way we can just like reserve the timeslot, you know just make sure it's avail just available mm-hmm or do you then whenever you're ready. Can I get the address of your load application?",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:42:34.628046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Yeah.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:42:40.479728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Mm-hmm.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:42:43.479728",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:42:44.929046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Yes, so it's gonna be 515 east flatter lane apartment 1208.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:42:49.479728",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm and what was square footage of this department?",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:43:03.428046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "It's like 5560 or 590 or something like that.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:43:09.879728",
+      "type": "transcript"
+    },
+    {
+      "content": "No problem.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:43:15.428046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "And you said second floor. Is there an elevator?",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:43:24.428046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:43:25.929046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "No. It stairs.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:43:28.479728",
+      "type": "transcript"
+    },
+    {
+      "content": "No problem.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:43:29.228046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "Do you know if we'd be able to move park or moving trucks kinda like at the bottom of the staircase.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:43:32.228046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "No, it wouldn't be a staircase. You'd have to like park on the, like road or the parking lot and then walk through the stairs. But it's not that or.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:43:39.879728",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:43:45.428046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "Do you have a rough a rough estimation of what that isn't fee.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:43:48.428046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Yeah, maybe 2030 feet from the staircase.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:43:58.479728",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, no problem. Mm-hmm!",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:44:01.628046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "And you said, you said how many boxes again?",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:44:14.228046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Like two extra large boxes, they're just do heavy.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:44:19.479728",
+      "type": "transcript"
+    },
+    {
+      "content": "Like two. Okay, they, they're pretty huge, no problem.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:44:19.628046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Yeah.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:44:25.078728",
+      "type": "transcript"
+    },
+    {
+      "content": "And then the unload is gonna be the same address, correct? And what's the unit number?",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:44:39.428046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:44:42.169046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "It's gonna be 4233.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:44:44.679728",
+      "type": "transcript"
+    },
+    {
+      "content": "Which floor is this apartment located on?",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:44:50.228046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:44:50.228046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "The second.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:44:54.279728",
+      "type": "transcript"
+    },
+    {
+      "content": "And the square footage.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:45:00.428046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "900.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:45:03.879728",
+      "type": "transcript"
+    },
+    {
+      "content": "And then do we, I would have to be in our afternoon slot so I'd expect movers to arrive roughly around like, 3330.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:45:25.028046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Okay.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:45:31.479728",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:45:37.089046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Okay.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:45:37.479728",
+      "type": "transcript"
+    },
+    {
+      "content": "But it also depend to bid on just how that's just based on the quote of their job, their job they have in the morning and it's gonna depend on how that kind of unfolds but they'll go ahead and keep you updated with like what the ET is actually looking like.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:45:38.828046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Yeah.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:45:39.879728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Mm-hmm.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:45:46.479728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Mm-hmm.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:45:50.079728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Okay, yeah.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:45:53.679728",
+      "type": "transcript"
+    },
+    {
+      "content": "Alrighty, I got you moved to the schedule and I'll go ahead and send over a confirmation confirmation email. Let me also just running through like just how the clock works and the little per come with moving with us that way just aware of our little you know, you know they need stuff. But anyways your move time doesn't actually start like your clock. Your clock didn't actually start until we're on the on site and open up the contract you're not paying for the time that it takes to, to get to our yard to. And then that was for as long as you need us. Of course we have that $2 our minimum that we discussed and everything after that. If we did happen to go after that over that which I don't believe will is probably the fifteen minute increments so at the end of your mo, we essentially around you down there is fifteen minute increment and charge you for that.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:46:22.028046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "monologuing",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:46:40.249046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Mm-hmm.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:46:40.863728",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:46:48.369046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:46:50.209046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Okay.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:46:52.263728",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:46:53.329046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Mm-hmm.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:46:57.063728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Mm-hmm.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:47:02.463728",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:47:03.009046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "Of course there's, there's no deposit fee to cancellation fees as I mentioned, we don't actually take any of your credit card information till your moves all set and done. We do a really good damage coverage program. So we set aside $2,000 to repair, replace or reimburse for any accidental damages as well as all of our employees are full-time on employees really are covered under our insurance and obviously we spend a lot of time and effort in pride and, and training these guys up and them and we also meeting speakers. So a couple of days before your move, you receive an email, they would have like a bi on a picture of your movers. That way you don't have you know, just complete stranger showing up the mover stuff.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:47:05.828046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "monologuing",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:47:07.089046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Mm-hmm.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:47:10.863728",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Mm-hmm.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:47:14.463728",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:47:15.609046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Mm-hmm.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:47:20.463728",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:47:25.249046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Mm-hmm.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:47:31.263728",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:47:33.369046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "But I believe that's all all the good stuff. Do you, do you have any questions, comments, concerns about anything at all?",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:47:41.828046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Mm-hmm. Okay.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:47:42.063728",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:47:44.369046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "No, no, everything sounds good.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:47:50.463728",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, work. Yeah, you're all set up for that Friday the afternoon and then I'll get a confirmation email sent over to you about two minutes from now and just let us know if anything changes.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:47:52.628046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "support_issue_resolved",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:47:54.369046",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD04L7r7QsM",
+      "content": "Okay, I will. Thank you. You too.",
+      "name": "Steven Parr",
+      "time": "2026-06-14T17:48:04.863728",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes ma'am. Have a good day.",
+      "name": "Cameron Klepac",
+      "time": "2026-06-14T17:48:05.228046",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    }
+  ]
+}

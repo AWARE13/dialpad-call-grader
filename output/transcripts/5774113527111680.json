@@ -1,0 +1,740 @@
+{
+  "call_id": "6130717363609600",
+  "lines": [
+    {
+      "content": "ai_scorecard_llm_v2_na",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:00.238088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:00.238088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:00.238088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:00.238088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_trigger",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:00.238088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "No, I start moving Zachary speaking, how can I help you?",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:03.230088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:03.230088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:03.230088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:03.230088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:03.230088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ner",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:07.158088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:07.998088",
+      "type": "custom_moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Hi, good morning. My name is Judy Markman, I'm going to be moving from Frisco, Texas to a little town called Todd mission, Texas which is north of Houston and I read about your company online, you get pretty good ratings, so, I'm wondering if someone would like to come out and give me an estimate to move.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:21:08.415116",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "call_purpose",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:21:08.415116",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "contact_name",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:21:10.407116",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "ner",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:21:10.407116",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "ner",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:21:12.567116",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "ner",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:21:15.807116",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "ner",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:21:17.927116",
+      "type": "moment"
+    },
+    {
+      "content": "Are you moving from a home, an apartment or a townhome?",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:28.430088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "question",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:28.430088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Home to home.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:21:31.215116",
+      "type": "transcript"
+    },
+    {
+      "content": "What's the square footage of your home?",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:34.430088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:34.430088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "question",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:34.430088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "The current home is 4300 square feet. The new home is 4500 square feet.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:21:36.615116",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "phone_number",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:21:38.527116",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "phone_number",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:21:41.687116",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, and what date were you looking to move?",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:45.830088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "question",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:46.678088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "We're not going to move until probably July 25th.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:21:48.015116",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "date",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:21:51.615116",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "But I'm leaving the country this weekend for a couple of weeks and so I just thought I would get lined up before I left if that's not possible it's okay.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:21:55.815116",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, well.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:21:56.630088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "No, it is totally possible so, so what we do though is we don't come out in person, we can send over a link. You don't have to download anything and you can either walk us through your home one-on-one or at your own leisure. Just upload it to a, a website and then we can review it. Give you an accurate estimate based off your actual furniture and the number of boxes and then build the estimate up from there.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:22:05.630088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:22:05.630088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:22:05.630088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Yeah.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:22:31.815116",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Okay, do you pack also?",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:22:34.215116",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "question",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:22:36.087116",
+      "type": "moment"
+    },
+    {
+      "content": "We do.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:22:38.630088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:22:38.630088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Okay, that would be something I would be interested in. I can tell you that I'm gonna need the biggest truck you have. Because most of my furniture is very heavy and not it's not stack. I know this from a previous move and I have artwork and things that are going to have to be wrapped. Well so, I don't mind uploading but I just want to kind of be apples to apples when you arrive to pack or arrive to move. I don't want there to be any surprises.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:22:39.615116",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:23:05.630088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "No, do we want surprises. So, we're on the same page. I'm gonna be honest with you, we move, we move with one size truck, that's a 26 foot box truck. Just given your square footage alone, we would easily send at least three trucks to complete your move. But that's why we're going to do the virtual walkthrough or have you upload those images or videos to, to ensure we're sending the appropriate amount of resources.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:23:18.830088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:23:18.830088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Yeah. Okay, good, good.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:23:19.815116",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Okay. Okay. So your truck must be, so I moved from Las Vegas to Dallas ten years ago and I did have one truck but it was a massive truck. I mean, so, are your trucks smaller than the interstate type of trucks that I would be taking three trucks.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:23:43.215116",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "ner",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:23:49.087116",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "ner",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:23:50.087116",
+      "type": "moment"
+    },
+    {
+      "content": "So, our 26 foot box truck can typically fit around to 1700 square foot home if you think of the biggest U-Haul or Penske that you've seen on the road, that's what we move with.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:24:05.630088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Okay, yeah, that's very small.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:24:14.415116",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, that's, it sounds like you got moved from Vegas and a semi truck.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:24:18.830088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ner",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:24:21.438088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Right, we did a big eighteen Wheeler so, and, and that it was still to the brown we actually had to take a, a pod so in addition to, and leave a lot of stuff. So based on that you, so you don't have the larger. You're more of a, okay, so I what I am concerned with is I don't care how many trucks it is. I just know each truck is going to be two men. It's going to start to add up, whereas if I have one large truck I can.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:24:22.215116",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:24:27.230088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "What and that?",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:24:41.030088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "Yes.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:24:57.830088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Two or three men so I guess we just have to kind of figure if we're the right fit. I do get good quality results on you. When I Google you for you know, being like a five star. You are probably the only five star and the metroplex here based on what I've seen. Do you feel that you're a good fit for me if you have to bring multiple trucks?",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:24:58.815116",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "ner",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:25:09.647116",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "question",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:25:19.087116",
+      "type": "moment"
+    },
+    {
+      "content": "I can, if you, if you want I'm calculating it right now, I'm gonna give you a pretty high-end, very conservative estimate for what I think this will take. Now obviously this isn't binding or definite it's just, just to see it would be a good, good fit. I'll give you just what the range I think this will cost.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:25:27.230088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:25:27.230088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Okay.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:25:37.215116",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Sure, yeah.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:25:41.415116",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Okay.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:25:46.815116",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. So all in for full packing, moving the crew would need to stay in a hotel overnight. There is a pretty sizable travel fee. This is again for six band crew with three trucks. I currently have this estimated for $19,740.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:26:29.630088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "currency",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:26:42.838088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Okay, three trucks and honey please. Okay, I'm sorry, it was nineteen.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:26:45.615116",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Okay.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:26:56.415116",
+      "type": "transcript"
+    },
+    {
+      "content": "$19,740, and this is over three days, a six man crew to pack, load all your belongings and deliver it to that new city down in the Houston area.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:26:56.630088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "currency",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:26:56.630088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Todd, miss? Sure, sure. Okay, so three days past one day, Bode, one day, deliver one day.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:27:08.415116",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "ner",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:27:08.415116",
+      "type": "moment"
+    },
+    {
+      "content": "ner",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:27:09.158088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "Correct, exactly right.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:27:18.230088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Okay, and okay, so let's go with the pack one day, there's no overnight pack then load the second day. Where do I be long go while and, and there should be no overnight the first night, because they're still in the metroplex where do I belongings go overnight?",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:27:18.615116",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "question",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:27:30.087116",
+      "type": "moment"
+    },
+    {
+      "content": "We stick them in a a holiday in close to your newest residents as possible. We do have a a couple of you know, stringent requirements. Obviously. We're gonna lock all of the doors that are on the box truck. Which is where your belongings will be held. But we typically look for a well reviewed hotel typically off a major freeway that's well lit ample parking security cameras but they will stay in our lockbox trucks overnight.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:27:41.030088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Okay, overnight in the new area. Okay, which is yeah, and all problem, do you have any insurance on the content?",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:28:13.215116",
+      "type": "transcript"
+    },
+    {
+      "content": "Correct.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:28:17.630088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "question",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:28:20.247116",
+      "type": "moment"
+    },
+    {
+      "content": "We do, we have the state required insurance which is 60\u00a2 per pound per article. We feel like that's not enough, so we do allocate up to $2,000 in coverage to your move.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:28:24.830088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:28:27.398088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "currency",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:28:28.438088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "currency",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:28:32.598088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Okay, so, so essentially there's, that's a, that's a no, no coverage so I will talk to my homeowners and just see what their coverage would be on. I'm just assuming if the truck gets stolen and, or lit on fire I never go with, oh, something gets broken. I go for the worst in my head. Okay, so I'm gonna just, consider this and think about it you know. If you'd like to live with me give me just a little while to think about it, you can send me that link. Would you like to send it to this phone number? What's your best?",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:28:34.815116",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "action_item",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:29:06.047116",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "question",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:29:10.207116",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, ma'am. I already did.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:29:12.230088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:29:12.230088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Okay, that's perfect thank you. And I'm sorry, could I get your first name.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:29:13.815116",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "positive_sentiment",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:29:14.607116",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "support_issue_resolved",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:29:14.607116",
+      "type": "moment"
+    },
+    {
+      "content": "My name is Zachary.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:29:18.830088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ner",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:29:19.438088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Zachary. Okay, thank you so much. I am going to prove this and I will get back to you.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:29:19.815116",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "ner",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:29:19.815116",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "support_issue_resolved",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:29:22.007116",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "action_item",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:29:25.367116",
+      "type": "moment"
+    },
+    {
+      "content": "We will be here whenever you need us. So just let us know.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:29:28.430088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Thank you sir. Alrighty. Have a great day.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:29:31.215116",
+      "type": "transcript"
+    },
+    {
+      "content": "You're you do the same? Thank you so much. Alright, bye.",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:29:33.830088",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-06-11T14:29:33.830088",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC09a37yQoM",
+      "content": "Bye, thank you.",
+      "name": "(702) 595-5839",
+      "time": "2026-06-11T14:29:35.415116",
+      "type": "transcript"
+    }
+  ]
+}
