@@ -1,0 +1,684 @@
+{
+  "call_id": "4939987553034240",
+  "lines": [
+    {
+      "content": "ai_scorecard_llm_v2_na",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:11.484252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:11.484252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_trigger",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:11.484252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:13.756252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:13.756252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:13.756252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:13.756252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:13.756252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:13.756252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:13.756252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:13.756252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:13.756252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "Einstein, moving Zachary speaking. How can I help you?",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:16.156252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:16.156252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ner",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:17.524252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:18.364252",
+      "type": "custom_moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Hey, Zachary this is Nita. I did got a voicemail from maybe you this morning I was trying to get a quote for upcoming move in Frisco.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:09:21.761893",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "call_purpose",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:09:21.761893",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "ner",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:09:22.269893",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "contact_name",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:09:22.949893",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "ner",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:09:22.949893",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "ner",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:09:35.229893",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, Nikita, did you submit anything online?",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:35.356252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ner",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:35.884252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "I did last night. Yeah.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:09:40.961893",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "It was saying cause it's like a partial move that to call to get a pricing.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:09:49.961893",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, can I have your email so I can look that up?",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:53.356252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:53.356252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "question",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:09:53.964252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Yeah, maybe easier. Can you do phone number?",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:09:58.361893",
+      "type": "transcript"
+    },
+    {
+      "content": "No, unfortunately not.",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:10:00.556252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "question",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:10:00.709893",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Okay, so it's Nikita then the letter M.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:10:04.961893",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "contact_name",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:10:06.389893",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "ner",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:10:06.389893",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Then Shaw S-H-A-H then the number seven @gmail.com, it's a long.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:10:13.361893",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "email_address",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:10:19.189893",
+      "type": "moment"
+    },
+    {
+      "content": "5685 gracey lane.",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:10:21.556252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Yes.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:10:26.561893",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, it looks like my branch manager Kevin sent an estimate at 8:45 this morning.",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:10:27.556252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:10:27.556252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ner",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:10:29.484252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "time",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:10:30.804252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Oh, okay. I just called back I didn't listen to voice fully.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:10:34.361893",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Could you go over that pricing with me if you have it in front of you.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:10:40.961893",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, I do. So we charge $107 per hour, per mover. We have an estimated for a five man crew with two trucks for the seven hour mark. If it does in fact take the FullSeven hours you'd be looking at a cost of $3,745 now that said since you do have a note in here that it's a partial move. If you do not think your move will require that many resources we can conduct a virtual walkthrough either with you face-to-face. We just send the link to your phone or we just send the link to your phone and you completed at your own leisure and then it'll just get uploaded to our server and then we can review it and then adjust accordingly.",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:10:43.156252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:10:43.156252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:10:43.156252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:10:43.156252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "currency",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:10:46.684252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "currency",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:10:57.844252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:11:06.884252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Okay. So, how does it work? Is it just like pictures? Oh, Lord, I'm going completely the wrong way. Is it pictures of the items or?",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:11:24.761893",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "question",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:11:25.869893",
+      "type": "moment"
+    },
+    {
+      "content": "It doesn't have to be, it can be though it can just be a long video form is what we typically see. So we just send the link. You can do it, you know, earlier or later this afternoon at midnight whenever you want, you just record you you've hit sent and you just let us know once it's sent and then we can review it, fax.",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:11:35.356252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Okay.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:11:51.161893",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Yeah, cause it's, I mean, it's a large house but the majority, I would say the majority of the items aren't being moved cause we have new virtu and things like that coming in. So it's literally, you know, a couple of mattresses and then enclosed toys, that kind of stuff but not, not too many big furniture items. So I really don't think it would take all that long. So, yeah, I think.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:11:58.961893",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Well, yeah, I've already sent that link to the, this number. So you should have it whenever you get a chance whatever type of meeting you decide to upload just do me a favor, Nikita once you do submit something if you just either shoot us an email or text just to let us know otherwise we're not going to get an alert just because it's the way the server works and then we, then we can just search it by number. So whenever you get a chance to submit it and then we can adjust our estimate accordingly.",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:12:25.156252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:12:25.156252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Okay.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:12:33.161893",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:12:36.124252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:12:37.764252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Okay. Oh.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:12:45.761893",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Okay.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:12:51.161893",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Okay. And then so you said it's $107 per hour per person, and so we'll get an estimate, but if it still ends up taking a little bit less or more is it just based on the actual time.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:12:55.361893",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "currency",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:12:57.629893",
+      "type": "moment"
+    },
+    {
+      "content": "Correct.",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:12:59.356252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "Correct, and there's no hidden fees on top of that. It's quite literally the hourly rate first as long or as little as you need the crew. The biggest thing and that why we'd want you to have this video submission is we can scale down the resources, meaning if we don't need a five man crew potentially a three or even a two. If it requires it. So it'll definitely bring the price down.",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:13:07.756252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:13:08.684252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Okay.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:13:16.361893",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Yeah.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:13:22.961893",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Yeah. Yeah, I, I'm guessing it would be more like two and then maybe like four hours total, I would think so that would be kind of closer to what I was thinking but I will send pictures of the main, main area and then kind of go from there. And then are you free? Yeah. Would next Friday work?",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:13:28.961893",
+      "type": "transcript"
+    },
+    {
+      "content": "Perfect. We'll be on the lookout.",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:13:47.956252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "question",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:13:51.189893",
+      "type": "moment"
+    },
+    {
+      "content": "Next Friday the seventeenth. Yes. Currently, we are available, and we could start first thing in the morning between 8:30 AM and 9:00 AM.",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:13:54.556252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:13:54.556252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "time",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:14:00.324252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Okay. And then, and then do you guys bring like wraps and stuff like that for the, for the mattresses and you know, some of the bigger pieces. Like, would you guys wrap it before we or does it need to be completely like covered and stuff like that before you guys get there?",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:14:03.761893",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "question",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:14:06.349893",
+      "type": "moment"
+    },
+    {
+      "content": "So, that hourly rate will include everything needed to complete your move. Moving blanket stretch wrap Dolly's trucks gas insurance taxes. Everything needed. And then each truck, yes, each, each truck has about $150 moving blankets on it, and then it's our company standard and practice to rep any and all of your furniture in our premium moving blankets and then just stretch wrap on top of that.",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:14:18.556252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:14:27.604252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:14:28.084252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Everything, okay.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:14:31.961893",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:14:32.844252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Okay. And then if we need some like warder boxes and things like that, do you, is that something we could pick up beforehand? Do you guys have those items to purchase or.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:14:43.961893",
+      "type": "transcript"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:14:43.962252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "Yeah, absolutely.",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:14:48.556252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Okay. I'm thinking we could throw a lot of it in like two cases and stuff but just in case we need a few then that might be, might be useful. Okay, thank you so much. I'll fill that out this evening and then we'll go from there.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:14:54.161893",
+      "type": "transcript"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:14:54.162252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:14:54.162252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "For sure.",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:15:01.156252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "support_issue_resolved",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:15:02.989893",
+      "type": "moment"
+    },
+    {
+      "content": "Perfect, we'll be here.",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:15:04.756252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "You're more than welcome. You have a great rest of your day.",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:15:08.356252",
+      "type": "transcript",
+      "user_id": "5840092011888640"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Zachary Krodel",
+      "time": "2026-07-10T19:15:08.356252",
+      "type": "moment",
+      "user_id": "5840092011888640"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Okay, thank you.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:15:08.561893",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCs4u3onAkM",
+      "content": "Okay, you too.",
+      "name": "(214) 732-8758",
+      "time": "2026-07-10T19:15:12.161893",
+      "type": "transcript"
+    }
+  ]
+}

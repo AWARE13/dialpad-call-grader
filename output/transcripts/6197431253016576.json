@@ -1,0 +1,684 @@
+{
+  "call_id": "6044741931835392",
+  "lines": [
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Hello, this is ar.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:52:09.691672",
+      "type": "transcript"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:52:09.691723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Hey Tommy, this is Calvin at Einstein moving, how are you doing today?",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:52:11.408723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:52:11.408723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:52:11.408723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:52:11.408723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:52:11.408723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:52:12.360723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:52:13.040723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:52:13.440723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Good. Hey, how's it going Calvin thanks for giving me a call so quickly here.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:52:15.691672",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "ner",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:52:17.237672",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, so I was, I got you pulled up here one. Yeah, we do have availability that day too, I would shift this over to our south Austin branch. It's gonna cut that trip fee down to just $75. That would cover the empty truck getting back from dripping springs. Yeah, yeah, I think the request came through the north but whoever sent the quote didn't check that but yeah, it would definitely be run through our south Austin branch.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:52:19.208723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:52:27.680723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:52:30.720723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Okay, awesome. Do I need to do anything there? If I, if I book for you? Okay. Okay, cool. Okay.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:52:45.091672",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "positive_sentiment",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:52:45.091672",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "question",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:52:46.357672",
+      "type": "moment"
+    },
+    {
+      "content": "No, I got you. No, I can handle everything. Yeah, so the current location. What's that unit number?",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:52:48.008723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:52:52.960723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "We're in apartment 1411, so it's on the fourteenth fourteenth floor but there's a, there's a dedicated elevator too. And I think I see your guys' trucks all the time at this apartment. So I assume you guys are pretty familiar with with this building, all that. Okay.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:52:55.291672",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:53:04.808723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Definitely, and you'll be able to lock down like an elevator reservation.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:53:08.408723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Yeah, yeah.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:53:12.691672",
+      "type": "transcript"
+    },
+    {
+      "content": "Perfect! Yeah, cause we would try to get going first thing in the morning between 8:30 and nine the main thing that adds the most time for any move is loose miscellaneous items. So definitely recommend being this packed up the boxes as you can be speaking of typically we see around thirty or so boxes for something like this. Do you think that will be about right?",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:53:13.808723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "time",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:53:17.320723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "What the?",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:53:25.891672",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:53:31.360723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Well, that, that's what I wanted to talk through. So I just wanna say if so we're getting rid of a lot of our furniture cause we're buying a lot of new stuff for the house we're basically selling, we're throwing out a lot of stuff and currently have so I don't think there's gonna be a ton of actual big items. But I just wanna see, I mean it when it, when it says like you guys pack up the kitchen and everything, like, do I, do we need to do anything or do you guys actually just come in and actually put all the post and pans and the boxes and tape it up, and do all that stuff, like, is that including the part of this or no?",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:53:33.691672",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:53:43.808723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "question",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:53:56.797672",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, yeah, that's a whole separate service. I mean, we do that but it'd be a whole separate quote. I mean it usually takes about the same amount enough time to pack a place as it does to move. So we'd have, yeah, we don't usually just carry the boxes and paper and all that in the truck. We have, we book packed up, yeah.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:54:06.608723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Okay, that, that's what I was, that's what I was, yeah, that's what I was hoping to get, I don't know, if you guys do that all but I wanted to see if I could get whatever full service type included packing and moving like, so but just, just for like the whole kitchen and then like close and closets and all that like if you guys are able to pack up all the close to is that, is that a normal request or no?",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:54:24.091672",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "call_purpose",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:54:24.091672",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "question",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:54:49.757672",
+      "type": "moment"
+    },
+    {
+      "content": "We can pay, we can pack everything. Yeah, we're able to pack everything we would bring out all the supplies we would, we could get it done in a day, we'd probably add a third guy just because, you know, it does, I mean to pack a two bedroom apartment fully usually takes about three and a half, to five, and a half hours with two guys and then, if we're also doing the move with the elevator and drive out to dripping springs, I think it'd probably be best to have the third, third guy.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:54:50.408723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Oh.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:54:54.091672",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:55:04.040723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Okay, and then so, so how drastically does that change the quote? Cause, I mean, what we're looking at was, I mean, less than, less than $1,300 or whatever. So now, I mean, with, with all of that included, how much do you think that would, okay.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:55:19.891672",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "currency",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:55:28.197672",
+      "type": "moment"
+    },
+    {
+      "content": "Essentially, it doubles an estimate like to move to the move of two bedroom apartment is usually about $3 and a half to $5 and a half and then, you know, an additional $3 to $5, if we're packing it sounds like and we bill in fifteen minute increments so you only pay for the time use but it sounds like the actual move portion should be quicker because, you know, the furniture items, you're getting new stuff and you might not have as much as normal. But yeah, I would think we would still kind of maybe one third guy if we were packing and moving in in the day.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:55:32.408723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:55:39.160723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:55:39.920723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:55:42.160723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Mm-hmm.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:55:55.291672",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Okay. So just, just to clarify though like by doing that extra by you guys packing everything, it's not like that and what is, what is, does that change the hourly rate by adding the third guy and doing all the packing or?",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:56:04.891672",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "question",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:56:13.397672",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, the hourly rate would be $327 an hour for three guys and then we do charge for packing materials like boxes, paper tape, et cetera usually it's about $145 impacting supplies for a two bedroom. And I can email you over a new quote with the pack and move kind of in mind. So you can kind of get a, an eye on that mm-hmm.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:56:19.808723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:56:22.040723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Re. Okay.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:56:24.091672",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:56:30.320723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "action_item",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:56:34.520723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Okay, so, so.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:56:42.091672",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "If I'm thinking this, yeah, an updated court, we'd be great but if I'm thinking this 327 times five hours, 327 times $51,635 and then you said like $150 roughly for supplies, it's still less than $2,000 for all that you think.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:56:45.091672",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "currency",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:56:54.397672",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:56:55.808723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "currency",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:56:57.877672",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:57:00.008723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "currency",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:57:00.637672",
+      "type": "moment"
+    },
+    {
+      "content": "If it would took five hours. Yeah, typically a full two bedroom pack and move three guys. Typically, you're more like six to seven even eight sometimes but, yeah, at six hours with the supplies included. We'd be at a $2,182 estimate.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:57:02.408723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Okay.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:57:10.891672",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:57:14.560723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Okay, gotcha.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:57:18.091672",
+      "type": "transcript"
+    },
+    {
+      "content": "But, but again, yeah, we do bill in the fifteen minute increment so you know, if you end up handling some more in advance or if, you know, there's quite a bit less furniture than normal obviously, it's gonna take less time.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:57:19.208723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Okay. And then how involved should I expect to be like, am I do, do, do the customers actually help with the moving anything? Like, am I gonna be helping you guys out? Or is that just purely if I wanted to, to try to speed things up, I can, or do I not do anything?",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:57:34.291672",
+      "type": "transcript"
+    },
+    {
+      "content": "No.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:57:44.408723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Yeah. The latter, I mean, it's, yeah, it's kinda on you. If you wanted to do anything to help that, you can ask them and they can give you some things that will help expedite it but typically, yeah, we come in and we handle everything, we don't, we don't need any help from the client obviously, same with packing, like, if we wanted all packing, you don't really need to even prep anything or get anything ready. We would come in with all the supplies and yeah, just get everything packed and, and moved.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:57:49.208723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Okay.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:57:58.891672",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Okay, awesome. Awesome. Well, that all sounds great. I think let's, let's go forward with that if you could send me an updated quote that'd be great just to have. But I think we could just go ahead and book it for the August 7th for the packing included everything. I, I'm going to get the place pretty, pretty ready to go but you know, I'm not gonna pull up the kitchen stuff away. I'm gonna, you know, wait for those guys or your guys to do it in the same, same, same thing with the clothing, but pretty much everything else. I don't think, I don't think I'll need you guys to actually tack a lot of stuff but just kitchen and closets so, hopefully, hopefully it doesn't take forever, but either way, I mean, that's.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:58:17.491672",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "positive_sentiment",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:58:17.491672",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "date",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:58:29.477672",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Yeah, I, that all sounds good.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:58:56.491672",
+      "type": "transcript"
+    },
+    {
+      "content": "Cool, awesome. I'll send you this stuff over, it would be an 8:30 AM to 9:00 AM start time on Friday. August 7th. I'll send over and the confirmation we have the pricing as well and all of that in a little breakdown there. So yeah, I can get that emailed over to you and we're all all set for the seventh.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:58:57.608723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "action_item",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:58:59.640723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "time",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:59:01.640723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "date",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:59:04.360723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Okay. So I don't need to like sign anything ahead of time or pay for anything, it's just we're good to go based on this call. Okay.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:59:18.091672",
+      "type": "transcript"
+    },
+    {
+      "content": "No, sir. Yeah, yeah, there's no deposit. Yeah, you can reschedule without any fee if end up having to cancel, cause you don't move or something, there's no fee for that. And then yeah, a couple of days before the move we send you a, meet your movers email. We send the courtesy text the day before and then the morning of the move, the movers will give you a call when they're headed that way.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:59:22.208723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:59:30.440723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Okay. Awesome. And then, then one last thing like, tipping wise is that, that's still these days. Do I assume, I should tip the movers right or what are people do these days?",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:59:46.291672",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "positive_sentiment",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:59:46.291672",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "support_issue_resolved",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:59:47.117672",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:59:51.608723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "question",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T19:59:52.291672",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, I'd say a pretty good like general rule of them with movers is like if a move took, you know, four hours or five hours like $40.50 each guy is pretty standard like $10 per hour per guy. So, you know, depends a little bit on the duration of the move. But that's a, that's usually a, a good tip. Yeah.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T19:59:58.208723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T20:00:09.200723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T20:00:12.680723",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Okay.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T20:00:14.491672",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Okay, so for three guys I I could, can assume 200 box is probably solid you think or that'd be good. Oh, okay awesome, awesome good to know. Alright, well yeah, just send over whatever and yeah look forward to seeing you guys on the seventh. That sounds great.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T20:00:19.891672",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "positive_sentiment",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T20:00:19.891672",
+      "type": "moment"
+    },
+    {
+      "content": "That would be a good tip. Yeah, that'd be really solid for sure. Mm-hmm.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T20:00:25.208723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "support_issue_resolved",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T20:00:29.157672",
+      "type": "moment"
+    },
+    {
+      "content": "Awesome, have a great day, have a great weekend.",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T20:00:38.408723",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Call Closing",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T20:00:39.520723",
+      "type": "custom_moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Call Closing",
+      "name": "Calvin Hughes",
+      "time": "2026-07-17T20:00:40.080723",
+      "type": "custom_moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "Awesome, you too. Thank you.",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T20:00:41.491672",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxKDypgkM",
+      "content": "support_issue_resolved",
+      "name": "Tommy Brown",
+      "time": "2026-07-17T20:00:41.491672",
+      "type": "moment"
+    }
+  ]
+}

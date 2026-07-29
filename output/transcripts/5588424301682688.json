@@ -1,0 +1,978 @@
+{
+  "call_id": "5312334677090304",
+  "lines": [
+    {
+      "content": "ai_scorecard_llm_v2_na",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:27:31.879547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:27:31.879547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:27:31.879547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_trigger",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:27:31.879547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "Hey, this is Joel with ein moving.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:27:40.210547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:27:40.210547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:27:40.210547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:27:40.210547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:27:40.210547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:27:40.210547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:27:40.210547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:27:40.210547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ner",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:27:41.519547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ner",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:27:41.879547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "I wanted to get a quote for moving.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:27:43.931596",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "call_purpose",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:27:43.931596",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, what date are you looking to move?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:27:48.010547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:27:49.159547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Twenty first this month.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:27:51.131596",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, on Monday.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:27:54.010547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "I think has chance if I'm not mistaken.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:27:57.131596",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah. Okay, and what are we moving for you? One bedroom, two bedroom, what are we looking at.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:28:00.010547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:28:00.010547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:28:00.919547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Two bedroom apartment and two a three bedroom townhome.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:28:03.731596",
+      "type": "transcript"
+    },
+    {
+      "content": "Two bedroom apartment. What floor are you on?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:28:10.210547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:28:11.359547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Seventeenth.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:28:12.731596",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and then you said three story town home.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:28:14.410547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Yeah, townhome it's like a minute away so.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:28:18.131596",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and then yeah, more than happy to give you a quote. Could I get a first and last name.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:28:21.610547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:28:21.610547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:28:25.279547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "William night.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:28:27.731596",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "ner",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:28:27.731596",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. This is a good phone number for you?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:28:32.410547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Yes sir.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:28:34.931596",
+      "type": "transcript"
+    },
+    {
+      "content": "How did you hear about us?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:28:36.610547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:28:36.610547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Sorry can you repeat that?",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:28:40.331596",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, how did you hear about us?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:28:42.010547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:28:42.879547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Oh, just online first thing I saw.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:28:44.531596",
+      "type": "transcript"
+    },
+    {
+      "content": "Cool, what's a good email for you?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:28:48.010547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "William.j.uchima @gmail.com.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:28:51.131596",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "email_address",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:28:52.248596",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "pii",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:28:52.248596",
+      "type": "moment"
+    },
+    {
+      "content": "Sorry, William.j.what.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:28:57.610547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "U-C-H-I-M-A.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:29:00.731596",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:29:06.610547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "At, at Gmail or I missed the last part.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:29:10.210547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ner",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:29:11.399547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "@gmail.com. Yup.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:29:12.731596",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "email_address",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:29:12.731596",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. Alright, what's the starting address of the, actually, did you already do a quote request?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:29:15.010547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:29:17.079547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:29:17.599547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "I do. I I think have all my information down already.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:29:21.131596",
+      "type": "transcript"
+    },
+    {
+      "content": "Give me one second.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:29:26.410547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:29:50.410547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "Are you needing packing, like, us putting items that two boxes or just moving?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:29:54.010547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:29:54.010547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Probably just moving but yeah, it'll probably just be only moving.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:29:58.931596",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:30:08.410547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "Cool. Right now, let's just say there was a two bedroom on the seventeenth floor moving to a two story house we're probably looking at about five and a half to six and a half hours to get this completed. So, let's just say that fell at about five and a half you're looking at a total cost of $1,111 and.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:30:14.410547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Yeah.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:30:20.531596",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Yup.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:30:22.931596",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Alright.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:30:27.731596",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:30:32.239547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Total calls at 1100.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:30:35.531596",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, sir. And six and a half hours it's about 1300.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:30:37.810547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Alright.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:30:39.131596",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Alright, perfect. And did you get my information for my address and everything or no.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:30:42.131596",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes sir.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:30:50.410547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Alright, perfect. So, can we get the twenty first down?",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:30:51.731596",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "positive_sentiment",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:30:51.731596",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "question",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:30:55.088596",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, the only thing I would need is what's the apartment number in Plano?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:30:57.010547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:30:59.239547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ner",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:31:00.759547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "1707.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:31:01.931596",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Do you know the walking distance of where our truck will park and compared to the elevator.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:31:03.610547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Yeah, they have like a moving area you can like, drive in in the truck will be right in front of the elevator.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:31:07.931596",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:31:12.010547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "Okay, and then from that elevator to your apartment door, how far does that walk?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:31:18.010547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Like ten steps.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:31:22.331596",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, cool. And then what's the square footage of your apartment? Do you know?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:31:25.210547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:31:27.199547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "1100.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:31:29.531596",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And then do you have any additional areas that need to be moved like a storage unit or garage?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:31:31.810547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "question",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:31:33.239547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Nope.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:31:37.931596",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and then anything breakable, anything made at a glass more Bo stone, in terms of your furniture.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:31:39.610547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "No. Oh, actually, yes, we have a monitors in a computer.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:31:45.731596",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, cool.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:31:49.210547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "Yeah, for sure. Any appliances Washer/Dryer fridge.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:31:52.210547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Nope.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:31:57.731596",
+      "type": "transcript"
+    },
+    {
+      "content": "And then anything else that kinda stands out being unique to your move-in terms of the furniture or pretty standard stuff.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:31:59.410547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "A cat-3 a punching bag, a king size bed and a cat toilet, I guess.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:32:05.531596",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, cool, and then you think you'd have about 25 to 35 boxes.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:32:15.610547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "No, a fifteen.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:32:22.331596",
+      "type": "transcript"
+    },
+    {
+      "content": "Cool. Yeah, and we should fall in line and then it won't be our Dallas branch that will do the move. It'll be our McKinney location or a little closer to you so it takes off the travel charges for the move. Mm-hmm yes, sir, I'll go ahead and get you on the schedule and then I'll send over a confirmation email showing that I place you on the schedule for the twenty first Tuesday. Yeah.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:32:24.610547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:32:24.610547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:32:24.610547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ner",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:32:28.519547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ner",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:32:30.319547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Alright.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:32:31.931596",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Alright, perfect.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:32:35.531596",
+      "type": "transcript"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:32:41.679547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Alright. Do you guys have like a security deposit so I can just pay all up the front. How does that work?",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:32:46.931596",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "question",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:32:47.928596",
+      "type": "moment"
+    },
+    {
+      "content": "No, we don't work all upfront or anything like that. It's all on an hourly rate basis right now. We discharge $202 an hour $202 so it really just depends on the total billable time for the final bill and the lead mover, he'll have an iPad inter reader to collect payment on the day of but yeah, no, no deposits or anything. Yeah.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:32:54.010547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:32:54.010547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Okay.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:32:59.531596",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:33:00.239547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "currency",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:33:01.599547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Okay.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:33:03.731596",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:33:08.639547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Alright, perfect. Perfect.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:33:10.931596",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "positive_sentiment",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:33:10.931596",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Alright, June 21st and what time was it again? Sorry.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:33:16.931596",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "date",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:33:17.728596",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "question",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:33:18.728596",
+      "type": "moment"
+    },
+    {
+      "content": "We'll have a start time of 83845.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:33:20.410547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:33:22.931547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "July 8th 8:30 are perfect. That's perfect.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:33:22.931596",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "date",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:33:22.931596",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "time",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:33:24.808596",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "positive_sentiment",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:33:25.688596",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "support_issue_resolved",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:33:25.688596",
+      "type": "moment"
+    },
+    {
+      "content": "Yes sir. Anything else?",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:33:26.410547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:33:26.410547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:33:26.410547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Nope, just send me the email please and I'll be all.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:33:28.931596",
+      "type": "transcript"
+    },
+    {
+      "content": "It's been sent. Alright, thank you sir. Mm-hmm. Alright. Bye-bye.",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:33:33.010547",
+      "type": "transcript",
+      "user_id": "6581949433937920"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Joel Villatoro",
+      "time": "2026-07-18T21:33:33.010547",
+      "type": "moment",
+      "user_id": "6581949433937920"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "Alright, thank you. I appreciate it.",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:33:35.531596",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "support_issue_resolved",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:33:37.448596",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDs6qTWqwgM",
+      "content": "positive_sentiment",
+      "name": "(225) 650-8375",
+      "time": "2026-07-18T21:33:37.568596",
+      "type": "moment"
+    }
+  ]
+}

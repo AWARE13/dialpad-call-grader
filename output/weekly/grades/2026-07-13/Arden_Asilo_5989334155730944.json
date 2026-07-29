@@ -1,0 +1,42 @@
+{
+  "call_id": "5989334155730944",
+  "rep_name": "Arden Asilo",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 14.4,
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "total_score": 61,
+  "mastery": false,
+  "save_your_ass_hit": false,
+  "meet_your_mover_hit": true,
+  "on_time_guarantee_hit": true,
+  "email_handoff_hit": true,
+  "agenda_opener_hit": false,
+  "section_scores": {
+    "1_set_agenda": "4/7",
+    "2_probe": "9/9",
+    "3_pricing": "20/20",
+    "4_clock": "4/4",
+    "5_estimate": "11/13",
+    "6_save_your_ass": "0/10",
+    "7_quote_booking": "8/11",
+    "8_politeness": "2/3",
+    "9_bonus": "3/8"
+  },
+  "items_missed": [
+    "No explicit agenda statement (\"I'll gather details then walk you through pricing, takes 10-15 minutes\") or 'sound good?' confirmation at call open",
+    "Never explicitly got/confirmed the customer's name on the call (used 'ma'am' throughout)",
+    "Estimate breakdown didn't call out drive time/trip fee or use an equivalents reference (e.g. school bus comparison)",
+    "Entire Save Your Ass prep speech skipped -- no pre-move consolidation tips, no 'take a carload' tip, no sense-check close",
+    "No 'reply with any corrections' expectation set, no closing 'any other questions before I let you go?', no hours/how-to-reach-us given",
+    "Customer's name used fewer than 3 times during the call",
+    "No Sparefoot/storage referral offered despite customer still deciding on a storage unit, no 60 cents/lb baseline valuation mentioned alongside No Worries coverage, no rapport/humor moment, and several garbled/unclear phrasings suggest room to sharpen clarity"
+  ],
+  "top_strength": "Extremely thorough discovery -- Arden nailed down every physical detail (garage contents, three-story layout, the couch-through-balcony stair issue, storage stop, box counts) that fed directly into an itemized, well-justified time estimate.",
+  "coaching_note": "Arden skipped the Save Your Ass prep speech entirely (no consolidation tips, no carload tip) -- since the customer already has a lot of loose items and a storage stop, this was a missed chance to help her cut her own bill, and it's the highest-value section per the rubric.",
+  "phone_presence_score": 3,
+  "phone_presence_label": "Adequate",
+  "phone_presence_notes": "Polite and appreciative throughout (\"thank you so much\", nice pickup on \"I used you guys before\"), but transactional overall with no humor or deeper rapport and the customer's responses stayed short and neutral.",
+  "audio_review_flag": true,
+  "audio_review_reason": "Multiple garbled/unclear passages in the transcript (e.g. rep's differentiators pitch and clock explanation) make it hard to confirm true vocal tone from text alone."
+}

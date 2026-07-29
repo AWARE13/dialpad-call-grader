@@ -1,0 +1,43 @@
+{
+  "call_id": "4910766952751104",
+  "rep_name": "Jeline Lavarias",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 7.0,
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "total_score": 35,
+  "mastery": false,
+  "save_your_ass_hit": false,
+  "meet_your_mover_hit": false,
+  "on_time_guarantee_hit": false,
+  "email_handoff_hit": true,
+  "agenda_opener_hit": false,
+  "section_scores": {
+    "1_set_agenda": "4/7",
+    "2_probe": "5/9",
+    "3_pricing": "4/20",
+    "4_clock": "1/4",
+    "5_estimate": "11/13",
+    "6_save_your_ass": "0/10",
+    "7_quote_booking": "6/11",
+    "8_politeness": "2/3",
+    "9_bonus": "2/8"
+  },
+  "items_missed": [
+    "No \"How are you today?\" / no agenda statement or explicit \"sound good?\" confirmation",
+    "No pricing differentiators explained at all (hourly rate, what's included, No Worries Damage Coverage, Meet Your Mover, On-Time Guarantee, no-hidden-fees pitch) despite quoting a price",
+    "Clock not explained (contract-start timing, 15-min prorated increments, no sense-check)",
+    "Save Your Ass prep speech skipped entirely (no consolidation tips, no carload tip)",
+    "No deposit mention omitted",
+    "No \"any other questions before I let you go?\" or hours/how-to-reach-us close",
+    "Customer's actual name (Aubrey) used only once; relied on \"ma'am\" the rest of the call",
+    "No insurance/damage-coverage explanation (No Worries + 60c/lb)"
+  ],
+  "top_strength": "Rep patiently untangled three separate record mismatches (wrong date, conflicting square footage, incomplete inventory) by cross-checking the customer's January move history, and clearly walked through the email confirmation, bolded detail list, and reply-with-corrections process.",
+  "coaching_note": "This was a repeat-customer rebooking/logistics call rather than a fresh pitch, which explains why clock and estimate-variable walkthroughs were largely not needed here — but Jeline still should have covered No Worries Damage Coverage, the On-Time Guarantee, no-deposit language, and at least the gist of the Save Your Ass prep tips, since those apply to every booking regardless of whether the customer is new or returning; the 35/85 score reflects that real gap, not just a call-type mismatch, so it shouldn't be read as a clean pitch-quality failure.",
+  "phone_presence_score": 3,
+  "phone_presence_label": "Adequate",
+  "phone_presence_notes": "Polite and patient through repeated record mix-ups, but rapport stayed transactional — she defaults to \"ma'am\" instead of the customer's name and offers no affirming or empathy language even as the customer worked through confusion.",
+  "audio_review_flag": true,
+  "audio_review_reason": "Transcript is heavily garbled throughout (e.g. \"two meters\" for likely \"two movers,\" \"bolted list\" for \"bolded list,\" \"Florida ceiling Marri\"), which limits confidence in a text-only tone read."
+}

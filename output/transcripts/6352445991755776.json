@@ -1,0 +1,1510 @@
+{
+  "call_id": "6268227236339712",
+  "lines": [
+    {
+      "content": "I understand moving this is Nick.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:05:16.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:05:16.177417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:05:16.177417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:05:16.177417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:05:16.177417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:05:16.177417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:05:16.177417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "ner",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:05:18.155417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Hi, my name's Tom Sullivan. I think I maybe had called you folks before but can't find my notes and anyway looking who we're selling our condo in downtown Austin and looking to move the stuff to a storage unit in Michael, Texas.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:05:20.335831",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "call_purpose",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:05:20.335831",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "ner",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:05:21.078831",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "ner",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:05:31.478831",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "ner",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:05:36.238831",
+      "type": "moment"
+    },
+    {
+      "content": "In, and, and what part of Texas?",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:05:38.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "ner",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:05:39.955417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "It's by the, actually at San antonio but near Michael outside of town. I've actually got the address that if need be.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:05:41.935831",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "ner",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:05:43.758831",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:05:45.577417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "ner",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:05:46.478831",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. And do you know the date you're looking to get these items moved on?",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:05:51.577417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "question",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:05:53.435417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "I'm taking the twentieth that mon, Monday.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:05:57.535831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:06:01.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "And what's a footage of the condo?",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:06:04.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Excuse me.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:06:08.935831",
+      "type": "transcript"
+    },
+    {
+      "content": "What's the square footage of the condo that we're moving, moving items out of?",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:06:10.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "question",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:06:10.177417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Oh, it's 12024 feet.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:06:14.335831",
+      "type": "transcript"
+    },
+    {
+      "content": "Is it 12000?",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:06:19.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "question",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:06:19.777417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Or, 1200 I'm sorry I, yeah, neck, yeah, 1026.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:06:22.735831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Alright.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:06:24.577417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Yeah, no kidding.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:06:29.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:06:32.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "And are you gonna take care of packing up the boxes and things like that?",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:06:35.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "question",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:06:36.075417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Yeah, so I'm actually there now and I'm packing up the closets and all that sort of thing but I do have some pictures on the wall, I guess, rather than bit boxes for that. Not sure if that's something you guys can do. I've got a a 75 inch television which is a little, you know, bigger and then a small one that's made, I don't know, 42 inches, something like that.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:06:40.135831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:06:55.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:06:59.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Okay, and you said the twentieth or twenty first.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:07:04.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Either one of those days would work, I'd probably prefer twentieth.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:07:10.135831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, oh, okay. Yeah, we've got that date available. Let me go ahead and just collect some contact information so I can price everything out for you, okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:07:12.577417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Okay.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:07:24.535831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and it was Thomas Sullivan, right?",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:07:25.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "ner",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:07:27.035417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Yeah, it's my legal name, you can call me Tom again. Thomas Sullivan.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:07:29.335831",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "action_item",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:07:30.878831",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:07:31.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "ner",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:07:31.478831",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "ner",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:07:31.918831",
+      "type": "moment"
+    },
+    {
+      "content": "And what's a good email address for you?",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:07:35.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Let's use new Sally five NE, W S. U LL Y. The number five @outlook.com.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:07:39.535831",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "email_address",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:07:46.135831",
+      "type": "moment"
+    },
+    {
+      "content": "Alrighty.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:07:53.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Alrighty, so, yeah, let's just get the starting and ending addresses real quick.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:08:05.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Okay, so the starting address is 360 no way street, N U. E. CES street apartment A-P-T. 1405.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:08:11.935831",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "ner",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:08:15.638831",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:08:20.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "1405.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:08:25.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Yes, 1405.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:08:28.735831",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright and then the ending address.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:08:30.577417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Let me grab that. Sorry.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:08:34.135831",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "It is, I think, it's called extra space and the address is 14130 old FM 471, that's San antonio.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:08:41.935831",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "7853.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:08:57.535831",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, alrighty. Any other pickup your drop-off. Oh, sorry, go ahead.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:08:59.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "And that's the storage unit from the. It's a storage unit on the first floor by the way.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:09:02.335831",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:09:10.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "No, no. Other pick-ups or drop-off.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:09:12.535831",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, first floor storage unit.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:09:14.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Okay, cool. So, yeah, let's get the information for the condo. You said it's just under 1300 square feet.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:09:20.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "It's actually, just over 1200. I would go with especially sent none of the appliances are going, including, including washer and dryer.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:09:28.735831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:09:31.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:09:35.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:09:40.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Yeah, we've sold a handful of other stuff like bookcases and little kitchen table, that sort of thing.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:09:41.335831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:09:47.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "And is it on the fourteenth floor?",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:09:49.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "question",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:09:50.675417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "I yes.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:09:51.535831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:09:53.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Yes, you guys have done loops out of this building before you're listed on their site.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:09:56.335831",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, yeah, we do lots of moves within that building.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:10:01.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Mm-hmm.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:10:06.535831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And how many bedrooms are we moving? Is it a two bedroom place?",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:10:07.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "It's two bedrooms, I can unhook the headboards headboard before the move, that kind of stuff. The master bedroom has a dresser, a desk and a chair.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:10:14.335831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:10:16.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:10:19.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Alright.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:10:22.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "And small teleg, oh, and another what? Sitting care with cushions on it?",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:10:32.935831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:10:34.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Alright.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:10:40.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "On the same setup in the other bedroom.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:10:47.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Yeah, there's a bed, two side tables and a dresser.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:10:50.935831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay and then just your typical living room furniture and maybe kitchen table chairs.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:10:56.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "So here let's say one more thing, there's a, a four drawer file cabinet.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:11:04.135831",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "And then the living room has a flex steel couch and a recliner and one book shelf and then the biggest mast, he probably is there's an old like five foot tall, like, one of those curve glass.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:11:11.935831",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Can't remember what they call them but I can't.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:11:31.735831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:11:31.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:11:34.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Yeah, there's like five shelves in it and it's like curio or whatever they call them. It's like a curb glass.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:11:35.935831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, sure.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:11:41.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Alrighty and then.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:11:47.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "And then like I say a 75 television.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:11:48.535831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:11:51.577417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Okay, and then when it comes to the boxes, any idea how many boxes you're going to have us move?",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:11:57.577417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "And I just got back yesterday and bought some. So start, be starting to pack up. I'm assuming like the dresser stuff can stay in the drawers.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:12:05.935831",
+      "type": "transcript"
+    },
+    {
+      "content": "If it's just.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:12:19.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "I would say.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:12:19.735831",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, if it's just, if it's just closed and stuff you're probably fine as long as the, as long as the piece is thirty enough, yeah.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:12:22.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Doesn't make too heavy.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:12:31.135831",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Okay, I would say and again being an at this, by the time I unpack my wife's pausing that, I don't know rough guest, I'd say, 2025 boxes, something like that. That's difficult for what you usually find in the place beside.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:12:35.335831",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:12:35.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:12:52.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Yeah. Yeah, usually you're we're looking at like 3040 boxes.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:12:58.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Okay, then I'd say maybe 25 to thirty I'll, I can Scharp on that as I text stuff up and figure it out.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:13:06.535831",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:13:08.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Okay. No like workout equipment or anything like that.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:13:12.577417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "What's that?",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:13:17.935831",
+      "type": "transcript"
+    },
+    {
+      "content": "No workout equipment.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:13:19.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "There's a handful of dumb. Yeah, no, no, nothing big like that.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:13:22.135831",
+      "type": "transcript"
+    },
+    {
+      "content": "Lips.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:13:23.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "swearing",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:13:25.118831",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:13:29.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Alright.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:13:36.577417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "And then the storage units, did you say it was a second floor unit?",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:13:40.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Nope, first floor.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:13:46.735831",
+      "type": "transcript"
+    },
+    {
+      "content": "First floor. Okay. And then indoor, outdoor accessible.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:13:47.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "It's climate controlled, so I'm assuming it must be indoor.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:13:53.935831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, alright, I forgot to ask this, but how far away is the condo from the elevator at new is street?",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:13:57.577417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Two units down.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:14:06.535831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, pretty close. Alright.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:14:08.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Yeah, the only thing they'll look out for we'll look out but their overhead dar is only twelve foot three inches. So like the last folks that moves brought a bigger truck they just parked at the street on Third Street and loaded it up or if you have something smaller you can get in the garage.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:14:11.935831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:14:20.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:14:25.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "address",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:14:26.438831",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. Yeah, it'll be a kind of a larger truck.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:14:31.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Okay, and then it looks like the drive is gonna be.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:14:44.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "monologuing",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:14:49.675417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Around two hours. So we'll have to take that into account with the estimate obviously there alright.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:14:54.577417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Okay. Well, I'm gonna go ahead, I'll break down the pricing structure for you Thomas. Don't feel like you have to remember all this or take notes cause I can email everything but the pricing pretty simple as far as the hourly rates you're looking at $206 an hour that's for two movers and one truck, that hourly rate that includes everything from taxes insurance. We would pad wrap and protect all of the items, we'll handle any disassemble and reassembly as well, things like beds couches desks will take care of that, we'll have floor protection, dark protection as well. All that's included outside of the rate, there is a one time trip fee of $300. That's for the ending location to get the truck back into the south Austin area from San antonio. Aside from that no other additional or hidden fees and basically the clock would start once the movers arrive on site.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:15:04.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "ner",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:15:08.075417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "monologuing",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:15:10.035417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "currency",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:15:17.075417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:15:34.675417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "currency",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:15:38.555417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "ner",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:15:42.755417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "It's in effect during transit up until everything is unloaded in that storage unit. You're happy where everything is. We have a two and a half hour minimum once that's reached we charge in fifteen minute prorated increments till everything's complete. So, at the end of the day, as far as the hourly told her just paying those increments of time. All that makes sense. So farther.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:15:49.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Yeah, the travel time part of the paid time for the movers to.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:16:10.735831",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes. So, yeah, during transit, you're in, during transit you're in. That's to a six an hour rate.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:16:15.577417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Or is that?",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:16:16.735831",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Okay.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:16:22.735831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. So with the estimate I'm gonna keep this just with the elevator at that starting location, the drive between locations. I'm gonna keep it around six to, to seven hours. Let's say where to take the six hours you would be looking at.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:16:23.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Alright. Yeah, that makes.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:16:25.135831",
+      "type": "transcript"
+    },
+    {
+      "content": "$1,536 and then seven hours will come out to $1,742 that's where to take the FullSeven hours.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:16:43.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "currency",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:16:43.777417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "currency",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:16:49.235417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Okay.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:16:53.935831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, what time based the best thing we can do? Yeah, sorry.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:16:55.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Is there extra?",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:16:56.935831",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "question",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:16:56.935831",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Extra for any materials like the television or any of that sort of thing.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:17:01.135831",
+      "type": "transcript"
+    },
+    {
+      "content": "No, no, we don't charge extra for things like that.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:17:05.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Okay. One more question too. We've probably got about a half dozen of these old like, tickle jar, you know what I mean? Jugs like that heavy like, ceramic type stuff. Is that something I know, typically, you guys have like a just an open cart on a Dolly kind of thing and you just lay them in there. Is that how much would go?",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:17:09.535831",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:17:10.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:17:23.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "question",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:17:24.535831",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah! Yeah, we can kind of, wrap them up, wrap them up in there.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:17:34.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Okay.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:17:37.735831",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Alright, that makes sense. Okay, I'm sorry.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:17:40.135831",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, we can use moving bikes and.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:17:41.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Yeah, it's just some of that like to put it in the box. There's a probably a bigger pain in the neck and more likely they get broke, doing that and just leaving them.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:17:46.735831",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah. Well, what we can take care of that, like I said, we can wrap those up and, and moving blankets and use those bigger kind of carts. The boxes that we have.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:17:57.577417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Cool.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:18:10.135831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:18:11.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Any other questions?",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:18:13.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "So you, you're available on the twentieth at this point.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:18:16.735831",
+      "type": "transcript"
+    },
+    {
+      "content": "We are. Yeah, we would, typically we shoot for like an 8:30 AM to 9:00 AM arrival window.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:18:22.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "time",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:18:25.155417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Yeah, that makes sense. I think they do, their hours are between 9:00 and four maybe so, yeah, you're kinda in the morning one or the afternoon one. So, that's good.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:18:29.335831",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "time",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:18:35.935831",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, and I forgot to ask this, but what are the dimensions of the storage unit?",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:18:41.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Ten by fifteen.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:18:48.535831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, cool. Plenty of space there. Alright.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:18:50.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Yeah, it's not near my kit. So, I think they may have more stuff. They want drawn lighter. So, that's I, I'm thinking of all fit the 10x10 but on the, just in case.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:18:53.335831",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "negative_sentiment",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:18:53.335831",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:18:59.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:19:05.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Alright, cool. Well if you wanted to go ahead and we can, you wanna move forward. We can schedule this, there's no deposit or anything like that required.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:19:07.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Yeah, if we could, why don't we, because I mean, I won't the, sorry, my buyer doesn't have his phone commitment till probably Monday or Tuesday. So I'm not gonna wanna put any money down until I know for sure it's going down but yeah, if you could reserve it, that'd be great.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:19:18.535831",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:19:33.577417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Yeah, sure. That 8:30 to nine will work out for you. Okay.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:19:35.977417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "time",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:19:38.755417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Yeah, that'd be good.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:19:41.335831",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, cool. I will lock it in for you and then I'm gonna email you Thomas a confirmation. So we are good to go. Movers will reach out to you on the twentieth in the morning once they're in route to your starting address and then they'll take payment at the end. And then day before the move, we'll text you just to let you know how things are good to go and then you'll receive a meet your movers email a couple of days leading up to the move. But if you need anything in the meantime, feel free to contact us, okay?",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:19:43.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "action_item",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:19:46.595417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "ner",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:19:47.515417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:19:55.635417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "action_item",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:20:01.195417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Fantastic.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:20:11.935831",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "positive_sentiment",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:20:11.935831",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "support_issue_resolved",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:20:11.935831",
+      "type": "moment"
+    },
+    {
+      "content": "Alrighty, we're all good Thomas. Have a good rest of your weekend. We'll see you on the twentieth.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:20:13.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "ner",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:20:15.155417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Alright, appreciate it. Made it nice and easy on me. Oh, wait, I do have 11 other more quick question. Our building requires a active certificate, the certificate of insurance you know, if you guys have filed them with the building, lightly.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:20:17.935831",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "positive_sentiment",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:20:19.135831",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "support_issue_resolved",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:20:19.135831",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, absolutely nothing about.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:20:19.777417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:20:26.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "Yeah, we that should be they should have that on file but we can definitely generate that pretty easily if they don't.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:20:36.577417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Okay, I'll check into that and give you a holler if I need that.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:20:43.135831",
+      "type": "transcript"
+    },
+    {
+      "content": "Alrighty, sounds great Thomas.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:20:47.377417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "content": "ner",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:20:48.475417",
+      "type": "moment",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Alright, take care. You have a good rest of your weekend too.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:20:50.335831",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes sir. Hey, thanks a lot. You too, thanks, take care. Bye-bye.",
+      "name": "Nicholas Dagel",
+      "time": "2026-07-11T21:20:52.177417",
+      "type": "transcript",
+      "user_id": "4664454184370176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Alright.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-11T21:20:56.335831",
+      "type": "transcript"
+    }
+  ]
+}

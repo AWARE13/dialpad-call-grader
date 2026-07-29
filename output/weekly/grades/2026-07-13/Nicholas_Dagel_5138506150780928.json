@@ -1,0 +1,43 @@
+{
+  "call_id": "5138506150780928",
+  "rep_name": "Nicholas Dagel",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 5.1,
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "total_score": 34,
+  "mastery": false,
+  "save_your_ass_hit": false,
+  "meet_your_mover_hit": false,
+  "on_time_guarantee_hit": false,
+  "email_handoff_hit": false,
+  "agenda_opener_hit": false,
+  "section_scores": {
+    "1_set_agenda": "2/7",
+    "2_probe": "6/9",
+    "3_pricing": "4/20",
+    "4_clock": "2/4",
+    "5_estimate": "9/13",
+    "6_save_your_ass": "0/10",
+    "7_quote_booking": "6/11",
+    "8_politeness": "2/3",
+    "9_bonus": "3/8"
+  },
+  "items_missed": [
+    "Never used the customer's name (Elaine) once during the call",
+    "No agenda statement or explicit 'sound good?' confirmation up front",
+    "Didn't mention No Worries Damage Coverage, Meet Your Mover, On-Time Guarantee, or the no-hidden-fees pitch",
+    "No Save Your Ass prep speech (consolidation tips, take-a-carload, does-that-make-sense close)",
+    "No email/confirmation handoff mentioned (referenced a future 'kickoff call' instead)",
+    "Didn't ask about packing needs, box count, or moving stressors",
+    "No insurance explanation (No Worries + 60c/lb baseline)",
+    "Didn't proactively explain how the steep driveway or reduced walk distance (carport drop) could affect time"
+  ],
+  "top_strength": "Nick clearly and accurately broke down the confusing quote math ($103/hr per mover x 2 movers) and the 2.5-hour minimum with 15-minute prorated billing right when the customer questioned it, and confirmed no deposit is required.",
+  "coaching_note": "This was an inbound quote-verification call, not a fresh pitch: Elaine already had a self-service online quote and was actively booking online herself, so the low section 3/6/7 scores reflect a thin Q&A exchange rather than a botched pitch; even on a short call like this, Nick should still work in the customer's name and the key differentiators (Meet Your Mover, On-Time Guarantee, Save Your Ass tips) since she was clearly primed and receptive to book.",
+  "phone_presence_score": 2,
+  "phone_presence_label": "Flat",
+  "phone_presence_notes": "Nick's responses are almost entirely minimal filler ('Yeah,' 'Mm-hmm,' 'Okay,' 'Sure') without substantively engaging her detailed explanations about the driveway or furniture, and he never used her name once.",
+  "audio_review_flag": true,
+  "audio_review_reason": "Low warmth score is driven by heavy filler-word acknowledgments in the transcript, but the customer stayed chatty and positive throughout and thanked him warmly at the end — worth an audio check to confirm tone wasn't warmer than the text suggests."
+}
