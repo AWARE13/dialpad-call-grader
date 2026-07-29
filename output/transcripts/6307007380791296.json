@@ -1,0 +1,964 @@
+{
+  "call_id": "6135090510241792",
+  "lines": [
+    {
+      "content": "Hi, my name is Amy. How can I help you?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:08:00.990232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:08:00.990232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:08:00.990232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:08:00.990232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:08:00.990232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:08:00.990232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:08:00.990232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:08:02.152232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Yes. Hi! Do you have any availability for a, a move next Monday or Tuesday next week?",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:08:02.371503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "call_purpose",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:08:02.371503",
+      "type": "moment"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:08:02.552232",
+      "type": "custom_moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "question",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:08:06.073503",
+      "type": "moment"
+    },
+    {
+      "content": "Sure, let me double-check Monday or Tuesday.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:08:14.790232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Twenty seventh or twenty A may know what's the size of your move? Are you moving out of a one bedroom apartment or a 2000 square foot home?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:08:19.590232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:08:24.032232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Yeah, honestly, it's about 1500 square feet. It's a three bedroom, two bath but we don't even use one of the bedrooms. So, it's pretty small. It's just two bedroom sets and then a living room set and we have everything already boxed ready to go.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:08:27.571503",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:08:35.190232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "I see. Okay, sounds good. We're fully booked on Monday but we do have Tuesday the twenty eighth still available.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:08:47.790232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Sounds great. Let's do it.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:08:56.371503",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, let me create a profile for you. I'll ask you some more details and then I'll prepare the estimate and we need to take notes. I'll send everything via email, let's start with your first and last name please.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:08:57.990232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Huh.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:09:00.571503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Okay, Jennifer. Badar B-A-D-H-W-A-R.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:09:05.371503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "ner",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:09:08.971503",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you. I have your phone number. 512-699-7262. What about your email address?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:09:15.990232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "phone_number",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:09:19.032232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Yup, KM as in Mary, Badar B-A-D-H W-A-R @icloud.com.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:09:22.771503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "ner",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:09:26.913503",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "pii",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:09:27.913503",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "email_address",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:09:31.193503",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you, Jen, now how did you hear about the company?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:09:34.590232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:09:35.072232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:09:36.032232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Actually, we usually use heavenly movers and they weren't able to. So, they suggested you guys.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:09:38.371503",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, again. Well, thank you for that work, for that. Yeah. We try to help each other out. Alright for your COVID house. What's the complete address?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:09:44.790232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "That's a pretty good referral, yeah.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:09:46.771503",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:09:55.632232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Curly, it's 1508. Farn. Alo 78746.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:09:57.571503",
+      "type": "transcript"
+    },
+    {
+      "content": "Six.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:10:12.390232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "1508 bar swallow drive, correct?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:10:23.190232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Uh-huh, that's correct.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:10:28.771503",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. Then it looks like this is a one story house if I'm not mistaken.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:10:33.990232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "That's correct. Uh-huh.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:10:39.571503",
+      "type": "transcript"
+    },
+    {
+      "content": "One you said it's about 1500.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:10:44.190232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Uh-huh.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:10:47.971503",
+      "type": "transcript"
+    },
+    {
+      "content": "Sorry, I looked it up on deliver and it says about 1800 but I mean, well a lot of factors start involve, anyway so we'll talk about the inventory in anyways and then I'll paste the estimate from there. Yeah, speaking of inventory do you mind walking me through you know if it's a comprehensive inventor list as possible. So I can be more as well.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:10:50.790232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "That's fine. I mean, you can put whatever you want. Yeah, it's fine.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:10:52.771503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Okay, sure.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:11:02.971503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Sure, of course, I'll start with the living area. We have one sofa, it's just a a loveseat type sofa.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:11:11.971503",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes please.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:11:19.590232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:11:26.190232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "One media console.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:11:27.571503",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, what else?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:11:31.590232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "What's that CD a TV on the wall hang? No, no, no, it's not even hanging. So, it's easy flat screen TV.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:11:31.771503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "question",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:11:31.771503",
+      "type": "moment"
+    },
+    {
+      "content": "Be a four.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:11:34.590232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "And then there is a shelving unit. It's probably, yeah. Oh, okay, excuse me the has to go in the locker. I'm sorry I'm gonna have to call you back. I apologize we're, are you or never mind. I'll tell you right now. Okay? One Shelby unit probably eight feet long.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:11:42.571503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "And then, that's pretty much it for the living room. There's no coffee cable, no extra chair. Nothing like that. Moving onto the master bedroom we have a bed and a dresser.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:12:10.171503",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:12:10.590232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:12:17.190232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "That's it. Second bedroom. Is a kids bedroom.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:12:25.771503",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, the next.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:12:28.590232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "And in the kids bedroom, we have just a same thing the kids bed and a dresser.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:12:33.571503",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:12:42.390232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "And then the third bedroom. Oh, and a night the kids bedroom, and then a third bedroom, there is just a dresser.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:12:44.371503",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, what else?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:12:57.390232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Nothing else, and then dining room will be a dining room table and secure.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:12:58.771503",
+      "type": "transcript"
+    },
+    {
+      "content": "Are we taking the large appliances Washer/Dryer fridge.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:13:08.190232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "We are taking one refrigerator and one washer and dryer.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:13:11.971503",
+      "type": "transcript"
+    },
+    {
+      "content": "What else? Garage items? Patio furniture.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:13:18.990232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Yeah, patio furniture. Just a patio table and secure wooden table and picture.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:13:22.771503",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:13:32.790232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "The garage will probably come and get it another time. Kind of a quick move there maybe some Bo, there's actually some boxes that are already packed in the garage. It's probably about fifteen boxes packed in the garage.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:13:34.771503",
+      "type": "transcript"
+    },
+    {
+      "content": "There.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:13:46.590232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay. And would you say that's like the estimated number of boxes we're gonna move for this around fifteen boxes. Or should we expect like 3040 boxes?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:13:48.990232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:13:51.272232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "With regards yeah, yeah, I would just up the boxes to forty that talks about right. Does that include flows most everything. I would say about fifteen Max boxes per room so $454,565 yup, it's $3,413.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:13:58.171503",
+      "type": "transcript"
+    },
+    {
+      "content": "And then.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:14:06.390232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay, sounds good. And then your new address please. Yeah, 4550. Okay, uh-huh.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:14:12.390232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "currency",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:14:14.433503",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "currency",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:14:17.793503",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "3413 cactus Ren W-R-E-N.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:14:20.371503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "It's literally just about a half mile away mm-hmm.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:14:31.771503",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, I found it here. Yeah, it's super close. It's in the same neighborhood. I'm guessing from what mm-hmm, okay. Any additional location to go to or just point eight to point B?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:14:32.790232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Yup. Yup. Uh-huh.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:14:37.771503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Nope, that's it point eight to point B.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:14:46.771503",
+      "type": "transcript"
+    },
+    {
+      "content": "That's it okay, and the houses you living into just for reference is also a one story about 1700 square foot, 13 bedrooms. Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:14:50.190232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Uh-huh, that's correct.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:14:55.771503",
+      "type": "transcript"
+    },
+    {
+      "content": "I just wanna confirm nothing super crazy like a gun safe gym equipment or a piano.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:14:59.790232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Nope. Nope, there is one garage ladder and some garage tools like LAN tools but like break to shovel. So, that's it. Yeah.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:15:05.971503",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, and then you have the box ready to go.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:15:10.590232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Yeah, sure. Mm-hmm garden, please. Okay, what about a push on more and a grill. Do you have anything like that?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:15:15.990232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:15:21.232232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:15:23.512232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "No push. Nope, none of that.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:15:23.971503",
+      "type": "transcript"
+    },
+    {
+      "content": "Okeydokey. Alright, I think I got all the details that I need. Thank you so much for being so Hori with the inventory now, Jen, we charge per hour. So, on Tuesday, the hourly rate is $206.206, that's per hour with two movers already. We have a 26 foot box truck, we'll bring the moving blankets, shink wrap van, Dolly the tools for any disassemble or reassembly that needs to be done. The hourly rate also includes taxes, insurance, and the gas. And the best part here, this move is within our free service one. So no travel fees involved, no credit card fees, no stairwell, no disassemble assembly fees, what we have is a two and a half hour minimum. If we go beyond that minimum, we will prorate the time in every fifteen minute increments. Do you have any questions so far?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:15:27.990232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Okay.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:15:34.771503",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:15:35.112232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Okay.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:15:38.371503",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:15:40.992232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Okay, that'd be.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:15:43.171503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Sounds great.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:15:46.771503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "positive_sentiment",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:15:46.771503",
+      "type": "moment"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:15:51.352232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Perfect.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:15:56.971503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "positive_sentiment",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:15:56.971503",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Okay.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:16:06.571503",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:16:08.872232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Okay.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:16:14.371503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Okay. That's great. That's great. Nope, that's perfect.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:16:17.371503",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:16:19.590232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:16:21.472232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "positive_sentiment",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:16:22.633503",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, so now for the quote, typically an 1800 square feet home move. We would need three movers on one truck but in your case with the inventory that we talked about, we will just be sending two movers. So two movers, one truck and I would allocate the entire day in case needed. But the thing is you only pay for the actual time that use, let's say it takes, I would say 55 to seven hours. Just to be a bit conservative if it only takes five hours that's 1037 hours is $1,442 which is again, just an estimate. So, BS. Re, pris, you can be less than, than, we will take more money you get this saved. Do you have any questions so far?",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:16:24.390232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:16:31.032232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "That's great.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:16:47.371503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "positive_sentiment",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:16:47.371503",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:16:48.192232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Okay.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:16:53.971503",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:16:59.232232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:17:00.632232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Okay.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:17:01.771503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "I understand. I do not.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:17:07.771503",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, oh, by the way, I just refreshed your calendar and it looks like somebody canceled for Monday. So we both have Monday and Tuesday available as we speak. Which would work best for you.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:17:11.790232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "What time? Do you come on a day?",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:17:20.371503",
+      "type": "transcript"
+    },
+    {
+      "content": "For both days. Exactly, in the morning around 8:30 AM to 92 AM.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:17:26.190232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Monday, would work. Yes, please. Okay. That's great. Let's do it Monday. It is.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:17:26.371503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "positive_sentiment",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:17:26.371503",
+      "type": "moment"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:17:28.592232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "support_issue_resolved",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:17:31.113503",
+      "type": "moment"
+    },
+    {
+      "content": "Okay let's go for Monday, alrighty, no deposits required so basically we're good to go here. I'll just send you the confirmation email once we're off the call. Is there anything else you wanna discuss before I let you go? Wanna make sure everything is covered.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:17:33.390232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Okay.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:17:42.571503",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Yup. Okay.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:17:47.793503",
+      "type": "transcript"
+    },
+    {
+      "content": "Sounds good. Well, okay. We'll see you then on Monday morning let me know if you need anything and I'll send you the email in a bit. Thank you for your time. You too. Bye-bye.",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:17:50.790232",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Fantastic, okay, thank you so much; uh-huh, bye-bye.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:17:53.971503",
+      "type": "transcript"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-07-24T22:17:55.112232",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "support_issue_resolved",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:17:57.633503",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCc5NqXswoM",
+      "content": "Okay.",
+      "name": "(512) 699-7262",
+      "time": "2026-07-24T22:18:02.971503",
+      "type": "transcript"
+    }
+  ]
+}

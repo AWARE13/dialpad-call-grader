@@ -1,0 +1,859 @@
+{
+  "call_id": "4987188186390528",
+  "lines": [
+    {
+      "content": "Hello, this is an with Einstein moving, how can I help you?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:30:41.051005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:30:41.051005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:30:41.051005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:30:41.051005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:30:41.051005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:30:41.051005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ner",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:30:42.215005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:30:43.175005",
+      "type": "custom_moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Hi, I'm planning a local move-in Austin and wanted to get a quote.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:30:44.569204",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "call_purpose",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:30:44.569204",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "ner",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:30:47.200204",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, do you know what day you're looking to move?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:30:49.451005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "question",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:30:51.015005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "We, I think of August the Friday. Let me just check which date is twenty first.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:30:53.569204",
+      "type": "transcript"
+    },
+    {
+      "content": "Twenty first cool just double-check I have availability that day one moment here.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:31:01.451005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Yeah.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:31:03.769204",
+      "type": "transcript"
+    },
+    {
+      "content": "Looks like we do. Hang on here, click some info about you and then I'll collect some info about your move and we'll kind of get going with an estimate from there. What's your first name?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:31:16.451005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "question",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:31:26.455005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "P-A-V-A-N.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:31:28.369204",
+      "type": "transcript"
+    },
+    {
+      "content": "And your last name?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:31:32.651005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Got G-O-R-T-I.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:31:34.969204",
+      "type": "transcript"
+    },
+    {
+      "content": "M, excuse me. Is this 515-509-4353 the best contact number for you.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:31:39.851005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "phone_number",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:31:44.215005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Yes, that's right.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:31:49.369204",
+      "type": "transcript"
+    },
+    {
+      "content": "Cool. After we get this estimate set up I can send you over the details and an email so you'll have that handy. What's a good email address I can send this over to you at?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:31:56.051005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "action_item",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:31:58.815005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "action_item",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:32:02.815005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "It's G. For green, O, for orange, R. For Romeo, T. For tango, I. For igloo, P, for papa, A. For Alpha, V., for Victor, A. For Alpha, N, for Nancy @gmail.com.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:32:04.369204",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "ner",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:32:07.760204",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "ner",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:32:12.720204",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "ner",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:32:14.400204",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "email_address",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:32:15.480204",
+      "type": "moment"
+    },
+    {
+      "content": "You said G-O-R T-I-P-A-V was there an L. Or an N? I'm sorry.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:32:24.251005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "So let me, yeah, let me say the whole thing again just to make sure. G. For green, O. For orange, R. For Romeo, T. For tango, I. For igloo, P, for papa, A. For Alpha, V. For Victor, A. For Alpha, N, for Nancy @gmail.com.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:32:33.169204",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:32:36.851005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "ner",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:32:40.680204",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "ner",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:32:48.360204",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "ner",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:32:51.200204",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "email_address",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:32:52.320204",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, fantastic.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:32:52.451005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "And what is the address that you're looking to move out of?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:33:02.051005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "52102 CWA T USI bend BE ND Austin.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:33:06.769204",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "ner",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:33:15.769204",
+      "type": "moment"
+    },
+    {
+      "content": "I'm sorry, will you spell that street name for me one more time?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:33:20.651005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "W-A-T-U-S-I, what two C Bend.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:33:24.169204",
+      "type": "transcript"
+    },
+    {
+      "content": "There it is fantastic. 78732 the zip code there.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:33:29.651005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "That's right.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:33:36.769204",
+      "type": "transcript"
+    },
+    {
+      "content": "Cool, and is that a house or an apartment? We're going to be moving you out of?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:33:38.051005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "question",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:33:39.495005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "It's house.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:33:42.769204",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. What is the square footage of your home?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:33:44.651005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "3250.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:33:48.769204",
+      "type": "transcript"
+    },
+    {
+      "content": "And is that a single story? Multiple story.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:33:52.451005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "question",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:33:53.375005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Two story homes.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:33:55.969204",
+      "type": "transcript"
+    },
+    {
+      "content": "Story cool. How many bedrooms in that home?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:33:58.451005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Four.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:34:02.569204",
+      "type": "transcript"
+    },
+    {
+      "content": "I think do you have a private driveway? You imagine the our moving truck would be able to back into.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:34:05.651005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "No, should be on the road.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:34:14.569204",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:34:18.251005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "There's a small driveway, but the truck won't fit there.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:34:18.769204",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, no worries. And from, okay. And like from the road to your door, like walking distance, if you had to kind of estimate that and feet about how many feet do you think that would be?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:34:21.851005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "It's a standard car drive.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:34:23.569204",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "No.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:34:37.369204",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Any thirty feet.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:34:40.969204",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:34:43.451005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "It's a very small front yard but there are states to get into the house.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:34:43.969204",
+      "type": "transcript"
+    },
+    {
+      "content": "There are stairs going into the house. How many stairs are there? Like 46.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:34:48.851005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Yeah.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:34:51.769204",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "No, it will be more than that. Could be around 121215 I don't remember exactly now.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:34:57.769204",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:35:06.251005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "What is the address that you're planning to move to?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:35:13.451005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "It's 13017 bright sky overlook.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:35:18.769204",
+      "type": "transcript"
+    },
+    {
+      "content": "That's also 78732 for the zip code there.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:35:27.851005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Yeah, right.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:35:33.769204",
+      "type": "transcript"
+    },
+    {
+      "content": "Fantastic. What's the square footage of the new house?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:35:35.651005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "question",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:35:36.575005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Around 3800.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:35:39.169204",
+      "type": "transcript"
+    },
+    {
+      "content": "And is that single story or multiple story?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:35:45.251005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "question",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:35:45.975005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "It's a two story.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:35:48.769204",
+      "type": "transcript"
+    },
+    {
+      "content": "Story as well. And how many bedrooms in the new home?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:35:50.651005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Four.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:35:54.169204",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:35:56.051005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "And does that one have a driveway you think we'll be able to back the truck into or will that be like street side parking as well you think?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:35:59.051005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "question",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:36:00.815005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "No, I think that, that's a longer driver here. But I mean, if you're getting a big truck there's no driveway in residential she, so you can back the entire truck into it.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:36:06.169204",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:36:09.851005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "monologuing",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:36:16.055005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "Okay. And is that a fairly short walking sense to the door, there as well. Are there any stairs or anything leading?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:36:16.451005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "question",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:36:19.615005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "monologuing",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:36:22.095005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Yeah, yeah, yeah, no stairs. And it's much shorter.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:36:22.369204",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, fantastic. Cool. Excuse me. As far as due to the size of your home, what we wanna do to get you an accurate estimate set up, is get you a cell specialist that can do a virtual walkthrough of your home where they'll take a video call with you and have you kind of walk you through the home and show them everything that you're going to be moving. So we can kind of get our eyes on it for a home of your size it can you know, greatly vary on how many trucks and resources we're gonna need. Would you have time to do that if you've got time now? I can reach out to a sales agent and see if one's available or we can get you set up, okay?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:36:27.251005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "monologuing",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:36:27.375005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "monologuing",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:36:43.335005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "monologuing",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:36:47.655005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:36:52.295005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Sure.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:36:52.969204",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Sure.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:36:57.769204",
+      "type": "transcript"
+    },
+    {
+      "content": "action_item",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:37:00.815005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "issue_unresolved",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:37:00.815005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "No, I'm at work right now. I'm at work. Can we do it anytime after 5:30 PM?",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:37:03.169204",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "question",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:37:07.160204",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "time",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:37:08.280204",
+      "type": "moment"
+    },
+    {
+      "content": "We close at 5:30 is there a time during the day maybe later this week that you could do it?",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:37:09.851005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "time",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:37:12.055005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "question",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:37:12.735005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "How about 4:00 PM?",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:37:16.369204",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "time",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:37:17.560204",
+      "type": "moment"
+    },
+    {
+      "content": "4:00 PM. Yeah, we can probably get you set up for 4:00 PM.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:37:18.851005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "time",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:37:18.851005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Yeah.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:37:20.569204",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:37:21.615005",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Okay, sounds good. Let's do it at 4:00 PM.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:37:22.969204",
+      "type": "transcript"
+    },
+    {
+      "content": "To today at four will work for you.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:37:24.251005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "time",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:37:25.000204",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Yes.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:37:27.769204",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, fantastic. I'll pass your information along to us, excuse me on it. Pass your information along to a sales specialist this morning and somebody will be able to contact you this afternoon to get that set up for you.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:37:29.051005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Sounds good, thank you.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:37:43.969204",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, sir. Thank you, have a nice day.",
+      "name": "Rance Pope",
+      "time": "2026-07-27T13:37:45.851005",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDWkaKh0QkM",
+      "content": "Bye.",
+      "name": "(515) 509-4353",
+      "time": "2026-07-27T13:37:48.769204",
+      "type": "transcript"
+    }
+  ]
+}

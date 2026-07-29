@@ -1,0 +1,964 @@
+{
+  "call_id": "5739353279766528",
+  "lines": [
+    {
+      "content": "Good afternoon, this is Cameron with Einstein Moving Company. How can I help you?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:12:59.245523",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:12:59.245523",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:12:59.245523",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:12:59.245523",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:12:59.245523",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:12:59.245523",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:12:59.245523",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "ner",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:13:01.148523",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "ner",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:13:01.428523",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "I, yes I'm just thinking of setting up a day to move.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:13:01.794608",
+      "type": "transcript"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:13:02.668523",
+      "type": "custom_moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "Not a problem I can definitely get this started for you. Have you already submitted an inquiry online?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:13:08.245523",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:13:11.845523",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "No, I haven't. I just wanted to know what are the prices?",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:13:14.394608",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, that's no problem. Let me I just have to create a profile and then it'll, let me access all the pricing information. I'm gonna read you that if you'd like.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:13:18.044728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Is that what?",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:13:26.394608",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "question",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:13:26.394608",
+      "type": "moment"
+    },
+    {
+      "content": "Can I get a first and last name?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:13:28.844728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:13:28.844728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Question. Last name? M-W-A-N-Y-A-N-W.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:13:31.794608",
+      "type": "transcript"
+    },
+    {
+      "content": "And then, is this gonna be the best phone number to reach you at?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:13:43.244728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:13:44.040728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Correct.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:13:46.194608",
+      "type": "transcript"
+    },
+    {
+      "content": "And can I get a good phone number? I mean my bad, a good email address.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:13:55.844728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:13:56.160728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Email address is Clinton the last name N-W-A-N-Y-N-W @yahoo.com.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:14:01.194608",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "ner",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:14:01.886608",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "pii",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:14:03.206608",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "email_address",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:14:05.126608",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Tell me first. It's gonna be Clinton then the last name @yahoo.com.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:14:14.994608",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "ner",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:14:16.726608",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "email_address",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:14:20.486608",
+      "type": "moment"
+    },
+    {
+      "content": "Alrighty, mm-hmm.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:14:22.844728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "And what day were you looking to get this moved done?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:14:27.644728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:14:28.160728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Twenty ninth.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:14:30.594608",
+      "type": "transcript"
+    },
+    {
+      "content": "Ready. So on the twenty ninth of the Wednesday, we're gonna have an hourly rate of $103 per mover per hour and we do have a two and a half hour minimum if you'd like, I can go ahead and build you up a personalized estimate.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:14:46.244728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "currency",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:14:50.960728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Yes. What's your estimate? Yes.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:14:59.394608",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "question",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:14:59.926608",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:15:01.844728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "Can I get the load of address?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:15:06.044728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:15:06.044728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "The even the address of what the, where I, where I leave?",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:15:10.794608",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, where will be starting?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:15:15.644728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:15:16.080728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "3403 Hammon Avenue.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:15:17.394608",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "address",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:15:17.394608",
+      "type": "moment"
+    },
+    {
+      "content": "And is it gonna be an apartment?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:15:28.844728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:15:29.800728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Yes, a problem.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:15:31.794608",
+      "type": "transcript"
+    },
+    {
+      "content": "Can I get the unit number?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:15:33.644728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:15:33.644728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "634.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:15:36.594608",
+      "type": "transcript"
+    },
+    {
+      "content": "And what is the square footage?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:15:41.444728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "600 and like 650.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:15:44.394608",
+      "type": "transcript"
+    },
+    {
+      "content": "Is it a single bedroom?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:15:49.244728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:15:49.244728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Yes.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:15:51.594608",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:15:53.440728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "What floor is it located on?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:15:55.244728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:15:55.244728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Oh, 64.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:15:57.594608",
+      "type": "transcript"
+    },
+    {
+      "content": "Four.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:15:59.444728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "Is there gonna be a loading dock here? Elevator, we can reserve.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:16:02.444728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:16:02.444728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Where is it under, under.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:16:05.994608",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:16:10.244728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "Anything particularly heavy, we should be concerned about like a piano work at equipment, gun safe. Anything like that?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:16:12.644728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "No, just T-V-T-V stand.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:16:20.394608",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Any appliances coming with us?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:16:24.044728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Yeah, badge a pounds like, I mean, like the parts of stuff.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:16:26.394608",
+      "type": "transcript"
+    },
+    {
+      "content": "Like a, like a fridge Washer/Dryer.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:16:33.044728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "No, no, no, none of that.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:16:35.994608",
+      "type": "transcript"
+    },
+    {
+      "content": "Anything particularly fragile. We should be concerned about any expensive artwork, or is any of the furniture antique.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:16:39.044728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "No, no, no.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:16:45.594608",
+      "type": "transcript"
+    },
+    {
+      "content": "And do we have an estimated box count?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:16:48.644728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:16:51.760728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "No, I don't have any box right now.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:16:54.594608",
+      "type": "transcript"
+    },
+    {
+      "content": "Any other locations that be loading up from here? Like a storage closet or a garage?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:17:14.444728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "No.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:17:24.594608",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and can I get the unload address?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:17:27.044728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:17:28.480728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "It is 4424 Jackson Avenue, Austin, Texas. 78731.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:17:31.794608",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "address",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:17:33.594608",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "ner",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:17:35.994608",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "postcode",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:17:39.606608",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, and it's gonna be another apartment.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:17:42.044728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Apartment. Yes.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:17:45.594608",
+      "type": "transcript"
+    },
+    {
+      "content": "Can I get the unit number?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:17:47.444728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:17:47.444728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "I think it's 424 but I have to confirm I'm not sure yet.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:17:49.194608",
+      "type": "transcript"
+    },
+    {
+      "content": "424 okay. And can I get the square footage and the number of bedrooms?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:17:53.444728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:17:57.640728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "One bedroom, I think it has like 90900 square feet.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:18:00.594608",
+      "type": "transcript"
+    },
+    {
+      "content": "And what floor is it located on?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:18:09.044728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:18:09.800728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "What flow, I believe.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:18:11.394608",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:18:24.644728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "Do you happen to have a list of the inventory?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:18:30.644728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:18:30.644728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "So.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:18:33.594608",
+      "type": "transcript"
+    },
+    {
+      "content": "Did you happen to have a list of the inventory?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:18:35.444728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "What do you mean?",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:18:38.394608",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "question",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:18:38.394608",
+      "type": "moment"
+    },
+    {
+      "content": "All the furniture coming with us.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:18:39.644728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "It's, oh, what?",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:18:43.194608",
+      "type": "transcript"
+    },
+    {
+      "content": "Do you have a list of the furniture coming with us?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:18:45.644728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:18:45.644728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Yeah. The furniture. Yeah, for the order, apartment, actually I don't need the furniture. I mean, the furniture is gonna be, I'm just gonna, I don't wanna take the furniture with me. It's just gonna be maybe dropped like I guess left outside. But I don't, I'm about to get furniture. Just the bed. I literally a little bad and the TV step. Yeah, the bed, the TV, two TV kind that maybe, the, you know, Cobo do you know it's like a, like a desk.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:18:48.594608",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, just the bed and the TV. Okay.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:19:07.844728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "Okay, in that case, sounds like this is gonna be our minimum. So, we're going to have a, we're gonna have a two and a half hour minimum and that $10,303 per mover per hour on our standard two mover team, it's gonna be an hourly rate of $206 and then at that two and a half hour minimum, it's gonna bring you to a brand total of $515.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:19:17.444728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:19:26.080728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "currency",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:19:29.040728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "currency",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:19:35.240728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "currency",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:19:39.720728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "$515 in total.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:19:41.994608",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "currency",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:19:41.994608",
+      "type": "moment"
+    },
+    {
+      "content": "Yes sir.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:19:44.444728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Okay. Yeah, I just wanted to confirm and if anything I'll get, I'll get back to you but thank you very much.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:19:46.194608",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "action_item",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:19:49.566608",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "positive_sentiment",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:19:50.526608",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, no problem. Just have a wonderful day.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:19:51.644728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "Call Closing",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:19:52.720728",
+      "type": "custom_moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Yeah, do you guys also like a leadership?",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:19:54.594608",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "question",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:19:55.006608",
+      "type": "moment"
+    },
+    {
+      "content": "I'm sorry, what was that?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:19:57.644728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Do you guys negotiate?",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:19:59.394608",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "question",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:19:59.394608",
+      "type": "moment"
+    },
+    {
+      "content": "What do you mean?",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:20:04.844728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "question",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:20:04.844728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "content": "unsure_agent",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:20:04.844728",
+      "type": "moment",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Like do you guys like the price from?",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:20:06.594608",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "question",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:20:07.206608",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, so it's gonna be a minimum after that. We charge in fifteen minute increments.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:20:09.644728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsq8axnAgM",
+      "content": "Let me know. Okay, alright, thank you.",
+      "name": "Christian Nwany",
+      "time": "2026-07-22T19:20:14.994608",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Cameron Klepac",
+      "time": "2026-07-22T19:20:17.444728",
+      "type": "transcript",
+      "user_id": "4727006223671296"
+    }
+  ]
+}

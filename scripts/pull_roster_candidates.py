@@ -29,7 +29,7 @@ def get_api_key():
 
 def api_get(endpoint, api_key):
     result = subprocess.run([
-        "curl", "-s", "-H", f"Authorization: Bearer {api_key}",
+        "curl", "-s", "-m", "30", "-H", f"Authorization: Bearer {api_key}",
         f"https://dialpad.com/api/v2/{endpoint}"
     ], capture_output=True, text=True)
     try:

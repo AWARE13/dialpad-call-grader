@@ -1,0 +1,677 @@
+{
+  "call_id": "4727071754100736",
+  "lines": [
+    {
+      "content": "Hi, hi Tom, this is Daniel with Einstein moving, how you doing?",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:01:12.947722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:01:12.947722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:01:12.947722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:01:12.947722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:01:12.947722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:01:12.947722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:01:12.947722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:01:12.947722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:01:12.947722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "ner",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:01:14.146722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "ner",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:01:14.466722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "ner",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:01:15.026722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Very unhappy.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:01:17.252051",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "negative_sentiment",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:01:17.252051",
+      "type": "moment"
+    },
+    {
+      "content": "It's in communication with the crew and from what I'm understanding is yeah, the buildings obviously just kind of being refusal with the moment. I did wanna touch base with you're saying the elevator was reserved for the morning time this slot this morning.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:01:20.147722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:01:20.147722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Yeah, nine till noon and let me just add, I'm sitting in the hospital because I've had a stroke.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:01:35.252051",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Yeah I guess go ahead.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:01:37.547722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "I am aware. Yup, I'm very sorry to hear that.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:01:43.547722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Empathy",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:01:46.306722",
+      "type": "custom_moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "I, that's why I had your Packers come yesterday to make sure they could fit within the three hour window and they assured my son. Oh, yeah, with all the packing we did yesterday, we're doing great. We'll get everything done within that window and now they use it today for four hours and twenty minutes. And still did not get it done.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:01:49.652051",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, I know there was definitely some prep work done for the move itself. So with the timeline I'm not sure cause I know what happened this morning is, it showed up in the apparently the understanding was there this is obviously the buildings communication. But they said that there wasn't a reservation so they had the maintenance guy open and reserve it for them and then I guess they did have to use the regular elevator go through the loading dock door, walk across, you know, wherever we were parking just because we don't in the loading dock. So that was the Ligi we've been dealing with this morning. Let's see the sun went back down to discuss them. He's gonna see the general manager will come and assess the fire hazard on the hallway. How little we have left? Cause yeah, from my understanding we have like three trips left twenty minutes or so he's asking us to wait upstairs, he's not asking in a minute. I'll see if I'm needed for the conversation. So that's my lead Tyler on site working with your son to try to get the building to be reasonable here, but yeah, for the, for the timeline go ahead.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:02:10.547722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:02:10.826722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "And there's.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:02:11.252051",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:03:02.906722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Well, I mean the Billings got other reservation. So I get it. I mean the fact that you said it wasn't reserved today, I do want them to explain that that's part of the problem or and I guess they would probably say what we gave you an extra hour and twenty minutes already.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:03:08.852051",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:03:17.747722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Yeah, I'm, I do know. Well even with reason reservations, they are very kind of. It can be pretty wishy washy. I say, I mean, with double bookings or if it's not, yup someone didn't use the full per percentage of the time. What I'm looking for is if the, if the freight elevator is available, I'm not under, you know, we could, we should be able to definitely use it. No.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:03:25.547722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "It's not it's not there's other movers or they said.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:03:46.652051",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:03:47.946722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Well, I have my guy on site and obviously someone was using the freight elevator for a reser reserve time. But I'm not sure if they're even using it anymore. It's basically what I'm kidding for the moment. Yeah.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:03:50.747722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Oh, and I told my son, the girl look for the other movers and try and bribe them.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:03:59.852051",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup, yeah, or.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:04:03.947722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Like I'm like, give him $200 and say, hey, man, can we just run some loads down?",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:04:06.452051",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "currency",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:04:07.849051",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "question",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:04:09.449051",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, exactly and that's what I mean, my understanding is that we just want to get all this down. I've already got San antonio, I've got that branch actually in the loop to possibly support at the unload, so that your son isn't put through like too long of a day. And so, yeah, that way that move can actually be a bit more buttoned up more reasonable time but that will be once we can actually get out of this building which at the moment, yeah, it's frustrating. We, you know, full in teeth at the moment but, yeah, I didn't plan on having the guys. I mean, we're not just gonna listen to you know. Oh, sorry you can't move anything else.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:04:11.147722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:04:22.946722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "And take what you got, that's kind of ridiculous, especially as my lead is mentioning that we already have everything staged by the elevator, which and they kind of operations that is a fire hazard. And we should be able to remove that fire hazard from the fourteenth floor so, hopefully they work with us on that. But again, yeah, I appreciate you. I apologize for the frustration, and I absolutely do understand I'm out of the loop on the timeline on if there were other factors ex, exactly with parking or whatever it was. But that's basically where I'm up-to-date on the whole matter.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:04:48.347722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "So, what if they say no and we're screwed. What if they say moving back into the condo, then what happens?",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:05:27.452051",
+      "type": "transcript"
+    },
+    {
+      "content": "Well, I guess I would go about that with probably trying to just route out another crew on a different day if it, if whatever is actually logistically feasible for your own situation but yeah, there would be some bit of a reimbursement for all that would just be a full-scale move. You have to pay, you know, 44 or something like that, it would just be for the, a lot of time that wasn't accounted for, for the original move. If that makes sense.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:05:35.747722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:05:45.346722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "And again the problem is part of my language I'm fucked, I'm sitting in a hospital, my son is helping out, he was staying in the condo, condo was no longer ala he can stay, there's stuff that hasn't been moved, you guys did not do it within the three hour window that they committed to. Like, yeah, I'm in a really bad way on this.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:06:01.052051",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "negative_sentiment",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:06:01.052051",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "swearing",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:06:04.369051",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, I know when I fully understand that.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:06:23.747722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "And on the house.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:06:25.052051",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, that's basically where the best jumping off point is to just the brass tax. What we can actually do today. So, yeah, again having my, my lead Tyler reach out to me with it, with it whatever updates looks like the son is talking to the GM at the moment about exactly what would be feasible but I just wanted to give you an update, yeah, you know, know verbally and then yeah, I'm doing the best I can to actually get everything situated for today. And yeah, putting up a fight obviously for the, for the actual logistics of the move.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:06:28.547722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "ner",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:06:40.306722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "The other catches the storage unit. I don't know how late they're open for you even to get stuff in there.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:07:03.452051",
+      "type": "transcript"
+    },
+    {
+      "content": "Hey, yeah.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:07:11.147722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "See yeah, I can see about that as well but yeah, I understand that as well for the, for the meter.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:07:17.147722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:07:18.786722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:07:21.386722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:07:26.146722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Location.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:07:28.547722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Alright, that's the one. Yeah. Okay. So yeah, I appreciate you any I guess, let me just keep getting these details from Tyler and the on about what exactly they're saying and if there's any kind of middle ground cause obviously we like, we work with these buildings a lot so it's kind of interesting when they want to kind of bring down the kind of a iron fest sort of thing. But either, either way kind of work with them.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:07:30.947722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:07:32.106722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:07:38.946722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "ner",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:07:40.826722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:07:49.426722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Yeah.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:07:58.652051",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Okay.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:08:01.652051",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:08:01.746722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Alright.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:08:04.052051",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, sir. Well I'll definitely I'll let you know if there's any other massive logistics or if we're needing to again do some sort of follow up or exactly what that looks like. But I appreciate you taking the call and I.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:08:05.747722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Yeah, that resolved. So I'm gonna, I'm gonna have to hear more now if I don't take the call, it's because, literally the doctors are in my room.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:08:16.052051",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:08:20.747722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "I understand.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:08:24.947722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Understand. Yup, and I'll leave a voicemail and everything like that with any updates.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:08:29.147722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "voicemail",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:08:30.266722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Okay.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:08:32.852051",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, sir. Yeah, it was Daniel again but yeah, I'll be in touch.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:08:34.547722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "ner",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:08:36.066722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "You have a direct number?",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:08:40.052051",
+      "type": "transcript"
+    },
+    {
+      "content": "It will just be the sales number but I know, I mean you've worked with Chris before, right. Does, do you have his direct number or?",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:08:41.747722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "ner",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:08:46.826722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "question",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:08:48.106722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "I don't think so.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:08:50.252051",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, well, you can always give us a call and I mean, we're going to be in all day so we can always get transferred over to and then yeah, that's, go ahead.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:08:51.947722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "What?",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:08:59.852051",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Is there a a direct number I should call instead of just your sales number? Just getting a different person. Are we having to restart from ground zero explaining what's going on?",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:09:02.252051",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "question",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:09:02.252051",
+      "type": "moment"
+    },
+    {
+      "content": "You don't necessarily have to do that. You can just say hi I'm Thoms then please transfer me to Daniel regarding my move or whatever it is. Daniel. Yes, sir.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:09:11.747722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "ner",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:09:16.106722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "ner",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:09:18.186722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Daniel. Okay.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:09:20.252051",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "ner",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:09:20.252051",
+      "type": "moment"
+    },
+    {
+      "content": "ner",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:09:21.347722",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Alright.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:09:23.852051",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. But yes pre appreciate your time and yeah, I'll keep you in the loop.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:09:24.947722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Okay.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:09:26.852051",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Alright. Yeah, please keep after it.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:09:31.052051",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes sir, bye.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:09:33.347722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Bye-bye.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T19:09:34.547722",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCslNWO9gkM",
+      "content": "Alright.",
+      "name": "Thomas Sullivan",
+      "time": "2026-07-21T19:09:35.252051",
+      "type": "transcript"
+    }
+  ]
+}

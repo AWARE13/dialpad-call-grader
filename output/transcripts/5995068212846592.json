@@ -1,0 +1,1797 @@
+{
+  "call_id": "6335130058301440",
+  "lines": [
+    {
+      "content": "Hi, this is Daniel with Einstein moving, how can I help you?",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:16:09.512935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:16:09.512935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:16:09.512935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:16:09.512935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:16:09.512935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:16:09.512935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:16:09.512935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "ner",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:16:10.398935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "ner",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:16:10.838935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:16:11.718935",
+      "type": "custom_moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Yes, I wanted to, to talk to you about a potential move and see if you're available and what your rates are.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:16:12.315647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "call_purpose",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:16:12.315647",
+      "type": "moment"
+    },
+    {
+      "content": "For sure what date were you trying to move?",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:16:20.312935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "question",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:16:21.438935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Actually this Friday if you had anything available.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:16:23.115647",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Let me see, and was it like a, an apartment or a full house or was that like?",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:16:26.912935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "It is, it's my son's moving into a two bedroom apartment. So our things are coming from horseshoe bay Texas and then he's moving to north Austin, it's about a fifty mile distance between where the items are going to be loaded and where they're gonna be, unloaded.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:16:30.315647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "ner",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:16:37.204647",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "ner",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:16:38.644647",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:16:40.712935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Okay. Gotcha. I do have some availability on Friday actually so let me build it out for there. What was the first and last name for the move?",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:16:47.912935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay, so it'll be under my son's name Tyler, last name is Miller.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:16:57.315647",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:17:00.512935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "ner",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:17:00.644647",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "ner",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:17:03.364647",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. And then should I put his phone number down his point of contact for the move date?",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:17:06.512935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "question",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:17:08.598935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Yes, and then can, can I be, a secondary? I'm gonna be flying that day so, but he's primary it's 713-775-9344.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:17:11.715647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "question",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:17:13.484647",
+      "type": "moment"
+    },
+    {
+      "content": "You can't.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:17:14.912935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "phone_number",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:17:18.604647",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. And then what's a good email I can send the information over to, I guess his and CCU or whatever you want.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:17:26.312935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Yeah, I'm gonna have you send it to me and then I'll forward it to him I think just cause I checked mine better, it's Patty, the letter M, like Miller, and then Evans it's patty M. Evans the number four @gmail.com.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:17:32.115647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "action_item",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:17:34.604647",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, yeah, okay, so.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:17:34.712935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "ner",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:17:38.204647",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "ner",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:17:42.564647",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "ner",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:17:45.644647",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "ner",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:17:46.924647",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "ner",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:17:47.804647",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "email_address",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:17:51.364647",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. And how did you hear about Einstein?",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:17:56.912935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "question",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:17:57.718935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "ner",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:17:58.238935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "I actually been doing some Google searches and then I actually put it into ChatGPT and they highly recommended you cause it kind of just searched all the different reviews.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:17:59.115647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "ner",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:18:01.364647",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, no it's a pretty good research tool and I've been hearing it more and more but yeah, definitely glad you found us, let's get this and then for I'm actually give me one second I'm gonna block off the day just because it is the only availability.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:18:08.912935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Yeah.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:18:14.715647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Just wondering like, about travel fees and rate. I'm thinking, I sure don't want it to be a five hour day but I'm thinking we could do it with the travel probably in about four, every, everything we moved everything, it's all boxed and ready to go. It's sitting in our garage, we've got one stop about a mile and a half from our house at our storage unit, there's a bed frame and a mattress we couldn't move. So we've got those two stops but everything is just lined up in our garage ready to go back up on the truck.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:18:23.715647",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, yeah, I'll definitely.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:18:35.912935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:18:40.712935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:18:48.512935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Okay.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:18:50.912935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Okay, nice. And then what was that starting address?",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:18:58.112935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "question",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:18:59.478935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "The, okay, so the starting address. I'm gonna make at the storage unit I think that makes more sense and so it's let's see, 9700 ranch to market road. 2147.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:19:01.515647",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:19:06.512935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "And it's in horseshoe bay Texas. 78657, it's called bay storage.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:19:20.115647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "ner",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:19:22.964647",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "postcode",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:19:24.315647",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, let me take a look here.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:19:28.712935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "You would pass it before you came to our, the turn off to our house so.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:19:33.915647",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, so I hit that up first. Gotcha, and then for I guess I'll just go ahead and date the house location too cause that's where we're picking up the stuff in the garage, is what you're saying.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:19:40.112935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Sure. Yeah, that's the main stuff. The only thing in the storage unit which is also a first floor. Is a queen mattress box spring and a queen bed frame.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:19:49.515647",
+      "type": "transcript"
+    },
+    {
+      "content": "And clean.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:20:04.112935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Alright, the bed frames disassembled already, I'd imagine or.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:20:07.112935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "It is, it is, it's just a headboard, the, it's wood but it's, yeah, with some yeah, some side rails.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:20:09.915647",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:20:15.512935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "That's fine. Okay. Gotcha. Mattress box spring and bed frat. Okay. And the first floor, was it like a.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:20:19.112935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "And I think they're all, they're all packed like they're all wrapped.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:20:24.315647",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, perhaps and everything nice.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:20:29.312935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Okay. For the first floor. Was it like an outdoor unit like drive up or was it like an inside client controlled?",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:20:32.912935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "They, you drive up and then you've just got to walk down a hallway to it, but it's on a four floor. It's inside but it's the first floor.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:20:38.115647",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:20:44.312935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Gotcha hallway and then for the house, what was that location? What was that address?",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:20:46.712935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "question",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:20:53.198935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Yeah, it's 105 bent B like boy ENT and then 10 NE. And that's in horseshoe bay and it's 78657.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:20:54.315647",
+      "type": "transcript"
+    },
+    {
+      "content": "78657 okay, I got that oh what you thing.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:21:11.912935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Okay, and then what all was coming from the house.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:21:22.112935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay. So there is a a second queen bed and it's a restoration hardware. The headboard, it's like one of those bookshelf headboards and, and the actual bed that connect and they're wrapped up, but they're heavy. And then there's a restoration hardware. I just say that cause, it's solid furniture. There's like a, yeah, it's a six drawer dresser but it's not a tall one. It's like the long, the long kind.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:21:26.115647",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:21:35.912935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "It is, I don't.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:21:47.312935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Okay.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:21:54.512935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "And then he's got, oh, quite a few mis, we, I'll tell you everything fit on a twenty foot U-Haul except for that bed and the storage unit. So if your truck is a little over twenty feet, it will fill it.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:21:56.715647",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:22:04.712935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "It is, yeah, 26 feet, yeah.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:22:12.512935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay, perfect. So that's perfect. He's got the only other appliance he has is like a, his dad had given them a, a wine refrigerator from one of the restaurants. So it's a small appliance but it's I guess it's a commercial grade one. So it's a little bit bigger. It's like a small refrigerator.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:22:14.115647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "positive_sentiment",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:22:14.115647",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:22:25.712935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Okay, gotcha. So that's a taller wine fridge.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:22:34.712935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "And, yeah, and everything else is boxes of you know, there's a, I guess there's a small desk. There's we do have a kitchen table but we're not taking it. So that actually, really saves a lot of room he's got a sectional the feet come off and it's like an L so it's in 22 sections.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:22:38.115647",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:22:46.712935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Okay.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:22:50.912935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:22:53.312935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Two pieces. Okay.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:22:59.912935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "He's got a coffee table. It's kind of heavy but again it's wrapped up but it's got a glass top in like a metal base.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:23:02.115647",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:23:06.512935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Okay.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:23:11.312935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "He's gonna have kind of like a TV console.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:23:12.315647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "And he's got four small counter stools three or four. I think he has three and he's got some just different artwork that's wrapped like a print framed they're kind of heavier bulkier things. He's got a, he's got five large boxes, you know five large moving boxes. Probably fifteen between medium and small, maybe a little bit more that we packed up like dishes and kitchen appliances and things like that but it's all packed. From our move from college.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:23:17.715647",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:23:23.312935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:23:42.512935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Uh-huh.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:23:53.312935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "And a small metal desk really lightweight with a desk chair and then he's got a sixty inch television and it is not in a box, but it's wrapped probably should have been but we put it in between mattresses.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:23:58.515647",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:24:07.712935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Yeah, that's totally fine. We if anything, if then even if any of this was like, not prepped like, fully to, to, I guess the standard of, you know, full, full kind of $360 padding the guys can always re prep stuff if need be so they come out with all the furniture blanket, shrink wrap, re using any of that is not extra charge to you. It's just gonna be the time for the to move at the end of the day. So, yeah, all that is included for the desk. Was there, just the one desk, I noted it twice but just curious. Okay?",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:24:13.712935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Uh-huh.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:24:23.715647",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:24:23.878935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:24:26.715647",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:24:28.238935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay, okay.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:24:32.715647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Yeah, it's 11 desk. Yeah, also has a bedside table for his bedroom, he's got a couple of lamps like two, like bedside lamps and then a floor lamp and I'm trying to think of what else is in there. It looks like more than it probably is, at the end of the day, he's got two rugs ones that I need to get the floor plan but we'll be, moving, one one's nine by 12112 by fifteen they're all rolled up and taped and he's got a small.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:24:41.115647",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:24:45.512935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:24:53.912935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Mm-hmm. Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:25:04.112935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:25:12.512935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Gotcha, well you want those rolled out at download.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:25:16.112935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Probably at least the nine by twelve cause then he'll put that down and then we can put the bed on it. The only thing we really need help assembling is the restoration hardware bed. I had to order a new hardware set for it. So I've got all the items but that's the one that he's not going to do on his own.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:25:19.515647",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:25:22.712935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Exactly.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:25:28.712935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:25:32.912935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Okay.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:25:35.912935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Okay, gotcha.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:25:40.712935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "And it's a ground floor apartment where he's moving, which is also nice.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:25:47.115647",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. What was that address there?",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:25:52.112935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "question",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:25:52.918935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay. It's called the Everett in north Austin. And let me give you the address. It is 11205. North FM 620 and it's in Austin address. Do you need the zip code?",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:25:54.315647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "ner",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:25:56.244647",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "ner",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:25:57.084647",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "ner",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:26:09.044647",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "question",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:26:10.515647",
+      "type": "moment"
+    },
+    {
+      "content": "I think I've got it. 7826 oh, sorry. 78726 is that right?",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:26:12.512935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "I think so. Let's see here. Let me look at the, yes, 78726.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:26:18.315647",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:26:25.712935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Gotcha.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:26:28.112935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Let's see. Oh, yeah. So, apartment first floor is it a one bedroom or two bedroom? Okay.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:26:31.112935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "question",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:26:34.838935",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "It's a two bedroom. So we'll have two queen beds total going there.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:26:36.315647",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:26:40.112935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Gotcha. Was a rough square footage of that unit.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:26:42.512935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "I think it's 1100 square feet.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:26:47.715647",
+      "type": "transcript"
+    },
+    {
+      "content": "That's about right. Okay, gotcha. Let's see, oops, that's all I want. So, yeah, I guess, for the house everything is in the garage or is there anything we would need to get access to. Okay, gotcha.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:26:50.312935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "It is, it's in the garage. Yup, he's close. He's gonna, a lot of them that are in the house we'll just throw in his pickup truck and he'll drive over there with you.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:27:00.315647",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, sweet. Let me see if I have anything else to take note of see I've got, I guess, noted about thirty boxes or so total maybe, or.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:27:11.312935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "That's what I'm thinking, yeah, might be less.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:27:21.315647",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah. Okay. Gotcha. It's pretty typical for a two bedroom equivalent usually it is about 2535 so that's, that makes sense.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:27:23.312935",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:27:29.115647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "It's all stacked on one side of our two car garage. We're ready to get it out of there.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:27:36.315647",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Yeah you get the garage back. Oh, that's what I was gonna know for the lamps, we just can't have any light bulbs or shades come on the trucks that there was anything to be loaded into a car. Yeah, like a, a smaller lamp or just like the shade for like a standing lamp obviously, we can move the standing, you know, stand, it's a little bit hard to fit a car but yeah we would just asked for that, for the, for in a car trip for two.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:27:40.662625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:27:50.154625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:27:51.915647",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:27:52.554625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay, sure. Okay.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:28:03.315647",
+      "type": "transcript"
+    },
+    {
+      "content": "Let's.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:28:06.462625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Let's oh yeah, yeah, I guess no other like bookshelves or anything like that you can think of coming with us.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:28:09.462625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "No, he got rid of so much stuff. I think that's, I think that's it. That's the main ste.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:28:15.315647",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:28:19.062625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Alright, let me check out the drive. So yeah, once we get out there to four shoe Britt bay, it's a ten minute drive to the house or seven minute drive and then about an hour drive back.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:28:23.262625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "It might be a little more than an hour. It depends on which route you take. I think the way we do is we typically go through liberty hill and Georgetown kind of area over there.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:28:37.515647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "ner",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:28:45.364647",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:28:46.662625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "ner",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:28:47.324647",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, that is about an hour 22.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:28:50.262625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "You might be showing a different route. Okay. Yeah, the nice thing is there's no traffic but it's.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:28:51.315647",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:28:57.462625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Yeah, we'd be coming up 620 north FM 620. It seems to be the quickest route of an hour and eleven minutes but usually just whatever GPS says going to be quicker we'll just take that one tolls, whatever it is that needs to be kind of eight at the end of the day. So that's fine. But yeah, it's.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:28:59.862625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay. Oh, perfect. Okay.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:29:06.315647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "positive_sentiment",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:29:08.115647",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:29:15.315647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:29:17.715647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "I don't think loading will take too long just because like I said, it's all kind of right there other than the, I wish I could have gotten the mattress and other headboard to our house, but.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:29:21.915647",
+      "type": "transcript"
+    },
+    {
+      "content": "To the, to the same location. Yeah, honestly grabbing it from a first floor location that's not too crazy, I mean, I'm fatter in like thirty minutes if 3030 to an hour really. I mean probably, yeah. So thirty to 45 really just with parking access, getting it wheels up, that sort of thing. And then, yeah, for the, depending on the preparedness of, you know, the wrap jobs and everything like that, you know, garage to, to truck. That's basically like, yeah, an exterior unit, which is direct down, which is really nice. I would say yeah, two and then an hour and then.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:29:31.662625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Yeah.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:29:33.315647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "To be pretty quick.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:29:37.515647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Yeah.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:29:41.115647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Yeah.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:29:49.515647",
+      "type": "transcript"
+    },
+    {
+      "content": "First floor on bug.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:30:10.062625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Yeah, I think, I'm thinking an hour and a half is really doable for those two stops and then an hour and a half to the apartment. So they've got three and then maybe another hour and a half. I hopefully under five would be my goal cause it's get expensive.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:30:10.515647",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, I would say.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:30:15.462625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Yeah, I would I.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:30:25.062625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Of course. Yeah, I would, I just maybe four to five maybe I really just because the reassembly on the other side, if it was more, more so just like, yeah, set and forget. And the apartment. That's obviously gonna be very quick. Especially if you'll have an idea of where he wants to place. They'll get you know, even the bed pieces to the right spot but with the reassembly, you know, if as long as we have all the hardware which sounds like yeah, it's all squared away. That would be the quick thing. So yeah, I'll go ahead and break down the.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:30:28.662625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Yup.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:30:32.115647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Yup.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:30:35.715647",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:30:38.834625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Yup, great. Yeah, I think just the one bed and then we'll help them with the other one.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:30:50.715647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "positive_sentiment",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:30:50.715647",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:30:55.034625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "That's totally fine and then yeah, so I'll break down the pricing, it's just the per hourly rate. So for the Friday the twenty fourth it is the $109 per guys for a two man team it's $218 an hour. Everything is included in that, so that is the fuel for the truck, the truck itself all the taxes and insurance for the move as well as all the materials weed on site. So as I mentioned if we're using any shrink, grab extra pads whatever it is you don't, you're not charged for any of that they do come out with all the Dell, always wheels move everything effectively obviously kind of moving stuff to from the garage and then they do come out these large mover boxes, they're like five feet long, two feet wide. Two feet tall. I don't know if you've ever seen those but if there is any random stuff I mean even as close or whatever and they do want to move with us that's totally okay, that those boxes are there for like a little bit of miscellaneous stuff if there's anything floating around but just to make the trips to from the truck effective, the guys will be most efficient with kind of just furniture just boxes. So that is going to be the bread butter of the move.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:30:56.862625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "currency",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:31:05.034625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "currency",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:31:07.314625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:31:29.794625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:31:40.034625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Right.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:31:49.515647",
+      "type": "transcript"
+    },
+    {
+      "content": "For the anything outside of the hourly rate, it would just be the trip fee to get out the horseshoe bay. So the $620 location falls within our zone obviously with Austin, but the drive out to horseshoe bay covered with the $225 trip fee to get the empty truck out there in the morning. That's the clock would only start whenever actually there with you on site. So that's a county for that time with the two guys and then we don't do any hidden fees. So there's no like, credit card processing fees on top taxes on top stairwell or step fees, even if we did need to go access to the house or whatever.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:31:55.062625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "currency",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:32:03.634625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "ner",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:32:06.954625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "currency",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:32:10.354625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:32:14.794625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:32:28.554625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "It's really just the time that does occur damage coverage which is $2,000 evaluation damage coverage over the move that is over the belongings we're moving. It's also actually over the doors, floors, walls of all the locations so that gets handled in-house by claims team. That's all third party insurance you have to deal with or anything like that. I can handle week to week. If there's anything there and then, our movers, they're not like daily contract to workers. They don't, we don't soft them out over the day. They are all hired in-house trained, in-house through a background check, please. So, we do send you an email actually introducing them to you. So short buyers and the pictures just kind of use attentions of yeah, who's showing up a move date where this person came from that sort of thing just breaks the ice a little bit on who they are and then a bigger one is that we do have an on time guarantee, so that just says we're not going to be like hours and hours late, we're just let out, not show up a move date cancel day off on you that does happen in the industry. We do not operate that way we've start discounting money forever outside of our window the clock does.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:32:30.462625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "currency",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:32:34.514625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:32:46.754625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:33:11.715647",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:33:13.554625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:33:17.794625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:33:28.074625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Only start when we get there and we can working with you that operates over a two and a half hour minimum, anything over two and a half hours. You are only billed in fifteen minute increments. So you do only pay for the actual time needed for the actual move. And then yeah, only paying wherever we're landing within give an hour it doesn't just like round up to the next hour or anything like that. Does that make sense?",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:33:28.662625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:33:31.754625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:33:38.715647",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:33:46.074625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay, yeah, it does, it does, okay.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:33:46.515647",
+      "type": "transcript"
+    },
+    {
+      "content": "Gotcha. Yeah, and then for the move itself, so yeah, grabbing the stuff from the storage and then the actual house anywhere between that kind of, yeah, like an hour and a half to two and a half hours for that loading portion. We've got the drive and then the unload see how it estimate about four to five hours, it was a full five hours of work for you guys. It would be, 13151315 closer to four hours, would be the, oh, come on.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:33:47.862625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "That's because of tax, right? Okay.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:34:18.915647",
+      "type": "transcript"
+    },
+    {
+      "content": "Would it be $1,097 no tax that includes the trip fee though that $225 that would already be factored into that time.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:34:19.062625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "currency",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:34:20.154625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "currency",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:34:25.554625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay. Okay. Okay, alright. Oh, I appreciate your help. I need to just, I need to just look at another estimate I got, I like how professional you all are. I just, I've had no trip fee quoted and a lower hourly rate but again I know that I'm not comparing apples to apples but I just need to talk to my husband. Yeah, I'm getting like, $149, if you do cash or $169 if you do credit card and maybe one company said no trip charge. And the other one said $70. But I, but then I, you know, I just had some doubt so that's why I look you all up, but that's significantly more.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:34:26.115647",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, of course.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:34:49.662625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "currency",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:34:53.164647",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "currency",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:34:56.124647",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "currency",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:35:02.764647",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, the big thing.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:35:10.062625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:35:10.154625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "The yeah the big thing for those would be if there's a, ever any, I guess difference on like, yeah, no trip fee but you are paying the hourly rate for us to drive out there, I see that's portal the portal price is what that called. So yeah, you're paying for them to drive anyways and then obviously if there's ever like actual, just like where they need to recoup some money off of like a billing, they'll just kind of add-on random stuff is usually how it goes. So paying for whatever materials are used on site is a big one mileage and maintenance fees which are like up to fifteen percent on top of a move is a big one damage coverage is actually probably the biggest thing that is where, yeah, nobody really touches us on that is the yeah, that $2,000 included for the actual move. It's evaluation coverage. That's not like, you know per pound 60\u00a2 or even like you know $22 per pound or anything like that, that's actual evaluation for the, for everything. Yeah, we're interacting with that day of.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:35:13.662625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Oh, yeah, that makes sense.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:35:25.515647",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:35:48.994625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:35:54.434625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "currency",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:35:55.554625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "currency",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:36:02.354625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "currency",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:36:04.274625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "So that would be the biggest things plus I guess, yeah, you know with the reputation obviously proceeding us we do go about this a good way. Make it just sure the move goes smoothly. I will say for the Friday the twenty fourth, that is the only spot I do have for the 8:30 to 9:00, we actually don't do deposits to go on the schedule so if you did want to get it lined up, you can actually just hold the date and obviously you know shop around. If you need to find somebody else that works better for you that's fine you can just let us know to pull it off. That's easy. With a, a confirm or an email or a phone call. Whatever works better for you. Do you want me to send over the quote as well as hold the date for the 8:30 to 9:00.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:36:10.662625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:36:11.115647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Yeah.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:36:17.715647",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:36:19.674625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "time",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:36:27.274625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:36:33.994625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay, okay.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:36:38.715647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay, yeah, yeah I think I'll reserve it and I'm just, I just want to talk to my husband and get his A, okay.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:36:44.715647",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:36:47.994625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "That's fine. Gotcha.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:36:52.662625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "Yeah, that's understandable and the bigger thing as well would be yeah, with it being time based having those logistics squared away like I mentioned knowing where you want to place you already have the hardware ready for the bed frame all that sort of stuff is kind of just what helps that move to more efficiently. Same thing with him like yeah, taking his cloth himself, all that sort of stuff our efficiency factors that matter the most of the move.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:36:56.262625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:37:04.674625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Right.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:37:14.115647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Yup. Okay. Oh, well, I appreciate your time. So I'm patty and I'll be the one probably giving you a call back a little bit later today. But what do I need to do when you send me over the quote? Do I, do I need to take action on it or do I just call you back to confirm later?",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:37:18.915647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "ner",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:37:24.084647",
+      "type": "moment"
+    },
+    {
+      "content": "Gotcha.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:37:28.062625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "question",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:37:29.044647",
+      "type": "moment"
+    },
+    {
+      "content": "So.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:37:35.262625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "So, yeah, with cause since it is the only spot I'll go ahead and just hold the date with the confirmation. So I'll send over the quote as well as the confirmation and then yeah, you can just respond back with actually we're not gonna be going forward with this or whatever it is or if you have any other questions you know any other logistics is something we forgot to mention or whatever it is. Yeah, you can just respond back there. Outside of that though you would be good to go. If you don't confirm anything else on the email side, you'd actually don't need to respond because yeah, since it's payments just taken at the end of the move. Which is, that's another thing with moving companies. Yeah, you don't like pay to get your TV back or pay to enter the truck or anything this would be after everything's placed, you know where you want it at the unload for that pro processing payment.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:37:38.262625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:37:43.515647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:37:53.715647",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:38:04.074625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Yeah.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:38:13.515647",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDsxenUtAoM",
+      "content": "Okay, awesome. Okay, I appreciate your help. Thank you so very much. I'll be in touch a little bit later today. Okay, you too. Bye-bye.",
+      "name": "Patty Miller",
+      "time": "2026-07-21T17:38:17.715647",
+      "type": "transcript"
+    },
+    {
+      "content": "Of course, of course patty. You have a good rest of your day. Bye-bye.",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:38:22.662625",
+      "type": "transcript",
+      "user_id": "6116472314445824"
+    },
+    {
+      "content": "ner",
+      "name": "Daniel Behseresht",
+      "time": "2026-07-21T17:38:25.714625",
+      "type": "moment",
+      "user_id": "6116472314445824"
+    }
+  ]
+}

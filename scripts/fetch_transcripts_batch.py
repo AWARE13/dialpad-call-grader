@@ -33,7 +33,7 @@ def fetch_transcript(call_id, api_key):
             return json.load(f), True
 
     result = subprocess.run([
-        "curl", "-s", "-H", f"Authorization: Bearer {api_key}",
+        "curl", "-s", "-m", "30", "-H", f"Authorization: Bearer {api_key}",
         f"https://dialpad.com/api/v2/transcripts/{call_id}"
     ], capture_output=True, text=True)
 
