@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<title>Asked vs. Landed</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500;600;700&family=Roboto:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Roboto+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  html { background: #FBF7F0; }
+  @media (prefers-color-scheme: dark) { html { background: #1B1712; } }
+  :root {
+    --ink: #23201A;
+    --ink-secondary: #59544A;
+    --muted: #8C8579;
+    --surface: #FBF7F0;
+    --surface-raised: #FFFFFF;
+    --border: #E6DDCE;
+    --border-strong: #D8CBB2;
+    --accent: #E8630A;
+    --accent-deep: #B84A06;
+    --accent-soft: #FBE4D0;
+    --accent-ink: #FFFFFF;
+    --navy: #17324F;
+    --navy-soft: #E4EAF0;
+    --status-good: #0ca30c;
+    --status-good-soft: #DEF0DA;
+    --status-warning: #C9860A;
+    --status-warning-soft: #FBEBD0;
+    --status-serious: #ec835a;
+    --status-serious-soft: #FBE1D5;
+    --neutral-cat: #7C7466;
+    --neutral-cat-soft: #EDE8DE;
+    --shadow-card: 0 1px 2px rgba(35,32,26,0.06), 0 1px 1px rgba(35,32,26,0.04);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ink: #F2ECE1; --ink-secondary: #C7BEAC; --muted: #978E7C;
+      --surface: #1B1712; --surface-raised: #241F17; --border: #3B3225; --border-strong: #4A3F2E;
+      --accent: #FF8A3D; --accent-deep: #FFB27A; --accent-soft: #3A2313; --accent-ink: #1B1712;
+      --navy: #8FB2D6; --navy-soft: #223347;
+      --status-good: #3DCB6F; --status-good-soft: #1D3323;
+      --status-warning: #E3AC3F; --status-warning-soft: #392E14;
+      --status-serious: #F09B77; --status-serious-soft: #3A2419;
+      --neutral-cat: #A79C87; --neutral-cat-soft: #2D2820;
+      --shadow-card: 0 1px 2px rgba(0,0,0,0.3), 0 1px 1px rgba(0,0,0,0.2);
+    }
+  }
+  :root[data-theme="dark"] {
+    --ink: #F2ECE1; --ink-secondary: #C7BEAC; --muted: #978E7C;
+    --surface: #1B1712; --surface-raised: #241F17; --border: #3B3225; --border-strong: #4A3F2E;
+    --accent: #FF8A3D; --accent-deep: #FFB27A; --accent-soft: #3A2313; --accent-ink: #1B1712;
+    --navy: #8FB2D6; --navy-soft: #223347;
+    --status-good: #3DCB6F; --status-good-soft: #1D3323;
+    --status-warning: #E3AC3F; --status-warning-soft: #392E14;
+    --status-serious: #F09B77; --status-serious-soft: #3A2419;
+    --neutral-cat: #A79C87; --neutral-cat-soft: #2D2820;
+    --shadow-card: 0 1px 2px rgba(0,0,0,0.3), 0 1px 1px rgba(0,0,0,0.2);
+  }
+  * { box-sizing: border-box; }
+  body { background: var(--surface); color: var(--ink); font-family: "Roboto", Arial, sans-serif; font-size: 15px; line-height: 1.55; }
+  .page { max-width: 920px; margin: 0 auto; padding: 40px 24px 80px; }
+  h1, h2, h3 { font-family: "Roboto Slab", Georgia, serif; color: var(--ink); text-wrap: balance; margin: 0; }
+  .eyebrow { font-family: "Roboto", Arial, sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 0.09em; text-transform: uppercase; color: var(--accent-deep); }
+  .mono { font-family: "Roboto Mono", "Courier New", monospace; font-variant-numeric: tabular-nums; }
+
+  header.masthead { display: flex; flex-direction: column; gap: 10px; padding-bottom: 28px; border-bottom: 3px solid var(--ink); margin-bottom: 36px; }
+  header.masthead h1 { font-size: clamp(32px, 5vw, 44px); font-weight: 700; letter-spacing: -0.01em; }
+  header.masthead .dek { font-size: 16px; color: var(--ink-secondary); max-width: 66ch; }
+  .meta-row { display: flex; flex-wrap: wrap; gap: 6px 22px; margin-top: 6px; font-size: 12.5px; color: var(--muted); }
+  .meta-row span b { color: var(--ink-secondary); font-weight: 600; }
+
+  section { margin-bottom: 52px; }
+  section > .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 16px; flex-wrap: wrap; }
+  section > .section-head h2 { font-size: 21px; font-weight: 600; }
+  section > .section-head .section-note { font-size: 12.5px; color: var(--muted); }
+  .lede { font-size: 15.5px; color: var(--ink-secondary); max-width: 70ch; margin: -6px 0 20px; }
+
+  .stat-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--border); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
+  .stat-tile { background: var(--surface-raised); padding: 20px 22px; display: flex; flex-direction: column; gap: 6px; }
+  .stat-tile .label { font-size: 12px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); }
+  .stat-tile .value { font-family: "Roboto Mono", monospace; font-size: 34px; font-weight: 600; color: var(--ink); line-height: 1; }
+  .stat-tile .value .of { font-size: 17px; color: var(--muted); font-weight: 500; }
+  .stat-tile .sub { font-size: 12.5px; color: var(--ink-secondary); }
+  .stat-tile.accent .value { color: var(--accent-deep); }
+  .stat-tile.serious .value { color: var(--status-serious); }
+
+  .panel { background: var(--surface-raised); border: 1px solid var(--border); border-radius: 10px; padding: 24px 26px; box-shadow: var(--shadow-card); }
+
+  /* trend comparison rows */
+  .trend-row { display: grid; grid-template-columns: 200px 1fr 90px 90px; align-items: center; gap: 12px; padding: 10px 0; border-bottom: 1px solid var(--border); }
+  .trend-row:last-child { border-bottom: none; }
+  .trend-row .tlabel { font-size: 13.5px; color: var(--ink-secondary); font-weight: 500; }
+  .trend-track { position: relative; height: 22px; background: var(--surface); border: 1px solid var(--border); border-radius: 5px; overflow: hidden; }
+  .trend-fill-old { position: absolute; top: 0; bottom: 0; left: 0; background: var(--neutral-cat); opacity: 0.55; border-radius: 4px 0 0 4px; }
+  .trend-fill-new { position: absolute; top: 0; bottom: 0; left: 0; background: var(--accent); border-radius: 4px 0 0 4px; }
+  .trend-val { font-family: "Roboto Mono", monospace; font-size: 13px; font-weight: 600; text-align: right; }
+  .trend-val.old { color: var(--muted); }
+  .trend-val.new { color: var(--accent-deep); }
+  .trend-head { display: grid; grid-template-columns: 200px 1fr 90px 90px; gap: 12px; font-size: 11px; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); padding-bottom: 8px; border-bottom: 1px solid var(--border-strong); margin-bottom: 4px; }
+  .trend-head .thr { text-align: right; }
+  .legend-inline { display: flex; gap: 18px; margin-top: 14px; font-size: 12.5px; color: var(--ink-secondary); }
+  .legend-inline .sw { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+
+  /* score histogram */
+  .hist { display: grid; grid-template-columns: repeat(5, 1fr); gap: 14px; align-items: end; height: 160px; padding-top: 10px; border-bottom: 1px solid var(--border-strong); }
+  .hist-col { display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; gap: 6px; }
+  .hist-count { font-family: "Roboto Mono", monospace; font-size: 13px; font-weight: 600; color: var(--ink-secondary); }
+  .hist-bar { width: 100%; max-width: 64px; border-radius: 5px 5px 3px 3px; background: var(--bar-color, var(--accent)); border: 1px solid rgba(0,0,0,0.06); min-height: 3px; }
+  .hist-labels { display: grid; grid-template-columns: repeat(5, 1fr); gap: 14px; margin-top: 8px; }
+  .hist-labels div { text-align: center; font-size: 12px; color: var(--muted); }
+  .hist-labels b { color: var(--ink-secondary); font-weight: 600; }
+
+  /* rep table */
+  .table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 10px; }
+  table { width: 100%; border-collapse: collapse; min-width: 720px; background: var(--surface-raised); }
+  thead th { text-align: left; font-size: 11px; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); background: var(--surface); padding: 10px 14px; border-bottom: 1px solid var(--border-strong); }
+  thead th.num, tbody td.num { text-align: right; }
+  tbody td { padding: 11px 14px; border-bottom: 1px solid var(--border); font-size: 13.5px; color: var(--ink-secondary); vertical-align: middle; }
+  tbody tr:last-child td { border-bottom: none; }
+  tbody td.name { color: var(--ink); font-weight: 600; }
+  tbody td.name .badge { display: inline-block; margin-left: 6px; font-size: 10px; font-weight: 700; color: var(--navy); background: var(--navy-soft); border-radius: 4px; padding: 1px 6px; vertical-align: middle; }
+  tbody tr.lown { background: color-mix(in srgb, var(--status-warning-soft) 45%, transparent); }
+  .score-pill { display: inline-flex; align-items: center; font-family: "Roboto Mono", monospace; font-weight: 700; font-size: 12.5px; padding: 2px 9px; border-radius: 999px; color: #fff; background: var(--pill-color, var(--accent)); }
+  .n-flag { font-size: 10.5px; color: var(--status-warning); font-weight: 700; margin-left: 5px; }
+
+  /* spotlight cards */
+  .spot-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .spot-card { background: var(--surface-raised); border: 1px solid var(--border); border-left: 4px solid var(--accent); border-radius: 8px; padding: 18px 20px; display: flex; flex-direction: column; gap: 10px; box-shadow: var(--shadow-card); }
+  .spot-card.good { border-left-color: var(--status-good); }
+  .spot-card .thead { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
+  .spot-card h3 { font-size: 15.5px; font-weight: 600; line-height: 1.3; }
+  .spot-pill { flex: none; font-family: "Roboto Mono", monospace; font-size: 11px; font-weight: 700; padding: 3px 9px; border-radius: 999px; white-space: nowrap; }
+  .spot-pill.pass { color: var(--status-good); background: var(--status-good-soft); }
+  .spot-pill.n1 { color: var(--status-warning); background: var(--status-warning-soft); }
+  .spot-card p { margin: 0; font-size: 13.5px; color: var(--ink-secondary); }
+  .spot-quote { margin: 0; padding: 10px 12px; background: var(--surface); border: 1px solid var(--border); border-radius: 6px; font-size: 13px; font-style: italic; color: var(--ink); }
+
+  /* theme / coaching cards */
+  .theme-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .theme-card { background: var(--surface-raised); border: 1px solid var(--border); border-left: 4px solid var(--status-serious); border-radius: 8px; padding: 18px 20px; display: flex; flex-direction: column; gap: 8px; box-shadow: var(--shadow-card); }
+  .theme-card h3 { font-size: 14.5px; font-weight: 600; line-height: 1.3; }
+  .theme-card p { margin: 0; font-size: 13px; color: var(--ink-secondary); }
+  .theme-card .callid { font-size: 11px; color: var(--muted); }
+  .rec-link { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; font-weight: 600; color: var(--accent-deep); text-decoration: none; padding: 3px 10px; border: 1px solid var(--border-strong); border-radius: 999px; background: var(--surface); white-space: nowrap; }
+  .rec-link:hover { background: var(--accent-soft); border-color: var(--accent); }
+  .spot-card .rec-row, .theme-card .rec-row { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
+
+  .callout { background: var(--accent-soft); border: 1px solid var(--border); border-radius: 8px; padding: 16px 20px; font-size: 13.5px; color: var(--ink-secondary); }
+  .callout b { color: var(--ink); }
+
+  footer { margin-top: 56px; padding-top: 20px; border-top: 1px solid var(--border); font-size: 12px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 8px; justify-content: space-between; }
+
+  @media (max-width: 720px) {
+    .theme-grid, .spot-grid { grid-template-columns: 1fr; }
+    .stat-row { grid-template-columns: 1fr; }
+    .trend-row, .trend-head { grid-template-columns: 110px 1fr 60px 60px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="page">
+
+  <header class="masthead">
+    <div class="eyebrow">CET Agenda-Opener Call Check · Two-Week Pull</div>
+    <h1>Asked vs. Landed</h1>
+    <p class="dek">375 calls pulled across 12 CET reps since the day-1 baseline — including Nhel and Tetet for the first time. The opener gets asked more often than it lands, and almost nothing turns into a real follow-up conversation.</p>
+    <div class="meta-row">
+      <span><b>Aug 20 – Sep 3, 2026</b> window</span>
+      <span><b>375</b> calls pulled · <b>319</b> scored · <b>56</b> not applicable</span>
+      <span>Baseline: day-1/3 check, Aug 21, 2026</span>
+      <span>Prepared for Amanda Ware</span>
+    </div>
+  </header>
+
+  <section>
+    <div class="stat-row">
+      <div class="stat-tile accent">
+        <div class="label">Average score</div>
+        <div class="value">15.8<span class="of">/ 100</span></div>
+        <div class="sub">Flat vs. the 15.9 day-1 baseline — two weeks of calls, no movement</div>
+      </div>
+      <div class="stat-tile serious">
+        <div class="label">Full pass</div>
+        <div class="value">1<span class="of">/ 319</span></div>
+        <div class="sub">Opener asked, timed right, and followed with a real feeling-probe — once, company-wide</div>
+      </div>
+      <div class="stat-tile">
+        <div class="label">Opener asked at all</div>
+        <div class="value">37<span class="of">%</span></div>
+        <div class="sub">But only <b class="mono" style="color:var(--ink-secondary)">15%</b> land it before probing starts</div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Day-1 baseline vs. this pull</h2>
+      <span class="section-note">70 calls (Aug 21) vs. 319 calls (Aug 20–Sep 3)</span>
+    </div>
+    <p class="lede">More volume didn't move any of the three gates. If anything, the emotion follow-up — the piece worth the most points — nearly disappeared.</p>
+    <div class="panel">
+      <div class="trend-head"><span>Gate</span><span></span><span class="thr">Day 1</span><span class="thr">Now</span></div>
+      <div class="trend-row">
+        <span class="tlabel">Opener asked at all</span>
+        <div class="trend-track"><div class="trend-fill-old" style="width:34%;"></div><div class="trend-fill-new" style="width:37%; opacity:0.35;"></div></div>
+        <span class="trend-val old">34%</span>
+        <span class="trend-val new">37%</span>
+      </div>
+      <div class="trend-row">
+        <span class="tlabel">Asked before probing</span>
+        <div class="trend-track"><div class="trend-fill-old" style="width:19%;"></div><div class="trend-fill-new" style="width:15%; opacity:0.35;"></div></div>
+        <span class="trend-val old">19%</span>
+        <span class="trend-val new">15%</span>
+      </div>
+      <div class="trend-row">
+        <span class="tlabel">Emotion follow-up</span>
+        <div class="trend-track"><div class="trend-fill-old" style="width:0%;"></div><div class="trend-fill-new" style="width:1%; opacity:0.35;"></div></div>
+        <span class="trend-val old">0%</span>
+        <span class="trend-val new">1%</span>
+      </div>
+      <div class="trend-row">
+        <span class="tlabel">Concern → real conversation</span>
+        <div class="trend-track"><div class="trend-fill-old" style="width:39%;"></div><div class="trend-fill-new" style="width:26%; opacity:0.35;"></div></div>
+        <span class="trend-val old">39%</span>
+        <span class="trend-val new">26%</span>
+      </div>
+      <div class="legend-inline"><span><span class="sw" style="background:var(--neutral-cat); opacity:0.55;"></span>Day 1 (Aug 21)</span><span><span class="sw" style="background:var(--accent);"></span>This pull (Aug 20–Sep 3)</span></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Score distribution</h2>
+      <span class="section-note">319 scored calls</span>
+    </div>
+    <div class="panel">
+      <div class="hist">
+        <div class="hist-col"><span class="hist-count">202</span><div class="hist-bar" style="height:100%; --bar-color:var(--status-serious);"></div></div>
+        <div class="hist-col"><span class="hist-count">68</span><div class="hist-bar" style="height:34%; --bar-color:var(--status-warning);"></div></div>
+        <div class="hist-col"><span class="hist-count">47</span><div class="hist-bar" style="height:23%; --bar-color:var(--status-warning);"></div></div>
+        <div class="hist-col"><span class="hist-count">1</span><div class="hist-bar" style="height:1%; --bar-color:var(--accent);"></div></div>
+        <div class="hist-col"><span class="hist-count">1</span><div class="hist-bar" style="height:1%; --bar-color:var(--status-good);"></div></div>
+      </div>
+      <div class="hist-labels">
+        <div><b>0</b> · nothing landed</div>
+        <div><b>30</b> · asked only</div>
+        <div><b>60</b> · asked + timed right</div>
+        <div><b>70</b></div>
+        <div><b>100</b> · full pass</div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>By rep</h2>
+      <span class="section-note">ranked by average score · sample sizes vary a lot</span>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>Rep</th><th class="num">Calls</th><th class="num">Avg</th><th class="num">Asked</th><th class="num">Before probing</th><th class="num">Emotion follow-up</th><th class="num">Passed</th></tr>
+        </thead>
+        <tbody>
+          <tr class="lown"><td class="name">Therese Ablang<span class="badge">Tetet</span></td><td class="num">1<span class="n-flag">N=1</span></td><td class="num"><span class="score-pill" style="--pill-color:var(--status-good);">100</span></td><td class="num">1/1</td><td class="num">1/1</td><td class="num">1/1</td><td class="num">1</td></tr>
+          <tr class="lown"><td class="name">Nhel Banayad<span class="badge">Team Lead</span></td><td class="num">1<span class="n-flag">N=1</span></td><td class="num"><span class="score-pill" style="--pill-color:var(--status-warning);">60</span></td><td class="num">1/1</td><td class="num">1/1</td><td class="num">0/1</td><td class="num">0</td></tr>
+          <tr><td class="name">Chauntelle Shivers</td><td class="num">29</td><td class="num"><span class="score-pill" style="--pill-color:var(--status-serious);">27.9</span></td><td class="num">15/29</td><td class="num">12/29</td><td class="num">0/29</td><td class="num">0</td></tr>
+          <tr><td class="name">Nicole Tolete</td><td class="num">14</td><td class="num"><span class="score-pill" style="--pill-color:var(--status-serious);">26.4</span></td><td class="num">10/14</td><td class="num">1/14</td><td class="num">1/14</td><td class="num">0</td></tr>
+          <tr><td class="name">Zhang Pammit</td><td class="num">50</td><td class="num"><span class="score-pill" style="--pill-color:var(--status-serious);">25.2</span></td><td class="num">29/50</td><td class="num">13/50</td><td class="num">0/50</td><td class="num">0</td></tr>
+          <tr><td class="name">Brianne Newbro</td><td class="num">34</td><td class="num"><span class="score-pill" style="--pill-color:var(--status-serious);">24.7</span></td><td class="num">15/34</td><td class="num">13/34</td><td class="num">0/34</td><td class="num">0</td></tr>
+          <tr><td class="name">Amy Arbasa</td><td class="num">25</td><td class="num"><span class="score-pill" style="--pill-color:var(--status-serious);">16.8</span></td><td class="num">14/25</td><td class="num">0/25</td><td class="num">0/25</td><td class="num">0</td></tr>
+          <tr><td class="name">Jeline 2Lavarias</td><td class="num">40</td><td class="num"><span class="score-pill" style="--pill-color:var(--status-serious);">13.5</span></td><td class="num">13/40</td><td class="num">5/40</td><td class="num">0/40</td><td class="num">0</td></tr>
+          <tr><td class="name">Joanna Ballon</td><td class="num">31</td><td class="num"><span class="score-pill" style="--pill-color:var(--status-serious);">13.5</span></td><td class="num">14/31</td><td class="num">0/31</td><td class="num">0/31</td><td class="num">0</td></tr>
+          <tr><td class="name">Jules Nicolas</td><td class="num">41</td><td class="num"><span class="score-pill" style="--pill-color:var(--status-serious);">2.9</span></td><td class="num">2/41</td><td class="num">2/41</td><td class="num">0/41</td><td class="num">0</td></tr>
+          <tr><td class="name">Danah 2Celestial</td><td class="num">24</td><td class="num"><span class="score-pill" style="--pill-color:var(--status-serious);">2.5</span></td><td class="num">2/24</td><td class="num">0/24</td><td class="num">0/24</td><td class="num">0</td></tr>
+          <tr><td class="name">Arden 2Asilo</td><td class="num">29</td><td class="num"><span class="score-pill" style="--pill-color:var(--status-serious);">1.0</span></td><td class="num">1/29</td><td class="num">0/29</td><td class="num">0/29</td><td class="num">0</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="lede" style="margin-top:14px; font-size:13px;">Rows flagged N=1 (Therese/Tetet, Nhel) are one call each — leadership takes very few of these calls, so don't read their scores as a trend yet.</p>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Nhel and Tetet, added this pull</h2>
+    </div>
+    <p class="lede">Both new to this roster. Each had exactly one scorable call in the window — the rest were reschedules, service calls, or (for Nhel) one transcript that only captured the customer's audio.</p>
+    <div class="spot-grid">
+      <div class="spot-card good">
+        <div class="thead"><h3>Tetet's one call: the only full pass in 319</h3><span class="spot-pill pass">100 · PASS</span></div>
+        <p>Opener landed right at the top, before any logistics. When the customer mentioned a mover had stepped on her kid on a past move, Tetet responded with real empathy before moving on.</p>
+        <blockquote class="spot-quote">"Let's talk about your move. What are your biggest concerns about moving? ... Have you had a bad experience about this at all previously?" — customer names broken TVs and the injury — "Oh, I'm so sorry to hear that, that's definitely a nightmare."</blockquote>
+        <p style="font-size:12.5px;">Coaching note from the grader: strong placement and a genuine feeling-probe — next step is staying in that story one beat longer (what happened, how it resolved) before pivoting to profile-building.</p>
+        <div class="rec-row"><span style="font-size:11.5px; color:var(--muted);">Aug 24, 2026 · 19.8 min</span><a class="rec-link" href="https://dialpad.com/r/6402372070744064" target="_blank" rel="noopener">▶ Listen to recording</a></div>
+      </div>
+      <div class="spot-card">
+        <div class="thead"><h3>Nhel's one call: structure right, timing of the real concern off</h3><span class="spot-pill n1">60</span></div>
+        <p>She asked the opener before probing — but the customer's first answer was a task list, not a worry, so there was nothing to feeling-probe in that exchange. The actual concern (distrust of the pricing time-bracket) surfaced later in the call, and she handled it with real back-and-forth — just outside the window this rubric scores.</p>
+        <blockquote class="spot-quote">"What are your biggest concerns... and what questions do you want answered on this call today?" — customer: "I just want help with the two beds." Later: "I don't love that you guys are just gonna bracket between a certain area of time and then charge me what you want."</blockquote>
+        <div class="rec-row"><span></span><a class="rec-link" href="https://dialpad.com/r/5660278067863552" target="_blank" rel="noopener">▶ Listen to recording</a></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>The 60s — right structure, no follow-through</h2>
+      <span class="section-note">opener asked, timed right, but the emotion-followup never lands</span>
+    </div>
+    <div class="theme-grid">
+      <div class="theme-card" style="border-left-color: var(--status-warning);">
+        <h3>"Sounds good" instead of "why does that worry you"</h3>
+        <p>Opener asked cleanly before any logistics. When Jordan named specific worry items — a heavy piano, a desk, mirrors — Jules said "sounds good" and moved straight to profile-building instead of asking what would put him at ease.</p>
+        <div class="rec-row"><p class="callid">Jules Nicolas · Sep 1 · call 5167621500608512</p><a class="rec-link" href="https://dialpad.com/r/5478904221442048" target="_blank" rel="noopener">▶ Listen</a></div>
+      </div>
+      <div class="theme-card" style="border-left-color: var(--status-warning);">
+        <h3>Best-placed opener in the batch — answered, not explored</h3>
+        <p>Opener landed right after contact info, before any logistics. Customer's real worry (Saturday availability) got a direct, confident answer that closed the loop — but purely informational, not "why does that matter for your timeline."</p>
+        <div class="rec-row"><p class="callid">Jeline 2Lavarias · Aug 26 · call 4615863856570368</p><a class="rec-link" href="https://dialpad.com/r/6372996751073280" target="_blank" rel="noopener">▶ Listen</a></div>
+      </div>
+      <div class="theme-card" style="border-left-color: var(--status-warning);">
+        <h3>Pushed back to justify the price instead of asking what she expected</h3>
+        <p>Opener asked before any address/logistics questions — good placement. Later, when Kirsten pushed back that the price felt too high, that was the real concern moment: Bri re-justified the estimate instead of asking what she was expecting to pay.</p>
+        <div class="rec-row"><p class="callid">Brianne Newbro · Sep 2 · call 5739762863349760</p><a class="rec-link" href="https://dialpad.com/r/6581223460741120" target="_blank" rel="noopener">▶ Listen</a></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>The 30s — asked, but too late</h2>
+      <span class="section-note">opener asked somewhere in the call, after probing had already started</span>
+    </div>
+    <div class="theme-grid">
+      <div class="theme-card">
+        <h3>A deal-breaker ignored three times</h3>
+        <p>Customer named a 700lb toolbox as his one concern three separate times before the rep asked about weight — the 500lb limit that could have killed the deal only came up at the very end, after the full pricing script had already run.</p>
+        <div class="rec-row"><p class="callid">Zhang Pammit · call 4520074597670912</p><a class="rec-link" href="https://dialpad.com/r/5056926215872512" target="_blank" rel="noopener">▶ Listen</a></div>
+      </div>
+      <div class="theme-card">
+        <h3>Talked over the customer mid-sentence</h3>
+        <p>Jack started to answer — "but really I'm worried about..." — and Amy talked over the end of his sentence and pivoted straight into the pricing script instead of letting him finish. The clearest missed follow-up in the whole pull, since he was mid-sentence.</p>
+        <div class="rec-row"><p class="callid">Amy Arbasa · Aug 28 · call 4517153950703616</p><a class="rec-link" href="https://dialpad.com/r/5418557359824896" target="_blank" rel="noopener">▶ Listen</a></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Real effort, no formal opener</h2>
+      <span class="section-note">the instinct is there even when the script isn't — worth playing for the team</span>
+    </div>
+    <div class="theme-grid">
+      <div class="theme-card" style="border-left-color: var(--status-good);">
+        <h3>Patiently walked a confused customer through pricing</h3>
+        <p>No opener was asked, but when Jordan pushed back on why the price was so high, Amy re-explained the two-and-a-half-hour minimum patiently, several times, until it landed — instead of brushing it off.</p>
+        <div class="rec-row"><p class="callid">Amy Arbasa · Aug 26 · call 6538432495001600</p><a class="rec-link" href="https://dialpad.com/r/5807211494285312" target="_blank" rel="noopener">▶ Listen</a></div>
+      </div>
+      <div class="theme-card" style="border-left-color: var(--status-good);">
+        <h3>Met a trauma disclosure with real warmth</h3>
+        <p>No formal opener (this was a reschedule call), but when Melissa disclosed she was "having a trauma response" after a past mover burned her, Amy responded with genuine warmth — "let us take care of you the same way you take care of movers."</p>
+        <div class="rec-row"><p class="callid">Amy Arbasa · Aug 24 · call 5029731778895872</p><a class="rec-link" href="https://dialpad.com/r/4885926945792000" target="_blank" rel="noopener">▶ Listen</a></div>
+      </div>
+      <div class="theme-card" style="border-left-color: var(--status-good);">
+        <h3>"I'm disabled, I can't walk" — met with real empathy</h3>
+        <p>Customer opened with this before any script prompted it, and the rep responded with genuine, sustained empathy anyway — proof the instinct exists even when the formal opener never gets asked.</p>
+        <div class="rec-row"><p class="callid">Jeline 2Lavarias · call 6389579554791424</p><a class="rec-link" href="https://dialpad.com/r/5017206909870080" target="_blank" rel="noopener">▶ Listen</a></div>
+      </div>
+      <div class="theme-card" style="border-left-color: var(--status-good);">
+        <h3>Real sympathy for a noisy-neighbor complaint</h3>
+        <p>A customer's distress about a noisy neighbor got sustained, genuine sympathy — again with no formal opener triggering it. Same instinct, different call, different rep.</p>
+        <div class="rec-row"><p class="callid">Arden 2Asilo · call 5335606952501248</p><a class="rec-link" href="https://dialpad.com/r/6617091177226240" target="_blank" rel="noopener">▶ Listen</a></div>
+      </div>
+      <div class="theme-card" style="border-left-color: var(--status-good);">
+        <h3>Worked hard to make it right, just never named it upfront</h3>
+        <p>Customer led with a major damage complaint from a past move and a specific ask to keep the same team. Chauny never formally asked the opener, but spent much of the call addressing it directly — looping in the branch manager, confirming details.</p>
+        <div class="rec-row"><p class="callid">Chauntelle Shivers · Sep 1 · call 6048025341370368</p><a class="rec-link" href="https://dialpad.com/r/6689930249019392" target="_blank" rel="noopener">▶ Listen</a></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Needs direct coaching</h2>
+      <span class="section-note">clean misses, spread across the team — this isn't one rep's problem</span>
+    </div>
+    <div class="theme-grid">
+      <div class="theme-card">
+        <h3>A named concern got zero acknowledgment</h3>
+        <p>Customer disclosed a cancer diagnosis mid-call, explaining why he needed extra help; the rep moved straight into packing questions with no response to it at all.</p>
+        <div class="rec-row"><p class="callid">Jules Nicolas · call 6528331111505920</p><a class="rec-link" href="https://dialpad.com/r/5803791804833792" target="_blank" rel="noopener">▶ Listen</a></div>
+      </div>
+      <div class="theme-card">
+        <h3>Worry restated, then routed straight to logistics</h3>
+        <p>Customer opened already worried about a heavy table getting damaged. No opener was asked, and when she restated the worry later in the call, Chauny moved straight into storage/floor logistics instead of asking what would make her feel confident about it.</p>
+        <div class="rec-row"><p class="callid">Chauntelle Shivers · Aug 31 · call 5511273066307584</p><a class="rec-link" href="https://dialpad.com/r/5466789771255808" target="_blank" rel="noopener">▶ Listen</a></div>
+      </div>
+      <div class="theme-card">
+        <h3>"I'm paying for half of it" got no acknowledgment</h3>
+        <p>Customer explained the move was for her 80-year-old parents and that she's personally covering half the cost — a real emotional and financial concern. Joanna pivoted straight to hourly-rate mechanics instead of a beat of "that's really thoughtful of you."</p>
+        <div class="rec-row"><p class="callid">Joanna Ballon · Aug 29 · call 6540535676313600</p><a class="rec-link" href="https://dialpad.com/r/4793122259247104" target="_blank" rel="noopener">▶ Listen</a></div>
+      </div>
+    </div>
+  </section>
+
+  <section style="margin-bottom: 24px;">
+    <div class="section-head">
+      <h2>Two things worth your call before this gets used for coaching</h2>
+    </div>
+    <div class="callout" style="margin-bottom: 12px;">
+      <b>Methodology judgment call, not yet confirmed:</b> on several Zhang Pammit calls, the grader treated a quick move-date/home-type check before the formal opener as acceptable triage, not disqualifying "asked before probing." A stricter reading (any pre-opener question at all counts as probing) would flip roughly half of her "before probing" results from true to false. Worth deciding with Tetet which reading matches the rubric's intent — it moves her ranking either way.
+    </div>
+    <div class="callout">
+      <b>Not-applicable rate:</b> 56 of 375 pulled calls (15%) were reschedules, existing-booking service calls, claims/damage follow-ups, or (in one case) an unusable transcript — consistent with the skip rate the main weekly grader sees. Not a data problem, just the real mix of what CET reps answer the phone for.
+    </div>
+  </section>
+
+  <footer>
+    <span>375 calls pulled Aug 20 – Sep 3, 2026 · graded against the CET agenda-opener mini-rubric (config/agenda_opener_rubric.md).</span>
+    <span>Compare against the <a href="report_2026-08-21.html" style="color:var(--accent-deep);">Aug 21 day-1/3 baseline report</a>.</span>
+    <span style="width:100%; font-style:italic;">This is an unlisted link, not access-gated — anyone with the URL can view it, and the recording links require your own Dialpad login. Please don't share it further without checking with Amanda Ware first.</span>
+  </footer>
+
+</div>
+
+</body>
+</html>
