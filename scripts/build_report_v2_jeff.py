@@ -22,6 +22,25 @@ OUT_PATH = BASE / "output" / "weekly" / f"v2_cet_week_{WEEK_START}_{WEEK_END}_re
 GREEN, BLUE, ORANGE, RED = "#639922", "#185fa5", "#E8630A", "#a32d2d"
 NAVY = "#1a2744"
 
+# Training-group rosters (Jeff/Northwood CET split — Tue group / Wed group).
+# Names below match the grading data's rep_name (roster "name"), not always the Dialpad
+# display name Amanda gave (e.g. "Chauny Shivers" -> "Chauntelle Shivers" here).
+# Not assigned to either group: Therese Ablang, Nhel Banayad (not mentioned in either
+# list) and Jevic Lazanas (Wednesday list, but has no matching Dialpad account at all --
+# a known unresolved gap, so no grading data exists for him either way).
+GROUP_ASSIGNMENTS = {
+    "Amy Arbasa": "tuesday",
+    "Chauntelle Shivers": "tuesday",
+    "Jeline 2Lavarias": "tuesday",
+    "Jules Nicolas": "tuesday",
+    "Zhang Pammit": "tuesday",
+    "Arden 2Asilo": "wednesday",
+    "Brianne Newbro": "wednesday",
+    "Joanna Ballon": "wednesday",
+    "Danah 2Celestial": "wednesday",
+    "Nicole Tolete": "wednesday",
+}
+
 COMPONENTS = [
     ("stage1_quid_pro_quo", "Quid pro quo", 5),
     ("stage1_their_agenda", "Their agenda", 10),
@@ -105,7 +124,8 @@ def leaderboard_rows():
     out = []
     for i, r in enumerate(rep_rows_ranked, 1):
         excl = f' <span style="color:{ORANGE};font-size:11px">({r["n"]-r["n_scored"]} excl.)</span>' if r["n_scored"] != r["n"] else ""
-        out.append(f'''<tr>
+        group = GROUP_ASSIGNMENTS.get(r["rep"], "unassigned")
+        out.append(f'''<tr data-group="{group}">
       <td style="color:#aaa">{i}</td>
       <td><a href="#{anchor(r["rep"])}" style="font-weight:700;color:{NAVY};text-decoration:none">{esc(r["rep"])}</a></td>
       <td>{r["n_scored"]}{excl}</td>
@@ -198,7 +218,8 @@ def rep_section(rep, entries):
         else:
             cards.append(skip_card(e))
     avg_html = f'<div class="rep-avg">{avg}/100</div><div style="font-size:11px;color:rgba(255,255,255,0.6)">avg score</div>' if avg is not None else '<div class="rep-avg" style="font-size:13px">not scored</div>'
-    return f'''<div class="rep-section" id="{anchor(rep)}">
+    group = GROUP_ASSIGNMENTS.get(rep, "unassigned")
+    return f'''<div class="rep-section" id="{anchor(rep)}" data-group="{group}">
   <div class="rep-header">
     <div>
       <h3>{esc(rep)}</h3>
@@ -210,6 +231,16 @@ def rep_section(rep, entries):
 </div>'''
 
 rep_sections_html = "".join(rep_section(rep, entries) for rep, entries in sorted(by_rep.items(), key=lambda x: -next((r["avg"] for r in rep_rows if r["rep"]==x[0] and r["avg"] is not None), 0)))
+
+tuesday_n = sum(1 for g in GROUP_ASSIGNMENTS.values() if g == "tuesday")
+wednesday_n = sum(1 for g in GROUP_ASSIGNMENTS.values() if g == "wednesday")
+
+def empty_notice(view_key, view_label):
+    return (f'<div class="view-empty" data-view-only="{view_key}">'
+            f'{view_label} training group roster has not been set yet — check back once it is assigned.</div>')
+
+tuesday_empty_html = empty_notice("tuesday", "Tuesday") if tuesday_n == 0 else ""
+wednesday_empty_html = empty_notice("wednesday", "Wednesday") if wednesday_n == 0 else ""
 
 html_out = f'''<!DOCTYPE html>
 <html>
@@ -272,6 +303,18 @@ html_out = f'''<!DOCTYPE html>
   .rc-sheet {{ font-weight:400; color:#999; font-size:10.5px; display:block; }}
   .rc-desc {{ font-size:11px; color:#666; line-height:1.4; }}
   .rubric-footnote {{ font-size:11.5px; color:#888; margin-top:14px; max-width:900px; }}
+  .lb-header {{ display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px; margin-bottom:10px; }}
+  .lb-header h2 {{ margin:0; }}
+  .view-tabs {{ display:flex; gap:6px; }}
+  .view-tab {{ font-family:inherit; font-size:12px; font-weight:600; color:{NAVY}; background:#fff; border:1px solid #ddd; border-radius:999px; padding:6px 14px; cursor:pointer; }}
+  .view-tab.active {{ background:{NAVY}; color:#fff; border-color:{NAVY}; }}
+  .view-empty {{ display:none; background:#fff8ef; border:1px dashed {ORANGE}; border-radius:8px; padding:10px 14px; font-size:12px; color:#8a5a20; margin-bottom:10px; }}
+  body[data-view="tuesday"] .view-empty[data-view-only="tuesday"] {{ display:block; }}
+  body[data-view="wednesday"] .view-empty[data-view-only="wednesday"] {{ display:block; }}
+  body[data-view="tuesday"] tr[data-group]:not([data-group="tuesday"]) {{ display:none; }}
+  body[data-view="tuesday"] .rep-section[data-group]:not([data-group="tuesday"]) {{ display:none; }}
+  body[data-view="wednesday"] tr[data-group]:not([data-group="wednesday"]) {{ display:none; }}
+  body[data-view="wednesday"] .rep-section[data-group]:not([data-group="wednesday"]) {{ display:none; }}
 </style>
 </head>
 <body>
@@ -332,7 +375,16 @@ html_out = f'''<!DOCTYPE html>
   </div>
 
   <div class="section">
-    <h2>Leaderboard</h2>
+    <div class="lb-header">
+      <h2>Leaderboard</h2>
+      <div class="view-tabs">
+        <button class="view-tab active" data-view="all" type="button">All CET</button>
+        <button class="view-tab" data-view="tuesday" type="button">Tuesday Group</button>
+        <button class="view-tab" data-view="wednesday" type="button">Wednesday Group</button>
+      </div>
+    </div>
+    {tuesday_empty_html}
+    {wednesday_empty_html}
     <table>
       <tr><th>#</th><th>Rep</th><th>Calls</th><th>Avg</th><th>Passes</th></tr>
       {leaderboard_rows()}
@@ -350,6 +402,15 @@ html_out = f'''<!DOCTYPE html>
     This page is public but marked no-index — it isn't listed anywhere or access-gated. Anyone with this exact link can view it, including the transcripts below.
   </div>
 
+<script>
+  document.querySelectorAll('.view-tab').forEach(function(btn) {{
+    btn.addEventListener('click', function() {{
+      document.querySelectorAll('.view-tab').forEach(function(b) {{ b.classList.remove('active'); }});
+      btn.classList.add('active');
+      document.body.setAttribute('data-view', btn.dataset.view);
+    }});
+  }});
+</script>
 </body>
 </html>'''
 

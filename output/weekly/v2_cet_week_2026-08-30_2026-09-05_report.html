@@ -59,6 +59,18 @@
   .rc-sheet { font-weight:400; color:#999; font-size:10.5px; display:block; }
   .rc-desc { font-size:11px; color:#666; line-height:1.4; }
   .rubric-footnote { font-size:11.5px; color:#888; margin-top:14px; max-width:900px; }
+  .lb-header { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px; margin-bottom:10px; }
+  .lb-header h2 { margin:0; }
+  .view-tabs { display:flex; gap:6px; }
+  .view-tab { font-family:inherit; font-size:12px; font-weight:600; color:#1a2744; background:#fff; border:1px solid #ddd; border-radius:999px; padding:6px 14px; cursor:pointer; }
+  .view-tab.active { background:#1a2744; color:#fff; border-color:#1a2744; }
+  .view-empty { display:none; background:#fff8ef; border:1px dashed #E8630A; border-radius:8px; padding:10px 14px; font-size:12px; color:#8a5a20; margin-bottom:10px; }
+  body[data-view="tuesday"] .view-empty[data-view-only="tuesday"] { display:block; }
+  body[data-view="wednesday"] .view-empty[data-view-only="wednesday"] { display:block; }
+  body[data-view="tuesday"] tr[data-group]:not([data-group="tuesday"]) { display:none; }
+  body[data-view="tuesday"] .rep-section[data-group]:not([data-group="tuesday"]) { display:none; }
+  body[data-view="wednesday"] tr[data-group]:not([data-group="wednesday"]) { display:none; }
+  body[data-view="wednesday"] .rep-section[data-group]:not([data-group="wednesday"]) { display:none; }
 </style>
 </head>
 <body>
@@ -119,80 +131,89 @@
   </div>
 
   <div class="section">
-    <h2>Leaderboard</h2>
+    <div class="lb-header">
+      <h2>Leaderboard</h2>
+      <div class="view-tabs">
+        <button class="view-tab active" data-view="all" type="button">All CET</button>
+        <button class="view-tab" data-view="tuesday" type="button">Tuesday Group</button>
+        <button class="view-tab" data-view="wednesday" type="button">Wednesday Group</button>
+      </div>
+    </div>
+    
+    
     <table>
       <tr><th>#</th><th>Rep</th><th>Calls</th><th>Avg</th><th>Passes</th></tr>
-      <tr>
+      <tr data-group="unassigned">
       <td style="color:#aaa">1</td>
       <td><a href="#Nhel_Banayad" style="font-weight:700;color:#1a2744;text-decoration:none">Nhel Banayad</a></td>
       <td>1 <span style="color:#E8630A;font-size:11px">(1 excl.)</span></td>
       <td><strong style="color:#185fa5">66.0</strong></td>
       <td>0</td>
     </tr>
-<tr>
+<tr data-group="tuesday">
       <td style="color:#aaa">2</td>
       <td><a href="#Zhang_Pammit" style="font-weight:700;color:#1a2744;text-decoration:none">Zhang Pammit</a></td>
       <td>25 <span style="color:#E8630A;font-size:11px">(8 excl.)</span></td>
       <td><strong style="color:#185fa5">65.7</strong></td>
       <td>3</td>
     </tr>
-<tr>
+<tr data-group="wednesday">
       <td style="color:#aaa">3</td>
       <td><a href="#Joanna_Ballon" style="font-weight:700;color:#1a2744;text-decoration:none">Joanna Ballon</a></td>
       <td>26 <span style="color:#E8630A;font-size:11px">(1 excl.)</span></td>
       <td><strong style="color:#185fa5">62.9</strong></td>
       <td>1</td>
     </tr>
-<tr>
+<tr data-group="wednesday">
       <td style="color:#aaa">4</td>
       <td><a href="#Brianne_Newbro" style="font-weight:700;color:#1a2744;text-decoration:none">Brianne Newbro</a></td>
       <td>32 <span style="color:#E8630A;font-size:11px">(7 excl.)</span></td>
       <td><strong style="color:#185fa5">62.2</strong></td>
       <td>6</td>
     </tr>
-<tr>
+<tr data-group="wednesday">
       <td style="color:#aaa">5</td>
       <td><a href="#Nicole_Tolete" style="font-weight:700;color:#1a2744;text-decoration:none">Nicole Tolete</a></td>
       <td>18 <span style="color:#E8630A;font-size:11px">(4 excl.)</span></td>
       <td><strong style="color:#185fa5">62.2</strong></td>
       <td>0</td>
     </tr>
-<tr>
+<tr data-group="wednesday">
       <td style="color:#aaa">6</td>
       <td><a href="#Arden_2Asilo" style="font-weight:700;color:#1a2744;text-decoration:none">Arden 2Asilo</a></td>
       <td>35 <span style="color:#E8630A;font-size:11px">(2 excl.)</span></td>
       <td><strong style="color:#185fa5">60.4</strong></td>
       <td>7</td>
     </tr>
-<tr>
+<tr data-group="tuesday">
       <td style="color:#aaa">7</td>
       <td><a href="#Chauntelle_Shivers" style="font-weight:700;color:#1a2744;text-decoration:none">Chauntelle Shivers</a></td>
       <td>43 <span style="color:#E8630A;font-size:11px">(9 excl.)</span></td>
       <td><strong style="color:#E8630A">58.3</strong></td>
       <td>4</td>
     </tr>
-<tr>
+<tr data-group="tuesday">
       <td style="color:#aaa">8</td>
       <td><a href="#Jeline_2Lavarias" style="font-weight:700;color:#1a2744;text-decoration:none">Jeline 2Lavarias</a></td>
       <td>54 <span style="color:#E8630A;font-size:11px">(8 excl.)</span></td>
       <td><strong style="color:#E8630A">47.2</strong></td>
       <td>0</td>
     </tr>
-<tr>
+<tr data-group="tuesday">
       <td style="color:#aaa">9</td>
       <td><a href="#Amy_Arbasa" style="font-weight:700;color:#1a2744;text-decoration:none">Amy Arbasa</a></td>
       <td>22 <span style="color:#E8630A;font-size:11px">(2 excl.)</span></td>
       <td><strong style="color:#E8630A">45.8</strong></td>
       <td>0</td>
     </tr>
-<tr>
+<tr data-group="wednesday">
       <td style="color:#aaa">10</td>
       <td><a href="#Danah_2Celestial" style="font-weight:700;color:#1a2744;text-decoration:none">Danah 2Celestial</a></td>
       <td>15 <span style="color:#E8630A;font-size:11px">(2 excl.)</span></td>
       <td><strong style="color:#E8630A">42.9</strong></td>
       <td>0</td>
     </tr>
-<tr>
+<tr data-group="tuesday">
       <td style="color:#aaa">11</td>
       <td><a href="#Jules_Nicolas" style="font-weight:700;color:#1a2744;text-decoration:none">Jules Nicolas</a></td>
       <td>48 <span style="color:#E8630A;font-size:11px">(4 excl.)</span></td>
@@ -261,7 +282,7 @@
     </div>
   </div>
 
-  <div class="rep-section" id="Nhel_Banayad">
+  <div class="rep-section" id="Nhel_Banayad" data-group="unassigned">
   <div class="rep-header">
     <div>
       <h3>Nhel Banayad</h3>
@@ -485,7 +506,7 @@ Nhel Banayad: Alright, thank you Michael. Bye.
 Michael Hickey: Thank you, bye.</pre>
       </details>
     </div></div>
-</div><div class="rep-section" id="Zhang_Pammit">
+</div><div class="rep-section" id="Zhang_Pammit" data-group="tuesday">
   <div class="rep-header">
     <div>
       <h3>Zhang Pammit</h3>
@@ -4705,7 +4726,7 @@ Manny Coats: You too bye-bye.</pre>
       &nbsp;<a href="https://dialpad.com/blob/adminrecording/5530457534930944.mp3" target="_blank" style="color:#185fa5">▶ Listen</a><br>
       Pre-move logistics update call for an already-booked move (rescheduling a date, adding an additional pickup stop and confirming items/timing). Not a discovery/estimate sales consultation.
     </div></div>
-</div><div class="rep-section" id="Joanna_Ballon">
+</div><div class="rep-section" id="Joanna_Ballon" data-group="wednesday">
   <div class="rep-header">
     <div>
       <h3>Joanna Ballon</h3>
@@ -8800,7 +8821,7 @@ Delkys Conde: Okay, okay.
 Joanna Ballon: Alright, so as I mentioned, usually if we&#x27;re just moving locally, usually will just take five and a half hours to seven and a half hours with four minute and two trucks to move. A has this size. But of course since we&#x27;re moving to Louie with the, you know with the driving distance in between. So, that will be 5:00 to five and a half hours, I mean 6:00 to six and a half hours depending on traffic. So with the truck that we will be driving. So that will be included on the travel on the hourly rate as well, okay.</pre>
       </details>
     </div></div>
-</div><div class="rep-section" id="Brianne_Newbro">
+</div><div class="rep-section" id="Brianne_Newbro" data-group="wednesday">
   <div class="rep-header">
     <div>
       <h3>Brianne Newbro</h3>
@@ -13095,7 +13116,7 @@ Bri Boyce Newbro: You&#x27;re so welcome. Have a good rest of your day.
 Madeleine Jabs -AB: Okay, bye.</pre>
       </details>
     </div></div>
-</div><div class="rep-section" id="Nicole_Tolete">
+</div><div class="rep-section" id="Nicole_Tolete" data-group="wednesday">
   <div class="rep-header">
     <div>
       <h3>Nicole Tolete</h3>
@@ -15889,7 +15910,7 @@ Teri Driscoll: You too. Okay, bye.
 Nicole Cruz: Thank you, bye-bye.</pre>
       </details>
     </div></div>
-</div><div class="rep-section" id="Arden_2Asilo">
+</div><div class="rep-section" id="Arden_2Asilo" data-group="wednesday">
   <div class="rep-header">
     <div>
       <h3>Arden 2Asilo</h3>
@@ -21412,7 +21433,7 @@ Birch Kaitlyn: Okay, thank you.
 Birch Kaitlyn: Bye.</pre>
       </details>
     </div></div>
-</div><div class="rep-section" id="Chauntelle_Shivers">
+</div><div class="rep-section" id="Chauntelle_Shivers" data-group="tuesday">
   <div class="rep-header">
     <div>
       <h3>Chauntelle Shivers</h3>
@@ -28205,7 +28226,7 @@ Michael Minailo: Okay.
 Michael Minailo: Thank you, appreciate it. Bye-bye.</pre>
       </details>
     </div></div>
-</div><div class="rep-section" id="Jeline_2Lavarias">
+</div><div class="rep-section" id="Jeline_2Lavarias" data-group="tuesday">
   <div class="rep-header">
     <div>
       <h3>Jeline 2Lavarias</h3>
@@ -35807,7 +35828,7 @@ Jeline Lavarias: Mm-hmm okay, sir. Thank you so much for your time and enjoy the
 Alex Matiash: Alright, thank you. Alright, bye!</pre>
       </details>
     </div></div>
-</div><div class="rep-section" id="Amy_Arbasa">
+</div><div class="rep-section" id="Amy_Arbasa" data-group="tuesday">
   <div class="rep-header">
     <div>
       <h3>Amy Arbasa</h3>
@@ -39102,7 +39123,7 @@ Patricia Terrazas: Okay. Yup, thank you. Appreciate it.
 Patricia Terrazas: Okay, you too. Yeah, you too. Bye now.</pre>
       </details>
     </div></div>
-</div><div class="rep-section" id="Danah_2Celestial">
+</div><div class="rep-section" id="Danah_2Celestial" data-group="wednesday">
   <div class="rep-header">
     <div>
       <h3>Danah 2Celestial</h3>
@@ -41158,7 +41179,7 @@ Melissa Elias: Beautiful, thank you so much. I appreciate your help. You too.
 Danah 2Celestial: You&#x27;re welcome. Have a good one.</pre>
       </details>
     </div></div>
-</div><div class="rep-section" id="Jules_Nicolas">
+</div><div class="rep-section" id="Jules_Nicolas" data-group="tuesday">
   <div class="rep-header">
     <div>
       <h3>Jules Nicolas</h3>
@@ -47663,7 +47684,7 @@ Michelle Doughty: Thank you too. Alright, bye-bye.
 Jules Nicolas: Bye.</pre>
       </details>
     </div></div>
-</div><div class="rep-section" id="Therese_Ablang">
+</div><div class="rep-section" id="Therese_Ablang" data-group="unassigned">
   <div class="rep-header">
     <div>
       <h3>Therese Ablang</h3>
@@ -47682,5 +47703,14 @@ Jules Nicolas: Bye.</pre>
     This page is public but marked no-index — it isn't listed anywhere or access-gated. Anyone with this exact link can view it, including the transcripts below.
   </div>
 
+<script>
+  document.querySelectorAll('.view-tab').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      document.querySelectorAll('.view-tab').forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      document.body.setAttribute('data-view', btn.dataset.view);
+    });
+  });
+</script>
 </body>
 </html>
