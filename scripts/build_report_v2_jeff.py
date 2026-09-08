@@ -256,7 +256,13 @@ html_out = f'''<!DOCTYPE html>
   .transcript {{ white-space:pre-wrap; font-size:11px; color:#444; background:#faf9f6; padding:10px; border-radius:6px; max-height:400px; overflow-y:auto; }}
   .skip-card {{ border:1px dashed #ddd; border-radius:8px; padding:10px 14px; margin-bottom:8px; font-size:12px; color:#888; }}
   .rubric-section h2 {{ margin-bottom:8px; }}
-  .rubric-intro {{ font-size:12.5px; color:#555; line-height:1.55; margin:0 0 16px; max-width:900px; }}
+  .rubric-score-badges {{ display:flex; align-items:center; gap:16px; margin-bottom:16px; flex-wrap:wrap; }}
+  .rubric-badge {{ flex:0 0 auto; text-align:center; background:#fff; border:2px solid {NAVY}; border-radius:10px; padding:8px 18px; min-width:90px; }}
+  .rubric-badge-pass {{ border-color:{GREEN}; }}
+  .rb-num {{ font-size:24px; font-weight:800; color:{NAVY}; line-height:1.1; }}
+  .rubric-badge-pass .rb-num {{ color:{GREEN}; }}
+  .rb-lbl {{ font-size:10px; color:#888; text-transform:uppercase; letter-spacing:.4px; margin-top:2px; }}
+  .rubric-intro {{ font-size:12.5px; color:#555; line-height:1.55; margin:0; flex:1 1 320px; min-width:280px; }}
   .rubric-stage-bar {{ display:flex; justify-content:space-between; align-items:center; background:{NAVY}; color:#fff; padding:6px 14px; border-radius:6px; font-size:12px; font-weight:700; letter-spacing:.2px; margin:14px 0 8px; }}
   .rubric-stage-total {{ font-weight:400; color:rgba(255,255,255,0.75); }}
   .rubric-cards {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(210px,1fr)); gap:8px; }}
@@ -283,11 +289,15 @@ html_out = f'''<!DOCTYPE html>
 
   <div class="section rubric-section">
     <h2>How this is scored</h2>
-    <p class="rubric-intro">
-      Jeff Johnson's (Northwood Group) Call Map — 3 stages, 11 scored items, 100 points. <strong>Passing is 80+.</strong>
-      One rule covers 4 items below: the differentiators (damage coverage, Meet Your Mover, On-Time Guarantee, Communication)
-      only need to land <strong>once</strong> — as a direct answer in Stage 1, or as the Stage 2 "takeaway" ask if it wasn't raised. Never both required, never penalized twice for the same gap.
-    </p>
+    <div class="rubric-score-badges">
+      <div class="rubric-badge"><div class="rb-num">100</div><div class="rb-lbl">points possible</div></div>
+      <div class="rubric-badge rubric-badge-pass"><div class="rb-num">80+</div><div class="rb-lbl">to pass</div></div>
+      <p class="rubric-intro">
+        Based on Jeff Johnson's (Northwood Group) Call Map — 3 stages, 11 scored items.
+        One rule covers 4 items below: the differentiators (damage coverage, Meet Your Mover, On-Time Guarantee, Communication)
+        only need to land <strong>once</strong> — as a direct answer in Stage 1, or as the Stage 2 "takeaway" ask if it wasn't raised. Never both required, never penalized twice for the same gap.
+      </p>
+    </div>
 
     <div class="rubric-stage-bar"><span>Stage 1 — Discovery</span><span class="rubric-stage-total">40 pts</span></div>
     <div class="rubric-cards">
