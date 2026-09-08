@@ -271,6 +271,48 @@ html_out = f'''<!DOCTYPE html>
   </div>
 
   <div class="section">
+    <h2>How this is scored</h2>
+    <p style="font-size:13px;color:#555;line-height:1.6">
+      Based on Jeff Johnson's (Northwood Group) Call Map — 3 stages, 11 scored items, 100 points total. <strong>Passing is 80+.</strong>
+      One rule governs four of the items below: the differentiators (damage coverage, Meet Your Mover, On-Time Guarantee, Communication)
+      only need to land <strong>once</strong> — either as a direct answer to a concern the customer raised in Stage 1, or as the "takeaway" ask
+      in Stage 2 if the customer never raised it. Never both required, never penalized twice for the same gap.
+    </p>
+    <table>
+      <tr><th>Stage</th><th>Item</th><th>Pts</th><th>How it's scored</th></tr>
+      <tr><td rowspan="5" style="font-weight:600;color:{NAVY}">1 — Discovery</td>
+        <td>Quid pro quo</td><td>5</td>
+        <td>Did the rep trade "let's get you a quote" for the customer's patience before probing? Full credit if the framing was there, partial if questions started but framing was skipped, zero if it launched straight into probing.</td></tr>
+      <tr><td>Their agenda</td><td>10</td>
+        <td>The scripted question — "other than price, what are your biggest concerns... what do you want answered today?" Full credit if asked before logistics probing starts, partial if asked late, zero if never asked. Heaviest-weighted first-tier item — this is the single biggest adoption gap.</td></tr>
+      <tr><td>Two layers deep</td><td>15</td>
+        <td>For whatever concern the customer raised, did the rep actually dig — "tell me more," "what else is on your list" — rather than one question and a pivot? Heaviest item in Stage 1. If the customer never raised a concern at all, this scores full credit (15) — there's nothing to follow up on, so it's not scored as a gap.</td></tr>
+      <tr><td>Careful with (Sheet 1 — damage coverage)</td><td>5</td>
+        <td>Binary: covered anywhere in the call — Stage 1 answer or Stage 2 takeaway — or not covered at all.</td></tr>
+      <tr><td>Who's coming (Sheet 2 — Meet Your Mover)</td><td>5</td>
+        <td>Same binary logic as Sheet 1.</td></tr>
+      <tr><td rowspan="1" style="font-weight:600;color:{NAVY}">2 — Ramp up</td>
+        <td>The takeaway (Sheets 3 &amp; 4 — On-Time + Communication)</td><td>15</td>
+        <td>Splits 7.5 / 7.5 — each half scores independently based on whether On-Time Guarantee and Communication (day-before call, named crew lead) are each covered anywhere in the call.</td></tr>
+      <tr><td rowspan="3" style="font-weight:600;color:{NAVY}">3 — After estimate</td>
+        <td>Estimate anchor</td><td>10</td>
+        <td>Did the rep give a typical range AND personalize it to this customer's move? Full credit for both, partial for range only, zero for no framing at all.</td></tr>
+      <tr><td>Save Your Ass (Sheet 5)</td><td>15</td>
+        <td>5 lines, 3 pts each: "we commit to the rate," "the estimate is a window," "if the crew beats it you pay less," the self-prep tip, and "does that feel fair?" followed by actual silence.</td></tr>
+      <tr><td>Close</td><td>5</td>
+        <td>2 items, 2.5 pts each: the rate-lock line, and an explicit ask ("would you like our help with your move?").</td></tr>
+      <tr><td rowspan="2" style="font-weight:600;color:{NAVY}">Cross-call</td>
+        <td>Rapport / warmth</td><td>10</td>
+        <td>Same 1–5 transcript-based warmth scale as the old phone-presence rubric, rescaled ×2.</td></tr>
+      <tr><td>Process discipline</td><td>5</td>
+        <td>Starts at 5, loses 1 pt per violation — a differentiator repeated across stages, or no silence held after an open-ended question. Floors at 0.</td></tr>
+    </table>
+    <p style="font-size:12px;color:#888;margin-top:10px">
+      <strong>One more exception:</strong> calls correctly and cleanly routed to a virtual walkthrough before pricing (large moves) get the three Stage 3 items scored as full credit rather than zeroed — the call wasn't supposed to reach pricing, so it isn't penalized for not getting there. This only applies to a clean, by-design handoff, not a call that just trails off.
+    </p>
+  </div>
+
+  <div class="section">
     <h2>Leaderboard</h2>
     <table>
       <tr><th>#</th><th>Rep</th><th>Calls</th><th>Avg</th><th>Passes</th></tr>
