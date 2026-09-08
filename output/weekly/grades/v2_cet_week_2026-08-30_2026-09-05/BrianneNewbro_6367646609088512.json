@@ -1,0 +1,19 @@
+{
+  "call_id": "6367646609088512", "rep_name": "Brianne Newbro", "branch": "Houston Einstein Moving Company", "duration_min": 6.5,
+  "datetime_ct": "2026-09-04 17:25 CT", "external_number": "+13127990893",
+  "call_type": "walkthrough_scheduler",
+  "rubric_version": "v2-jeff-call-map-r2",
+  "stage1_quid_pro_quo": 5, "stage1_their_agenda": 0, "stage1_two_layers_deep": 8,
+  "stage1_careful_with_sheet1": 0, "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0, "stage3_estimate": 10,
+  "stage3_save_your_ass_sheet5": 15, "stage3_close": 5,
+  "rapport_warmth": 8, "process_discipline": 5,
+  "total_score": 56, "pass": false,
+  "evidence_quotes": {
+    "agenda": "Never asked — the call got redirected by the customer's own storage/overnight-logistics question before any concerns checkpoint",
+    "two_layers_deep": "Customer's overnight-storage need (\"I need to drive by myself... my date probably can be flexible\") got a real follow-up (offered the truck-overnight-hold option, then addressed \"is that actual charges?\") before being escalated to the specialist rather than fully resolved",
+    "save_your_ass": "N/A — this was a long-distance/overnight-logistics move outside the rep's scope, cleanly escalated to the qualified specialist (\"Joe\") with a same-day callback and text promised, so Stage 3 scored full credit per the walkthrough-style handoff rule"
+  },
+  "top_strength": "Recognized this was outside her scope (overnight/long-distance logistics) and escalated honestly rather than guessing at pricing she wasn't qualified to quote — good judgment, and she still offered a real answer (truck-overnight-hold) before handing off.",
+  "coaching_note": "JUDGMENT CALL: call_type set to walkthrough_scheduler by analogy — this wasn't the size-based video-walkthrough scenario the rubric defines, but the same logic applies (clean, by-design handoff to a specialist before Stage 3 could happen), so Stage 3 was scored N/A/full credit rather than 0. Flag this call_type choice to Amanda since it's a rubric-extension judgment call, not a literal match."
+}

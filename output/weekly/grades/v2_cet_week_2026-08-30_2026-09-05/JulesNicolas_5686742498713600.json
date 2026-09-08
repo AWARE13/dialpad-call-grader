@@ -1,0 +1,31 @@
+{
+  "call_id": "5686742498713600",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 8.7,
+  "datetime_ct": "2026-09-02 15:14 CT",
+  "external_number": "+18172394734",
+  "call_type": "walkthrough_scheduler",
+  "rubric_version": "v2-jeff-call-map-r2",
+  "stage1_quid_pro_quo": 0,
+  "stage1_their_agenda": 0,
+  "stage1_two_layers_deep": 0,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0,
+  "stage3_estimate": 10,
+  "stage3_save_your_ass_sheet5": 15,
+  "stage3_close": 5,
+  "rapport_warmth": 8,
+  "process_discipline": 5,
+  "total_score": 43,
+  "pass": false,
+  "evidence_quotes": {
+    "agenda": "not asked — rep goes straight from dates/addresses into the out-of-zone pricing computation",
+    "two_layers_deep": "The customer raised a real concern organically — 'Would broke, it's not that much more is it?' about the out-of-zone fee — and Jules just answered with the flat number ($2,799) instead of digging into or reassuring on the cost worry (0pts)",
+    "save_your_ass": "N/A/full credit (walkthrough_scheduler, clean handoff) — rep gets the sister-in-law's contact info and commits to calling her for a live walkthrough, then calling Carolyn back with the estimate once done"
+  },
+  "top_strength": "Stayed patient and composed through a confusing, garbled exchange (bad connection, customer unclear on virtual-vs-in-person) and still correctly identified that a packing job for a third party needs its own walkthrough with the person actually present at the home.",
+  "coaching_note": "Never asked the agenda question, and when the customer organically raised a cost concern about the out-of-zone fee, answered it with a bare number instead of digging in or reassuring — a concern doesn't need a formal agenda question to count against two_layers_deep.",
+  "grader_note": "Scored as walkthrough_scheduler: the move needs packing and the person who can describe the packing (sister-in-law) isn't on the call, so the rep correctly routes to a same-day virtual walkthrough with her and a callback to Carolyn with the estimate — a clean, by-design handoff, not an abandoned pitch. Corrected from an initial pass that mistakenly treated 'agenda question not asked' as automatic N/A for two_layers_deep even though a real concern was organically raised and left unaddressed — the N/A exception only applies when no concern was raised at all, not merely when the formal agenda question wasn't asked."
+}

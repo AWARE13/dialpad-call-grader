@@ -1,0 +1,31 @@
+{
+  "call_id": "6258874702143488",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 6.3,
+  "datetime_ct": "2026-09-03 18:51 CT",
+  "external_number": "+17133200856",
+  "call_type": "full_sales_call",
+  "rubric_version": "v2-jeff-call-map-r2",
+  "stage1_quid_pro_quo": 0,
+  "stage1_their_agenda": 10,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0,
+  "stage3_estimate": 0,
+  "stage3_save_your_ass_sheet5": 0,
+  "stage3_close": 0,
+  "rapport_warmth": 6,
+  "process_discipline": 5,
+  "total_score": 36,
+  "pass": false,
+  "evidence_quotes": {
+    "agenda": "'And then, do you have any specific concerns or questions about this move that you want answered on the call?' — asked before any address/logistics questions began.",
+    "two_layers_deep": "Answer to the agenda question was purely descriptive ('It's not a house it's a bunch of merchandise... moved to fulfillment center') with no actual worry raised to dig into — no-concern fix applied.",
+    "save_your_ass": "Not present — call ends before any estimate or Save Your Ass content is delivered."
+  },
+  "top_strength": "Asked the agenda question early and cleanly, before any logistics probing began.",
+  "coaching_note": "Call was cut off before any estimate, differentiators, or close were delivered because the rep needed a supervisor check on an unusual box-only fulfillment-center move — this is a real gap (0s on Stage 2/3), not a walkthrough-routing scenario, so it should be finished with a firm callback commitment rather than left open-ended.",
+  "grading_notes": "This call trails off mid-pitch for an internal pricing consult, not a genuine walkthrough-routing handoff, so the walkthrough_scheduler N/A treatment does NOT apply per rubric's explicit exclusion — Stage 3 items scored as real 0s."
+}

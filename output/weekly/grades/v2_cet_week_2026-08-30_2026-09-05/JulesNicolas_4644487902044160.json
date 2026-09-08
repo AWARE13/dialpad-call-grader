@@ -1,0 +1,31 @@
+{
+  "call_id": "4644487902044160",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 12.3,
+  "datetime_ct": "2026-09-02 19:06 CT",
+  "external_number": "+14697401444",
+  "call_type": "full_sales_call",
+  "rubric_version": "v2-jeff-call-map-r2",
+  "stage1_quid_pro_quo": 0,
+  "stage1_their_agenda": 0,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0,
+  "stage3_estimate": 10,
+  "stage3_save_your_ass_sheet5": 0,
+  "stage3_close": 0,
+  "rapport_warmth": 8,
+  "process_discipline": 5,
+  "total_score": 38,
+  "pass": false,
+  "evidence_quotes": {
+    "agenda": "not asked — Jules goes straight from zip code/date into logistics probing ('Do you need packing services...')",
+    "two_layers_deep": "N/A/full credit applied — the agenda question was never asked, so no concern was ever surfaced to follow up on",
+    "save_your_ass": "not present — none of the 5 lines (commit-to-rate, window framing, beats-it-pay-less, prep tip, 'does that feel fair') appear; closest is 'Does that make sense so far?' about the blanket deposit, which is a different line"
+  },
+  "top_strength": "Patient, warm handling of a slow-deciding customer and a clean, itemized walk through hourly rate, blankets, and box costs before quoting a total.",
+  "coaching_note": "Never asked the agenda question or delivered any Save Your Ass framing before quoting $6,570 — both should land before the price, not be skipped entirely.",
+  "grader_note": "Rep offered a virtual walkthrough for the 2700 sq ft home (per the >=1800 sq ft policy) but the customer declined and asked for a same-call estimate instead, so this is scored as a full_sales_call, not walkthrough_scheduler — the handoff never actually happened."
+}

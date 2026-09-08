@@ -1,0 +1,30 @@
+{
+  "call_id": "6709197507960832",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 6.2,
+  "datetime_ct": "2026-09-04 19:38 CT",
+  "external_number": "+19542962196",
+  "call_type": "full_sales_call",
+  "rubric_version": "v2-jeff-call-map-r2",
+  "stage1_quid_pro_quo": 0,
+  "stage1_their_agenda": 0,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0,
+  "stage3_estimate": 10,
+  "stage3_save_your_ass_sheet5": 6,
+  "stage3_close": 2.5,
+  "rapport_warmth": 8,
+  "process_discipline": 5,
+  "total_score": 46.5,
+  "pass": false,
+  "evidence_quotes": {
+    "agenda": "(not asked in this call -- opens with 'I do have your estimate here with me,' meaning discovery likely happened on an earlier call not in this batch; graded strictly on what's present in this transcript, per instructions to grade each call_id on its own record)",
+    "two_layers_deep": "(no concern raised in this call -- customer's follow-up questions were about overnight truck storage and whether movers are employees vs. contractors, not move-related worries)",
+    "save_your_ass": "we prorate every fifteen minutes...you only pay after the move is completed with the actual time use for the move."
+  },
+  "top_strength": "Thorough, patient walkthrough of a complex two-day pack-and-move estimate, confidently answered follow-up logistics questions (overnight truck storage, employee vs. contractor movers), and made an explicit close attempt with date flexibility.",
+  "coaching_note": "Judgment call: this call reads as a pure estimate-review/follow-up with no discovery questions or differentiators present -- scored strictly on this transcript (0 for quid pro quo and agenda). If discovery genuinely happened on an earlier call not in this batch, note that context when reading the score; if not, the agenda question and Sheet 1/2/3/4 differentiators still need to land somewhere before the close."
+}

@@ -1,0 +1,30 @@
+{
+  "call_id": "5978565454635008",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 6.6,
+  "datetime_ct": "2026-09-04 20:28 CT",
+  "external_number": "+14088882123",
+  "call_type": "full_sales_call",
+  "rubric_version": "v2-jeff-call-map-r2",
+  "stage1_quid_pro_quo": 2,
+  "stage1_their_agenda": 0,
+  "stage1_two_layers_deep": 0,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0,
+  "stage3_estimate": 10,
+  "stage3_save_your_ass_sheet5": 6,
+  "stage3_close": 2.5,
+  "rapport_warmth": 4,
+  "process_discipline": 5,
+  "total_score": 29.5,
+  "pass": false,
+  "evidence_quotes": {
+    "agenda": "(not asked -- rep asked 'is this a good time for you?' then went straight into item-list questions, no biggest-concerns question ever asked)",
+    "two_layers_deep": "\"I'm looking for a moving partial items from my house because because of how family issue\" ... later: \"right now, I'm in trouble for money...I need to see how much you're going to [cost] since it's a separation\" -- both times the rep answered with 'Got it' / 'No problem' and pivoted straight back to logistics/price with zero follow-up on either disclosure.",
+    "save_your_ass": "we just prorate every fifteen minutes...you only pay after the move is completed with the actual time use for the move."
+  },
+  "top_strength": "Gave a clear, well-personalized time/cost range for a mixed-inventory partial move and made an explicit close attempt ('Would you like to get this moved scheduled?').",
+  "coaching_note": "The customer disclosed real financial stress tied to a separation twice and it was never acknowledged or explored -- this is exactly the 'asked nothing of it' failure mode the rubric is built to catch; slow down and dig into a concern like this instead of pivoting straight back to logistics."
+}

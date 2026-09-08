@@ -1,0 +1,30 @@
+{
+  "call_id": "6327963148656640",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 7.8,
+  "datetime_ct": "2026-08-30 16:37 CT",
+  "external_number": "+14097676870",
+  "call_type": "full_sales_call",
+  "rubric_version": "v2-jeff-call-map-r2",
+  "stage1_quid_pro_quo": 0,
+  "stage1_their_agenda": 4,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0,
+  "stage3_estimate": 0,
+  "stage3_save_your_ass_sheet5": 0,
+  "stage3_close": 0,
+  "rapport_warmth": 8,
+  "process_discipline": 5,
+  "total_score": 32,
+  "pass": false,
+  "evidence_quotes": {
+    "agenda": "'Before I discuss the pricing structure and your estimate, do you have any concern about the moving process?' \u2014 asked after full logistics probing was already complete.",
+    "two_layers_deep": "Customer raised a real concern in response ('do I have to pack all my smaller items myself?'); rep engaged fully \u2014 clarified packing-service options, offered quote with/without packing, then scheduled a virtual walkthrough to properly assess the packing scope. Genuine multi-turn follow-up, scored on the merits.",
+    "save_your_ass": "Call did not reach pricing on this call \u2014 a virtual walkthrough was scheduled instead, but this is a 750 sq ft one-bedroom apartment, well under the >=1800 sq ft threshold that defines the walkthrough_scheduler exception in the rubric. Scored as a genuine real 0 for Stage 3 rather than N/A, though this is a close judgment call \u2014 the handoff was clean and by-design (packing-scope assessment), just not the specific large-move scenario the rubric names."
+  },
+  "top_strength": "Used a creative, effective distance-estimation technique (school-bus-length comparison) to get a concrete sense of walking distance \u2014 a nice rapport/technique touch.",
+  "coaching_note": "JUDGMENT CALL FOR REVIEW: this call cleanly scheduled a virtual walkthrough to properly scope a packing job, which is the same underlying principle as the named walkthrough_scheduler exception, just for a small unit rather than a >=1800 sq ft home. Scored conservatively as real 0s for Stage 3 since the rubric ties the exception specifically to move size \u2014 flag if a broader interpretation is intended for packing-driven walkthroughs too."
+}

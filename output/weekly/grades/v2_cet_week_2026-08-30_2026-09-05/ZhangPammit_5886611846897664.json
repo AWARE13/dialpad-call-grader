@@ -1,0 +1,31 @@
+{
+  "call_id": "5886611846897664",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.5,
+  "datetime_ct": "2026-09-01 17:43 CT",
+  "external_number": "+18325476157",
+  "call_type": "full_sales_call",
+  "rubric_version": "v2-jeff-call-map-r2",
+  "judgment_call": "This call is a price-negotiation follow-up on a quote a colleague already sent (fresh discovery/QPQ/agenda never happens on THIS call because it already happened elsewhere). Scored Stage 1 items 1-3 as N/A/full-credit since there was no fresh intake to evaluate on this call; Sheets 1/2/Stage2-takeaway scored as real 0s since those differentiators were never delivered on this call.",
+  "stage1_quid_pro_quo": 5,
+  "stage1_their_agenda": 10,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0,
+  "stage3_estimate": 5,
+  "stage3_save_your_ass_sheet5": 9,
+  "stage3_close": 0,
+  "rapport_warmth": 6,
+  "process_discipline": 5,
+  "total_score": 55,
+  "pass": false,
+  "evidence_quotes": {
+    "agenda": "N/A - call is a continuation of an existing quote, not a fresh intake.",
+    "two_layers_deep": "Customer pushed on cost reduction from multiple angles (single mover, own van, waived trip fee) and rep answered each clearly and consistently.",
+    "save_your_ass": "'The estimated time... does not necessarily mean that you're locked in for seven and a half hours... depends on how well prepared you are'; 'it will always be prorated to fifteen minute increments.'"
+  },
+  "top_strength": "Clear, consistent explanation of liability/policy limits (can't load a third-party truck, no single-mover option) without getting flustered by repeated pushback.",
+  "coaching_note": "Call ended with customer saying 'let me think about it' and rep just said goodbye - no attempt to re-anchor value (no damage coverage, no meet-your-mover, no on-time guarantee were ever mentioned) or ask for the close before letting the customer go."
+}

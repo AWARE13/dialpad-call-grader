@@ -1,0 +1,30 @@
+{
+  "call_id": "4560727631241216",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 6.5,
+  "datetime_ct": "2026-08-31 14:00 CT",
+  "external_number": "+19566489535",
+  "call_type": "full_sales_call",
+  "rubric_version": "v2-jeff-call-map-r2",
+  "stage1_quid_pro_quo": 0,
+  "stage1_their_agenda": 10,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0,
+  "stage3_estimate": 0,
+  "stage3_save_your_ass_sheet5": 0,
+  "stage3_close": 0,
+  "rapport_warmth": 6,
+  "process_discipline": 5,
+  "total_score": 36,
+  "pass": false,
+  "evidence_quotes": {
+    "agenda": "'Before I ask you the details of the move, do you have any concern about the moving process or are there any worries that you'd like to talk about?' \u2014 asked before any logistics probing began. Full credit.",
+    "two_layers_deep": "Customer answered 'No' \u2014 15/15 via the no-concern-raised exception.",
+    "save_your_ass": "Call never reached pricing \u2014 transferred to a moving specialist due to the destination home's size, and no specialist was available for a live handoff (callback promised). Not a walkthrough_scheduler case (no scheduled virtual walkthrough, no confirmed next-step call) \u2014 genuine 0s for Stage 3."
+  },
+  "top_strength": "Asked the agenda question at exactly the right spot (before probing) \u2014 the strongest possible open of the script.",
+  "coaching_note": "This call needs an actual specialist backup path; a real 0 for Stage 3 isn't a rep failure here so much as a staffing/routing gap worth flagging operationally."
+}

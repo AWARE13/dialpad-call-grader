@@ -1,0 +1,31 @@
+{
+  "call_id": "4822000428163072",
+  "rep_name": "Zhang Pammit",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 10.0,
+  "datetime_ct": "2026-08-30 20:45 CT",
+  "external_number": "+17865209314",
+  "call_type": "walkthrough_scheduler",
+  "rubric_version": "v2-jeff-call-map-r2",
+  "judgment_call": "Clean, immediate walkthrough handoff (link sent via text, receipt confirmed, customer joins live on the call) - Stage 3 items scored N/A/full-credit per the walkthrough rule.",
+  "stage1_quid_pro_quo": 0,
+  "stage1_their_agenda": 10,
+  "stage1_two_layers_deep": 0,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0,
+  "stage3_estimate": 10,
+  "stage3_save_your_ass_sheet5": 15,
+  "stage3_close": 5,
+  "rapport_warmth": 8,
+  "process_discipline": 5,
+  "total_score": 53,
+  "pass": false,
+  "evidence_quotes": {
+    "agenda": "'Do you have biggest concerns or any important things that you want to answer during this call?' - asked before detailed logistics probing.",
+    "two_layers_deep": "Customer asked a real question ('you can help with packing for dishes? I don't know if that's additional price') and rep gave only a vague acknowledgment ('just for packaging, uh-huh, okay, no worries') without ever confirming whether packing costs extra - concern raised, no real follow-up, scored as a real 0.",
+    "save_your_ass": "N/A/full-credit (walkthrough_scheduler, clean handoff)."
+  },
+  "top_strength": "Smoothly walked a less tech-savvy customer through joining the virtual walkthrough link in real time.",
+  "coaching_note": "The customer's packing-cost question was never actually answered before moving to the walkthrough - close that loop explicitly instead of letting it hang."
+}
