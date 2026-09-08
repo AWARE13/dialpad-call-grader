@@ -235,6 +235,21 @@ rep_sections_html = "".join(rep_section(rep, entries) for rep, entries in sorted
 tuesday_n = sum(1 for g in GROUP_ASSIGNMENTS.values() if g == "tuesday")
 wednesday_n = sum(1 for g in GROUP_ASSIGNMENTS.values() if g == "wednesday")
 
+# Slim per-call dataset embedded client-side so every part of the page (stats bar,
+# gap chart, leaderboard) can recompute for the active view, not just show/hide DOM.
+calls_min = []
+for c in calls:
+    row = {
+        "rep": c["rep_name"],
+        "group": GROUP_ASSIGNMENTS.get(c["rep_name"], "unassigned"),
+        "score": c.get("total_score"),
+    }
+    for key, _, _ in COMPONENTS:
+        row[key] = c.get(key)
+    calls_min.append(row)
+calls_json = json.dumps(calls_min)
+components_json = json.dumps([[k, l, m] for k, l, m in COMPONENTS])
+
 def empty_notice(view_key, view_label):
     return (f'<div class="view-empty" data-view-only="{view_key}">'
             f'{view_label} training group roster has not been set yet — check back once it is assigned.</div>')
@@ -323,11 +338,11 @@ html_out = f'''<!DOCTYPE html>
     <div class="sub">Week of {WEEK_START} to {WEEK_END} &nbsp;·&nbsp; Fresh rubric, no baseline carried forward &nbsp;·&nbsp; Passing bar: 80/100</div>
   </div>
   <div class="stats-bar">
-    <div class="stat"><div class="num">{n_total}</div><div class="lbl">calls pulled</div></div>
-    <div class="stat"><div class="num">{n_graded}</div><div class="lbl">graded</div></div>
-    <div class="stat"><div class="num">{n_skipped}</div><div class="lbl">skipped</div></div>
-    <div class="stat"><div class="num" style="color:{score_color(avg_score)}">{avg_score}</div><div class="lbl">company avg / 100</div></div>
-    <div class="stat"><div class="num" style="color:{GREEN if pass_count else RED}">{pass_count}</div><div class="lbl">calls passing (80+)</div></div>
+    <div class="stat"><div class="num" id="stat-total">{n_total}</div><div class="lbl">calls pulled</div></div>
+    <div class="stat"><div class="num" id="stat-graded">{n_graded}</div><div class="lbl">graded</div></div>
+    <div class="stat"><div class="num" id="stat-skipped">{n_skipped}</div><div class="lbl">skipped</div></div>
+    <div class="stat"><div class="num" id="stat-avg" style="color:{score_color(avg_score)}">{avg_score}</div><div class="lbl">avg / 100</div></div>
+    <div class="stat"><div class="num" id="stat-pass" style="color:{GREEN if pass_count else RED}">{pass_count}</div><div class="lbl">calls passing (80+)</div></div>
   </div>
 
   <div class="section rubric-section">
@@ -387,13 +402,17 @@ html_out = f'''<!DOCTYPE html>
     {wednesday_empty_html}
     <table>
       <tr><th>#</th><th>Rep</th><th>Calls</th><th>Avg</th><th>Passes</th></tr>
+      <tbody id="leaderboard-body">
       {leaderboard_rows()}
+      </tbody>
     </table>
   </div>
 
   <div class="section">
-    <h2>Where the score is going (company-wide, % of max)</h2>
+    <h2>Where the score is going <span id="gap-chart-scope" style="font-weight:400;color:#888;font-size:13px">(company-wide, % of max)</span></h2>
+    <div id="gap-chart">
     {comp_gap_rows()}
+    </div>
   </div>
 
   {rep_sections_html}
@@ -403,11 +422,87 @@ html_out = f'''<!DOCTYPE html>
   </div>
 
 <script>
+  var CALLS = {calls_json};
+  var COMPONENTS = {components_json};
+  var VIEW_LABELS = {{all: "company-wide", tuesday: "Tuesday group", wednesday: "Wednesday group"}};
+
+  function scoreColor(s) {{
+    if (s == null) return '#888';
+    if (s >= 80) return '{GREEN}';
+    if (s >= 60) return '{BLUE}';
+    if (s >= 40) return '{ORANGE}';
+    return '{RED}';
+  }}
+  function compColor(pct) {{
+    if (pct >= 90) return '{GREEN}';
+    if (pct >= 50) return '{BLUE}';
+    if (pct >= 20) return '{ORANGE}';
+    return '{RED}';
+  }}
+  function anchorName(name) {{
+    return name.split(' ').join('_').split("'").join('');
+  }}
+
+  function renderView(view) {{
+    var filtered = view === 'all' ? CALLS : CALLS.filter(function(c) {{ return c.group === view; }});
+    var graded = filtered.filter(function(c) {{ return c.score != null; }});
+    var skipped = filtered.filter(function(c) {{ return c.score == null; }});
+    var avg = graded.length ? (graded.reduce(function(a, c) {{ return a + c.score; }}, 0) / graded.length) : 0;
+    var passCount = graded.filter(function(c) {{ return c.score >= 80; }}).length;
+
+    document.getElementById('stat-total').textContent = filtered.length;
+    document.getElementById('stat-graded').textContent = graded.length;
+    document.getElementById('stat-skipped').textContent = skipped.length;
+    var avgEl = document.getElementById('stat-avg');
+    avgEl.textContent = avg.toFixed(1);
+    avgEl.style.color = scoreColor(avg);
+    var passEl = document.getElementById('stat-pass');
+    passEl.textContent = passCount;
+    passEl.style.color = passCount > 0 ? '{GREEN}' : '{RED}';
+    document.getElementById('gap-chart-scope').textContent = '(' + VIEW_LABELS[view] + ', % of max)';
+
+    // leaderboard, re-ranked for this view
+    var byRep = {{}};
+    filtered.forEach(function(c) {{ (byRep[c.rep] = byRep[c.rep] || []).push(c); }});
+    var rows = Object.keys(byRep).map(function(rep) {{
+      var entries = byRep[rep];
+      var scored = entries.filter(function(e) {{ return e.score != null; }}).map(function(e) {{ return e.score; }});
+      var avgR = scored.length ? scored.reduce(function(a, b) {{ return a + b; }}, 0) / scored.length : null;
+      var passes = scored.filter(function(s) {{ return s >= 80; }}).length;
+      return {{rep: rep, n: entries.length, nScored: scored.length, avg: avgR, passes: passes}};
+    }}).filter(function(r) {{ return r.avg != null; }}).sort(function(a, b) {{ return b.avg - a.avg; }});
+
+    document.getElementById('leaderboard-body').innerHTML = rows.map(function(r, i) {{
+      var excl = r.nScored !== r.n ? (' <span style="color:{ORANGE};font-size:11px">(' + (r.n - r.nScored) + ' excl.)</span>') : '';
+      return '<tr><td style="color:#aaa">' + (i + 1) + '</td>' +
+        '<td><a href="#' + anchorName(r.rep) + '" style="font-weight:700;color:{NAVY};text-decoration:none">' + r.rep + '</a></td>' +
+        '<td>' + r.nScored + excl + '</td>' +
+        '<td><strong style="color:' + scoreColor(r.avg) + '">' + r.avg.toFixed(1) + '</strong></td>' +
+        '<td>' + r.passes + '</td></tr>';
+    }}).join('');
+
+    // gap chart, recomputed and re-sorted for this view
+    var compStats = COMPONENTS.map(function(comp) {{
+      var key = comp[0], label = comp[1], mx = comp[2];
+      var vals = graded.map(function(c) {{ return c[key] || 0; }});
+      var avgV = vals.length ? vals.reduce(function(a, b) {{ return a + b; }}, 0) / vals.length : 0;
+      var pct = mx ? Math.round(100 * avgV / mx) : 0;
+      return {{label: label, pct: pct}};
+    }}).sort(function(a, b) {{ return a.pct - b.pct; }});
+
+    document.getElementById('gap-chart').innerHTML = compStats.map(function(d) {{
+      return '<div class="gap-row"><div class="gap-label">' + d.label + '</div>' +
+        '<div class="gap-bar-track"><div class="gap-bar-fill" style="width:' + d.pct + '%;background:' + compColor(d.pct) + '"></div></div>' +
+        '<div class="gap-pct">' + d.pct + '%</div></div>';
+    }}).join('');
+  }}
+
   document.querySelectorAll('.view-tab').forEach(function(btn) {{
     btn.addEventListener('click', function() {{
       document.querySelectorAll('.view-tab').forEach(function(b) {{ b.classList.remove('active'); }});
       btn.classList.add('active');
       document.body.setAttribute('data-view', btn.dataset.view);
+      renderView(btn.dataset.view);
     }});
   }});
 </script>
