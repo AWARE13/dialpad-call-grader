@@ -1,0 +1,30 @@
+{
+  "call_id": "6146779436326912",
+  "rep_name": "Jevic Lazanas",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 14.5,
+  "datetime_ct": "2026-09-03 21:18 CT",
+  "external_number": "+17575251574",
+  "call_type": "full_sales_call",
+  "rubric_version": "v2-jeff-call-map-r2",
+  "stage1_quid_pro_quo": 0,
+  "stage1_their_agenda": 10,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0,
+  "stage3_estimate": 0,
+  "stage3_save_your_ass_sheet5": 0,
+  "stage3_close": 0,
+  "rapport_warmth": 10,
+  "process_discipline": 5,
+  "total_score": 40,
+  "pass": false,
+  "evidence_quotes": {
+    "agenda": "'What are your biggest concerns on your upcoming move?' — asked as the very first substantive question, before any logistics probing.",
+    "two_layers_deep": "Customer described a genuinely complex situation (a two-bedroom apartment plus a full 10x20 storage unit, partial move from the apartment) and the rep went thorough on both locations across the full call rather than treating it as a simple pickup.",
+    "save_your_ass": "Call is incomplete — this is the discovery half of a two-part interaction; the rep tells her he needs to check with a colleague on the multi-location/multi-truck estimate and will call back in 30 minutes, which happened as call_id 6315751603478528 about 24 minutes later. No pricing or differentiators land in this recording."
+  },
+  "top_strength": "Excellent open with the agenda question first thing, then genuinely thorough, patient discovery across two very detailed pickup locations (apartment plus a long-stored 10x20 unit) without rushing her.",
+  "coaching_note": "Stage 2/3 never happen in this specific recording since the estimate got deferred to a callback (a separate call_id) — flagging this pairing so it isn't double-counted as two independent weak calls when it's really one strong discovery + one solid estimate delivery, split across two recordings."
+}

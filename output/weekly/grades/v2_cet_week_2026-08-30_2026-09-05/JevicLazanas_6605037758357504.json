@@ -1,0 +1,30 @@
+{
+  "call_id": "6605037758357504",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 36.4,
+  "datetime_ct": "2026-09-03 14:44 CT",
+  "external_number": "+13466982440",
+  "call_type": "full_sales_call",
+  "rubric_version": "v2-jeff-call-map-r2",
+  "stage1_quid_pro_quo": 2,
+  "stage1_their_agenda": 10,
+  "stage1_two_layers_deep": 8,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0,
+  "stage3_estimate": 0,
+  "stage3_save_your_ass_sheet5": 0,
+  "stage3_close": 0,
+  "rapport_warmth": 10,
+  "process_discipline": 5,
+  "total_score": 35,
+  "pass": false,
+  "evidence_quotes": {
+    "agenda": "'What are your biggest concerns on this move?' — asked early, right after the move date, before logistics probing began.",
+    "two_layers_deep": "Customer's stated concern was getting her furniture safely loaded for a long out-of-town drive to Dallas; the rep gave a direct, relevant reassurance about wrapping/blanket protection but didn't probe further into which specific pieces worried her most.",
+    "save_your_ass": "Call is incomplete for grading purposes — flagging a genuine call-type ambiguity: this is a long-distance/out-of-town move, and the rep cleanly and correctly escalates it to a pricing specialist before ever reaching the differentiator pitch or estimate ('I will go ahead and endorse your profile to a specialist who can quote this accurately since this is an out-of-town move'). This is a proper, by-design handoff, not an abandoned call, but it doesn't match the rubric's specific walkthrough_scheduler carve-out (which is defined only for large-move virtual walkthroughs), so Stage 2/3 items are scored as 0 rather than N/A."
+  },
+  "top_strength": "Extraordinary patience across a 36-minute call with a very talkative, still-undecided customer (unconfirmed move-out date, unconfirmed destination address, a hard-to-describe fireplace TV stand) — never once rushed her and handled a pointed 'are you guys expensive' question gracefully.",
+  "coaching_note": "Worth confirming with Amanda whether out-of-town escalation calls like this one should get a similar N/A treatment to walkthrough-scheduler calls in a future rubric revision, since a good rep gets penalized here purely for correctly routing a move type they aren't meant to quote themselves."
+}

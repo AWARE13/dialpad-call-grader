@@ -1,0 +1,30 @@
+{
+  "call_id": "6188061915389952",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 15.1,
+  "datetime_ct": "2026-09-02 21:17 CT",
+  "external_number": "+14047180323",
+  "call_type": "full_sales_call",
+  "rubric_version": "v2-jeff-call-map-r2",
+  "stage1_quid_pro_quo": 0,
+  "stage1_their_agenda": 10,
+  "stage1_two_layers_deep": 8,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0,
+  "stage3_estimate": 0,
+  "stage3_save_your_ass_sheet5": 0,
+  "stage3_close": 0,
+  "rapport_warmth": 10,
+  "process_discipline": 5,
+  "total_score": 33,
+  "pass": false,
+  "evidence_quotes": {
+    "agenda": "'What are your biggest concerns on your upcoming move?' — asked right after getting her name, before any logistics probing.",
+    "two_layers_deep": "Customer described a genuinely unusual 3-location move (two current residences into one shared new place); the rep confirmed it was doable and moved on to build the profile rather than probing further into how the split should work.",
+    "save_your_ass": "Call is incomplete — the rep hit a system glitch (mileage calculator showing an implausible '11-hour drive' for a 12-mile trip) and told the customer he'd refresh the system and call back in 15-30 minutes with the estimate. No pricing or differentiators land in this recording."
+  },
+  "top_strength": "Handled a genuinely unusual 3-location move (two apartments plus a new shared place) with real care, and stayed calm and transparent when the system threw an obviously wrong drive-time estimate rather than papering over it.",
+  "coaching_note": "Stage 2/3 never happen in this specific recording because of the system glitch, not because of a rep failure — worth checking whether the promised callback with the estimate exists as a separate call_id to complete this rep's picture, similar to the linked Melissa Dela Rosa calls earlier in this batch."
+}

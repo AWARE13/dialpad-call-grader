@@ -25,9 +25,9 @@ NAVY = "#1a2744"
 # Training-group rosters (Jeff/Northwood CET split — Tue group / Wed group).
 # Names below match the grading data's rep_name (roster "name"), not always the Dialpad
 # display name Amanda gave (e.g. "Chauny Shivers" -> "Chauntelle Shivers" here).
-# Not assigned to either group: Therese Ablang, Nhel Banayad (not mentioned in either
-# list) and Jevic Lazanas (Wednesday list, but has no matching Dialpad account at all --
-# a known unresolved gap, so no grading data exists for him either way).
+# Not assigned to either group: Therese Ablang, Nhel Banayad (not mentioned in either list).
+# Jevic Lazanas was believed to have no Dialpad account as of 8/21 -- resolved 9/8, she's
+# in Dialpad after all (id 4999317649432576), added to Wednesday per Amanda's roster image.
 GROUP_ASSIGNMENTS = {
     "Amy Arbasa": "tuesday",
     "Chauntelle Shivers": "tuesday",
@@ -39,6 +39,7 @@ GROUP_ASSIGNMENTS = {
     "Joanna Ballon": "wednesday",
     "Danah 2Celestial": "wednesday",
     "Nicole Tolete": "wednesday",
+    "Jevic Lazanas": "wednesday",
 }
 
 COMPONENTS = [

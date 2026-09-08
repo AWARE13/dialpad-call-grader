@@ -1,0 +1,30 @@
+{
+  "call_id": "4835010268930048",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 5.9,
+  "datetime_ct": "2026-09-02 19:18 CT",
+  "external_number": "+14692377518",
+  "call_type": "full_sales_call",
+  "rubric_version": "v2-jeff-call-map-r2",
+  "stage1_quid_pro_quo": 0,
+  "stage1_their_agenda": 10,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0,
+  "stage3_estimate": 0,
+  "stage3_save_your_ass_sheet5": 0,
+  "stage3_close": 0,
+  "rapport_warmth": 8,
+  "process_discipline": 5,
+  "total_score": 38,
+  "pass": false,
+  "evidence_quotes": {
+    "agenda": "'What are your biggest concerns for your move?' — asked right after confirming the pickup/drop-off addresses, before deeper logistics probing.",
+    "two_layers_deep": "N/A applied — her answer was descriptive (downsizing, which rooms stay empty, bed count) rather than a stated worry to dig into.",
+    "save_your_ass": "Call is incomplete for grading purposes — flagging a call-type ambiguity: this is a large/downsizing house-to-house move that the rep correctly and quickly escalates to a move specialist before ever reaching pricing ('this is a large move and let me connect you with our move specialist who can quote this accurately'). A clean, by-design handoff, but not the rubric's defined walkthrough_scheduler carve-out, so Stage 2/3 are scored 0."
+  },
+  "top_strength": "Efficient, warm handling of a fast-moving inquiry call, and gave a thoughtful, accurate answer to her packing-vs-moving service question even while the call was already being routed to a specialist.",
+  "coaching_note": "Same flag as the Angela Baulding call earlier in this batch (call_id 6605037758357504): a rep correctly routing a move type outside their own quoting scope gets scored as if Stage 2/3 simply didn't happen — worth revisiting whether large-move escalations deserve a similar N/A treatment to walkthrough-scheduler calls."
+}

@@ -1,0 +1,30 @@
+{
+  "call_id": "4805838691672064",
+  "rep_name": "Jevic Lazanas",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 13.5,
+  "datetime_ct": "2026-09-01 18:03 CT",
+  "external_number": "+12107395065",
+  "call_type": "full_sales_call",
+  "rubric_version": "v2-jeff-call-map-r2",
+  "stage1_quid_pro_quo": 5,
+  "stage1_their_agenda": 10,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0,
+  "stage3_estimate": 0,
+  "stage3_save_your_ass_sheet5": 0,
+  "stage3_close": 0,
+  "rapport_warmth": 8,
+  "process_discipline": 5,
+  "total_score": 43,
+  "pass": false,
+  "evidence_quotes": {
+    "agenda": "'Let's talk about your move. What are your biggest concerns on this move?' — asked right after getting her name, before any logistics probing.",
+    "two_layers_deep": "N/A applied — customer's answer ('just getting my stuff in the storage, that's basically it') was descriptive, not a stated worry.",
+    "save_your_ass": "Flagging a likely data issue rather than a rep miss: this transcript cuts off mid-sentence during the pricing explanation ('The only thing outside of the early rate is.') with no further lines, even though the call ran 13.5 minutes. The differentiator pitch, estimate, and close all likely happened but aren't in this transcript export — recommend re-pulling this call_id's transcript before treating this score as final."
+  },
+  "top_strength": "Strong open — full quid pro quo framing plus the agenda question both landed right at the top of the call, before any logistics probing began. Patient through a long back-and-forth locating the storage unit's zip code.",
+  "coaching_note": "Score is likely understated due to a truncated transcript, not call quality — everything visible through the point the transcript cuts off (framing, agenda, discovery, inventory) was strong. Recommend re-fetching this call_id's transcript for a complete, fair grade before this score gets used in any rep comparison."
+}

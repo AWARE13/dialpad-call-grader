@@ -1,0 +1,30 @@
+{
+  "call_id": "4895722942013440",
+  "rep_name": "Jevic Lazanas",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 10.4,
+  "datetime_ct": "2026-08-31 21:50 CT",
+  "external_number": "+12103722530",
+  "call_type": "full_sales_call",
+  "rubric_version": "v2-jeff-call-map-r2",
+  "stage1_quid_pro_quo": 2,
+  "stage1_their_agenda": 0,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0,
+  "stage3_estimate": 0,
+  "stage3_save_your_ass_sheet5": 0,
+  "stage3_close": 0,
+  "rapport_warmth": 8,
+  "process_discipline": 5,
+  "total_score": 30,
+  "pass": false,
+  "evidence_quotes": {
+    "agenda": "Never asked — this is a partial, out-of-town move (Bryan, TX to a house outside Woodville) that goes straight into inventory intake.",
+    "two_layers_deep": "N/A applied — this call was purely factual logistics throughout.",
+    "save_your_ass": "Call is incomplete for grading purposes — flagging a call-type ambiguity: this is an out-of-town move outside the calling branch's normal service area, and the rep correctly identifies the nearest servicing branch (Houston) and routes it for a callback rather than quoting it himself. A clean, by-design handoff, matching the pattern seen elsewhere in this batch (Angela Baulding, Usha Ayyar)."
+  },
+  "top_strength": "Transparent and patient in explaining an unusual branch-routing situation — she'd called the wrong location, and the rep calmly walked her through which branch was actually closest and why, rather than leaving her confused.",
+  "coaching_note": "Same flag as the other out-of-town/large-move escalations in this batch: a correctly-routed call scores as if the pitch never happened. Worth deciding whether these deserve N/A treatment on Stage 2/3, similar to the walkthrough-scheduler carve-out."
+}
