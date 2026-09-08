@@ -215,6 +215,7 @@ html_out = f'''<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow, noarchive">
 <title>CET Call Grading — {WEEK_START} to {WEEK_END} — Jeff Call Map (v2)</title>
 <style>
   body {{ font-family: -apple-system, Roboto, Arial, sans-serif; background:#f4f2ee; color:#222; margin:0; }}
@@ -283,6 +284,10 @@ html_out = f'''<!DOCTYPE html>
   </div>
 
   {rep_sections_html}
+
+  <div class="section" style="color:#999;font-size:11px;padding:12px 0 40px;">
+    This page is public but marked no-index — it isn't listed anywhere or access-gated. Anyone with this exact link can view it, including the transcripts below.
+  </div>
 
 </body>
 </html>'''
