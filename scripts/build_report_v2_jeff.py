@@ -216,7 +216,7 @@ html_out = f'''<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="robots" content="noindex, nofollow, noarchive">
-<title>CET Call Grading — {WEEK_START} to {WEEK_END} — Jeff Call Map (v2)</title>
+<title>CET Call Grading — {WEEK_START} to {WEEK_END}</title>
 <style>
   body {{ font-family: -apple-system, Roboto, Arial, sans-serif; background:#f4f2ee; color:#222; margin:0; }}
   .header {{ background:{NAVY}; color:#fff; padding:32px 40px; }}
@@ -270,7 +270,7 @@ html_out = f'''<!DOCTYPE html>
 </head>
 <body>
   <div class="header">
-    <h1>CET Call Grading — Jeff Johnson Call Map (v2)</h1>
+    <h1>CET Call Grading</h1>
     <div class="sub">Week of {WEEK_START} to {WEEK_END} &nbsp;·&nbsp; Fresh rubric, no baseline carried forward &nbsp;·&nbsp; Passing bar: 80/100</div>
   </div>
   <div class="stats-bar">
