@@ -255,6 +255,17 @@ html_out = f'''<!DOCTYPE html>
   .quote-item {{ font-size:12px; color:#555; margin-bottom:4px; }}
   .transcript {{ white-space:pre-wrap; font-size:11px; color:#444; background:#faf9f6; padding:10px; border-radius:6px; max-height:400px; overflow-y:auto; }}
   .skip-card {{ border:1px dashed #ddd; border-radius:8px; padding:10px 14px; margin-bottom:8px; font-size:12px; color:#888; }}
+  .rubric-section h2 {{ margin-bottom:8px; }}
+  .rubric-intro {{ font-size:12.5px; color:#555; line-height:1.55; margin:0 0 16px; max-width:900px; }}
+  .rubric-stage-bar {{ display:flex; justify-content:space-between; align-items:center; background:{NAVY}; color:#fff; padding:6px 14px; border-radius:6px; font-size:12px; font-weight:700; letter-spacing:.2px; margin:14px 0 8px; }}
+  .rubric-stage-total {{ font-weight:400; color:rgba(255,255,255,0.75); }}
+  .rubric-cards {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(210px,1fr)); gap:8px; }}
+  .rubric-card {{ display:flex; gap:10px; background:#fff; border:1px solid #eee; border-radius:8px; padding:10px 12px; }}
+  .rc-pts {{ flex:0 0 auto; width:34px; height:34px; border-radius:50%; background:{ORANGE}; color:#fff; font-weight:700; font-size:13px; display:flex; align-items:center; justify-content:center; }}
+  .rc-name {{ font-size:12.5px; font-weight:700; color:#222; margin-bottom:2px; }}
+  .rc-sheet {{ font-weight:400; color:#999; font-size:10.5px; display:block; }}
+  .rc-desc {{ font-size:11px; color:#666; line-height:1.4; }}
+  .rubric-footnote {{ font-size:11.5px; color:#888; margin-top:14px; max-width:900px; }}
 </style>
 </head>
 <body>
@@ -270,45 +281,43 @@ html_out = f'''<!DOCTYPE html>
     <div class="stat"><div class="num" style="color:{GREEN if pass_count else RED}">{pass_count}</div><div class="lbl">calls passing (80+)</div></div>
   </div>
 
-  <div class="section">
+  <div class="section rubric-section">
     <h2>How this is scored</h2>
-    <p style="font-size:13px;color:#555;line-height:1.6">
-      Based on Jeff Johnson's (Northwood Group) Call Map — 3 stages, 11 scored items, 100 points total. <strong>Passing is 80+.</strong>
-      One rule governs four of the items below: the differentiators (damage coverage, Meet Your Mover, On-Time Guarantee, Communication)
-      only need to land <strong>once</strong> — either as a direct answer to a concern the customer raised in Stage 1, or as the "takeaway" ask
-      in Stage 2 if the customer never raised it. Never both required, never penalized twice for the same gap.
+    <p class="rubric-intro">
+      Jeff Johnson's (Northwood Group) Call Map — 3 stages, 11 scored items, 100 points. <strong>Passing is 80+.</strong>
+      One rule covers 4 items below: the differentiators (damage coverage, Meet Your Mover, On-Time Guarantee, Communication)
+      only need to land <strong>once</strong> — as a direct answer in Stage 1, or as the Stage 2 "takeaway" ask if it wasn't raised. Never both required, never penalized twice for the same gap.
     </p>
-    <table>
-      <tr><th>Stage</th><th>Item</th><th>Pts</th><th>How it's scored</th></tr>
-      <tr><td rowspan="5" style="font-weight:600;color:{NAVY}">1 — Discovery</td>
-        <td>Quid pro quo</td><td>5</td>
-        <td>Did the rep trade "let's get you a quote" for the customer's patience before probing? Full credit if the framing was there, partial if questions started but framing was skipped, zero if it launched straight into probing.</td></tr>
-      <tr><td>Their agenda</td><td>10</td>
-        <td>The scripted question — "other than price, what are your biggest concerns... what do you want answered today?" Full credit if asked before logistics probing starts, partial if asked late, zero if never asked. Heaviest-weighted first-tier item — this is the single biggest adoption gap.</td></tr>
-      <tr><td>Two layers deep</td><td>15</td>
-        <td>For whatever concern the customer raised, did the rep actually dig — "tell me more," "what else is on your list" — rather than one question and a pivot? Heaviest item in Stage 1. If the customer never raised a concern at all, this scores full credit (15) — there's nothing to follow up on, so it's not scored as a gap.</td></tr>
-      <tr><td>Careful with (Sheet 1 — damage coverage)</td><td>5</td>
-        <td>Binary: covered anywhere in the call — Stage 1 answer or Stage 2 takeaway — or not covered at all.</td></tr>
-      <tr><td>Who's coming (Sheet 2 — Meet Your Mover)</td><td>5</td>
-        <td>Same binary logic as Sheet 1.</td></tr>
-      <tr><td rowspan="1" style="font-weight:600;color:{NAVY}">2 — Ramp up</td>
-        <td>The takeaway (Sheets 3 &amp; 4 — On-Time + Communication)</td><td>15</td>
-        <td>Splits 7.5 / 7.5 — each half scores independently based on whether On-Time Guarantee and Communication (day-before call, named crew lead) are each covered anywhere in the call.</td></tr>
-      <tr><td rowspan="3" style="font-weight:600;color:{NAVY}">3 — After estimate</td>
-        <td>Estimate anchor</td><td>10</td>
-        <td>Did the rep give a typical range AND personalize it to this customer's move? Full credit for both, partial for range only, zero for no framing at all.</td></tr>
-      <tr><td>Save Your Ass (Sheet 5)</td><td>15</td>
-        <td>5 lines, 3 pts each: "we commit to the rate," "the estimate is a window," "if the crew beats it you pay less," the self-prep tip, and "does that feel fair?" followed by actual silence.</td></tr>
-      <tr><td>Close</td><td>5</td>
-        <td>2 items, 2.5 pts each: the rate-lock line, and an explicit ask ("would you like our help with your move?").</td></tr>
-      <tr><td rowspan="2" style="font-weight:600;color:{NAVY}">Cross-call</td>
-        <td>Rapport / warmth</td><td>10</td>
-        <td>Same 1–5 transcript-based warmth scale as the old phone-presence rubric, rescaled ×2.</td></tr>
-      <tr><td>Process discipline</td><td>5</td>
-        <td>Starts at 5, loses 1 pt per violation — a differentiator repeated across stages, or no silence held after an open-ended question. Floors at 0.</td></tr>
-    </table>
-    <p style="font-size:12px;color:#888;margin-top:10px">
-      <strong>One more exception:</strong> calls correctly and cleanly routed to a virtual walkthrough before pricing (large moves) get the three Stage 3 items scored as full credit rather than zeroed — the call wasn't supposed to reach pricing, so it isn't penalized for not getting there. This only applies to a clean, by-design handoff, not a call that just trails off.
+
+    <div class="rubric-stage-bar"><span>Stage 1 — Discovery</span><span class="rubric-stage-total">40 pts</span></div>
+    <div class="rubric-cards">
+      <div class="rubric-card"><div class="rc-pts">5</div><div class="rc-body"><div class="rc-name">Quid pro quo</div><div class="rc-desc">Trades "let's get you a quote" for the customer's patience before probing. Full credit if the framing was there, partial if skipped, zero if straight into probing.</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">10</div><div class="rc-body"><div class="rc-name">Their agenda</div><div class="rc-desc">"Other than price, what are your biggest concerns... what do you want answered today?" Full if asked before probing, partial if late, zero if never. Biggest adoption gap company-wide.</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">15</div><div class="rc-body"><div class="rc-name">Two layers deep</div><div class="rc-desc">Real follow-up on a raised concern — "tell me more" — not one question and a pivot. Heaviest item in Stage 1. Full credit if the customer never raised a concern at all (nothing to follow up on).</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">5</div><div class="rc-body"><div class="rc-name">Careful with <span class="rc-sheet">Sheet 1 · damage coverage</span></div><div class="rc-desc">Binary — covered anywhere in the call (Stage 1 or Stage 2), or not covered at all.</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">5</div><div class="rc-body"><div class="rc-name">Who's coming <span class="rc-sheet">Sheet 2 · Meet Your Mover</span></div><div class="rc-desc">Same binary logic as Sheet 1.</div></div></div>
+    </div>
+
+    <div class="rubric-stage-bar"><span>Stage 2 — Ramp up, take away</span><span class="rubric-stage-total">15 pts</span></div>
+    <div class="rubric-cards">
+      <div class="rubric-card"><div class="rc-pts">15</div><div class="rc-body"><div class="rc-name">The takeaway <span class="rc-sheet">Sheets 3–4 · On-Time + Communication</span></div><div class="rc-desc">Splits 7.5 / 7.5 — each half scores independently on whether On-Time Guarantee and Communication (day-before call, named crew lead) are covered anywhere in the call.</div></div></div>
+    </div>
+
+    <div class="rubric-stage-bar"><span>Stage 3 — After the estimate</span><span class="rubric-stage-total">35 pts</span></div>
+    <div class="rubric-cards">
+      <div class="rubric-card"><div class="rc-pts">10</div><div class="rc-body"><div class="rc-name">Estimate anchor</div><div class="rc-desc">A typical range AND personalized to this move = full credit. Range only = partial. No framing = zero.</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">15</div><div class="rc-body"><div class="rc-name">Save Your Ass <span class="rc-sheet">Sheet 5</span></div><div class="rc-desc">5 lines, 3 pts each: rate commitment, "the estimate is a window," beats-it-pay-less, self-prep tip, "does that feel fair?" + real silence.</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">5</div><div class="rc-body"><div class="rc-name">Close</div><div class="rc-desc">2 items, 2.5 pts each: the rate-lock line, and an explicit ask ("would you like our help with your move?").</div></div></div>
+    </div>
+
+    <div class="rubric-stage-bar"><span>Cross-call</span><span class="rubric-stage-total">15 pts</span></div>
+    <div class="rubric-cards">
+      <div class="rubric-card"><div class="rc-pts">10</div><div class="rc-body"><div class="rc-name">Rapport / warmth</div><div class="rc-desc">Same 1–5 transcript-based warmth scale as the old phone-presence rubric, rescaled ×2.</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">5</div><div class="rc-body"><div class="rc-name">Process discipline</div><div class="rc-desc">Starts at 5, −1 per violation (a differentiator repeated, or no silence after an open question). Floors at 0.</div></div></div>
+    </div>
+
+    <p class="rubric-footnote">
+      <strong>One more exception:</strong> calls cleanly routed to a virtual walkthrough before pricing (large moves) get the 3 Stage 3 items scored as full credit rather than zeroed — the call wasn't supposed to reach pricing. Only for a clean, by-design handoff, not a call that just trails off.
     </p>
   </div>
 
