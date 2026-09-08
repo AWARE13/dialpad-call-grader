@@ -59,6 +59,8 @@
   .rc-sheet { font-weight:400; color:#999; font-size:10.5px; display:block; }
   .rc-desc { font-size:11px; color:#666; line-height:1.4; }
   .rubric-footnote { font-size:11.5px; color:#888; margin-top:14px; max-width:900px; }
+  .team-avg-row { background:#eee7db; }
+  .team-avg-row td { border-top:2px solid #1a2744 !important; border-bottom:2px solid #1a2744 !important; }
   .lb-header { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px; margin-bottom:10px; }
   .lb-header h2 { margin:0; }
   .view-tabs { display:flex; gap:6px; }
@@ -144,7 +146,14 @@
     <table>
       <tr><th>#</th><th>Rep</th><th>Calls</th><th>Avg</th><th>Passes</th></tr>
       <tbody id="leaderboard-body">
-      <tr data-group="unassigned">
+      <tr class="team-avg-row">
+      <td></td>
+      <td style="font-weight:700">Team Average</td>
+      <td>319</td>
+      <td><strong style="color:#E8630A">54.2</strong></td>
+      <td>21</td>
+    </tr>
+<tr data-group="unassigned">
       <td style="color:#aaa">1</td>
       <td><a href="#Nhel_Banayad" style="font-weight:700;color:#1a2744;text-decoration:none">Nhel Banayad</a></td>
       <td>1 <span style="color:#E8630A;font-size:11px">(1 excl.)</span></td>
@@ -47758,7 +47767,12 @@ Jules Nicolas: Bye.</pre>
       return {rep: rep, n: entries.length, nScored: scored.length, avg: avgR, passes: passes};
     }).filter(function(r) { return r.avg != null; }).sort(function(a, b) { return b.avg - a.avg; });
 
-    document.getElementById('leaderboard-body').innerHTML = rows.map(function(r, i) {
+    var teamAvgRow = '<tr class="team-avg-row"><td></td><td style="font-weight:700">Team Average</td>' +
+      '<td>' + graded.length + '</td>' +
+      '<td><strong style="color:' + scoreColor(avg) + '">' + avg.toFixed(1) + '</strong></td>' +
+      '<td>' + passCount + '</td></tr>';
+
+    document.getElementById('leaderboard-body').innerHTML = teamAvgRow + rows.map(function(r, i) {
       var excl = r.nScored !== r.n ? (' <span style="color:#E8630A;font-size:11px">(' + (r.n - r.nScored) + ' excl.)</span>') : '';
       return '<tr><td style="color:#aaa">' + (i + 1) + '</td>' +
         '<td><a href="#' + anchorName(r.rep) + '" style="font-weight:700;color:#1a2744;text-decoration:none">' + r.rep + '</a></td>' +

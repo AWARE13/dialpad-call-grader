@@ -120,8 +120,18 @@ for key, label, mx in COMPONENTS:
     avg = sum(vals) / len(vals) if vals else 0
     comp_avgs[key] = {"label": label, "avg": round(avg, 1), "max": mx, "pct": round(100 * avg / mx) if mx else 0}
 
+def team_average_row(scores_for_avg, n_passes):
+    avg = round(sum(scores_for_avg) / len(scores_for_avg), 1) if scores_for_avg else 0
+    return f'''<tr class="team-avg-row">
+      <td></td>
+      <td style="font-weight:700">Team Average</td>
+      <td>{len(scores_for_avg)}</td>
+      <td><strong style="color:{score_color(avg)}">{avg}</strong></td>
+      <td>{n_passes}</td>
+    </tr>'''
+
 def leaderboard_rows():
-    out = []
+    out = [team_average_row([c["total_score"] for c in graded], pass_count)]
     for i, r in enumerate(rep_rows_ranked, 1):
         excl = f' <span style="color:{ORANGE};font-size:11px">({r["n"]-r["n_scored"]} excl.)</span>' if r["n_scored"] != r["n"] else ""
         group = GROUP_ASSIGNMENTS.get(r["rep"], "unassigned")
@@ -318,6 +328,8 @@ html_out = f'''<!DOCTYPE html>
   .rc-sheet {{ font-weight:400; color:#999; font-size:10.5px; display:block; }}
   .rc-desc {{ font-size:11px; color:#666; line-height:1.4; }}
   .rubric-footnote {{ font-size:11.5px; color:#888; margin-top:14px; max-width:900px; }}
+  .team-avg-row {{ background:#eee7db; }}
+  .team-avg-row td {{ border-top:2px solid {NAVY} !important; border-bottom:2px solid {NAVY} !important; }}
   .lb-header {{ display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px; margin-bottom:10px; }}
   .lb-header h2 {{ margin:0; }}
   .view-tabs {{ display:flex; gap:6px; }}
@@ -472,7 +484,12 @@ html_out = f'''<!DOCTYPE html>
       return {{rep: rep, n: entries.length, nScored: scored.length, avg: avgR, passes: passes}};
     }}).filter(function(r) {{ return r.avg != null; }}).sort(function(a, b) {{ return b.avg - a.avg; }});
 
-    document.getElementById('leaderboard-body').innerHTML = rows.map(function(r, i) {{
+    var teamAvgRow = '<tr class="team-avg-row"><td></td><td style="font-weight:700">Team Average</td>' +
+      '<td>' + graded.length + '</td>' +
+      '<td><strong style="color:' + scoreColor(avg) + '">' + avg.toFixed(1) + '</strong></td>' +
+      '<td>' + passCount + '</td></tr>';
+
+    document.getElementById('leaderboard-body').innerHTML = teamAvgRow + rows.map(function(r, i) {{
       var excl = r.nScored !== r.n ? (' <span style="color:{ORANGE};font-size:11px">(' + (r.n - r.nScored) + ' excl.)</span>') : '';
       return '<tr><td style="color:#aaa">' + (i + 1) + '</td>' +
         '<td><a href="#' + anchorName(r.rep) + '" style="font-weight:700;color:{NAVY};text-decoration:none">' + r.rep + '</a></td>' +
