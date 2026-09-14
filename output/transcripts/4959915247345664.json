@@ -1,0 +1,544 @@
+{
+  "call_id": "5263380456611840",
+  "lines": [
+    {
+      "content": "Hello, this is Dustin with Einstein moving.",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:27:51.030665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:27:51.030665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:27:51.030665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:27:51.030665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:27:51.030665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:27:51.030665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:27:51.030665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:27:51.030665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "ner",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:27:52.320665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "ner",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:27:53.040665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Hi there, my name is sila. I called a couple of days ago regarding my move. I think you guys should have a profile in your system. I just wanted to go ahead and confirm and lock in the dates with you guys.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:27:54.567367",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "call_purpose",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:27:54.567367",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "ner",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:27:56.418367",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, let me get this tracked down. Bear with me just a second.",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:28:08.430665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Sure.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:28:14.967367",
+      "type": "transcript"
+    },
+    {
+      "content": "What email address would you have used?",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:28:16.230665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "question",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:28:16.230665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Yeah, so it's S-A-I-L-A-M-A-R-O-C-H-A @gmail.com.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:28:19.767367",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "pii",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:28:21.098367",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "email_address",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:28:27.818367",
+      "type": "moment"
+    },
+    {
+      "content": "Gotcha.",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:28:31.230665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "And then you're moving away from 215 Bravo Street over to 2300 Aldridge Street.",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:28:34.830665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "address",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:28:38.240665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "address",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:28:40.840665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Mm-hmm that's correct.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:28:43.767367",
+      "type": "transcript"
+    },
+    {
+      "content": "Perfect. Let's see. Look at this for a second. Make sure we have all the details that we need.",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:28:45.630665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "Alrighty, and then is the inventory that we have pretty comprehensive. The sectional couch king bed frame, queen bed frame. And then that's a glass dining table with six chairs. Is there some more items to go along with that like, living room furniture along with that couch or in the bedrooms?",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:29:16.230665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "question",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:29:30.720665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Yeah. So there will be two desks, they're standing desk two office chairs and then in addition to that a TV stand and then a question I had about the TV is, is we don't have a box for it. Is there an additional charge to like, have it in a box and get it wrapped up and that sort of thing?",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:29:38.367367",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "question",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:29:58.098367",
+      "type": "moment"
+    },
+    {
+      "content": "So generally with the t.v.'s we depending on the size of it our trucks will have a TV bag that can fit up to a 55 inch TV. The t.v.s that are larger than that. We pad wrap with moving blankets and shrink wrap, you would not need to purchase a box or anything. We can definitely get those moved safely for you without that box.",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:30:03.630665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Okay, and is there any additional charge or TV? Is $75 inches, I believe.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:30:26.367367",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "question",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:30:27.698367",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "currency",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:30:29.298367",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:30:29.920665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "No ma'am. No additional charge for that. Are, are there any dressers to go along with those two beds?",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:30:30.630665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Cool. Okay, great.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:30:33.567367",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "positive_sentiment",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:30:33.567367",
+      "type": "moment"
+    },
+    {
+      "content": "question",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:30:35.920665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Nope.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:30:40.167367",
+      "type": "transcript"
+    },
+    {
+      "content": "Nope, sweet. And then dining table chairs, alrighty. Alrighty.",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:30:42.030665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Oh, in two mattresses. I'm not sure if that's assumed but just in case.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:30:49.767367",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, a lot of people when they're moving for some reason always say a bed and mattresses. But yes ma'am we definitely know that people need Ma, mattresses for their beds. I always get a little laugh when you know, I guess it makes sense. Maybe some places charge extra for mattresses separately. Absolutely, absolutely, perfect, perfect. And then as far as your box account goes you all are moving around thirty boxes, does that sound right?",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:30:53.430665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Yeah.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:30:59.967367",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Okay, okay, okay.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:31:03.567367",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "I just wanna make sure I clarify you know, just in case.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:31:13.767367",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:31:29.160665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "I think it will probably be less than that. If we're excluding like the furniture probably be about fifteen.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:31:30.567367",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:31:33.200665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "Perfect.",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:31:37.830665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "Awesome.",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:31:40.230665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "Awesome. And then looking at this profile just one thing that jumps out to me is your estimate is only slightly higher than the typical typical range we would see for like a two bedroom apartment. Your square footage is within the normal specs. Your box count is lower than typical but one factor that's generally add some time is that twenty first floor load up. We generally build a, a little additional time into your estimate just to make sure we're not underestimating and then you get sticker shock on the backside of the, of the move.",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:31:45.630665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "monologuing",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:32:16.040665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Sure, of course.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:32:29.367367",
+      "type": "transcript"
+    },
+    {
+      "content": "Looking at it. I would probably estimate your move to take the what's your estimated the 5.75 up to seven hours and if it did land at the seven hour mark, you'd be looking at 1526 but I did want to, to share that with you. I think the five hours, 45 minutes is a super ambitious. I don't think it's outside of the realm of possibilities but I did want to, you know, set proper expectations that you know generally an estimate has the potential to go up or down and I just struggle to see it taking less than the five hours, 45 minutes. If that makes sense.",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:32:34.830665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Okay, cause.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:33:05.967367",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Okay. Yeah, I've spoken to some other moving companies, and they've all told me within kind of four and a half to five and a half hours is what they think, considering that there's also the twenty first floor. We do have a moving elevator, specifically that's going to be booked out as well. So we'll have full access to that.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:33:16.767367",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Yeah, seven hours is, is a, is a lot. I'm, I would not, I would not know if I'd have to ask my husband if you would want to move forward then.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:33:38.367367",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, no, definitely. I definitely understand that and you know I just want to be forthcoming and let you know that I don't see that time built-in to, into the estimate and I would rather you get sticker shock on this side of the move as opposed to the you know, after the move is completed if that makes sense.",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:33:46.830665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Yeah, yeah, no that makes sense.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:34:08.367367",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "support_issue_resolved",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:34:10.378367",
+      "type": "moment"
+    },
+    {
+      "content": "Awesome! I will kind of update this estimate. I'll tag the rep who sent you that initial estimate and then definitely chatted over with your husband's. You are welcome to get in touch with us and we can kind of dial it in you know, get answer any questions here or you might have and see if we're the right fit for you all or if you all are looking to go a different, different route.",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:34:12.030665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Okay.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:34:23.367367",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Okay, okay, that sounds great and then if I did want to proceed with booking, can I just reply to the email or do I need to give you guys a callback?",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:34:41.367367",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "positive_sentiment",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:34:41.367367",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "question",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:34:45.298367",
+      "type": "moment"
+    },
+    {
+      "content": "No, either way it's fine. You can give us a call. You can reply to the email. Either, either one of those are fine.",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:34:48.630665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "content": "action_item",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:34:50.240665",
+      "type": "moment",
+      "user_id": "5194695801077760"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Okay, perfect. Okay, I will get back to you very shortly then. Thank you so much.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:34:55.167367",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "positive_sentiment",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:34:55.167367",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "action_item",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:34:56.858367",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "support_issue_resolved",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:34:58.418367",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, ma'am. I'll have this landed in your inbox in about 510 minutes.",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:34:59.430665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Okay, perfect. I appreciate it. Have a great day. Bye.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:35:02.967367",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "positive_sentiment",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:35:02.967367",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "support_issue_resolved",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:35:04.058367",
+      "type": "moment"
+    },
+    {
+      "content": "Yes ma'am thanks a lot. You too. Bye.",
+      "name": "Dustin Street",
+      "time": "2026-08-14T16:35:04.830665",
+      "type": "transcript",
+      "user_id": "5194695801077760"
+    }
+  ]
+}

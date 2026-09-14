@@ -1,0 +1,733 @@
+{
+  "call_id": "5362726405611520",
+  "lines": [
+    {
+      "content": "ai_scorecard_llm_v2_na",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:59:44.472983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:59:44.472983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_trigger",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:59:44.472983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "This is Chris with pins moving company. How can I help you?",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:59:51.601983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:59:51.601983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:59:51.601983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:59:51.601983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:59:51.601983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:59:51.601983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:59:51.601983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:59:51.601983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:59:51.601983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:59:51.601983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:59:51.872983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:59:52.312983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:59:53.472983",
+      "type": "custom_moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Hi Chris I called earlier to inquire about your Merve moving services. I had a question about the start time. What if I book a move for let's say 9:00 AM, do you guys have like a window in which the movers come or will they actually be on site for 9:00 AM?",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:59:54.465075",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "call_purpose",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:59:54.465075",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "ner",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T16:59:55.425075",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "time",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:00:06.425075",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "question",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:00:07.745075",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "time",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:00:12.825075",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, so it's a half hour window in the morning. Typically, our normal start time is 8:30 to nine depending on the size of the move. We might be able to push up to 9:00 to 930.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:00:13.801983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "time",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:00:18.352983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "time",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:00:21.832983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "9:00 to 930. Okay, sounds good. Half hours is, is not a bad timeframe. I spoke to somebody else earlier this morning. I don't think it was yourself. And did the day before that I actually spoke to somebody else and I've gotten two very different quotes from your team and so I just wanted to go over it with you and get basically a third opinion on what we can estimate our cost to be.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:00:23.265075",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "time",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:00:23.265075",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, got you. Based on what I'm looking at, you have fifteen boxes going?",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:00:51.601983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:00:51.601983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Yeah, fifteen boxes.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:00:56.865075",
+      "type": "transcript"
+    },
+    {
+      "content": "And then sectional couch two desk two office chairs, king bed with frame, TV stand, TV queen bed with frame, dining room, table glass six chairs. And then just to make sure I didn't see any night stands on. Okay in each room or just total.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:01:01.801983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Two night stands actually.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:01:17.865075",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Just in one room. Two night dance total.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:01:21.465075",
+      "type": "transcript"
+    },
+    {
+      "content": "And, and then any dressers going.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:01:24.601983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "No, dressers.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:01:28.665075",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Coffee table side tables. Alright, any patio furniture?",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:01:30.601983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Nope.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:01:35.265075",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Oh, yes, actually a couple of chairs they're pretty lightweight outdoor chairs.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:01:40.065075",
+      "type": "transcript"
+    },
+    {
+      "content": "And any appliances, Washer/Dryer mm-hmm.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:01:49.201983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Nope.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:01:52.065075",
+      "type": "transcript"
+    },
+    {
+      "content": "And then with the two desk or they just like table tops and legs L, shape anything with like.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:01:55.801983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "I just table top and legs they are like standing desk.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:02:00.465075",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, okay, gotcha.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:02:07.201983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Alright.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:02:14.401983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "And the most recent one you got was for seven hours.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:02:27.001983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Yes, and the one before that was like four and a half to five which is what's been consistent with what I've been hearing from other moving companies, so.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:02:31.065075",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, yeah. Our typical completion time for a two bedroom apartment is about three and a half to five and a half hours that's before we take in consideration like access inventory list in box count, I mean, seven does sound pretty high to me. Would you say the walk at both locations are accurate, it, it's listed fifty feet and it would need to include, like, for the first location from your unit door to the elevator, and then from the elevator to where we can park our truck is the fifty still accurate.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:02:40.201983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:02:40.201983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Yeah, I would say it's not, it's not that far, yeah, it's fifty feet, it's probably accurate, it's maybe, yeah, go ahead. I was just gonna say yeah, it's like maybe fifteen feet to the elevator and then there's, the elevator has like a, it's a moving elevator so it goes out to the back end and then there's a ramp where they'll be able to park the truck and just have the like be able to move everything down and that's maybe another thirty feet, so, yeah.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:03:10.665075",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And then for the new location, yeah, go ahead.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:03:18.601983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay. And then, with the un, the location, it listed an elevator but you're on the first floor. Do we actually have to use the elevator to get to your unit, or is it just a.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:03:44.401983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Oh, no it's on the fourth floor. I'm not sure where the first floor came from.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:03:51.465075",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, okay they probably just forgot to update it and then that walk, the fifty foot that covers parking elevator, and then elevator to your unit door.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:03:55.201983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Mm-hmm. Yup.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:04:04.065075",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:04:06.601983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Yeah, I feel like the seven is a little bit too high elevators. Do tend to push this over our typical range of three and a half to six and a half. So, I would think realistically probably closer to six maybe under.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:04:19.201983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:04:19.201983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Okay. And then in terms of if we're moving our TV, is there an additional cost for that?",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:04:32.865075",
+      "type": "transcript"
+    },
+    {
+      "content": "No additional cost or just equals more time.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:04:37.201983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Okay, and then for bed frames, one thing that we were debating is to bring them or not how long does it usually take to and then kind of like reassemble a bed frame so that it's able to, to move.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:04:43.665075",
+      "type": "transcript"
+    },
+    {
+      "content": "Pretty standard ones, I'd say like, ten to fifteen minutes to Disa simple and then a couple of extra minutes to wrap and then relatively the same amount of time. On the next one, it just depends if it's just, you know, basic bed frame, bed with underneath storage. Which that can equal closer to like 45 minutes to an hour.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:04:53.401983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:04:58.032983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Okay.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:05:03.465075",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Okay.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:05:07.065075",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Got it, got it. Okay, well yeah I think I'm good to proceed with going forward the thirty minutes of you guys coming in. Sounds great.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:05:15.465075",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "positive_sentiment",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:05:15.465075",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, so the 9:00 to 930 is what you're aiming for.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:05:24.001983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "time",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:05:25.432983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay, cool. Well, it was Dustin that you talked to last time, right?",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:05:30.001983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Yes, that would be perfect.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:05:31.065075",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "positive_sentiment",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:05:31.065075",
+      "type": "moment"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:05:32.232983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay, I'm gonna just reach out to him just to see what his logic was on the seven hours just to make sure I'm not missing anything. But yeah, the inventory list pretty minimal. So I think the six hour estimate to give or take is more accurate.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:05:36.001983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Yes.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:05:37.665075",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Okay. Yeah, I thought so as Paul but just wanted to make sure with you guys. So everything is included, it's just the 218 and there's two and a half hour minimum like packing TV, everything.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:05:54.465075",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "ner",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:05:58.665075",
+      "type": "moment"
+    },
+    {
+      "content": "When you say packing like boxes, those are going to be packaged by you before we get on site, correct? Okay, preparation preparation of like, yeah.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:06:09.601983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Yeah, sorry, I meant, more like the mattress for example, like, we don't want it to just be like, or like, is there like something that you guys, maybe, like blankets and stuff that you put it in, that sort of thing.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:06:18.465075",
+      "type": "transcript"
+    },
+    {
+      "content": "I would recommend mattress bags which we can bring out for purchase? I think it's let me see, I think it's like around $2 or $3 for the mattress bag depending on what size it is, what size do you need is a king and queen. Okay, I'll need that.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:06:27.001983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:06:27.001983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:06:27.001983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:06:34.472983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:06:34.472983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Oh, that's cool. A one king and one queen. Yeah, yeah. A couple of dollars is okay. Yeah. That's.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:06:41.865075",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, I got that noted.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:06:47.401983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "But yeah, I think if you do reach out to Dustin and it's about like a five, maybe six hour move. We're good to proceed. I think that'll be fine. And then is there any deposit needed?",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:06:50.865075",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "ner",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:06:54.105075",
+      "type": "moment"
+    },
+    {
+      "content": "No, ma'am, I will get you over move confirmation after I talk with Dustin and I got you on the books for Friday the twenty fifth and that's between 9:00 and 930.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:07:01.201983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:07:01.201983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "question",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:07:03.065075",
+      "type": "moment"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:07:05.712983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "time",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:07:10.392983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Yup, you're very welcome. Bye!",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:07:13.801983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Amazing! Thank you guys so much.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:07:14.865075",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, I'm gonna follow up with that next.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:07:18.001983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Awesome, and I'll just get a confirmation of that, right?",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:07:18.465075",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "positive_sentiment",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:07:18.465075",
+      "type": "moment"
+    },
+    {
+      "content": "issue_unresolved",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:07:18.952983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Yeah, you're welcome. Bye.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:07:23.401983",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:07:23.864983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:07:23.864983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T17:07:23.864983",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "Perfect. Okay thank you so much I really appreciate it. Have a great one. Bye.",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:07:23.865075",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8paTD-QgM",
+      "content": "positive_sentiment",
+      "name": "Saila Marocha",
+      "time": "2026-08-14T17:07:25.545075",
+      "type": "moment"
+    }
+  ]
+}

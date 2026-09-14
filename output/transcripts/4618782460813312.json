@@ -1,0 +1,733 @@
+{
+  "call_id": "4826671634915328",
+  "lines": [
+    {
+      "content": "ai_scorecard_llm_v2_na",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:00:50.963199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:00:50.963199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:00:50.963199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_trigger",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:00:50.963199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Yeah, hi, this is Jules. How can I help you today?",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:00:56.297199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:00:56.297199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:00:56.297199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:00:56.297199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:00:56.297199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:00:56.297199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:00:56.297199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:00:56.297199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ner",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:00:59.443199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:00:59.883199",
+      "type": "custom_moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Hi my name is joy and I'm trying to look for services. I'm planning to move on August 29th or thirtieth, I'm little flexible but I'm wanting to move from Capel to Oakland Avenue in Dallas. I'm trying to get a quote from you on how much it's gonna cost me for remove.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:01:02.111249",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "call_purpose",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:01:02.111249",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "ner",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:01:03.055249",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "date",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:01:09.215249",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "ner",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:01:14.895249",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "address",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:01:16.455249",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "ner",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:01:16.455249",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "ner",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:01:17.655249",
+      "type": "moment"
+    },
+    {
+      "content": "No problem. I can certainly help you out with that. One second. The twenty ninth, right? Saturday.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:01:25.097199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Correct, yes ma'am.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:01:29.711249",
+      "type": "transcript"
+    },
+    {
+      "content": "Unfortunately, we are already fully booked that Saturday. Are you flexible with your roof?",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:01:32.897199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:01:32.897199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Yes, I am. How about Sunday? How is Sunday looking?",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:01:39.911249",
+      "type": "transcript"
+    },
+    {
+      "content": "Sunday, the thirtieth we do have availability.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:01:43.697199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "You do.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:01:47.711249",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, we do. Definitely. Let me mm-hmm.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:01:49.097199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:01:51.311199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Okay, sending email at the, you know, Sunday time works for me I'm flexible. So do you know how much it's gonna cost me and do you need any more details?",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:01:51.311249",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "question",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:01:58.215249",
+      "type": "moment"
+    },
+    {
+      "content": "Definitely. Yeah before we get into the estimate let's talk about your move a little bit. What are your biggest concerns and what are the most important things you want answers to this call?",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:02:02.297199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:02:02.297199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "question",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:02:06.523199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:02:07.523199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "So, there's, there's no concern. The only thing that I would like to add is the only two big items that I have is a 75 inch TV and a mattress, a queen mattress rest is all, you know kitchen items probably, you know, two or two to four boxes of kitchen items. And then, you know, about, you know, five to six boxes of clothing, that's about it, and.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:02:12.911249",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "I can talk to apartment folks and you know reserve the list for us so that you know we can move it in you know with these, right? So that's the only thing but otherwise I don't have any concerns ma'am.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:02:41.711249",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:02:49.097199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:02:56.297199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Okay. So very quick the only items we're going to be moving are the TV the mattress and boxes.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:02:59.897199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Correct, yes.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:03:07.511249",
+      "type": "transcript"
+    },
+    {
+      "content": "But there, we would not be moving any couches dressers night stands.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:03:10.097199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "No ma'am, no.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:03:16.511249",
+      "type": "transcript"
+    },
+    {
+      "content": "Got it. Okay. Can you give me the zip code we're starting at and the zip code we are going through.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:03:18.497199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:03:18.497199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Yes, yeah, 75019 is my starting and 75219 is this I would want the drop-off.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:03:23.711249",
+      "type": "transcript"
+    },
+    {
+      "content": "And what floor are you currently at?",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:03:46.097199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "question",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:03:47.123199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "What is it?",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:03:50.711249",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "question",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:03:50.711249",
+      "type": "moment"
+    },
+    {
+      "content": "I'm sorry, what floor are you currently at?",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:03:52.097199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "question",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:03:53.403199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Oh, I'm on ground floor at the home.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:03:55.511249",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and what floor are we moving it to?",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:04:00.497199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "question",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:04:02.483199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Seven seventh floor apartment.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:04:05.111249",
+      "type": "transcript"
+    },
+    {
+      "content": "Seventh floor. Okay, great, great. So the main thing is we just really charged by the hour our hour, the rate is $200 and $2 per hour for two movers and one truck.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:04:07.097199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:04:07.097199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Okay.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:04:14.111249",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:04:17.083199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "currency",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:04:18.763199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Okay, 200 how much you said? 20202 okay, 202, okay, got it and mm-hmm.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:04:23.711249",
+      "type": "transcript"
+    },
+    {
+      "content": "So, that hour the rate in start $200 and 2202. Yes. So, yeah, that hourly rate includes everything however, we have a minimum of two and a half hours. So the minimum starts at $505.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:04:23.897199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "currency",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:04:27.563199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:04:37.443199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "currency",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:04:41.923199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Oh, got it, got it. So what you're saying is the minimum is five hours, is it.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:04:45.311249",
+      "type": "transcript"
+    },
+    {
+      "content": "Two and a half hours.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:04:55.697199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Oh, two and a half hours. Okay, two and a half hours and it's $500 is it?",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:04:57.311249",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "currency",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:05:02.135249",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, so the minimum is $505.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:05:05.297199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "currency",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:05:07.363199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "$505 and that covers flights. I don't have to pay for a, I don't have to pay for the gas or anything.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:05:09.311249",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "currency",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:05:09.311249",
+      "type": "moment"
+    },
+    {
+      "content": "Correct, that is everything.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:05:19.097199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "So, so that basically is they will load it.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:05:20.711249",
+      "type": "transcript"
+    },
+    {
+      "content": "The tax is included as well.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:05:22.697199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "What is it ma'am?",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:05:26.711249",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "question",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:05:26.711249",
+      "type": "moment"
+    },
+    {
+      "content": "Taxes are already included as well.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:05:28.097199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:05:28.097199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Okay. Okay, so that is basically they're going to load everything and then drop everything on the floor. Right? Seven, you know, seventh floor in my apartment.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:05:31.511249",
+      "type": "transcript"
+    },
+    {
+      "content": "That is correct.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:05:43.697199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Okay. All I have to do is keep everything ready so that they can load it, correct?",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:05:45.311249",
+      "type": "transcript"
+    },
+    {
+      "content": "Exactly. So and since we're only moving like 22 big pieces of items plus the boxes, yeah, it's just gonna be within the minimum of two and a half hours.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:05:49.697199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Okay, okay.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:05:51.311249",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Big items, mm-hmm yeah.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:05:56.111249",
+      "type": "transcript"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:06:03.311199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Okay, okay, perfect.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:06:03.311249",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "positive_sentiment",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:06:04.535249",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Got it, got it. So, how soon I can you know, I'm gonna call my apartment folks now to make sure Sunday they do have, you know, I can resolve the lift for us. Write the elevator for us and then I can give you a callback. So you do have availability for Sunday, right? And I just have to make sure that I do it quickly so that I don't close the spot. Correct.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:06:13.511249",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "action_item",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:06:19.095249",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "action_item",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:06:29.415249",
+      "type": "moment"
+    },
+    {
+      "content": "Exactly, we still have a lot of availability on Sunday anyway on the thirtieth.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:06:41.297199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:06:41.297199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Okay, okay, perfect, ma'am. That works. Yeah, awesome. Yeah. Thank you so much for your time today.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:06:48.311249",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "positive_sentiment",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:06:49.135249",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "support_issue_resolved",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:06:53.335249",
+      "type": "moment"
+    },
+    {
+      "content": "No problem. My pleasure. Yeah, feel free to let us know when you're ready to schedule.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:06:55.097199",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:06:55.097199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-20T14:06:55.097199",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD83pmKyQgM",
+      "content": "Okay, okay, thank you. Yeah.",
+      "name": "Kira Associates",
+      "time": "2026-08-20T14:06:59.711249",
+      "type": "transcript"
+    }
+  ]
+}

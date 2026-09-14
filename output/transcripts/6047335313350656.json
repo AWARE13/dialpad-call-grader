@@ -1,0 +1,985 @@
+{
+  "call_id": "5028268288811008",
+  "lines": [
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:51:54.137555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Hello.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:51:54.137682",
+      "type": "transcript"
+    },
+    {
+      "content": "Hello, good afternoon. My name is Amy with Einstein. I'm looking for Patricia.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:51:56.607555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:51:56.607555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:51:56.607555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:51:56.607555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:51:56.607555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:51:56.607555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:51:58.431555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:51:58.871555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:52:00.711555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Yes, hi Amy, I'm Patricia. Thank you for giving me a call.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:52:01.337682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "ner",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:52:02.771682",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "contact_name",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:52:03.411682",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "ner",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:52:03.411682",
+      "type": "moment"
+    },
+    {
+      "content": "Good, thanks. Of course, of course. How are you doing today?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:52:06.207555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Well, I'm okay, but I realized I left off a refrig. Two refrigerators and a washer and dryer on my list that I sent to you. So, I wanna make sure I tell you that right away because I realized that can make a difference for the quote.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:52:09.737682",
+      "type": "transcript"
+    },
+    {
+      "content": "No problem.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:52:22.407555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Right, but the good thing is for hourly base so if you have less, if you have more items that's totally fine for smart items, add more time and let me just pull up the email that you sent. Just give me a quick moment. Okay? Moving concerns in waste doble and plates, additional items, okay, three bedrooms, extra large items, grill, prepaying tanks, garage gym squat rack. Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:52:26.607555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Oh, okay.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:52:31.937682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay, perfect, thank you.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:52:37.937682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "positive_sentiment",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:52:37.937682",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "And I know, I have, yes, I have to do the, I have to do the pro, pro propane tanks myself. I wonder when I put that on there, which is fine.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:52:52.937682",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, thank you. Yeah, we don't handle anything that has gas you know for safety reasons and let me just check. I love it. You're very comprehensive with the list. Thank you.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:53:03.207555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Yes, no problem.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:53:10.337682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "So the.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:53:13.937682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Well, I was trying but so our house is kind, I mean, it's small, it's a 1850 square feet but that we do have the gym equipment and the Sana in the garage that add, add some things, right, and then, that the patio furniture. So, I feel like, while it's under 2000 square feet, then I feel like we add those things and it's probably like a 2000 square foot home.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:53:16.937682",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:53:25.407555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "ner",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:53:27.811682",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, no.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:53:29.607555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Sounds good. Now when it comes to this Sanda would you be able to send me a picture of that. I wanna double-check with our team first if that's something we can commit to. Thank you.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:53:42.807555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:53:42.807555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Yes.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:53:49.337682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Yes. Yup, no problem. I do, you want me to text it to you or email it to you. What's the best?",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:53:52.337682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "question",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:54:00.251682",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, you can just text it to me if it's easier. Yes, ma'am, thank you. I'm just looking at the other list.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:54:00.807555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay, at this number.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:54:03.737682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay, great.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:54:07.937682",
+      "type": "transcript"
+    },
+    {
+      "content": "And forty to sixty boxes. Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:54:13.407555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Yeah, we did some of the bank bankers boxes too so and I'm counting our rubber maids as boxes.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:54:17.537682",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, we can, that's all good. Sure, no problem. And do you need help packing those up, or you'll have those ready to go.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:54:26.607555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Like a rubber made bins boxes.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:54:27.137682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:54:32.537682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "They should be ready to go. The plan is we finished packing before anyone come before you come?",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:54:36.137682",
+      "type": "transcript"
+    },
+    {
+      "content": "I'll just wait for the picture then I'll work out an estimate for you. Thank you.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:54:47.007555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Yeah, I'm trying to send it right now.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:54:49.337682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay, no problem. I am okay. One all it allow me how do I text you when I'm on the phone with you? You're not a contact, so it's not wanting me to do that.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:54:53.537682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "question",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:55:05.131682",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "I guess I'll just write down your phone number and oh, I'll go old-school and.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:55:14.537682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "And then I can text it 2-512-823-1588.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:55:21.737682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "phone_number",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:55:24.011682",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Alright.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:55:29.537682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "528 23 1588 let me drop the link in here. Okay, I have hit the send the button so it should be on its way.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:55:31.937682",
+      "type": "transcript"
+    },
+    {
+      "content": "Keep going then let's.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:55:50.007555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Oh, and then, I did put on there that we do have a work bench of rolling but it's on four wheels. So, I don't think it's, you know, it's not it's heavy but it should be able to be rolled. I don't think it's over, you know, I think it would be over \u00a3300.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:55:53.537682",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:56:06.807555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "currency",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:56:12.491682",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, so it's not more than 500 comms we can definitely move it, no problem.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:56:14.607555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay, yeah, I don't think so. And again it's roll.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:56:18.737682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Which having it having as long as nobody's, you know, it doesn't need to go upstairs or anything like that. So it should be fairly easy.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:56:26.537682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Did you get the saa?",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:56:35.537682",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, I'm looking at the. Yes, ma'am, got it here. I'm just double checking details, I'm trying to see where it states the weight of the phone.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:56:36.207555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:56:42.137682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Oh.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:56:46.337682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Let me see if I can find that. I'll look at the description as I figured this would have all the dimensions and everything in it.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:56:48.737682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "It doesn't seem that heavy. I mean my, it was my son, my daughter and I who we're putting it together and moved it up that little step moving it up. The step was not super enjoyable but my son is pretty strong. So really let me just say my daughter and I were Turing and he was the one moving it.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:56:59.537682",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:57:06.807555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Gotcha. If so, would you be able to disassemble it in advance or do you need our movers to do that?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:57:20.007555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "And.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:57:21.737682",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:57:22.031555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Yeah, it could be disassembled.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:57:27.137682",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, sounds good. So I think it will take a lot more time but I'll double-check with the team.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:57:33.207555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay. Yeah, I mean, I built it so technically, it should be all the but it's just consuming.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:57:39.737682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "It doesn't say the weight. Oh, it does 250 pounds item weight.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:57:51.737682",
+      "type": "transcript"
+    },
+    {
+      "content": "It's good.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:57:51.807555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay so much. Alright I'll walk you through the basic pricing first Patricia and while I, while I wait for the teams to reply with regards to the saa I'll work on an estimate and then I'll send you the quote via email the, you know, after I hear back from them, I just wanna make sure first that yes, we can commit to moving the Sana disassembled or if not, it might video breaker for you. So I wanna, I want to clear that out first. So now I'll just walk you through the basic pricing and then I'll send you an estimate later. Sounds good.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:57:58.407555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:58:05.911555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:58:06.137682",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:58:09.431555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:58:15.951555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:58:23.671555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:58:33.431555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay, that works.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:58:35.537682",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you. Okay, so for your requested date, Saturday, September 19th we charge $111 per hour per mover, if you guys are a bit flexible, I just want to share Sunday is $105 per hour per mover. While Monday to Thursday $104. So cheaper Sunday and Sunday to Thursday is a bit cheaper rather than Friday, Saturday. Is that an option for you guys or do you have to give me bottom that Saturday?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:58:38.007555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "date",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:58:42.151555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:58:45.391555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:58:53.471555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:58:58.031555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:59:01.351555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:59:05.607555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "I think we have to move on the Saturday. Yes.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:59:09.737682",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, no problem. And then this is an all inclusive hourly rate. We have a $26 truck. We will bring movie brackets shrink wrap Bens. Doggies. The tools for any disassemble or reassembly. Of the furniture. The hourly rate also includes taxes, insurance, and the gas. Now the best part here, your move is within our free service one. So there's no travel fee involved. And for all our clients no credit card fees, no, no disassemble fees. We just have a two and a half hour minimum. If we go beyond two and a half hours we will prorate the time in every fifteen minutes increments. Do you have any questions so far?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:59:12.807555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:59:19.111555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:59:21.631555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:59:41.537682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T21:59:59.537682",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T21:59:59.607555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Nope, seems reasonable.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:00:01.937682",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you and I just heard back from one of the branch managers he said if the client is able to take care of the disassemble and reassembly it won't be an issue for us to move the individual pieces of the though so we should be good to go with the.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:00:05.607555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "What if we don't want to take it apart, is there an option?",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:00:22.337682",
+      "type": "transcript"
+    },
+    {
+      "content": "Then got question.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:00:27.807555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:00:30.137682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Thank you.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:00:34.337682",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:00:39.207555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "It is.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:00:55.407555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Alright, we waiting for the reply, let's proceed with the basic bay success. Of course I'll let you know once I hear back from them. Typically for the house the size we would just need one truck three movers for about six to eight hours to complete but of course, a lot of factors are involved. Number one is the inventory with the number of items that I can see here right now on the top of my head if we include.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:01:05.007555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Perfect, thank you for letting us know.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:01:07.337682",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:01:22.431555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "The gym equipment saa, I would say we would need two trucks, two trucks to make sure we load everything in one go and the good thing is the new home is only seven miles away. So it's not a super long drive but I just wanna make sure that we don't have to go back and forth. So I would suggest sending four movers two trucks approximately for 67 hours. If I'm being a bit conservative. The budget for that let's say six hours that would be $2,664 well, seven hours is $3,108. Now this is just an estimate. The preliminary estimate you are not the bound by the numbers at the end of the day you only pay for the actual time that you, does that make sense? So far do you have any questions?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:01:34.071555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:02:02.607555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:02:07.511555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "No, so it's $111 times essentially four movers, is that okay? Times four movers times six hours so $2,600 and okay, $64. Okay, okay, that makes sense for six hours. Okay.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:02:23.537682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "currency",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:02:25.131682",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "question",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:02:30.171682",
+      "type": "moment"
+    },
+    {
+      "content": "Correct. Yes, ma'am. So that would be 444.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:02:30.807555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "currency",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:02:37.131682",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, correct. Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:02:37.407555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "currency",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:02:39.611682",
+      "type": "moment"
+    },
+    {
+      "content": "That's right.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:02:42.207555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "I'll email you this number once we get off the phone. I haven't heard back yet. For the end up follow up question, that what if you need, you don't, you don't, you know, you don't disassemble or reassemble the son if that would be an option. And if our movers would do that how many hours we should allocate or if we can actually do it. I'll park that for now and then I'll keep you posted hopefully before 5:30 if the manager can give me an answer.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:02:50.007555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:02:50.007555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Yeah.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:02:50.537682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:02:53.537682",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:03:15.831555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay, that would be great, thank you. And then yeah, once you know, those numbers definitely, yeah, let me know or not numbers but whether you know what, whether or not you know, that's possible. Definitely let me know.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:03:19.937682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "positive_sentiment",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:03:19.937682",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, ma'am mm-hmm of course I'll keep you posted if not the day over the weekend, I'll give you an update on that. But for now I'll just email you the, this preliminary estimate based on the.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:03:33.207555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:03:46.937682",
+      "type": "transcript"
+    },
+    {
+      "content": "Wait, I just got an answer. Sorry the manager is sending the message he said unfortunately we would need towards no for us to handle the disassemble we would suggest someone with more with the proper tools to this is summer reassemble that Sana? Oh, okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:03:48.807555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Oh, yeah, there, there weren't any tools it was like a slide in, and slide out the doors and buckle it, but that's fine.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:04:11.537682",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. Would that be a deal breaker if we won't be able to disassemble it for you?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:04:20.007555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "I don't know I'll have to, I have to talk to my husband about it. So I'll talk to him and then I can get back to you.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:04:26.537682",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:04:32.007555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "action_item",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:04:32.571682",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, sounds good. I'll email you the estimate so this estimate includes moving the sign-up. But should be disassembled in advance and we won't handle the a. Okay, thank you so much, Satish, you have a great evening. Happy weekend, bye-bye.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:04:34.407555",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-09-04T22:04:36.271555",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay. Yup, thank you. Appreciate it.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:04:45.137682",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "positive_sentiment",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:04:47.931682",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "support_issue_resolved",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:04:47.931682",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDCyfeV7QoM",
+      "content": "Okay, you too. Yeah, you too. Bye now.",
+      "name": "Patricia Terrazas",
+      "time": "2026-09-04T22:04:50.537682",
+      "type": "transcript"
+    }
+  ]
+}

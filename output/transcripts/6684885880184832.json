@@ -1,0 +1,894 @@
+{
+  "call_id": "6300518922100736",
+  "lines": [
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Okay, she said, she said what?",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:45:43.616020",
+      "type": "transcript"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:45:43.616053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Good morning this is Amy. How can I help you?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:45:50.454053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:45:50.454053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:45:50.454053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:45:50.454053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:45:50.454053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "We're supposed to call in at eleven. Hello.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:45:51.416020",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:45:51.765053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:45:52.165053",
+      "type": "custom_moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Hello, sir? Hello?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:45:56.454053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Hi, how are you?",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:46:00.416020",
+      "type": "transcript"
+    },
+    {
+      "content": "Doing well and yourself.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:46:02.454053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Doing fine. I just wanted to get a quote it's possible.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:46:05.216020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "call_purpose",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:46:05.216020",
+      "type": "moment"
+    },
+    {
+      "content": "Of course, I can help you with that. Can I have your name please to address you properly.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:46:11.454053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "It's Patrick O'Connor.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:46:19.616020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "contact_name",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:46:19.921020",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "ner",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:46:19.921020",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you with Patrick. Now do you have a specific date in mind so I can check the calendar?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:46:22.254053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:46:23.205053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:46:23.765053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Probably going to be.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:46:31.016020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Let's say sensitively October 24th.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:46:35.816020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "date",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:46:40.016020",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. Let me check to 24. And how big is the move? Are you moving out of a one bedroom apartment or a 2000 square foot house?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:46:43.254053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:46:47.365053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "It's a one bedroom apartment.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:46:52.016020",
+      "type": "transcript"
+    },
+    {
+      "content": "Two bedroom. Okay, thank.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:46:54.654053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Do you have a few minutes for me to create a profile for you and then ask some more details or are you just asking for basic pricing?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:47:03.054053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:47:03.054053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Yeah, that's fine. Let me ask you a question real quick. Do you, do you guys do move seven days a week or do you not do any moves on Sundays out of curiosity?",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:47:09.416020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "question",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:47:15.281020",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, we move seven days a week. We're open everyday. Did you move?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:47:24.654053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "703 okay, well, we can leave it at the twenty fourth for now but yeah, I've got a few minutes.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:47:28.616020",
+      "type": "transcript"
+    },
+    {
+      "content": "Let's say.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:47:33.054053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay. Thank you. October 24th that's a Saturday and yeah, it's currently open as we speak so I'll prepare the estimate for you. I'll send it to you via email. You don't have to take notes with that being said, can I have your email address.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:47:36.054053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "date",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:47:37.525053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:47:45.165053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "I'm sorry one more time.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:47:52.016020",
+      "type": "transcript"
+    },
+    {
+      "content": "Your email address please?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:47:54.054053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "You said email address.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:47:57.416020",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:48:00.054053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "P as in Patrick. T as in Thomas, O-C-O N-N at Gmail.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:48:01.616020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "ner",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:48:03.561020",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "ner",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:48:04.761020",
+      "type": "moment"
+    },
+    {
+      "content": "@gmail.com. Alright, thank you. How did you hear about iti moving?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:48:18.054053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "email_address",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:48:18.054053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:48:20.485053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Okay.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:48:23.816020",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup. Can I have your current address?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:48:27.654053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:48:28.854053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Mm-hmm 13059.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:48:32.816020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "4 Stock Boulevard.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:48:38.816020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "address",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:48:38.816020",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Apartment 1313.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:48:44.216020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "ner",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:48:44.216020",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "In Austin?",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:48:49.616020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "ner",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:48:49.961020",
+      "type": "moment"
+    },
+    {
+      "content": "Sorry, I think you cut off a little 13059 and then.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:48:56.454053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "4 Star Boulevard.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:49:04.616020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "address",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:49:04.616020",
+      "type": "moment"
+    },
+    {
+      "content": "4 Star Boulevard, thank you.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:49:08.454053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "address",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:49:08.454053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Apartments 1313.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:49:10.616020",
+      "type": "transcript"
+    },
+    {
+      "content": "Just give me one moment, I'll just pull up the.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:49:21.054053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Apartment 1313 okay, got it here. Which floor are you currently located?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:49:27.654053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:49:31.525053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "The third.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:49:35.216020",
+      "type": "transcript"
+    },
+    {
+      "content": "Is there an elevator that we can use hopefully.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:49:37.854053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Yes, there's an elevator right there.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:49:40.616020",
+      "type": "transcript"
+    },
+    {
+      "content": "Wonderful for reference what's the square footage of your apartment?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:49:43.854053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:49:45.845053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Probably about 800.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:49:49.616020",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay and then the destination address please.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:49:55.254053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "1291.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:50:01.616020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "FM, 969.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:50:08.816020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "In Bastrop.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:50:13.016020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "ner",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:50:14.441020",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, found it.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:50:16.254053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Now, let's talk about your inventory. Kindly walk me through your list even just the major or the large pieces.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:50:19.254053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Alright. It's mostly gonna be boxes probably.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:50:26.216020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "I would say probably fifteen boxes a varying sizes.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:50:31.616020",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, yeah.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:50:36.054053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "I've got a king size bed frame and mattress.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:50:39.416020",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:50:45.054053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Got a dresser.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:50:47.816020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Two t.v.'s.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:50:52.016020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Coffee table couch.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:50:55.616020",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:50:58.854053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Thank you.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:51:02.454053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Anything crazy like a gun safe Ji equipment.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:51:05.454053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Got it.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:51:05.816020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "No, no.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:51:08.816020",
+      "type": "transcript"
+    },
+    {
+      "content": "Do you need help back in your boxes or would you have those ready to go?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:51:13.854053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:51:13.854053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "No, that will be ready to go.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:51:17.816020",
+      "type": "transcript"
+    },
+    {
+      "content": "Sounds good. And then when it comes to the how far is the walk from your front door going to the parking area here at the apartment. Are you down the hall? Is it a long walk?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:51:21.054053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:51:30.085053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "No, it's a very short walk.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:51:32.216020",
+      "type": "transcript"
+    },
+    {
+      "content": "Good. Alright, I think I got all the details that I need. Let me start with the basic pricing. Let me know if you have questions but again no need to take notes. I'll send everything via email. So Patrick, for the Saturdays, it's a bit higher compared to a Monday the first day. So if you wanna move on a Saturday, the hourly rate is $222 per hour with two movers already. This is an all inclusive hourly date. We will bring the moving blankets, shink wrap bands, Dolly, the tools for any or reassembly. That needs to be done. This hourly rate also includes taxes insurance, and the gas.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:51:37.254053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:51:47.165053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:51:49.045053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:51:55.525053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:52:06.325053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "However your new address is already outside of our free service zone. So there's a one time travel fee amounting to $75. So the charges would be $222 hourly rate plus one time travel fee of $75. That's it, no credit card fees, no stairwell, no disassemble already assembly fees. We just have a two and a half hour minimum. If we go beyond two and a half hours, we will prorate the time in every fifteen minute. Do you have any questions so far?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:52:16.854053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:52:24.325053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:52:27.885053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:52:31.045053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:52:47.454053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:52:50.045053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "No.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:52:50.816020",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, now for the quote, typically a one bedroom apartment move. We would just need two and a half to three and a half hours to complete in your case let's add in the factors that first you're moving out of a third four unit and then it's about an hour drive more or less from point A to point B, therefore, we would suggest budgeting for four and a half hours up to five and a half hours, just in case needed. And the budget that we're looking at here, if it only takes $4 half that's $1,074 including the travel fee, if it takes five and a half hours, $1,296, including the travel fee. But then, again, you're not bummed by the number since we're hourly based basically, Patrick, you owe you only pay for the actual time that you use. So, preparation key. If you're able to take a car load or disassemble the bed frame in advance. That would really help you save time and of course money by the end of the day. Does that make sense any questions.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:52:53.454053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:53:04.365053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:53:11.485053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:53:20.685053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:53:22.285053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:53:27.685053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:53:34.845053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Yes. Yeah, understood.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:53:49.016020",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you. Well yeah. That's it for me, very straightforward pricing. And you know, what, we don't require any deposits whenever you're ready to book or if you have any questions don't hesitate to give us a call back at this phone number.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:53:52.854053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "Alright, I appreciate it thank you.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:54:05.216020",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "support_issue_resolved",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:54:07.041020",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "positive_sentiment",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:54:07.321020",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you Patrick, you have a good day. Bye.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:54:09.054053",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T15:54:10.085053",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgt7i4QsM",
+      "content": "You too, bye.",
+      "name": "Patrick OConnor",
+      "time": "2026-08-26T15:54:11.816020",
+      "type": "transcript"
+    }
+  ]
+}

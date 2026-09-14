@@ -1,0 +1,586 @@
+{
+  "call_id": "5824210811789312",
+  "lines": [
+    {
+      "content": "This is just with Einstein Moving Company. How can I help you?",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:21:48.488496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:21:48.488496",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:21:48.488496",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:21:48.488496",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:21:48.488496",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:21:48.488496",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:21:48.488496",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "ner",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:21:49.364496",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:21:50.644496",
+      "type": "custom_moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "Hi there, I wanna ask that I wanna move tomorrow. Do you think it's possible if I book it right now?",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:21:51.766630",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "call_purpose",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:21:51.766630",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "question",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:22:01.133630",
+      "type": "moment"
+    },
+    {
+      "content": "I can check my calendar for tomorrow. Let me pull that up and see what we have available. Give me just one moment here in while the calendar loads. Let me grab a few details here, so I know roughly what I'm looking for, what kind of residents are you moving from.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:22:05.288496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "Yeah.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:22:14.566630",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "Apartment.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:22:23.566630",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And how many bedrooms in your current apartment?",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:22:26.288496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "In current apartment it's only like two bedroom and the next moving I have like three bedrooms.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:22:30.166630",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. So moving from a two bedroom apartment into a three bedroom apartment, is that right?",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:22:40.688496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "Yeah.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:22:45.766630",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And what is the zip code that you are moving from and moving to?",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:22:47.288496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "It's a 1615 Royal Crest.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:22:52.966630",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "address",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:22:55.293630",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "Two let me, let me, give me a second.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:23:02.566630",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:23:08.288496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "I'm moving from jewel apartment six and sixteen royal cross to a apartment.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:23:13.366630",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "In east side.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:23:21.166630",
+      "type": "transcript"
+    },
+    {
+      "content": "Do you know what the zip code is there or do you have the address?",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:23:24.488496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "question",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:23:24.488496",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "For the next apartment will be appointment.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:23:28.366630",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, for the, for the new one.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:23:32.288496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "One.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:23:35.566630",
+      "type": "transcript"
+    },
+    {
+      "content": "Say that one more time.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:23:40.088496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "I wonder I 14501 east riverside.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:23:40.366630",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "ner",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:23:47.013630",
+      "type": "moment"
+    },
+    {
+      "content": "Got it, okay.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:23:48.488496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Okay, let me see what my calendar looks like for tomorrow. Give me just one moment here.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:23:52.688496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "Mm-hmm.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:23:58.966630",
+      "type": "transcript"
+    },
+    {
+      "content": "And I'm looking at both of our Austin branches to kinda cast a WideNet for you. So, unfortunately tomorrow, both north and south Austin offices are booked out. We have our earliest availability is Saturday morning. Is that helpful to us? Is that too late for you?",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:24:08.888496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:24:08.888496",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "ner",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:24:10.564496",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "ner",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:24:19.084496",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "question",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:24:25.924496",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "Saturday morning.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:24:28.966630",
+      "type": "transcript"
+    },
+    {
+      "content": "Correct.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:24:31.688496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "Let me check. Give me a second, okay?",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:24:33.166630",
+      "type": "transcript"
+    },
+    {
+      "content": "Sure.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:24:35.288496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "Yeah, I think we can for Saturday morning. And do you mind if I can you tell me that the price?",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:24:42.766630",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "question",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:24:50.566630",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, so the at least the hourly rates for Saturdays. Usually a two bedroom apartment only requires a two man team, so, if we send a, a two man team that costs $222 an hour, you know, from start to finish there are zero additional fees on top of that. So, it's just, excuse me it's just the hourly rate, you know, until, until we're done with the move. That's the, you know, internal how the pricing works. But I can get more specific here with a few more details.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:24:57.488496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "currency",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:25:11.444496",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "Alright, it's 200 what?",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:25:28.966630",
+      "type": "transcript"
+    },
+    {
+      "content": "$222 per hour for the two man team, correct?",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:25:32.288496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "currency",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:25:32.288496",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "Per per hour, okay.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:25:35.566630",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "200, and is that include the driver or there was some movers or something.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:25:39.166630",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, that includes everything. So it includes the crew, the truck taxes, liability coverage all of the materials we use to move and protect everything like, you know, blankets and shrink wrap dollars and hand trucks, store and floor protection. Even any tools we may need for disassemble or reassembly. So it includes everything that we'll need.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:25:47.288496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "Alright, cool. I will apply trans first. I will call them and if we agree, if they agree I will call you back.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:26:07.366630",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "action_item",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:26:12.893630",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "issue_unresolved",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:26:18.093630",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, yeah, absolutely. If you need we'll be here.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:26:19.688496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "So, so it's Saturday morning, like, morning what time?",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:26:21.166630",
+      "type": "transcript"
+    },
+    {
+      "content": "We will be on site between 8:30 and nine.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:26:25.688496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "time",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:26:27.604496",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "8:30 and nine. Okay, what if I book like two hours, is that possible?",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:26:28.966630",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "time",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:26:28.966630",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "question",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:26:32.653630",
+      "type": "moment"
+    },
+    {
+      "content": "So we have a two and a half hour minimum. So the smallest charge that we have is for two and a half hours. And if, let's say we use exactly two and a half hours that comes out to a total of $555. Typically we're moving the entire two bedroom apartment takes longer than two and a half hours. But if you want we can just set you up with only that amount of time move, you know, the biggest heaviest items first move what we can within that time and anything that's left behind you can move on your own.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:26:36.488496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "currency",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:26:47.884496",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "Yeah, that's the acu, actually, the things like, we have a lot of people here and the thing is, we actually only need the truck and the driver that's why I think that it's possible for us to move like, probably, only one hour to be honest, that's only like a three wasn't in three bed and two. So far the small sofa deli.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:27:08.566630",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Yeah, if you're moving just three beds and two sofas. I agree. I think that can all be done within the two and a half hour minimum like there won't be any boxes or anything like that either you, that'll, you'll move that on your own.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:27:40.088496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "Yup, so for the one hour it's 222 so it's half, two and a half hour is gonna be how much it's gonna be?",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:27:53.566630",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:27:55.088496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "555, that's the minimum. Correct, correct.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:28:04.088496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "555. Alright so, that the minimum how that you have is two and a half hours.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:28:06.166630",
+      "type": "transcript"
+    },
+    {
+      "content": "Correct, that is right.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:28:15.488496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "Alright. So I can book per hour. I mean it's one hour weekend right?",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:28:17.566630",
+      "type": "transcript"
+    },
+    {
+      "content": "We can't book anything small than two and a half hours because that is our minimum.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:28:26.888496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "Alright, alright cool. Alright, I'll call you back after I call my friend, okay?",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:28:30.766630",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "action_item",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:28:33.373630",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "issue_unresolved",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:28:33.373630",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, we'll be here if you need us.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:28:36.488496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi1K3b0AsM",
+      "content": "Alright, thank you so much sir.",
+      "name": "NI LUH BUDAWATI",
+      "time": "2026-09-10T17:28:37.966630",
+      "type": "transcript"
+    },
+    {
+      "content": "Of course. Take care. Bye.",
+      "name": "Jespah Lara",
+      "time": "2026-09-10T17:28:40.088496",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    }
+  ]
+}

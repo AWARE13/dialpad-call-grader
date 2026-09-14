@@ -1,0 +1,796 @@
+{
+  "call_id": "5908419213991936",
+  "lines": [
+    {
+      "content": "This is Chris with Einstein Moving Company. How can I help you?",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:43:24.335651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:43:24.335651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:43:24.335651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:43:24.335651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:43:24.335651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:43:24.335651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:43:24.335651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:43:24.335651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:43:24.744651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:43:25.064651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:43:26.224651",
+      "type": "custom_moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Hey, Chris, this is Tom Desmon, how are you?",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:43:26.786272",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "ner",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:43:28.470272",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "contact_name",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:43:29.310272",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "ner",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:43:29.310272",
+      "type": "moment"
+    },
+    {
+      "content": "I'm doing good. What can I do for you?",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:43:30.935651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:43:32.104651",
+      "type": "custom_moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "I need two movers and a truck on Wednesday the nineteenth.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:43:33.986272",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, let me see.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:43:39.935651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Do you guys help me move from 191 Tobago court into a storage unit? And it was Shay McCloud and Thomas mass crew. They, okay.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:43:43.586272",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "call_purpose",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:43:43.586272",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "question",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:43:43.586272",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "ner",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:43:50.950272",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "ner",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:43:52.830272",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. Let me just pull up your last account.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:43:55.535651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Alright, so, I'll note this on your profile. It looks like we left fifteen blankets behind fourteen per blanket. So, we owe you $10 $210. I believe back let me do the math.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:44:50.735651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:44:59.984651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Yup, 210.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:45:09.335651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Okay. And are those guys available on the nineteenth?",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:45:12.986272",
+      "type": "transcript"
+    },
+    {
+      "content": "So that's the only thing the nineteenth we're going to be closed down for our training day, and company party. So I'd have to shift this to the north branch.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:45:17.735651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Okay.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:45:27.986272",
+      "type": "transcript"
+    },
+    {
+      "content": "But you'll still get the same caliber movers and I mean, coming from a storage unit, it'll, it'll go pretty easy.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:45:28.535651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Okay.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:45:33.986272",
+      "type": "transcript"
+    },
+    {
+      "content": "And then the location that we're going to, what is that gonna be?",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:45:50.735651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:45:53.704651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "It is 11532 la lane L-A-F-I-T-T-E.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:45:55.586272",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:46:08.735651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Let me just look this up real quick.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:46:15.935651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "And we hadn't had it noted as sixty boxes. Did you actually pack up that amount last time around?",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:46:38.135651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "I really don't remember. I don't know.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:46:44.786272",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, no worries.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:46:47.735651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "And it's just the same stuff that we moved before, no additional units that we're picking up from.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:46:50.735651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Exactly, yeah, those guys were great too by the way, Shay and Thomas.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:46:55.586272",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "positive_sentiment",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:46:55.586272",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. Alright. Huh, love hearing that. Yeah. They, are they hear some studs here?",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:46:57.335651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "ner",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:46:59.310272",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "ner",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:46:59.710272",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Yeah, I was hoping I could get them again cause they know how they pack the storage unit and it was very, it was very easy to work with them. Is there a way maybe Tuesday at available?",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:47:03.986272",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "question",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:47:14.030272",
+      "type": "moment"
+    },
+    {
+      "content": "Oh.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:47:14.135651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Let me see real quick.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:47:16.535651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Or, or Thur or Thursday evening.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:47:18.986272",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, let me check it out real quick.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:47:21.935651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "For it looks like they're both off, either due to normal, normal days off or some vacation time. But I can assure you, I mean, north branch has same caliber guys. I mean, coming from a storage unit. I mean, it's gonna be a piece of cake for us, I have no concerns.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:47:47.735651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Okay.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:48:00.386272",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Okay, cool. Alright, let's do it on Wednesday then.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:48:03.386272",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. Alright, let me get to north branch.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:48:05.735651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "So, I will say the only negative with the north branch on Wednesday since they're a little bit further away from you. It does populate a $150 transportation fee that you didn't see with us before. Are you would you prefer Tuesday or Thursday? So you wouldn't see that $150 transportation fee?",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:49:20.735651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:49:30.184651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:49:34.224651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:49:37.784651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "No, that's okay.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:49:40.586272",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, just wanted to point that out.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:49:44.135651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Okay.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:49:46.586272",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "It's just $150 total.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:49:48.986272",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "currency",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:49:49.670272",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, $150 total, just to kind of break it down at $75 to get us out to site and $75 to get us back.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:49:50.735651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:49:51.824651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:49:54.264651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:49:56.144651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Okay.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:49:57.986272",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:50:01.664651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Alright. So going over the pricing and new estimate. The hourly rate that we're going to be looking at is $208 the hourly rate includes taxes, insurance, gas pants, and wraps, any fully stocked tool bag for reassembly. In this case already mentioned the $150 transportation fee, the hourly rate will go into effect once we get on site and begin the work of the work at the storage unit and we'll last until the move is completed. To your satisfaction we do maintain that two and a half hour minimum. Anything over that is the hourly rate and prorated fifteen minute increments until the move is actually completed last time around it took us about $6.75. I assume this time we're going to be coming in under that since everything's already still wrapped. So I would drop it closer to about six maybe, maybe, six and a quarter.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:50:03.335651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:50:11.384651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:50:20.224651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Okay.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:50:38.786272",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:50:40.464651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Okay.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:50:49.586272",
+      "type": "transcript"
+    },
+    {
+      "content": "If we do hit that on the.with everything included we're coming in at 1450 or sorry. 1450 but always could come in on that for you.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:50:50.735651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Okay. Alright, sounds good. What do, what do we do to secure the date?",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:51:02.186272",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "question",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:51:06.230272",
+      "type": "moment"
+    },
+    {
+      "content": "So I'm gonna get you on the books for Wednesday the nineteenth. It'll be first thing in the morning between 8:30 AM and 9:00 AM and I'll shoot you over a move confirmation.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:51:08.135651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "time",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:51:14.104651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "action_item",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:51:15.224651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Okay, sounds good.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:51:17.786272",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, well, I'll get this move confirmation over and we look forward to working with you again I'll make sure to let Thomas and Shay know you were really wanting to work with them again, they love to hear that.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:51:20.135651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:51:24.704651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:51:25.304651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Okay. And then the meeting place will be at the at the storage unit.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:51:28.586272",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, which actually just caught it looks like we never got that address last time around. What is that?",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:51:35.735651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:51:40.744651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "It is AAA storage on circle drive.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:51:42.386272",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Let me look it up.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:51:47.735651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Let me that the right one here.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:51:49.586272",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "I think it's 10509 circle drive.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:51:57.986272",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, I got that added but yeah, we'll meet you there and we will give you a call about thirty minutes prior to arriving.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:52:23.135651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "action_item",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:52:25.704651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "action_item",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:52:26.864651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "And what time did you say the meeting time works?",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:52:30.386272",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "question",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:52:30.830272",
+      "type": "moment"
+    },
+    {
+      "content": "8:30 AM to 9:00 AM.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:52:32.735651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "time",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:52:32.735651",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Okay, sounds good.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:52:35.786272",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, well it's a pleasure getting to work with you again and have a great weekend.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:52:39.335651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Call Closing",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:52:41.584651",
+      "type": "custom_moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Alright, your name is Chris, right?",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:52:42.386272",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "ner",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:52:44.030272",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, sir and my, all my contact information will be in the email. I'm gonna shoot over to you in a second.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:52:44.735651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Okay, great. Thank you Chris.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:52:49.586272",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "positive_sentiment",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:52:49.586272",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "ner",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:52:51.510272",
+      "type": "moment"
+    },
+    {
+      "content": "You're very welcome, bye.",
+      "name": "Chris Anderson",
+      "time": "2026-08-14T16:52:51.935651",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDUn978-gkM",
+      "content": "Bye.",
+      "name": "Desmond Thomas",
+      "time": "2026-08-14T16:52:53.786272",
+      "type": "transcript"
+    }
+  ]
+}

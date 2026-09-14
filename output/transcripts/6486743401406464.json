@@ -1,0 +1,740 @@
+{
+  "call_id": "5670799674482688",
+  "lines": [
+    {
+      "content": "This is Chris with Einstein loving company. How can I help you?",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:09:36.331759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:09:36.331759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:09:36.331759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:09:36.331759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:09:36.331759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:09:36.331759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:09:37.363759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:09:37.563759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:09:38.723759",
+      "type": "custom_moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Oh, hey my name is John and I have a upcoming move from an apartment into a house that I just bought and I did the online quote for the like full move including everything but it looks like I had to just contact you guys to get a quote for like an itemized option as well.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:09:39.438934",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "call_purpose",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:09:39.438934",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "contact_name",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:09:41.991934",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "ner",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:09:41.991934",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:09:47.731759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay, let me track that down.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:10:01.531759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Okay.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:10:05.238934",
+      "type": "transcript"
+    },
+    {
+      "content": "And what was your target date?",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:10:14.131759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:10:15.123759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "The target date is the, it's gonna be the nineteenth of this month Saturday.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:10:17.238934",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, starting off with special considerations and we will be going to room by room here shortly to get that inventory list but anything like special wise to know pianos, grandfather clocks workout equipment or appliances going.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:10:37.531759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "No.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:10:50.838934",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and do you have a good gauge on how many boxes in total you'll have for us?",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:10:53.131759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:10:55.803759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Oh, god boxes.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:10:59.838934",
+      "type": "transcript"
+    },
+    {
+      "content": "And that's always the tough as one of our clients especially if you haven't started packing or move-in some time but based on square foot alone, typically we've seen the neighborhood of about 45 to 55 boxes.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:11:02.731759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Yeah.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:11:06.438934",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Okay, gotcha. Yeah, with this current apartment it's a two bed, two bath and then we just have like our kitchen stuff as well so it's about 1300 square feet. We, I don't know we haven't even started packing. Yeah, so I don't know that sounds yeah.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:11:15.438934",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, well what I can do is just put you at the kind of middle range forty boxes give or take, and once you get through packing or halfway you can always update us if that drastically goes up.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:11:31.531759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Okay, yeah, yeah. That's perfect then.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:11:41.838934",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "positive_sentiment",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:11:42.991934",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. And then starting with your master bedroom, what's being moved?",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:11:44.731759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Okay. Yeah, so master bedroom is going to be a king size bed. So we have like the bed frame and the mattress and then in area rug underneath that, and then two night stands, and a dresser and a book shelf.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:11:49.038934",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:12:04.531759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay. What about your second bedroom?",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:12:09.931759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Yeah, so the second bedroom is going to be a queen bed and that has one night stand and a queen mattress and then in this room there's a dresser as well as a office desk.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:12:13.038934",
+      "type": "transcript"
+    },
+    {
+      "content": "And what style office desk, is it just like table top and legs or anything heavy?",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:12:29.131759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:12:29.643759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Table top and legs. Yeah, it's nothing too crazy. I think the bed and like the dresser or the heaviest because they're solid wood but the Ma, primary bedroom is not solid wood, so that's definitely not too heavy.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:12:33.438934",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And what about your living room?",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:12:47.731759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Living room is a small sofa and then two accent chairs, and a recliner chair that's also not too, too crazy heavy and then a media console and a TV and then an area rug as well.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:12:49.638934",
+      "type": "transcript"
+    },
+    {
+      "content": "And just to make sure any coffee tables are side tubs. I didn't hear that come up.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:13:09.931759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "And the coffee table. Yes, so sorry, yeah, glass top glass top, coffee table.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:13:17.238934",
+      "type": "transcript"
+    },
+    {
+      "content": "No, no, you're good.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:13:19.531759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "I got that noted.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:13:23.731759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Okay. And then in the kitchen, there's just a couple. Oh, yeah, I was just gonna say in the kitchen slash like we have an island, there's a couple just like bar stools, but that's pretty much it for furniture.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:13:26.238934",
+      "type": "transcript"
+    },
+    {
+      "content": "And then dining room, and he.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:13:27.331759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay. Anything from the patio?",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:13:40.531759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Patio, there are just 22 like wicker chairs, lightweight.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:13:43.038934",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And do you have a garage on site or storage?",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:13:51.931759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:13:53.443759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "We do have a storage unit that has some boxes in it as well that has probably like normal storage. Because it has probably like fifteen in there that's gonna be like holiday just like random stuff and then we have boxes for our kitchen items like glass, wear and dishes, and whatnot.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:13:56.238934",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, got you. Okay, let me put together an estimate real quick and I'll be right back with you.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:14:20.131759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Okay, yeah, perfect thank you so much.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:14:25.038934",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "positive_sentiment",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:14:25.631934",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, and I just got this for the load up location. It was indicated about a twenty foot walk. Does that include the walk from your current apartment door to the elevator. And then from elevator to where we can park. Our truck is twenty feet seems a little low.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:14:26.731759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "That would be, sorry I was doing that based on like the building from like where you would enter. So where I am, basically, moving trucks are all these parks like, kind of, we're on the fourth floor, but they always park basically in front of where our apartment is. Then there's a door right there to the elevator, that's as soon as you walk in that door to the like the lobby elevators right there, go up the elevator, and then we have a pretty short hallway, yeah.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:14:42.438934",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:14:47.131759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:14:59.731759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay, so probably of a 150 feet give or take.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:15:10.531759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Okay. Yeah, yeah, if we're doing, like total like that, then, yeah.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:15:13.638934",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, perfect. And then with the elevator can you reserve that for our sole uses or it just publicly to use?",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:15:17.731759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:15:20.643759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "It's public use I, for the most part, I can probably ask our leasing office there's people like moving in and out all the time. So, I always see people, yeah moving in there but I could ask them to reserve it and I don't think that would be an issue.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:15:24.438934",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:15:32.731759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay. Yeah, the only issue I see is like if a lot of people are moving in and now, just that traffic does add an extra time onto the bill.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:15:39.331759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Gotcha. Yeah, we have two, there's two elevators right next to each other. So, I feel, usually it's not, I haven't personally seen the elevator like, traffic being an issue especially on weekends. So I don't think it would be too crazy but I could definitely ask them and, and like, try to ensure that we get it reserved.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:15:46.638934",
+      "type": "transcript"
+    },
+    {
+      "content": "Come.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:16:05.731759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Or at least get one of them, one of the two reserves that early, right next to each other.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:16:08.238934",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:16:09.331759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay. Alright. Perfect. So putting your estimate together, I'll be right back with you.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:16:12.331759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Okay, awesome, thank you.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:16:18.438934",
+      "type": "transcript"
+    },
+    {
+      "content": "You're welcome.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:16:20.731759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Alright. So going over pricing for Saturday the nineteenth the hourly rate is going to be $200 that includes the two movers the truck taxes, insurance pans and wraps in a fully stocked tool bag for disassemble and reassembly. Since you are moving, let me update this real quick.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:16:35.131759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Okay.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:16:35.238934",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:16:41.083759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "monologuing",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:16:42.163759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay, since you are moving kind of a close from the Leander area to the south side of town. There is going to be a transportation fee at $150 that comes into play once the hourly rate and the move has been completed the hourly rate itself. What we can do effect once we get on site at the apartment begin the walkthrough and it will remain running until you are satisfied with the move. We do maintain a 2.5 hour minimum. We're definitely gonna hit that go over once we do same hourly rate but imp prorated fifteen minute increments until the move is actually completed typical completion time for a place your size is about three and a half to five and a half hours how I'm coming up with the estimate based on the inventory list box count and access which is going to be you know a little bit of a time, so, suck at that first location we're then making.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:16:57.331759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "monologuing",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:16:58.283759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:17:00.003759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:17:04.123759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Okay.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:17:08.838934",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:17:27.163759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "King about a 45 minute drive to the new location. Luckily it's a, a home usually goes a little bit quicker. I would push you closer to seven hours just to set proper expectations. If we do hit that on the.or come in under we should be looking at about 1550 or less.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:17:42.331759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:17:42.331759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Okay, 1.5 K or less and that's okay, so that's moving all of those items. Does the price go down if theoretically, like, I was to move like some of the boxes, some of the, like the accent chairs, like the light or stuff like that.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:18:00.438934",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah. Yeah, every, yeah, it's all, it's all relative at the time it actually takes so if you know, you do a lot of work, leaning up to that or even on the move day is completed in four hours, five hours. That's all you get billed for. We just wanna set proper pricing expectation. So you can budget for, you know, worst case scenario and there's no surprises on the day of.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:18:12.331759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:18:17.563759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Gotcha. So if it was to be, like, all of the items that we went over and then, it took that full-time it's probably like 1.5. K. And then depending on, cause like, if I'm moving some of the stuff myself makes the load a little lighter for you guys. It could be either, could be less because it'll basically take less. Yeah.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:18:32.238934",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:18:41.131759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Exactly. Yeah. The biggest thing that you can help out on exactly, the biggest thing is, you know, small miscellaneous stuff. If you want to save some time and money, anything that fits in your normal size vehicle, just go ahead and get that out of the way having boxes taped up clearly labeled in a good game plan of how you want items set up at the new location is just gonna save time. I've even seen customers go as far as, you know, disassembling the bed, they'll hander the reassembly. If you want to. Of course.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:18:45.931759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Okay.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:18:59.238934",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Okay, gotcha, okay cool no that's so good to know. Awesome how long do I have to like lock in this booking?",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:19:14.238934",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "positive_sentiment",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:19:14.238934",
+      "type": "moment"
+    },
+    {
+      "content": "Yup.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:19:20.131759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "support_issue_resolved",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:19:20.511934",
+      "type": "moment"
+    },
+    {
+      "content": "Right now the nineteenth we do have a few spots left but Saturdays do book up the quickest and it's just a couple of weeks out. Keep in mind we don't have any cancellation fees or rescheduling fees. We don't even hold a credit card to get you on the book. So if you wanted to you know get on the books think about it. That's perfectly up to you.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:19:24.331759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:19:28.483759",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Book up the book.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:19:31.038934",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Okay. Nice. Yeah, let me, let me think about it but I'll be, I'll be in touch like, probably like, yeah, after today or tomorrow. But this was so super helpful to get this like more dial down quote. Thank you.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:19:44.838934",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, yeah, happy to help. Well, I'll go ahead and get this shout over via email in the next couple of minutes. And just yeah, let us know how you'd like to proceed when we're ready.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:19:57.331759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Awesome, thank you. I appreciate it.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:20:04.638934",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "support_issue_resolved",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:20:05.911934",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "positive_sentiment",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:20:06.151934",
+      "type": "moment"
+    },
+    {
+      "content": "You're welcome, bye.",
+      "name": "Chris Anderson",
+      "time": "2026-09-04T17:20:07.531759",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCgvXB_ggM",
+      "content": "Okay, bye.",
+      "name": "John Kniffin",
+      "time": "2026-09-04T17:20:08.838934",
+      "type": "transcript"
+    }
+  ]
+}

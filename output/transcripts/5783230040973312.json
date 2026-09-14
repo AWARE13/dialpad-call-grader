@@ -1,0 +1,957 @@
+{
+  "call_id": "5871739384832000",
+  "lines": [
+    {
+      "content": "Good morning, this is Joanna. How can I help?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:17:31.220679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:17:31.220679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:17:31.220679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:17:31.220679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:17:31.220679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:17:31.220679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:17:31.220679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:17:32.937679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:17:33.777679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Hi, I'm calling to you know consult the pricing of my moving like for one B., one B. and in Austin.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:17:35.523111",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "call_purpose",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:17:35.523111",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "ner",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:17:46.604111",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, no worries. Let me check it for you. When are you planning to do this?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:17:48.020679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:17:52.297679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "August 29th.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:17:55.323111",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "date",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:17:55.323111",
+      "type": "moment"
+    },
+    {
+      "content": "August 29th which is a Saturday. Okay, and which the zip code are you coming from?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:17:58.220679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "date",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:17:58.220679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:18:03.817679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Zip code 78758.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:18:06.123111",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "postcode",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:18:08.484111",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, I'm going to.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:18:16.220679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Let me check going to.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:18:20.523111",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "So, it's very close. It's like ten minutes drive. It should be 78753.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:18:28.923111",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:18:30.620679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Got it. Thank you so much.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:18:34.820679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay. Yup. Upon checking here we should be good for the twenty ninth we still have availabilities. Now what I can do I can just create a profile for you, just ask you more questions about the move so we can provide you a more personalized estimate. Okay? Alright may I please have your email address?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:18:39.620679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Okay.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:18:46.323111",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Okay.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:18:55.323111",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "It's 71 @gmail.com D. E. V. I. N. L-A-N-Y-U, Devon Lau @gmail.com.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:19:00.723111",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "pii",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:19:02.044111",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "email_address",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:19:02.884111",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:19:07.220679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "email_address",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:19:11.444111",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, I'm sorry, I think I was lost. D-E-V-I-N-L-E-N-Y-U is that right?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:19:13.220679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "L-A-N-Y-U.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:19:19.923111",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and then mm-hmm, thank you. Is that your full name as well?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:19:24.020679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Seven lawn U. at @gmail.com.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:19:24.723111",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "email_address",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:19:27.284111",
+      "type": "moment"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:19:29.737679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "No, no, no that my full name is LAN, U-L-A-N-Y-U-Y-U.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:19:33.123111",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, got it thank you so much.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:19:40.220679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, and just a quick question, how did you hear about us?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:19:45.620679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:19:48.697679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "From social network.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:19:51.723111",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, thank you. One second here.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:19:54.020679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, so of course. I'll go ahead and send everything to you in an email as well after our call, may I please, may I please have your complete pickup address?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:20:03.620679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:20:05.497679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "So the pickup address is 3000 Gracie tots lane.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:20:16.323111",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "K-I-L-T-Z. Gracy. Kilts. Lane, so in Austin, yeah.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:20:26.523111",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:20:28.820679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "ner",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:20:33.764111",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you so much and is this an apartment?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:20:35.420679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:20:37.417679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Yes, it's a apartment building.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:20:39.723111",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you. And how many bedroom apartment are we coming from?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:20:42.020679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:20:45.097679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "One bedroom.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:20:46.923111",
+      "type": "transcript"
+    },
+    {
+      "content": "One bedroom, what's the square foot, inch?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:20:48.620679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:20:49.897679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Around 800 I guess.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:20:52.923111",
+      "type": "transcript"
+    },
+    {
+      "content": "800. Okay, that's fine. Aside from the one bedroom, and of course the typical living room, kitchen dining area. Do you have any extra rooms here for study office garage or balcony furniture? We also need to move.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:20:55.820679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Yeah.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:20:57.723111",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:21:04.097679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "No, no, no, like balcony or something. No.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:21:12.723111",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and in terms of the items we're moving anything oversized, like a piano workout equipment, or a safe.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:21:18.020679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Nothing like Diana we got a sofa and, and, you know, the desk and the king size bed. That's two, that's three significant things to move, I guess the rest are just boxes. Yeah.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:21:27.723111",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "ner",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:21:29.244111",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:21:31.220679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:21:32.297679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:21:36.620679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Of course.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:21:39.020679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay. I see. Okay, thank you so much for the information and which floor are you coming from?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:21:43.220679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:21:44.937679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:21:50.057679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "We live in sixteenth floor and we got out later, so no worries. Yeah.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:21:52.923111",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:21:56.420679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Of course so we can reserve the elevators as well, correct? Okay, alright, okay, that's good. Just an estimate. So you've mentioned a while ago we do have a bed, your bed and then you're in the in the bedroom aside from the bed, do we also have dressers in night sands to move?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:22:00.020679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Okay. Yup. Yup. Yeah, we already booked that. Yup.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:22:04.323111",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:22:04.617679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:22:11.137679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:22:20.577679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:22:22.497679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "I'm sorry, what is that?",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:22:24.723111",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "question",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:22:26.164111",
+      "type": "moment"
+    },
+    {
+      "content": "I'm sorry, aside from the bed, do we also have night stands dressers to move?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:22:27.020679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:22:29.057679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "No, no.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:22:33.723111",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and then in the living room, we have your couch, your table any other furniture T-V-T-V stand baby.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:22:35.420679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "No, no, no other furniture.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:22:46.323111",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. So just basically those three. Okay, and no appliance as well and typically for a one bedroom apartment usually we have about fifteen to 25 boxes. Are you just within that range or you'll have more?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:22:49.820679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:23:01.820679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "We'll. Yeah, that's all, that's all we got.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:23:05.523111",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, thank you.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:23:09.020679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Yeah, we haven't packed yet so I'm not sure but definitely under 25 boxes. Yeah.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:23:10.323111",
+      "type": "transcript"
+    },
+    {
+      "content": "Understood. Okay, that's perfect but you're good with packing. You're gonna handle that or do you need help with that as well?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:23:15.620679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Is that gonna mean extra fees on that and how much is that?",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:23:22.923111",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "question",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:23:22.923111",
+      "type": "moment"
+    },
+    {
+      "content": "Yup, it's just actually the same hourly rate so just really depending on how much you're packing for you and then for the supplies you only pay for what we use.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:23:27.620679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Okay.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:23:30.723111",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Yeah, I guess I guess it's so we were gonna do our own packing cause we have a lot of like delicate stuff. So we will do it ourselves. Yeah, yeah.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:23:39.123111",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:23:44.497679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Uh-huh.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:23:46.820679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see, understood, okay, no problem just one last question your LAN from where we can park from the loading dock to the freight elevator on the ground floor. How far are we gonna walk like one school does about thirty to forty feet, is it just within that range within that, this one?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:23:50.420679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "It's within, within ten steps. Yeah, it's very close. Yeah, yeah.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:24:09.723111",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, very close. That's good. And then once we get to the sixteenth floor how far is your door to the elevator?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:24:13.220679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "It's also close. It's like twenty seconds walk. Yeah.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:24:21.723111",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:24:23.420679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, got it. Thank you so pretty much about the school bus in terms of distance. Right?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:24:27.020679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Yeah, yeah, yeah.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:24:33.123111",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:24:34.820679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay. Let's see here. And then what's the address of your new apartment?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:24:37.820679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:24:40.937679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "It's actually not a new apartment, it's a U-Haul station and I booked through U-Haul bugs and I will request the movers to just move the boxes and all of that stuff into the U-Haul boxes. So the address is 10125.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:24:45.123111",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "North. Wait, sorry, give me one second. I understand. Okay, so it's 10125 north interstate highway 35.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:25:07.923111",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm I see. Okay, now I'm so sorry. I just wanna make sure once we unload it in the U-Haul is it going to be delivered to a different address, will it be traveling or is just staying there?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:25:23.420679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:25:34.697679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "It will be delivered to, to another state.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:25:42.123111",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:25:44.420679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see. Okay. I'm so sorry Lynne. I should have you know at least confirmed that a while ago we actually don't load up a third party vehicle or a new hall due to liability reasons so, I'm afraid we won't be able to help out with this move since it's traveling. So we usually just use our own truck but we don't do interstate or if it's just like a storage. Yeah.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:25:46.820679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Oh.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:26:06.723111",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "No, no, no. I mean you just, you just need to move it to the box and then it's it my stuff and I got ticket over so yeah.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:26:14.523111",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, sir. Yes sir. Even if it's that's just like that we actually don't load up pods U. has that will be that it will eventually be traveling interstate or long-distance.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:26:25.220679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Okay, but it's none of your responsibility when I, after you move it to the box you still cannot take that.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:26:39.723111",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:26:40.137679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:26:40.820679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:26:45.020679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Understood. I can check with our branch if they will give me an approval if that's okay. But yeah, in general we actually don't do this kind of moves.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:26:47.420679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Okay, okay. Sure, sure. Yeah. Let me know after you check with them and yeah. I thank you, thank you. I heard good reviews from you for, for your business. So, I that's why you, you're the first one I call and. Yeah, thank you. Mm-hmm.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:26:59.523111",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:27:01.220679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Yup, sure, sure.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:27:05.420679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I'll let you know.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:27:09.620679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "issue_unresolved",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:27:09.620679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm of course, understood. Yeah, yeah, basically it's just really more on the liability. But I do understand that you also understand that we're not liable just in case was on transit to another answers. I mean, another state but yeah. Let me just go ahead and check if that's something that we can help you with and I'll let you know, okay? Alright, thank you so much. Mm-hmm bye.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:27:14.420679",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "issue_unresolved",
+      "name": "Joanna Ballon",
+      "time": "2026-08-20T16:27:34.537679",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8wa6bqgoM",
+      "content": "Okay, cool, cool, thank you. Thank you. Mm-hmm. Mm-hmm. Thank you, bye.",
+      "name": "Lan Yu Yu",
+      "time": "2026-08-20T16:27:36.123111",
+      "type": "transcript"
+    }
+  ]
+}

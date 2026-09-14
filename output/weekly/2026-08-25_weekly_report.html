@@ -1,0 +1,556 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Einstein Sales Call Grading &mdash; Week of 2026-08-25</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: #f4f5f7; color: #1c2434;
+    font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 15px; line-height: 1.5;
+  }
+  .wrap { max-width: 1240px; margin: 0 auto; padding: 0 20px 64px; }
+  header { background: #E8630A; color: #fff; padding: 28px 0 24px; margin-bottom: 28px; }
+  header .wrap { padding-bottom: 0; }
+  header h1 { margin: 0 0 4px; font-size: 26px; font-weight: 700; letter-spacing: -0.01em; }
+  header p { margin: 0; opacity: .92; font-size: 15px; }
+  h2 { font-size: 18px; margin: 34px 0 12px; color: #1c2434; }
+  h2 .sub { font-weight: 400; color: #6b7280; font-size: 14px; margin-left: 8px; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(178px, 1fr)); gap: 14px; }
+  .card { background: #fff; border-radius: 8px; padding: 16px 18px; border: 1px solid #e4e7ec;
+           box-shadow: 0 1px 2px rgba(16,24,40,.05); }
+  .card .label { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: #6b7280;
+                  font-weight: 600; margin-bottom: 6px; }
+  .card .value { font-size: 30px; font-weight: 700; line-height: 1.1; }
+  .card .note { font-size: 13px; color: #6b7280; margin-top: 4px; }
+  .green { color: #067647; } .amber { color: #b54708; } .red { color: #b42318; }
+  td.score { font-weight: 700; text-align: center; font-variant-numeric: tabular-nums; }
+  td.score.green { background: #ecfdf3; } td.score.amber { background: #fffaeb; }
+  td.score.red { background: #fef3f2; } td.score.none { color: #cbd2dc; background: #fafbfc; }
+  .panel { background: #fff; border: 1px solid #e4e7ec; border-radius: 8px; overflow: hidden;
+            box-shadow: 0 1px 2px rgba(16,24,40,.05); }
+  .scroller { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th { background: #fafbfc; text-align: left; padding: 10px 12px; font-size: 12px;
+        text-transform: uppercase; letter-spacing: .05em; color: #6b7280; font-weight: 600;
+        border-bottom: 1px solid #e4e7ec; white-space: nowrap; }
+  td { padding: 11px 12px; border-bottom: 1px solid #f0f1f4; vertical-align: top; }
+  tr:last-child td { border-bottom: none; }
+  td.rep { font-weight: 600; white-space: nowrap; }
+  td.rep .branch { display: block; font-weight: 400; font-size: 12px; color: #6b7280; }
+  td.txt { font-size: 13px; color: #344054; min-width: 260px; }
+  td.coach { color: #7a3a06; }
+  td.mono { font-variant-numeric: tabular-nums; white-space: nowrap; }
+  td.dim { color: #6b7280; }
+  td.pres { text-align: center; font-variant-numeric: tabular-nums; color: #475467; }
+  .wt { font-size: 10px; background: #eef2ff; color: #3538cd; border-radius: 3px;
+         padding: 1px 4px; vertical-align: super; font-weight: 700; }
+  .flag { color: #b54708; }
+  .barcell { width: 190px; }
+  .bar { background: #f0f1f4; border-radius: 3px; height: 8px; overflow: hidden; }
+  .bar span { display: block; height: 100%; border-radius: 3px; }
+  .bar span.green { background: #17b26a; } .bar span.amber { background: #f79009; }
+  .bar span.red { background: #f04438; }
+  .callout { background: #fff; border-left: 4px solid #E8630A; border-radius: 6px;
+              padding: 16px 20px; margin: 14px 0; border-top: 1px solid #e4e7ec;
+              border-right: 1px solid #e4e7ec; border-bottom: 1px solid #e4e7ec; }
+  .callout h3 { margin: 0 0 6px; font-size: 15px; }
+  .callout p { margin: 0 0 8px; font-size: 14px; color: #344054; }
+  .callout p:last-child { margin-bottom: 0; }
+  .note-box { background: #fffaeb; border: 1px solid #fedf89; border-radius: 6px;
+               padding: 14px 18px; font-size: 13.5px; color: #7a3a06; margin: 14px 0; }
+  footer { margin-top: 40px; padding-top: 18px; border-top: 1px solid #e4e7ec;
+            font-size: 12.5px; color: #6b7280; }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>Sales Call Grading &mdash; Week of 2026-08-25</h1>
+    <p>Dialpad AI audit &middot; 59 calls pulled &middot; 49 graded &middot; 10 skipped as non-sales</p>
+  </div>
+</header>
+<div class="wrap">
+
+  <div class="cards">
+    <div class="card">
+      <div class="label">Avg &mdash; full sales calls</div>
+      <div class="value red">42.7</div>
+      <div class="note">out of 85 &middot; n=46</div>
+    </div>
+    <div class="card">
+      <div class="label">Gap to green bar</div>
+      <div class="value red">&minus;22.3</div>
+      <div class="note">green bar = 65, super green = 75</div>
+    </div>
+    <div class="card">
+      <div class="label">Mastery (77+)</div>
+      <div class="value red">0</div>
+      <div class="note">of 49 graded calls</div>
+    </div>
+    <div class="card">
+      <div class="label">Reps graded</div>
+      <div class="value">28</div>
+      <div class="note">49 scored calls</div>
+    </div>
+    <div class="card">
+      <div class="label">Vs. cumulative avg</div>
+      <div class="value red">-3.1</div>
+      <div class="note">prior cumulative was 45.8</div>
+    </div>
+    <div class="card">
+      <div class="label">Phone presence</div>
+      <div class="value amber">3.2</div>
+      <div class="note">of 5 &middot; 25 flagged for audio</div>
+    </div>
+  </div>
+
+  <div class="note-box">
+    <strong>Read this before comparing scores.</strong> The 3 walkthrough-scheduler calls
+    (marked <span class="wt">W</span>) score against a partial rubric &mdash; Pricing, Clock, Estimate and
+    Save Your Ass do not apply, so those points are granted automatically. Their 66.3 average is
+    <em>not</em> comparable to a full sales call. The headline number above is full sales calls only.
+  </div>
+
+  <div class="callout">
+    <h3>Top performer &mdash; Bri Boyce Newbro (63.5 avg, 2 calls)</h3>
+    <p>Textbook differentiator block delivered early and completely — No Worries damage coverage with the 60c/lb competitor contrast, Meet Your Mover, and the On-Time Guarantee, all before pricing. She also built the estimate transparently, naming the exact factors driving 7-8 hours (third-floor origin, parking/loading dock risk, 23rd-floor destination, 50-foot walk) instead of just dropping a number.</p>
+    <p><em>Still short of the 65-point green bar &mdash; nobody cleared it this week.</em></p>
+  </div>
+
+  <div class="callout">
+    <h3>Coaching priority &mdash; Jules Nicolas (21.0 avg)</h3>
+    <p>This move is going into an apartment — unit 3309 — and Jules quoted $580-$883 without ever asking what floor it&#x27;s on, whether there&#x27;s an elevator, how far the walk from the truck is, or whether the building requires a COI. That is the exact scenario where a 2.5-4 hour estimate blows past 6 hours and the customer feels bait-and-switched. Before any number leaves his mouth, Jules needs to run the access block: floor, elevator vs. stairs, parking/loading distance, building rules. Second priority: he quoted a total but never a per-mover hourly rate, so Charles has no framework for why the range moves — pair the access questions with &#x27;pricing is super simple, it&#x27;s $X per mover per hour and here&#x27;s what&#x27;s included.&#x27;</p>
+  </div>
+
+  <div class="callout">
+    <h3>#1 company-wide gap &mdash; Save Your Ass (12% of available points)</h3>
+    <p>Across 46 full sales calls the team averaged 1.2 of 10 points here.
+    The prep speech is the single highest-leverage section for move efficiency &mdash; it is the direct lever on
+    estimate accuracy, and it is being skipped on 91% of calls.</p>
+  </div>
+
+  <h2>Differentiator hit rates <span class="sub">this run vs. all-time</span></h2>
+  <div class="panel"><div class="scroller"><table>
+    <thead><tr><th>Differentiator</th><th>This run</th><th>Hits</th><th>All-time</th><th>All-time hits</th></tr></thead>
+    <tbody>
+      <tr>
+        <td class="rep">Agenda Opener</td>
+        <td class="score red">10%</td>
+        <td class="mono">5 / 49</td>
+        <td class="mono dim">10%</td>
+        <td class="mono dim">33 / 316</td>
+      </tr>
+      <tr>
+        <td class="rep">Save Your Ass</td>
+        <td class="score red">8%</td>
+        <td class="mono">4 / 49</td>
+        <td class="mono dim">7%</td>
+        <td class="mono dim">23 / 316</td>
+      </tr>
+      <tr>
+        <td class="rep">Meet Your Mover</td>
+        <td class="score red">27%</td>
+        <td class="mono">13 / 49</td>
+        <td class="mono dim">22%</td>
+        <td class="mono dim">71 / 316</td>
+      </tr>
+      <tr>
+        <td class="rep">On-Time Guarantee</td>
+        <td class="score red">27%</td>
+        <td class="mono">13 / 49</td>
+        <td class="mono dim">19%</td>
+        <td class="mono dim">61 / 316</td>
+      </tr>
+      <tr>
+        <td class="rep">Email Handoff</td>
+        <td class="score green">71%</td>
+        <td class="mono">35 / 49</td>
+        <td class="mono dim">76%</td>
+        <td class="mono dim">240 / 316</td>
+      </tr>
+    </tbody>
+  </table></div></div>
+
+  <h2>Section performance <span class="sub">full sales calls only, n=46</span></h2>
+  <div class="panel"><div class="scroller"><table>
+    <thead><tr><th>Section</th><th>Avg</th><th>%</th><th></th></tr></thead>
+    <tbody>
+      <tr>
+        <td class="rep">Set the Agenda</td>
+        <td class="mono">4.0 / 7</td>
+        <td class="score amber">57%</td>
+        <td class="barcell"><div class="bar"><span class="amber" style="width:57%"></span></div></td>
+      </tr>
+      <tr>
+        <td class="rep">Probe / Pain Points</td>
+        <td class="mono">5.0 / 9</td>
+        <td class="score amber">56%</td>
+        <td class="barcell"><div class="bar"><span class="amber" style="width:56%"></span></div></td>
+      </tr>
+      <tr>
+        <td class="rep">Pricing + Differentiators</td>
+        <td class="mono">10.8 / 20</td>
+        <td class="score amber">54%</td>
+        <td class="barcell"><div class="bar"><span class="amber" style="width:54%"></span></div></td>
+      </tr>
+      <tr>
+        <td class="rep">Clock</td>
+        <td class="mono">2.3 / 4</td>
+        <td class="score amber">57%</td>
+        <td class="barcell"><div class="bar"><span class="amber" style="width:57%"></span></div></td>
+      </tr>
+      <tr>
+        <td class="rep">Estimate</td>
+        <td class="mono">8.1 / 13</td>
+        <td class="score amber">62%</td>
+        <td class="barcell"><div class="bar"><span class="amber" style="width:62%"></span></div></td>
+      </tr>
+      <tr>
+        <td class="rep">Save Your Ass</td>
+        <td class="mono">1.2 / 10</td>
+        <td class="score red">12%</td>
+        <td class="barcell"><div class="bar"><span class="red" style="width:12%"></span></div></td>
+      </tr>
+      <tr>
+        <td class="rep">Quote / Booking</td>
+        <td class="mono">4.6 / 11</td>
+        <td class="score red">42%</td>
+        <td class="barcell"><div class="bar"><span class="red" style="width:42%"></span></div></td>
+      </tr>
+      <tr>
+        <td class="rep">Politeness</td>
+        <td class="mono">2.2 / 3</td>
+        <td class="score green">75%</td>
+        <td class="barcell"><div class="bar"><span class="green" style="width:75%"></span></div></td>
+      </tr>
+      <tr>
+        <td class="rep">Bonus / Helpfulness</td>
+        <td class="mono">4.4 / 8</td>
+        <td class="score amber">55%</td>
+        <td class="barcell"><div class="bar"><span class="amber" style="width:55%"></span></div></td>
+      </tr>
+    </tbody>
+  </table></div></div>
+
+  <h2>Per-rep results <span class="sub">ranked by average &middot; <span class="wt">W</span> = walkthrough scheduler (partial rubric) &middot; &#9834; = flagged for audio review</span></h2>
+  <div class="panel"><div class="scroller"><table>
+    <thead><tr><th>Rep</th><th>Call 1</th><th>Call 2</th><th>Avg</th><th>Pres.</th><th>Top strength</th><th>Coaching note</th></tr></thead>
+    <tbody>
+      <tr>
+        <td class="rep">Dustin Street<span class="branch">San Antonio</span></td>
+        <td class="score amber">70 <span class="wt">W</span></td><td class="score none">&mdash;</td>
+        <td class="score amber">70</td>
+        <td class="pres">4.0</td>
+        <td class="txt">Excellent, honest resource-sizing judgment: he caught that a 2200 sqft home with only ~25 boxes doesn&#x27;t match the standard two-truck/four-mover build and routed to a virtual walkthrough specifically so the customer wouldn&#x27;t be over-resourced. He also refused to promise a weekend slot he couldn&#x27;t guarantee, which built real trust.</td>
+        <td class="txt coach">The scheduling handoff undid the good work. Dustin sold the walkthrough well and the customer said yes twice, but the call ended with no date, no time, and no confirmation email — just &#x27;someone will be in touch before 4:30.&#x27; On a walkthrough-scheduler call the booked appointment IS the close: pin a specific day and time window on the call (or warm-transfer to whoever can), then send a confirmation email with the time, the Zoom link, and a &#x27;reply if that doesn&#x27;t work.&#x27; Same call, tighten the front end too — he never once asked the move date, so he has no idea if this move is even in an available window.</td>
+      </tr>
+      <tr>
+        <td class="rep">Bri Boyce Newbro<span class="branch">Houston</span></td>
+        <td class="score amber">70</td><td class="score red">57</td>
+        <td class="score amber">64</td>
+        <td class="pres">4.0</td>
+        <td class="txt">Textbook differentiator block delivered early and completely — No Worries damage coverage with the 60c/lb competitor contrast, Meet Your Mover, and the On-Time Guarantee, all before pricing. She also built the estimate transparently, naming the exact factors driving 7-8 hours (third-floor origin, parking/loading dock risk, 23rd-floor destination, 50-foot walk) instead of just dropping a number.</td>
+        <td class="txt coach">This call was sold but never closed. Bri did the hard part — full differentiators, clean clock explanation, a 6-7 hour estimate with the reasoning shown, no deposit — and then handed the booking back to the customer: &#x27;give us a callback or you can respond to the email that you would like to book.&#x27; A first-time mover who said Einstein is the highest-rated company in San Antonio was ready to be asked. She should have said &#x27;I&#x27;ve got Wednesday the 30th open right now, and since there&#x27;s no deposit and no cancellation fee, there&#x27;s zero risk in locking it in — want me to put you on the schedule?&#x27; Second, related fix: use the customer&#x27;s name. Kaitlyn&#x27;s name never appears once in 11.7 minutes while the customer used Bri&#x27;s name twice.</td>
+      </tr>
+      <tr>
+        <td class="rep">Jeline Lavarias <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">North Austin</span></td>
+        <td class="score amber">65 <span class="wt">W</span></td><td class="score red">49</td>
+        <td class="score red">57</td>
+        <td class="pres">3.0</td>
+        <td class="txt">Clean, accurate intake under time pressure at the end of the day — she captured both addresses with zips and spellings, both home sizes, single-level status at origin and destination, the two-day pack-and-move dates, and confirmed the customer&#x27;s previously quoted rates were accurate. She also closed with a concrete, unambiguous next step: Friday 10:00 AM, text link, click it and someone joins by video.</td>
+        <td class="txt coach">This call had the single clearest Save Your Ass opening of any call this week and Jeline walked right past it. The customer literally said &#x27;I&#x27;m really only hiring movers for the big pieces of furniture&#x27; and &#x27;I also have some things that I&#x27;ll take from Brighton to Majestic&#x27; — she is already prep-minded and cost-conscious. That is the exact moment to run the prep speech: consolidate loose drawer items, pull photos off the walls, box up the small stuff, take a carload yourself, and it shortens the move and lowers the bill. On a 4.5-5.5 hour three-stop job, that speech is worth real dollars to the customer and real time to the crew. Add it right after the estimate, before the booking, and close it with &#x27;does that make sense?&#x27;</td>
+      </tr>
+      <tr>
+        <td class="rep">Nicole Cruz <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">Dallas</span></td>
+        <td class="score red">49</td><td class="score amber">62</td>
+        <td class="score red">56</td>
+        <td class="pres">3.0</td>
+        <td class="txt">The pricing and clock block was near-flawless — she ran the &#x27;pricing is super simple&#x27; opener, the $192/hr two-mover rate, the full inclusions list, the complete no-hidden-fees pitch, and all three differentiators (No Worries, Meet Your Mover, On-Time Guarantee) in one clean, uninterrupted stretch, then rolled straight into clock start, 2.5-hour minimum and 15-minute proration with a sense-check. She also handled the customer&#x27;s estimate pushback well — instead of caving or restating, she showed her math (two hours to load and unload, padded for the 25-minute drive), which held the quote without friction.</td>
+        <td class="txt coach">She quoted a dollar range without ever saying the hourly rate — the customer heard &#x27;$714 to $918&#x27; with no idea what an hour costs, which makes the bill feel arbitrary if the move runs long. Pair every estimate with the rate per mover per hour, what that rate already includes, and the no-hidden-fees list, then run the Save Your Ass prep speech (consolidate the garage boxes and Christmas decorations, take a carload of loose items) — on this exact move that speech is the difference between the 3.5-hour end and the 4.5-hour end of her own range.</td>
+      </tr>
+      <tr>
+        <td class="rep">Chauny Shivers <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">Tampa</span></td>
+        <td class="score red">55</td><td class="score none">&mdash;</td>
+        <td class="score red">55</td>
+        <td class="pres">4.0</td>
+        <td class="txt">Excellent budget-conscious selling — after hearing that total cost was the whole reason for the call, she proactively volunteered that moving to a Monday-Thursday value day saves $36-45, then stacked the no-deposit and no-change-fee messaging on top. Her handling of the customer&#x27;s confusion about whether the $200/hr was on top of the $980-1180 was clear, patient, and completely resolved it.</td>
+        <td class="txt coach">This call died at the close. Michelle was warm, agreed to everything, and Chauny even told her &#x27;we do have two trucks left on this particular day&#x27; — a scarcity cue with no ask attached to it. She let the customer leave to &#x27;finalize with the other party&#x27; without ever saying &#x27;there&#x27;s no deposit, let me hold that truck for you now and you can move or cancel it for free once you confirm.&#x27; Every ingredient for that ask was already on the table. Pair that with a real close sequence: book attempt, then &#x27;reply to the email with any corrections,&#x27; then hours and callback number, then &#x27;any other questions before I let you go?&#x27; She scored 3/11 on Quote/Booking on a call she had genuinely earned.</td>
+      </tr>
+      <tr>
+        <td class="rep">Erik Orama <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">McKinney</span></td>
+        <td class="score red">45</td><td class="score amber">64 <span class="wt">W</span></td>
+        <td class="score red">54</td>
+        <td class="pres">3.5</td>
+        <td class="txt">Erik handled an awkward duplicate-lead situation with real grace — he acknowledged the possible double-contact, explicitly protected the other rep (&#x27;I&#x27;ll just reach out to him and make sure he gets that over to you&#x27;), and the customer ended the call volunteering praise for how thorough Einstein is. He also proactively suggested checking the spam folder before assuming the estimate was never sent.</td>
+        <td class="txt coach">Erik did the work to earn the booking and then never asked for it. He had already told Alexander that September 1 had &#x27;plenty of availability,&#x27; and when Alexander said &#x27;I&#x27;ll share this info with my wife and I&#x27;ll call back,&#x27; Erik&#x27;s entire response was &#x27;sounds good, I&#x27;ll email this over.&#x27; That is the moment to ask: &#x27;We&#x27;ve got September 1 open — I can hold it for you at no deposit, nothing charged today, and if you and your wife change your mind you just call me.&#x27; Compounding it, the wife is going to be shown a price and nothing else, because Erik never gave her a reason to pick Einstein — no No Worries $2,000 coverage, no Meet Your Mover, no On-Time Guarantee. On a price-only comparison Einstein loses to whoever quotes lower. Next call: land the three differentiators before the dollar figures, then make an explicit no-deposit booking ask before letting anyone off the phone.</td>
+      </tr>
+      <tr>
+        <td class="rep">Therese Ablang <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">Houston</span></td>
+        <td class="score red">54</td><td class="score none">&mdash;</td>
+        <td class="score red">54</td>
+        <td class="pres">3.0</td>
+        <td class="txt">The pricing and differentiator block was near-complete and script-accurate: &#x27;pricing is super simple,&#x27; $95/mover/hr with best-value day tiers, trip fee, No Worries $2,000 with the 60c/lb competitor contrast, Meet Your Mover, On-Time Guarantee, no-hidden-fees, and the full clock explanation with a &#x27;does that all make sense?&#x27; check — and the quote math was internally correct ($475/hr x 7-8 hrs + $210 travel = $3,535-$4,010). She also opened by asking what the customer&#x27;s biggest concerns were and followed up on prior bad experiences, drawing out a real story (broken TVs, a mover stepping on her kid) and responding with genuine empathy.</td>
+        <td class="txt coach">She surfaced the customer&#x27;s exact agenda in the first two minutes — &#x27;efficiency, timing, handling of furniture, and pricing&#x27; — and then never delivered against it. Save Your Ass IS the efficiency-and-price answer, and it was completely absent on a 7-8 hour, $3,500-4,000, 3-story, 140-180 box job. Worse, when the customer handed her a live close (&#x27;My daughter is home right now she can do it&#x27;), she said &#x27;we can schedule that today,&#x27; pivoted into the pricing pitch, and never returned — the walkthrough went unbooked and the customer had to end the call by deferring it herself. Coach the discipline of parking a live buying signal out loud (&#x27;perfect, let me lock that in right now, then I&#x27;ll walk you through pricing&#x27;) and of routing every named concern back into a script section before moving on.</td>
+      </tr>
+      <tr>
+        <td class="rep">Amy Arbasa <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">Dallas</span></td>
+        <td class="score red">51</td><td class="score none">&mdash;</td>
+        <td class="score red">51</td>
+        <td class="pres">3.0</td>
+        <td class="txt">The estimate build was genuinely well-constructed: she laid out all three day-of-week rates unprompted, flagged Sunday as the cheapest option in the customer&#x27;s interest, then named the third-floor unit as the specific reason to budget 3 to 3.5 hours and gave a real dollar range ($666-$777) rather than a single number.</td>
+        <td class="txt coach">Amy sold the price well and skipped everything that protects the price. On a 3-hour, $666-$777 Saturday job with a third-floor walk-up-by-elevator, the Save Your Ass speech is the single highest-leverage 60 seconds on the call and she gave zero of it — no consolidation examples, no &#x27;take a carload,&#x27; no connection between prep and a shorter bill. Add to that: No Worries coverage, Meet Your Mover, and the On-Time Guarantee were all absent, so a repeat customer who already likes Einstein got no reason to believe Einstein is better than the next quote. Her own instinct is the fix — she asked &#x27;what are your biggest concerns?&#x27; and he told her the date was the whole issue, then she talked past his stated Saturday preference (&#x27;so let&#x27;s just do Friday then... Or Saturday&#x27;) and had to self-correct. Slow down at the two moments that matter: confirm the date he actually picked, then run the prep speech before you send the email.</td>
+      </tr>
+      <tr>
+        <td class="rep">Khevan Dueck<span class="branch">McKinney</span></td>
+        <td class="score red">51</td><td class="score none">&mdash;</td>
+        <td class="score red">51</td>
+        <td class="pres">3.0</td>
+        <td class="txt">The pricing and clock walkthrough was genuinely excellent — he built the estimate out loud with transparent math ($109/hr per mover, 4 movers, 6 hrs pack + 7.5 hrs move + $150 materials = $6,036), explained that materials are the only line outside the hourly rate and that unused boxes aren&#x27;t charged, and closed with &#x27;you&#x27;re charged only for time used&#x27; plus a sense-check. He also handled two genuinely unusual asks — loading a third-party pod and moving loaded dressers — by explaining the liability waiver clearly instead of just saying no, and correctly declined the 1,200 lb Liberty safe on safe-working-load grounds.</td>
+        <td class="txt coach">This customer told you flat out she was taking your numbers to her husband and getting one more bid — and you gave her nothing but a price to compare. All four Einstein differentiators went unsaid: No Worries $2,000 coverage, Meet Your Mover, the On-Time Guarantee, and no deposit. That&#x27;s the worst possible call to leave them out of, because the competitor&#x27;s quote will be a number too, and a number is the only thing she can weigh. The No Worries miss is the sharpest one — she brought up liability herself twice (the pod waiver and the dresser drawers), and both times you explained what Einstein does NOT cover without ever telling her what it DOES. Then you closed with &#x27;I&#x27;m happy to follow your lead on that&#x27; instead of asking for Sept 4-5. Next call: when a customer signals they&#x27;re comparison shopping, that&#x27;s the trigger to run the full differentiator block, state &#x27;no deposit to hold the date,&#x27; and then actually ask for the booking.</td>
+      </tr>
+      <tr>
+        <td class="rep">Cameron Klepac <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">San Antonio</span></td>
+        <td class="score red">50</td><td class="score none">&mdash;</td>
+        <td class="score red">50</td>
+        <td class="pres">3.0</td>
+        <td class="txt">The discovery block was genuinely thorough and well-sequenced — he pulled the quote form up front, confirmed both addresses and floors, probed heavy/fragile items, walk distance to the elevator at both ends, loading dock and parking access, extra rooms, extra stops, and then drilled into kitchen density (&#x27;is every drawer and cupboard full?&#x27;) to size the packing job. That specificity is what let him build a defensible 3-hour packing allocation instead of guessing.</td>
+        <td class="txt coach">When the customer said &#x27;I have a call at three, I need to hop off,&#x27; Cameron answered &#x27;I&#x27;ll make it quicker than that&#x27; and then delivered pricing, clock, perks, estimate and scheduling as one uninterrupted ~400-word monologue — she said &#x27;Okay&#x27; fifteen times and booked nothing. Speed is not the same as compression. The fix is to cut, not to talk faster: on a time-boxed call, keep the estimate reasoning and the Save Your Ass prep speech (which vanished entirely here and is the section that actually lowers her bill), and drop the detail. And build in a sense-check after the clock explanation — &#x27;does that make sense so far?&#x27; — because that is the one moment where a string of &#x27;okay&#x27;s would have told him whether she was following or just waiting for him to finish.</td>
+      </tr>
+      <tr>
+        <td class="rep">Chris Beattie <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">Dallas</span></td>
+        <td class="score red">53</td><td class="score red">45</td>
+        <td class="score red">49</td>
+        <td class="pres">3.5</td>
+        <td class="txt">Outstanding budget-conscious framing — when Jill floated a $6,500 number, Chris ran a real worked example (four-man team, six hours each day, ~$300 in materials, $150 trip fee) landing near $5,000, and honestly told her he did not think it would hit fourteen hours instead of letting her over-budget. He also handled the 500 lb solid-wood island proactively with dollies and the lift gate, which visibly relieved a concern she had raised herself.</td>
+        <td class="txt coach">Angela told you &#x27;this is my first time making a move&#x27; and then walked off the call to price two competitors — that was the whole opportunity and it went by untouched. A first-time mover is exactly who the Save Your Ass prep speech, No Worries coverage, and Meet Your Mover are built for, and none of the three got said. Next call: when a customer flags they&#x27;re new to this, stop and say &#x27;let me tell you what I&#x27;d tell a friend moving for the first time,&#x27; run the prep speech, then close on it — &#x27;we&#x27;ve got the 24th open, there&#x27;s no deposit and no cancellation fee, want me to hold it for you?&#x27; You already had the availability and the no-deposit angle in hand; you just never asked for the booking.</td>
+      </tr>
+      <tr>
+        <td class="rep">Chris Anderson<span class="branch">South Austin</span></td>
+        <td class="score red">50</td><td class="score red">44</td>
+        <td class="score red">47</td>
+        <td class="pres">3.5</td>
+        <td class="txt">Excellent real-time re-qualification: he opened with a date problem (&#x27;we&#x27;re fully booked up for the twenty eighth&#x27;), heard it was only a few furniture items, and immediately reversed to &#x27;well that changes things, we might be able to get you in on the twenty eighth&#x27; — then asked for the booking directly and steered her to the earlier window specifically so the possible extra stop wouldn&#x27;t push the crew into the evening.</td>
+        <td class="txt coach">Chris ran a strong discovery and estimate but sold zero differentiators and never asked for the business - and this was the call to do both on. The customer volunteered &#x27;we&#x27;re just getting a couple of different quotes right now,&#x27; which is the buying signal to counter with No Worries Damage Coverage, Meet Your Mover, the On-Time Guarantee and no deposit, then close with &#x27;we&#x27;re wide open on the 26th - want me to hold it? There&#x27;s no deposit and no fee to reschedule.&#x27; He already had the no-reschedule-fee line in hand and used it as a fun fact instead of a closing tool. Second priority: the customer literally opened with &#x27;how many hours to ask for&#x27; - that is a direct invitation to run the Save Your Ass prep speech (consolidate loose items, take a carload), and it was skipped entirely.</td>
+      </tr>
+      <tr>
+        <td class="rep">Roselyn Pammit <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">North Austin</span></td>
+        <td class="score amber">60</td><td class="score red">34</td>
+        <td class="score red">47</td>
+        <td class="pres">2.5</td>
+        <td class="txt">The pricing block was excellent and near-complete — &#x27;super simple&#x27; opener, day-of-week hourly tiers ($104 Tue-Thu vs $110 Friday), the full inclusions list, trip fee, all three differentiators (No Worries, Meet Your Mover, On-Time Guarantee), the no-hidden-fees pitch, and the entire clock explanation with a sense-check, delivered in one clean uninterrupted stretch. She also asked for the business directly — &#x27;Would you like me to lock that in for you?&#x27; — and closed a two-day pack-and-move booking.</td>
+        <td class="txt coach">The single biggest fix is the opening 60 seconds. This call started with a garbled, unidentified greeting — the customer asked &#x27;who are you?&#x27; and &#x27;is this Joanna?&#x27; and Roselyn spent the next minute spelling her own last name instead of confirming she was speaking with Tiffany about her Aug 30 move. That opener cost her the customer&#x27;s confidence for the whole call, which is why Tiffany drove every remaining topic (hourly rate, truck size, payment method, mover contact) instead of Roselyn. Drill the scripted open: clear company + name ID, confirm the customer&#x27;s name and use it, &#x27;how are you today?&#x27;, recap the move on file, then the agenda statement and &#x27;sound good?&#x27;. Second fix, same call: the Clock section was skipped entirely and the minimum was misquoted as two hours instead of 2.5 — that is a factual error that will surface on the invoice.</td>
+      </tr>
+      <tr>
+        <td class="rep">Hector Zavala<span class="branch">McKinney</span></td>
+        <td class="score red">48</td><td class="score red">43</td>
+        <td class="score red">46</td>
+        <td class="pres">4.0</td>
+        <td class="txt">The estimate build was genuinely strong: he gave a real time range (2.5–3.5 hrs), named movers and truck count, explained the 2.5-hour minimum with 15-minute prorating, then explicitly padded to 3 hours and told the customer why — wiggle room to help his mom place furniture. He also proactively cleared the trip fee once he had both addresses and handled the No Worries coverage twice, in plain language, with a sense-check.</td>
+        <td class="txt coach">Hector left roughly 20 points on the table by skipping two entire pitches he had a natural opening for. When the customer asked &#x27;do I still have to go on the website and finish all the steps?&#x27;, he answered with Meet Your Mover and the day-before text but never mentioned No Worries Damage Coverage or the On-Time Guarantee — on a move where she is boxing her own belongings and going up to a 4th floor, the $2,000 coverage is the exact reassurance she needed. Bigger still: the Save Your Ass prep speech was never delivered on a move he himself estimated at 4 hours, where consolidating drawers and taking a carload would have directly cut her bill. Fix the front of the call too — open with the agenda statement and a &#x27;sound good?&#x27;, and ask about the elevator and box count before quoting, because a 4th-floor walk-up would blow the 4-hour estimate apart.</td>
+      </tr>
+      <tr>
+        <td class="rep">Calvin Hughes <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">South Austin</span></td>
+        <td class="score red">45</td><td class="score none">&mdash;</td>
+        <td class="score red">45</td>
+        <td class="pres">3.0</td>
+        <td class="txt">The clock and cost mechanics were clear and honest — on-site start, 2.5-hour minimum, 15-minute increments — and when Scott pushed back that 5-7 hours was low, Calvin immediately produced the 8-hour number ($1,814, trip fee included) instead of defending his own estimate.</td>
+        <td class="txt coach">Calvin let the customer correct his estimate. He quoted 5-7 hours for a 2BR apartment the customer explicitly described as &#x27;a three bedroom set up,&#x27; with 50 boxes, a heavy fold-up treadmill, pedestal front-loaders and a one-hour drive — and Scott had to say &#x27;I don&#x27;t want to short change ourselves&#x27; before the 8-hour number appeared. Because he skipped the probe questions (packing help, garage/storage, origin parking and walk distance, additional stops), he had no basis to price the job upward himself. Work the full probe list first, then quote the top of the range and let prep talk bring it down — that&#x27;s the estimate-accuracy rock in one call.</td>
+      </tr>
+      <tr>
+        <td class="rep">Jack Davis<span class="branch">Dallas</span></td>
+        <td class="score red">45</td><td class="score red">45</td>
+        <td class="score red">45</td>
+        <td class="pres">3.0</td>
+        <td class="txt">Jack answered the customer&#x27;s real question before anything else and answered it with math, not reassurance — walking through load time to show that a morning start still lands the unload at 12:30-1:00, inside the building&#x27;s 12-9pm window. He then delivered a genuine Save Your Ass prep speech (box everything, take the hanging clothes and artwork in your car, boxes-and-furniture moves fastest) and adjusted the software&#x27;s 6-hour autobooking estimate up to 6-7 hours for the third-floor walk-up.</td>
+        <td class="txt coach">This call had a wide-open door for the differentiators and Jack walked past it twice. The customer&#x27;s entire reason for calling was arrival timing at a building with a 12-9pm delivery window — that is the On-Time Guarantee pitch handed to him on a plate. Then the customer said out loud that the furniture protection &#x27;is nice,&#x27; which is the No Worries Damage Coverage + 60c/lb explanation handed to him a second time. He answered neither. Add to that: he quoted $204/hr without ever saying how many movers that buys. Coach Jack to treat post-booking confirmation calls as full sales calls — customer question first (he does this well), then rate WITH crew size, what&#x27;s included, No Worries, Meet Your Mover, On-Time Guarantee, no hidden fees — and to close with &#x27;any other questions before I let you go?&#x27; instead of the abrupt &#x27;thank you so much, sir, bye-bye.&#x27;</td>
+      </tr>
+      <tr>
+        <td class="rep">Alexander Tran<span class="branch">Houston</span></td>
+        <td class="score red">38</td><td class="score red">51</td>
+        <td class="score red">44</td>
+        <td class="pres">3.5</td>
+        <td class="txt">The insurance explanation was the best moment on the call — when Jonathan asked him to repeat the $2,000 piece, Alex contrasted it against the 60-cent-per-pound state baseline, tied it to a concrete high-value item the customer actually owns (the TV and the China cabinet), and framed it as &#x27;if we drop the ball&#x27; rather than as a sales feature. He also handled the customer&#x27;s seven-minute break window well: he named the time constraint out loud, compressed the pricing walkthrough, and quoted both a 3.5-hour and a 4-hour scenario so Jonathan could see the realistic top end.</td>
+        <td class="txt coach">Alex built real trust in six minutes and then gave away the booking. When Kendall was ready, he said &#x27;do you want me to go ahead and make the reservation, or do you want me to just send over the email right now?&#x27; - that &#x27;or&#x27; handed her the exit, and she took it (&#x27;send it over, I&#x27;ll probably call you back&#x27;). Ask for the booking as the single option and pair it with &#x27;there&#x27;s no deposit, so nothing is locked financially - if anything changes we just move it.&#x27; On this call, no-deposit alone likely closes it. Second priority: he skipped the entire Clock and differentiator block. Even on a repeat customer, the 2.5-hour minimum and 15-minute increments explain why the $570 number is what it is, and No Worries coverage matters more than usual here - two medical beds and an 86-year-old customer&#x27;s belongings.</td>
+      </tr>
+      <tr>
+        <td class="rep">Joanna Ballon <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">Houston</span></td>
+        <td class="score red">41</td><td class="score red">47</td>
+        <td class="score red">44</td>
+        <td class="pres">3.5</td>
+        <td class="txt">The inventory verification off the walkthrough video was genuinely thorough — she worked room by room, named specific items (dumbbells, credenza, large painting, tall cabinet, tilted bookcase), and proactively surfaced the TV-mounting question with a clean answer (we can unmount, we can&#x27;t remount at the new place). She also anchored the estimate against his prior move with Einstein, which made the 6-8 hour / 3-mover / $2,555 number credible instead of arbitrary.</td>
+        <td class="txt coach">The call ended with no estimate, no booking attempt, and no email handoff — a warm repeat customer with a hard Thursday deadline was left on &#x27;I&#x27;ll call you right back.&#x27; Even without the photos, Joanna had enough (couch, two chairs, dresser, small table, TVs, books and totes, ground-floor load, 4th-floor elevator unload, ~15ft walk) to give a typical hours range and a 2-mover recommendation, then ask for tomorrow&#x27;s slot on the spot. Give a working range, ask for the booking, say &#x27;no deposit required,&#x27; and send the confirmation email — refine the number after the photos rather than deferring the whole close.</td>
+      </tr>
+      <tr>
+        <td class="rep">Nicholas Dagel <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">North Austin</span></td>
+        <td class="score red">46</td><td class="score red">42</td>
+        <td class="score red">44</td>
+        <td class="pres">2.5</td>
+        <td class="txt">The inventory probe and the estimate reasoning were genuinely good — he walked room by room, caught the appliances and the Blackstone, then explained why a near-1800 sq ft home would normally be 3 movers for 8 hours but her furniture-only scope drops it to 2 movers at 4.5–5.5 hours. He also volunteered the &#x27;if we finish in four hours flat, that&#x27;s all you pay for&#x27; reassurance without being asked.</td>
+        <td class="txt coach">He lost a ready-to-book customer at the finish line. She asked &#x27;how do I get this process started, how do I do it online?&#x27; — a buying signal — and he answered with a soft &#x27;if you&#x27;ve got a few more minutes&#x27; instead of an actual next step. There was no confirmation email, no link, no hours, no direct number, so she left with nothing to act on and had to promise a callback. Non-negotiable close sequence on every call: offer to lock the date, state no deposit and no reschedule fee, then say &#x27;I&#x27;m sending you a confirmation email right now with the bolded details — reply if anything&#x27;s off,&#x27; and give hours plus how to reach you. Second priority: he gave away $220/hr with no value stack behind it — No Worries $2,000 coverage, Meet Your Mover, and the On-Time Guarantee all went unsaid, which is exactly why she pushed twice for a discount on the truck.</td>
+      </tr>
+      <tr>
+        <td class="rep">Garrison Cobe <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">Leander</span></td>
+        <td class="score red">48</td><td class="score red">39</td>
+        <td class="score red">44</td>
+        <td class="pres">3.0</td>
+        <td class="txt">Excellent proactive FAQ handling under a heavy language barrier — he volunteered the heat/breakage risk on the plants and the liability waiver, flagged the wall-mount reinstall limitation before the customer could be surprised by it, and recommended the 8:30 AM window with a real reason (heat and afternoon traffic). His clock explanation was complete and he re-confirmed it patiently when the customer circled back on when time starts and stops.</td>
+        <td class="txt coach">This move was booked for the next morning with 8 dirt-filled pots, 30–40 heavy pavers, and loose lawn items sitting in a muddy backyard — the single highest-value thing Garrison could have said, and did not say at all, was the Save Your Ass prep speech. Ten seconds of &#x27;anything small and loose you can consolidate or take a carload of tonight comes straight off tomorrow&#x27;s bill&#x27; would have cut real time off a job he estimated at 3–4 hours. Pair that with tying the estimate to those specific items (pavers, pots, walk distance, disassembly on the sectional) instead of a bare &#x27;3 to 4 hours,&#x27; so the customer understands what actually moves the number.</td>
+      </tr>
+      <tr>
+        <td class="rep">Danah 2Celestial <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">San Antonio</span></td>
+        <td class="score red">27</td><td class="score red">51</td>
+        <td class="score red">39</td>
+        <td class="pres">3.5</td>
+        <td class="txt">The discovery was genuinely thorough and the resulting estimate was clean: she pinned both addresses, stories/stairs at both ends, item-by-item inventory, garage contents, appliances, fragile/valuable items, and walk distance at both the truck and the top of the stairs. The quote she built off it ($3,654-$3,858) reconciles exactly to 8.5-9.5 hours at $204 plus the $1,680 trip fee and $240 overnight fee.</td>
+        <td class="txt coach">She earned the customer&#x27;s trust and then never used it — she ran an 11-minute call that ended with zero pricing, zero clock, zero estimate and a promise to call back later. That callback is a second chance the customer may not answer, and it hands a hot, already-frustrated lead a gap to shop in. She had everything she needed to quote live. Specifically: PJ handed her Meet Your Mover and No Worries on a platter (&#x27;I had another company... the next time I got a totally different group and I was not happy&#x27; and &#x27;everything is brand-new and I don&#x27;t want it messed up&#x27;), and she answered both with policy detail instead of the branded differentiators. Next call: after the concerns are noted, transition with the agenda statement, finish the probe in one pass, and deliver pricing, the clock, the estimate and the Save Your Ass prep speech on the same call — never defer the quote to a callback when the customer is already on the line and ready to book.</td>
+      </tr>
+      <tr>
+        <td class="rep">Arden Asilo <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">Dallas</span></td>
+        <td class="score red">47</td><td class="score red">30</td>
+        <td class="score red">38</td>
+        <td class="pres">2.5</td>
+        <td class="txt">The discovery was genuinely thorough — origin and destination addresses, unit number, floor, elevator vs. stairs, parking spot and walk distance at BOTH ends, patio/garage items, heavy and fragile items, appliances, and box count. He also handled the TV-remount question at the end accurately and without overpromising.</td>
+        <td class="txt coach">Arden gathered good detail and then dropped a bare number on it — &#x27;three and a half to four hours, budget an overall of $888&#x27; with no hourly rate, no movers/trucks, no clock rules, and no differentiators. Even on a callback to an already-booked customer, the estimate has to come with structure and the Save Your Ass prep speech. The clearest miss: Mitchell said he&#x27;s hauling his own stuff back and forth starting Wednesday and that his TVs and art are delicate — two handed openings for the carload/consolidation tip and for No Worries Damage Coverage, and Arden answered both with &#x27;Okay. Alright.&#x27; Practice one habit: after every estimate, say the rate structure, the 2.5-hour minimum with 15-minute increments, and the prep speech, then ask &#x27;does that make sense?&#x27;</td>
+      </tr>
+      <tr>
+        <td class="rep">Joel Villatoro <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">Dallas</span></td>
+        <td class="score red">30</td><td class="score red">45</td>
+        <td class="score red">38</td>
+        <td class="pres">2.5</td>
+        <td class="txt">Discovery and the clock explanation were genuinely strong — Joel confirmed the full move profile off the quote form, asked walk distance at BOTH ends, probed heavy/fragile items, appliances, box count, and surfaced a second storage unit the customer hadn&#x27;t mentioned. His clock section was complete and clean: on-site start, contract signing, walkthrough, 2.5-hour minimum, 15-minute increments, and a sense-check.</td>
+        <td class="txt coach">This call closed on price alone and skipped every differentiator — No Worries coverage, Meet Your Mover, On-Time Guarantee, and no hidden fees were all absent, and so was the entire Save Your Ass prep speech even after the customer said he could move his own boxes. The single highest-value fix: this customer&#x27;s mover bailed 30 minutes earlier and his only real concern was the 1:30-4:00 elevator reservation, which Joel answered three times with &#x27;okay, sounds good&#x27; without ever resolving it or offering the On-Time Guarantee. Slow down, acknowledge the stressor out loud, and run the full pricing block — a stressed customer who already said &#x27;$505, that&#x27;s perfect&#x27; was the easiest audience in the world for the value pitch.</td>
+      </tr>
+      <tr>
+        <td class="rep">Lukas Konrad <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">San Antonio</span></td>
+        <td class="score red">53</td><td class="score red">16</td>
+        <td class="score red">34</td>
+        <td class="pres">3.5</td>
+        <td class="txt">The No Worries Damage Coverage explanation was the best moment of the call — he contrasted the $2,000 coverage against the state&#x27;s 60 cents per pound and made it concrete with the 50-lb TV example (&#x27;they&#x27;ll give you like $30 to repair that&#x27;). He also closed hard and well: named the last remaining Sunday slot, led with &#x27;no deposit,&#x27; and offered to note the 29th preference on the profile if it opened up, which got the customer to commit on the call.</td>
+        <td class="txt coach">The moment the customer said &#x27;if that&#x27;s a possibility&#x27; to loading into a storage unit, this stopped being a referral call and became a bookable job — a 1400 sqft two-bedroom load-out with packing, closing Monday, from a repeat customer. Lukas instead let him hang up to go shop storage units with no price, no date, and no callback. The fix: once the customer accepts a service you can perform, pivot straight into the standard flow — confirm the move date and availability first, then quote the hourly rate and what&#x27;s included, then say &#x27;go find your unit, I&#x27;ll hold Monday and email you everything now.&#x27; Storage sizing help is worth nothing if the job walks.</td>
+      </tr>
+      <tr>
+        <td class="rep">Landon Vaughan <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">Dallas</span></td>
+        <td class="score red">16</td><td class="score red">45</td>
+        <td class="score red">30</td>
+        <td class="pres">3.5</td>
+        <td class="txt">Genuinely excellent differentiator and consultative work in the middle of the call — he nailed the No Worries $2,000 coverage against the 60¢/lb state baseline, made clear it is built into the rate with no deposits or cancellation fees, and then proactively armed her with the exact hidden-fee questions to ask his competitors. He also volunteered the cheaper load/unload-only structure and the cheaper Sunday/Monday rates unprompted, which is why she ended the call saying he was &#x27;number one.&#x27;</td>
+        <td class="txt coach">The piano was not a reason to end the call — it was a reason to carve out one item. Dani said her sister was packing most of it herself and only the baby grand was a problem; Landon even told her to call back if she found someone for the piano. The right move was to say &#x27;we can&#x27;t take the grand, but I can quote you everything else right now,&#x27; then run the full pricing, clock, estimate, and Save Your Ass sections and try to lock the Wednesday the 16th slot he had already confirmed was open. He effectively referred out a bookable one-bedroom Richardson-to-Cedar Hill move. Second, at a stated ~2200 sqft this should have been surfaced as a virtual walkthrough candidate, and the 1-bedroom / 2200 sqft mismatch should have been resolved before any quote.</td>
+      </tr>
+      <tr>
+        <td class="rep">Zachary Krodel<span class="branch">Garland</span></td>
+        <td class="score red">25</td><td class="score red">32</td>
+        <td class="score red">28</td>
+        <td class="pres">3.0</td>
+        <td class="txt">Efficient and confident on the booking mechanics — he pulled up her quote form, recognized she had moved with Einstein in 2023, proactively corrected her two-hour assumption with the 2.5 hour minimum before she could be surprised by it, offered a concrete 8:30-9:00 AM window that happened to line up with her key handoff, and closed the booking plus the bold-portion email verification in under seven minutes.</td>
+        <td class="txt coach">This was a price-shopper call Zachary had every opening to win and let walk. Don volunteered three destinations, two households of furniture, a second-floor king bed, a wall-mounted TV, and a firm September date — and none of it was probed or priced. The single highest-value fix: run discovery BEFORE quoting. A 2,200 sqft townhome with two households and three stops is a walkthrough candidate, not an off-the-cuff 8-hour two-man quote, and that $1,616 number is almost certainly low enough to blow the estimate-accuracy target on move day. Second, when the customer says &#x27;I&#x27;m going to call around,&#x27; that is the cue to ask for the booking and get an email out — Zachary had no deposit as a differentiator in hand and still ended with &#x27;give us a call.&#x27;</td>
+      </tr>
+      <tr>
+        <td class="rep">Jespah Lara <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">South Austin</span></td>
+        <td class="score red">18</td><td class="score red">29</td>
+        <td class="score red">24</td>
+        <td class="pres">3.5</td>
+        <td class="txt">Genuine, patient rapport on a messy, stream-of-consciousness inventory — he never rushed her, pulled the prior job&#x27;s storage address from her file (which visibly reassured her), proactively jogged easy-to-forget items (&#x27;the walls and the floors... mirrors, artwork, area rugs, lamps&#x27;), and handled the grandmother&#x27;s-plant moment with real warmth. She closed with &#x27;thank you so much for your help, I really appreciate it.&#x27;</td>
+        <td class="txt coach">This call collected information and delivered nothing. Jespah gathered decent move details and then handed the entire value pitch to an email — no rate, no what&#x27;s-included, no clock, no No Worries, no Meet Your Mover, no On-Time Guarantee, no estimate, no booking attempt. A returning customer who is already sold on Einstein is the easiest booking on the board, and Jespah let him hang up unbooked with a to-do item. Next call: once the probe is done, say &#x27;great, let me walk you through pricing real quick&#x27; and deliver Sections 3-7 live, then ask for the date. The email should confirm what was already agreed, not carry the pitch. Second priority: he skipped the Save Your Ass speech even after Nicolas volunteered that he stages boxes by the door to speed the crew up — that is a customer handing you the opener.</td>
+      </tr>
+      <tr>
+        <td class="rep">Jules Nicolas <span class="flag" title="Flagged for audio review">&#9834;</span><span class="branch">Garland</span></td>
+        <td class="score red">18</td><td class="score red">24</td>
+        <td class="score red">21</td>
+        <td class="pres">2.5</td>
+        <td class="txt">Pricing math held together under a customer who kept re-asking the same question different ways — Jules correctly separated the weekday $204 and weekend $222 rates, flagged that Friday counts as weekend, and consistently held the line that packing plus moving a full two-bedroom is a two-day job rather than caving to the customer&#x27;s repeated attempts to compress it into one. He also stated &#x27;no deposit&#x27; cleanly and gave his name and direct hours at the end.</td>
+        <td class="txt coach">This move is going into an apartment — unit 3309 — and Jules quoted $580-$883 without ever asking what floor it&#x27;s on, whether there&#x27;s an elevator, how far the walk from the truck is, or whether the building requires a COI. That is the exact scenario where a 2.5-4 hour estimate blows past 6 hours and the customer feels bait-and-switched. Before any number leaves his mouth, Jules needs to run the access block: floor, elevator vs. stairs, parking/loading distance, building rules. Second priority: he quoted a total but never a per-mover hourly rate, so Charles has no framework for why the range moves — pair the access questions with &#x27;pricing is super simple, it&#x27;s $X per mover per hour and here&#x27;s what&#x27;s included.&#x27;</td>
+      </tr>
+    </tbody>
+  </table></div></div>
+
+  <h2>Skipped calls <span class="sub">pulled by the roster query but not sales calls</span></h2>
+  <div class="panel"><div class="scroller"><table>
+    <thead><tr><th>Rep</th><th>Length</th><th>Why skipped</th></tr></thead>
+    <tbody>
+      <tr>
+        <td class="rep">Amy Arbasa<span class="branch">Houston</span></td>
+        <td class="mono dim">14.8 min</td>
+        <td class="txt">Not a sales call — existing customer service. Melissa Betts already had two moves booked (a storage-to-storage move moved to Friday and a house-to-storage move set for tomorrow) and called because her storage facility&#x27;s elevator is still broken. The entire call is rescheduling/consolidation: Amy cancels the storage-to-storage move, moves tomorrow&#x27;s move to Friday 8/28 in a 12:30–2:30 window, and sends a confirmation plus a cancellation email. No new lead, no quote build, no booking of new business — the one price mentioned ($1,115 for 5.5 hours) was a re-estimate of an already-booked job with stairs added. The 85-pt sales rubric does not apply.</td>
+      </tr>
+      <tr>
+        <td class="rep">Calvin Hughes<span class="branch">Houston</span></td>
+        <td class="mono dim">18.4 min</td>
+        <td class="txt">Existing-customer service call, not a sales call. Sankalp is an already-booked Houston-to-Austin customer (pack 9/4, move 9/5) calling inbound through the support line to confirm that a revised estimate reflects the previously agreed $190/hr weekday rate and to ask logistics questions (arrival times, crew size, clock rules, what&#x27;s in scope). No new lead, no quote presented, no booking attempt — the rubric&#x27;s sales flow does not apply.</td>
+      </tr>
+      <tr>
+        <td class="rep">Chauny Shivers<span class="branch">Dallas</span></td>
+        <td class="mono dim">10.9 min</td>
+        <td class="txt">Existing-customer service call, not a sales call. Inbound cancellation request on an already-booked Friday move (customer Jana Barker, booked online, moving to a competitor for a 3rd mover at $200/hr). The rep made a retention/save attempt and offered a virtual walkthrough, but never gathered a full inventory, never delivered a quote, and no booking or re-quote occurred. The 9 scorecard sections (agenda, structured probe, pricing walkthrough, clock, estimate, Save Your Ass, booking) do not apply to a cancellation call, so scoring it against the 85 would produce a misleading number.</td>
+      </tr>
+      <tr>
+        <td class="rep">Daniel Behseresht<span class="branch">North Austin</span></td>
+        <td class="mono dim">10.3 min</td>
+        <td class="txt">Not a sales call. This is a post-move service-recovery call: the North Austin branch manager proactively called an existing customer (Brook Ragan) about crew personnel concerns and damages from a completed move, discussed a damage claim already filed, and issued an ~$800 refund. No lead intake, no quoting, no booking — no sales content to grade against the scorecard.</td>
+      </tr>
+      <tr>
+        <td class="rep">Daniel Behseresht<span class="branch">North Austin</span></td>
+        <td class="mono dim">16.6 min</td>
+        <td class="txt">Not a sales call. This is an existing-customer service/complaint resolution call — the North Austin branch manager returning a completed customer&#x27;s escalation about a slow crew, a $1,030 charge, and an improperly reassembled bed. No move is quoted or booked; the call ends with a full $1,030 refund approval. No section of the sales scorecard applies.</td>
+      </tr>
+      <tr>
+        <td class="rep">Dustin Street<span class="branch">San Antonio</span></td>
+        <td class="mono dim">15.7 min</td>
+        <td class="txt">Not a sales call. This is an outbound service-recovery / follow-up call to an existing customer (Edwina Reyes) about negative GatherUp feedback on a completed 8/15 move. Entire call is damage triage (dresser leg, bookshelf, bed frame), a claims handoff, mover coaching, and an offered $100 goodwill check. No quote, no pricing, no booking — the sales scorecard does not apply.</td>
+      </tr>
+      <tr>
+        <td class="rep">Frank Williams<span class="branch">Leander</span></td>
+        <td class="mono dim">21.1 min</td>
+        <td class="txt">Not a sales call. This is a post-move service-recovery and refund negotiation with an existing customer (Matthew Bowen) whose move went badly. Frank is acting as branch/regional management reconstructing the job, apologizing across touchpoints, and negotiating a goodwill refund (landed at $3,800 back on a Visa ending 1209), with damages handed off to the customer experience team. No quote, no pricing pitch, no booking attempt — the sales scorecard does not apply.</td>
+      </tr>
+      <tr>
+        <td class="rep">Grant Hardison<span class="branch">Fort Worth</span></td>
+        <td class="mono dim">6.1 min</td>
+        <td class="txt">Not a sales call. Grant called Industrial Power FW (a truck repair vendor) to check whether a 26-foot box truck&#x27;s transmission service would be finished so he could pick it up with a lift gate by 7:30am for a move requiring two lift gates. No customer, no quote, no sales content — internal/vendor operations call.</td>
+      </tr>
+      <tr>
+        <td class="rep">Grant Hardison<span class="branch">Fort Worth</span></td>
+        <td class="mono dim">29.8 min</td>
+        <td class="txt">Non-sales call. Outbound call to Industrial Power FW (commercial truck dealer) about a transmission service on an Einstein truck and whether it can be picked up tomorrow. No customer, no move, no quote. Transcript is also mostly IVR menu audio and cuts off while the rep is placed on hold.</td>
+      </tr>
+      <tr>
+        <td class="rep">Khevan Dueck<span class="branch">McKinney</span></td>
+        <td class="mono dim">11.3 min</td>
+        <td class="txt">Non-sales call: inbound service/complaint call from an existing customer (Keith Bell, moved 8/16) about move duration, cost, and two damaged items. No quote, no move being sold — Khevan handled it as a service recovery and damage-claim conversation. The sales scorecard does not apply.</td>
+      </tr>
+    </tbody>
+  </table></div></div>
+
+  <h2>All-time pattern totals</h2>
+  <div class="cards">
+    <div class="card">
+      <div class="label">Calls graded, all time</div>
+      <div class="value">316</div>
+      <div class="note">+49 this run</div>
+    </div>
+    <div class="card">
+      <div class="label">Cumulative average</div>
+      <div class="value red">45.5</div>
+      <div class="note">across all runs</div>
+    </div>
+    <div class="card">
+      <div class="label">Last 3 runs</div>
+      <div class="value red">44.3</div>
+      <div class="note">2026-08-10, 2026-08-17, 2026-08-25</div>
+    </div>
+    <div class="card">
+      <div class="label">Runs completed</div>
+      <div class="value">8</div>
+      <div class="note">since 2026-06-05</div>
+    </div>
+  </div>
+
+  <footer>
+    Generated 2026-08-25 by Gary (AI Chief of Staff) &middot; rubric: <code>config/rubric.md</code> (85 pts, mastery 77+)
+    &middot; grades: <code>output/weekly/grades/2026-08-25/</code> &middot; patterns: <code>output/patterns.json</code><br>
+    Phone-presence scores are assessed from transcript language only, not vocal tone &mdash; flagged calls need an audio listen before they are used in a coaching conversation.
+  </footer>
+</div>
+</body>
+</html>

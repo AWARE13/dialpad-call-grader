@@ -1,0 +1,1104 @@
+{
+  "call_id": "6314107662802944",
+  "lines": [
+    {
+      "content": "Hello, this is Amy. How can I help you?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:04:24.221367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:04:24.221367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:04:24.221367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:04:24.221367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:04:24.221367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:04:24.221367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:04:24.221367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Hey, this is Richard. I wanted to follow up, I, it gives you guys a call. You said you're gonna supply someone to talk to someone over visi to show you the items itself. I wanted to make sure we just to understand some of the details I was told.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:04:25.311733",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "call_purpose",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:04:25.311733",
+      "type": "moment"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:04:25.335367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:04:25.735367",
+      "type": "custom_moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "contact_name",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:04:28.437733",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "ner",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:04:28.437733",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, okay. Let me pull up your profile. Can I have first and last name?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:04:49.421367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Richard with be.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:04:54.111733",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "ner",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:04:54.111733",
+      "type": "moment"
+    },
+    {
+      "content": "It's mag. Just give me one moment.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:04:58.421367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Let me just pull up your profile.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:05:03.221367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay, it looks like we're waiting for your confirmation on when would be the best time to do a virtual walkthrough? Are you available now or tomorrow?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:05:19.421367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:05:24.375367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Oh, yeah, I okay. Can you check with the, I don't I don't know because I'm not around, I don't know the details because my wife told me you guys didn't talk and there's some details I wanted to clarify.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:05:29.511733",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "What did did you?",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:05:46.311733",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "question",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:05:46.311733",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, yeah, what are the details that you'd like to verify?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:05:46.421367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "No, I first wanted to make sure we are not do we have, we don't have two profile in your side.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:05:49.911733",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, I can only see one row while under your name.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:05:58.421367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Can you check my property name, property address address. Sorry.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:05:59.511733",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, go ahead. First. Yes, please go ahead.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:06:05.621367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Yeah, can, can you check by property address?",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:06:07.911733",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "question",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:06:09.357733",
+      "type": "moment"
+    },
+    {
+      "content": "Address. No, we can only search by full name and email address and under your name and your email, I can only see one profile.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:06:13.421367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Okay.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:06:18.711733",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Oh, okay, try the, okay try one second because she did forward me your quote and I would just have to call one second.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:06:22.911733",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, what is your first and last name?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:06:33.821367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:06:34.695367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "My name is horn.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:06:37.311733",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "I have the job number, is that.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:06:42.711733",
+      "type": "transcript"
+    },
+    {
+      "content": "Sir, are you currently driving? I can barely hear you.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:06:43.421367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:06:43.855367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "I'm saying I have the job number. Can you hear me?",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:06:46.911733",
+      "type": "transcript"
+    },
+    {
+      "content": "It's hard to, I can barely hear you sir. Are you currently driving?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:06:53.621367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Okay, one second. Well, yeah, I'm driving. That's why it's better.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:06:55.911733",
+      "type": "transcript"
+    },
+    {
+      "content": "I'm sorry. No, still not. Hello.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:07:02.021367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Is it better? You can hear me?",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:07:04.911733",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "question",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:07:04.911733",
+      "type": "moment"
+    },
+    {
+      "content": "It's cutting in and out, it's cutting in and out. I can barely understand your the line is bad.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:07:08.021367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Okay. I'm about to park somewhere. Just give me a second. Should, are you gonna wait or, oh, this is okay, we can communicate from now because I removed the, I removed the connection from the car so I can.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:07:16.311733",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:07:20.021367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay, let's try that one more time. What is your wife's first and last name so I can check if she has a profile.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:07:33.221367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "My name is Flores.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:07:40.311733",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "contact_name",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:07:41.597733",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Bye.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:07:45.111733",
+      "type": "transcript"
+    },
+    {
+      "content": "How do you spell that sir?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:07:45.821367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Florence.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:07:48.111733",
+      "type": "transcript"
+    },
+    {
+      "content": "Lord. Okay, and then same last name as you.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:07:55.421367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "I'm not sure if you use the actual last name but I also have the job number. Win deduct. I can spell it U-W-I she may not have used the suspect. May not have use the accurate name me that. Yeah.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:07:58.911733",
+      "type": "transcript"
+    },
+    {
+      "content": "We don't use the job number sir. We don't use a job number.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:08:15.221367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Okay, yeah I also can give you her phone number but yeah I can also let me spend.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:08:21.111733",
+      "type": "transcript"
+    },
+    {
+      "content": "A phone number, you mean. Wait, wait. I think I found it here. I Florence, I U-W-I.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:08:25.421367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Sorry.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:08:28.311733",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:08:31.375367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Yes.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:08:34.311733",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, I think I found it. Just give me one moment.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:08:36.821367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Oh, wait, you guys are moving from 1711 Netto drive and then storing the items to a storage unit at 4649 Texas 276, is that correct?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:08:46.421367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:08:56.855367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:08:58.895367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Yes.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:09:00.111733",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. Yeah, the quote was sent to her earlier, like around 2:39. So, do you have two profile, two profiles one for Florence, one for you.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:09:03.221367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:09:09.695367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:09:13.255367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Oh, okay it's the same thing. I guess, my, my, my question was, I guess I should have asked him. Did you guys have a Vita everything you wanted you have this now. Is there anything from us?",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:09:15.111733",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:09:18.821367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Yes one of my colleagues his name is Calvin. He did the video call with Laurence earlier.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:09:24.821367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:09:27.855367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:09:30.655367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Okay, yeah, I wanted to qualify. That's where I am now. I wanted to clarify with a, him or you in, in terms of, in terms of how like, for example, some beds may need to be like, because they're going to storage unit to be wrapped like some mares. Or like, couch are you guys gonna drop them up, everything will be wrapped for the.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:09:31.911733",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:09:39.821367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:09:46.375367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:09:49.815367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Yes.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:09:50.621367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Yes.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:09:55.421367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:09:59.615367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Yes, we will wrap them and shrink and then moving blankets before we load them into the truck. Now. Once we get to the storage unit, we will take the moving blankets back into our office unless you would like to get them out.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:10:00.221367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:10:03.375367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:10:07.215367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:10:11.095367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Unless, I would like to what. Sorry, great. Hey, how much is the rent for them?",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:10:16.911733",
+      "type": "transcript"
+    },
+    {
+      "content": "Rent the moving brackets.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:10:20.021367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "question",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:10:23.317733",
+      "type": "moment"
+    },
+    {
+      "content": "Re. Yes. That's $14 per piece.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:10:23.621367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:10:26.575367",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "$40 how for how long?",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:10:29.511733",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "currency",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:10:29.511733",
+      "type": "moment"
+    },
+    {
+      "content": "141414.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:10:31.421367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Yeah, for how long?",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:10:34.911733",
+      "type": "transcript"
+    },
+    {
+      "content": "It doesn't matter how long and when you give us the moving brackets back, we will give you the deposit. We will refund you the deposit.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:10:37.421367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Oh, okay. That, that's fine, I think.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:10:46.911733",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:10:49.421367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "That what so they.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:10:51.111733",
+      "type": "transcript"
+    },
+    {
+      "content": "Would you like me to, to inform the movers to bring moving blanket if in case you want to rent them out.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:10:51.821367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Yes, please make sure that the technically, I won't because it will be I don't it will be sorted you need to stay there a little longer. So let them move them we're gonna rent them and you're gonna bring back when we take the things out and we also.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:11:01.311733",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:11:02.621367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Sure.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:11:05.621367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:11:10.421367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Yeah, yeah. Sure, sure. It doesn't hold on.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:11:16.421367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Sorry.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:11:19.911733",
+      "type": "transcript"
+    },
+    {
+      "content": "It doesn't matter when you will return the moving blankets as long as it's in, you know, still in good condition, it doesn't matter if it takes months or that's totally fine.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:11:21.821367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Okay.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:11:29.511733",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Okay, yeah, the, what I wanted to make sure is, I don't want theta. Meaning the key is once things are being moved in the storage not because some of the couch are white. That's why I'm saying this so I don't have to, yeah, yeah, another, even some beds are white like, they have like a white whatever, yeah, not matter. It's the actual bed. You know, those beds which have like a have like white cut or whatever.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:11:33.111733",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. Sure, sure.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:11:50.021367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Mattress.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:11:59.621367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "That one also some of them we need to be wrapped.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:12:10.911733",
+      "type": "transcript"
+    },
+    {
+      "content": "It.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:12:12.221367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:12:15.821367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "And go ahead, go ahead, sorry.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:12:16.911733",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, I was just saying, okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:12:20.021367",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Yeah, I also won that. Do you, would you guys would be amounting like the beds like take them apart or that's expected to be?",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:12:22.311733",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "question",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:12:25.157733",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, yes, yes.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:12:31.813647",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "We will do the disassemble, but if you want to save time, I would suggest do you disassemble the beds in advance to save time and money by the end of the day.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:12:34.813647",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Okay.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:12:34.911733",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Okay. Yeah, we do as much as we can, I guess, guess? Okay? Yeah. That, yeah. I, that's the question I wanted to clarify in terms of the, you also told me, you do take out the TV, I mean, take-off to get from the walls. Do you? Okay.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:12:47.511733",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:12:51.013647",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Yes, yes, we do a month we mount t.v.s no problem.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:13:04.813647",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Do you guys still the walls. I get that too much asking but I'm just why asking.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:13:09.711733",
+      "type": "transcript"
+    },
+    {
+      "content": "No, we don't seal the walls. We're not, we only do the unmount and move it. We don't do carpentry.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:13:15.613647",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Yeah, that, that's fine. Okay, thank that. So the timewise. I will let her call you guys back in terms of what first time I'm assuming. How soon do you want to know. The time? Is it like a week before or?",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:13:23.511733",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes sir.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:13:25.813647",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Yeah, I would advise at least one week in advance if you want to book because the calendar is changing really fast.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:13:38.413647",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "A day before or.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:13:39.111733",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Oh, we are. No I thought we are booked. What did I need to do to book?",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:13:48.111733",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "question",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:13:50.077733",
+      "type": "moment"
+    },
+    {
+      "content": "Not yet, I can go ahead and put you on schedule. Now. Upon seeing here Florence did not book yet.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:13:50.413647",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:13:56.412647",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Okay, I will confirm with.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:13:58.911733",
+      "type": "transcript"
+    },
+    {
+      "content": "Do you want me to go ahead to schedule?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:13:59.413647",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:13:59.413647",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Mean I just want to clarify what is expected Ed for me to book.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:14:02.511733",
+      "type": "transcript"
+    },
+    {
+      "content": "Just let us know let just say, hey, I'm fine I'm ready to book and then we'll put you on the schedule. We'll send you a confirmation email. That's it.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:14:08.413647",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:14:12.852647",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Okay and did just do it then. Oh, okay. Let me confirm with that ars, making sure I finish, will be the one coining, yeah, and then I will give you back a quote that.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:14:15.711733",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, sure, sure, no problem. We're open no problem. We're open until 5:30 today or you can call us tomorrow morning around 8:30 if you're ready.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:14:21.613647",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:14:29.572647",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:14:30.772647",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Yeah, I can call you tomorrow. I have time tomorrow if that's okay? Okay, thank you so much. No, that's all and have a good day. Yeah, combine both files and times information you want. I know you asked me the size of the storage. I.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:14:32.511733",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:14:32.652647",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "action_item",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:14:32.997733",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, no problem. Anything else, Richard?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:14:35.413647",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:14:39.172647",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "That's it. Thank you. You too.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:14:42.613647",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "When you, yeah, when you call just give Florence full name cause everything is set up in her profile.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:14:47.413647",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:14:52.932647",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Okay. Okay. I will do. Thank you so much.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:14:57.111733",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm Florence. Thank you. Drive safely. Bye-bye.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:14:58.813647",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "positive_sentiment",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:14:59.037733",
+      "type": "moment"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-02T22:15:00.132647",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8wumKqggM",
+      "content": "Okay. Yeah. Bye. Mm-hmm.",
+      "name": "Richard Mujyambere",
+      "time": "2026-09-02T22:15:01.311733",
+      "type": "transcript"
+    }
+  ]
+}

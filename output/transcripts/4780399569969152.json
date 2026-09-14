@@ -1,0 +1,712 @@
+{
+  "call_id": "6568544309387264",
+  "lines": [
+    {
+      "content": "Hello, this is Amy. How can I help you?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:39:34.170297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:39:34.170297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:39:34.170297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:39:34.170297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:39:34.170297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:39:34.170297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:39:35.441297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:39:36.041297",
+      "type": "custom_moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Hi my name is Adrian. I just missed a call from Joline. I think about a quote for a move on September 14th.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:39:37.275811",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "call_purpose",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:39:37.275811",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "contact_name",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:39:38.403811",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "ner",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:39:38.403811",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "date",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:39:47.643811",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:39:49.921297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Let me pull up your profile really quick. Can I have your last name, please.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:39:50.970297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Okay, yup, thank you. Yeah, it's bran it's Brammer.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:39:52.275811",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "ner",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:39:55.763811",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "contact_name",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:39:56.323811",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "ner",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:39:56.323811",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you so much, let me check. I found your profile here. Sorry would you confirm the requested move date again? It says here September 8th. Did you change it to the fourteenth?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:39:59.370297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:39:59.370297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:40:05.721297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "date",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:40:08.201297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "I did, yes.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:40:09.675811",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, no problem. I'll just check the fourteenth really quick. Okay, good thing it's still open as we speak and then let me confirm we're moving you out of a one bedroom apartment that's on the third floor. There's an elevator here at 7450 block springs road and we're moving you to another apartment, third floor as well but no elevator at the new place 8515 brody lane that I got those right.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:40:11.970297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Okay.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:40:18.675811",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Correct, yes.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:40:37.875811",
+      "type": "transcript"
+    },
+    {
+      "content": "No, if you don't mind can you walk me through your inventory list so I can check if the initial estimate set by juline is still applicable for the size of.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:40:41.370297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Okay. So you want me to list everything.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:40:51.675811",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, just talk me through what are the major items you need us to move or major.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:40:56.970297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Just, I'm just, just my furniture I'm going to be handling all the boxes to have a small couch chair with atom. I have a glass top coffee table.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:41:00.075811",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:41:05.970297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:41:13.770297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "A TV stand, a cat tree, a dining table with six chairs.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:41:14.475811",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "I have like two like kind of like dish display shelves. I have two book cases.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:41:24.675811",
+      "type": "transcript"
+    },
+    {
+      "content": "Hopefully good. This display shows.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:41:33.570297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Say again.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:41:36.675811",
+      "type": "transcript"
+    },
+    {
+      "content": "How big are those display shelves?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:41:39.570297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Well one is like a, is a small like wine rack. It's pretty small. The other one is like a bookcase size, but it's open and it, yeah, and it has like drawers.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:41:41.475811",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:41:49.770297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Thank you and then you also mentioned two places, whatever.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:41:53.370297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Two book cases, I have a queen size mattress with like a metal ika frame, bed frame.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:41:57.075811",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:41:59.370297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:42:06.570297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "And a small dresser. It's like, just like a three drawer dresser. It's not very big and two cube shelves and I have a glass top patio table with four chairs.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:42:08.475811",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "And I my Christmas tree and my bicycle. I need help with.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:42:28.875811",
+      "type": "transcript"
+    },
+    {
+      "content": "Sure, first is three.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:42:34.170297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Anything else?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:42:38.370297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "I have two small end tables, I think that's and I think that's it. I'm just looking around, I'm like, I think that's everything.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:42:40.275811",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, take good time. Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:42:47.970297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Yeah.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:42:51.675811",
+      "type": "transcript"
+    },
+    {
+      "content": "And you mentioned no boxes, you will take care of the boxes, right?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:42:52.170297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Yes, correct. Yes.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:42:55.875811",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Okay you know what looking at the inventory, it's very straightforward, you know nothing crazy like a gun save for a piano. However, I would say the major fact, yeah, exactly, however, I would say the major factor is that removing out of the third floor apartment to another third floor without an elevator. So the stairs going up and down the stairs would be the major factor here. Let me just double-check the estimate typically for a one bedroom apartment. It would take two and a half to three and a half hours since you're moving out of a 44 to a Ford floor.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:42:59.370297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "No, no, it's all lightweight stuff.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:43:05.475811",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Mm-hmm.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:43:16.875811",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Correct, yes.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:43:19.875811",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:43:22.681297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Sure.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:43:24.075811",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Mm-hmm.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:43:33.675811",
+      "type": "transcript"
+    },
+    {
+      "content": "And then it's about maybe, 2030 minute drive from point to point me depending on traffic. You know, what I would suggest new budget for the for four and a half, let's say up to five hours, just in case needed. So, four to five hour estimate, which would be the budget is for four hours $832, if it takes five hours, $1,040 but since we're hourly based, you are not bom by the estimate. Adrian basically just pay for the time that you use. So, preparation is key here if you're able to take the small pieces or you know, anything that you can do to reduce the time. Then you will definitely save a lot of money for this.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:43:38.761297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Correct.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:43:43.275811",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:43:43.681297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:43:55.041297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Okay.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:43:55.875811",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:44:00.441297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:44:01.841297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Okay.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:44:02.475811",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:44:04.761297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Okay.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:44:06.675811",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:44:07.681297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:44:10.601297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Mm-hmm.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:44:17.475811",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Okay. Yeah, that sounds good.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:44:22.275811",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm yeah, that's it very straightforward. You only pay for the hourly rate; no additional fees of any type. So that's $208 an hour with two movers. We just have a two and a half hour minimum. Is it gonna be a minimum? We'll prorate the time in fifteen minutes in do you have any questions so far?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:44:24.570297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Okay.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:44:32.475811",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:44:33.001297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Okay.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:44:35.475811",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:44:37.721297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Okay.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:44:41.475811",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "No, sounds good.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:44:43.875811",
+      "type": "transcript"
+    },
+    {
+      "content": "Amazing, I will send you an updated quote via email or if you're ready to lock this now we don't require any deposits. What do you think?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:44:46.770297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:44:48.041297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:44:54.361297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Yeah, I'm ready. Let's do it, let's book it.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:44:55.275811",
+      "type": "transcript"
+    },
+    {
+      "content": "Sounds good. I just need your apartment numbers please the current, a new one.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:44:57.570297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "The current at 7450 bluff springs is 2309.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:45:00.675811",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, two.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:45:08.970297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "And then going to 1733, is the unit number on Brodie lane?",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:45:09.675811",
+      "type": "transcript"
+    },
+    {
+      "content": "Sounds good. So, on Monday September 14th, we will arrive around 8:30 to nine in the morning at the current address. The movers they will give you like a ten or twenty minute heads-up call before they arrive. And once we get off the call, I'll send you the confirmation email if you have any questions between now and then just give us a callback at this phone number. Other than that, we're good to go, we're set, we'll see you on the fourteenth.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:45:19.770297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "date",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:45:21.681297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:45:24.361297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Okay.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:45:25.875811",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Okay.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:45:31.275811",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Okay.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:45:41.475811",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Perfect, thank you so much.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:45:45.075811",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "positive_sentiment",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:45:45.883811",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "support_issue_resolved",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:45:45.883811",
+      "type": "moment"
+    },
+    {
+      "content": "Of course. Thank you and I hope you have a good day. Bye Adrian, take care.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:45:47.370297",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-08-26T18:45:50.321297",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDcmPnK2woM",
+      "content": "Thank you too, bye.",
+      "name": "Adrienne Brammer",
+      "time": "2026-08-26T18:45:50.475811",
+      "type": "transcript"
+    }
+  ]
+}

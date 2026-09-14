@@ -1,0 +1,649 @@
+{
+    "call_id": "5278722925043712",
+    "lines": [
+        {
+            "content": "I moving, this is garrison, how can I help you?",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:11:50.017522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "action_item_v2",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:11:50.017522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "ai_csat_reboot_ineligible",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:11:50.017522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "call_disposition",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:11:50.017522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "whole_call_summary",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:11:50.017522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "whole_call_summary_fragment",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:11:50.017522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "ner",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:11:51.475522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "Call Opening",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:11:52.115522",
+            "type": "custom_moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Hey I was hoping to get a quote for some for unpacking some pods.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:11:52.867920",
+            "type": "transcript"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "call_purpose",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:11:52.867920",
+            "type": "moment"
+        },
+        {
+            "content": "Yeah, I can certainly help you out with that. First things first. Do you happen to have a date in mind?",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:11:57.817522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "question",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:12:01.715522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "September 10th.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:12:03.067920",
+            "type": "transcript"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "date",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:12:03.067920",
+            "type": "moment"
+        },
+        {
+            "content": "September 10th exactly a week from now. Alright, perfect, so yeah, it looks like we absolutely do have some availability on that date here. So let me go ahead and grab some contact info from you first and then I'll ask you a whole much more questions about the pods and all that good stuff. But yeah, starting with contact info, what is your first and last name?",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:12:05.617522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "date",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:12:05.617522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "speaking_too_quickly",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:12:10.915522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Sure. Yup.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:12:19.867920",
+            "type": "transcript"
+        },
+        {
+            "content": "question",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:12:24.315522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Chris Lindsay.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:12:26.467920",
+            "type": "transcript"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "ner",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:12:26.467920",
+            "type": "moment"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "ner",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:12:26.933920",
+            "type": "moment"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "L-I-N-D-S-E-Y.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:12:31.267920",
+            "type": "transcript"
+        },
+        {
+            "content": "Alrighty, and is this a, oh, gotcha. And is this a good callback number for you?",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:12:31.417522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "question",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:12:32.715522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Yes.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:12:37.867920",
+            "type": "transcript"
+        },
+        {
+            "content": "Perfect. And what is a good email address.",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:12:39.817522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Lindsay.Christopher.w @gmail.com.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:12:43.267920",
+            "type": "transcript"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "email_address",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:12:44.413920",
+            "type": "moment"
+        },
+        {
+            "content": "W @gmail.com. Alright.",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:12:51.217522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "email_address",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:12:52.675522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "Perfect. So, what is the address that we would be unloading these pods at?",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:12:59.017522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "question",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:13:00.275522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "2704 Loyola lane, Austin, Texas. 78723.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:13:03.067920",
+            "type": "transcript"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "ner",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:13:06.667920",
+            "type": "moment"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "postcode",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:13:07.773920",
+            "type": "moment"
+        },
+        {
+            "content": "Alrighty.",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:13:11.617522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "Okay, awesome. So, yeah, my next question here regarding the pause themselves, how many will there be and what are the, what size are they?",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:13:14.017522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "call_purpose",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:13:14.017522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "question",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:13:21.075522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Two, they're sixteen foot and it's a two story house.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:13:23.467920",
+            "type": "transcript"
+        },
+        {
+            "content": "Gotcha. Gotcha. Okay. So 216 foot ponds and are they both, you know, fully loaded? You know, top to the bottom, front to back.",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:13:29.617522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "question",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:13:35.715522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "One is. Yeah, I say both pretty are much are fully loaded. There's some space on one of them but yeah, two couches a bed and some night stands and a bunch of boxes.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:13:40.267920",
+            "type": "transcript"
+        },
+        {
+            "content": "Okay, gotcha.",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:13:48.217522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "Gotcha. Gotcha, perfect! And I know you kinda just covered the vast majority of the inventory there. But just to confirm, do we happen to have any special consideration type items in there or anything to be particularly aware of like appliances, antique pieces, anything super heavy, like a gun safe for a piano?",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:13:53.017522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Yup.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:13:59.467920",
+            "type": "transcript"
+        },
+        {
+            "content": "question",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:14:00.435522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Yeah.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:14:06.667920",
+            "type": "transcript"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "TVs no gun safe, no piano. There's a China cabinet that we want to be careful with. But other than that not really.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:14:10.267920",
+            "type": "transcript"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "ner",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:14:15.453920",
+            "type": "moment"
+        },
+        {
+            "content": "Okay, gotcha, gotcha. Perfect, perfect.",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:14:21.817522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "Well that is really all the information I will need from you here over the phone pod unloads are typically pretty straightforward. So this is all sounded good here. What I'll do from here is get you a quick overview on how our pricing structure works first and that'll break down the estimate I've got built out for you, no need to take any notes on any of this info. It'll all go to you in an email so you'll have it all there as well. But yeah, starting with pricing here it is very simple on the day we're looking at of Thursday the tenth we bill at the rate of $208 for two movers. Now the important thing to note $208 per hour. My apologies. Now the important thing to note here is that absolutely everything is included within that hourly rate. So although we won't need it we, of course we'll be coming out with the truck. But within the truck. It'll contain any supplies to kind of help keep the pot unloads efficient and then also safe as well. So we'll have things like Dolly's moving blankets. We'll be able to protect your front entry way in the front kind of a flooring as well. We'll bring out all those supplies and no extra cost, we'll lay all of that out. So again everything is kind of safe but also efficient while we're unloading.",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:14:26.635522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "monologuing",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:14:31.955522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Yeah.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:14:32.467920",
+            "type": "transcript"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Yup.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:14:41.467920",
+            "type": "transcript"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Okay.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:14:46.867920",
+            "type": "transcript"
+        },
+        {
+            "content": "currency",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:14:53.795522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "currency",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:14:59.355522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Mm-hmm.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:15:01.867920",
+            "type": "transcript"
+        },
+        {
+            "content": "speaking_too_quickly",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:15:16.955522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "monologuing",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:15:22.275522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "Ding those pods for you, so, also to kind of drive that point on here we do not have any additional fees cost or charges of any type. So you won't see the common things in the moving industry things like credit card fees, heavy item fees, stairwell fees or anything of the sort. Absolutely everything is rolled into that hourly rate even taxes. So you don't have to worry about that as being an addition at the end of things here. Now to give you an idea on how our clock works time with us will actually start when we arrive on site on a Loyola and make contact with you over there. From then on you would have as far as long as you need us. Of course, the only thing we do have associated to anyone move that we perform is a two and a half hour minimum whenever we exceed two and a half hours we simply bill in fifteen minute increments from then on until the move is complete. Does that all make sense? So far.",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:15:32.017522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Yup.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:15:33.067920",
+            "type": "transcript"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Okay.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:15:55.867920",
+            "type": "transcript"
+        },
+        {
+            "content": "monologuing",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:15:57.715522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "speaking_too_quickly",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:16:07.275522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "monologuing",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:16:08.795522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Okay.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:16:14.467920",
+            "type": "transcript"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Yeah.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:16:22.867920",
+            "type": "transcript"
+        },
+        {
+            "content": "Okay, perfect. So yeah, to just give you an idea here point of reference. Usually what we see in a kind of standard sixteen foot pod unload usually takes two movers. Somewhere around an hour to an hour and a half to complete course since we've got two of those we'll simply just multiply that by two. So, what I would expect this take somewhere around the three hour range to knock this out here for you. If it does take three hours. We're looking at $624 in total cost, but of course that is just an estimate. Will only bill you to where that time actually lands on the day to move itself there.",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:16:23.617522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Mm-hmm.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:16:41.467920",
+            "type": "transcript"
+        },
+        {
+            "content": "speaking_too_quickly",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:16:42.715522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "currency",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:16:49.155522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Okay, and do you have an option for a third mover?",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:16:56.467920",
+            "type": "transcript"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "question",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:16:59.253920",
+            "type": "moment"
+        },
+        {
+            "content": "Unfortunately not for a move of this scale, we would have to stick with two in this case. Yeah.",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:17:02.017522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Okay. I understand, understood. Okay. Well that sounds good. Let me talk with my partner and I'll, I'll get back to you, okay?",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:17:06.667920",
+            "type": "transcript"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "action_item",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:17:16.333920",
+            "type": "moment"
+        },
+        {
+            "content": "Absolutely and yeah, like I said, I'll shoot you over an email here, it'll contain everything we talked about here over the phone. So please feel free to utilize that to kind of review and go over everything and if you have any questions, of course, you can give us a callback or just respond directly to that email, whatever works best for you but we will be here whenever you're ready. Yeah, no problem. You have a good. Yeah, go ahead.",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:17:17.617522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "action_item",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:17:19.955522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "action_item",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:17:28.915522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Okay.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:17:29.467920",
+            "type": "transcript"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Alright, perfect, alright, thank you. Oh, sorry, 11 more question on the tenth what is the earliest availability you would be able to get there?",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:17:33.067920",
+            "type": "transcript"
+        },
+        {
+            "content": "That's a good question. Yeah, so our availability would be, let's see here an arrival window of between 8:30 AM to 9:00 AM.",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:17:45.217522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "content": "time",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:17:52.195522",
+            "type": "moment",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Okay, perfect, thank you.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:17:53.467920",
+            "type": "transcript"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "positive_sentiment",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:17:53.467920",
+            "type": "moment"
+        },
+        {
+            "content": "Alrighty, no problem at all. You have a good one.",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:17:55.417522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Thanks, you too.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:17:57.667920",
+            "type": "transcript"
+        },
+        {
+            "content": "Bye-bye.",
+            "name": "Garrison Cobe",
+            "time": "2026-09-03T20:17:59.617522",
+            "type": "transcript",
+            "user_id": "6636690200690688"
+        },
+        {
+            "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDChouSrgoM",
+            "content": "Bye.",
+            "name": "C Lindsey",
+            "time": "2026-09-03T20:18:00.667920",
+            "type": "transcript"
+        }
+    ]
+}

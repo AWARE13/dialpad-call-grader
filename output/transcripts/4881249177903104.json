@@ -1,0 +1,1496 @@
+{
+  "call_id": "4868076412542976",
+  "lines": [
+    {
+      "content": "Hello, this is Frank. How can I help you?",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:53:58.230555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:53:58.230555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:53:58.230555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:53:58.230555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:53:58.230555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:53:58.230555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "ner",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:53:59.336555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:53:59.736555",
+      "type": "custom_moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Hi Frank! My name is Allison. I wanted to call to get a quote for moving. I submitted the form on the website but it said I should talk to a human.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:54:00.566504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "call_purpose",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:54:00.566504",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "ner",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:54:01.793504",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "contact_name",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:54:02.793504",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "ner",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:54:02.793504",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, yeah, that's good. That human connection going. What is your email address?",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:54:10.230555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Yeah.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:54:13.766504",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:54:15.136555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "It's Allison in her cat @gmail.com.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:54:17.366504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "contact_name",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:54:18.553504",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "ner",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:54:18.553504",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "email_address",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:54:19.753504",
+      "type": "moment"
+    },
+    {
+      "content": "And is it just you and your cat that's moving?",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:54:37.230555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "question",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:54:37.536555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "No, there's some humans too.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:54:39.566504",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Okay. Alright. Let's see. 2001, farro ferro drive, 1600 square foot two story home and then you're going to quail lane. So 4209 desert a lane.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:54:43.230555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Yeah.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:54:44.966504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "That's right.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:54:49.766504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "That's right.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:54:59.366504",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:55:01.230555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "Let's see it looks like why the system pinged you is, is the preferred date was the fifteenth and we don't have any availability for that day through that branch. If that's a hard date for you I can look at other branches, see if we have an opening. If you have options flexibility, I can look at other days.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:55:04.830555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:55:14.366504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "That would be ideal because I already moved the internet over and need to work on Monday from that house. I'm assuming that the next day is also a full.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:55:28.766504",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:55:33.630555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "Understood.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:55:36.630555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "It is, but let me look at our other branch cause our north branch also also serves the same area. Let's see.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:55:43.830555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:55:46.166504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "That would make sense.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:55:53.966504",
+      "type": "transcript"
+    },
+    {
+      "content": "Well, the north Austin branch is also booked out. The only remaining branch in the area would be our la ander. Branch. They are a little cheaper on the out of your rate but there might be a travel fee because they're a little more north. But I'm happy to look into it and see what the cost would be that you can, you know, decide, okay. So the house to the house you're moving into is a $1,400 square foot home. So you are, you, you're like basically downsizing a little bit.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:56:13.230555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "ner",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:56:14.096555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Sure. Yeah, that sounds good.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:56:30.566504",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:56:37.176555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "It's something like that. Yeah, so originally there are three roommates, only two of us are moving. So one of the rooms in our house is not getting touched at all.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:56:38.966504",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:56:42.030555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "Oh, okay, okay.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:56:48.630555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Yeah.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:56:51.566504",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, online it looks like it's even smaller than that.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:56:58.230555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "I just sort of guess estimated from my memory what the square footage was.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:57:03.566504",
+      "type": "transcript"
+    },
+    {
+      "content": "1180 yeah. Oh, okay.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:57:03.630555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "No worries. Okay. Well then let me see then, then, yeah, if it's not that much going cause I'm getting ahead of myself usually. Alright typically we have a baseline estimates based on square footage you know, data that we have for the same size home they're usually use and then we can.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:57:09.630555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:57:21.566504",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:57:23.936555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "We come there but you already told me that not all the moving et cetera. So main mainly I just need to know your inventory cause we're just time based so you know, I can get a good idea about how long it would take just based on how much you need.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:57:25.830555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Yeah.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:57:34.766504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay, yeah, I can guess estimate of that and I mean the main thing is we need the furniture moved and as many boxes as there is time for but the rest of the little stuff we can move ourselves. We have there's a split king bed. So like the two mattresses and the two bases need to be moved. There's a dresser, two desks, one sofa.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:57:40.766504",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:57:53.430555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "I think we are moving, the two dining room tables one coffee table there's like four book shelves. Let me think, what else would be doing a bunch of like, dining room chairs like, maybe ten?",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:58:08.366504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "question",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:58:20.393504",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Maybe three desk chairs and then, I don't know maybe twenty boxes. Twenty to thirty boxes.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:58:28.166504",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, it's way less than to Google for that home size.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:58:40.830555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "ner",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:58:42.376555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "I hope I'm like estimating correctly, there's a lamp for two.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:58:46.766504",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, I mean that box count alone and then it's just the one bed going and you know, a couple of desk bookshelves free light. Honestly for that, for that square footage anyway but here let me see.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:58:53.430555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:59:04.766504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Yeah, there's a lot of stuff in the house but it's not going to the new house.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:59:10.766504",
+      "type": "transcript"
+    },
+    {
+      "content": "Right, and it's only about, it looks like it's almost just shy of fourteen miles away, so, about twenty something minutes away and so you're, are you on the second store second floor of the home, are we taking things from the second?",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:59:16.230555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "That sounds right.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:59:22.766504",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:59:26.096555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Yeah, the bed and some of the other stuff on the second floor, the sofa is on the first floor.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:59:29.366504",
+      "type": "transcript"
+    },
+    {
+      "content": "Second, okay.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:59:34.830555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "Okay. And then just, just to cover basis, we don't have any appliances going like Washer/Dryer fridge, something like that. Anything, anything outside like, patio stuff or anything in a shed or garage, or anything like that?",
+      "name": "Frank Williams",
+      "time": "2026-08-11T19:59:38.430555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "No, none of that.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:59:44.966504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "We can grab that ourselves honestly. I think everything from the, like boxes but no furniture. One of the desk is in the garage and then the only thing outside is like my plants, which I can just toss in my car.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T19:59:51.566504",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, okay.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:00:03.630555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "Okay.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:00:07.230555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "Okay. And then aside from the bed and the desk. Is there any other disassemble like, do you have like a mounted TV or something that we got to grab or anything like that?",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:00:10.230555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "question",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:00:13.736555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "No, there is amount of TV it belongs to the landlord, we should not GrabIt.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:00:19.166504",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Understood. And then the house that we're going to that's just a single story.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:00:23.430555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Yeah.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:00:29.966504",
+      "type": "transcript"
+    },
+    {
+      "content": "How about access? Is there any access issues that would slow us down for any reason like low hang, tries and client driveways narrow doorways anything like that?",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:00:32.430555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Oh, I don't think so. I see moving trucks coming in and out of our neighborhood all the time. And the other neighborhood is just like a normal suburban neighborhood. There's a gate, but I mean, that takes thirty seconds to get through.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:00:37.166504",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:00:51.030555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "Okay.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:00:54.030555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "Alright, and we, you know, we typically wrap and protect all of your items. So just, you know, factor that into the time, you know, the load up portion we're going to be prepping everything. Obviously dem, this is selling the bed and all that put and everything blankets, stretch wrap lasic. Bands, whatever is necessary and there's no hidden hidden restro fees for anything in our process whatsoever. It's literally just gonna be how long it takes. You know, cause like our fuel costs, taxes, insurance, et cetera, et cetera, it's all rolled into the hourly rate.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:00:57.630555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:01:02.966504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:01:16.166504",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:01:19.776555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:01:22.766504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:01:32.966504",
+      "type": "transcript"
+    },
+    {
+      "content": "So we have a two and a half hour minimum that's for any booking that we do, once we go past that two and a half hours, then we just prorate the clock and fifteen minute increments from there, so that's why I'm saying it just depends on how long it actually takes. So typically for that home size I'm basing it off the unload location. Typically that could take two movers anywhere between four to six hours. So I'd probably just shoot for five, cause you're saying if we just prioritize the larger stuff then you know, if there's any left behind, you guys can handle it no problem. And then that way I'll keep the cost down for you as well but I do want to just set that expectation. That home size does take up to six hours with two movers if we were handling everything.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:01:33.456555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:01:37.766504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:01:44.966504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:01:48.566504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:01:54.566504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:02:00.566504",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:02:04.776555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:02:11.366504",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:02:15.576555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:02:19.166504",
+      "type": "transcript"
+    },
+    {
+      "content": "And you can kind of use that to your advantage too, like on move day like maybe the guys just hustle so fast that they get everything loaded in, in an hour and a half or two hours, if you want them to take more boxes or more, more little things make sure you know, you asked him to do that cause you know we're there for you for as long as you need us. But I would probably estimate this for about a five hour day with two movers vers. The hourly rate out of the lander branch is $196 an hour for two guys, if they did hit the 22 and a half hour minimum. There is a, there is that $75 fee. I was telling you about cause they're a little more north than Austin but that's just a one time flat thing, everything else is hourly. So, if it was, the two and a half hours you'd, be looking at $565 if it was, the full five hours looking at about $1.00106 million so it'd be like a range in their budget wise, it would just depend on where we landed.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:02:20.736555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:02:30.566504",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:02:33.976555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "monologuing",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:02:38.456555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:02:38.966504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Oh, okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:02:43.766504",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:02:47.136555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:02:49.766504",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:02:55.296555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "ner",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:02:57.976555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:02:58.766504",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:03:00.576555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:03:01.766504",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:03:06.016555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:03:07.766504",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:03:09.936555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay. And how much do people normally tip? Yeah.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:03:16.166504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "question",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:03:17.433504",
+      "type": "moment"
+    },
+    {
+      "content": "That, does that all make sense. Tipping is totally up to you, I mean it's probably anywhere between $7 to $10 an hour if you had to put a number behind it but I mean it's really up to you like, yeah, that's totally, totally your call.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:03:18.030555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "currency",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:03:26.336555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:03:29.366504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Yeah, but I don't want to be a deck.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:03:32.966504",
+      "type": "transcript"
+    },
+    {
+      "content": "Respect that.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:03:36.030555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Yeah, okay, that makes sense. So if it's a full five hours, then it's gonna be around $1,000 to $100,100 ish and that's like including the $75 travel fee, right? Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:03:40.766504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "currency",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:03:47.593504",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "currency",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:03:52.073504",
+      "type": "moment"
+    },
+    {
+      "content": "Yup, yup, that's including that, like I said it disassemble reassembly and then just some other like differentiators to keep in mind we have a meet your movers function is the only, really, the only automated email you get from us. Aside from a follow up email, after the, you'll get a move before, I'm sorry, you got an email before the move where you can see the faces and Reis of the movers. We'll do a courtesy call the day before, just to let you know, hey, we're coming tomorrow make sure you're all set and ready if you get any supplies last minute stuff like that. And then the morning of the movers will call you before they even head out to you, so in terms of communication, that's what that would look like.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:03:54.630555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:04:10.766504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:04:16.766504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Nice.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:04:19.166504",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:04:19.736555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "monologuing",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:04:31.736555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:04:32.366504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:04:35.366504",
+      "type": "transcript"
+    },
+    {
+      "content": "And then if for whatever reason there's like a delay, typically there isn't one but if there ever is we do discount being late so if we show up late we just start discounting your move. So there's that and then we have a $2,000 no worries damage coverage policy. Meaning it's not, it's not insurance. It's just something that we offer. If somewhere to get scratched or, or damaged and during the move, you know that's on us. So we're gonna, you know, do everything we can to make that whether it's you know repair, replacement, cash settlement, whatever needs to happen there. But, that's all baked in all of that stuff is just baked into the out of the rate. So, you know there's no hidden or extra fees at all. Basically how it works is we would show up Gret you at the door. We have a an iPad with the contract on it and it basically goes over everything that you and I are talking about right now, and then you just read through it with the movers sign it that starts the time and then they go right to work just wrapping and protect.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:04:35.656555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:04:44.366504",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:04:47.776555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "currency",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:04:50.256555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:04:56.366504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:05:05.366504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:05:10.766504",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:05:16.736555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "ner",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:05:21.536555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:05:25.766504",
+      "type": "transcript"
+    },
+    {
+      "content": "And start loading the truck and then when we get to the unload and we put everything exactly where you need it, you don't need us anymore we'll stop the clock and then whatever that amount of time is, is, is, is all we'll charge you for and it's just debit or credit card at that point and they can take payment right there, super easy.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:05:31.830555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:05:32.776555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:05:43.166504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay, perfect. Did, did la under have availability this weekend cause I know that was unclear.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:05:46.766504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "positive_sentiment",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:05:46.766504",
+      "type": "moment"
+    },
+    {
+      "content": "Yup, let's see, Saturday.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:05:55.230555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "Potentially be Saturday evening we could but I don't, you know, that might be Tuesday.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:06:01.230555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "Sunday, for sure, Sunday what they can do it at 8:30 in the morning. They can start and have all day open. So Sunday would probably be the, be the preferred day.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:06:08.430555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "time",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:06:11.336555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:06:13.166504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay. Yeah, I mean that works then we can pre move a bunch of stuff on Saturday and then it'll be easier for them to get up the big stuff anyway.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:06:17.966504",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, true. I mean and then that you know, that being said you know, the more that you guys can accomplish before we even arrive the cheaper technically will be cause we just more efficient, you know what I mean? So cause we're just time, time based.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:06:30.030555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:06:37.766504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Yeah.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:06:41.366504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Yeah, that makes sense. Yeah, I, Sunday sounds great. How do we go ahead with booking that?",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:06:44.366504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "question",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:06:49.166504",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:06:49.830555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "We don't need a deposit or nothing like that I just need your go ahead and then I'll just put it on the calendar and send over a confirmation email. So if you're, if.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:06:52.230555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "monologuing",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:06:56.856555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay. Does it have to be 8:30 or can it be closer to like 9:00 or ten?",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:07:00.566504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "question",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:07:01.193504",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "time",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:07:01.873504",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "time",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:07:03.593504",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:07:04.376555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "You, we can push it a little further. We could probably do like a start time of like 9:30 or 9930, something like that. If that's better.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:07:05.430555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "time",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:07:09.216555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay, yeah, I think that would be a little, he's here.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:07:10.166504",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, not a problem. And that also allows the guys to get down to you. Sounds good. Okay.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:07:16.830555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Yeah, if 99 is great, yeah, cause I'm sure that's a bit of a drive for them.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:07:17.966504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "positive_sentiment",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:07:17.966504",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, not too bad. Let me, yeah, traffic dependent, right? But as of right now it's, you're, your starting location is 37 minutes away that could change with traffic obviously. But yeah, we'll shoot for nine the 9930 window, that's not a problem at all. And then like, set up, just put the estimate for about five hours and I got Allison Harley and I got 213-292-1530 as your phone number.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:07:28.230555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:07:32.966504",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:07:37.696555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Yeah.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:07:39.566504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:07:41.966504",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:07:42.856555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "ner",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:07:50.816555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "phone_number",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:07:53.176555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "That's right, yes.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:07:56.366504",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and that's, and that's the best one the movers can use to cause they'll call from their personal cellphones on move day. Okay.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:07:58.230555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:08:01.766504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay, so I'll make sure to actually pick up the numbers that I don't know on that day.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:08:04.166504",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, yeah we're used to it, I mean a lot of our guys, some of them you know, they moved from out of state, never changed their number to a text number, et cetera, so, yeah, we're used to leaving voicemails and waiting and then you know, the client being like, oh, it's you and then you know, we from there but yeah, yeah, if you see any missed calls or voicemail it's probably your movers we typically call around 8:00 AM know, before they leave the yard and get on the road and all that stuff. So probably be around that timeframe.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:08:09.030555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Mm-hmm.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:08:16.166504",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:08:19.336555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Yeah.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:08:23.366504",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:08:26.816555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "That makes sense.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:08:29.366504",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:08:30.776555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "monologuing",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:08:31.816555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:08:32.366504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay, that sounds great.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:08:38.366504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "positive_sentiment",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:08:38.366504",
+      "type": "moment"
+    },
+    {
+      "content": "Do you have any questions for me?",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:08:41.430555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "question",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:08:41.430555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "I don't think so.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:08:43.166504",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Well thank. If you call up with any feel free to you can text us, you can email us, you can call us whatever you need to do, if you do call in anyone that answers the phone. Just give them your email address they'll be able to pull up this profile that we have built for you and take care of you there. If you do feel more comfortable speaking with me. Just tell them, they'll track me down my name is Frank. Just remind you but I'll also put it on the email here so you got it. But yeah, I have everything I need here. Like I said if you have anything come up let us know. But you're all set and all booked.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:08:46.830555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Yeah.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:08:47.966504",
+      "type": "transcript"
+    },
+    {
+      "content": "action_item",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:08:51.136555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "action_item",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:08:52.296555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:09:04.336555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "content": "ner",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:09:08.616555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Frank.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:09:09.566504",
+      "type": "transcript"
+    },
+    {
+      "content": "support_issue_resolved",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:09:17.856555",
+      "type": "moment",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Sounds good. Thank you Frank.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:09:19.766504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "ner",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:09:21.073504",
+      "type": "moment"
+    },
+    {
+      "content": "You got it. Alright, you have a good one then I'm gonna send an email here in a couple of minutes.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:09:22.230555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:09:24.566504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "Okay, sounds good. Have a good evening. Bye.",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:09:26.966504",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC88uj-nAsM",
+      "content": "positive_sentiment",
+      "name": "Allison Parsley",
+      "time": "2026-08-11T20:09:26.966504",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, you too, bye-bye.",
+      "name": "Frank Williams",
+      "time": "2026-08-11T20:09:30.030555",
+      "type": "transcript",
+      "user_id": "5753425644290048"
+    }
+  ]
+}

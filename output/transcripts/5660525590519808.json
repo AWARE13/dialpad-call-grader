@@ -1,0 +1,544 @@
+{
+  "call_id": "5125169308803072",
+  "lines": [
+    {
+      "content": "Hi, good afternoon, this is juline with Einstein moving, how can I help you today?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:05:19.140764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:05:19.140764",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:05:19.140764",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:05:19.140764",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:05:19.140764",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:05:19.140764",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:05:19.140764",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:05:21.634764",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:05:22.074764",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:05:23.034764",
+      "type": "custom_moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "Hi, I have a move booked for this Sunday and I was, I have a couple of questions, actually, there are a few things that I needed to add to the move that I didn't originally.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:05:25.285614",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "call_purpose",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:05:25.285614",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:05:30.540764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Oh.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:05:34.140764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "Show the, I think Daniel was the guy I spoke to the first time there are a couple of things I need to add and I wasn't sure if I needed to, to tell you about them. And then the second thing was, I was wondering would it be possible to have the movers help me move around some furniture while they're here? Cause I pay them for an extra hour or something to just move around furniture. Is that possible?",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:05:41.485614",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:05:43.740764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "ner",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:05:44.305614",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:05:51.540764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm yes, mm-hmm yes ma'am. It is. What is your name so, I can check your profile here.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:06:04.740764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "It's Jennifer Weber, Weber is mm-hmm.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:06:14.485614",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "contact_name",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:06:15.065614",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "ner",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:06:15.065614",
+      "type": "moment"
+    },
+    {
+      "content": "Jennifer, okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:06:16.740764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:06:16.740764",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Okay, I got it here. Thank you.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:06:20.940764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Okay. So we're moving from a house to a storage unit. Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:06:28.740764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "Yes.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:06:33.685614",
+      "type": "transcript"
+    },
+    {
+      "content": "May I know ma'am? What are the furniture that you'd like to add onto this mo?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:06:39.540764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:06:39.540764",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "I need to add a TV console.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:06:45.685614",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:06:50.340764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "And a TV.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:06:51.085614",
+      "type": "transcript"
+    },
+    {
+      "content": "What's the size of their TV?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:06:53.340764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:06:53.340764",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "You know, that's a good question. I actually don't know let me go get a team measure.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:06:57.085614",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, ma'am. Thank you.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:07:04.140764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "Okay, bye.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:07:04.885614",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "It is 55 inches.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:07:33.685614",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm okay, 55 inch. Alright sir. What else ma'am?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:07:37.140764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "Yeah, sorry, what was that?",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:07:43.285614",
+      "type": "transcript"
+    },
+    {
+      "content": "What else?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:07:46.140764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "I think that was it, as far as adding more things, I think that was the only furniture that I didn't mentioned that's, you know, going to be sizable. I think also you guys wanted to know the address of my storage unit.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:07:49.285614",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:07:55.140764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm, yes, ma'am.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:08:07.740764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "So, it's extra space storage.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:08:11.485614",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "Sorry, I'm trying to find the address they sent it to me and.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:08:20.485614",
+      "type": "transcript"
+    },
+    {
+      "content": "One second.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:08:24.540764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "No, I can't find it. It's at 9300 Brodie lane.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:08:25.285614",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:08:38.340764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "And is this an indoor, or an outdoor storage?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:08:41.340764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:08:42.754764",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "It's indoor.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:08:46.285614",
+      "type": "transcript"
+    },
+    {
+      "content": "What floor is it located?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:08:47.940764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:08:47.940764",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "It's the first floor.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:08:51.085614",
+      "type": "transcript"
+    },
+    {
+      "content": "First four. Okay, thank you.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:08:53.340764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:09:02.340764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Alright ma'am, since we added some furniture here I'll and it's only two items. So, I don't think it would really have a great impact on the estimate that was provided to you for seven hours and three movers. So, I'll just give the estimate as-is. For Sunday September 6th but then I'll just note that we will be moving a TV console and a 55 inch TV.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:09:07.140764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "date",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:09:25.794764",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "Okay. And then if I need them to stay and help move some furniture around. That'll just be like, if they have to say, I don't think it will take them seven hours honestly, everything is already packed up, I've already packed all the boxes that need to go. So, if they say, well, how do I phrase this, if we get all that done and then I asked them to stay and help the furniture around, can we just add that time on if they need to stay longer? Is, is that how that works?",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:09:33.685614",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:09:44.940764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:09:50.340764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "question",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:09:54.745614",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm yes, ma'am. That's what will happen but if you want, I could just add an hour to the original estimate. So we don't have anyone that will book after you in the afternoon just to make sure that you have all the movers all day. If ever you need that mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:10:04.140764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "Okay, and then if.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:10:25.285614",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "Okay, and then if it doesn't take them that long, do I, do we just chop some of that time off and I don't have to pay for that?",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:10:28.285614",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm yes, ma'am. So, let's say for example then we've only take about five hours, then you will only be billed for five hours.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:10:34.140764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "Mm-hmm.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:10:41.485614",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "Okay, alright, that sounds good. Thank you very much.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:10:43.885614",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright then.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:10:45.540764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "positive_sentiment",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:10:47.185614",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "support_issue_resolved",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:10:47.185614",
+      "type": "moment"
+    },
+    {
+      "content": "You're welcome again I'll just adjust this to add an hour onto that to two. So, from seven I made it to eight hours and then I'll just send you an updated confirmation email ma'am.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:10:48.540764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "Okay. Alright, great. Thank you.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:11:01.285614",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "positive_sentiment",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:11:01.285614",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm you're very welcome. Thank you so much for your time and we'll see you on Sunday. Have a good day. Bye-bye.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T21:11:02.940764",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCuPq04QsM",
+      "content": "Okay, great. Thanks, you too, bye-bye.",
+      "name": "Jenn Weber",
+      "time": "2026-09-01T21:11:09.085614",
+      "type": "transcript"
+    }
+  ]
+}

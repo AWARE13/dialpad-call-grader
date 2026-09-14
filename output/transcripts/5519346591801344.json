@@ -1,0 +1,502 @@
+{
+  "call_id": "5334640675987456",
+  "lines": [
+    {
+      "content": "Good morning, this is Joanna. How can I help?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:55:01.245535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:55:01.245535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:55:01.245535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:55:01.245535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:55:01.245535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:55:01.245535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:55:01.245535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:55:01.245535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:55:02.743535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:55:03.383535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "Hi! I have a a move scheduled for next week but our sellers are actually leaving early and we wanted to see if it could be possible to move up-to-date at all.",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:55:05.136151",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "call_purpose",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:55:05.136151",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, got it. Let me just double-check just me. May I please have the email address associated with your profile.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:55:19.845535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "Let me look.",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:55:33.936151",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:55:36.645535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "A-C-T seal @gmail.com.",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:55:54.936151",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "email_address",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:55:57.214151",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, one second just to confirm that's A. For apple C. For Charlie, T. For T-S-T-E-E-L-E.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:56:03.045535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:56:09.703535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "S-T-A-C-E-Y-E like Tom deal S-T-E-E-L-E. At Gmail.",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:56:15.936151",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "ner",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:56:19.694151",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, okay, thanks. Okay, just one second.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:56:22.845535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "ner",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:56:23.014151",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, so right now, this move is scheduled on the third, which is a Thursday and you wanna move it earlier than that, is that correct?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:56:48.645535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "They're leaving on Friday and so we can move-in as early as this weekend. I just wondered if you had any flexibility to do that.",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:57:03.936151",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm sure, let me just double-check in terms of our availability, one second.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:57:11.445535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "The earliest we can already send out two trucks and foreman won't be until Tuesday the first.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:57:27.645535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "So we.",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:57:41.136151",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "You, I should also say I think we are not gonna move everything that was on that list. We haven't sold our house yet and are going to leave some of it to schedule a second date to move the rest of it. Would you have flexibility if it were like two people in one truck?",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:57:44.736151",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, let me just double-check.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:58:02.445535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "question",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:58:04.774151",
+      "type": "moment"
+    },
+    {
+      "content": "Right now if we can, we you want to split the move into two days. We can do Sunday and then Monday, I'm sorry, Sunday and then Tuesday we're also booked on Monday.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:58:09.045535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "Well, I think we could get everything done that we need on Monday the second day would have to be in a few months. Like, we're leaving some of the furniture instead of staging the house, basically.",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:58:24.336151",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. Okay, so if that's the case, what I can do is let's see. Just one second.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:58:38.445535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "So, on Sunday.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:58:58.245535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay. Let me just go ahead and give you that truck, truck for Sunday. Okay. So that would be just for two guys and the truck and then what I really wanna do here is to have one of our specialist, the previous representative you spoke within the past to get in touch with you.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:59:01.943535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "I'm sorry you're breaking up a little bit did you say, say that last part one more time?",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:59:20.736151",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:59:22.863535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I'm sorry.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:59:24.045535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Yup, so in order for us to already get that spot for Sunday. I'll go ahead and get you that Sunday schedule for two men and a truck but I would still want to have our representative or the specialist you spoke with last time to reach out to you just to you know finalize the move itself cause this is a large move. I usually don't handle this kind of moves. And I just wanna make sure that the worst, the right expectation. So for this one but, I'll go ahead and you know get you on that schedule on Sunday already. Now, of course we just move as much as we can. I'll just book you in for a full day on that day. And of course on a move this size you we just you know, we won't be able to take everything but, we just prioritize what you guys wanna move on Sunday. Okay and then we just have to yeah I'll just have one of our special.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:59:26.445535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:59:30.583535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "Great.",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:59:38.136151",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "positive_sentiment",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:59:38.136151",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "Great.",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:59:47.736151",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "positive_sentiment",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:59:47.736151",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T15:59:57.423535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "Perfect.",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:59:58.536151",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "positive_sentiment",
+      "name": "Donan Steele",
+      "time": "2026-08-24T15:59:58.536151",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T16:00:13.623535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T16:00:18.023535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Specialist reach out to you just to make sure we finalize everything in terms of dates and expectations in terms of pricing as well, okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T16:00:22.845535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T16:00:23.463535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "Terrific.",
+      "name": "Donan Steele",
+      "time": "2026-08-24T16:00:32.136151",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, but I'll go ahead and get you that Sunday schedule already so we already have that spot. Alright? Okay, and yup, the Thursday won't be happening so for just to make sure we're on the same page. We'll do the first move on Neda the Sunday which is this coming Sunday but as for the second move, you won't have any dates for that just yet. Is that right?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T16:00:33.645535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T16:00:34.143535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "Thank you and we'll cancel the next Thursday.",
+      "name": "Donan Steele",
+      "time": "2026-08-24T16:00:38.136151",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "Request for Cancellation",
+      "name": "Donan Steele",
+      "time": "2026-08-24T16:00:40.934151",
+      "type": "custom_moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T16:00:41.103535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "That's correct.",
+      "name": "Donan Steele",
+      "time": "2026-08-24T16:00:57.936151",
+      "type": "transcript"
+    },
+    {
+      "content": "I understand. Okay, no problem. I'll go ahead and get you that Sunday job, but are you still planning to do those multiple stops or just gonna be the Hillside Avenue straight to Robinhood trail.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T16:00:59.445535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "address",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T16:01:10.623535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "Yeah.",
+      "name": "Donan Steele",
+      "time": "2026-08-24T16:01:11.136151",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "Both the, yeah, we're mostly gonna just leave major furniture. But the boxes from both the sites are coming. Thank you.",
+      "name": "Donan Steele",
+      "time": "2026-08-24T16:01:13.536151",
+      "type": "transcript"
+    },
+    {
+      "content": "I still doing it. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T16:01:16.245535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see. Okay, no worries.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T16:01:21.045535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Got it. Alright, no worries. Talk to you later just to make sure we finalize everything in terms of pricing and expectations, okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T16:01:25.845535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "issue_unresolved",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T16:01:28.583535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "Terrific.",
+      "name": "Donan Steele",
+      "time": "2026-08-24T16:01:36.336151",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, thank you so much. Talk to you later bye.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T16:01:37.245535",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "issue_unresolved",
+      "name": "Joanna Ballon",
+      "time": "2026-08-24T16:01:39.583535",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8t_Cl8QgM",
+      "content": "Alright.",
+      "name": "Donan Steele",
+      "time": "2026-08-24T16:01:42.336151",
+      "type": "transcript"
+    }
+  ]
+}

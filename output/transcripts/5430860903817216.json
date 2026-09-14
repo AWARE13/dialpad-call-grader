@@ -1,0 +1,782 @@
+{
+  "call_id": "4767803785551872",
+  "lines": [
+    {
+      "content": "Thank you for calling Einstein moving this is Bree. How may I help you?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:22:51.205096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:22:51.205096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:22:51.205096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:22:51.205096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:22:51.205096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:22:51.205096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:22:52.286096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:22:53.366096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Good morning Bree. I'm trying to get a quick quote on a, on a small move.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:22:55.224966",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "call_purpose",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:22:55.224966",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "ner",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:22:56.793966",
+      "type": "moment"
+    },
+    {
+      "content": "A absolutely, I'm happy to help you with that. What date are you looking to move?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:22:59.605096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:23:04.526096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "So it's gonna be going from Austin, Texas to Houston, Texas.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:23:07.224966",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "ner",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:23:09.513966",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "ner",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:23:13.473966",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, what date are you looking for?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:23:16.405096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:23:18.205096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "The dates are going to be the end of October. So, looking at the thirty first.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:23:21.024966",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Of October.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:23:36.624966",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:23:38.605096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Alright, we definitely have openings for that move because it is a over like a long drive from San antonio to Houston. I'm, what I'm gonna do is get some basic information from you and then I'll transfer you over to our specialist who handles those longer moves.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:23:45.805096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "No.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:23:51.024966",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:23:55.726096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:23:56.646096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Well.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:23:58.824966",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Okay.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:24:05.424966",
+      "type": "transcript"
+    },
+    {
+      "content": "And then may I get your first name.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:24:06.805096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Jessie.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:24:10.824966",
+      "type": "transcript"
+    },
+    {
+      "content": "And that is that just J-E-S-S-I-E.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:24:14.005096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "J-E-S-S-E. Okay.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:24:18.024966",
+      "type": "transcript"
+    },
+    {
+      "content": "And then your last name.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:24:23.005096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "James.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:24:25.824966",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. And Jessie, is this a good number for you the 214-202-0806.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:24:32.005096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:24:33.326096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "phone_number",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:24:35.126096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Yes ma'am.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:24:39.024966",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and again, no need to take notes. We will go ahead and email all this information over to you. Is there a good email that we can send that to?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:24:40.405096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:24:42.526096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:24:45.206096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "It's gonna be A. As in apple, B as in boy, M. As in Mary, P as in Paul, the number three, @yahoo.com.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:24:49.224966",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "ner",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:24:53.713966",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "ner",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:24:55.233966",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "email_address",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:24:57.833966",
+      "type": "moment"
+    },
+    {
+      "content": "Great and just see how to hear about us.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:25:03.805096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Well, just online looking for a moving company to help, help my friend move from again from Austin, Texas to Houston.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:25:06.624966",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:25:09.205096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Alright.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:25:12.805096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "ner",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:25:17.113966",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:25:18.205096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "ner",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:25:18.953966",
+      "type": "moment"
+    },
+    {
+      "content": "I love been sort of the, again.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:25:21.205096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Yeah, I was trying to make sure we got it correct as possible.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:25:27.024966",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes sir. Alright, what is the first location address?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:25:32.005096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Okay, hold one moment. First location address is.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:25:37.824966",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Okay, it's gonna be, 7301.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:25:51.624966",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "South interstate 35.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:26:01.224966",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "And then that's gonna be in Austin, Texas. 78744.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:26:12.624966",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "ner",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:26:14.833966",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "postcode",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:26:16.224966",
+      "type": "moment"
+    },
+    {
+      "content": "And is this an apartment or a house?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:26:23.605096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:26:24.246096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Apartment.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:26:26.424966",
+      "type": "transcript"
+    },
+    {
+      "content": "And do you know the square feet of that?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:26:30.205096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:26:30.766096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "It's a small apartment one bed.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:26:33.024966",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, I like 600 suite maybe.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:26:37.405096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Maybe. Yeah, it's a small apartment and then like I said it'll only be probably ten items or so big dresser so far TV stand. So TVs.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:26:42.024966",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:26:51.205096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Maybe a few boxes.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:27:04.224966",
+      "type": "transcript"
+    },
+    {
+      "content": "And then, do you know what floor that apartments on?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:27:16.405096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:27:17.006096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "The.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:27:20.424966",
+      "type": "transcript"
+    },
+    {
+      "content": "I'm sorry, what for?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:27:23.605096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "The third floor has an elec has an elevator as well though that's a short walk to the elevator down the loading area right by the door.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:27:25.824966",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:27:27.205096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:27:31.405096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:27:41.005096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Do you have a unit number for that apartment?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:27:46.405096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:27:46.405096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "It's gonna be 322.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:27:49.224966",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. And then our Houston address.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:27:56.005096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:27:58.366096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "H-Town let's see, let me pull that up real quick.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:28:01.224966",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Alright.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:28:13.224966",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "I just don't.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:28:18.624966",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Hold on one moment sir.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:28:27.624966",
+      "type": "transcript"
+    },
+    {
+      "content": "Of course. Take your time.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:28:30.205096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Dot com. Sure.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:28:55.224966",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Okay, so it's gonna be 130.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:29:05.424966",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "30.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:29:13.824966",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "And I'll spell the name street name. It's gonna be S-A-G-E B-U-R-R-O-W stab, sage borough.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:29:17.424966",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "ner",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:29:27.624966",
+      "type": "moment"
+    },
+    {
+      "content": "Houston, 77089.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:29:30.805096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:29:30.805096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Yes.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:29:34.224966",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and then is that gonna be an apartment house.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:29:38.005096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Apartment.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:29:42.624966",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, you're looking about the same square footage as the first one about one bedroom.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:29:44.605096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Mm-hmm uh-huh yes ma'am.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:29:48.624966",
+      "type": "transcript"
+    },
+    {
+      "content": "Do we know what floor that one is on?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:29:51.805096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:29:51.805096",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "The first floor.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:29:55.224966",
+      "type": "transcript"
+    },
+    {
+      "content": "And then distance from where they can park the truck to the door. You think in pretty close twenty feet, fifty feet.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:30:00.805096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Now that one I'm not 100 percent sure if they what's, you know, what the loading here is gonna look like right there.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:30:07.824966",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, that's not a problem.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:30:18.805096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Alright.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:30:21.624966",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. I think I've got all the information that I need. Would you mind just holding on just one moment while I see if a specialist is available to take over?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:30:24.205096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Not at all.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:30:34.224966",
+      "type": "transcript"
+    },
+    {
+      "content": "Awesome. Thank you so much for your time and patience, I really appreciate it.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-24T16:30:35.605096",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8l_zu1AsM",
+      "content": "Same to you.",
+      "name": "Jesse James",
+      "time": "2026-08-24T16:30:39.624966",
+      "type": "transcript"
+    }
+  ]
+}

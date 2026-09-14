@@ -1,0 +1,796 @@
+{
+  "call_id": "5704202800111616",
+  "lines": [
+    {
+      "content": "Hello, good morning this is Arlene with is how can I help you today?",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:22:24.894210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:22:24.894210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:22:24.894210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:22:24.894210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:22:24.894210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:22:24.894210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:22:24.894210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:22:28.554210",
+      "type": "custom_moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Hello.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:22:35.094210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Hello, can you hear me?",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:22:39.286195",
+      "type": "transcript"
+    },
+    {
+      "content": "Hello. How can I help you? Yeah, I can hear you now.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:22:42.294210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:22:43.114210",
+      "type": "custom_moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Okay, okay, I was just trying to get an estimate for you guys moving services.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:22:45.286195",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "call_purpose",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:22:45.286195",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm okay, let me help you with that if I may ask. Do you have any date in mind on when you'd like to move?",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:22:51.294210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "September 17th.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:22:54.886195",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "date",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:22:54.886195",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, so September 17th if that is a Thursday. Alright, let me create your profile here so we can give you an estimate. May I have your first and last name please.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:23:02.694210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "date",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:23:03.714210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Christian Anu.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:23:13.486195",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "ner",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:23:13.486195",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, and what is the best phone number? Is it the one you're using right now?",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:23:16.494210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:23:18.994210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Yes ma'am.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:23:20.686195",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, may I have your email, please.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:23:22.494210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "My email is S-A-U-C-Y-C 23 @icloud.com.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:23:26.086195",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "pii",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:23:27.943195",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "email_address",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:23:32.183195",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, thank you.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:23:35.694210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "So if I'm gonna read that it's a CC 23 @icloud.com.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:23:39.894210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Okay, yes, ma'am.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:23:42.286195",
+      "type": "transcript"
+    },
+    {
+      "content": "pii",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:23:43.034210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "email_address",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:23:43.514210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Okay, thank you. May I have the complete address of the pickup location?",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:23:46.494210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "And then I'll pick up per 130594 Star Boulevard.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:23:48.286195",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "address",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:23:52.343195",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Apartment number 4102.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:24:02.086195",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Austin, Texas.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:24:06.886195",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "ner",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:24:06.886195",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "78737.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:24:10.486195",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Thank you. What is the square footage of your apartment and how many bedrooms?",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:24:13.494210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "It is two bedrooms and it's about a 1200 Square Foot, 1100 Street.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:24:20.686195",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "address",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:24:26.686195",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:24:26.754210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "1100, okay. And are there any additional rooms where we have to get your things? Let's say do you have an office balcony or maybe a storage in this apartment?",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:24:30.894210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Yes.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:24:32.686195",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:24:33.714210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "No matter.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:24:42.286195",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and what floor is it located?",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:24:44.094210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "That's okay, can I ask what floor?",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:24:45.286195",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:24:45.434210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "question",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:24:47.343195",
+      "type": "moment"
+    },
+    {
+      "content": "Yes.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:24:50.094210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "I'm in a, I'm in a townhouse.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:24:51.286195",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, I see.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:24:53.694210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Is this a two story or three story town home?",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:24:57.294210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:24:57.294210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "It's a two story Taho.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:25:00.886195",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:25:03.294210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Kenny park in front of the, of your unit or this will be like a street parking?",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:25:06.294210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:25:06.294210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Yeah, no. You can park in front of my unit.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:25:09.886195",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Normally for 1100 square feet, we see 35 to 45 boxes. Do you think you would fall within that range?",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:25:14.694210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:25:24.754210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Maybe even less than that I don't think I need that many boxes. I just need the people to come move like the heavy stuff, like couches, like couches bed, my couches bed and like some like tables and stuff like that, the cabinets.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:25:28.486195",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm. Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:25:44.094210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Yeah, I would need any I don't, yeah, I would need no boxes. Yeah.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:25:47.686195",
+      "type": "transcript"
+    },
+    {
+      "content": "So we're only gonna fur on furniture. Okay, got it thank you. I just like to ask as well if you have any workout equipment a safe or maybe a piano.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:25:47.694210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "No.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:25:58.486195",
+      "type": "transcript"
+    },
+    {
+      "content": "Anything valuable like art pieces or an collection.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:26:02.094210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "No matter.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:26:03.286195",
+      "type": "transcript"
+    },
+    {
+      "content": "How about large appliances like, Washer/Dryer or a TV? That is more than sixty inch.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:26:11.694210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "No ma'am.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:26:18.286195",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, may I have now the address of our drop-off location?",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:26:20.094210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Hey, it's literally right next to so, we're moving to the townhome that's to the right of us. So it's the same address but it's 4101.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:26:22.486195",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:26:34.494210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "What is the square footage and how many stories in bedroom?",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:26:39.294210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Same story, same square footage. We're just moving, we're moving to like our, we're moving to the unit, that's literally to the right of us.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:26:40.486195",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. Okay. Thank you.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:26:53.094210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:27:04.834210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Okay let me know discuss the pricing here and your estimate here at eir. We charge an hourly rate that is $208 per hour for two movers already. And everything is included to that gas and truck taxes insurance. All the wraps and pads to protect the items when being moved and all the tools to disassemble and reassemble your furniture.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:27:07.494210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "That is $8, okay.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:27:12.886195",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:27:16.874210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "currency",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:27:18.343195",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "All of them the item and it's and we have service. Okay visa.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:27:25.486195",
+      "type": "transcript"
+    },
+    {
+      "content": "We do not have any hidden fees of any type. No credit card fees, no sterle fees, no transportation fees. So again fees of any type. And for our improve sir, we do have a minimum of two and a half hour after the minimum. The time is prorated in fifteen minute increments. So for your estimate here Christian, normally for a 1100 square feet house we finished the move-in six hours. It's been in your case.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:27:36.894210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:27:39.154210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:27:45.674210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "As.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:27:47.086195",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:27:51.714210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Okay, showers.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:27:56.686195",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:27:59.154210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Moving only the large items furniture, the tech door. So I would only submit this to finish in three hours to four hours with two movers estimated cost $624.832 with two movers and one truck. But of course, this is only an estimate. If ever the move takes less than this, you will only be charged for how much time we use during the move-in mind that we do have a minimum of two and a half hours, which is $520.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:28:06.914210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "At 8:00 it's Bute. How much time?",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:28:17.686195",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "time",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:28:18.663195",
+      "type": "moment"
+    },
+    {
+      "content": "currency",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:28:18.754210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "contact_name",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:28:26.023195",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Okay.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:28:35.086195",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:28:38.154210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Okay, okay, great.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:28:39.886195",
+      "type": "transcript"
+    },
+    {
+      "content": "Would you like to be on the schedule? No deposit is required.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:28:42.294210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:28:42.294210",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Is there any way you can email me that and then and then is there any way I just got to talk over things with my wife and then after that, I'll give you guys a callback.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:28:46.486195",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "action_item",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:28:48.583195",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, of course.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:28:50.094210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:28:58.494210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "action_item",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:28:59.103195",
+      "type": "moment"
+    },
+    {
+      "content": "Yup, that's totally fine. I'll just send you an email as well with the estimate details and if ever you decided to move with us just reply to that email or give us a call again no deposit is required. So no risk and securing your.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:29:01.494210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "Okay. Okay, thank you.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:29:12.286195",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm thank you so much for your time and have a good day.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:29:17.694210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "You too, have a great day.",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:29:21.286195",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCnb3_jAgM",
+      "content": "positive_sentiment",
+      "name": "Christian Agnew",
+      "time": "2026-08-30T15:29:21.286195",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you, bye-bye.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-30T15:29:23.694210",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    }
+  ]
+}

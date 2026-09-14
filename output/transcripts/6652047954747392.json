@@ -1,0 +1,642 @@
+{
+  "call_id": "5635491774799872",
+  "lines": [
+    {
+      "content": "Good morning, this is Joanna. How can I help?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:38:55.130684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:38:55.130684",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:38:55.130684",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:38:55.130684",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:38:55.130684",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:38:55.130684",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:38:56.603684",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:38:57.403684",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Hi. Yes. I was calling to get some prices on movie Gus and I'd also need help with your packing everything too.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:38:59.850654",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "call_purpose",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:38:59.850654",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "ner",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:39:05.698654",
+      "type": "moment"
+    },
+    {
+      "content": "Of course, no worries. I'd be glad to help you out with that. If I may ask when are you planning to do your move?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:39:10.130684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:39:15.243684",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "We are planning on doing it on the twenty third.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:39:19.650654",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, twenty third of this month, correct?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:39:24.530684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "That's right.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:39:29.850654",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, Sunday. Alright, what's the zip code where your account mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:39:29.930684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Oh, I'm sorry. I, I'm so sorry. It's gonna be the 16th of September.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:39:32.850654",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:39:35.930684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "date",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:39:38.138654",
+      "type": "moment"
+    },
+    {
+      "content": "Sixteenth. Okay, that's a Wednesday. Alright and what's the zip code where you're coming from?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:39:38.930684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Yes.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:39:43.650654",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:39:44.203684",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "78735.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:39:48.450654",
+      "type": "transcript"
+    },
+    {
+      "content": "And going to.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:39:51.530684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "It would be I don't really know yet, but it will be a place in Lakeway and that zip code is 787 I believe that's 38.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:39:55.650654",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:39:58.130684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "In lake way.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:40:01.130684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, that's fine, no worries. Okay, just bear with me one second.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:40:07.130684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "And we're flexible it could be Wednesday or Thursday.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:40:16.050654",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, that's perfectly fine. Oh, I sure. Are you coming from a house or an apartment. If I may ask a house, how many square foot home do you have?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:40:19.130684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Or even Tuesday.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:40:23.250654",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "House.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:40:28.650654",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "3000.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:40:33.450654",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. Now with that being said what I can do is, I can create a profile for you. Just ask you just the basic questions. Usually for a house, the size we do a virtual walk first. So it's a video call in order for us to assess how much items we're moving for you, especially you're also interested in packing. That way we can give you a more personalized estimate. Okay?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:40:33.530684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Okay.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:40:43.050654",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Okay.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:40:59.250654",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. So once I created your profile, I'll endorse you to one of our specialist who can handle this large home of yours for a quotation. But for the meantime may I please have your name and your email. We'll we send everything in an email as well.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:40:59.330684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Okay, my name is Jill Dyer.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:41:15.450654",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "contact_name",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:41:17.698654",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "ner",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:41:17.698654",
+      "type": "moment"
+    },
+    {
+      "content": "Thanks, Joe. And this is your best contact number 512-217-7819.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:41:20.330684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:41:21.083684",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "phone_number",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:41:23.643684",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Yes.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:41:28.650654",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And how about your email address.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:41:28.730684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "It's Jill tier 911 @gmail.com.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:41:32.850654",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:41:34.130684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "contact_name",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:41:34.298654",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "pii",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:41:36.818654",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "email_address",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:41:37.858654",
+      "type": "moment"
+    },
+    {
+      "content": "Got it. Thank you and just a quick question, Jill, how did you hear about us?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:41:38.330684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:41:42.523684",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:41:43.163684",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Oh I just, I'm looking on Google right now.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:41:46.050654",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. Okay, thank you and may I please have your pickup address?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:41:49.130684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "ner",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:41:49.418654",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "8500 box elder cove, B-O-X-E-L-D-E-R cove and.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:41:56.250654",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:41:57.530684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Got it. Thank you so much. You mentioned it's about 3000 square feet. How many story home is this one?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:42:05.930684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:42:12.203684",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Two story.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:42:14.250654",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Two stores. And how many bedrooms do we have here?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:42:16.730684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Four.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:42:23.250654",
+      "type": "transcript"
+    },
+    {
+      "content": "Can we park on the driveway or on the street longer walking distance driveway. Perfect and you also need to help with packing. Okay and so you don't have an exact address in Lakeway yet, correct?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:42:24.530684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:42:24.530684",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Driveway.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:42:29.250654",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "No, because I think we're gonna have to move our stuff to storage.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:42:40.650654",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup, oh, okay that's perfectly fine for the meantime I'll just put the, like the zip code you've given a leak way is let's see.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:42:44.930684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Okay, yeah.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:42:55.650654",
+      "type": "transcript"
+    },
+    {
+      "content": "One second.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:43:02.330684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Should I use the 77787 is that, is that a good zip code?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:43:05.930684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:43:05.930684",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "78735 is in my home address right now.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:43:13.050654",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, got it thank you.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:43:14.930684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Alright, that's fine. Once you already have it, then you just let us know before the meantime. I'll just put it like more on a storage set up. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:43:28.730684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Okay.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:43:38.250654",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Alright, That's everything I need for now. Joe just stay on the line while I connect you over to one of our specialist, okay?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:43:38.930684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:43:44.603684",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Okay.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:43:50.250654",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, thank you so much.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:43:50.330684",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Thank you for patiently waiting, Joe, I'm so sorry for the long wait. Yeah, everybody's just on the phones right now but I went ahead and just send your information to our specialist so they can give you a call back once they're available, okay?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:45:50.886602",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:45:53.195602",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "issue_unresolved",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:46:05.075602",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Okay, sounds good.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:46:08.013241",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, so we'll just reach out to you if we weren't able to get, get you on the phone we just you know send you an email more likely to schedule like a virtual walkthrough. So we can get you started with the quotation as well, okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:46:09.486602",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Okay, thank you.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:46:25.413241",
+      "type": "transcript"
+    },
+    {
+      "content": "Awesome, thanks so much Michelle, talk to you later bye.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:46:26.886602",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:46:28.675602",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "issue_unresolved",
+      "name": "Joanna Ballon",
+      "time": "2026-08-19T16:46:29.355602",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8uum41wgM",
+      "content": "Okay, okay, bye-bye.",
+      "name": "Jill Dyer",
+      "time": "2026-08-19T16:46:29.613241",
+      "type": "transcript"
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "call_id": "4518793718046720",
+  "lines": [
+    {
+      "content": "Hi, good morning. This is juline with Einstein moving, how can I help you today?",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:45:59.014313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:45:59.014313",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:45:59.014313",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:45:59.014313",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:45:59.014313",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:45:59.014313",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:46:01.178313",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:46:01.658313",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:46:02.818313",
+      "type": "custom_moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "Hey! I had reached out about like a week or two ago to get a quote. I just kinda wanted to get a little update and little kinda been selling some stuff out of the house and trying to get ourselves together to make this move maybe in the next month or so, and I just wanted to see here availability wise if you guys still have availability October 1st and, and I don't know if you'll be able to pull up my information from the last time I spoke to somebody and got a quote or we just got to do it over again or I don't know how it works.",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:46:04.809724",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "call_purpose",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:46:04.809724",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "date",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:46:26.016724",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, yeah, let me check your profile here. May I know what's your first and last name as well as your email address.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:46:36.814313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "The first name F-A-R-O. Last name is C-H-A-T. As in Tom, E-R cheater and email is SS. Chad @gmail.com.",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:46:46.209724",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "ner",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:46:51.776724",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "email_address",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:46:56.536724",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, yeah.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:46:59.014313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Let me just pull up your profile just give me a few seconds please.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:47:02.614313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "Sure.",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:47:09.009724",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "Okay.",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:47:18.609724",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, I found your profile here just to confirm. This is a move from 3641 as far drive to branch Georgetown.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:47:19.414313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "Yeah.",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:47:28.809724",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:47:29.778313",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "It's 4321 stone house, ranch bend Stonehouse ranch bend Georgetown Texas 78 should tell you forgot that I'm still trying to learn that needs, we're trying to learn with me on this, sorry. One second.",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:47:32.409724",
+      "type": "transcript"
+    },
+    {
+      "content": "Stonehouse.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:47:36.214313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "ner",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:47:42.009724",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, that's right.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:47:55.414313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "786-287-8620.",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:48:01.209724",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "phone_number",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:48:01.209724",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm okay, got it. Thank you.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:48:05.014313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "Is where.",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:48:12.609724",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. I have your approval open here. So, yes, sir, as per checking October 1st Thursday we still have availability so, would you like to confirm your booking now?",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:48:12.814313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "date",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:48:18.458313",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:48:22.418313",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "So, and then let's just go over some of the fees and some other stuff. What is it do you guys, I have a ceramic grill? Do you guys have a ceramic real fee, or is there like when the people come here? Am I going to be getting all these extra fees for moving stuff, I just thought, I'm just trying to understand that you know, just I have a fixed budget so I just don't want to be in the situation where it's you know, it's kinda, you know, break in the bank.",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:48:25.809724",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "question",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:48:30.609724",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm. Okay. Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:48:41.614313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm like, I understand uh-huh of course, sir. That's a very valid concern. We do not have any hidden fees, we only charge an hourly rate. So for this, it is actually noted that you do have a ceramic grill, ceramic barbecue grill. What will happen here, sir. Is we just added a time in moving in, moving that ceramic, that's why this quote is good for seven and a half hours estimated amount is $2,235. So, again, no hidden fees of any cost, even though we're gonna move this, it will just add an extra.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:48:50.614313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "Uh-huh.",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:49:12.609724",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:49:26.138313",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "For like, TV box thing like I have a 75 inch TV would they be able to help me to get that safely over to the new spot or how's it like the box it or how would they move, how would they move the TV?",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:49:34.209724",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "question",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:49:39.856724",
+      "type": "moment"
+    },
+    {
+      "content": "Re.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:49:45.814313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm for a 75 inch TV, sir. We do not have a TV case or a box for that. So, what we're gonna do is we're going to wrap it with the layers of moving blankets to protect it during the transportation.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:49:50.014313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "And then my last question to you is the I guess the in insurance I with the, like the one main thing to me that's very important to me is my ceramic grill. It cost me a lot of money to get it and I don't want it to break. And I'm trying, I'm like the move me paying for the move is you know his mainly really that's the one item I feel like I cannot absolutely do by myself I need some professionals to come in.",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:50:03.009724",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:50:19.414313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Who would? Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:50:32.014313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "Just wanted to see here how does it work for like the, like put it like something that's important on mine breaks or something like that. How does it?",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:50:33.696724",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "question",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:50:36.609724",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:50:40.178313",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Okay. Okay. So, let me just first assure you that our movers are not daily contracted workers. They're really trained in this industry so I can assure you that they will handle all.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:50:42.214313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "No, no, I totally understand that didn't be good but if accidents do happen, is there any insurance or anything or how does it, how does it work?",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:50:53.409724",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "question",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:50:57.896724",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, mm-hmm yes sir we provide an insurance. So aside for the statement dated insurance requirements here at Einstein we provide an additional insurance on top of that. So that is what we call, then no worry damage coverage which provides up to $2,000 per move to repair, replace or reimburse for any accidental damages.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:50:59.614313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:51:07.938313",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "currency",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:51:17.218313",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "So it's busy, and that's included in the rate.",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:51:27.609724",
+      "type": "transcript"
+    },
+    {
+      "content": "So.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:51:27.814313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm yes sir, it is actually one of the perks if you're gonna book with us. So no need for you to pay extra for this additional insurance coverage.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:51:30.814313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "So, it's included in the $222,300 that you quoted me, correct?",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:51:41.409724",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "currency",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:51:42.936724",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, sir. That is correct.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:51:47.014313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "Okay, so that's two oh, so, awesome, okay. Well then that's good and then you said 2300 okay, let me just real quickly, I'm just trying, we're, I'm waiting on some emails from the between the.",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:51:49.809724",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "positive_sentiment",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:51:49.809724",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "My realtor and the other realtor that's selling the my realtor. And the lady does representing the new homes that are being built that we're moving into. Let me real quickly just verify I'm looking at either October 1st or the week before that which is like September twenty fourth twenty fifth is, is what I'm looking at. I wanna see the options of, of what we have and be able to or is there availability. How are either of those days looking for you guys?",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:52:05.409724",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "date",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:52:17.776724",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "question",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:52:32.896724",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:52:34.414313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Oh, yes, sir. For the last week of September that's still open. So if you're considering that there is a high chance that you can accommodate you.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:52:37.414313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "And then you said it'd be it October 1st or September 25th, you said, either one of those you have availabilities for me.",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:52:48.009724",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "date",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:52:50.536724",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, sir. As of this time we still have availabilities on both days.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:52:57.814313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "And then, and then, what does it cost for me to reserve and how do I have to cancel, if for some reason something changed and I don't get approved for the house. If I don't get approved for the house, what?",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:53:02.409724",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "question",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:53:03.696724",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:53:08.614313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm. Oh.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:53:12.814313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Okay. We do not have any cancellation policy and we do not require any deposit. So no risk and securing the spot here. We just need your approval that you want to be on the schedule and then if there are any changes just let us know you are free to reschedule, update the addresses if ever and cancel.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:53:16.414313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "Okay, so let me just been I appreciate that. That's very kind. Let me go ahead and what I'm gonna do is let me just make sure real quickly hopefully by in the next hour or two by the end of the day I should be able to find out what's going on and make my decision as far as me proceeding whether it's gonna be September 25th oro, October 1st. So let me, let me just find out real quickly and I'll make my choice. And then if, even if it does change a little bit down the road I'll reach back out to you guys to update it to see if they're still sooner availability. If that works with my schedule one hours in your schedule.",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:53:44.409724",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "positive_sentiment",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:53:47.176724",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "date",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:54:04.896724",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:54:06.814313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "date",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:54:06.816724",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "issue_unresolved",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:54:15.696724",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:54:17.614313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm okay, so yeah, of course.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:54:21.814313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "Awesome, thank you so much for the I'll, I'll call you guys back to be able to reserve this. Thank you so much.",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:54:25.209724",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "action_item",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:54:28.136724",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "positive_sentiment",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:54:30.296724",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, you're very welcome sir. Have a good day. We'll talk to you later. Bye for now.",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:54:31.414313",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "issue_unresolved",
+      "name": "Jeline Lavarias",
+      "time": "2026-08-31T14:54:34.418313",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD86dLF7wgM",
+      "content": "Goodbye.",
+      "name": "Faro Chater",
+      "time": "2026-08-31T14:54:37.209724",
+      "type": "transcript"
+    }
+  ]
+}

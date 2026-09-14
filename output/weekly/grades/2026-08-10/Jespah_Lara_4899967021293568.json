@@ -1,0 +1,43 @@
+{
+  "call_id": "4899967021293568",
+  "rep_name": "Jespah Lara",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 5.4,
+  "datetime_ct": "2026-08-06 14:32 CT",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "total_score": null,
+  "mastery": null,
+  "save_your_ass_hit": false,
+  "meet_your_mover_hit": false,
+  "on_time_guarantee_hit": false,
+  "email_handoff_hit": false,
+  "agenda_opener_hit": false,
+  "section_scores": {
+    "1_set_agenda": "4/7",
+    "2_probe": "3/9",
+    "3_pricing": "N/A",
+    "4_clock": "N/A",
+    "5_estimate": "N/A",
+    "6_save_your_ass": "N/A",
+    "7_quote_booking": "2/11",
+    "8_politeness": "2/3",
+    "9_bonus": "5/8"
+  },
+  "items_missed": [
+    "Set the Agenda: never asked 'how are you today,' and gave no real agenda statement or explicit 'sound good?' before diving into the file recap.",
+    "Probe: only confirmed address, square footage, and who's packing -- never asked about additional rooms/garage, special access or hallway concerns, box count, storage stops, additional stops, or moving stressors; all of it was punted to the walkthrough.",
+    "Quote/Booking: no deposit-free mention, no confirmation email explained, no 'reply with corrections,' no hours/contact info given, and never asked 'any other questions before I let you go?' -- the call just trailed off into 'I'll reach out to my colleagues.'",
+    "Politeness: used the customer's name only twice ('G') across the whole call, short of the 3+ threshold.",
+    "Bonus: no insurance explanation (No Worries / 60 cents per lb) at all, no rapport-building moment, and the ballpark estimate delivery was garbled and hard to follow ('there's a transportation fee as well of... two $225 transportation fee')."
+  ],
+  "top_strength": "Jespah didn't dodge the pricing question when G pushed for a number before the walkthrough -- she gave an honest ballpark ('a home this size... comes out around $5,900... that's a very average, I'm not saying that's how yours will play out') and then reassured him it could land lower once the walkthrough scopes the actual load, which kept him willing to book the follow-up ('yeah, why not').",
+  "coaching_note": "Clean up the pricing explanation -- the transportation-fee line and the ballpark number came out jumbled and it's the kind of moment that makes a customer nervous about the whole call. You also let the close fizzle out: no deposit-free mention, no 'I'll send you a confirmation email,' no 'any other questions before I let you go' -- add those even on a walkthrough-routing call so G knows exactly what happens next. And since you already had him on the phone for 5+ minutes, ask one or two quick probe questions (packing help beyond boxes, any stairs concerns, access issues) so the walkthrough itself moves faster.",
+  "phone_presence_score": 3,
+  "phone_presence_label": "Adequate",
+  "phone_presence_notes": "Friendly, affirming word choice ('Awesome,' 'Got it,' 'Perfect') but the delivery is rambling in spots and there's no real acknowledgment when G reacts to the price ('it's kind of expensive') beyond a quick deflection.",
+  "audio_review_flag": true,
+  "audio_review_reason": "The pricing explanation is heavily garbled in the transcript (the transportation-fee line and 'the SMS might be lower than that' are hard to parse) -- worth a listen to confirm the actual delivery was clearer than the ASR suggests.",
+  "recording_url": "https://dialpad.com/blob/adminrecording/6234908019597312.mp3",
+  "customer_name": "Jie Fang"
+}

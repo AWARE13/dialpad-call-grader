@@ -1,0 +1,845 @@
+{
+  "call_id": "6120625353465856",
+  "lines": [
+    {
+      "content": "I start moving, this is Calvin.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:06:19.669224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:06:19.669224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:06:19.669224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:06:19.669224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:06:19.669224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:06:19.669224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:06:19.669224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:06:21.585224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Hey, Calvin. Hey, I did a online request for you folks to do a quote and they came out and I just wanna follow up and get a little more information on it.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:06:25.858544",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "call_purpose",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:06:25.858544",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "ner",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:06:26.664544",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, what was your email address?",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:06:30.469224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:06:32.269224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "SCO, T, TDY eight S. @gmail.com.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:06:38.458544",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "email_address",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:06:45.058544",
+      "type": "moment"
+    },
+    {
+      "content": "And the first letter was S. as in Sam or.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:06:50.269224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:06:53.385224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "E as in Edward, O. As in Oscar, and then T as in Tom. T as in Tom, D. As in dog. And then you said the letter or the number eight.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:06:56.869224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Yeah, Sam. Yes.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:06:57.658544",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:06:57.745224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "ner",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:06:58.504544",
+      "type": "moment"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:06:58.545224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:07:00.265224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:07:01.225224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Yeah, eight and then the letter S. as in Sam at Gmail.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:07:09.058544",
+      "type": "transcript"
+    },
+    {
+      "content": "Did you get an a quote emailed to you or, or was it through like yelp or something.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:07:16.669224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:07:21.385224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "I think it was on the web. I've got it right in front of me. So I just, you know, I, it pulled up, and I copied it off the web. I think I gave your information including phone number too.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:07:26.458544",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, what was your first and last name?",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:07:32.869224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:07:34.669224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "First name is Scott, last name Yates.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:07:40.858544",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "ner",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:07:41.824544",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "ner",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:07:43.704544",
+      "type": "moment"
+    },
+    {
+      "content": "And it shows you the quote there, but did it, did it like email to you? Just, I just can't find, I don't have it in the system for some reason.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:07:50.269224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Okay.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:07:59.269224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Yeah, it did, no, it didn't email to me. I got nothing on email. I just, I screenshot of the quote and then called you guys.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:08:00.058544",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Alright. Well, I can get you going and what was the move date?",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:08:02.869224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Move date we're looking at right now is September 14th.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:08:11.458544",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "date",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:08:12.984544",
+      "type": "moment"
+    },
+    {
+      "content": "Here.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:08:17.269224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "And then I have the number that you're calling on. This will be the best number for you.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:08:21.469224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Yes, it is.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:08:28.858544",
+      "type": "transcript"
+    },
+    {
+      "content": "And then what is the, what's the origin address? Where we're going to get the stuff from?",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:08:37.669224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:08:39.825224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "First one is the origin is 176 Landa Street apartment 210 in new Bradville.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:08:46.858544",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "address",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:08:49.184544",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. And how many bedrooms is that?",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:08:57.469224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "It's a two bedroom apartment but I would call it a three bedroom set up, as far as what we actually have.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:09:05.458544",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:09:07.069224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "And what floor are you on?",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:09:11.269224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:09:11.985224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "First floor both were destination and origin.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:09:16.858544",
+      "type": "transcript"
+    },
+    {
+      "content": "And then as far as number of boxes, I mean, typically for a three bedroom, we're seeing about 35 to 45 pre pack boxes. Do you think that sounds like it'll be about right in your case?",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:09:22.069224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:09:29.665224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "We're requesting fifty so we're going to use that as the number.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:09:35.458544",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, that works and then as far as special consideration items, do we have anything like a piano or a gun safe or anything?",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:09:35.869224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:09:42.225224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Nothing that big but we do have a tread bill, it's a fold up treadmill that weighs about 200 and probably just under three between 20300 pounds, it's fairly heavy. And then the other thing is washer and dryer that around pedestals front loaders.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:09:49.258544",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, or?",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:09:53.869224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Okay.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:10:00.469224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Let.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:10:04.669224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "And then a 65 inch flat screen TV is the only thing you know protection wise is.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:10:08.458544",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup, that'll fit in our TV bag. And then we'll have lots of pads and wrap. We do wrap all of the furniture you know, couches and bed frame pieces and everything's fully insured as well. It probably kind of breaks that down for what all is included there, and then the destination address. What is, what would that be?",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:10:11.269224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Yeah.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:10:22.258544",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Okay.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:10:24.658544",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:10:28.705224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "It's 5002. Drive oak trail. That's three words. Dry oak trail.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:10:34.258544",
+      "type": "transcript"
+    },
+    {
+      "content": "One story looks like.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:10:45.469224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "It's in south Austin, 78749.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:10:45.658544",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "ner",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:10:46.144544",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "One serious.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:10:51.058544",
+      "type": "transcript"
+    },
+    {
+      "content": "Could access there for the truck and park and then that looks to be.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:10:55.069224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "See what that drive is in there?",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:11:02.269224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "And then yeah, I would, I mean I would estimate out two man crew for the day basically. So you know, I think the call probably broke down some of this but yeah, basically there is a $150 trip fee that covers the empty truck, getting two new ramps. Once we get on site there, the hourly rate takes effect and for a two man crew it's $208 per hour and that includes all the pads and wrap reassembly what the tools will bring we can disconnect and reconnect the Washer/Dryer you just need a liability waiver signed for that. Since we aren't certified plumbers. But we do handle those very frequently. All of our guys are trained in that everything's insured, we don't have taxes. We don't have credit card fees.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:11:14.869224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "monologuing",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:11:24.225224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:11:28.385224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:11:37.265224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "And then we bill in fifteen minute increments after two and a half hour minimum. So you do just pay for the time that you use that day but typically a three bedroom apartment will take two guys around five to seven hours to move. We do have about an hour drive but everything is first floor. So you probably will be, I would say maybe in that in that range for, for that move.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:12:00.469224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "monologuing",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:12:13.105224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "monologuing",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:12:15.985224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "And that would put us with the trip fee included at seven hours. That estimated total cost would be $1,606 the main thing Scott that adds the most time for us is just things that don't get box like close and little pictures just things like that. So definitely the better pack and prep the more efficiently we can move and then yeah, all of our movers are background checked and trained in-house we have that no worries damage coverage which you know, just as higher evaluation on all your items. We go well build and beyond the 60\u00a2 per pound. That companies are required to carry and then outside of that on the fourteenth and we would get it going first thing in the morning between 9:30 and ten just basically to account for driving to, to a new Rams to get to get on site there.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:12:25.069224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:12:30.585224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:12:33.945224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Right.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:12:48.658544",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:12:57.665224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "time",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:13:07.745224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Yeah, I'm curious. So, so you're saying 55 hours of actual load time. So two and a half on two and a half off, and then drive time on top of that.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:13:18.658544",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, yeah, so I would, so, yeah, I would estimate a three bedroom apartment. It's typically five to seven hours of moving to get everything done and then we would just back to her in about an hour drive but since everything's ground floor you have a few more boxes than normal but since everything's ground floor I would still put you in that range even with the drive, like I wouldn't think you'd be like, you know, nine or ten hours of of time.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:13:24.469224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:13:34.505224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "monologuing",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:13:52.825224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "I think we're, we've done this a couple of times, I think we're closer to seven to eight hours cause I think we've done this a couple of times, I don't want a short change ourselves and say it's only gonna be five hours, I think it's.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:13:54.058544",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:13:55.669224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "monologuing",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:13:59.065224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:14:00.469224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Yeah, the $1,606 was Wasse would be seven hours. So if you want to and then for eight, I can give you that number as well with the trip fee $1,814. So, yeah, I would think that would be a pretty possible range would be then $7 to eight, so about.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:14:03.469224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:14:04.585224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "monologuing",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:14:10.905224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Oh.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:14:11.458544",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:14:14.869224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Yeah, just, just to know. Yeah, yeah.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:14:16.258544",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:14:16.305224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:14:20.585224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Yeah, that would be a full eight hours of, of moving and you know, that includes that drive.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:14:25.069224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Yeah, so you said 1814 for the eight hour.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:14:25.258544",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes sir. Uh-huh yeah.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:14:34.069224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Yeah, that includes trip charge everything. Right? That's the yeah, yeah it now can you send me that quote or can you send me something about that.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:14:35.458544",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, I can email you this over and then, yeah, if you want to move forward with that there's no deposit or anything required, you just need to send us back just to go ahead and we can get it, get it confirmed for that date.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:14:40.669224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "action_item",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:14:41.225224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "But any other questions that I can answer for you while we're on the phone here?",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:14:55.069224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Okay.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:14:57.058544",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "No, you, but yeah, I did give you my email, right. You've got that correct, correct?",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:15:03.058544",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup, I have the email, I double-check that so I have that correct and yeah, I'll get this emailed over to you here in a couple of minutes.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:15:03.469224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Yup. Thanks Scott. Have a great day.",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:15:13.069224",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:15:13.665224",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Call Closing",
+      "name": "Calvin Hughes",
+      "time": "2026-08-24T20:15:14.025224",
+      "type": "custom_moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Alright, Calvin. Thank you so much, appreciate it.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:15:14.458544",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "ner",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:15:15.224544",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "support_issue_resolved",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:15:15.584544",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "positive_sentiment",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:15:15.864544",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8r9f27AkM",
+      "content": "Okay, bye.",
+      "name": "(737) 802-7577",
+      "time": "2026-08-24T20:15:18.658544",
+      "type": "transcript"
+    }
+  ]
+}

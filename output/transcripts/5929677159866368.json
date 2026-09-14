@@ -1,0 +1,733 @@
+{
+  "call_id": "5678669473193984",
+  "lines": [
+    {
+      "content": "ai_scorecard_llm_v2_na",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:34.892368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:34.892368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:34.892368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:34.892368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:34.892368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_trigger",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:34.892368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Hi, this is Jules. How can I help you today?",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:41.947368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:41.947368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:41.947368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:41.947368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:41.947368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:41.947368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:41.947368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:41.947368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ner",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:43.052368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:44.012368",
+      "type": "custom_moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Hi Jules, my name is Patricia Lavelle I am calling to see if I could get a quote on a, a moving residential moving job.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:23:45.105862",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "call_purpose",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:23:45.105862",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "ner",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:23:46.515862",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "contact_name",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:23:47.395862",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "ner",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:23:47.395862",
+      "type": "moment"
+    },
+    {
+      "content": "Do you already have a date of when you're going to be moving?",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:57.547368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:57.547368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "question",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:23:57.547368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Yes, September 12th.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:24:01.305862",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "date",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:24:02.115862",
+      "type": "moment"
+    },
+    {
+      "content": "September 12th, okay, cool great. Are we moving you locally?",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:24:04.147368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:24:04.147368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "date",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:24:04.147368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Mm-hmm.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:24:06.105862",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:24:09.547368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Yes. So we are moving our belongings into a nearby storage facility. So it would just include moving everything and you know, loading and then unloading onto the storage space.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:24:12.105862",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:24:20.347368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Got it, okay.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:24:34.747368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "And I can tell you the only pieces of furniture we're gonna have our a a modular desk that comes in three pieces. They're pretty lightweight.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:24:35.505862",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "And we have two beds, one king size that has, you know, in, in a, in a queen size. I assume those will have to be taken apart. And then the mattresses for those beds and then everything else is already packaged in boxes. So, no other furniture, cause we're selling everything.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:24:54.105862",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, no problem. Let me see.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:25:22.147368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "And donating. Yeah, so, no, no, you know, other pieces of heavy furniture or anything bulky. So it should be pretty straightforward and pretty easy you know. Comparatively speaking I think.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:25:22.305862",
+      "type": "transcript"
+    },
+    {
+      "content": "Sounds good. Okay, let me see here one second.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:25:39.547368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Sure.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:25:42.705862",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Well basically we do just charge you know by the hour and our hour or actually can you ape the zip code we're starting at and the zip code we are going to.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:25:56.347368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Uh-huh.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:26:01.305862",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Okay, it's 75234.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:26:09.705862",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:26:17.947368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "In the storage facility should be no farther than you know, five miles but let's make it, you know, but how does, does the distance in affect the price?",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:26:19.305862",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:26:31.747368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Not at all sir. We just have you know, we just have free travel zones so it just depends where your location is but if it's within you know five miles of this location it should still be within our free travel zone. Basically, we do just charge by the free travel zone. It is fifteen miles from our office.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:26:36.547368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:26:36.547368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:26:39.332368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Okay, what is your free trial? I'm sorry what is your free travel zone? It is fifteen miles, okay? Oh, fifteen miles from your office. Okay. Okay. Where is your office?",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:26:50.505862",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "question",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:26:52.305862",
+      "type": "moment"
+    },
+    {
+      "content": "From our office.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:27:03.547368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "It's in farmers branch.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:27:07.747368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Oh, okay. So, yeah, so I think we'll be okay, yeah, okay.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:27:09.105862",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes sir we should be good.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:27:10.747368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Yup, awesome. Alright, so yeah, basically it is just by the hour, the hourly rate for a Saturday move is $222 per hour for two movers and one truck. That hour rate includes everything. The gas, the truck taxes and insurance. We will also bring our own tools for any disassemble or reassembly of the furniture.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:27:14.347368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:27:14.347368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:27:14.347368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "currency",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:27:21.492368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:27:22.612368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:27:30.532368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:27:31.612368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:27:32.452368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Okay.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:27:32.505862",
+      "type": "transcript"
+    },
+    {
+      "content": "And we will, you know, wrap up the furniture in, moving Blant wrap as well. So the only thing you could see outside of the hour the rate is if you decide to keep the moving blankets on the furniture while they're being sort in storage. You just require a deposit of $14 per moving blanket, which is 100 percent refundable. Once we get them back. However long it might be. So for this move, well, again, of course, just depends on what we're going to be moving on move day but we just have a minimum of two and a half hours and then the, then the time is prorated in fifteen minute increments.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:27:40.372368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Uh-huh.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:27:46.305862",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:27:59.452368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:28:19.332368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "So basically price starts at $555 and then we bill every fifteen minutes.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:28:23.347368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Okay, so.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:28:23.505862",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:28:26.852368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "555 in every fifteen minutes. Okay, now how about the mattresses? Do you offer something to protect the mattresses for moving?",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:28:32.505862",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "question",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:28:40.275862",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah. We do sell mattress back so we do not reuse them. We do sell them. And for mattress bags. Let me see for a queen mattress bag. It's $6 king mattress bags or $7.75.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:28:43.747368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Oh, okay.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:28:49.305862",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:28:56.412368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "currency",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:28:58.572368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Oh, so $6 for the queen and $7 for the king. Okay, okay, yeah, $775 sorry. And then we get to keep those right.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:29:01.305862",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "currency",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:29:02.115862",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "currency",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:29:05.275862",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm 775.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:29:07.147368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "currency",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:29:10.995862",
+      "type": "moment"
+    },
+    {
+      "content": "Definitely.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:29:14.347368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Okay. Alright. So that would just protect it's like a sleeve that goes onto the mattresses. Is that.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:29:15.705862",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, kinda like that.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:29:21.547368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "I'm sorry. Say that again.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:29:24.705862",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, it's kind of like a plastic offering for the mattress.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:29:25.747368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Last cover. Yes, yes, okay, yeah, that would work fine. Okay, so a minimum of two and a half hours so 550 that'd be the minimum plus a prorated fifteen minutes. Yeah, I think the two movers and the truck will be fine. So, yeah, that will cover our needs I think. And do you have availability for the twelfth.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:29:28.305862",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "support_issue_resolved",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:29:31.395862",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, right now we do.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:29:53.947368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Okay, and so here's the other thing, we would be moving back into the house three weeks later.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:29:55.905862",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:30:04.147368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "So, we would need to reverse this whole thing backwards and I guess so the situation will be the same, right, the rates because I think we would be doing it, we have three weeks because we're doing some home Reno renovations. That's why we have to move out. So, coming back will be a Saturday also. So the rate would be the same and, and it'll just be hourly and all every single stay the same. Correct?",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:30:04.355862",
+      "type": "transcript"
+    },
+    {
+      "content": "Definitely.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:30:13.147368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Uh-huh.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:30:22.147368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Definitely.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:30:32.347368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:30:33.705368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "Okay. Okay, well that sounds great. Let me just talk to my husband about that and then we will give you a call guys a callback to book it if we decide to go ahead with, with, okay? Alright, thank you so much for your help, I appreciate it. Have a good day. Bye.",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:30:33.705862",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "action_item",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:30:40.115862",
+      "type": "moment"
+    },
+    {
+      "content": "Sounds good. Thank you so much.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:30:47.947368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "support_issue_resolved",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:30:50.035862",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD8lcbPmwgM",
+      "content": "positive_sentiment",
+      "name": "(205) 381-5171",
+      "time": "2026-08-21T14:30:51.035862",
+      "type": "moment"
+    },
+    {
+      "content": "My pleasure. Bye.",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:30:52.147368",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-08-21T14:30:52.147368",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    }
+  ]
+}

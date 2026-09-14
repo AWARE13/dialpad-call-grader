@@ -1,0 +1,992 @@
+{
+  "call_id": "6188299040268288",
+  "lines": [
+    {
+      "content": "Hello, good afternoon Arden here from Einstein moving. How can I help?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:20:48.168831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:20:48.168831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:20:48.168831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:20:48.168831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:20:48.168831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:20:48.168831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:20:48.168831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:20:48.168831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "ner",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:20:50.301831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "ner",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:20:50.981831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "question",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:20:52.181831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Yeah. Hi, I'm hoping to schedule a move for August 29th one bedroom apartment.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:20:52.236905",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "call_purpose",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:20:52.236905",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "date",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:20:58.213905",
+      "type": "moment"
+    },
+    {
+      "content": "Of course. Give me one second sir. August 29th.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:21:00.768831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "date",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:21:04.981831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "Okay. Yes, we have availability for August 29th sir. May I have your full name please.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:21:11.568831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "date",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:21:14.061831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Yes, my name is Sona, last name is Kos, C-O-S-H-A-L.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:21:16.836905",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "contact_name",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:21:18.853905",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "ner",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:21:18.853905",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:21:21.768831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "ner",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:21:22.293905",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. And how about your phone number?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:21:26.568831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "803-240-7460.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:21:30.036905",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "phone_number",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:21:30.036905",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. How about your email address?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:21:35.568831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "My first and last name, the number one @gmail.com.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:21:38.436905",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "email_address",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:21:41.413905",
+      "type": "moment"
+    },
+    {
+      "content": "So, it's so Sona coal one @gmail.com is that correct?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:21:42.768831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "email_address",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:21:48.101831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "question",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:21:49.461831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Correct.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:21:50.436905",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, one second.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:21:51.768831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "I have the complete address of the first location sir.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:21:56.568831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "5700 east riverside drive, Austin, Texas.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:22:02.436905",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "ner",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:22:05.893905",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:22:06.141831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "Okay, what's the unit number of the apartment?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:22:07.968831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "question",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:22:09.141831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "2118.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:22:12.036905",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:22:13.821831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "2118, okay, and how many square footage is the apartment, sir?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:22:14.568831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "About 1100.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:22:18.636905",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:22:21.101831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "1100 and it's just a one bedroom apartment, sir.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:22:21.168831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Correct.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:22:25.236905",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:22:25.781831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "Okay, thank you so much. Now are we also going to be moving other spaces like your garage parking items starts, I a storage unit within the building, or everything will just be from inside the apartment sir.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:22:26.568831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Everything from inside department.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:22:42.036905",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:22:44.141831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "And this is on which floor sir?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:22:45.168831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "First floor.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:22:48.036905",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Now can we park in front of the apartment?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:22:49.368831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "question",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:22:51.341831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "monologuing",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:22:51.421831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Yes.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:22:53.436905",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, now let's talk about the items that we're going to be moving. That would require extra time and care for the move, sir. Number one, anything extra heavy or large like workout equipment, safe, piano or anything like that.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:22:54.768831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "monologuing",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:22:58.421831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Nope.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:23:06.636905",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. How about anything fragile or valuable? Like arts and T, collections. Alums.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:23:07.968831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Nope.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:23:14.436905",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. How about any fridge? Washer/Dryer deep freezer TV appliances?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:23:15.168831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Just one TV.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:23:22.236905",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. What's the size, sir?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:23:24.168831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "question",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:23:24.781831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "I think it's a seventy inch TV. It's pretty light though.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:23:27.036905",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, okay, seven inches. Alright, and how about boxes typically for a one bedroom apartment box count is within fifteen to 25 how many number of boxes in maximum are going to move for you?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:23:29.568831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Probably 25.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:23:45.036905",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Do you need packing services, sir or everything will be back once we get there?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:23:46.968831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "question",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:23:48.261831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "I think I'll have everything packed.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:23:52.836905",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, may I have the complete address of the second location?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:23:54.768831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "111 Bricket. Trail Bastrop, Texas.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:23:58.836905",
+      "type": "transcript"
+    },
+    {
+      "content": "Correct, sorry, it's 111.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:24:07.968831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Crooke trail.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:24:14.436905",
+      "type": "transcript"
+    },
+    {
+      "content": "Can you spell that for me please sir?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:24:16.368831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "C-R-O-O-K-E-D space, T-R-A-I-L.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:24:19.236905",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:24:22.968831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "Alright.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:24:27.168831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "And zip code please.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:24:30.768831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "78602.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:24:33.036905",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, now is this a house or an apartment, sir?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:24:36.168831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "question",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:24:37.381831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "This is a house?",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:24:40.236905",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. How many stories, sir? And how many bedrooms?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:24:41.568831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "One story, it's a three bedroom but I don't think it really matters. I only moving one bedroom worth of stuff in there.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:24:44.436905",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:24:50.568831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "Alright.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:24:52.968831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "Now can we park in front of the house to parking receptions like low hanging trees and Dave driveway slope?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:24:55.368831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "question",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:24:56.501831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Yeah, you can park in front of the house.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:25:02.436905",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, thank you so much then, I am all good with everything sir. So, before I go over pricing structure and estimate, do you have any question, any clarification regarding the moving process in general?",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:25:04.968831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "question",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:25:14.541831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "No I just wanna know what your quote is.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:25:18.636905",
+      "type": "transcript"
+    },
+    {
+      "content": "I see one second.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:25:22.368831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "Sir, with everything that you have provided, I'm estimating the move to take around three to three and a half hours, sir. So, it's good to budget an overall of $852 for the move. So our hourly rate is $222 per hour. That already includes two movers in a truck. Everything is already included in the hourly rate gas trucks, taxes, insurance, all the wraps, the pads and the banks to protect the item and being moved. Even tools for disassemble and reassembly. Furniture and appliances. The only thing outside the hourly, right is a one time transportation fee of $75 since the move extends beyond a free service on but other than that, there's gonna be no hidden fee of any type. No credit card fee, no terrible fees, and no disassemble assembly fees.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:25:36.168831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "monologuing",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:25:40.581831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "currency",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:25:47.861831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "currency",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:25:52.821831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "monologuing",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:25:55.261831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "currency",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:26:14.821831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "Plus you're gonna get up to $2,000 free evaluation coverage so you can file a claim for repair replacement reimbursement for an accidental damage that might happen giving you a peace of mind that we'll be able to cover your high value items.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:26:27.168831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "currency",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:26:28.781831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "And you also have an on time guarantee so if the movers arrive late, you start to get discount on your final bill. Also I can schedule you for Saturday, the 29th of August for no deposit required sir.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:26:42.168831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "date",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:26:51.701831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Okay, what is the, how do you guys do time? Does it start and then when they leave your company or from my house.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:26:57.636905",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "question",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:26:58.493905",
+      "type": "moment"
+    },
+    {
+      "content": "No sir. No sir. The time will only start as soon as we get on site or in your apartment and start wrapping all the furniture and appliances or start disassembling the bed. Then the time stop once we get to the last destination or final destination and finish unloading everything.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:27:06.168831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Okay. Is there a minimum?",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:27:24.636905",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "question",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:27:25.733905",
+      "type": "moment"
+    },
+    {
+      "content": "It's a two and a half hour minimum, sir.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:27:27.168831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Okay, and what is the hourly rate again?",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:27:30.636905",
+      "type": "transcript"
+    },
+    {
+      "content": "It's $222 sir.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:27:34.368831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "currency",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:27:35.661831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "$222 an hour plus $75 flat fee to start, right?",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:27:37.836905",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "currency",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:27:37.836905",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "currency",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:27:40.093905",
+      "type": "moment"
+    },
+    {
+      "content": "One more time sir.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:27:44.568831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "It's, there's a $75 flat fee to start for the truck.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:27:46.236905",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "currency",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:27:48.533905",
+      "type": "moment"
+    },
+    {
+      "content": "That's correct, sir. Mm-hmm.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:27:51.168831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Okay. Could you send all this over like via email in the proper quote?",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:27:53.436905",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "question",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:27:55.813905",
+      "type": "moment"
+    },
+    {
+      "content": "No problem sir. I'll send it to you via email sir.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:28:00.768831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "action_item",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:28:02.568831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Okay, do you have availability in the morning?",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:28:04.836905",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "question",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:28:05.933905",
+      "type": "moment"
+    },
+    {
+      "content": "We have, sir, we have available earliest eight the team will come between 8:30 tonight.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:28:08.568831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "time",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:28:13.421831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Can you say that again? 8:30 in the morning? Okay.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:28:18.036905",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "time",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:28:19.213905",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, between 8:30 to 9:00 when the team can come.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:28:20.568831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "content": "time",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:28:21.941831",
+      "type": "moment",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Okay. Alright. Yeah, I might get this done then. Yeah, just send over the quote and then I'll confirm, do I have to click on the link to confirm or call back?",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:28:25.836905",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you sir.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:28:33.168831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "question",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:28:33.253905",
+      "type": "moment"
+    },
+    {
+      "content": "You can just give us a callback or reply to the email.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:28:35.568831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Okay, sounds good.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:28:40.836905",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you sir.",
+      "name": "Arden Asilo",
+      "time": "2026-08-09T17:28:42.768831",
+      "type": "transcript",
+      "user_id": "5596054801227776"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC84OSK5AoM",
+      "content": "Okay, thank you.",
+      "name": "Sona Coshal",
+      "time": "2026-08-09T17:28:44.436905",
+      "type": "transcript"
+    }
+  ]
+}

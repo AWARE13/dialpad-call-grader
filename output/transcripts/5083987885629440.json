@@ -1,0 +1,418 @@
+{
+  "call_id": "5649786410573824",
+  "lines": [
+    {
+      "content": "Hello, miss Hector, once again.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:14:58.750743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:14:58.750743",
+      "type": "moment",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:14:58.750743",
+      "type": "moment",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:14:58.750743",
+      "type": "moment",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:14:58.750743",
+      "type": "moment",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:14:58.750743",
+      "type": "moment",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "ner",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:14:59.811743",
+      "type": "moment",
+      "user_id": "5908914329468928"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "Thank you. I'm not sure what happened. I my service Hadlock bot for some reason.",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:15:01.688538",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "call_purpose",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:15:01.688538",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, no problem. I kinda figured as much that it was a service issue. So I was just patiently waiting for you to call back. So.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:15:07.750743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "So I try it can you hear me okay? You want my headphones cause I still get a box.",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:15:14.888538",
+      "type": "transcript"
+    },
+    {
+      "content": "Actually, that would be a lot better. Initially. There was a quite a bit of echoing earlier.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:15:21.550743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "Oh, okay lock.",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:15:26.888538",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and then.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:15:32.950743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "Okay, and sorry, you can pick up however you wanna. Perfect.",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:15:34.088538",
+      "type": "transcript"
+    },
+    {
+      "content": "Sure essentially the next step was just collecting the, your email, so that we could send the estimate to that can I get that from you.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:15:37.750743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "Yeah, that'll be first name, last name, the number six at Gmail.",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:15:48.488538",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "ner",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:15:52.785538",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, nice. Okay.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:15:53.950743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "It's first, the last, the number six at Gmail.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:16:01.750743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "ner",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:16:04.811743",
+      "type": "moment",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "Okay.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:16:10.750743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "And then what is going to be the address location. I imagine they're all gonna be the same address.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:16:19.750743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "Yes, 8515 Brodie lane, brody is with an IE ate.",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:16:26.888538",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "ner",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:16:30.488538",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm gotcha.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:16:34.750743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "Okay, and the first unit that we're going to be loading up from, what, what's the number going to be for that one?",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:16:39.550743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "question",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:16:46.211743",
+      "type": "moment",
+      "user_id": "5908914329468928"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "That one's gonna be 1234.",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:16:48.488538",
+      "type": "transcript"
+    },
+    {
+      "content": "Nice.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:16:52.150743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "I know it's actually really convenient.",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:16:55.088538",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. And then the second one bedroom apartment. What, what's the unit number for that one?",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:16:58.150743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "question",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:17:01.971743",
+      "type": "moment",
+      "user_id": "5908914329468928"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "12:13.",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:17:04.088538",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "time",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:17:04.088538",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. And are both of the units on the second floor?",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:17:07.750743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "No, so the first unit is on the third floor. The second unit is on the first floor.",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:17:14.288538",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:17:18.550743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "Okay, the numbers. Oh, there we go now. I see where the correlation is. Okay.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:17:21.550743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "Yeah, building twelve and then.",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:17:30.488538",
+      "type": "transcript"
+    },
+    {
+      "content": "Awesome.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:17:34.750743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "And then regarding both of your apartment units. I know that in, essentially because we're not necessarily moving too far I imagine that we haven't necessarily packed up everything into boxes, am I assuming correctly or have we kind of prepped in? Okay.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:17:44.950743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "monologuing",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:17:52.691743",
+      "type": "moment",
+      "user_id": "5908914329468928"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "We're pretty close we're close ish.",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:18:01.688538",
+      "type": "transcript"
+    },
+    {
+      "content": "Nope. Okay, awesome, awesome. Like to that end is like, whenever it comes to like smaller items or like miscellaneous as, as it were on the more there is for us to gather the more time of course there is to consider. But if we are primarily just focusing like on your larger furniture rest assured all of your furniture are covered. Regardless of distance we do cover it with pad and moving blankets and shrink wrap that's in an effort to protect both your furniture as well as the doors, floors, and walls of the apartment units. The reason being as to why we're so thorough because we have our no worries, damage coverage. We provide with each and every move and that's a $2,000 evaluation coverage in case something happens submits your move so that we can either replace refurbish or fairly.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:18:05.950743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "Yeah.",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:18:20.888538",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:18:26.331743",
+      "type": "moment",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "monologuing",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:18:35.451743",
+      "type": "moment",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "currency",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:18:45.211743",
+      "type": "moment",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "Fairly compensate you if we have any of those accidents. But to that end we are very thorough and we absolutely careful in the process to try to avoid those instances but we have that policy in place just to make sure that we go above and beyond to take care of you. Does that all make sense to you so far? Awesome, awesome. Okay. So that is just to kind of explain as to where some of the time is going whenever it comes to prepping your furniture and then why we'll be kind of gathering so many details whenever it comes to inventory just so that we could such a move up for success.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:18:52.750743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "content": "monologuing",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:18:57.171743",
+      "type": "moment",
+      "user_id": "5908914329468928"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "Yeah, yeah.",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:19:08.888538",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:19:12.451743",
+      "type": "moment",
+      "user_id": "5908914329468928"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "Okay.",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:19:27.488538",
+      "type": "transcript"
+    },
+    {
+      "content": "Alrighty, and then so is your unit the 1234.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:19:29.950743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "Yes.",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:19:36.488538",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, so my recommendation for the guys would be to essentially tackle yours first just because it's all yours has the stairs initially. So that there'll be a little bit more fresh and that way progress will go a little bit faster to get the first floor unit after, after that instance makes sense.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:19:37.750743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oJOyqAoM",
+      "content": "Yes, yeah, okay.",
+      "name": "Autumn Knopf",
+      "time": "2026-08-08T20:19:57.488538",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright and then likely we will, despite it being on the same unit or, or same complex. So it's like, we will likely be loading up the truck just so that we can, you know, more effectively transport items.",
+      "name": "Hector Zavala",
+      "time": "2026-08-08T20:19:59.350743",
+      "type": "transcript",
+      "user_id": "5908914329468928"
+    }
+  ]
+}

@@ -1,0 +1,999 @@
+{
+  "call_id": "6695369048006656",
+  "lines": [
+    {
+      "content": "Thank you for calling Einstein moving this is Bree. How may I help you?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:36:06.444299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:36:06.444299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:36:06.444299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:36:06.444299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:36:06.444299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:36:06.444299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:36:06.444299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:36:06.444299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:36:07.698299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:36:09.018299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Hi bra, my name is Jeff. I did a quote online and I wanted to call in to finalize it.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:36:11.083917",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "call_purpose",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:36:11.083917",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "contact_name",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:36:12.064917",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "ner",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:36:12.064917",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, great. Let me see.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:36:17.844299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Let me pull up your account real quick. Just give me one moment.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:36:24.444299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Okay.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:36:29.083917",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, and it looks like.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:36:40.644299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "You were wanting Saturday September 5th.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:36:45.444299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "date",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:36:47.258299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "That's correct.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:36:49.483917",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, perfect. Do you have any concerns or a specific items that you are worried about for this move?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:36:50.844299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:36:53.218299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "No.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:37:00.883917",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, awesome I have an email as Edwards.Japa @gmail.com.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:37:02.244299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "email_address",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:37:07.858299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:37:08.818299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "That's correct.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:37:09.883917",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, perfect.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:37:11.244299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "And then I did just want to go over a couple of things. Before I go over the estimate of some things that set us. Apart from our competitors we do have our no worries damage coverage which is our free evaluation coverage included in our hourly rate provides up to $2,000 per move to repair, replace or reimburse for accidental damages. The second is we do have our meet your mover feature like many moving companies. Our movers are not daily contracted workers. They're the most well vetted and professionally trained movers in the industry. A few days before you move. You will receive a meet your mover email introducing them to you helping ease attention of strangers arriving at your front door and then finally we do have our on time guarantee we value your time. So we can't make it in the time window that we arranged we immediately start discounting money of your final bill, I do have you moving from 1006 Valdes Street Austin, Texas. 78741.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:37:15.444299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:37:19.658299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Mm-hmm.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:37:23.083917",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:37:23.778299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:37:26.738299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "currency",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:37:28.458299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "address",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:38:04.138299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:38:06.818299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "postcode",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:38:07.658299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "That's correct. Yup.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:38:10.483917",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, it looks like it's a 950 square foot house. One story and one bedroom. Awesome.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:38:11.844299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Yes, yup.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:38:15.883917",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "At 33 bedrooms, one bathroom.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:38:19.483917",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:38:23.244299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Did you say one bedroom? I'm sorry. Yeah, three bedrooms. One bathroom.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:38:24.283917",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:38:26.244299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Alright, and then you put twenty feet from where the movers can park the truck to the front door. Do you feel like that is an accurate estimate?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:38:34.644299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:38:40.138299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Yeah, it's a house. So they can park on the street or in the driveway. I don't know what twenty feet is. I think it's free. Yeah.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:38:43.483917",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:38:46.044299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "At school bus is like 35 feet.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:38:50.844299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Okay, okay. Yeah, definitely. They can park right up front.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:38:54.883917",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, perfect.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:38:58.044299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "And then it typical move for home this size is about for box count is about twenty to thirty boxes. Do you feel like you'll fall into that range?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:39:01.644299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:39:08.258299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Yeah, I think that sounds about right.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:39:11.683917",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "There's some stuff we did not even empty the full house anyway, cause there's some stuff we go other places, so, yeah.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:39:17.683917",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:39:25.044299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "And then like, we are moving you just a short ten minute drive down the way. 22408 Willow Street and that's still Austin. 78702.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:39:28.044299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "That's correct. Yup.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:39:35.083917",
+      "type": "transcript"
+    },
+    {
+      "content": "address",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:39:35.244299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:39:39.018299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "postcode",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:39:39.578299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Mm-hmm.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:39:41.683917",
+      "type": "transcript"
+    },
+    {
+      "content": "And it looks like this one's 1213 square feet, one story and how many bedrooms is that? Oh, is it okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:39:43.044299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "That one should be two stories, two stores and then did you say 2200.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:39:48.883917",
+      "type": "transcript"
+    },
+    {
+      "content": "1000.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:39:55.644299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "No, it's 2200.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:39:57.283917",
+      "type": "transcript"
+    },
+    {
+      "content": "And then how many bedrooms in this home?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:40:05.244299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Four.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:40:09.283917",
+      "type": "transcript"
+    },
+    {
+      "content": "And then same thing here, you think it's about twenty feet from where the movers can park the truck to the door.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:40:13.644299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Yeah, that's correct. Yeah.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:40:18.283917",
+      "type": "transcript"
+    },
+    {
+      "content": "And then, do you have any special consideration items, anything that's fragile mirrors t.v.'s.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:40:26.244299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "We have mirrors and TVs. Yes that's about that would probably be the only fragile thing but it's just one TV and a couple of two years. Oh, I don't know 760 maybe inches big but not crazy big.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:40:33.883917",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. What size, and what size is that TV?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:40:44.844299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:40:46.218299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Okay, do you happen to? Okay. Gotcha. If you have the old boxes to wrap that in. If not the movers can pad shrink, wrap it and then they store it on the truck. If it's smaller than sixty it has its own little space bag on the truck. So it'll be nice and safe.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:40:56.244299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:40:57.378299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Okay, yeah, we do not have the original box.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:41:14.083917",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and then.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:41:17.244299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Do you have anything that's heavy, safe gym equipment, anything like that?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:41:20.844299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:41:20.844299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "No.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:41:27.283917",
+      "type": "transcript"
+    },
+    {
+      "content": "Or removing a couch.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:41:30.444299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Yes, one couch.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:41:33.883917",
+      "type": "transcript"
+    },
+    {
+      "content": "And how many cedar is that couch like 23?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:41:40.044299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "It is three cedar sectional.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:41:43.483917",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. Do you have any coffee tables and tables?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:41:52.044299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:41:52.818299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Yes, but they're not significantly bid, they're small.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:41:56.083917",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, not a problem.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:42:01.644299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "And then are we moving any bed frames, mattresses?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:42:05.244299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:42:05.818299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Yeah, there's two beds one clean one full.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:42:09.283917",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "And a crib crib.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:42:18.883917",
+      "type": "transcript"
+    },
+    {
+      "content": "You have a changing table or anything like that?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:42:26.244299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "It's just on the dresser. There's three dressers.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:42:29.683917",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:42:31.644299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:42:39.018299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Hey.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:42:40.644299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Let me explain how our pricing works. It is super simple we do charge an hourly rate of $222 for that two movers one truck. And is a 26 foot box truck. And everything is included in that hourly rate you're asking, and truck taxes and insurance all rap pads and bans protect items when being moved. All tools for disassemble, and recently a furniture and appliances.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:42:44.244299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "currency",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:42:49.778299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Mm-hmm.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:42:51.883917",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:42:55.978299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "There are no transportation fees, no Terrell fees, no disassemble fees. Again. No hi fees of any type. The co. The way the clock works is the time starts as soon as we get on site and open the contract, you then have us for as long as you need us for any move. We heavy, two and a half hour minimum. Once we go over that minimum is prorated in fifteen minute increments, a typical move. This size usually takes two movers, one truck, three to five hours. Since you are moving. Let's see.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:43:07.044299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Okay.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:43:22.483917",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Okay.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:43:36.883917",
+      "type": "transcript"
+    },
+    {
+      "content": "From the 950 square foot house from one story with a super short drive to the two story home. I would estimate that your move would take between three and four hours and I would look to budget between.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:43:40.044299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:43:41.338299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "$666 and $888 obviously there are a number of factors involved in determining move time but the most important one is how well prepared you are when we get there, what we mean by that is we more, most efficient when we're moving big furniture items and boxes where relo of our efficiencies when we get down to the small miscellaneous things such as lamps close hanging photos, stuff like that requires a lot of extra trips back and forth to the truck. And they usually require extra perhaps. So better, the better you are at Consoli anything in the boxes and even if you have the ability to take some of the smaller things over yourself in a car loader too that would really help keep the time down in our efficiency up. Obviously, the last time we take the less money you end up spending at the end of the day.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:43:56.844299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "currency",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:43:56.844299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "currency",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:44:00.578299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:44:01.698299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Mm-hmm.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:44:14.083917",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:44:26.338299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Mm-hmm.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:44:37.483917",
+      "type": "transcript"
+    },
+    {
+      "content": "There is no deposit to get on the schedule there, so there's no risk and occurring your spot if something does come up or things change on your end then you can always reschedule or cancel with a quick call no fees for that either that's it. I truly believe you're the best movers in town. I know it take great care of you. Would you like me to put you on the schedule for today or for Saturday fifth?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:44:41.844299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:44:46.698299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:44:57.738299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Yes, please. I did a question like when it comes to preparing like for the beds specifically and also for the dressers for the dressers should all close be removed and that. Go ahead.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:45:00.883917",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, yes. Yes, the close should be removed from the dressers. It just prevents damage and liability. It just makes the items a lot heavier to by leaving everything in there.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:45:12.444299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Yeah. Okay, and then for the beds, like, if there was a bed frame that needed to be taken down or, or could they help with that obviously, that would add time but.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:45:25.483917",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, absolutely, yeah, everything's included, I included in the hourly rate. So assembling disassemble so they can disassemble it and then you'll reassemble it at the location.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:45:36.444299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Okay. Okay, that sounds good but we should obviously take-off all the bedding and all of that. Yeah.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:45:45.883917",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, yes, definitely. And I did forget to ask did you have a garage at the first location. Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:45:50.844299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "No, no.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:45:55.483917",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "No, we have a storage thing without the out of. So, we have a truck ourselves. We just want help with some of the bigger stuff to get to the new house, so.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:45:59.683917",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, and of course. Yeah, I totally understand that and then again it's like you said, if you take more boxes over that lessons the time as well just when we're moving furniture.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:46:05.844299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:46:08.338299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Okay. Yup, that sounds good.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:46:16.483917",
+      "type": "transcript"
+    },
+    {
+      "content": "But I have included your move-in the estimate that I've got and is an 8:39 AM arrival time. Okay with you.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:46:17.844299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Okay, okay.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:46:22.483917",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:46:25.898299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Yes, that's perfect.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:46:28.483917",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "positive_sentiment",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:46:29.544917",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "support_issue_resolved",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:46:29.544917",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, great, and then I'm going to go ahead and send you a confirmation email right now. If you wouldn't mind just going over the bullet items, just making sure that I wrote got all the addresses correct and things like that date times and then if you do have any questions, you can give us a callback and, or you can reply to the email that I'm gonna send.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:46:30.444299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:46:46.618299",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Okay. I do. You want me to review it now on.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:46:51.283917",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:46:52.644299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Oh, no, no just I'm just letting you know that I'm gonna send it right now and then it'll be in your inbox for you. Alright, thank you so much. Have a good rest of your day and have a good weekend. Okay? Thanks. Bye.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-21T17:46:55.044299",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "Okay. Okay, sounds good.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:46:59.083917",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8p_Gb_goM",
+      "content": "You too, you too. Thank you.",
+      "name": "Jaffa Edwards",
+      "time": "2026-08-21T17:47:05.683917",
+      "type": "transcript"
+    }
+  ]
+}

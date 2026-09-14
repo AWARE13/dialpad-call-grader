@@ -1,0 +1,887 @@
+{
+  "call_id": "5460923313594368",
+  "lines": [
+    {
+      "content": "Good afternoon, this is Joanna. How can I help?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:10:13.227583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:10:13.227583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:10:13.227583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:10:13.227583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:10:13.227583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:10:13.227583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:10:13.227583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:10:13.227583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:10:14.979583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:10:15.659583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Hi, Joanna. This is Matt. I'm looking to schedule a move for my company's office moving locations.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:10:16.951056",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "call_purpose",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:10:16.951056",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "ner",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:10:18.030056",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "contact_name",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:10:19.590056",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "ner",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:10:19.590056",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, if I may ask Matt, what's the zip code where the office is that?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:10:28.227583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:10:30.819583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:10:31.899583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "78744.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:10:36.151056",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and going to.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:10:40.227583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Oh, I'm sorry, that's where it's going to the current is seven, give me one second.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:10:45.151056",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:10:46.827583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:10:51.627583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "The 78701 is where it is now.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:10:58.951056",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, one second.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:11:04.227583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, and when are you planning to do this move?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:11:12.627583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:11:13.979583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Well when can you, we're trying to do it possibly this week maybe early next week.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:11:19.351056",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. Okay. So, right now mm-hmm, let me check right now. Our earliest availability won't be until Tuesday the first.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:11:25.827583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "It's a little last minute, I guess.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:11:27.151056",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Okay.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:11:41.551056",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "I guess that could work, I mean, that's technically the first day of our new lease so.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:11:47.551056",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, alright, yup, so what I can do for now Matthew, is, I can just create a profile for you, ask you about the questions about the move and of course, yeah, so in order for us to provide you a more personalized estimate, okay? But yeah, but let me just go ahead so may I have your last name Matthew? So let me just create the profile.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:11:49.827583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:11:55.019583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Okay.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:12:03.751056",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:12:11.619583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "It's Carris K-A-R-A-S.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:12:14.551056",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "contact_name",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:12:15.230056",
+      "type": "moment"
+    },
+    {
+      "content": "Got it. Thank you and we'll send everything in an email as well. May I have your email address?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:12:18.627583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Matt at Manifold.Inc.Inc.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:12:24.751056",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "ner",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:12:24.751056",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, got it thank you so much, she's nine second here.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:12:41.427583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "And just a quick question. How did you hear about us?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:12:52.227583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:12:53.819583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "No, no, one of my coworkers just sent me you guys your contact information so that you good ratings somewhere nearby.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:12:56.551056",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, got it thank you. Okay, awesome. Thank you. May I have your pickup address?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:13:03.027583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "So the pickup address is 1705 Gua Bay Street. We're on the third floor. There is an elevator.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:13:11.551056",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "address",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:13:14.350056",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. No, just wanted to confirm do you know the square footage of the office that we were moving from.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:13:25.827583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Well, I mean, it's pretty sizable but we're not, we're leaving a lot of stuff here. So I don't know how helpful that is. I mean, it's about $10,000 square feet or so but we're not bringing $10,000 square feet worth of stuff.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:13:36.151056",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "currency",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:13:47.510056",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "currency",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:13:50.830056",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, so let me just double-check but are we still like, moving just an estimate in terms of furniture. I mean, is it like more of a desk file and cabinet kind of move or is it like furniture type of columns.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:13:52.827583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "There's both, so there's, I mean I have like a, an initial list but it's mostly there's a couple of couches.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:14:10.351056",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:14:19.227583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "So, those are obviously larger items and there's also a fridge that is like a, like a, like a larger size fridge. Not, not like a mini fridge, like an actual fridge. So that's a big item and then beyond that it's just like chairs, coffee table.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:14:21.751056",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:14:36.027583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Rugs some shelves so that's pretty much the big stuff. There's one like, larger kind of sectional couch. And then there's two smaller couch they kinda like, two person cedars like, kinda like, you know, midsize couch and then there's a couple of chairs and some desk or not desk some like coffee table and things like that.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:14:46.951056",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, that's okay. Sure. Okay, mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:14:48.627583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see. So what? Yeah.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:15:03.027583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:15:09.027583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay. But do you have anything oversize like a weight of a piano workout equipment safe or anything you believe is more than 300 or 500 pounds?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:15:13.827583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:15:15.259583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "I mean, how he is a fridge? I mean, that probably be the only thing it's like very heavy, so, you know, it's like a, you know, the type of fritch you'd have in your kitchen.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:15:24.751056",
+      "type": "transcript"
+    },
+    {
+      "content": "I understand mm-hmm okay, is it?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:15:31.827583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm alright. If it's just like a regular, like, I mean, residential kind of fridge, I think we should be good but yeah, just take note of the weight limit just to make sure we'll be able to move everything as well. Of course, we can check online if you have the make and model. Okay, now, do you guys require packing or just the moving?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:15:38.427583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:15:57.019583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Just the moving I don't think there's really enough stuff that needs to be packed. It's really, you know, stuff is just gonna go as-is right? It's just like, some couches chairs, nothing that really needs to be packed up, I don't think.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:16:02.551056",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:16:14.427583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay. Alright. And let's see here. No. How about anything super fragile, large fraud, Adams paintings, artworks, glass tables maybe.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:16:18.627583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:16:27.019583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Anything that fragile. No. I mean, I'd say, yeah, I don't think there's anything super fragile. Honestly, it's like no, like, you know, just kind of like furniture stuff.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:16:33.151056",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Alright.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:16:44.427583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Sure, okay. In terms of number of boxes, just an estimate would be fine. Do you think we'll have around fifty or is it, do you think closer to a hundred number of boxes?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:16:49.827583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:16:55.459583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Boxes, I don't know we're probably only gonna have a few boxes cause like, it's, most of the stuff is not Boxable like I said, we're leaving a lot of stuff here. I would say there's probably less than ten boxes of stuff and then everything else is just gonna be like, furniture.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:17:04.951056",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:17:16.227583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:17:22.827583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, no problem and just one last question for this office parking instructions like how far are we walking from where we can park to the elevator at the ground floor. One school bus about 3040 feet. Do you think it's just within that.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:17:27.027583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "What's about 3040 feet?",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:17:44.551056",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm one school bus. Do you think? It's about one school bus and distance from parking to the elevator, at the ground floor.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:17:46.827583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:17:48.899583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "So, it depends, I guess, where we end up having you guys park, yeah about, maybe about a school bus to the front door and then you know, the front, the elevators maybe, you know another twenty feet down the hallway or, so.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:17:56.551056",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm okay, and once we get to the third floor.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:18:16.827583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "So.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:18:19.351056",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "And once you get to the third floor you know. Yeah, the whole third floor is our office basically. So that just is like, that's our office is the third floor.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:18:22.351056",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:18:30.027583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Alright, got it. Thank you so much and then how about the drop-off location? May I please have it.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:18:34.827583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "The drop-off location is going to be much easier. There's you know, we have parking right in front like, directly next to the building plenty of space. It's, the drop-off is going to be much simpler, there's no elevator. It's on the first floor it's more of like a warehouse, industrial type of space, big parking lot, so that should not be an issue.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:18:41.551056",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:18:51.627583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:18:58.227583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "That's good.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:19:00.627583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm okay, sure. And what's the address there?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:19:04.827583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:19:09.779583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "For the drop-off it's 454509 freed, Rick lane, F-R-E-I-D-R-I-C-H lane suite 100 Austin, Texas. 78744.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:19:12.751056",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:19:15.027583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:19:19.827583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "ner",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:19:20.990056",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "ner",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:19:31.951056",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "postcode",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:19:34.351056",
+      "type": "moment"
+    },
+    {
+      "content": "Got it. Thank you so much. Alright, now let me just check this one. Just one second.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:19:37.227583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, so what we can do mat is that I can send you an email of course in terms of our pricing and our availability. Now since you've mentioned, you also have a list, just feel free to send that list over and then we'll review the list of everything we're moving in order for us to get you a personalized estimate. But for now I'll just give you the pricing as well. If we're doing it on a Tuesday it's $104 per hour per mover. So for two minutes, $208 per hour but again it will you know just depend on how many guys guys and truck we need depending, hot one are the items we're moving for you okay now.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:19:45.819583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:19:49.219583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:20:06.219583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:20:12.379583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:20:16.899583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:20:17.259583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:20:20.259583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Yeah, do you normally do two guys or three? Like what's no, I'm only, I.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:20:27.151056",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "question",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:20:28.150056",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:20:28.939583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "The regular. Just the typical is two but as I have mentioned just depending on the items that you'll send us later, we'll re review that and then we'll get back to you to inform you whether we need a third guy or second truck or fourth guy. Okay, but for now I'll just give you the pricing now. After we send you an email. Just feel free to send that list so we can review over and then we'll just give you a a more updated estimate in terms of pricing as well, okay?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:20:31.227583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Okay.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:20:35.551056",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Okay.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:20:38.551056",
+      "type": "transcript"
+    },
+    {
+      "content": "action_item",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:20:42.219583",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Okay, okay.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:20:52.351056",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Okay.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:20:56.551056",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Okay. Okay. Alright, perfect. Well, that sounds great. It was Joanna. Alright. Well, thank you so much for the help, see you again.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:21:01.351056",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. Okay. Mm-hmm yup, that's correct. But anyone here should be able to help you out. Okay. Bye.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:21:07.827583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "ner",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:21:10.350056",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "support_issue_resolved",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:21:12.830056",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Awesome, well, thank you. I'll keep an eye out for your email and then I'll respond back with the, with the full list. Alright, great.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:21:18.151056",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "support_issue_resolved",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:21:18.151056",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:21:19.827583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, no problem. Thank you so much. Bye.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-26T17:21:22.827583",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC1Jv17QkM",
+      "content": "Thank you, take care.",
+      "name": "Matthew Karas",
+      "time": "2026-08-26T17:21:28.951056",
+      "type": "transcript"
+    }
+  ]
+}

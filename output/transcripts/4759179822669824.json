@@ -1,0 +1,880 @@
+{
+  "call_id": "5984798115930112",
+  "lines": [
+    {
+      "content": "Good afternoon, this is Joanna. How can I help?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:02:36.044820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:02:36.044820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:02:36.044820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:02:36.044820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:02:36.044820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:02:36.044820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:02:38.154820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:02:38.874820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Hi, I'm hoping to get a quote for a move-in Austin, Texas next month.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:02:39.090726",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "call_purpose",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:02:39.090726",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "ner",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:02:42.976726",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, no worries. I just need to check the availability for you. May I have the, I mean, when are you planning to do this move?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:02:45.044820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:02:52.114820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "September 18th.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:02:54.690726",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "date",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:02:54.690726",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, just a Friday. So that's okay. What's the zip code where you're coming from?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:02:57.044820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:03:01.234820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "78751.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:03:03.690726",
+      "type": "transcript"
+    },
+    {
+      "content": "78751 and going to.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:03:08.444820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "78704.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:03:11.490726",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, thank you. Are you moving a house or an apartment?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:03:15.644820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:03:18.794820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "From house to apartment.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:03:21.690726",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, got it. Thank you. And how many square foot home are we coming from?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:03:23.444820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:03:27.994820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "2000, but we're not moving the entire house.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:03:30.090726",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. Okay now in order for us to provide you a more personalized estimate what I can do is just can create a profile for you and transfer you to one of our specialist who usually handle the size of move but I understand we're not moving everything but that's okay so in, just in order for us to provide you a more accurate estimate, okay? Alright, may I have your full name please.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:03:34.244820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Correct, thanks.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:03:54.690726",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Paul Grayson, G-R-E-Y-S-O-N.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:03:58.890726",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "ner",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:03:58.890726",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, thanks Paul and how about your email address.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:04:02.444820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:04:03.794820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Email is Grayson G-R-E-Y-S-O-N. Bin spelled boy indigo Nancy B-I-N. @gmail.com.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:04:06.690726",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "ner",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:04:08.696726",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:04:11.444820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "ner",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:04:14.656726",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "pii",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:04:15.616726",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "email_address",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:04:16.816726",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, just to confirm that's your last name G-R-E-Y-S-O-N-B. For boy, I. For India, N, for Nancy @gmail.com.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:04:21.644820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Mm-hmm.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:04:26.490726",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:04:27.394820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "email_address",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:04:28.994820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Confirm. Thank you.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:04:30.690726",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And this is the best contact number? 9-084-514-9380.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:04:32.444820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "phone_number",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:04:36.434820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Yes, please, thank you.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:04:39.690726",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, of course. Let's see here, just one second.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:04:40.844820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, and may I please have your complete pickup address?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:04:49.244820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "501 East Fiftieth Street.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:04:55.890726",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "address",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:04:55.890726",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Austin, Texas.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:05:01.290726",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "ner",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:05:01.290726",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "78751.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:05:05.490726",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you. So, 501 East Fiftieth 50 Street in Austin. You mentioned this is about 2000 square foot home. Oh.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:05:07.844820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "address",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:05:09.074820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:05:12.874820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Wait, sorry, 501 east, fiftieth. What did you say after that?",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:05:14.490726",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "question",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:05:18.690726",
+      "type": "moment"
+    },
+    {
+      "content": "East Fiftieth Street. Okay. Alright. And how many story home do we have here?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:05:20.444820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "address",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:05:20.444820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Yup.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:05:23.490726",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:05:27.354820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Three.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:05:28.890726",
+      "type": "transcript"
+    },
+    {
+      "content": "Three stories, and how many bedrooms?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:05:30.044820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "We're moving to.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:05:33.690726",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Got it. Thank you. And let's see here. Can we just park in, in the driveway in front of the house? Okay, that's perfect and how about your new address, may I have it, please.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:05:36.644820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:05:42.634820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Yes.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:05:45.090726",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "1600 Toi Street.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:05:51.090726",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "address",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:05:51.090726",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Number 5301.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:05:55.890726",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, I'm sorry. I think I missed it. Can you repeat it for me? It's 1500.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:06:01.844820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Sure, 1600 Two Street T. O. OM EY.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:06:06.690726",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "address",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:06:08.490726",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Number 5301.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:06:15.090726",
+      "type": "transcript"
+    },
+    {
+      "content": "Let me see here just one second.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:06:28.844820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay. Is this a house or an, an apartment? Okay. Just to confirm, is this the Barton place?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:06:42.044820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:06:43.074820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Apartment.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:06:45.090726",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Yes.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:06:51.090726",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, got it. Thank you. Okay, let's see.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:06:52.244820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Alright, and which floor are you going to?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:07:01.244820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:07:02.154820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Third.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:07:04.290726",
+      "type": "transcript"
+    },
+    {
+      "content": "Third floor they do have elevators or just theirs? Okay. Thank you, thank you. Is this a one bedroom, two bedroom.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:07:05.444820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Yes. No. They have elevated.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:07:08.490726",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "It's a two bedroom.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:07:13.890726",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, and just, do you know the square footage just in case. That's alright, I'll just put it within the typical range. Okay, just one second.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:07:15.644820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "No.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:07:21.090726",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Okay.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:07:26.490726",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Alright. So That's everything I need for now Paul let me just go ahead and transfer you over to one of our specialist who can give us a more personalized estimate for this job, okay?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:07:34.844820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:07:39.474820",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Okay, thank you.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:07:46.890726",
+      "type": "transcript"
+    },
+    {
+      "content": "Stay on the line.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:07:48.044820",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Thank you for patiently waiting, Paul, I just have everyone on calls right now but I rest assured already endorse your profile to one of our specialist who can assist us with a quotation. Now while I, you've you already mentioned a while ago that we're not moving everything but I just wanna check if you're available for like a video call like a virtual walkthrough to assess how much items we're moving for you today.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:09:41.498534",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:09:43.560534",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "I'm not available but my fianc\u00e9 might be able to accommodate it but either way, can you just walk me through the basic pricing structure that your company uses. Thank you.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:10:06.350241",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:10:10.200534",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Yeah, sure. Of course, no problem. Now, if we're planning to do a move on Friday, that's $110 per hour per mover. Now, as I have mentioned, just really depending on how much items we're moving for you that's when we assess how many guys will be sending out on the day. So, of course other factors involving the move as well, walking distance. And yup, basically just items are moving now. The hourly rate that we provide already includes. If, let's say for example, we only require two guys that's $220 per hour, that already includes a two men and the truck, all the wraps protect your furniture. The blank, the shrink wraps if you need help with this assembly reassembly taxes, insurance, credit card fees, all of that is in the price. So, the good thing about the, your move is that both addresses are just within our free service. So, so you don't have to pay any transportation fees as well, so basically, the hourly rate is all inclusive rates.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:10:13.898534",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:10:20.520534",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:10:44.800534",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:10:48.560534",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:10:51.480534",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Now, we only have a two and a half hour minimum. If we go over the minimum we only charge every fifteen minutes until the service is complete, so we don't charge you for the next hour right away. Now aside from that we also offer no worries damage coverage. Which would give you up to $2,000 coverage for any accidental damages the kind of movers that we have most of vetted most professional. And we send you their names ahead of time to let you know who's coming. And we also have an on time guarantee if we run late we provide discounts. So, basically, all of that is already in the hourly rate of the video. Okay? So, yeah, basically.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:11:10.298534",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:11:26.880534",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:11:29.200534",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Okay, and what about talking?",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:11:46.550241",
+      "type": "transcript"
+    },
+    {
+      "content": "Packing, is that right?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:11:49.898534",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Mm-hmm. Mm-hmm.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:11:51.350241",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Now if you're interested in packing, it's also the same like we charge by the hour with two and a half hour minimum. Now it just really depends on which day you're planning to do the packing and typically for a house this size, we do it a day before. Now if we are going to do it on a Thursday, it's actually lower hourly rate compared to a Friday and a Saturday which is $104 per hour per mover. So, the hourly rate just depends on which day you're going to do the packing. Where the moving. But same thing those hourly rates two and a half hour minimum. And of course you only pay for the packing supplies. We end up using.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:11:52.898534",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:12:00.120534",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:12:14.240534",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:12:15.600534",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:12:20.920534",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Okay, very good, thank you.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:12:30.350241",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm alright. So, yeah, do you want us to like, I mean, for the virtual walkthrough, if you're, if we have another person who can help us with that, then that would be very helpful for us to give you a more personal last estimate. Especially we're coming from a three story house and then the Barton condos really just depending where we're parking. Usually we do have a longer walking distance there. So that's something that we just want to assess as well.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:12:31.898534",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:12:50.920534",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Okay, yeah, I'll give her a call and see what she can do.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:13:01.550241",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "action_item",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:13:02.504241",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. Okay, no problem. We'll send you a quick text message where you can send the schedule and then we'll send you a link where we can, where she can join and meet her there, okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:13:04.298534",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:13:07.640534",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCCjuGY0AgM",
+      "content": "Very good, thank you. Have a good day.",
+      "name": "Paul Greyson",
+      "time": "2026-08-27T17:13:15.950241",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, thanks Paul talk to you later.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:13:17.498534",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:13:18.680534",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "issue_unresolved",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T17:13:19.000534",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    }
+  ]
+}

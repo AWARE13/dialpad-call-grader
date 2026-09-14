@@ -1,0 +1,908 @@
+{
+  "call_id": "6314550311723008",
+  "lines": [
+    {
+      "content": "Thank you for calling Einstein moving this is Bree. How may I help you?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:45:14.996201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:45:14.996201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:45:14.996201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:45:14.996201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:45:14.996201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:45:14.996201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:45:14.996201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:45:14.996201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:45:16.022201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:45:17.342201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Hey Bree, this is Paula Salas, just giving you a callback.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:45:18.662040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "ner",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:45:19.552040",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "contact_name",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:45:19.992040",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "ner",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:45:19.992040",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, awesome. Thank you so much for returning my call. I was just calling in regards to your booking online for August 29th. I just wanted to go over some information and make sure we have everything correct dates, things of that nature. Do you have a few moments for that?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:45:22.796201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:45:22.796201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "date",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:45:28.902201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Yes.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:45:29.462040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Perfect.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:45:33.662040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "positive_sentiment",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:45:33.662040",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Yeah, I do.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:45:37.262040",
+      "type": "transcript"
+    },
+    {
+      "content": "Awesome. First off, do you have any stresser or concerns with this move as far as time furniture or anything like that?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:45:38.996201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:45:40.942201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "I don't think so. I feel like it's a pretty standard two bedroom apartment. The only, the only thing that I wasn't sure how to note was, like and I put it in the notes but like to the door of the building, it's very close. Then you have to go like hallway to elevator, elevator, back to where you came in, and then like around the corner so it's a little bit of like a, it's a little bit of a walk to come in and out.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:45:46.862040",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:45:52.796201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:46:11.996201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "But other than that I don't think so.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:46:16.862040",
+      "type": "transcript"
+    },
+    {
+      "content": "See that in the notes. So I'm just adding it the movers. So, they know. Okay, and then I have this is a good contact number for you the 682-552-5099 and then I have your email as Paula M. Sala 92 at Gmail.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:46:25.796201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Cool.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:46:28.862040",
+      "type": "transcript"
+    },
+    {
+      "content": "phone_number",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:46:34.182201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Yup.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:46:34.262040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Yeah.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:46:42.062040",
+      "type": "transcript"
+    },
+    {
+      "content": "Great.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:46:43.796201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:46:47.396201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Have you moving from 6811 old BK road and that's Texas 78735.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:46:49.796201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:46:54.542201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "postcode",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:46:55.262201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Yup, do you need the apartment number? Yeah, it's 1306. And it's building one.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:46:57.062040",
+      "type": "transcript"
+    },
+    {
+      "content": "And do we have a unit number for that? Yes, please.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:46:58.196201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "question",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:46:58.262040",
+      "type": "moment"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:46:58.622201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Then I do have that as an 1100 square foot apartment.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:47:13.796201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Yup.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:47:19.862040",
+      "type": "transcript"
+    },
+    {
+      "content": "And then a typical box count for a move this size would be between 2535 boxes. Do you feel like you fall within that range?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:47:31.196201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:47:38.182201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "I've, I have no idea. I have not started packing but I would assume.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:47:41.462040",
+      "type": "transcript"
+    },
+    {
+      "content": "Not a problem.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:47:44.996201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "I literally thought I was staying in my apartment yesterday. And then I found a house and I'm getting lease today. My lease starts tomorrow.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:47:48.062040",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, wow find.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:47:55.796201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "So I was like, I guess I'm moving in ten days.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:47:57.662040",
+      "type": "transcript"
+    },
+    {
+      "content": "That's so exciting, why not.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:47:59.996201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Totally is, I like, I've been looking for two months, didn't find anything and then the Nick of time it came through. So thank you. Thank you. He so yeah, now we're just like, oh, shit, we got to move.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:48:03.062040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "ner",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:48:08.192040",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, I love that for you. Congratulations, and, and.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:48:10.196201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "swearing",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:48:16.392040",
+      "type": "moment"
+    },
+    {
+      "content": "Girl, there is no other way. I think whether you have time or it's quick, I mean you just got it, it's all wild.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:48:18.596201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "I.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:48:21.662040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Honestly, it's just like, you, when you have, when you have three months to prep for it, you just have three months of anxiety. So.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:48:24.062040",
+      "type": "transcript"
+    },
+    {
+      "content": "Exactly, exactly. And then your new, exactly, your new house is 6712 Kalah drive. And that is 78739.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:48:29.996201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Like now we're just gonna get it ask.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:48:32.462040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Let me make sure 6712 alla. Yup.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:48:40.862040",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And that is house, 1950 square feet, looks like it's one story. How many bedrooms is that one?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:48:43.796201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "It's three in an office.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:48:51.062040",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, and then it looks like the walk to the door from where the movers can park. The truck is pretty close on this 120 feet. Thank street parking in our driveway.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:49:02.396201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Yeah, it's just the house.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:49:09.662040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Yeah, yeah, it should be fine.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:49:12.662040",
+      "type": "transcript"
+    },
+    {
+      "content": "Awesome.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:49:14.996201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "And it's a flat driveway.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:49:16.862040",
+      "type": "transcript"
+    },
+    {
+      "content": "And then.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:49:26.996201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Alright, just explain how our pricing works. We do charge an hourly rate and it looks like for the twenty ninth that is going to be $222 for two movers and one truck. Just so, you know, everything's included in the hourly rate. If you're on trucks taxes, insurance all rap pads, advance or Protex items. When being moved. We also have had wrap and cover the floors of the new house moving in. So, we don't damage anything in that. There are no hidden fees of any type. We don't have credit card fees, transportation fee, Sterre fees. And then in addition to that, we have some extra perks. We have a no worries damage coverage. Which is our free evaluation coverage included in our hourly rate provides up to $2,000 per move to repair replace or reimburse for accidental damages.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:49:32.396201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "currency",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:49:40.622201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Okay, that's.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:49:44.462040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Perfect.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:49:58.262040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "positive_sentiment",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:49:58.262040",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:50:08.382201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "currency",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:50:12.742201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:50:14.542201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "The second is very meet your mover feature. Unlike many moving companies. Our movers are not daily contracted workers. They're most well vetted and professionally treat movers in the industry a few days before you move. You'll receive a meet your mover email introducing them to you helping ease attention of strangers arriving at your door we do have our on time guarantee we value your time. So, if we can't make it in the time window that we arranged, we immediately start discounting money of your final bill. Finally. The way the clock works is the time starts as soon as we get on site and open that contract you then have us for as long as you need us for any move. We do have a two and a half hour minimum it typically move your size usually takes between three and a half and five and a half hours. Since we've got that kind of like walkway elevator situation. I would estimate your move to take between four and a half to five and a half hours.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:50:17.396201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Okay.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:50:17.462040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Okay.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:50:43.262040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Okay.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:50:54.662040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Okay.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:50:59.462040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "So, I was wondering, okay, yeah, I'm like, cause I feel like when I got packed, it took like, I'm a little nervous cause like when I moved in, I think it took them, it was definitely not two hours to unpack me. But also, I was moving from like, they like packed me into one of, I moved state and they packed me into one of those, like little cubes. And I wonder if the cubes also like take longer.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:51:08.462040",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, yeah, just to be mindful of.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:51:09.596201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "I would.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:51:45.596201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "But yeah, that's my, I, so, yeah, I think 4:00 to five is probably fine but I'm also like, is it gonna take way longer.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:51:45.662040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "time",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:51:48.712040",
+      "type": "moment"
+    },
+    {
+      "content": "Do you think it might? I can estimate for a bit longer and you only pay for the time. Then it takes so we can do like, $5 and a half to $6 and a half just to give that little buffer.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:51:54.596201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:51:54.596201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Okay, cool. The old.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:52:00.062040",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:52:02.782201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "currency",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:52:03.382201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Yeah, and I'm fine either way I think I'm a little nerve the only thing I'm nervous about is it being an afternoon move and what if the people before may end up taking longer than they think and then I end up taking longer.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:52:04.862040",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:52:20.396201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "And you're already booked for four and a half.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:52:22.796201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Let me see if I can.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:52:26.396201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Do you have any morning moves that day?",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:52:26.462040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "question",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:52:26.462040",
+      "type": "moment"
+    },
+    {
+      "content": "Now let me see.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:52:29.396201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Okay, so.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:52:30.662040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "If like if the morning move takes longer like the only thing I'm worried about is being like canceled on or something. It's like the morning move like longer. Okay.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:52:34.862040",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, gosh. No, no, no, no. And if it takes longer for them, it's actually, they have a small move before you so I'm not too concerned about that. So I was able to extend it to about.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:52:40.796201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Okay. Okay, okay, cool.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:52:48.662040",
+      "type": "transcript"
+    },
+    {
+      "content": "Four point so, four hours and 45 minutes in the timeframe that you books, that's about as much as we can push it out. I would say, obviously, they're a number of factors involved when determining the move time. If you could actually have the capability of taking some boxes over yourself or you know, items and just minimizing the amount of items that they movers have to take over there. Yeah.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:52:55.796201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Cool.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:53:02.462040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Yeah.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:53:09.662040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Yeah.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:53:15.062040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "That's what I was thinking, too. I was thinking about doing like a few loads myself too and just kind of like, taking stuff as easy to take or things that I like, wanna make sure I take but.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:53:19.262040",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:53:26.996201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Yeah, I would highly suggest that and then that just keeps that time down and the efficiency up and then that way. Yes, alright, we'll plan on that then.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:53:30.596201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Okay, cool, cool. Yeah, cause I'm perfect. I think that'll be fine cause I can take stuff, yeah it's gonna be fine, it's gonna be great.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:53:36.062040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "positive_sentiment",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:53:36.062040",
+      "type": "moment"
+    },
+    {
+      "content": "It'll be fine. It'll be great. You're going to be in your new house and it's gonna be amazing.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:53:47.396201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "I can't wait.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:53:51.062040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Okay, we did it right. Awesome.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:53:54.062040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "positive_sentiment",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:53:54.062040",
+      "type": "moment"
+    },
+    {
+      "content": "Yay, well we are excited to work with you. We will see you Saturday August 29th. It looks like the arrival time is between 12:30 and 230 and then. Yup, and if you have any questions I'm gonna send you this kickoff email you feel free to respond or you can just give us a callback.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:53:55.196201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "support_issue_resolved",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:53:56.912040",
+      "type": "moment"
+    },
+    {
+      "content": "date",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:54:01.302201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "time",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:54:06.182201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Perfect.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:54:08.462040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "positive_sentiment",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:54:08.462040",
+      "type": "moment"
+    },
+    {
+      "content": "action_item",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:54:11.222201",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Okay, cool. Thank you so much.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:54:15.662040",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "positive_sentiment",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:54:17.112040",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "support_issue_resolved",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:54:17.112040",
+      "type": "moment"
+    },
+    {
+      "content": "Of course, have a good rest of your day and good luck with your move.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:54:17.396201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMD84dTZzAgM",
+      "content": "Thank you too. Bye-bye.",
+      "name": "Paula Salas AB",
+      "time": "2026-08-20T16:54:21.062040",
+      "type": "transcript"
+    },
+    {
+      "content": "Uh-huh, bye.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-08-20T16:54:22.196201",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    }
+  ]
+}

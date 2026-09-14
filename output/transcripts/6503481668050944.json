@@ -1,0 +1,964 @@
+{
+  "call_id": "6028370338947072",
+  "lines": [
+    {
+      "content": "This is an email, I can help you?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:12:14.521784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:12:14.521784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:12:14.521784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:12:14.521784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:12:14.521784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:12:14.521784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:12:14.521784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "I'm trying to book some movers for next month, and I'm on the website and every single time I hit continue the next step says that authentication failed, so not sure what that is.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:12:17.448972",
+      "type": "transcript"
+    },
+    {
+      "content": "Let me double-check you, oh, the authentication failed, error actually been experiencing that since this morning. I'm so sorry for the inconvenience but our IT department is working on it while we're here. Let me do the building a profile for you, let me just pull up the calendar. Do you have a specific date in mind?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:12:33.721784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:12:56.703784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Yes, I need to move on September 16th.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:12:58.848972",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "date",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:13:02.612972",
+      "type": "moment"
+    },
+    {
+      "content": "Sixteenth. Okay, let me check.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:13:09.121784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "That is a Wednesday. Yeah, it's currently open as we speak I'll try the profile for you I'll ask you some questions the basic details and for inventory addresses and then we'll talk about the quote. I'll even send you a copy via email so you don't have to take notes. Sounds good.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:13:13.321784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Okay, what did you say?",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:13:31.248972",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "question",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:13:33.048972",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you. Can I have your first and last name. Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:13:33.121784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Yeah, Max and then last name is young spelled J-U-N-G.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:13:36.048972",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "ner",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:13:36.892972",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you. Did you have a question? Sorry.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:13:40.921784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "No, I didn't quite hear what you said but you're good to go. So.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:13:44.448972",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you. I have your phone number already 949-226-2621 what are your email?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:13:49.321784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Uh-huh.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:13:51.048972",
+      "type": "transcript"
+    },
+    {
+      "content": "phone_number",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:13:52.703784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:13:55.543784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Email is MJ, U-N-G S-T-E-R @gmail.com.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:13:57.048972",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "pii",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:14:00.648972",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "email_address",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:14:04.572972",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm how did you hear about I find new?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:14:11.521784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:14:12.423784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Online or front actually.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:14:15.048972",
+      "type": "transcript"
+    },
+    {
+      "content": "Just to make sure I got the right M, youngster T, for Tom.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:14:21.721784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:14:25.823784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Yes M-J-U-N-G-S-T-E-R so youngster @gmail.com correct?",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:14:27.648972",
+      "type": "transcript"
+    },
+    {
+      "content": "@gmail.com.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:14:28.321784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "email_address",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:14:28.321784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "email_address",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:14:32.292972",
+      "type": "moment"
+    },
+    {
+      "content": "Amazing, thank you so much much. Now, let's talk about the pickup location. What's the complete address?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:14:33.721784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:14:39.583784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "The address is gonna be 1221 south Congress Ave.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:14:41.448972",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Austin, Texas. 78704.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:14:48.648972",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "ner",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:14:48.648972",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "postcode",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:14:51.048972",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. So this is an apartment, which floor are you located?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:14:56.521784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:15:00.143784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "I'm on the second floor.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:15:02.448972",
+      "type": "transcript"
+    },
+    {
+      "content": "For reference what is the square footage? And is it a one bedroom, two bedroom.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:15:06.721784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "That's a one bedroom.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:15:12.648972",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm how big is the unit 60700 square feet?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:15:14.521784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Yeah, 700 square feet.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:15:17.448972",
+      "type": "transcript"
+    },
+    {
+      "content": "And I'm guessing there's an elevator that we can use, right?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:15:22.321784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Now they're stairs, though.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:15:25.248972",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, no problem. No additional fees for the stairs and let's talk about in Victor. What are the major items you need us to handle?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:15:27.721784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Okay.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:15:31.848972",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:15:33.703784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "The couch a bed and just like moving boxes.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:15:38.448972",
+      "type": "transcript"
+    },
+    {
+      "content": "We usually see or fifty to 25 boxes.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:15:48.121784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "And, and, and address and address, sir. Yeah, and address, sir.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:15:49.248972",
+      "type": "transcript"
+    },
+    {
+      "content": "Jess and what's a good ballpark number? How many boxes?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:15:54.121784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:15:54.121784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "I've been started packing up, but I'd say probably like ten boxes maybe.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:15:59.448972",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, okay, sounds good, Max just to confirm. Nothing crazy or like a gun safe gym equipment or a piano. Nothing like that.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:16:06.721784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:16:09.121784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "No, no.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:16:15.048972",
+      "type": "transcript"
+    },
+    {
+      "content": "However, the walk from your front door going into the parking area. Would you say if it's a long walk, are you done the hall.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:16:18.121784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "No, it says like fifty to a hundred feet.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:16:26.448972",
+      "type": "transcript"
+    },
+    {
+      "content": "And where are we moving you in?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:16:30.721784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:16:31.703784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "The address is 1100 South Bam Boulevard, Austin, Texas. 78704.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:16:34.248972",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "address",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:16:37.732972",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "ner",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:16:37.732972",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "ner",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:16:42.732972",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "postcode",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:16:43.772972",
+      "type": "moment"
+    },
+    {
+      "content": "Which floor are you going to?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:16:57.121784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:16:57.121784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "That one will be the third floor.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:17:01.848972",
+      "type": "transcript"
+    },
+    {
+      "content": "There or ein.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:17:04.921784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Elevator.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:17:07.248972",
+      "type": "transcript"
+    },
+    {
+      "content": "You want affect the estimate. But are you moving to another one bedroom or is it a two bedroom this time?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:17:10.921784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:17:12.223784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "I remember one bedroom.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:17:16.248972",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, I think I got all the details that I need. I just wanna confirm you don't need our packing service. They'll have the boxes ready to go and no additional stop. Just point eight point please. Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:17:20.521784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Yeah.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:17:28.848972",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Yup, that's correct.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:17:31.848972",
+      "type": "transcript"
+    },
+    {
+      "content": "Wonderful. Okay. Well, Appin the quote. Is there anything you would like to share? I want to know what are you most concerned about for this week or do you have any specific questions you'd like me to answer on this call?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:17:34.921784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:17:38.583784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:17:40.983784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:17:46.623784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "No, no, all good. Just need someone there on the sixteenth to pickup everything and move it from me and so.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:17:47.448972",
+      "type": "transcript"
+    },
+    {
+      "content": "Nothing. Okay, thank you.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:17:50.521784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "For sure, for sure and let's start with the basic pricing. If you want to move from Monday to Thursday, it's our cheapest rate. We offer $208 per hour with two movers already. Do we have a 26 truck? We will bring the moving brackets, shink graph Bens doggy. The tools for any disassemble or reassembly that needs to be done. This also includes the taxes insurance, and the gas. The best part here, your move is within our free service though, so no travel fees. And for all our clients no credit card fees, no stair. Well no disassemble already assembly fees. What we have is a two and a half hour minimum. If we go, be on minimum, we will just prorate the time in every fifteen minute interment questions, so far.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:17:54.721784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:18:04.943784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:18:09.223784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:18:31.943784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Sure.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:18:36.648972",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "No, all good.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:18:47.448972",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, no further, typically a one bedroom apartment ma'am we would send two movers, one shop it would take two and a half to three and a half hours to complete your inventory is very much straightforward, you know nothing crazy. But with the long walk to store to a third floor and the second floor to a third floor unit. I would suggest budget for two and a half to three and a half hour range in case needed. So that would be around $520 for the minimum and then three and a half hours is $72,520 to $728 in case needed. But you're not family the estimate you only pay for the time that you use. So if you're able to take a few boxes you know preparation is fee last time that we will take more money.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:18:49.921784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:18:52.583784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:19:06.223784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:19:13.143784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:19:15.103784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:19:16.943784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:19:19.623784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:19:21.983784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:19:29.183784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Yup. Absolutely. Nope. All good.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:19:33.048972",
+      "type": "transcript"
+    },
+    {
+      "content": "Questions specification sounds good. By the way we are familiar with the, with the new address or the new apartment you you're moving to usually Alabama are broken most of the time at this one. Do you know if their elevators working?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:19:33.121784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:19:39.063784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:19:45.703784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Yeah, it should be working when I was there so.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:19:53.448972",
+      "type": "transcript"
+    },
+    {
+      "content": "It should be. Okay. Well that should be good to go but if not just in case it's not working on your move date, there's no additional looking for the stairs, but it will add that just be ads. Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:19:56.521784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "issue_unresolved",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:20:00.183784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Yeah, got it.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:20:06.048972",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, so, yeah, what do you say should we go ahead and lock the date no delos is required?",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:20:08.521784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:20:10.183784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Yes, correct.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:20:13.848972",
+      "type": "transcript"
+    },
+    {
+      "content": "Would you like to start in the morning, we will arrive around 8:30 to nine or if you want the afternoon spot, I have here a 12:00 AM to 2:00 PM start time. What do you.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:20:17.521784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:20:20.543784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:20:26.223784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Let's do a morning.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:20:28.848972",
+      "type": "transcript"
+    },
+    {
+      "content": "Morning, awesome. I just need the current a new unit number and then I'll send you the confirmation email.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:20:31.921784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:20:37.623784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Yeah, absolutely our current is 1323.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:20:39.648972",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "And then new one, hold on. I'm walking over my lout right now it.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:20:45.048972",
+      "type": "transcript"
+    },
+    {
+      "content": "Second.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:20:46.321784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Date, okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:20:49.321784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "New one.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:20:54.648972",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "New one is 2332.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:21:02.448972",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, perfect! We're good to go here. We'll see you Wednesday September 16th around 8:30 to nine TA movers will give you a call once they're on the way to the pickup location. So if there's a gate code, you can just let them know by that, okay? Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:21:09.121784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "date",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:21:13.903784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:21:15.423784",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Fantastic, thank you so much.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:21:24.648972",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "positive_sentiment",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:21:25.692972",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "support_issue_resolved",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:21:25.692972",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:21:27.121784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCChcPLuwsM",
+      "content": "Alrighty, you too. Alright, bye.",
+      "name": "Max Jung",
+      "time": "2026-08-28T21:21:29.448972",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, bye-bye.",
+      "name": "Amy Arbasa",
+      "time": "2026-08-28T21:21:29.730784",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    }
+  ]
+}

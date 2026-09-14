@@ -1,0 +1,775 @@
+{
+  "call_id": "6291719649796096",
+  "lines": [
+    {
+      "content": "Good morning, this is Joanna. How can I help?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:51:15.035248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:51:15.035248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:51:15.035248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:51:15.035248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:51:15.035248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:51:15.035248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:51:16.288248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:51:16.888248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Hi Joanna my, my name is Jeremy viles. And I'm going to be moving to beta I currently live out at Canyon Lake Texas and I wasn't sure if I should call you all at the Austin office or the San antonio office but looking to, to get pricing and schedule a move.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:51:18.206756",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "call_purpose",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:51:18.206756",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "ner",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:51:18.682756",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "contact_name",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:51:19.922756",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "ner",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:51:19.922756",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:51:25.235248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "ner",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:51:26.882756",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "ner",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:51:31.882756",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm uh-huh okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:51:32.435248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "ner",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:51:32.842756",
+      "type": "moment"
+    },
+    {
+      "content": "Of course, no worries. I'd be glad to help you out with that. If I may ask, when are you planning to do this move?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:51:39.035248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:51:45.208248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "So, we close on the property on September 9th, so, you know, a few days after that.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:51:48.806756",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "date",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:51:51.722756",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, no problem. What's the zip code where you're coming from?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:52:00.035248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:52:01.528248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "I'm coming from spring branch. 78070.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:52:04.406756",
+      "type": "transcript"
+    },
+    {
+      "content": "Got it, thank you and your zip code in Vita.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:52:11.435248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "78610.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:52:18.206756",
+      "type": "transcript"
+    },
+    {
+      "content": "Got it, thank you.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:52:21.035248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, just one second.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:52:29.435248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Alright, so for this move it would be best for us to do our San antonio branch as it as closer to your pickup location but of course, just depending on our availability but if you're still looking at doing it after the ninth then, we should be good with our San antonio branch. What I can do is, I can create a profile for you. Just ask you some questions about the move. So we can give you a more personalized estimate but the house in spring branch, is it in the place in spring branch, is it a house or an apartment or kind of? Okay. How many square foot home do we have there?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:52:35.435248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:52:40.888248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Okay.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:52:45.806756",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:52:52.208248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:52:57.728248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:53:00.568248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Sure.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:53:02.006756",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:53:03.768248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "It is a house.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:53:07.406756",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:53:07.728248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "It's about 3600 square feet.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:53:12.806756",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm I see. Okay typically for a house the size you already go some items or downsize or not moving every night. Okay, understood. That's okay. That's fine but still for a house the size we still conduct like a video call, like a virtual walkthrough, which we can schedule with one of our specialist is this is a larger move that I don't handle just yet so we can just provide you a personalized estimate. Especially the dri in between, it's not really suitable for multiple trips. So we just wanna make sure we're sending you the right number of trucks. Okay? Alright, yeah, may I please have your full name? Is it Jeremy? Is that right? Did I hear that? Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:53:15.635248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "But, it's mm-hmm.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:53:18.806756",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Yes, yes, correct.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:53:24.806756",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Okay.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:53:40.406756",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Yup.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:53:50.606756",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:53:54.688248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Yes, J-E-R-E-M-Y mm-hmm.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:53:56.006756",
+      "type": "transcript"
+    },
+    {
+      "content": "Got it and your last name.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:53:58.835248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Viles V. like Victor, I-L-E-S.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:54:01.406756",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "ner",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:54:02.482756",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm perfect and how about your email address.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:54:03.035248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "It's DR. Period.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:54:09.206756",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:54:13.235248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "J files.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:54:14.606756",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:54:17.435248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "@gmail.com.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:54:18.806756",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "email_address",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:54:18.806756",
+      "type": "moment"
+    },
+    {
+      "content": "Got it. Thank you so much and let's see and just a quick question, how did you hear about us?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:54:22.235248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:54:28.848248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "My brother-in-law use you all when he moved from Austin to bu.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:54:30.806756",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "ner",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:54:34.722756",
+      "type": "moment"
+    },
+    {
+      "content": "I see. Okay, got it. Thank you so much.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:54:36.035248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, and may I please have your current address?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:54:47.435248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "439.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:54:53.006756",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:54:55.235248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Mystic parkway.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:54:56.606756",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, got it.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:55:00.035248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Spring branch.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:55:03.206756",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you and how many story home do we have here?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:55:04.835248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:55:07.928248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "It, it's two, but there'll be minimal on the second floor.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:55:09.806756",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:55:14.488248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see. Okay, that's.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:55:16.835248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Would be like 11 desk, that's about it.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:55:18.206756",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, got it thank you.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:55:21.635248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:55:25.888248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Alright. And how many bedrooms do we have here?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:55:28.835248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "It's technically four but only one of them is furnished.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:55:33.806756",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:55:36.035248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see, okay, and plenty of space to park on a driveway in front of the house or do we park on the street? That's perfect, okay. Alright, thank you so much. Let me please have your address and beta.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:55:39.035248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:55:39.168248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Yes.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:55:47.006756",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:55:47.728248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Nope, plenty of space on the driveway.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:55:49.406756",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "It's 309.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:55:57.806756",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:56:00.635248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Willow City valley.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:56:02.006756",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:56:06.035248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:56:09.035248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Beata.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:56:11.006756",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:56:13.235248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Thank you. Is that a one story home? A two story home as well? Just the one story, okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:56:18.635248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:56:19.688248",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Yes, one story.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:56:21.806756",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, so yup, that's everything I'll be needing for now. Let me just go ahead and transfer you over to one of our specialist, okay? Just stay on the line. Thank you so much.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:56:28.235248",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Okay, thank you.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:56:36.806756",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you for patiently waiting, I'm really sorry Jeremy, everybody's just on a call right now but rest assured I'll go ahead and endorse you to one of our specialist who can give you a callback you know, know, to, for a more personalized estimate but just in case when will you be free to do like the virtual Walker. So it's such like a video call of just you know, checking out everything we need to move for you.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:58:50.639576",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:58:53.679576",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Okay, no problem.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:58:56.411174",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:58:58.159576",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "issue_unresolved",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:59:00.279576",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Okay.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:59:04.211174",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "I can be available anytime.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:59:13.811174",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. That's awesome. Alright. I'll have them give you a call as soon as they're available so they can get you set up already, okay?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:59:16.439576",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Okay.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:59:21.611174",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Sure, that sounds great.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:59:25.211174",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "positive_sentiment",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:59:25.211174",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, thank you so much. Talk to you later bye.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:59:26.639576",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "issue_unresolved",
+      "name": "Joanna Ballon",
+      "time": "2026-08-27T14:59:28.919576",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC5qvvjQsM",
+      "content": "Alright. Alright, bye.",
+      "name": "Jeremy Viles",
+      "time": "2026-08-27T14:59:29.411174",
+      "type": "transcript"
+    }
+  ]
+}

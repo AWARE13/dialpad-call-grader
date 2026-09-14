@@ -1,0 +1,789 @@
+{
+  "call_id": "6061879339720704",
+  "lines": [
+    {
+      "content": "This is Chris with Einstein Moving Company. How can I help you?",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:16:45.613461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:16:45.613461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:16:45.613461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:16:45.613461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:16:45.613461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:16:45.613461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:16:46.210461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:16:46.570461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Hi, I was filling out the form to get an estimate on the internet and it says my next step is to call someone because we're not doing a total move, we're just moving a few things.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:16:47.531827",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "call_purpose",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:16:47.531827",
+      "type": "moment"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:16:47.650461",
+      "type": "custom_moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay, and did you receive anything by email from us by chance?",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:17:03.613461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "No, cause I haven't to the best of my knowledge, I haven't submitted anything.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:17:06.731827",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, well I can help you out starting off what date did you want this move to happen on?",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:17:15.613461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:17:18.010461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "We're very flexible I wrote the twelfth just to put a number in there.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:17:19.331827",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, gotcha, and, I will say we have variable pricing so depending on the day or we can, that you book with that'll kind of reflect our hourly rate Tuesday through Thursday our best value days for sure.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:17:26.413461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Okay. Well then we're moving on a Tuesday through Thursday.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:17:37.931827",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, perfect. Well, I'm gonna start an account for you real quick. What was your first name?",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:17:43.813461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:17:46.930461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Hester.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:17:47.531827",
+      "type": "transcript"
+    },
+    {
+      "content": "Your last name?",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:17:52.213461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Wagon W-E-I-G-A-N-D.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:17:52.931827",
+      "type": "transcript"
+    },
+    {
+      "content": "And the number you're calling on is that the best number to keep on file?",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:18:00.613461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:18:02.450461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Yes.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:18:03.731827",
+      "type": "transcript"
+    },
+    {
+      "content": "And a good email address.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:18:11.413461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Gone to pot.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:18:12.731827",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "@hotmail.com.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:18:18.131827",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "email_address",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:18:18.131827",
+      "type": "moment"
+    },
+    {
+      "content": "And have you ever worked with us before?",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:18:25.213461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:18:27.330461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "No.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:18:28.331827",
+      "type": "transcript"
+    },
+    {
+      "content": "And is this a home or apartment, move?",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:18:31.213461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:18:32.730461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Palm home to home.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:18:33.731827",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and what is the first address?",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:18:38.413461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "1112 Travis heights.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:18:40.331827",
+      "type": "transcript"
+    },
+    {
+      "content": "And is That Boulevard?",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:18:49.813461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:18:50.330461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "address",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:18:50.410461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Yes.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:18:51.131827",
+      "type": "transcript"
+    },
+    {
+      "content": "And what's the square foot of your first property?",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:18:56.413461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:18:57.290461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "1800.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:18:58.931827",
+      "type": "transcript"
+    },
+    {
+      "content": "How many stories?",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:19:03.013461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "One.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:19:04.331827",
+      "type": "transcript"
+    },
+    {
+      "content": "How many bedrooms?",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:19:07.213461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Three.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:19:09.131827",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Yeah, let me just look this up on Google quick.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:19:12.013461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:19:15.730461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Alright. So I have the home pulled up on Zillow. It looks like there's a handful of steps to get up to the walkway and then a couple of more steps get to the front door, is that accurate?",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:19:24.613461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:19:34.090461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Yes, but you could pull into the driveway and then just have a straight shot to the steps of the porch.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:19:34.331827",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, just walk into the grass is fine.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:19:44.413461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Yeah, there's a, a sidewalk there which probably doesn't show up on Google. We're really just moving six things which because we're too old. Well we don't want to carry anymore or we want some young person to come and carry it.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:19:46.931827",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:19:50.413461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "ner",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:19:51.416827",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, that's helpful.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:19:57.013461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay. Well, we can definitely help you out there. I would say with parking. I don't think it's gonna be the best bet to back up into the driveway and then it looks like there would be a little bit, a little bit of a ledge to actually get to that. Yeah, to get to the grass to walk over, I'm not really seeing a walkway that you're talking about. Oh, I'm in the wrong driveway, excuse me.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:20:07.213461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "There we go.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:20:35.413461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "But, yeah, same thing. I don't think, we'll be able to back in, but we can definitely park the truck to where the back of it, it's at the start of the driveway and then that'll definitely help us bypass the steps, so I'll note that.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:20:38.413461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Okay.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:20:48.731827",
+      "type": "transcript"
+    },
+    {
+      "content": "It's not this.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:21:01.213461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Alright, and for the move to address, what is that?",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:21:06.613461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:21:08.930461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "3027 Sunridge drive.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:21:09.131827",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "ner",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:21:12.131827",
+      "type": "moment"
+    },
+    {
+      "content": "Now in regards to boxes, do you plan on having everything packed up like, small miscellaneous wise before we get get on site?",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:21:52.813461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:21:55.450461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "It's six pieces of furniture. It's there's no boxes involved.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:21:59.531827",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Nope, okay, making it easy, I'll note that.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:22:04.813461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Alright, and what are those six items?",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:22:19.213461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:22:20.090461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "There's a small dresser, it's maybe eighteen to twenty inches by three feet.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:22:21.131827",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:22:33.013461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "And less than waste. I then there's a small table, which is the size of a coffee table.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:22:33.731827",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "And there's a bookcase which is 24 inches wide and whatever a standard book case height is five and a half feet, something like that.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:22:47.531827",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:22:48.013461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay, got it.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:22:58.813461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "The trundle part of a trundle. Bed. No mattress. Just the, you know, the box that rolls under the other piece of the bed, that would have a mattress in. It had there been a mattress.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:22:59.531827",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, got it.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:23:15.613461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "A, an exercise bicycle but it's one that you can fold up, it's not a great big piece of machinery. It's just a little tiny exercise bicycle and then an office chair.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:23:16.931827",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:23:31.213461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:23:37.813461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "And that's it.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:23:42.013461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "That's it and then eventually when the house self, we will move the rest of our furniture. But for right now this is all we're moving.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:23:42.731827",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:23:45.013461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Uh-huh.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:23:49.213461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay, I'll make a note of that.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:23:52.213461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "monologuing",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:24:09.490461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Alright, so, yeah, this will be a super easy move. I'm gonna go ahead and go for pricing and I will follow up with all this information via email for you once we're done.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:24:13.213461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Okay.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:24:21.131827",
+      "type": "transcript"
+    },
+    {
+      "content": "So, the pricing is super simple for a move like this. We're just gonna send out two movers and one truck and an hour rate of $208. The $208 hourly rate in this case includes absolutely everything, taxes, insurance, gas pads and wraps any fully stocked for disassemble and reassembly needs the hourly rate itself will kick into effect once we get checked in on site, begin the walkthrough and it will, right running until the move is completed. To your satisfaction we do maintain a 2.5 hour minimum. I don't foresee this happening but if for any reason we exceeded that two and a half hour minimum, same hourly rate but fifteen minute increments until the move is actually completed based on the minimal amount going and new boxes, I do think we'll be inside that two and a half hour minimum. So, that'd be a $520 budget.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:24:23.413461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:24:29.530461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:24:30.970461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:25:08.450461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Okay. Yeah, I can't imagine it's gonna take more than two and a half hours.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:25:11.531827",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:25:15.013461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "No, no. So, I think this pretty quickly and for any reason, if, you know, we fall pretty well under the two and a half hour minimum if there's anything we can do extra task wise at the new site or even at the first one to stay busy so you get the full, full service of the two and a half hour minimum you can keep the guys working.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:25:18.013461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:25:21.370461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Okay, alright. Okay, let me I mean, don't put this in stone, let me run it fast the rest of the group here and.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:25:36.131827",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:25:46.813461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay and then just to let you know, we're very easy with booking. We don't have any cancellation fees, no rescheduling fees and we don't even help all day or take a deposit to hold the booking. So whenever you're ready to book I have all this all this detailed on your booking ing profile we can look it up by your first, last name or email address is always easy.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:25:51.013461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:25:54.370461",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Okay, great.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:26:09.731827",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, what pleasure to speak with you, give me a couple of minutes to button up this email and I'll get that over to you. Sometimes our stuff goes with spam, so, if you don't receive in the next five to ten minutes, check spam, I guarantee it'll be there.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:26:12.613461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Alright, thank you very much.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:26:22.931827",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "positive_sentiment",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:26:24.656827",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "support_issue_resolved",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:26:24.656827",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, my pleasure. Have a good one.",
+      "name": "Chris Anderson",
+      "time": "2026-08-05T21:26:27.013461",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDc5cqYpAoM",
+      "content": "Bye-bye.",
+      "name": "Hester Weigand",
+      "time": "2026-08-05T21:26:28.331827",
+      "type": "transcript"
+    }
+  ]
+}

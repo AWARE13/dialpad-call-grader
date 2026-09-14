@@ -1,0 +1,558 @@
+{
+  "call_id": "5469079587561472",
+  "lines": [
+    {
+      "content": "Hello, good afternoon this is juline with Einstein moving, how can I help you?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:01:07.201479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:01:07.201479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:01:07.201479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:01:07.201479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:01:07.201479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:01:07.201479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:01:09.490479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:01:10.010479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:01:11.050479",
+      "type": "custom_moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "Hi! I was wondering if you all had availability to help with a kind of last minute move that I need to have happen tomorrow. It's from one unit of an apartment complex to the same apartment complex just in a different unit.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:01:12.602763",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "call_purpose",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:01:12.602763",
+      "type": "moment"
+    },
+    {
+      "content": "So tomorrow ma'am, yes, we do have availability Wednesday September 2nd.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:01:25.201479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "date",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:01:29.050479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "You do sorry. Is that we said? Yup.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:01:31.802763",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, ma'am. Yes.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:01:34.801479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "Okay, so what would, yeah, what would the process be?",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:01:36.002763",
+      "type": "transcript"
+    },
+    {
+      "content": "Let's.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:01:37.801479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm let's create your profile ma'am, so we can personalize your estimate here. Let's start with your first and last name please.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:01:41.401479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "It's Lauren Thomas.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:01:51.002763",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "contact_name",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:01:51.522763",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "ner",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:01:51.522763",
+      "type": "moment"
+    },
+    {
+      "content": "And what is the best phone number?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:01:55.801479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "512-965-5722.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:01:58.802763",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "phone_number",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:01:58.802763",
+      "type": "moment"
+    },
+    {
+      "content": "And your email address?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:02:04.801479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "LH. T2 like the number two at pro to which is spelled proton.melikethe word me.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:02:07.202763",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:02:11.401479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm. Okay, again this is L. For Larry, H, for hotel, T. For tango and the number 2atproton.me.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:02:19.201479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:02:23.010479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "That's correct.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:02:28.802763",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, thank you. May I have now the address of the apartment?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:02:30.001479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "It's the muse itself Congress. So, the address is, let me pull up the actual number. 1007 South Congress Avenue, Austin, Texas. 78704.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:02:34.202763",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "address",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:02:43.082763",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "ner",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:02:47.922763",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "postcode",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:02:49.322763",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, thank you. Are we moving you within the same building or a different building?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:02:51.601479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:02:53.850479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "Same building.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:02:57.602763",
+      "type": "transcript"
+    },
+    {
+      "content": "Same building, okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:02:59.401479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Let's talk about the first apartment. The current one. What is the square footage and how many bedrooms?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:03:01.801479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "Okay.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:03:05.402763",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "What is the current finish? Is that what you're saying, square footage? It's a one bedroom, a one bedroom. And I think it's like 865 something like that square feet.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:03:07.802763",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "question",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:03:07.802763",
+      "type": "moment"
+    },
+    {
+      "content": "Square footage.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:03:10.801479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Okay, and what floor is it located?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:03:19.201479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:03:20.690479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "The fourth floor.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:03:22.802763",
+      "type": "transcript"
+    },
+    {
+      "content": "44, okay and then from the elevator ma'am, what is the distance to get into your apartment.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:03:26.401479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "It's very close to the elevator. And it's actually the way that it would be done is if a truck would fit which I don't need a large truck. I don't have a lot of furniture. I only have one bed and one small sofa that can fit in the back of a normal truck that can fit in the garage. But the way that is easiest for this to be done is to drive into the garage and you load the things from the apartment. It's, there's a walkway from my, from my apartment building straight over to the garage without changing floors. And then you could just drive down to the next floor. And reverse that. You wouldn't even need to use a, an elevator.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:03:34.202763",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. Hello there ma'am. We only have one size of truck and normally, it doesn't fit into the garage due to the height restriction so.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:04:07.201479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "Okay. Okay. It is very close to the elevator. The walk from my apartment to the elevator is, I mean, it's for forty feet, very short.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:04:18.002763",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm okay, thank you and normally ma'am, for a one bedroom apartment we see fifteen to 25 boxes. Do you think you would fall within that range?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:04:25.201479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:04:35.170479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "Sure, I less than that I really would only need help moving like I said my couch in my bed maybe a table couch bed and a table. So it's not.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:04:37.802763",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:04:45.601479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm. Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:04:51.601479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "Yeah, but yes it's certainly within that range.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:04:51.602763",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Now for the new apartment, what is the square footage and how many bedrooms?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:04:55.801479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "It's a one bedroom and I unfortunately don't know the square footage yet because this is a very last minute move. I would assume that it's the exact same as this one.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:05:01.202763",
+      "type": "transcript"
+    },
+    {
+      "content": "That's okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:05:04.801479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Okay, ma'am, what floor is it located?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:05:11.401479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:05:13.490479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:05:13.490479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "I don't know that either yet.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:05:15.602763",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:05:18.001479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:05:22.650479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Ma'am, let me now discuss the pricing here and your estimate, we charge an hourly rate of $208 per hour per for two movers already and everything is included to that taxes insurance, all the reps and pads to protect the items when being moved and all the tools to disassemble and reassemble the furniture and here at Einstein. No hidden fees of any type, no credit card fees, no terrible fees, no transportation fee. So again, no hidden fees of any type. And for every move, we do have a minimum of two and a half hour after the minimum of the time is prorated in fifteen minute increments. So for your move, ma'am, I will only estimate this to be on the minimum of two and a half hours since you only have, you will only be moving within the same building and.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:05:22.801479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "currency",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:05:28.450479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:05:44.650479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Furniture mostly you only need help with the furniture. So for the two and a half hours, that's $520 for two movers already.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:06:14.490479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "currency",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:06:19.290479",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "Okay, I'll take a look. I had another quote that was a bit less than this. So I'll, I'm gonna compare them and I'll get back to you guys.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:06:24.602763",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "action_item",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:06:30.602763",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm okay, ma'am. I'll just send you an email so you have something to review and if ever you want to proceed, just give us a callback or just reply to that email.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:06:31.801479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "Great, I appreciate it. Thank you.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:06:40.802763",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "support_issue_resolved",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:06:41.282763",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "positive_sentiment",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:06:41.442763",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you and have a good day. Bye-bye.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-01T19:06:42.601479",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC0MG05wkM",
+      "content": "You as well. Bye.",
+      "name": "Lauren Thomas",
+      "time": "2026-09-01T19:06:45.002763",
+      "type": "transcript"
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "call_id": "5895945280495616",
+  "lines": [
+    {
+      "content": "ai_scorecard_llm_v2_na",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:28:43.380884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:28:43.380884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:28:43.380884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_trigger",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:28:43.380884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "Hello, this is trance with Einstein. How can I help you?",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:28:50.469884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:28:50.469884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:28:50.469884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:28:50.469884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:28:50.469884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:28:50.469884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:28:50.469884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:28:50.469884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ner",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:28:51.660884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:28:52.260884",
+      "type": "custom_moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Hey, how you doing? I'm just returning your call for a move that I have scheduled with you guys.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:28:52.860142",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "call_purpose",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:28:52.860142",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. What was the email address you used to book your move under?",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:28:59.469884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:28:59.469884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "It's R-O-Y-B-E-N like Nancy AM like Mary, Roy @gmail.com.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:29:03.060142",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "ner",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:29:06.866142",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "ner",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:29:09.426142",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "email_address",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:29:11.266142",
+      "type": "moment"
+    },
+    {
+      "content": "Yes sir. Right let's see, just wanted to kind of confirm some of the details with you. We're going from 2300 Old Which All Ridge Street number 546. Is that the unit 546.",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:29:12.669884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "monologuing",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:29:15.980884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "address",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:29:23.580884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Yup, that's the unit. Yup.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:29:30.660142",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:29:32.300884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "Beautiful 700 square foot one bedroom apartment. Fifth floor. Cool and we're taking you to 12489 Research Boulevard is that's an apartment as well.",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:29:32.469884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Yes.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:29:36.660142",
+      "type": "transcript"
+    },
+    {
+      "content": "address",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:29:40.860884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Yeah, the apartment number is, 1330. I couldn't input it in the website.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:29:45.660142",
+      "type": "transcript"
+    },
+    {
+      "content": "13, yeah, no worries that's fine. Call is sometimes collect some of those details. The website that doesn't pick up all of that and that is a third floor apartment. Yes sir. Alright, we're right on cool. As far as the inventory that we're going to be taken for you, is there anything like unusually large or bulky like a, a sleeper sale of a gun safe, a large threadmill workout equipment, anything of that nature?",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:29:48.669884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:29:48.669884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:29:51.340884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Okay, it's the third floor, yup.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:29:56.460142",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Nope.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:30:16.260142",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, cool so, just kind of standard one bedroom apartment type furniture. So, we assume like a a bed, a dresser a couple of night stands, like couch TV stand, coffee table dining room table, a couple of power stools or something.",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:30:17.469884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Yup, mm-hmm.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:30:28.260142",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Exactly. Right. Yeah, two t.v.'s TV stand, sofa queen bed, you know, computer desk stuff like that.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:30:32.460142",
+      "type": "transcript"
+    },
+    {
+      "content": "Cool on typically in a one bedroom apartment we normally see about fifteen to 25 pre pack boxes. You think it'll fall somewhere in that range.",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:30:40.869884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "I think it's gonna be less but cause I'm gonna well I have a few days of overlap which I plan to do a few round trips myself with boxes. So I don't think there's gonna be that many boxes. So, I predict less than ten.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:30:49.860142",
+      "type": "transcript"
+    },
+    {
+      "content": "Less.",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:30:52.269884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "Okay.",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:30:57.669884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "Awesome, cool on that. That'll definitely save your time on your move and the rest of the packing and everything you're going to handle yourself. You're not getting any services.",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:31:02.469884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Correct. The only thing is that some of the like the coffee table it has like a glass top. So, I don't know if you guys usually packet just to make sure that it, yeah.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:31:14.460142",
+      "type": "transcript"
+    },
+    {
+      "content": "Uh-huh yes, sir. Yeah, we'll pad and wrap all of your furniture, a bed frame, couch, coffee table. Yeah, all the furniture that you have. We're gonna pad and wrap for you. We're just making sure as far as like dishes, clothing, you know, miscellaneous, kind of next that type of stuff. Cool. Alright, I think that's a really all we need to know. It looks like your estimates. Good to go and you should be good to go for your move coming up on 828.",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:31:19.269884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:31:19.269884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:31:19.269884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Okay.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:31:33.060142",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Yeah, I'll do all that.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:31:36.060142",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Okay, the only thing I'll mentioned is that it was hard to know what the steps so like, there is like a loading deck. It's pretty like, it's on the property for both sides but on the outreach side the elevator is kind of far from the apartment. I don't know if it matters but you'll have like the elevators right there. But then, yeah, it's a bit of a walk to the apartment, I don't know if it matters to you guys.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:31:49.260142",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:31:58.869884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "Yeah, that'll kind of come into play. We've got you estimated for a little bit over what it typically takes for one bedroom apartment to account for the fifth floor. And then, the walk at the other side and the elevator. So I think you know, you probably should be pretty good with the four and a quarter range ultimately, you know, you just end up paying for the amount of time that we use on the move itself and we round it off to the nearest fifteen minute increment. So, if we happen to come on the four and a quarter hours, she'll just pay for the amount of time we use. Likewise if for some reason, reason the move goes over that four and a quarter it's pro rated in the fifteen minute.",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:32:09.669884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:32:09.669884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Okay.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:32:14.460142",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:32:14.780884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "monologuing",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:32:19.260884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:32:32.380884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "monologuing",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:32:34.420884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:32:37.980884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "monologuing",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:32:39.220884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "monologuing",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:32:41.820884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Okay. Oh.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:32:49.260142",
+      "type": "transcript"
+    },
+    {
+      "content": "Or we will, we'll handle it and get it all taken care of for you.",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:32:49.269884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:32:52.859884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:32:52.859884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Sounds good. I appreciate the time is do you have there? It's 1:00 PM.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:32:52.860142",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "positive_sentiment",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:32:52.860142",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "support_issue_resolved",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:32:53.786142",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "question",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:32:55.586142",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "time",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:32:56.586142",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, the start time is between 12:30 and 230. So it most likely, generally, our movers are gonna arrive somewhere in the middle of that time window. So you probably expect them around 1:00 to 130 but like I say the earliest I would be 12:30.",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:32:57.669884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "time",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:33:01.380884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "time",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:33:10.500884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Okay, tech technically, I don't think it's an issue but, but I have the loading that reserved at like one. They didn't give me like the half hour but I don't think it matters like I don't think anybody else will book it but just FYI.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:33:11.460142",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:33:14.220884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "Okay.",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:33:18.669884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "Yeah, that'll be okay. I mean if for some reason we do get there early we can spend that time pad and wrapping furniture getting it all prepped up that way as soon as the elevator becomes available we'll be ready to get your move going.",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:33:23.469884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Got it.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:33:29.460142",
+      "type": "transcript"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:33:34.859884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Sounds good I appreciate it.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:33:34.860142",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "support_issue_resolved",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:33:35.706142",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "positive_sentiment",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:33:35.866142",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, sir. Thank you have a nice afternoon.",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:33:36.669884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:33:36.669884",
+      "type": "moment",
+      "user_id": "5875195853152256"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMC8oMqQ4woM",
+      "content": "Yeah, you too. Take care.",
+      "name": "Roy Ben Ami - AB",
+      "time": "2026-08-09T16:33:39.060142",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes sir.",
+      "name": "Rance Pope",
+      "time": "2026-08-09T16:33:40.869884",
+      "type": "transcript",
+      "user_id": "5875195853152256"
+    }
+  ]
+}

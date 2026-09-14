@@ -1,0 +1,467 @@
+{
+  "call_id": "5280983087620096",
+  "lines": [
+    {
+      "content": "Good morning, this is Joanna. How can I help?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:56:30.421891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:56:30.421891",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:56:30.421891",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:56:30.421891",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:56:30.421891",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:56:30.421891",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:56:31.780891",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:56:32.460891",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "Yeah, sorry, I am looking to get a quote for a move this Thursday for a non-profit organization that is moving from south Austin to another south Austin location. It's for just like 3030 gallon boxes, like plastic Bens so it's not a very big move but we just need to have someone come grab that.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T13:56:34.082168",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "call_purpose",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T13:56:34.082168",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "ner",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T13:56:46.520168",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "ner",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T13:56:49.720168",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, no worries. Let me just double-check you mentioned this Thursday so that's the twenty seventh, correct? Yeah.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:57:01.621891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "Yes.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T13:57:10.082168",
+      "type": "transcript"
+    },
+    {
+      "content": "Give me one moment.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:57:12.421891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "What is the zip code where you're coming from?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:57:15.421891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "78745.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T13:57:19.082168",
+      "type": "transcript"
+    },
+    {
+      "content": "And going to.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:57:22.021891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "78748.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T13:57:23.882168",
+      "type": "transcript"
+    },
+    {
+      "content": "One second.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:57:29.221891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I'm just checking on our availability and you mentioned it's just gallon no furniture at all. Is that correct?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:57:38.821891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:57:38.821891",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:57:45.140891",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "No furniture, we have somebody else who's volunteering to move all of our furniture and equipment.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T13:57:45.482168",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, I see, okay, now I understand there this are just gallons that we're moving but of course just want to be transparent with you in terms of our pricing. So we charge $104 per hour, per mover on a Thursday. So for two guys it's $208 per hour it's always with two men and a truck. That's all inclusive. It's like everything we need is already in that price, fuel taxes, insurance, credit card fees, basically everything. Now I know that those are just gallon but for any move we just have a two and a half hour minimum. So the minimum cost for this move is $520. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:57:50.821891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:58:00.940891",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:58:05.340891",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "Okay.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T13:58:09.482168",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "Okay.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T13:58:17.882168",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "Okay.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T13:58:25.682168",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:58:27.780891",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "Yeah, that sounds great.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T13:58:31.682168",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "positive_sentiment",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T13:58:32.160168",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, I'll just go ahead and set up a profile for you. Just one moment. May I please have your email address?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:58:32.821891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "Okay. So again like, I am calling to get quotes, so I am not a person that can give you a card. I am not the point of contact. So I just need you to forward me that quote so I can forward it over to the nonprofit board. Cause I'm just a volunteer. So.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T13:58:39.482168",
+      "type": "transcript"
+    },
+    {
+      "content": "That's correct, yup. Yup, that's totally fine. Like in order for me to create a quote for you, I still need to create a profile but I can also just text you the prices.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:58:55.621891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "Yeah, I, I'll me and again I don't know about your system but if you text it to me I can't forward it to the board won't count it has to be in writing. I am not gonna give you my personal contact information cause I don't want you to sell it or market it or utilize it anyway, I'm not interested in personally moving. So there's no way around that we can just remove you from consideration but like it hasn't been an issue with other folks. So I'm just, again, it's up to you how you want to do it but I would love to consider you all you all are our neighbors currently like you are just down the street where on south Congress like right across by Sana, so.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T13:59:08.882168",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "That's up to, yeah, so I'll just kind of leave it with you on that, like how do you want to proceed?",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T13:59:52.082168",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "question",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T13:59:55.640168",
+      "type": "moment"
+    },
+    {
+      "content": "But how do you prefer to receive the code?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:59:57.421891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T13:59:58.180891",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "I did, I would, how do I want the quote that you can email me the quote? I just don't want to use your profile.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T14:00:02.882168",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T14:00:03.421891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "question",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T14:00:04.800168",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "action_item",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T14:00:06.520168",
+      "type": "moment"
+    },
+    {
+      "content": "I understand. Okay I'll just try to check if I can just send you there's something in writing via, it may not be like our general template for a quotation but I can definitely just go ahead and send you some information about the pricing.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T14:00:10.021891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T14:00:23.060891",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "That'd be great and if so let me give you my personal email that is not to be used for any other marketing or to be added list, okay, it's Matt.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T14:00:26.882168",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm yup, no problem. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T14:00:30.421891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "contact_name",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T14:00:35.160168",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "ner",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T14:00:35.160168",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "At Glazer @gmail.com and if you will include in that how the board chair or the staff and finalize booking with you cause I just spent 45 minutes on co basically. So if there's a simpler way for them to book that would also be helpful.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T14:00:38.282168",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T14:00:38.821891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "email_address",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T14:00:42.482168",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T14:00:55.621891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, sure. No worries. I'll go ahead and do that so just to confirm that's matt.Glazer. G-L-A-Z-E-R-G. Mm-hmm. Go ahead, sorry.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T14:00:59.821891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "In M-A-T-T yes.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T14:01:07.682168",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup, go ahead, sorry. Okay, if you wanna verify if I just to make sure I have it correct. If it, it's Matt dot mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T14:01:15.421891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "It's MH.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T14:01:21.482168",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T14:01:22.540891",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "Yes, I think it's fine. I know we're just talking on top of each other so I trust that you have it.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T14:01:25.682168",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm okay, no problem. I'll make sure to send that quotation to you and the information we need once you decided to book with us. Okay?",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T14:01:27.421891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "That, that's wonderful. Thank you so much.",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T14:01:40.682168",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "positive_sentiment",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T14:01:41.880168",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCC0PKl7AsM",
+      "content": "support_issue_resolved",
+      "name": "Glazer Matt",
+      "time": "2026-08-25T14:01:41.880168",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, thank you so much ma'am. Have a good day.",
+      "name": "Joanna Ballon",
+      "time": "2026-08-25T14:01:42.421891",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    }
+  ]
+}

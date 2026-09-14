@@ -284,6 +284,75 @@ diff_cards = "".join(
 worst_diff = min(diff_fields, key=lambda f: diff_pct[f])
 worst_diff_label = {"save_your_ass_hit":"Save Your Ass","meet_your_mover_hit":"Meet Your Mover","on_time_guarantee_hit":"On-Time Guarantee","email_handoff_hit":"Email Handoff","agenda_opener_hit":"Agenda opener"}[worst_diff]
 
+# ---------- top performer / coaching priority / all-time patterns ----------
+
+top_rep = rep_rows_ranked[0] if rep_rows_ranked else None
+low_rep = rep_rows_ranked[-1] if rep_rows_ranked else None
+
+def weakest_section_for(rep_name):
+    """Lowest-scoring section (by % of max) across this rep's graded calls."""
+    entries = [c for c in by_rep[rep_name] if c.get("section_scores") and c.get("total_score") is not None]
+    if not entries:
+        return None
+    worst_k, worst_pct = None, 2.0
+    for k in SECTION_KEYS:
+        vals = [parse_frac(e["section_scores"].get(k)) for e in entries]
+        vals = [v for v in vals if v is not None]
+        if not vals:
+            continue
+        pct = (sum(vals) / len(vals)) / SECTION_MAX[k]
+        if pct < worst_pct:
+            worst_k, worst_pct = k, pct
+    return (SECTION_LABELS[worst_k], round(100 * worst_pct)) if worst_k else None
+
+low_gap = weakest_section_for(low_rep["rep"]) if low_rep else None
+low_note = next((c.get("coaching_note") for c in by_rep[low_rep["rep"]] if c.get("coaching_note")), None) if low_rep else None
+
+PATTERNS_FILE = Path(__file__).parent.parent / "output" / "patterns.json"
+alltime_rows = ""
+alltime_n = 0
+if PATTERNS_FILE.exists():
+    pat = json.load(open(PATTERNS_FILE))
+    alltime_n = pat.get("total_calls_graded", 0)
+    for f, lbl in [("save_your_ass_hit","Save Your Ass"), ("meet_your_mover_hit","Meet Your Mover"),
+                   ("on_time_guarantee_hit","On-Time Guarantee"), ("email_handoff_hit","Email Handoff"),
+                   ("agenda_opener_hit","Agenda Opener")]:
+        hits = pat.get(f, 0)
+        pct = round(100 * hits / alltime_n) if alltime_n else 0
+        wk = diff_pct.get(f, 0)
+        delta = wk - pct
+        arrow = "▲" if delta > 2 else ("▼" if delta < -2 else "—")
+        dcolor = GREEN if delta > 2 else (RED if delta < -2 else "#888")
+        alltime_rows += (f'<tr><td>{lbl}</td><td><strong>{hits}/{alltime_n}</strong></td>'
+                         f'<td>{pct}%</td><td>{wk}%</td>'
+                         f'<td style="color:{dcolor};font-weight:700">{arrow} {delta:+d} pts</td></tr>')
+
+callout_html = ""
+if top_rep and low_rep:
+    gap_str = f'{low_gap[0]} ({low_gap[1]}% of max)' if low_gap else "see call detail"
+    callout_html = f'''<div class="two" style="margin-bottom:20px">
+  <div class="card">
+    <h2>🏆 Top performer this week</h2>
+    <p style="font-size:22px;font-weight:700;color:{GREEN};margin:6px 0">{esc(top_rep["rep"])} — {top_rep["avg"]}/85</p>
+    <p style="font-size:12px;color:#888">{esc(top_rep["branch"])} &middot; {top_rep["n_scored"]} scored call(s) &middot; Save Your Ass {top_rep["sya_hits"]}/{top_rep["sya_total"]}</p>
+  </div>
+  <div class="card">
+    <h2>🎯 Coaching priority this week</h2>
+    <p style="font-size:22px;font-weight:700;color:{RED};margin:6px 0">{esc(low_rep["rep"])} — {low_rep["avg"]}/85</p>
+    <p style="font-size:12px;color:#888;margin-bottom:8px">{esc(low_rep["branch"])} &middot; weakest section: <strong>{esc(gap_str)}</strong></p>
+    <div class="note-box" style="font-size:12px">{esc(low_note) if low_note else "See call detail below."}</div>
+  </div>
+</div>
+
+<div class="card" style="margin-bottom:20px">
+  <h2>All-time differentiator patterns — {alltime_n} graded calls</h2>
+  <table>
+    <tr><th>Differentiator</th><th>All-time hits</th><th>All-time rate</th><th>This week</th><th>Week vs. all-time</th></tr>
+    {alltime_rows}
+  </table>
+  <p style="font-size:11px;color:#888;margin-top:10px">All-time totals include this week's run.</p>
+</div>'''
+
 leaderboard_html = leaderboard_rows()
 rep_sections_html = "".join(rep_section(rep, entries) for rep, entries in sorted(by_rep.items(), key=lambda kv: -(next((r["avg"] for r in rep_rows if r["rep"]==kv[0] and r["avg"] is not None), -1))))
 
@@ -387,6 +456,8 @@ a:hover{{text-decoration:underline}}
     </div>
   </div>
 </div>
+
+{callout_html}
 
 <div class="card">
   <h2>Rep leaderboard</h2>

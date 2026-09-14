@@ -1,0 +1,901 @@
+{
+  "call_id": "4505811927638016",
+  "lines": [
+    {
+      "content": "ai_scorecard_llm_v2_na",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:38.060330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:38.060330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_no",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:38.060330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_scorecard_llm_v2_trigger",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:38.060330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Hi, good afternoon. This is Shan with Einstein moving. How can I help you?",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:45.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:45.145330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:45.145330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:45.145330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:45.145330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:45.145330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:45.145330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:45.145330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:45.145330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:45.145330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:46.460330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:47.060330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:47.940330",
+      "type": "custom_moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "Hello, this is Mason. I'm scheduled to have movers come on Friday, I think early in the morning like, eight ish. I just wanted to make sure that we're still good to go. Let's see if make sure. Oh, mason.man at Gmail, I believe.",
+      "name": "Mason",
+      "time": "2026-08-19T16:22:49.312373",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "call_purpose",
+      "name": "Mason",
+      "time": "2026-08-19T16:22:49.312373",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "contact_name",
+      "name": "Mason",
+      "time": "2026-08-19T16:22:50.373373",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "ner",
+      "name": "Mason",
+      "time": "2026-08-19T16:22:50.373373",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:22:57.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Alrighty. What email did you use, Mason, when you booked?",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:23:00.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:23:00.145330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "question",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:23:01.860330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:23:03.820330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:23:09.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "How should take going so far?",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:23:23.545330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "It's going well, how was yours?",
+      "name": "Mason",
+      "time": "2026-08-19T16:23:26.512373",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "question",
+      "name": "Mason",
+      "time": "2026-08-19T16:23:27.813373",
+      "type": "moment"
+    },
+    {
+      "content": "It's going pretty good. Thank you for asking.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:23:28.345330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Alright, Mason.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:23:37.945330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:23:38.980330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay. Yup. On August 21st, I do see that a reservation here.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:23:42.745330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "date",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:23:45.060330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "Uh-huh.",
+      "name": "Mason",
+      "time": "2026-08-19T16:23:46.912373",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "You said the twenty first, right?",
+      "name": "Mason",
+      "time": "2026-08-19T16:23:51.112373",
+      "type": "transcript"
+    },
+    {
+      "content": "And the yes, the twenty first August twenty first. Okay, beautiful. And then I do have an arrival window. Looks like, between.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:23:51.580330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "Yeah, perfect.",
+      "name": "Mason",
+      "time": "2026-08-19T16:23:54.112373",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "positive_sentiment",
+      "name": "Mason",
+      "time": "2026-08-19T16:23:54.112373",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, okay. So actually Mason.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:24:14.545330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:24:20.220330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "The truck. Have you confirmed your, or did you just receive a, an email with an estimate?",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:24:25.345330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "question",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:24:27.745330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "No, really. I just started it was good to go.",
+      "name": "Mason",
+      "time": "2026-08-19T16:24:34.912373",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:24:38.545330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "So I need to do anything that's why I like to confirm but I didn't do anything else.",
+      "name": "Mason",
+      "time": "2026-08-19T16:24:40.912373",
+      "type": "transcript"
+    },
+    {
+      "content": "Give me.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:24:42.745330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Yes, give me just one moment cause it's not confirmed so the truck is not booked. It's just, yeah, so we just sent out a an estimate for you but it hasn't been confirmed just yet.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:24:45.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:24:45.145330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "Oh shit.",
+      "name": "Mason",
+      "time": "2026-08-19T16:24:49.312373",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "negative_sentiment",
+      "name": "Mason",
+      "time": "2026-08-19T16:24:49.312373",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "swearing",
+      "name": "Mason",
+      "time": "2026-08-19T16:24:49.933373",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "Oh, oh.",
+      "name": "Mason",
+      "time": "2026-08-19T16:24:58.912373",
+      "type": "transcript"
+    },
+    {
+      "content": "But no, no worries. We can get this all squared away.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:25:03.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:25:03.145330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:25:04.620330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Alright, and then it looks like.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:25:10.945330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "I thought I sent a walkthrough and everything.",
+      "name": "Mason",
+      "time": "2026-08-19T16:25:17.512373",
+      "type": "transcript"
+    },
+    {
+      "content": "You said you did a walkthrough?",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:25:21.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "I thought I sent everything, yes, I sent that walkthrough. And.",
+      "name": "Mason",
+      "time": "2026-08-19T16:25:24.112373",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "If it didn't go through then I'll definitely do it again but I did it all I did the virtual.",
+      "name": "Mason",
+      "time": "2026-08-19T16:25:28.912373",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Well when you said, you, oh, no, you're so you walk, you did a virtual walkthrough with someone, do you remember who you did that with?",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:25:32.545330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "question",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:25:41.060330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "Oh, no, no, no. I did not do that.",
+      "name": "Mason",
+      "time": "2026-08-19T16:25:43.312373",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, okay. You just sent some in.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:25:47.545330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "Do you need me to go home and do that? Like right now, I can go home and knock that out.",
+      "name": "Mason",
+      "time": "2026-08-19T16:25:48.112373",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "question",
+      "name": "Mason",
+      "time": "2026-08-19T16:25:48.112373",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, okay, no. Give me just one moment, I just wanna make sure that we don't have like a, oh.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:25:53.545330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "I thought I did something maybe I don't. It's been a crazy couple of months, so, okay, I'm losing my mind.",
+      "name": "Mason",
+      "time": "2026-08-19T16:25:57.712373",
+      "type": "transcript"
+    },
+    {
+      "content": "That's okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:26:03.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:26:03.145330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "No problem, not a problem at all. We got you covered.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:26:06.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "We got you covered.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:26:12.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "Yeah, I'll roll home right now and knock it out with anybody.",
+      "name": "Mason",
+      "time": "2026-08-19T16:26:16.912373",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:26:24.745330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay, perfect.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:26:30.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay, and then you said you sent in, you sent in the virtual, like you send in some information to us. Okay. It's okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:26:34.345330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "That's what's lot. I did, I thought I did or I thought I told I can't remember I really can't. But if I need to do a virtual rock too, like I'm more than happy to go home right now. Knock it out.",
+      "name": "Mason",
+      "time": "2026-08-19T16:26:41.512373",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:26:47.260330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:26:51.745330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Alright.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:26:54.745330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "So, so maybe.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:26:58.345330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Should we call it twelve?",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:27:05.545330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "question",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:27:05.545330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "We can walk through that with you at twelve just to kind of give you some time to get there. Okay, that'll kind of give you a little buffer.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:27:09.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:27:09.145330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "What's that?",
+      "name": "Mason",
+      "time": "2026-08-19T16:27:10.312373",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "Oh, yeah, sure. Yeah, that, yeah, that works out. Yeah, can you send me, can you send me another link for that?",
+      "name": "Mason",
+      "time": "2026-08-19T16:27:12.712373",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "question",
+      "name": "Mason",
+      "time": "2026-08-19T16:27:16.853373",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, yes. No, absolutely, absolutely.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:27:20.545330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "Awesome.",
+      "name": "Mason",
+      "time": "2026-08-19T16:27:24.112373",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "positive_sentiment",
+      "name": "Mason",
+      "time": "2026-08-19T16:27:24.112373",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, and then, yup, and then we will send you a link.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:27:27.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "action_item",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:27:31.500330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Let me put.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:27:36.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "What's.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:27:40.945330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay, beautiful.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:27:45.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Wow.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:27:54.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "monologuing",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:28:01.460330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Alright, okay. So I'm going to, no, you're good, you're good. No worries, I'm sending it out right now to our walkthrough specialist. So I'm sending your information out to them and then they will send you a virtual walkthrough link right before, okay? And they'll text it.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:28:02.545330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:28:02.545330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:28:02.545330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:28:02.545330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "I'm gonna have home right now.",
+      "name": "Mason",
+      "time": "2026-08-19T16:28:05.512373",
+      "type": "transcript"
+    },
+    {
+      "content": "ai_scorecard",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:28:08.940330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "monologuing",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:28:14.660330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "Okay, and 12:00 is fine.",
+      "name": "Mason",
+      "time": "2026-08-19T16:28:25.312373",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "time",
+      "name": "Mason",
+      "time": "2026-08-19T16:28:26.333373",
+      "type": "moment"
+    },
+    {
+      "content": "Oh! Go right here Mason and I said they'll text it so they won't email it, they'll text it. So it's easier to to walk through that with you. Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:28:30.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "What's that?",
+      "name": "Mason",
+      "time": "2026-08-19T16:28:30.712373",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:28:31.580330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "What's that?",
+      "name": "Mason",
+      "time": "2026-08-19T16:28:34.912373",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "Okay. Okay, yup, and then you said it at 12:00.",
+      "name": "Mason",
+      "time": "2026-08-19T16:28:39.712373",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:28:40.300330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "time",
+      "name": "Mason",
+      "time": "2026-08-19T16:28:44.333373",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, we'll get that. I'm gonna see if yeah, I'm just checking to see if they're available at twelve so I just sent out a message, I'm just waiting for them to message me back and then let me do this as well.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:28:45.745330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "Okay.",
+      "name": "Mason",
+      "time": "2026-08-19T16:28:47.512373",
+      "type": "transcript"
+    },
+    {
+      "content": "issue_unresolved",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:28:52.860330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "Okay.",
+      "name": "Mason",
+      "time": "2026-08-19T16:28:57.112373",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "And then.",
+      "name": "Mason",
+      "time": "2026-08-19T16:29:00.712373",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "And that notification will tell me like what timeslot I am.",
+      "name": "Mason",
+      "time": "2026-08-19T16:29:03.112373",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, yes, yes, yes, yes, it will, it will. So, let me can do.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:29:06.145330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "And go grab some real quick.",
+      "name": "Mason",
+      "time": "2026-08-19T16:29:12.712373",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. So I have your profile in front of me. I am reaching out to the specialist right now and then yes, so we should be able to, to do that at noon and then what we'll do is we'll give you a call right back or we'll just send that text back to text link to you so we can walk.",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:29:16.945330",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:29:31.312330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_scorecard_llm_v2",
+      "name": "Chauny Shivers",
+      "time": "2026-08-19T16:29:31.312330",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCcgdCp5QgM",
+      "content": "Okay.",
+      "name": "Mason",
+      "time": "2026-08-19T16:29:31.312373",
+      "type": "transcript"
+    }
+  ]
+}

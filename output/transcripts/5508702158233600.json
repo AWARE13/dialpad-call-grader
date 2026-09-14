@@ -1,0 +1,922 @@
+{
+  "call_id": "5821978448535552",
+  "lines": [
+    {
+      "content": "This is just with Einstein Moving Company. Com. How can I help you?",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:50:34.603548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:50:34.603548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:50:34.603548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:50:34.603548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:50:34.603548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:50:34.603548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:50:34.603548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:50:34.603548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:50:34.603548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "ner",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:50:35.811548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:50:36.891548",
+      "type": "custom_moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Hello! I put in an online quote for a move and then it says that since it's a partial quote, I'd have to call in and get it finished up.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:50:38.110646",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, I can take a look at that for you here. We might already have some details in the system so let me start there, let me get your name and see what I can pull up. Is it Jason by chance?",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:50:48.403548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Alright, yup, that's right. And last name Cornelius?",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:50:57.910646",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:50:58.011548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "ner",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:50:58.251548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "ner",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:51:01.704646",
+      "type": "moment"
+    },
+    {
+      "content": "Yup. Okay. Yeah, I see it here. It just came in. So let me pull it up here. What this is showing, is you're moving from let me see 10909 river plantation drive which is a single story house, moving to 214 Barton springs road, which is a one bedroom apartment, is that right?",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:51:02.803548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Okay.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:51:08.710646",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:51:20.371548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Yeah, and the house is two floors but I'm only, I live on the first floor of it. So it's just really my bedroom that's being moved.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:51:23.710646",
+      "type": "transcript"
+    },
+    {
+      "content": "Gotcha, okay. Yeah, that makes sense and that makes sense why the system was unable to, to process it. But yeah, I can help out. Looks like your aiming for September 19th which is a Saturday and yeah, that date is available. So you let's, yeah, let's just chat about a little bit more. I guess probably the best way to move forward is just you can like list off literally what is being moved like, bed dresser and nightstand, that kind of thing.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:51:32.203548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "date",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:51:42.251548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Mm-hmm.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:51:44.710646",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Okay.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:51:50.110646",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Mm-hmm sure. Okay, yeah, queen size bed. Let's see like I guess you call it a TV stand. No, TV actually, just the stand. A yeah, let's say a dresser like a like a single standing one. If you know what I mean, kind of like a four foot wide type deal single Stan one. And then we'll call it one regular size bookshelf. I'll box up all the books and put them in. So let's say one full books, book shelves worth of books and then.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:51:58.510646",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:52:20.803548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Let's see close, so, one person's bedroom closet worth of close.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:52:39.384646",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "And then some small items. So, whatever from the bathroom and then a couple of things from the kitchen, from the kitchen, not a lot. And then let's see. Yeah, maybe a couple of extra miscellaneous things here there, but I think I have like two kind of like storage totes. I think I have like two storage totes and that it should be about it.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:52:48.310646",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:52:59.803548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Awesome. Okay, let me me see if I have any other questions for you of that list you just gave me. Would you classify anything there is a specialty item, anything antique or extra heavy or like nothing sends out to me. But anything you want to call attention to.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:53:16.003548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "I have like one picture frame that's a glass, you know. It's got a glass frame on it and it's a pretty nice picture. So when I've moved that in the past I just like, you know wrap it extra well but other than that, nothing really comes to mind.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:53:34.510646",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "positive_sentiment",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:53:35.664646",
+      "type": "moment"
+    },
+    {
+      "content": "Of course.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:53:46.003548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Okay, awesome. I'll make a note about that and in regards to like, in the boxes, usually when we're moving the equivalent of roughly just the bedrooms worth of stuff. Usually, we see, like, I don't know, 1012 boxes or so does that sound roughly rent to you?",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:53:49.003548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Okay.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:53:51.910646",
+      "type": "transcript"
+    },
+    {
+      "content": "unsure_agent",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:54:02.891548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "question",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:54:05.811548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "I don't know, I haven't packed it yet. 1012 we could, I mean, I got medium size boxes off of Amazon so that they don't end up too heavy for you guys. So, I think what I bought was like a packet twenty. So, I don't know maybe if you want just put twenty medium size boxes.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:54:08.110646",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "ner",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:54:17.504646",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:54:23.803548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Gotcha. Okay, that works. Let me see what else at the apartment you're moving to. Looks like you're going to the thirteenth floor. Have you actually seen your specific unit yet? Do you know like how far the walk is from the elevator to your apartment?",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:54:28.003548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "question",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:54:40.051548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "So, I don't know exactly how many steps it is from the elevator. But I do know that I just called them and they said that the freight elevator is available, so we'll have access to that and then the front area, you could pull right up to it. So, I think, from the, from where you all could park to where the freight elevator is inside, is like, I don't know, thirty feet, let's call it. So it's a pretty straight shot. And then once you get up to the thirteenth floor the elevator is kind of in the middle. So I'm not I'm trying to think UpTop of my head, I don't think it's, yeah, I think it's closer to the middle and then it would be to either side so-called another, I don't know, thirty feet, once you get out of the elevator on the thirteenth floor.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:54:47.110646",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:55:18.403548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Gotcha. Gotcha, okay, awesome. Then that's pretty much, it's, I guess, my last question for now, do you have any specific, like, concerns or stressors about the moving process just in general I can address for you?",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:55:29.203548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "question",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:55:36.571548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "No, I don't think so. I mean, it should be a pretty straightforward when I think I'm gonna, I have a good two weeks here to get everything cleaned up and boxed up so I'm hopeful that it's a, a very, very smooth move and just kinda in and done.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:55:44.710646",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "positive_sentiment",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:55:45.384646",
+      "type": "moment"
+    },
+    {
+      "content": "Gotcha. Yeah overall this is looking like a pretty straightforward with one for me as well. Yeah, I'm ready to get into my estimate for you and the pricing now don't worry about taking notes memorizing anything here cause I'll follow up with an email when we're done speaking. But yeah the pricing with us it's very simple a move the size. We'd send you a, a two man team for a crew that size on Saturdays we charge $222 an hour for 22 guys and you know everything else included. If you have flexibility Saturdays are the highest rate of the week. It's variable pricing with us, so if you can do like a Sunday.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:56:01.003548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Cool.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:56:06.310646",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Okay.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:56:11.710646",
+      "type": "transcript"
+    },
+    {
+      "content": "action_item",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:56:14.011548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "currency",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:56:27.491548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:56:34.011548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Or a Tuesday or something you can just save us up a little bit of money but if it's got to be Saturday that works fine as well. The, what that includes is obviously the crew and the truck as well as taxes, liability coverage all the materials we use to move and protect everything like a blankets and shrink wrap do and hand trucks store and floor protection even any tools that we may need for disassemble or reassembly the clock starts when we're actually on site and begin to work and you'll have us for however long as needed. We have a two and a half hour minimum for all of our jobs. That being said I don't think you're going to be terribly far away from the minimum honestly for a move to size it because it's not very big I'd probably just to give it a bit of a cushion mainly because there's an elevator we gotta go to 134 that as time I probably reserved Thursday.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:56:42.251548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:56:59.091548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Mm-hmm.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:57:05.110646",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:57:19.011548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Mm-hmm.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:57:24.310646",
+      "type": "transcript"
+    },
+    {
+      "content": "About three hours for you. If it only takes the two and a half that's all you reserved for. But you'd have us for at least that amount of time. If we hit exactly three hours the total there would be $666 all in. But again, that's not binding. You're only charged for, for, you know, the time needed. But I think that's a good starting point for budgeting time and costs for this move. Yeah, that's kind of, it's, I wanna pause there, see if you have any questions for me.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:57:34.003548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Okay.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:57:35.710646",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:57:43.731548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:57:44.091548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Yeah, that sounds all good. What's the competitive rate for like you said that Sunday or the weekdays are cheaper just like the hourly rate.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:57:59.710646",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, yeah, so Sundays it goes down to $210 an hour. So three hours equals $630 and then Monday through Thursday, those are all the same and those are the cheapest rates of the week. That's $208 and the three hours comes out to $2,624.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:58:07.603548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "currency",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:58:12.451548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "currency",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:58:15.731548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "currency",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:58:22.811548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "currency",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:58:26.331548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Okay. Yeah, let's go with Saturday then. And one more question, I see that my, this apartment building they have here, no movers must be bonded and carry a minimum of $1 million combined single limit property damage and public insurance. Do you guys have a way to prove that?",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:58:28.510646",
+      "type": "transcript"
+    },
+    {
+      "content": "Sure.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:58:32.203548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "currency",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:58:40.144646",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "question",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:58:43.784646",
+      "type": "moment"
+    },
+    {
+      "content": "We do, yeah we've moved in this. What's it called this building many times but, yeah we can send them a, a certificate of insurance which will show it'll, it'll show everything that they need for that and you said that it was $1 million policy there which yeah, ours is I believe at least $1 million to $2 million. But yeah, I'll, after we get off this phone call I will, what's it called? I'll send a request to our insurance provider and then they can you know send that back over to us. Usually our time, turnaround time is like a day or so and once we get that we can just forward it on to you but yeah, no problems there.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:58:47.203548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Okay.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:58:52.510646",
+      "type": "transcript"
+    },
+    {
+      "content": "action_item",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:58:53.331548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Excellent.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:58:56.710646",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "positive_sentiment",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:58:56.710646",
+      "type": "moment"
+    },
+    {
+      "content": "currency",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:59:04.003548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "currency",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:59:08.691548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Okay.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:59:10.510646",
+      "type": "transcript"
+    },
+    {
+      "content": "action_item",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:59:15.131548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Sure.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:59:25.510646",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Okay. Sounds good. And then I know that they have slots available for that freight elevator from basically anytime in the morning on, on Saturday. So, do you guys, do you have a availability there maybe at like, I don't know, like 10:00 AM starting time or something.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:59:29.110646",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "time",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T16:59:42.624646",
+      "type": "moment"
+    },
+    {
+      "content": "So the start time we have available in the morning is on that day. So we'd be starting, we have a couple of options we can either start first thing in the morning. So we'd be on site at your house between 8:30 and nine which I think honestly we would probably would be at the new apartment by around 10:00. So I think that actually would, would work well or we have a later spot available as well with a, a start time between 11:30 and, and 1:30. But I'd say I think the morning spot at 8:30 to 9:00 arrival time should work just fine.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:59:45.403548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "time",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T16:59:58.931548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:00:03.491548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "time",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:00:05.851548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "time",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:00:11.611548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "time",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:00:12.691548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "time",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:00:16.131548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "And you said the second slat started around eleven was that right?",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:00:20.710646",
+      "type": "transcript"
+    },
+    {
+      "content": "Between 11:30 and 130. And the afternoon spot is a, is a two hour arrival window. So if everything goes as we're expecting on the first job, we'd get to your house around 12:30 and I anticipate would get to the apartments around like, two ish.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:00:25.603548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "time",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:00:26.211548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "time",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:00:35.451548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Gotcha.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:00:36.910646",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Okay, alright. Well, let's, I think go with the morning one until you said that was, was it at 8:30 to 930 arrival window?",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:00:42.310646",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "time",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:00:47.424646",
+      "type": "moment"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:00:50.011548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "Yeah, what, 8:30 to nine it's just a thirty minute arrival window. But, yes, between 8:30 and nine and we always, we always favor the earlier side of things close to 8:30 it just kinda depends on what traffic is looking like that morning but usually, it's not too bad on Saturdays.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:00:50.803548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "time",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:00:52.091548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Okay.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:00:53.710646",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:00:54.931548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "time",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:00:59.131548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Okay, great. And then so saying, let's say approximately 8:30 arrival. What time do you think we would, I should tell them to reserve that elevator for them?",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:01:03.910646",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "time",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:01:08.784646",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "question",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:01:10.424646",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, I think if you start that at, at about 10:00 that should line up with us. Yeah, if they can't do right at ten, I'd say air on the side of a bit earlier like 9:30 starting it even, but ten. I think ten should be just fine.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:01:16.003548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "time",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:01:18.291548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Well.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:01:19.510646",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:01:26.971548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Okay. Yeah, it's a three hour window. So even if I started at 9:30, that would be until 12:30, which should be more than enough time, right?",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:01:31.510646",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "time",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:01:35.144646",
+      "type": "moment"
+    },
+    {
+      "content": "Right.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:01:35.803548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "time",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:01:36.304646",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, yeah, that should be plenty of time so that would work out too.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:01:38.803548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Yeah. Okay, perfect. Well yes, whenever you get a chance, send over that info, please and I will get the elevator booked up with them and as long as they're happy with the insurance and I think we'll be all good to go.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:01:41.110646",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "positive_sentiment",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:01:42.310646",
+      "type": "moment"
+    },
+    {
+      "content": "Awesome. I will get that booked now. Oh, let me get, if you have it off the top of your head. The unit number of the apartment itself.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:01:54.403548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Yes, I believe it is. 1320 yup, that's right.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:02:03.310646",
+      "type": "transcript"
+    },
+    {
+      "content": "Perfect. Okay, then. Yeah, that spot as yours. I'll send you the confirmation email. I'll send the COI request to my provider and you'll probably have that from us in like, well tomorrow is going to be Friday, I'd say by to tomorrow. If you don't get it by tomorrow then it probably Monday but definitely. Well, well, before the actual move.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:02:07.603548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "action_item",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:02:10.851548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "action_item",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:02:12.931548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Okay, sounds good. I think I'm all good with that. And so, yeah, thank you very much I appreciate the help.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:02:27.910646",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "support_issue_resolved",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:02:32.584646",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, Jason. It's my pleasure. I hope you have a good rest of your day.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:02:34.603548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    },
+    {
+      "content": "ner",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:02:34.891548",
+      "type": "moment",
+      "user_id": "4547299976216576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC6rHhwwkM",
+      "content": "Thanks. You as well. Bye-bye.",
+      "name": "Jason Cornelius",
+      "time": "2026-09-03T17:02:37.510646",
+      "type": "transcript"
+    },
+    {
+      "content": "Take care. Bye.",
+      "name": "Jespah Lara",
+      "time": "2026-09-03T17:02:39.403548",
+      "type": "transcript",
+      "user_id": "4547299976216576"
+    }
+  ]
+}
