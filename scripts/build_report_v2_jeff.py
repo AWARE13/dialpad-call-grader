@@ -18,6 +18,7 @@ BASE = Path(__file__).parent.parent
 GRADES_DIR = BASE / "output" / "weekly" / "grades" / f"v2_cet_week_{WEEK_START}_{WEEK_END}"
 TRANSCRIPT_DIR = BASE / "output" / "transcripts"
 OUT_PATH = BASE / "output" / "weekly" / f"v2_cet_week_{WEEK_START}_{WEEK_END}_report.html"
+HISTORY_PATH = BASE / "output" / "patterns_v2_history.json"
 
 GREEN, BLUE, ORANGE, RED = "#639922", "#185fa5", "#E8630A", "#a32d2d"
 NAVY = "#1a2744"
@@ -76,6 +77,37 @@ def comp_color(v, mx):
 def anchor(name):
     return name.replace(" ", "_").replace("'", "")
 
+def load_prior_week():
+    """Returns (prior_company_avg, {rep: prior_avg}) for the week immediately
+    before (WEEK_START, WEEK_END) per patterns_v2_history.json, or (None, {})
+    if there's no history file or this is the first tracked week."""
+    if not HISTORY_PATH.exists():
+        return None, {}
+    history = json.load(open(HISTORY_PATH))
+    weeks = history.get("company_avg_by_week", [])
+    idx = next((i for i, w in enumerate(weeks) if w["week_start"] == WEEK_START and w["week_end"] == WEEK_END), None)
+    if idx is None or idx == 0:
+        return None, {}
+    prior_week = weeks[idx - 1]
+    prior_company_avg = prior_week.get("avg")
+    prior_rep_avg = {}
+    for rep, wlist in history.get("per_rep_trend", {}).items():
+        match = next((w for w in wlist if w["week_start"] == prior_week["week_start"] and w["week_end"] == prior_week["week_end"]), None)
+        if match and match.get("avg_score") is not None:
+            prior_rep_avg[rep] = match["avg_score"]
+    return prior_company_avg, prior_rep_avg
+
+PRIOR_COMPANY_AVG, PRIOR_REP_AVG = load_prior_week()
+
+def trend_badge(delta, size="13px"):
+    if delta is None:
+        return f'<span style="color:#bbb;font-size:{size}">— new</span>'
+    if delta > 0.05:
+        return f'<span style="color:{GREEN};font-size:{size};font-weight:700">&#9650; +{delta:.1f}</span>'
+    if delta < -0.05:
+        return f'<span style="color:{RED};font-size:{size};font-weight:700">&#9660; {delta:.1f}</span>'
+    return f'<span style="color:#888;font-size:{size}">&#9679; +0.0</span>'
+
 def load_transcript_text(call_id):
     p = TRANSCRIPT_DIR / f"{call_id}.json"
     if not p.exists():
@@ -123,12 +155,14 @@ for key, label, mx in COMPONENTS:
 
 def team_average_row(scores_for_avg, n_passes):
     avg = round(sum(scores_for_avg) / len(scores_for_avg), 1) if scores_for_avg else 0
+    delta = round(avg - PRIOR_COMPANY_AVG, 1) if PRIOR_COMPANY_AVG is not None else None
     return f'''<tr class="team-avg-row">
       <td></td>
       <td style="font-weight:700">Team Average</td>
       <td>{len(scores_for_avg)}</td>
       <td><strong style="color:{score_color(avg)}">{avg}</strong></td>
       <td>{n_passes}</td>
+      <td>{trend_badge(delta)}</td>
     </tr>'''
 
 def leaderboard_rows():
@@ -136,12 +170,15 @@ def leaderboard_rows():
     for i, r in enumerate(rep_rows_ranked, 1):
         excl = f' <span style="color:{ORANGE};font-size:11px">({r["n"]-r["n_scored"]} excl.)</span>' if r["n_scored"] != r["n"] else ""
         group = GROUP_ASSIGNMENTS.get(r["rep"], "unassigned")
+        prior = PRIOR_REP_AVG.get(r["rep"])
+        delta = round(r["avg"] - prior, 1) if prior is not None else None
         out.append(f'''<tr data-group="{group}">
       <td style="color:#aaa">{i}</td>
       <td><a href="#{anchor(r["rep"])}" style="font-weight:700;color:{NAVY};text-decoration:none">{esc(r["rep"])}</a></td>
       <td>{r["n_scored"]}{excl}</td>
       <td><strong style="color:{score_color(r["avg"])}">{r["avg"]}</strong></td>
       <td>{r["passes"]}</td>
+      <td>{trend_badge(delta)}</td>
     </tr>''')
     return "\n".join(out)
 
@@ -355,7 +392,7 @@ html_out = f'''<!DOCTYPE html>
     <div class="stat"><div class="num" id="stat-total">{n_total}</div><div class="lbl">calls pulled</div></div>
     <div class="stat"><div class="num" id="stat-graded">{n_graded}</div><div class="lbl">graded</div></div>
     <div class="stat"><div class="num" id="stat-skipped">{n_skipped}</div><div class="lbl">skipped</div></div>
-    <div class="stat"><div class="num" id="stat-avg" style="color:{score_color(avg_score)}">{avg_score}</div><div class="lbl">avg / 100</div></div>
+    <div class="stat"><div class="num" id="stat-avg" style="color:{score_color(avg_score)}">{avg_score}</div><div class="lbl">avg / 100</div><div id="stat-avg-trend" style="margin-top:4px">{trend_badge(round(avg_score - PRIOR_COMPANY_AVG, 1) if PRIOR_COMPANY_AVG is not None else None, size="12px")}</div></div>
     <div class="stat"><div class="num" id="stat-pass" style="color:{GREEN if pass_count else RED}">{pass_count}</div><div class="lbl">calls passing (80+)</div></div>
   </div>
 
@@ -415,11 +452,12 @@ html_out = f'''<!DOCTYPE html>
     {tuesday_empty_html}
     {wednesday_empty_html}
     <table>
-      <tr><th>#</th><th>Rep</th><th>Calls</th><th>Avg</th><th>Passes</th></tr>
+      <tr><th>#</th><th>Rep</th><th>Calls</th><th>Avg</th><th>Passes</th><th>Trend</th></tr>
       <tbody id="leaderboard-body">
       {leaderboard_rows()}
       </tbody>
     </table>
+    <p style="font-size:12px;color:#888;margin-top:8px;">Trend compares each rep's average to their prior graded week. "— new" means no prior week on record for that rep. Full history: <a href="cet_trend_report.html" style="color:{BLUE}">week-over-week trend page</a>.</p>
   </div>
 
   <div class="section">
@@ -439,6 +477,16 @@ html_out = f'''<!DOCTYPE html>
   var CALLS = {calls_json};
   var COMPONENTS = {components_json};
   var VIEW_LABELS = {{all: "company-wide", tuesday: "Tuesday group", wednesday: "Wednesday group"}};
+  var PRIOR_REP_AVG = {json.dumps(PRIOR_REP_AVG)};
+  var PRIOR_COMPANY_AVG = {json.dumps(PRIOR_COMPANY_AVG)};
+
+  function trendBadgeJs(delta, size) {{
+    size = size || '13px';
+    if (delta == null) return '<span style="color:#bbb;font-size:' + size + '">— new</span>';
+    if (delta > 0.05) return '<span style="color:{GREEN};font-size:' + size + ';font-weight:700">&#9650; +' + delta.toFixed(1) + '</span>';
+    if (delta < -0.05) return '<span style="color:{RED};font-size:' + size + ';font-weight:700">&#9660; ' + delta.toFixed(1) + '</span>';
+    return '<span style="color:#888;font-size:' + size + '">&#9679; +0.0</span>';
+  }}
 
   function scoreColor(s) {{
     if (s == null) return '#888';
@@ -474,6 +522,9 @@ html_out = f'''<!DOCTYPE html>
     passEl.textContent = passCount;
     passEl.style.color = passCount > 0 ? '{GREEN}' : '{RED}';
     document.getElementById('gap-chart-scope').textContent = '(' + VIEW_LABELS[view] + ', % of max)';
+    // Prior-week average is only tracked company-wide, not per training group,
+    // so the header trend badge only makes sense on the "All CET" view.
+    document.getElementById('stat-avg-trend').innerHTML = (view === 'all' && PRIOR_COMPANY_AVG != null) ? trendBadgeJs(avg - PRIOR_COMPANY_AVG, '12px') : '';
 
     // leaderboard, re-ranked for this view
     var byRep = {{}};
@@ -486,18 +537,24 @@ html_out = f'''<!DOCTYPE html>
       return {{rep: rep, n: entries.length, nScored: scored.length, avg: avgR, passes: passes}};
     }}).filter(function(r) {{ return r.avg != null; }}).sort(function(a, b) {{ return b.avg - a.avg; }});
 
+    // Team-row trend only shown on "all" — prior data is company-wide, not per training group.
+    var teamDelta = (view === 'all' && PRIOR_COMPANY_AVG != null) ? (avg - PRIOR_COMPANY_AVG) : null;
     var teamAvgRow = '<tr class="team-avg-row"><td></td><td style="font-weight:700">Team Average</td>' +
       '<td>' + graded.length + '</td>' +
       '<td><strong style="color:' + scoreColor(avg) + '">' + avg.toFixed(1) + '</strong></td>' +
-      '<td>' + passCount + '</td></tr>';
+      '<td>' + passCount + '</td>' +
+      '<td>' + (view === 'all' ? trendBadgeJs(teamDelta) : '<span style="color:#bbb;font-size:12px">n/a</span>') + '</td></tr>';
 
     document.getElementById('leaderboard-body').innerHTML = teamAvgRow + rows.map(function(r, i) {{
       var excl = r.nScored !== r.n ? (' <span style="color:{ORANGE};font-size:11px">(' + (r.n - r.nScored) + ' excl.)</span>') : '';
+      var prior = PRIOR_REP_AVG[r.rep];
+      var repDelta = (prior != null) ? (r.avg - prior) : null;
       return '<tr><td style="color:#aaa">' + (i + 1) + '</td>' +
         '<td><a href="#' + anchorName(r.rep) + '" style="font-weight:700;color:{NAVY};text-decoration:none">' + r.rep + '</a></td>' +
         '<td>' + r.nScored + excl + '</td>' +
         '<td><strong style="color:' + scoreColor(r.avg) + '">' + r.avg.toFixed(1) + '</strong></td>' +
-        '<td>' + r.passes + '</td></tr>';
+        '<td>' + r.passes + '</td>' +
+        '<td>' + trendBadgeJs(repDelta) + '</td></tr>';
     }}).join('');
 
     // gap chart, recomputed and re-sorted for this view
