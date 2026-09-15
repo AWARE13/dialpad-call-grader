@@ -349,6 +349,7 @@ html_out = f'''<!DOCTYPE html>
   <div class="header">
     <h1>CET Call Grading</h1>
     <div class="sub">Week of {WEEK_START} to {WEEK_END} &nbsp;·&nbsp; Fresh rubric, no baseline carried forward &nbsp;·&nbsp; Passing bar: 80/100</div>
+    <div class="sub" style="margin-top:8px;"><a href="cet_trend_report.html" style="color:#fff;text-decoration:underline;">&#8592; See week-over-week trend across all reps</a></div>
   </div>
   <div class="stats-bar">
     <div class="stat"><div class="num" id="stat-total">{n_total}</div><div class="lbl">calls pulled</div></div>
