@@ -1,0 +1,33 @@
+{
+  "call_id": "4626129978171392",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 23.7,
+  "datetime_ct": "2026-09-09 21:15 CT",
+  "external_number": "+15127869102",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v2-jeff-call-map",
+  "stage1_quid_pro_quo": 2,
+  "stage1_their_agenda": 0,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 5,
+  "stage1_whos_coming_sheet2": 5,
+  "stage2_takeaway_sheets3_4": 7.5,
+  "stage3_estimate": 10,
+  "stage3_save_your_ass_sheet5": 3,
+  "stage3_close": 0,
+  "rapport_warmth": 6,
+  "process_discipline": 5,
+  "total_score": 58.5,
+  "pass": false,
+  "rapport_notes": "Patient through a chaotic, interruption-heavy call (texted photos/links, driving customer) but gave an incorrect initial refusal (\"we cannot move this\") before checking the photos, which had to be walked back after pushback.",
+  "process_discipline_notes": "Not a rubric-defined violation, but worth flagging: the rep initially told the customer Einstein could not move the disassembled cabinets at all, before actually reviewing the photos the customer had sent -- only reversed after the customer pushed back.",
+  "evidence_quotes": {
+    "agenda": "No concerns/agenda question was asked anywhere in the call.",
+    "two_layers_deep": "N/A -- item #2 was never asked, which per the rubric's explicit exception still earns full credit here.",
+    "save_your_ass": "\"you only need to pay once the job is done and only for the actual hours\" -- pay-less-if-faster covered; no self-prep tip given."
+  },
+  "top_strength": "Recovered well from the initial wrong answer once the photos were actually reviewed, and gave a fully personalized estimate based on the specific cabinet/countertop inventory.",
+  "coaching_note": "Gave an incorrect \"we can't move this\" answer before actually checking the photos the customer had already sent -- confirm details before declining a job, since a premature no nearly cost the lead."
+}

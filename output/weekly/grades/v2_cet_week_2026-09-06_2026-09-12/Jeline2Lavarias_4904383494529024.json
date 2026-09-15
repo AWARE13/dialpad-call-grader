@@ -1,0 +1,33 @@
+{
+  "call_id": "4904383494529024",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 7.9,
+  "datetime_ct": "2026-09-09 18:23 CT",
+  "external_number": "+14322683114",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v2-jeff-call-map",
+  "stage1_quid_pro_quo": 5,
+  "stage1_their_agenda": 0,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 7.5,
+  "stage3_estimate": 10,
+  "stage3_save_your_ass_sheet5": 6,
+  "stage3_close": 0,
+  "rapport_warmth": 8,
+  "process_discipline": 5,
+  "total_score": 56.5,
+  "pass": false,
+  "rapport_notes": "Personable, referenced the customer's move history naturally, handled a dropped-audio moment gracefully.",
+  "process_discipline_notes": "",
+  "evidence_quotes": {
+    "agenda": "(not asked -- this is a kickoff/reconfirmation call, not fresh discovery)",
+    "two_layers_deep": "(no concern raised)",
+    "save_your_ass": "\"you will only be charged for how much time we used during the move\""
+  },
+  "top_strength": "Correctly identified this as a reverse of a previous move and adjusted the estimate off the actual prior move time instead of re-deriving from scratch.",
+  "coaching_note": "IMPORTANT CONTEXT: this is a post-booking kickoff/reconfirmation call for an already-reserved reservation, not a new-lead discovery call -- there's no 'close' scenario to ask for since the move is already booked, which is why close fields read false rather than as a rep failure. Communication was covered (day-before call + mover-intro email) but On-Time Guarantee never came up."
+}
