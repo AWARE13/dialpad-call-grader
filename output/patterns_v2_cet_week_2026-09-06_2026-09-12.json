@@ -2,38 +2,98 @@
   "rubric_version": "v2-jeff-call-map",
   "week_start": "2026-09-06",
   "week_end": "2026-09-12",
-  "scope": "CET",
+  "scope": "cet",
   "total_calls_pulled": 451,
   "total_graded": 379,
   "total_skipped": 72,
-  "company_avg_score": 49.5,
-  "company_median_score": 50.5,
-  "pass_count": 6,
-  "pass_rate_pct": 1.6,
+  "walkthrough_type_count": 37,
+  "company_avg_score": 51.8,
+  "company_median_score": 54,
+  "pass_count": 8,
+  "pass_rate_pct": 2.1,
   "per_rep_avg_score": {
-    "Brianne Newbro": 58.4,
-    "Joanna Ballon": 56.6,
-    "Zhang Pammit": 55.9,
-    "Arden 2Asilo": 55.4,
-    "Nicole Tolete": 52.7,
-    "Jevic Lazanas": 46.9,
-    "Amy Arbasa": 45.8,
-    "Jeline 2Lavarias": 41.7,
-    "Chauntelle Shivers": 40.8,
-    "Danah 2Celestial": 40.3,
-    "Jules Nicolas": 39.1
+    "Amy Arbasa": 47.6,
+    "Arden 2Asilo": 56.6,
+    "Brianne Newbro": 58.7,
+    "Chauntelle Shivers": 42.5,
+    "Danah 2Celestial": 45.7,
+    "Jeline 2Lavarias": 42.6,
+    "Jevic Lazanas": 48.6,
+    "Joanna Ballon": 58.6,
+    "Jules Nicolas": 40.1,
+    "Nicole Tolete": 59.0,
+    "Therese Ablang": null,
+    "Zhang Pammit": 61.5
   },
   "per_rep_n": {
-    "Brianne Newbro": 46,
-    "Joanna Ballon": 46,
     "Amy Arbasa": 32,
-    "Danah 2Celestial": 16,
-    "Jevic Lazanas": 49,
-    "Jules Nicolas": 29,
-    "Zhang Pammit": 51,
-    "Nicole Tolete": 18,
-    "Jeline 2Lavarias": 34,
-    "Chauntelle Shivers": 34,
-    "Arden 2Asilo": 24
+    "Arden 2Asilo": 28,
+    "Brianne Newbro": 48,
+    "Chauntelle Shivers": 42,
+    "Danah 2Celestial": 18,
+    "Jeline 2Lavarias": 48,
+    "Jevic Lazanas": 56,
+    "Joanna Ballon": 52,
+    "Jules Nicolas": 37,
+    "Nicole Tolete": 24,
+    "Therese Ablang": 2,
+    "Zhang Pammit": 64
+  },
+  "component_averages_pct_of_max": {
+    "stage1_quid_pro_quo": {
+      "avg": 1.7,
+      "max": 5,
+      "pct": 34
+    },
+    "stage1_their_agenda": {
+      "avg": 2.6,
+      "max": 10,
+      "pct": 26
+    },
+    "stage1_two_layers_deep": {
+      "avg": 11.3,
+      "max": 15,
+      "pct": 75
+    },
+    "stage1_careful_with_sheet1": {
+      "avg": 2.6,
+      "max": 5,
+      "pct": 51
+    },
+    "stage1_whos_coming_sheet2": {
+      "avg": 2.3,
+      "max": 5,
+      "pct": 46
+    },
+    "stage2_takeaway_sheets3_4": {
+      "avg": 4.6,
+      "max": 15,
+      "pct": 30
+    },
+    "stage3_estimate": {
+      "avg": 8.1,
+      "max": 10,
+      "pct": 81
+    },
+    "stage3_save_your_ass_sheet5": {
+      "avg": 5.0,
+      "max": 15,
+      "pct": 33
+    },
+    "stage3_close": {
+      "avg": 1.4,
+      "max": 5,
+      "pct": 28
+    },
+    "rapport_warmth": {
+      "avg": 7.6,
+      "max": 10,
+      "pct": 76
+    },
+    "process_discipline": {
+      "avg": 4.7,
+      "max": 5,
+      "pct": 94
+    }
   }
 }

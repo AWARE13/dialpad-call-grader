@@ -1,19 +1,14 @@
 {
-  "rubric_version": "v2-jeff-call-map",
-  "scope": "CET",
-  "weeks_tracked": 2,
   "company_avg_by_week": [
     {
       "week_start": "2026-08-30",
       "week_end": "2026-09-05",
-      "avg": 53.6,
-      "pass_rate_pct": 5.6
+      "avg": 53.7
     },
     {
       "week_start": "2026-09-06",
       "week_end": "2026-09-12",
-      "avg": 49.5,
-      "pass_rate_pct": 1.6
+      "avg": 51.8
     }
   ],
   "per_rep_trend": {
@@ -21,170 +16,141 @@
       {
         "week_start": "2026-08-30",
         "week_end": "2026-09-05",
-        "avg_score": 45.8,
-        "n_calls": 22
+        "avg_score": 45.8
       },
       {
         "week_start": "2026-09-06",
         "week_end": "2026-09-12",
-        "avg_score": 45.8,
-        "n_calls": 32
-      }
-    ],
-    "Arden 2Asilo": [
-      {
-        "week_start": "2026-08-30",
-        "week_end": "2026-09-05",
-        "avg_score": 60.4,
-        "n_calls": 35
-      },
-      {
-        "week_start": "2026-09-06",
-        "week_end": "2026-09-12",
-        "avg_score": 55.4,
-        "n_calls": 24
-      }
-    ],
-    "Brianne Newbro": [
-      {
-        "week_start": "2026-08-30",
-        "week_end": "2026-09-05",
-        "avg_score": 62.2,
-        "n_calls": 32
-      },
-      {
-        "week_start": "2026-09-06",
-        "week_end": "2026-09-12",
-        "avg_score": 58.4,
-        "n_calls": 46
-      }
-    ],
-    "Chauntelle Shivers": [
-      {
-        "week_start": "2026-08-30",
-        "week_end": "2026-09-05",
-        "avg_score": 58.3,
-        "n_calls": 43
-      },
-      {
-        "week_start": "2026-09-06",
-        "week_end": "2026-09-12",
-        "avg_score": 40.8,
-        "n_calls": 34
-      }
-    ],
-    "Danah 2Celestial": [
-      {
-        "week_start": "2026-08-30",
-        "week_end": "2026-09-05",
-        "avg_score": 42.9,
-        "n_calls": 15
-      },
-      {
-        "week_start": "2026-09-06",
-        "week_end": "2026-09-12",
-        "avg_score": 40.3,
-        "n_calls": 16
-      }
-    ],
-    "Jeline 2Lavarias": [
-      {
-        "week_start": "2026-08-30",
-        "week_end": "2026-09-05",
-        "avg_score": 47.2,
-        "n_calls": 54
-      },
-      {
-        "week_start": "2026-09-06",
-        "week_end": "2026-09-12",
-        "avg_score": 41.7,
-        "n_calls": 34
-      }
-    ],
-    "Jevic Lazanas": [
-      {
-        "week_start": "2026-08-30",
-        "week_end": "2026-09-05",
-        "avg_score": 50.4,
-        "n_calls": 57
-      },
-      {
-        "week_start": "2026-09-06",
-        "week_end": "2026-09-12",
-        "avg_score": 46.9,
-        "n_calls": 49
-      }
-    ],
-    "Joanna Ballon": [
-      {
-        "week_start": "2026-08-30",
-        "week_end": "2026-09-05",
-        "avg_score": 62.9,
-        "n_calls": 26
-      },
-      {
-        "week_start": "2026-09-06",
-        "week_end": "2026-09-12",
-        "avg_score": 56.6,
-        "n_calls": 46
-      }
-    ],
-    "Jules Nicolas": [
-      {
-        "week_start": "2026-08-30",
-        "week_end": "2026-09-05",
-        "avg_score": 42.2,
-        "n_calls": 48
-      },
-      {
-        "week_start": "2026-09-06",
-        "week_end": "2026-09-12",
-        "avg_score": 39.1,
-        "n_calls": 29
+        "avg_score": 47.6
       }
     ],
     "Nhel Banayad": [
       {
         "week_start": "2026-08-30",
         "week_end": "2026-09-05",
-        "avg_score": 66,
-        "n_calls": 1
-      },
-      {
-        "week_start": "2026-09-06",
-        "week_end": "2026-09-12",
-        "avg_score": null,
-        "n_calls": null
-      }
-    ],
-    "Nicole Tolete": [
-      {
-        "week_start": "2026-08-30",
-        "week_end": "2026-09-05",
-        "avg_score": 62.2,
-        "n_calls": 18
-      },
-      {
-        "week_start": "2026-09-06",
-        "week_end": "2026-09-12",
-        "avg_score": 52.7,
-        "n_calls": 18
+        "avg_score": 66.0
       }
     ],
     "Zhang Pammit": [
       {
         "week_start": "2026-08-30",
         "week_end": "2026-09-05",
-        "avg_score": 65.7,
-        "n_calls": 25
+        "avg_score": 65.7
       },
       {
         "week_start": "2026-09-06",
         "week_end": "2026-09-12",
-        "avg_score": 55.9,
-        "n_calls": 51
+        "avg_score": 61.5
+      }
+    ],
+    "Therese Ablang": [],
+    "Brianne Newbro": [
+      {
+        "week_start": "2026-08-30",
+        "week_end": "2026-09-05",
+        "avg_score": 62.2
+      },
+      {
+        "week_start": "2026-09-06",
+        "week_end": "2026-09-12",
+        "avg_score": 58.7
+      }
+    ],
+    "Danah 2Celestial": [
+      {
+        "week_start": "2026-08-30",
+        "week_end": "2026-09-05",
+        "avg_score": 44.9
+      },
+      {
+        "week_start": "2026-09-06",
+        "week_end": "2026-09-12",
+        "avg_score": 45.7
+      }
+    ],
+    "Chauntelle Shivers": [
+      {
+        "week_start": "2026-08-30",
+        "week_end": "2026-09-05",
+        "avg_score": 58.3
+      },
+      {
+        "week_start": "2026-09-06",
+        "week_end": "2026-09-12",
+        "avg_score": 42.5
+      }
+    ],
+    "Jules Nicolas": [
+      {
+        "week_start": "2026-08-30",
+        "week_end": "2026-09-05",
+        "avg_score": 42.2
+      },
+      {
+        "week_start": "2026-09-06",
+        "week_end": "2026-09-12",
+        "avg_score": 40.1
+      }
+    ],
+    "Arden 2Asilo": [
+      {
+        "week_start": "2026-08-30",
+        "week_end": "2026-09-05",
+        "avg_score": 60.4
+      },
+      {
+        "week_start": "2026-09-06",
+        "week_end": "2026-09-12",
+        "avg_score": 56.6
+      }
+    ],
+    "Joanna Ballon": [
+      {
+        "week_start": "2026-08-30",
+        "week_end": "2026-09-05",
+        "avg_score": 62.9
+      },
+      {
+        "week_start": "2026-09-06",
+        "week_end": "2026-09-12",
+        "avg_score": 58.6
+      }
+    ],
+    "Nicole Tolete": [
+      {
+        "week_start": "2026-08-30",
+        "week_end": "2026-09-05",
+        "avg_score": 62.2
+      },
+      {
+        "week_start": "2026-09-06",
+        "week_end": "2026-09-12",
+        "avg_score": 59.0
+      }
+    ],
+    "Jeline 2Lavarias": [
+      {
+        "week_start": "2026-08-30",
+        "week_end": "2026-09-05",
+        "avg_score": 47.2
+      },
+      {
+        "week_start": "2026-09-06",
+        "week_end": "2026-09-12",
+        "avg_score": 42.6
+      }
+    ],
+    "Jevic Lazanas": [
+      {
+        "week_start": "2026-08-30",
+        "week_end": "2026-09-05",
+        "avg_score": 50.4
+      },
+      {
+        "week_start": "2026-09-06",
+        "week_end": "2026-09-12",
+        "avg_score": 48.6
       }
     ]
-  },
-  "note": "Running history file, appended each week the CET v2 rubric grading run completes. Add the new week's patterns_v2_cet_week_*.json to this file's weeks_tracked list each time."
+  }
 }

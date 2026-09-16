@@ -89,13 +89,22 @@ def compute_scores(g):
     takeaway = (7.5 if s2.get("on_time_guarantee_covered_anywhere") else 0) + \
                (7.5 if s2.get("communication_covered_anywhere") else 0)
 
-    estimate = ESTIMATE_ANCHOR_PTS[s3["estimate_anchor"]]
+    # Per config/rubric_v2.md "Walkthrough-scheduler calls": a clean, by-design handoff
+    # to a virtual walkthrough before pricing gets Stage 3 (estimate/SYA/close) as full
+    # credit -- 10 + 15 + 5 = 30 -- since those steps were never supposed to happen on
+    # this call. Enforced here in Python, not left to the grading judgment to self-report,
+    # so it can't be missed regardless of who/what produced the raw judgment (bit 36 of 37
+    # walkthrough calls in the 2026-09-06 week when this was left to the model).
+    if g.get("call_type") == "walkthrough_scheduler":
+        estimate, save_your_ass, close = 10, 15, 5
+    else:
+        estimate = ESTIMATE_ANCHOR_PTS[s3["estimate_anchor"]]
 
-    sya_lines = s3.get("save_your_ass_lines_hit", {})
-    save_your_ass = sum(3 for v in sya_lines.values() if v)
+        sya_lines = s3.get("save_your_ass_lines_hit", {})
+        save_your_ass = sum(3 for v in sya_lines.values() if v)
 
-    close = (2.5 if s3.get("close_rate_lock_mentioned") else 0) + \
-            (2.5 if s3.get("close_explicit_ask") else 0)
+        close = (2.5 if s3.get("close_rate_lock_mentioned") else 0) + \
+                (2.5 if s3.get("close_explicit_ask") else 0)
 
     rapport = max(0, min(5, int(g.get("rapport_warmth_1to5") or 0))) * 2
 
