@@ -108,6 +108,26 @@ def trend_badge(delta, size="13px"):
         return f'<span style="color:{RED};font-size:{size};font-weight:700">&#9660; {delta:.1f}</span>'
     return f'<span style="color:#888;font-size:{size}">&#9679; +0.0</span>'
 
+RECORDINGS_DIR = BASE / "output" / "recordings"
+
+def recording_url(call_id):
+    """Real recording URL, fetched+cached by fetch_recording_urls.py. The recording
+    has its own internal Dialpad ID, separate from call_id — never guess it."""
+    p = RECORDINGS_DIR / f"{call_id}.json"
+    if not p.exists():
+        return None
+    try:
+        rec = json.load(open(p))
+    except Exception:
+        return None
+    return rec.get("admin_recording_url") or rec.get("recording_url")
+
+def listen_link_html(call_id, css_class="listen-btn", label="&#9654; Listen"):
+    url = recording_url(call_id)
+    if url:
+        return f'<a href="{url}" class="{css_class}" target="_blank">{label}</a>'
+    return f'<span class="{css_class}" style="opacity:0.4;cursor:default;pointer-events:none" title="No recording found for this call">{label} (unavailable)</span>'
+
 def load_transcript_text(call_id):
     p = TRANSCRIPT_DIR / f"{call_id}.json"
     if not p.exists():
@@ -197,7 +217,6 @@ def call_card(c, idx):
     score = c.get("total_score")
     color = score_color(score)
     call_id = c["call_id"]
-    rec_url = f"https://dialpad.com/blob/adminrecording/{call_id}.mp3"
     transcript = load_transcript_text(call_id)
     transcript_html = f'<pre class="transcript">{esc(transcript)}</pre>' if transcript else '<div style="color:#999;font-size:12px">Transcript not cached.</div>'
 
@@ -225,7 +244,7 @@ def call_card(c, idx):
             <span>ID: {call_id}</span>
           </div>
         </div>
-        <a href="{rec_url}" class="listen-btn" target="_blank">▶ Listen</a>
+        {listen_link_html(call_id)}
       </div>
       <div class="comps-grid">{comps_html}</div>
       <div class="call-notes">
@@ -247,10 +266,9 @@ def call_card(c, idx):
 
 def skip_card(c):
     call_id = c["call_id"]
-    rec_url = f"https://dialpad.com/blob/adminrecording/{call_id}.mp3"
     return f'''<div class="skip-card">
       <strong>Not scored</strong> — {c.get("duration_min","?")} min, {esc(c.get("datetime_ct",""))}, ID {call_id}
-      &nbsp;<a href="{rec_url}" target="_blank" style="color:{BLUE}">▶ Listen</a><br>
+      &nbsp;{listen_link_html(call_id, css_class="", label="&#9654; Listen")}<br>
       {esc(c.get("skip_reason") or "—")}
     </div>'''
 
