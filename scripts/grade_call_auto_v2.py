@@ -73,15 +73,48 @@ THEIR_AGENDA_PTS   = {"asked_before_probing": 10, "asked_after_probing": 4, "not
 TWO_LAYERS_PTS     = {"full": 15, "shallow": 8, "none": 0}
 ESTIMATE_ANCHOR_PTS = {"full": 10, "partial": 5, "none": 0}
 
+_NA_STRINGS = {"n/a", "na", "not applicable", "none applicable", "not_applicable", ""}
+
+def _lookup(pts_map, key, field_name):
+    """Look up an enum score, tolerating an out-of-schema 'n/a'-shaped value instead of
+    crashing (grade_call_auto_v2's JSON schema for these 4 fields has no "n/a" option, but
+    the model sometimes returns one anyway -- found 2026-09-21, crashed ~1/3 of a QA sample
+    before this fix). Returns (points, used_fallback: bool).
+
+    Fallback mapping, per config/rubric_v2.md:
+      - "two_layers_deep" has its OWN explicit N/A/full-credit rule (item #3: no concern
+        raised = nothing to follow up on, not the rep's failure) -- so "n/a" there maps to
+        "full" credit, matching that written exception.
+      - Every other field here has NO N/A carve-out in the rubric (quid_pro_quo and
+        their_agenda always apply; estimate_anchor's only exemption is the separate
+        walkthrough_scheduler override already handled before this is called) -- so an
+        out-of-schema value there is a real grading gap, not a legitimate N/A, and maps to
+        that field's zero-credit tier rather than inventing a middle value.
+    """
+    if key in pts_map:
+        return pts_map[key], False
+    normalized = str(key).strip().lower()
+    if normalized not in _NA_STRINGS:
+        raise KeyError(f"Unrecognized value {key!r} for {field_name} (not in {list(pts_map)} and not an n/a-shaped string)")
+    if field_name == "two_layers_deep":
+        return pts_map["full"], True
+    zero_key = next(k for k, v in pts_map.items() if v == 0)
+    return pts_map[zero_key], True
+
 def compute_scores(g):
     """g = the raw judgment JSON from the model. Returns the final scored dict."""
     s1 = g["stage1"]
     s2 = g["stage2"]
     s3 = g["stage3"]
 
-    quid_pro_quo = QUID_PRO_QUO_PTS[s1["quid_pro_quo"]]
-    their_agenda = THEIR_AGENDA_PTS[s1["their_agenda"]]
-    two_layers   = TWO_LAYERS_PTS[s1["two_layers_deep"]]
+    na_fallbacks_used = []
+
+    quid_pro_quo, fb = _lookup(QUID_PRO_QUO_PTS, s1["quid_pro_quo"], "quid_pro_quo")
+    if fb: na_fallbacks_used.append("quid_pro_quo")
+    their_agenda, fb = _lookup(THEIR_AGENDA_PTS, s1["their_agenda"], "their_agenda")
+    if fb: na_fallbacks_used.append("their_agenda")
+    two_layers, fb = _lookup(TWO_LAYERS_PTS, s1["two_layers_deep"], "two_layers_deep")
+    if fb: na_fallbacks_used.append("two_layers_deep")
 
     sheet1 = 5 if s1.get("sheet1_careful_with_answered_anywhere") else 0
     sheet2 = 5 if s1.get("sheet2_whos_coming_answered_anywhere") else 0
@@ -98,7 +131,8 @@ def compute_scores(g):
     if g.get("call_type") == "walkthrough_scheduler":
         estimate, save_your_ass, close = 10, 15, 5
     else:
-        estimate = ESTIMATE_ANCHOR_PTS[s3["estimate_anchor"]]
+        estimate, fb = _lookup(ESTIMATE_ANCHOR_PTS, s3["estimate_anchor"], "estimate_anchor")
+        if fb: na_fallbacks_used.append("estimate_anchor")
 
         sya_lines = s3.get("save_your_ass_lines_hit", {})
         save_your_ass = sum(3 for v in sya_lines.values() if v)
@@ -129,6 +163,7 @@ def compute_scores(g):
         "process_discipline": process_discipline,
         "total_score": total,
         "pass": total >= 80,
+        "na_fallbacks_used": na_fallbacks_used,
     }
 
 def grade_call_auto_v2(call_id, rep_name, branch, duration_min, datetime_ct=None, external_number=None):
