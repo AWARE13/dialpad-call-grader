@@ -1,0 +1,971 @@
+{
+  "call_id": "5141570187206656",
+  "lines": [
+    {
+      "content": "Good afternoon, this is Amy. How can I help you?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:52:27.076400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:52:27.076400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:52:27.076400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:52:27.076400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:52:27.076400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:52:27.076400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:52:28.899400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:52:29.339400",
+      "type": "custom_moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Hey, Amy. This is Ashley stone returning your call from just a little bit ago.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:52:30.042125",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "ner",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:52:31.426125",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "contact_name",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:52:32.226125",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "ner",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:52:32.226125",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:52:36.059400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Oh, yes. Thank you Ashley. I was actually about to send you like a preliminary estimate but thank you for calling me back. Yeah, I wanted to get you know touch base ask you some more questions about the move that way I can give you a more accurate estimate. This call will probably take five to ten minutes, okay?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:52:39.076400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:52:39.076400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:52:40.179400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Sure, no problem.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:52:56.442125",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you. Let me start with confirming your email address A stone number two @nury.com and removing you out of 507 Presler. Street. It's a one bedroom apartment, fort floor with an elevator access and we're going to 360 Nuss. Street twenty seventh floor condo and I got those details, right?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:52:58.876400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "email_address",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:53:04.819400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "address",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:53:09.579400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "address",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:53:17.139400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Correct.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:53:23.442125",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, now will you also check the option for packing. I just wanna clarify, do you want our movers to load items into your boxes, kind of packing or we're just referring to wrapping your furniture.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:53:25.276400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "I think there might be just a few items that I'm gonna that I might want them to pack but the majority of it I'm gonna do myself.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:53:36.042125",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Do you need us to focus on the kitchen or closet? What's the extent of the packing?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:53:48.076400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:53:49.299400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:53:52.939400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Yeah. Yeah, I think I'm gonna handle like the kitchen stuff. So would it more be like, you know, like lamps, yeah. Yeah. Lamp stuff like that, like the, you know, the closet normally they put that, stuff like in a warder box and things of that nature. Yeah.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:53:53.442125",
+      "type": "transcript"
+    },
+    {
+      "content": "Whatever's leftover.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:54:01.276400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Yes, correct. Mm-hmm okay. So packing for the closet. Got it now. Let's talk about your inventory list. Can you walk me through it even, I mean, especially the major, the large pieces please.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:54:14.476400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Yeah, it's gonna be a queen size bed, two night stands one.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:54:26.442125",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Not like a chest of drawers but more like a, a, a more, yeah, there you go, dresser, there's like a floor mirror.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:54:39.042125",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "negative_sentiment",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:54:39.042125",
+      "type": "moment"
+    },
+    {
+      "content": "The dresser.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:54:42.676400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Mm-hmm. Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:54:46.276400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Let's see.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:54:54.642125",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "There's just like a chair in the, in the bedroom, then in the living room I've got a sofa that, it's a pretty large, like leather sofa it's big and heavy and awkward and then I've got yeah, a coffee table like, a TV cabinet or stand, I guess.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:54:58.242125",
+      "type": "transcript"
+    },
+    {
+      "content": "What else?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:54:59.476400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:55:01.876400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:55:14.476400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:55:25.276400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Two end tables, I've got a desk with you know, computer stuff on it.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:55:26.442125",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup, mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:55:37.876400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "And then.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:55:39.642125",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Like another little mirror, I have a like a, a wooden kind of screen saying that it kinda collapses. So it's not that big of a deal but and then like just stuff for the cat like the liter box and her little.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:55:43.242125",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:55:57.076400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Thing that she sits on whenever you call that.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:56:08.442125",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm for cari.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:56:10.876400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Yeah. Yeah, it's a little one. It's just like a one level. It's not a big, yeah, it's not a big thing. Yeah. And then I have a, a little bit of patio furniture stuff. It's very minor what went out there that I'm bringing. So just like, two folding shares and a little table and then a plant rack, which I think I'm gonna be able to take.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:56:12.642125",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, yes and not apartment. Okay what else?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:56:19.276400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:56:39.676400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay just in case, I'll put it here on the list. What else?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:56:46.276400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "And then, okay, and then so like right next door to my apartment, I have a storage unit that has just some items in containers, so there won't be anything like big out of there it will just be like items that are in either boxes, or yeah, mm-hmm.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:56:48.042125",
+      "type": "transcript"
+    },
+    {
+      "content": "I see.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:56:57.076400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:57:02.476400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "As already.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:57:09.076400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "How many boxes in that storage alone? What's a good ballpark number?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:57:14.476400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "I'm gonna say maybe like 6:00 to eight.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:57:19.242125",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "time",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:57:21.346125",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:57:24.676400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Yeah, it's kind of hard to tell because it's, it, I just haven't really been able to go in there that much since I moved, yeah.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:57:26.442125",
+      "type": "transcript"
+    },
+    {
+      "content": "Boxes.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:57:27.076400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "That's okay, no worries. And then for your apartment usually we would see around fifteen to 25 boxes worth of items coming out of a one bedroom unit. Do you think you'll be able, I mean, you'll be in that range for the apartment alone let's exclude the storage unit or what's a good ballpark for the apartment items.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:57:34.876400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "No, I think it's gonna be less than that. I think the, I think.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:57:59.442125",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "I think it's gonna be like less than ten boxes.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:58:06.642125",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, sounds good. So let's say eighteen total boxes for apartment and the storage next to it. Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:58:10.276400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Yeah. And that's probably more but just to be on the safe side that's probably a good number.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:58:19.242125",
+      "type": "transcript"
+    },
+    {
+      "content": "And then, how far is the walk from your front door going to the fourth floor elevator down the hall, long walk.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:58:31.276400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Yeah, it's still in the whole, yeah, it's probably.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:58:39.042125",
+      "type": "transcript"
+    },
+    {
+      "content": "A hundred feet or less what?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:58:48.676400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Yeah, probably a hundred feet to the elevator.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:58:51.042125",
+      "type": "transcript"
+    },
+    {
+      "content": "Hundred feet, okay, here at the current apartment would you be able to reserve the elevator and move day or is it shared access auth throughout?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:58:54.076400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:58:57.739400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Is shared?",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:59:03.042125",
+      "type": "transcript"
+    },
+    {
+      "content": "Shared. Okay. What about the new address? It's a twenty seventh floor. Would you be able to reserve that or no?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:59:04.876400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:59:10.539400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Yeah, so that one we will, we would have to coordinate with the building and they've worked with you guys before. That's where I got your name.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:59:12.642125",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm yes. Yes, that's right and.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:59:19.276400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "And I already have I already have the elevator reserved for the twenty fifth for well yeah, from, I have it reserved from 1:00 PM to 4:00 PM.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:59:25.242125",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, great. What time? So I can take note here?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:59:31.276400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "time",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T21:59:37.626125",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, that's perfect. That should be enough time. Is there elevator from 1:00 PM to 4:00 PM.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:59:40.276400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:59:44.819400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Alright. And for this department, usually they would just let us park on the street like we have to cross the street to get to the parking area. Does that sound right?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:59:48.076400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T21:59:58.876400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "At the, at the new place or yeah, I talked to the receiving manager and he said that your truck is too big to go into the loading dock area and that you all would have to park on the street and that was not an issue.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:00:00.642125",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:00:04.276400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:00:13.276400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay, and how far would that be sorry, I'm not familiar with the, with the area, but how far do you think is the walk from the parking to the ground floor elevator.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:00:21.076400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Yeah, I.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:00:27.042125",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "I just, I really don't know cause I don't, you know, I haven't lived there. I don't, I don't think it's far, probably. I don't know, let's just say fifty feet. I don't know if that's far or not.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:00:31.842125",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and then we'll, right, and then from the twenty seventh floor elevator going to your unit, are you also done the hall, long walk.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:00:44.476400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "I'm like just I'm like one of the first, I'm the first door. I'm real close to the elevator yeah.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:00:54.642125",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, great. Amazing. Okay, so let's say fifty feet parking to the elevator and then for the first unit. So maybe, sixty feet total. Okay, sounds alright. Yeah, I think I got all the details that I need to prepare the estimate. Just give me a moment Ashley, but before we start with the discussion of the pricing, the quote, I'd like to know what are you most worried about for this upcoming move or do you have any specific questions that you'd like me answer on this call?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:01:00.676400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:01:20.139400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Okay.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:01:21.042125",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:01:25.899400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "I just need to know like you know will you all have the availability like when do I need to know let you know about to make sure that I've got you locked in.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:01:33.642125",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm well, yes as of as we speak we do have an opening for September 25th. And ideally we would advise our clients to book at least one to two weeks in advance in your case it's only eight days away. So I would highly suggest book as soon as possible so you don't miss out on the availability.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:01:49.876400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "date",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:01:56.179400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Okay. I should be able to make a decision but you know, by tomorrow afternoon.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:02:11.442125",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Sounds good. Alright. I will start with the basic pricing. We will break down the quote. I'll send everything via email once we get off the phone, but let me know if you have any questions, okay?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:02:19.276400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:02:28.259400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Okay.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:02:28.842125",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, so for the pricing. If you want to book on that twenty fifth which is says Friday. The hourly rate is $222, that's per hour with two movers already. We have a 26 foot box truck, we'll bring the moving blankets, shink wrap bands, dollies the tools for any disassemble or reassembly that needs to be done. This hourly rate also includes the taxes, insurance, and the gas. So it's all inclusive. Now, since you're requesting for warder boxes, our ardo boxes is $18 per box. I'll have them bring let's say three to five boxes, just in case you need that. But at the end of the day, we only charge you for whatever border boxes or how many boxes we use. If, let's say we consume all five that would be $90 for the five ardo boxes. Other than that no credit card fees, no disassemble, reassembly fees.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:02:30.676400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:02:39.379400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:02:40.699400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:03:05.899400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:03:20.379400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "What we have is a two and a half hour minimum. If we go, be on the two and a half hours, we will prorate the time in every fifteen minute increments questions so far?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:03:28.276400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Okay.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:03:28.842125",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:03:38.219400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "No questions.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:03:41.442125",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, now for the quote, I wanna give you a reference if we were just moving you out of like, ground floor to another ground floor, a typical one bedroom apartment. It would just take two and a half to three and a half hours to complete. Now let's add in the other factors back in your closet, let's say one hour and then the high-rise building is for four to 27 Ford four will definitely add more time even if the elevator is reserved. So, I would encourage you to budget conservatively, I would say, I would estimate this will take anywhere from five, up to seven hours, just in case needed, before we finish everything in five hours. That would be $1,200, include the $90 packet materials, if we need seven hours, that's $1,644 including the packing materials.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:03:43.276400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:04:03.379400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:04:05.979400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:04:19.779400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Okay.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:04:23.442125",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:04:26.579400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:04:29.339400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:04:34.299400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Again anywhere from $1,200 to $1,644 in case it takes five to seven hours. Now the good thing here Ashley is we're hourly based. So some helpful tip that I can give you BS prepared as you can be if you're able to disassemble your bed in advance or stage the boxes that would really help you save time and of course money by the end of the day. Does that sound fair?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:04:38.476400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:04:39.619400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:04:47.499400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Mm-hmm.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:04:52.842125",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:05:02.419400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Yeah, absolutely.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:05:04.242125",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, thank you. So yeah, that's it very straightforward and you know what, we don't require any deposits, no rebooking fees, no cancellation fee. So it's basically this free. Would you like us to help you out with the move.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:05:06.676400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Yeah, I'm just, I, I've just have a couple of more people to call and then I can call you back tomorrow and let you know.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:05:21.042125",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:05:27.676400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "action_item",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:05:28.826125",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, no problem. Let me send you the email so you can compare if you have any questions we're open every day, and if you're ready to book you can just call you can email whichever works best for you. Just let me know.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:05:31.876400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:05:33.619400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Okay. Okay. Alright, sounds good.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:05:43.842125",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, that's it for me today, thank you so much for your time and I hope you have a great evening. Bye Ashley. Take care.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:05:48.676400",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "Alright, you too, thanks Amy. Bye-bye.",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:05:53.442125",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-17T22:05:53.939400",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi-I-p4wgM",
+      "content": "ner",
+      "name": "Ashley Stone",
+      "time": "2026-09-17T22:05:55.106125",
+      "type": "moment"
+    }
+  ]
+}

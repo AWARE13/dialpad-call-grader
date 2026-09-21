@@ -1,0 +1,628 @@
+{
+  "call_id": "5354635914682368",
+  "lines": [
+    {
+      "content": "Hello, good morning Einstein moving this is an how can I help?",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:22:46.866476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:22:46.866476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:22:46.866476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:22:46.866476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:22:46.866476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:22:46.866476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:22:46.866476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "ner",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:22:47.682476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:22:49.242476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Yes I just got a call from Bree to, I just booked a move online and she just calling to follow up.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:22:49.827347",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "call_purpose",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:22:49.827347",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "ner",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:22:52.754347",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:22:57.066476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "Oh, okay give me one sec.",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:23:00.066476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Thank you.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:23:02.427347",
+      "type": "transcript"
+    },
+    {
+      "content": "Can I have your name, please?",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:23:04.266476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Yes, it's Laurie now.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:23:06.627347",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "contact_name",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:23:07.514347",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "ner",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:23:07.514347",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you. Yeah, upon checking here I've seen that you have book your move for the 9th of October, so basically we just wanted to do the kickoff call just to make sure that we have the correct details on file. And that we have provided you the correct estimate and let me one sec. Okay, so the first location is in 3101, this is in Davids lane, Austin, Texas and this is.",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:23:09.066476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:23:09.066476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "date",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:23:16.522476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Okay.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:23:30.627347",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:23:37.042476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Yes, and there, but there, there, there is a unit number. I just, they wouldn't let me, it wouldn't let me put it online but it's unit number 7202.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:23:39.027347",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, what's the number?",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:23:42.666476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:23:43.562476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "Thank you. This is a two story house square footage is 1400. We have two bedrooms and aside from two bedrooms. Do we have any additional spaces or rooms that we are also moving items from?",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:23:49.866476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Yup.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:23:57.027347",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:24:00.082476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "No.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:24:04.827347",
+      "type": "transcript"
+    },
+    {
+      "content": "No. Okay, give me one sec. And the distance from where we can park the truck to the door, would be fifty feet. Regarding your I.",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:24:06.066476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "And I say that I think it's probably closer but I just, yeah, just in case.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:24:15.027347",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, do we have any concerns, like access concerns like low hanger the drive is narrow pathways in hallway that we need to be aware of?",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:24:22.266476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:24:23.362476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "I don't think so. Just the stairs, you know, that, that's always complicated but I'm not moving everything, I'm leaving a lot of stuff there. So, I don't think it's gonna be too hard.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:24:34.827347",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And regarding your items do we have anything large or heavy, like safe piano large workout equipments washers dryers TV.",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:24:46.266476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Is yes, no washer and dryer staying fridge is staying, so it's just beds, it's actually, just beds and.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:24:57.027347",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:25:01.866476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Yeah, I have a sectional couch and L shape couch and living room furniture like a TV stand, coffee table and tables and things.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:25:12.027347",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "But I'm not moving a dining table, I'm not moving bedroom furniture. No Washer/Dryer for.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:25:29.427347",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:25:31.866476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "Okay. And do we have anything valuable or Raj like any collection, artwork collection, anything made of marble Anit. Glass? No. Okay, a typical backs count for your home size is $45 to $55 is, do you feel that you fall within that range?",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:25:36.066476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:25:38.442476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "No.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:25:42.627347",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "No.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:25:46.227347",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:25:49.962476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "No, I'm sorry, say that again.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:25:55.227347",
+      "type": "transcript"
+    },
+    {
+      "content": "A typical back count number of boxes based on your home size is 45 to 55 boxes. Do you feel that you fall within that range?",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:25:57.066476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Oh, yeah.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:26:01.227347",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:26:05.282476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Sh, it seems like a lot but it's just me, so it's no one else. I'd say, it's probably between thirty and forty but.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:26:08.427347",
+      "type": "transcript"
+    },
+    {
+      "content": "Thirty and forty. Okay, and no need help in packing.",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:26:19.266476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "No.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:26:23.427347",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. This is from point eight to point B, second destination would be 6021 casa Hili a trail in Texas. This is a one story house square foot digits 2000, how many bedrooms do you have here?",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:26:24.666476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Yes.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:26:33.027347",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:26:33.642476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Three.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:26:39.627347",
+      "type": "transcript"
+    },
+    {
+      "content": "Three. Okay. And can you be able to park on the driveway or are we parking on the street?",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:26:41.466476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:26:43.042476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "You should be able to park in the driveway.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:26:46.827347",
+      "type": "transcript"
+    },
+    {
+      "content": "On the driveway. Okay, so just wanted to check do we have access concerns for the second location like lowing entries Dee driveway is narrow bathes and Hays?",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:26:49.866476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:26:54.962476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "I don't think so. I think everything should be pretty easy there.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:27:03.027347",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, so just wanted to let you know that we have updated the details here. It is scheduled Friday. The 9th of October, we'll send out two movers and one truck estimated time is between five and a half to six and a half hours estimated cost in case they end up six and a half would be $1,443, but then again we only have a minimum of 2020 half hours. So, in case if you still have extra time just to prepare within the small items into your boxes yourself that would really help to keep the time down in efficiency up, obviously the last time you take, the less money end up spending by the end of the day.",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:27:07.866476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Alright.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:27:13.827347",
+      "type": "transcript"
+    },
+    {
+      "content": "date",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:27:15.202476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Yup.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:27:22.827347",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:27:25.922476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Okay, so you said how much because on the website it was like 1300.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:27:47.427347",
+      "type": "transcript"
+    },
+    {
+      "content": "It's so, six and a half hours for six and a half hours that would be 1443 if that's a six hours that's the 1000 give me one sec. 1232.",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:27:53.466476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Oh, so if we're able to do it unless time they'll bill accord. Oh, great.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:28:05.427347",
+      "type": "transcript"
+    },
+    {
+      "content": "Correct, that's right. So, like I have mentioned we only have a minimum, our minimum is only 555 and in case once you go over that it will always be prorated into fifteen minute increments. So somewhere between 555 up to 41443.",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:28:10.266476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Okay, mm-hmm.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:28:24.627347",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "I got it. That's great. Okay. Yes.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:28:30.027347",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "positive_sentiment",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:28:30.027347",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "support_issue_resolved",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:28:31.034347",
+      "type": "moment"
+    },
+    {
+      "content": "Three. Alright. We'll see you then. And if ever, there will be changes let us know so we can be able to amend it at anytime.",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:28:33.066476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "And do you suspect like the day before or a couple of days before somebody else? Confirm or will this be the last call?",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:28:39.627347",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "question",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:28:40.234347",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, so normally two to three days prior to move, we will already send you names of your movers via email. The day before we'll send you a courtesy text or call and on the day itself we'll, I'll send you estimated time of arrival just to keep you posted.",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:28:46.866476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Okay.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:28:57.027347",
+      "type": "transcript"
+    },
+    {
+      "content": "action_item",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:29:02.082476",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Awesome, that sounds great. I excited, thank you so much for your call.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:29:04.827347",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright.",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:29:07.266476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "support_issue_resolved",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:29:09.034347",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you so much as well. Happy Friday.",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:29:10.266476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi7MGphAkM",
+      "content": "Oh, thank you. You too. Bye-bye.",
+      "name": "Lori Nauert-AB",
+      "time": "2026-09-18T15:29:13.227347",
+      "type": "transcript"
+    },
+    {
+      "content": "Bye.",
+      "name": "Roselyn Pammit",
+      "time": "2026-09-18T15:29:15.066476",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    }
+  ]
+}

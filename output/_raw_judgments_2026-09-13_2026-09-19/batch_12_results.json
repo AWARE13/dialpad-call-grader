@@ -1,0 +1,942 @@
+[
+  {
+    "call_id": "5376708166852608",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 8.3,
+    "datetime_ct": "2026-09-18 20:25 CT",
+    "branch": "South Austin Einstein Moving Company",
+    "external_number": "+12035591907",
+    "call_type": "skip",
+    "skip_reason": "Existing customer calling about a delayed pickup/warehouse handoff on an already-booked move; rep transfers to a branch manager. Not a sales/quoting call — no rubric content to grade.",
+    "stage1": null,
+    "stage2": null,
+    "stage3": null,
+    "rapport_warmth_1to5": null,
+    "rapport_notes": null,
+    "process_discipline_violations": null,
+    "process_discipline_notes": null,
+    "evidence_quotes": null,
+    "top_strength": null,
+    "coaching_note": null
+  },
+  {
+    "call_id": "6121590753894400",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 11.3,
+    "datetime_ct": "2026-09-18 20:11 CT",
+    "branch": "South Austin Einstein Moving Company",
+    "external_number": "+15124669616",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_after_probing",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": true,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Polished and warm throughout, though fairly scripted in delivery.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "before I go over with our pricing structure and your estimate, what are your biggest concerns and what are the most important things you want answers to on this call today?",
+      "two_layers_deep": "N/A — customer said 'I don't think I have any question... no concerns or questions just trying to get a quote.'",
+      "save_your_ass": "keep in mind this is just an estimate. We are a time based company, so you will be charged for the total time consumed by the end of the move (partial window framing; no full Save Your Ass sequence)."
+    },
+    "top_strength": "Personalized the time estimate to the customer's specific move details (one-story home, third-floor walk-up, drive time) rather than giving a generic range.",
+    "coaching_note": "Ask 'what are your biggest concerns' before diving into address/logistics probing, not after — and add the Save Your Ass lines (rate commitment, beats-it-pay-less, self-prep tip, a real 'does that feel fair' pause) before booking."
+  },
+  {
+    "call_id": "5871248015400960",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 9.5,
+    "datetime_ct": "2026-09-18 19:25 CT",
+    "branch": "South Austin Einstein Moving Company",
+    "external_number": "+15128721279",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_before_probing",
+      "two_layers_deep": "shallow",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Smoothly handled a complex two-location partial move (new address + garage) and cancellation-policy questions.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "what are your biggest concerns and what are the most important things you want answers to on this call today?",
+      "two_layers_deep": "Customer: 'Primarily the expected cost and then the minimum...' — rep gave one direct pricing-structure answer, then pivoted straight to item probing with no follow-up check.",
+      "save_your_ass": "not covered — no Save Your Ass lines appear in this transcript."
+    },
+    "top_strength": "Cleanly split a complex partial move (some furniture to a new address, some staying local) into two clear item lists before quoting.",
+    "coaching_note": "The customer named pricing structure as his top concern but got only one pass at an answer — add a check-back ('does that address what you needed to know?') and work in the Save Your Ass sequence before the close."
+  },
+  {
+    "call_id": "6308779085307904",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 10.6,
+    "datetime_ct": "2026-09-18 19:11 CT",
+    "branch": "McKinney Einstein Moving Company",
+    "external_number": "+19016521920",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_before_probing",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": true,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Patient re-explaining the full move scope when the customer's own math didn't match the estimate.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "what are your biggest concerns and what are the most important things you want answers to on this call today? / Customer: 'Just more refinement on the price and I guess more detail of like the certain items.'",
+      "two_layers_deep": "The entire rest of the call (room-by-room item list, elevator access, then a revised, itemized estimate) directly served the customer's stated need for pricing detail.",
+      "save_your_ass": "Let's say your move ends quicker than what we have expected. Then we'll still charge you for the minimum... once we go over the minimum the time is pro-rated (window/proration framing, but no full 5-line sequence)."
+    },
+    "top_strength": "Recalculated and clearly re-explained the estimate when the customer's own 2-hour guess didn't match the quote, walking through the full scope (wrap, load, drive, unload, reassemble) until it made sense.",
+    "coaching_note": "On-Time Guarantee was never mentioned anywhere in the call, and the call ended on 'send me the estimate to review' with no explicit booking ask — both are easy misses to fix before he shops around."
+  },
+  {
+    "call_id": "6517107749068800",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 12.0,
+    "datetime_ct": "2026-09-18 18:35 CT",
+    "branch": "McKinney Einstein Moving Company",
+    "external_number": "+19403902382",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_after_probing",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": true,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 3,
+    "rapport_notes": "Calm and professional but passive once the price objection landed — conceded quickly rather than probing further.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "Before I go over with our pricing structure and your estimate, do you have any specific concern or stresser about the moving process in general? / Customer: 'No.'",
+      "two_layers_deep": "N/A — customer raised no concern when asked.",
+      "save_your_ass": "keep in mind we are a time based company. So you will be charged for the total time consumed by the end of the move."
+    },
+    "top_strength": "Kept a friendly, no-pressure tone even after the customer flatly said Einstein was too expensive, ending the call on good terms.",
+    "coaching_note": "When the customer said 'you're way too expensive,' the rep conceded immediately ('I see what you mean') instead of asking what he'd been quoted elsewhere or re-anchoring on differentiators — a real save-the-sale opportunity went unused."
+  },
+  {
+    "call_id": "6729069808361472",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 9.0,
+    "datetime_ct": "2026-09-18 17:41 CT",
+    "branch": "North Austin Einstein Moving Company",
+    "external_number": "+15128204433",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_after_probing",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": true,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Recognized the returning customer immediately and handled a Monday/Tuesday pricing mix-up smoothly.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "before I go over with our pricing structure and your estimate, do you have any specific concern or stressors about the moving process in general? / Customer: 'Nope.'",
+      "two_layers_deep": "N/A — no concern raised.",
+      "save_your_ass": "keep in mind we are a time based company. So you will be charged for the total time consumed by the end of the move."
+    },
+    "top_strength": "Recognized the returning customer right away, thanked her for booking again, and cleanly resolved her Monday-vs-Tuesday rate confusion without losing the booking.",
+    "coaching_note": "The agenda question landed after most of the logistics probing, and Communication (day-before call, named crew lead) never got mentioned — both easy adds to the existing perks recap."
+  },
+  {
+    "call_id": "6128507148607488",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 9.2,
+    "datetime_ct": "2026-09-18 17:23 CT",
+    "branch": "South Austin Einstein Moving Company",
+    "external_number": "+15123172167",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "partial",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "shallow",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": true,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 3,
+    "rapport_notes": "Professional and transparent but passive once a competitor's lower quote came up — validated it rather than defending value.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked",
+      "two_layers_deep": "Customer was confused about per-mover vs. total pricing; rep clarified once ($104/mover) but didn't probe further when she then raised a competitor's $150/hr quote.",
+      "save_your_ass": "keep in mind we are a time based company. So we will be charging you for the total time consume by the end of the move."
+    },
+    "top_strength": "Quickly and clearly clarified the per-mover vs. total-hourly pricing confusion before it became a bigger surprise later.",
+    "coaching_note": "When the customer mentioned a $150/hr competitor quote, the rep validated it and let her go rather than re-anchoring on differentiators — Meet Your Mover was never mentioned at all in this call, a natural trust-builder to lean on right there."
+  },
+  {
+    "call_id": "6168897188831232",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 11.2,
+    "datetime_ct": "2026-09-18 16:21 CT",
+    "branch": "Fort Worth Einstein Moving Company",
+    "external_number": "+16824020943",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_before_probing",
+      "two_layers_deep": "shallow",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Warm and creative — solved an unusual packing edge case (wall art, no boxes) on the spot.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "what are your biggest concerns and what are the most important things you want answers to on this call today? / Customer asked about hidden fees.",
+      "two_layers_deep": "Rep answered the travel-fee/hidden-fees question in one pass then moved straight to item probing, no further check-back.",
+      "save_your_ass": "not covered — no Save Your Ass lines appear; only 'our movers will be calling you once they are on the way' for Communication, which doesn't match the day-before-call/named-crew-lead script."
+    },
+    "top_strength": "Handled an unusual packing edge case (wall art wrapped in Saran wrap, not boxed) with a concrete solution (gaylord boxes) instead of a generic answer.",
+    "coaching_note": "The no-hidden-fees concern got one direct answer with no check-back, and Communication never landed beyond a vague 'movers will call when on the way' — work in the specific day-before-call / named crew lead script."
+  },
+  {
+    "call_id": "6729792101064704",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 11.3,
+    "datetime_ct": "2026-09-18 15:49 CT",
+    "branch": "Leander Einstein Moving Company",
+    "external_number": "+15129233394",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "none",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": true,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Recovered smoothly from an awkward warm-transfer mix-up (Sergio unavailable) and quoted straight from the emailed photos.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked — this call quotes directly from photos/details the customer had already emailed in.",
+      "two_layers_deep": "N/A — customer's only 'concern' (Sunday vs. weekday rate) was answered directly and resolved in one pass.",
+      "save_your_ass": "keep in mind we are a time based company so we will be charging you for the total time consumed by the end of the move."
+    },
+    "top_strength": "Recovered smoothly from a warm-transfer mix-up (Sergio unavailable) and picked the quote up from the emailed photos without making the customer repeat himself.",
+    "coaching_note": "No formal discovery was needed since this was photo-based, but adding 'does that feel fair' plus a real pause after the final number would strengthen the close before asking to book."
+  },
+  {
+    "call_id": "6259155188359168",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 16.1,
+    "datetime_ct": "2026-09-18 14:50 CT",
+    "branch": "North Austin Einstein Moving Company",
+    "external_number": "+16143905006",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_before_probing",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": true,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 5,
+    "rapport_notes": "Recognized a 4-time repeat customer by name/history, empathetic on the price-increase pushback, proactively chased a loyalty discount.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "what are your biggest concerns and what are the best, most important things you want answers to on this call today? / Customer initially said 'no concerns' but later raised a real one.",
+      "two_layers_deep": "Customer: '...it's a little sensitive, the washer and dryer, front loading...we need to make sure those are transported safely.' Rep asked about shipping bolts, explained the liability-waiver tradeoff, and offered a resolution — genuine multi-turn follow-up.",
+      "save_your_ass": "keep in mind this is just an estimate. We are a time based company so you will be charged for the total time consumed by the end of the move."
+    },
+    "top_strength": "When the price increase since the customer's last move (April) surprised him, the rep proactively escalated to check for a loyalty discount rather than just defending the new rate — and still secured the booking while it was pending.",
+    "coaching_note": "Communication (day-before call, named crew lead) still never made it into an otherwise strong call — add it to the standard closing perks recap."
+  },
+  {
+    "call_id": "5685359502991360",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 10.5,
+    "datetime_ct": "2026-09-18 14:23 CT",
+    "branch": "San Antonio Einstein Moving Company",
+    "external_number": "+12103134746",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_before_probing",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": true,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Careful and thorough with a heavy/valuable-item-laden move (gun cabinet, appliances, big TV).",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "what are your biggest concerns and what are the most important things you want answers to on this call today? / Customer: 'Just priced, that's a good estimate.'",
+      "two_layers_deep": "N/A — no specific concern beyond wanting a good price; the weapon-cabinet weight check was proactive logistics, not a raised concern.",
+      "save_your_ass": "keep in mind this is just an estimate, we are a time based company that we will be charging you for the total time consumed by the end of the move."
+    },
+    "top_strength": "Proactively checked the weapon cabinet's weight against the movers' 500 lb safety limit before it became a day-of surprise.",
+    "coaching_note": "Communication (day-before call, named crew lead) never landed in this call — worth adding to the standard perks recap alongside damage coverage and Meet Your Mover."
+  },
+  {
+    "call_id": "6483581272104960",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 9.9,
+    "datetime_ct": "2026-09-18 14:02 CT",
+    "branch": "Houston Einstein Moving Company",
+    "external_number": "+12254566014",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "none",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": true,
+        "beats_it_pay_less": false,
+        "self_prep_tip": true,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "This transcript opens mid-call ('Hi, this is Nicole, again...can you hear me?'), continuing from a dropped call (see call_id 5622646940672000, same customer/day) — quid pro quo and the agenda question are not visible because they happened in the earlier segment, not because they were skipped.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not visible in this segment — transcript picks up mid-discovery after a reconnect.",
+      "two_layers_deep": "N/A within the visible segment — no new concern is raised here.",
+      "save_your_ass": "with my six to seven hours estimate that includes disassemble and reassembly as well. So if you will be able to disassemble some of your furniture or if you can move some of your boxes...to make your move with Einstein quicker and save more (self-prep tip)."
+    },
+    "top_strength": "Patiently re-explained the one-time travel fee (round-trip to the home office, separate from drive-time-between-locations) until the customer's confusion cleared.",
+    "coaching_note": "Because this is a reconnect, discovery isn't visible here — grade the paired call (5622646940672000) for the opening; on this segment, the missed item is 'does that feel fair' plus a real pause before closing."
+  },
+  {
+    "call_id": "5622646940672000",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 7.5,
+    "datetime_ct": "2026-09-18 13:54 CT",
+    "branch": "Houston Einstein Moving Company",
+    "external_number": "+12254566014",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_before_probing",
+      "two_layers_deep": "shallow",
+      "sheet1_careful_with_answered_anywhere": false,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "none",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Warm and professional opening; call disconnected mid-discovery ('Since I'm not receiving any response on the line, I'm going to end the call now') — a technical/line drop, not a rep abandonment. The rep called back (see call_id 6483581272104960, same day/customer).",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "what are your biggest concerns and what are the most important things you want answers to on this call today? / Customer: 'the condition of the materials being moved.'",
+      "two_layers_deep": "Rep answered once (shrink wrap, moving blankets, free disassembly/reassembly) then pivoted straight to the next probing question — no further digging.",
+      "save_your_ass": "not reached — call disconnected before pricing/estimate."
+    },
+    "top_strength": "Opened with genuine warmth and got straight to the agenda question before any logistics probing.",
+    "coaching_note": "Not the rep's fault this call cut short (dead line), but note for QA: Stage 2/3 items score as not-reached here rather than as rep failures — see the reconnect call for how it resolved."
+  },
+  {
+    "call_id": "4692246949044224",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 8.0,
+    "datetime_ct": "2026-09-17 22:01 CT",
+    "branch": "McKinney Einstein Moving Company",
+    "external_number": "+18472549828",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "none",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "shallow",
+      "sheet1_careful_with_answered_anywhere": false,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": true,
+        "estimate_is_a_window": true,
+        "beats_it_pay_less": true,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Patient through repeated price/hours pushback from a customer worried about being overcharged for slow movers; never got defensive.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked — this is a follow-up call continuing a quote already submitted by email/text, not a fresh discovery call.",
+      "two_layers_deep": "Customer: '...paying $300 an hour, I just don't see why they wouldn't just take their time.' Rep answered once with a professionalism/vetting reassurance, then moved on.",
+      "save_your_ass": "if it ends six hours on the day of the move, then we will just charge you for six hours (beats-it-pay-less); our movers are professionally trained...not daily contracted workers (commit-to-rate/experience framing)."
+    },
+    "top_strength": "Handled repeated pricing pushback patiently, adjusting crew size and hour commitment to fit the customer's own effort plan without breaking the minimum-booking logic.",
+    "coaching_note": "Because this is a mid-negotiation follow-up, the opening discovery framing (quid pro quo, agenda ask) and Sheets 1/2 differentiators (damage coverage, Meet Your Mover) never got covered anywhere — build those into every touchpoint, not just the first call."
+  },
+  {
+    "call_id": "5032384468131840",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 14.7,
+    "datetime_ct": "2026-09-17 21:34 CT",
+    "branch": "McKinney Einstein Moving Company",
+    "external_number": "+19728863333",
+    "call_type": "skip",
+    "skip_reason": "Existing customer complaint call about invoice/billing confusion and property damage from a completed move; rep escalates to branch managers. Not a sales/quoting call — no rubric content to grade.",
+    "stage1": null,
+    "stage2": null,
+    "stage3": null,
+    "rapport_warmth_1to5": null,
+    "rapport_notes": null,
+    "process_discipline_violations": null,
+    "process_discipline_notes": null,
+    "evidence_quotes": null,
+    "top_strength": null,
+    "coaching_note": null
+  },
+  {
+    "call_id": "4838907440570368",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 19.2,
+    "datetime_ct": "2026-09-17 20:55 CT",
+    "branch": "Dallas Einstein Moving Company",
+    "external_number": "+12148035293",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "shallow",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": true,
+        "estimate_is_a_window": true,
+        "beats_it_pay_less": true,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Stayed patient and professional through a difficult, argumentative call (neck pain, repeated price pushback, distrust of the time estimate).",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked — call moved straight from intake into item/logistics probing.",
+      "two_layers_deep": "Customer raised several real concerns (glass bar/pool table damage history, fear of slow/untrained movers); each got one substantive reassurance answer but no deeper follow-up questions.",
+      "save_your_ass": "we don't charge for our movers['] breaks and we have professionally train[ed] movers...not like a daily contracted workers (commit-to-rate); this is just an estimate...let's say it ends four hours then we will just be charging you for four hours (window + beats-it-pay-less)."
+    },
+    "top_strength": "Stayed calm and substantive through a customer who repeatedly challenged the time estimate as impossible, without getting defensive or dismissive.",
+    "coaching_note": "No explicit 'would you like our help with your move' ask was made (understandable since photos/booking were still pending) — flag it as a follow-up-call must when she sends the photos back."
+  },
+  {
+    "call_id": "4568628126588928",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 9.2,
+    "datetime_ct": "2026-09-17 20:26 CT",
+    "branch": "Tampa Einstein Moving Company",
+    "external_number": "+18136902073",
+    "call_type": "walkthrough_scheduler",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "shallow",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "none",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": true,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Empathetic handling of a customer's fear of being overcharged based on a bad past-mover experience; clean handoff to an in-person branch-manager walkthrough for a 3200 sq ft home.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked as the formal line, though the customer volunteered a real concern unprompted.",
+      "two_layers_deep": "Customer: 'they charged me about twice what they said... we're kind of gun shy with movers.' Rep gave one substantive reassurance (professional movers, time-based billing, no hidden fees) with no further digging.",
+      "save_your_ass": "we have a professionally train[ed] movers that are efficient...we don't have like a daily contracted workers (commit-to-rate/experience framing); no full estimate given since routed to walkthrough."
+    },
+    "top_strength": "Directly addressed the customer's stated fear of being overcharged (from a bad past experience) with specifics: no hidden fees, time-based billing, professional non-day-labor staff.",
+    "coaching_note": "The formal 'biggest concerns' question was never asked — asking it up front would have surfaced the overcharge fear sooner and let the rep frame the walkthrough handoff around it directly."
+  },
+  {
+    "call_id": "4598217271975936",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 5.2,
+    "datetime_ct": "2026-09-17 18:14 CT",
+    "branch": "Garland Einstein Moving Company",
+    "external_number": "+12142931980",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "partial",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 3,
+    "rapport_notes": "Clear and efficient but transactional — little warmth/small talk in this short quote-recital call.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked — this is a quote-delivery callback for a pre-scoped 2-day pack+move job, not a discovery call.",
+      "two_layers_deep": "N/A — no discovery happens in this segment; this record is entirely quote delivery.",
+      "save_your_ass": "not covered — no Save Your Ass lines appear in this short call."
+    },
+    "top_strength": "Clearly broke down a complex multi-day (pack day + drive/overnight + unload day) estimate with two pricing paths (with/without packing) into an understandable structure.",
+    "coaching_note": "No explicit booking ask or 'does that feel fair' pause was made before ending the call — even a quote-only callback is a valid moment to ask for the close."
+  },
+  {
+    "call_id": "5606219840004096",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 7.6,
+    "datetime_ct": "2026-09-17 17:56 CT",
+    "branch": "San Antonio Einstein Moving Company",
+    "external_number": "+14097906859",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_before_probing",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": false,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": true,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Recapped the previously-discussed inventory list back to the customer for confirmation before quoting — good verification discipline.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "what are your biggest concerns and what are the most important things you want answers to on this call today? / Customer: 'just getting a clear picture on what the cost...an idea on what packing is like.'",
+      "two_layers_deep": "The rest of the call (item recap, packing-day-vs-two-day options, itemized quote) directly satisfied the customer's stated ask for cost clarity and packing detail.",
+      "save_your_ass": "keep in mind this is just an estimate we'll be charging you for a total time consumed by the end of the move."
+    },
+    "top_strength": "Recapped the previously-discussed inventory list back to the customer for confirmation before quoting, avoiding a mismatched estimate.",
+    "coaching_note": "No damage-coverage or Meet-Your-Mover differentiator was ever mentioned in this call — even a quote-only callback is a valid slot to work those in."
+  },
+  {
+    "call_id": "6081202336866304",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 7.6,
+    "datetime_ct": "2026-09-17 17:39 CT",
+    "branch": "McKinney Einstein Moving Company",
+    "external_number": "+12567632331",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "none",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "shallow",
+      "sheet1_careful_with_answered_anywhere": false,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": true,
+        "estimate_is_a_window": true,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Patiently absorbed a long, unstructured stream of customer questions without losing the thread, building trust for someone who explicitly said she didn't trust other movers.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked — customer led with a rapid list of her own questions before rep could frame the call.",
+      "two_layers_deep": "Customer raised no day-laborers, expensive furniture, and self-packing-still-insured as concerns; each got a direct, correct answer but no further digging.",
+      "save_your_ass": "we have a regular employees movers...we don't have day laborers and we have a professionally trained (commit-to-rate); we're a time based con[cept]... (window, partial)."
+    },
+    "top_strength": "Patiently absorbed a long, unstructured stream of questions (day laborers, packing, timing, overnight logistics) and answered each without losing the thread, building trust with a customer who said she didn't trust other movers.",
+    "coaching_note": "Damage coverage and Meet Your Mover were never mentioned even though this customer explicitly raised trust and expensive-furniture concerns — exactly the moment those differentiators should land."
+  },
+  {
+    "call_id": "6733213487112192",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 8.0,
+    "datetime_ct": "2026-09-17 16:56 CT",
+    "branch": "McKinney Einstein Moving Company",
+    "external_number": "+18472549828",
+    "call_type": "walkthrough_scheduler",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "partial",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": false,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "none",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Friendly, handled a chatty customer's tangents well, moved quickly to a live virtual walkthrough once truck capacity became uncertain.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked as the formal line.",
+      "two_layers_deep": "N/A — no discovery-style concern was raised; customer's questions (TV boxes, wall mounts) were straightforward logistics, all answered directly.",
+      "save_your_ass": "not applicable — no pricing/estimate given on this call; routed cleanly to a live virtual walkthrough to size the truck/mover count."
+    },
+    "top_strength": "Recognized the 1890 sq ft home plus garage-and-storage complexity quickly and pivoted to a virtual walkthrough rather than guessing at truck/mover count — and set it up live on the same call.",
+    "coaching_note": "The agenda question and both Stage 1 differentiators (damage coverage, Meet Your Mover) never made it into this call — even a walkthrough-routing call should still work those in per the rubric."
+  },
+  {
+    "call_id": "5499079531995136",
+    "rep_name": "Nicole Tolete",
+    "duration_min": 13.9,
+    "datetime_ct": "2026-09-17 14:22 CT",
+    "branch": "San Antonio Einstein Moving Company",
+    "external_number": "+18302950089",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_before_probing",
+      "two_layers_deep": "shallow",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": true,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Warm and respectful when the customer ultimately declined (wanted load-only help, not a full move) — thanked her and left the door open.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "what are your biggest concerns and what are the most important things you want answers to on this call today? / Customer: 'I don't have the equipment...hard to get in and out of there.'",
+      "two_layers_deep": "Rep answered with one reassurance (professionally trained, experienced with storage units) then moved into disassembly/logistics questions — no deeper follow-up on the access/equipment worry itself.",
+      "save_your_ass": "Our movers they are professionally trained and there are well experience[d] moving items from a storage unit (commit-to-rate/experience framing); no window/beats-it framing found in this transcript."
+    },
+    "top_strength": "Built a clear, itemized two-day cross-region moving plan (load day, overnight, unload day) that made a complex logistical scenario easy to follow before pricing it.",
+    "coaching_note": "The customer's stated concern was specifically about equipment/access — a deeper follow-up ('is it the elevator, the boxes, or the whole trip that worries you?') could have surfaced that she only wanted loading help much earlier, before a full multi-day quote she wasn't going to buy."
+  }
+]

@@ -1,0 +1,929 @@
+{
+  "call_id": "5599421004292096",
+  "lines": [
+    {
+      "content": "Hello, it's Amy. My.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:45:24.463950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:45:24.463950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:45:24.463950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:45:24.463950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:45:24.463950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:45:24.463950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:45:24.463950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:45:24.463950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Okay. Hopefully it's, oh, it's kinda okay. Well, let's see if I how much I can hear.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:45:24.958338",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:45:26.239950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Yeah, I hope this is much better now. Can I please have your name?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:45:37.663950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:45:41.199950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Okay, my name is Abby.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:45:43.558338",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "contact_name",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:45:44.709338",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "ner",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:45:44.709338",
+      "type": "moment"
+    },
+    {
+      "content": "Abby, alright and your last name, please.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:45:46.663950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:45:46.663950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Bear.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:45:49.558338",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and I have your phone number here, that's 773-951-7553, what about your email address? Where should I send the.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:45:53.263950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "phone_number",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:45:57.079950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Okay, so it's gonna be, I'm gonna spell it out to you. It's Mon TL T-I-E-L. Underscore Abigail @yahoo.com.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:46:03.958338",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "email_address",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:46:18.669338",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you so much and how did you hear about I'm needing?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:46:21.463950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:46:23.639950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "I looked up online.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:46:26.158338",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you just to make sure how do you spell your nickname? A-B-B-Y. Abby.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:46:29.863950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:46:33.119950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:46:36.079950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Yes, correct.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:46:36.358338",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, let's talk about the current. Oh, sorry, what date, by, by the way, what date are you planning to when?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:46:38.263950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:46:43.999950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Not Monday the twenty first.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:46:45.958338",
+      "type": "transcript"
+    },
+    {
+      "content": "Are we talking about like a one bedroom apartment move or is it a 2000 square foot home?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:46:53.263950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:46:53.263950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "One bedroom.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:47:00.358338",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, can I have the complete address of the start date? Yeah, go ahead.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:47:04.063950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Well.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:47:04.558338",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:47:04.759950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "So, like the place where the location where it's at now and then where it's going.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:47:09.358338",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, the move out and move-in address.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:47:15.463950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Okay, so the move out is 9907 capital view drive and then it's Austin 78747.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:47:18.358338",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "contact_name",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:47:28.549338",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "ner",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:47:28.549338",
+      "type": "moment"
+    },
+    {
+      "content": "I'll just pull up the address.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:47:36.463950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "And then of, oh, okay, and then the move-in. Address is going to be.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:47:36.958338",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "1220 sorry, let me repeat that. 12220 hunters chase drive Austin, Texas. 78729.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:47:47.158338",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "ner",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:47:57.629338",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "postcode",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:47:58.909338",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you so much. Okay, let's go back to the move out address, so if I heard it correctly, you mentioned earlier this is for your brother.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:48:02.263950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Correct.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:48:15.463950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "You want for, no, no, it's for my it's, oh, sorry for my daughter. Yes, correct.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:48:15.958338",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, daughter. Okay. Donner. Oh, so you guys are living in a 1200 square foot home but she's only taking one bedroom worth of up, is that right?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:48:20.863950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:48:22.479950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Yeah, she, she's, this is the thing, she's just moving out from her, she was living at a camper there so she doesn't have a lot of stuff. She only has three pieces. That's why I was calling to get information cause she only has three big pieces of furniture. Everything else is like tow ten boxes so I don't know if it's even worth it.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:48:28.558338",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. Okay. Right.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:48:34.063950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Mm-hmm. Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:48:41.863950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay, what I just three big items.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:48:47.263950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "What are the three items?",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:48:52.558338",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes ma'am.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:48:55.063950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Okay, it.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:48:56.758338",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "It's a dresser a night stand, and a vanity.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:49:00.358338",
+      "type": "transcript"
+    },
+    {
+      "content": "And then the rest would be Bob usually for a small move like this, we would see around fifteen to 25 boxes worth of items. Do you think she'll have that much or what's a good ballpark number at this point?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:49:07.063950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:49:08.919950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:49:17.599950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "For boxes.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:49:23.758338",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:49:25.663950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Give me a second, actually, I probably should have asked her that I didn't.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:49:26.758338",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Let's see if she could get to me this in a few seconds.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:49:43.558338",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:49:46.663950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "I'm sorry I didn't have that information.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:49:48.958338",
+      "type": "transcript"
+    },
+    {
+      "content": "No problem, no worries. I'll just put her in the usual range or maybe the lower range. Let's say ten to fifteen just for the sake of a.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:49:49.663950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "I'm gonna say like fifteen no, no more than that.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:49:56.158338",
+      "type": "transcript"
+    },
+    {
+      "content": "Fifty. Okay, sounds good and then the address she's moving into it's an apartment, right, or is it a house.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:50:00.463950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "It, it's an apartment, it's not, I don't think it's considered a house. Like it's not a single family.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:50:11.158338",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, I mean which four is she moving into? Is this a tall building time?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:50:18.463950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:50:21.399950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "It's a, it's a, it's a lower level.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:50:23.758338",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "It's lower level with a garage.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:50:28.558338",
+      "type": "transcript"
+    },
+    {
+      "content": "So gotcha. So first floor with the garage do we have any additional location to go to or is it just point eight?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:50:29.263950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:50:35.863950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Three days. No, that would just be from the pickup to the last address I gave you. That's it. Correct. Correct.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:50:41.758338",
+      "type": "transcript"
+    },
+    {
+      "content": "Drop-off.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:50:48.463950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Thank you. I think you got all the details that I need. Let me just prepare the estimate real quick happy while I'm preparing the estimate. Is there anything specific that you would like to share? Do you have a specific concern or what are you most worried about for this upcoming anything at all?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:50:51.463950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:50:59.639950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:51:05.879950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Yeah.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:51:08.758338",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "There's really no concern just she just needs the assistance moving her stuff, that's it.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:51:11.158338",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, sounds good and we'd be happy to help. Alright, let's talk about the basic prices. Okay, go ahead.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:51:18.463950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:51:18.479950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "I see. Oh, sorry, I was just gonna say if she did get back to me it'd probably be around ten boxes actually, the less than fifteen for sure.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:51:21.958338",
+      "type": "transcript"
+    },
+    {
+      "content": "Sure, that's good. Alright, so for your request the date Monday, the hourly rate is $208.208 per hour with two movers already. This is an all inclusive hourly rate. We have a 26 foot box truck, we have moving blankets, shrink up, bands all these the tools for any disassemble or reassemble furniture that needs to be done. This hourly rate also includes taxes insurance and the gas. So it's an all inclusive. However, the new address is outside of a free service zone. So we have a $75 travel fee which is a one time charge other than that. No credit card fees, no stair will fees, no vis, December.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:51:32.263950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:51:36.519950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:51:40.799950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:51:41.839950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:52:10.079950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Assembly reassembly fees. We do have a two and a half hour minimum if you go being on 220 half hours which I doubt then we will just prorate the time in every fifteen minute increments but yeah, the minimum is $595 for two and a half hours would that work for you guys?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:52:18.463950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:52:31.319950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:52:35.263950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "595.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:52:36.958338",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes ma'am. Including the travel fee.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:52:39.463950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Okay. Okay, and that's them coming to pickup at the look at the pickup location loading everything for her and unloading everything for her.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:52:40.558338",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm yes, that's right. We can even handle the if there's any need for for this assembling or reassembling any furniture we will take care of that, no additional fee.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:52:52.063950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Okay, okay.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:52:55.558338",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Okay. Okay. Well, I would have to get with her to give her the pricing. If you email me and then I can get back to you so I can give her the information and how much it costs and you said it would be available for Monday.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:53:06.958338",
+      "type": "transcript"
+    },
+    {
+      "content": "Question so far.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:53:11.263950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:53:16.663950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "action_item",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:53:18.789338",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:53:21.463950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:53:23.863950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Yes, we do have Monday availability. As receipt. I although, I mean, it's still like, what, 45 days away our calendar is booking up really five so let us know if you decide to book with us, no deposits, no rebooking, no cancellation fees. Just let us know.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:53:26.863950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "So there's gonna be no deposit and no rebooking.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:53:47.158338",
+      "type": "transcript"
+    },
+    {
+      "content": "Correct.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:53:50.863950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Okay. So we would have to make sure that day, cause then she, if something happens and she can move that date, then we have to make sure that it has to be the day, right? Cause if for some reason she can't, she's not gonna get her money back, is that what you're saying?",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:53:53.758338",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm I'll send you the email now. Uh-huh.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:53:55.663950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:53:56.879950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Request for Refund",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:54:07.789338",
+      "type": "custom_moment"
+    },
+    {
+      "content": "No, no since we don't require any deposits we will collect the payment once the move is done. But if you need to reschedule, let us know so we can double-check availability because the calendar is booking at that. Yes. Mm-hmm yeah, no problem.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:54:09.463950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Oh, oh, okay. I just wanna make sure it was, oh, alright just if I booked now. Okay. I mean, I don't know if you could give me a call back or I can, I just need to call her back and let her know like, what all the information.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:54:21.358338",
+      "type": "transcript"
+    },
+    {
+      "content": "Good.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:54:29.263950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "We're open until 5:30 you can call us back before 5:30 or will it back tomorrow morning?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:54:35.863950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:54:37.079950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:54:38.799950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:54:40.319950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:54:41.039950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Okay. Yeah, I'm gonna talk to her now so I'll call you guys right back.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:54:43.558338",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, thank you miss Abby. I'll email you the estimate just give me a minute, okay?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:54:47.863950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:54:49.159950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:54:49.399950",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "I appreciate your help. Thank you.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:54:49.558338",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "support_issue_resolved",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:54:51.829338",
+      "type": "moment"
+    },
+    {
+      "content": "Of course, anytime. Have a good one, bye-bye.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-16T21:54:53.863950",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCij7mbpwgM",
+      "content": "Okay, you too. Bye-bye.",
+      "name": "Abby Bear",
+      "time": "2026-09-16T21:54:56.758338",
+      "type": "transcript"
+    }
+  ]
+}

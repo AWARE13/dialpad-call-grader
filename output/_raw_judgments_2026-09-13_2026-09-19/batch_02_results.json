@@ -1,0 +1,942 @@
+[
+  {
+    "call_id": "4713771082227712",
+    "rep_name": "Amy Arbasa",
+    "duration_min": 14.2,
+    "datetime_ct": "2026-09-16 17:46 CT",
+    "branch": "San Antonio Einstein Moving Company",
+    "external_number": "+12105716625",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_after_probing",
+      "two_layers_deep": "none",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "none",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 3,
+    "rapport_notes": "Polite and patient despite a language/connection barrier, but fairly transactional; some redundant filler.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "\"before we start discussing, I would like to check what are you most worried about for this upcoming move or do you have any specific concerns?\"",
+      "two_layers_deep": "Customer raised a damage/TV concern; rep answered with generic reassurance (\"we have protection for the furniture... wrap the TV\") and pivoted straight into pricing with no follow-up question.",
+      "save_your_ass": "not covered"
+    },
+    "top_strength": "Thorough, patient inventory-gathering despite a real language/connection barrier, maintaining professionalism throughout.",
+    "coaching_note": "Never gave a time-range estimate anchor at all before diving into the price breakdown, and the customer balked at price with no anchor framing to soften the number."
+  },
+  {
+    "call_id": "5249295421317120",
+    "rep_name": "Amy Arbasa",
+    "duration_min": 7.5,
+    "datetime_ct": "2026-09-16 15:52 CT",
+    "branch": "Garland Einstein Moving Company",
+    "external_number": "+19165485472",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_after_probing",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": false,
+        "self_prep_tip": true,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Warm, efficient, upbeat; handled a rushed customer smoothly.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "\"is there anything that you would like to share maybe a specific concern or what are you most worried about for this move aside from the pricing?\"",
+      "two_layers_deep": "N/A \u2014 customer raised no concern (\"Just getting it done... efficiently, that's it\"), full credit per the rubric's N/A rule.",
+      "save_your_ass": "\"the more prepared you are... will take more money you will save\" (self-prep tip hit); other four Save Your Ass lines not covered."
+    },
+    "top_strength": "Personalized, accurate estimate anchor that explicitly factored in the specific third-floor/no-elevator situation.",
+    "coaching_note": "On-Time Guarantee and Communication (Stage 2) never landed anywhere, and no explicit close ask was made \u2014 call ended with the ball entirely in the customer's court."
+  },
+  {
+    "call_id": "5981453018505216",
+    "rep_name": "Amy Arbasa",
+    "duration_min": 9.0,
+    "datetime_ct": "2026-09-15 22:04 CT",
+    "branch": "Houston Einstein Moving Company",
+    "external_number": "+12817737392",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_after_probing",
+      "two_layers_deep": "none",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": true,
+        "self_prep_tip": true,
+        "does_that_feel_fair_then_silence": true
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Good rapport, personable, thorough with an easy-going customer.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "\"one more question aside from the pricing. What are you most worried about for this upcoming move?\"",
+      "two_layers_deep": "Customer raised real concerns (schedule coordination, storage conditions, TV/sound system) but rep responded with only generic reassurance and pivoted straight to pricing \u2014 no follow-up questions.",
+      "save_your_ass": "\"If you're planning to take a car load or staging the boxes... you save a lot of time... a lot of money\" (self-prep hit); \"Does that sound fair?\" asked with a genuine response; hourly \"you only pay for actual time\" framing (pay-less concept) also hit."
+    },
+    "top_strength": "Successfully closed the booking with a clean, explicit ask (\"Would you like us to help out with the move?\") right after a well-personalized estimate anchor.",
+    "coaching_note": "The agenda question surfaced real, specific concerns that got zero follow-up \u2014 a textbook case of the 'acknowledge and pivot' failure mode the rubric flags as dominant."
+  },
+  {
+    "call_id": "4705157416263680",
+    "rep_name": "Amy Arbasa",
+    "duration_min": 38.2,
+    "datetime_ct": "2026-09-15 20:35 CT",
+    "branch": "Tampa Einstein Moving Company",
+    "external_number": "+17276313758",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": true,
+        "self_prep_tip": true,
+        "does_that_feel_fair_then_silence": true
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 5,
+    "rapport_notes": "Extraordinary patience and warmth carrying a rambling, anxious customer through 38 minutes without ever sounding rushed.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked \u2014 the rep never asked the \"what are you most worried about\" / \"biggest concerns\" question in this 38-minute call.",
+      "two_layers_deep": "N/A per rubric (agenda not asked); a tangential worry the customer volunteered near the end (\"I would feel better if somebody came over and looked\") got warm reassurance but no follow-up digging.",
+      "save_your_ass": "\"you're not bound by the estimate\" (pay-less concept); \"preparation is key... take a car load in advance... save time and money\" (self-prep hit); \"does that make sense so far?\" asked with genuine agreement."
+    },
+    "top_strength": "Extraordinary patience and warmth carrying a rambling, anxious 38-minute discovery call while still landing a fully personalized 3-mover, drive-time-adjusted estimate anchor.",
+    "coaching_note": "Never asked the core agenda question in 38 minutes \u2014 a script fundamental skipped even though the customer clearly wanted permission to voice worries, as shown by volunteering one unprompted near the end."
+  },
+  {
+    "call_id": "6343500675719168",
+    "rep_name": "Amy Arbasa",
+    "duration_min": 10.6,
+    "datetime_ct": "2026-09-15 18:58 CT",
+    "branch": "Leander Einstein Moving Company",
+    "external_number": "+15126470806",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_after_probing",
+      "two_layers_deep": "none",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": true,
+        "self_prep_tip": true,
+        "does_that_feel_fair_then_silence": true
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Friendly, professional, thorough.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "\"aside from the price, what are you most worried about for this?\"",
+      "two_layers_deep": "Customer said \"safety of the goods\" \u2014 rep replied \"For sure... let me tell you more about that\" and pivoted directly into the pricing pitch with no actual follow-up question.",
+      "save_your_ass": "\"you only pay for the actual time that you use\" (pay-less concept); \"take a car load... staging the boxes near the door... save time and money\" (self-prep hit); \"does that sound fair?\" asked and got a genuine yes."
+    },
+    "top_strength": "Textbook-clean quid pro quo opener \u2014 time-boxed ask plus accurate-quote promise, delivered before any probing began.",
+    "coaching_note": "The care/safety concern the customer explicitly raised got only a one-line acknowledgment before pivoting straight to price \u2014 a follow-up question there would build more trust before the number lands."
+  },
+  {
+    "call_id": "6455227912331264",
+    "rep_name": "Amy Arbasa",
+    "duration_min": 7.2,
+    "datetime_ct": "2026-09-15 14:32 CT",
+    "branch": "Leander Einstein Moving Company",
+    "external_number": "+15124841437",
+    "call_type": "skip",
+    "skip_reason": "Follow-up call reviewing/confirming an estimate already given in a prior call (rep opens with 'Do you have any questions about the estimate?' and both parties reference an inventory already established previously). No fresh discovery stage occurs, so the discovery-based rubric doesn't apply even though the call ends in a booking.",
+    "stage1": null,
+    "stage2": null,
+    "stage3": null,
+    "rapport_warmth_1to5": null,
+    "rapport_notes": null,
+    "process_discipline_violations": null,
+    "process_discipline_notes": null,
+    "evidence_quotes": null,
+    "top_strength": null,
+    "coaching_note": null
+  },
+  {
+    "call_id": "6161909596856320",
+    "rep_name": "Amy Arbasa",
+    "duration_min": 6.8,
+    "datetime_ct": "2026-09-14 21:40 CT",
+    "branch": "South Austin Einstein Moving Company",
+    "external_number": "+15125672620",
+    "call_type": "skip",
+    "skip_reason": "Post-booking logistics call for an already-scheduled, already-quoted move \u2014 the entire call is about route/traffic planning around an event road closure (ACL), not a sales/discovery conversation.",
+    "stage1": null,
+    "stage2": null,
+    "stage3": null,
+    "rapport_warmth_1to5": null,
+    "rapport_notes": null,
+    "process_discipline_violations": null,
+    "process_discipline_notes": null,
+    "evidence_quotes": null,
+    "top_strength": null,
+    "coaching_note": null
+  },
+  {
+    "call_id": "6365341144358912",
+    "rep_name": "Amy Arbasa",
+    "duration_min": 6.8,
+    "datetime_ct": "2026-09-13 19:46 CT",
+    "branch": "Fort Worth Einstein Moving Company",
+    "external_number": "+19724807410",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_after_probing",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": false,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": true,
+        "self_prep_tip": true,
+        "does_that_feel_fair_then_silence": true
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Friendly and efficient with a customer at work who needed to loop in her wife.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "\"is there any specific concern or what are you most worried about for the upcoming move Lauren?\"",
+      "two_layers_deep": "N/A \u2014 the only response was a pricing-format question (\"itemized versus hourly\"), not a substantive concern outside of price, which the agenda question explicitly excluded.",
+      "save_your_ass": "\"you only pay for the actual time that they use\" (pay-less concept); \"disassemble the bed in advance, take the smaller pieces yourself... save time and money\" (self-prep hit); does-that-feel-fair asked with genuine agreement."
+    },
+    "top_strength": "Clean, well-reasoned estimate anchor that explicitly walked the customer through why the range widened (stairs + three-story town home) rather than just stating a number.",
+    "coaching_note": "Stage 2 differentiators (On-Time Guarantee, Communication) never landed anywhere in the call \u2014 a full 15-point line item left completely uncovered."
+  },
+  {
+    "call_id": "6173552768753664",
+    "rep_name": "Amy Arbasa",
+    "duration_min": 10.2,
+    "datetime_ct": "2026-09-13 18:29 CT",
+    "branch": "San Antonio Einstein Moving Company",
+    "external_number": "+13057330946",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_after_probing",
+      "two_layers_deep": "none",
+      "sheet1_careful_with_answered_anywhere": false,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": true,
+        "self_prep_tip": true,
+        "does_that_feel_fair_then_silence": true
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Friendly, professional; proactively offered a cheaper day when the customer signaled budget sensitivity.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "\"what are you most worried about for this upcoming move or do you have any specific question...\"",
+      "two_layers_deep": "Customer named three things (care, cost, time) \u2014 rep responded only to cost/stress generally and moved straight into the pricing pitch without circling back to \"care\" specifically.",
+      "save_your_ass": "\"you're not done by the estimate, you only pay for the actual time that you use\" (pay-less concept); \"staging the boxes... disassemble the bed in advance... save time and money\" (self-prep hit); \"does that make sense so far?\" asked with genuine response."
+    },
+    "top_strength": "Proactively offered a cheaper Sunday slot when the customer signaled budget sensitivity \u2014 real value-based selling, not just quoting the number.",
+    "coaching_note": "Customer named \"care\" as a top worry and it was never circled back to or answered directly \u2014 a five-point damage-coverage item left on the table for a customer who volunteered exactly that concern."
+  },
+  {
+    "call_id": "5183112271667200",
+    "rep_name": "Amy Arbasa",
+    "duration_min": 19.1,
+    "datetime_ct": "2026-09-13 17:50 CT",
+    "branch": "Dallas Einstein Moving Company",
+    "external_number": "+19727406342",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "asked_after_probing",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": false,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": true,
+        "self_prep_tip": true,
+        "does_that_feel_fair_then_silence": true
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Handled a live price/mover-count objection with unusually honest, non-defensive advice.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "\"aside from the standing desk like what are you most worried about any major concerns?\"",
+      "two_layers_deep": "N/A \u2014 asked late (right before pricing) and drew no verbal concern beyond an acknowledgment.",
+      "save_your_ass": "\"you're not done by the estimate\" (pay-less concept); \"the more prepared you are... the more money you will save\" (self-prep hit); does-that-feel-fair asked, followed by a genuine (if skeptical) customer response rather than a re-pitch."
+    },
+    "top_strength": "Handled the \"your competitor offered 3 movers at the same price\" objection with unusually honest, non-defensive advice (\"I'm not the cheapest... check their reviews for hidden fees\") \u2014 builds long-term trust over a single close.",
+    "coaching_note": "The agenda question landed so late (right before the pricing pitch) that it functioned as a formality \u2014 asking it earlier, before the full inventory walk, would give more room to actually act on what surfaces."
+  },
+  {
+    "call_id": "6250644064739328",
+    "rep_name": "Arden 2Asilo",
+    "duration_min": 6.7,
+    "datetime_ct": "2026-09-17 20:18 CT",
+    "branch": "McKinney Einstein Moving Company",
+    "external_number": "+12082066098",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "partial",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Friendly and patient with an indecisive customer; good active listening on unusual items (Peloton, electric piano).",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked",
+      "two_layers_deep": "N/A \u2014 agenda question never asked.",
+      "save_your_ass": "not covered \u2014 call ended (customer needed to check her schedule) before reaching the close/differentiator portion."
+    },
+    "top_strength": "Correctly flagged the extra time/cost impact of the Peloton bike and third-floor access up front, setting honest expectations before the customer committed to anything.",
+    "coaching_note": "No quid pro quo framing at all before diving into questions \u2014 a quick \"let's get a few details so I can build you an accurate quote\" up front would set the frame for the whole call."
+  },
+  {
+    "call_id": "5423437054517248",
+    "rep_name": "Arden 2Asilo",
+    "duration_min": 9.9,
+    "datetime_ct": "2026-09-17 19:32 CT",
+    "branch": "Garland Einstein Moving Company",
+    "external_number": "+12142444114",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "none",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": false,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "none",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 3,
+    "rapport_notes": "Patient with a disorganized customer (confusion about days/dates, hard-to-hear phone), professional throughout.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked",
+      "two_layers_deep": "N/A \u2014 agenda question never asked.",
+      "save_your_ass": "not covered \u2014 short business-move call skipped the differentiator/close spiel entirely."
+    },
+    "top_strength": "Patiently and accurately captured a long, disorganized inventory list for an unusual business-to-business move without losing track of details.",
+    "coaching_note": "No estimate anchor was given at all \u2014 just a flat 2.5-hour minimum price with no \"typical job like this takes X\" framing, so the customer never got real time expectation-setting."
+  },
+  {
+    "call_id": "5668190631272448",
+    "rep_name": "Arden 2Asilo",
+    "duration_min": 10.9,
+    "datetime_ct": "2026-09-17 17:52 CT",
+    "branch": "McKinney Einstein Moving Company",
+    "external_number": "+18473381624",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "none",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": false,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": true,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 5,
+    "rapport_notes": "Genuine warmth and humor with a repeat customer; remembered/pulled his exact prior movers by name on request.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked",
+      "two_layers_deep": "N/A \u2014 agenda question never asked.",
+      "save_your_ass": "\"you only pay for the actual time accumulated\" (pay-less concept) \u2014 no other Save Your Ass lines covered."
+    },
+    "top_strength": "Turned a routine repeat-booking call into a genuinely warm interaction \u2014 pulled the customer's exact prior movers by name on request and matched his humor.",
+    "coaching_note": "No explicit close ask was ever made (the booking was simply assumed/confirmed) \u2014 worth building the habit even with repeat customers, since it's also where rate-lock language would naturally land."
+  },
+  {
+    "call_id": "5992147884482560",
+    "rep_name": "Arden 2Asilo",
+    "duration_min": 13.6,
+    "datetime_ct": "2026-09-17 15:23 CT",
+    "branch": "Dallas Einstein Moving Company",
+    "external_number": "+15126327605",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "none",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": true,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": true,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 5,
+    "rapport_notes": "Handled a bereavement-context move (customer's mother passed away) with genuine, well-calibrated compassion throughout.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked",
+      "two_layers_deep": "N/A \u2014 agenda question never asked.",
+      "save_your_ass": "\"if the move goes faster than what we have anticipated, and of course you pay less\" (clean pay-less hit) \u2014 other Save Your Ass lines not covered."
+    },
+    "top_strength": "Handled a bereavement-context move with genuine, well-calibrated compassion throughout, without ever feeling scripted or awkward.",
+    "coaching_note": "The pricing/differentiator block landed well, but the call ended on logistics still pending (goodwill drop-off) with no close yet \u2014 worth a clean follow-up call to close it out."
+  },
+  {
+    "call_id": "6410730229768192",
+    "rep_name": "Arden 2Asilo",
+    "duration_min": 6.6,
+    "datetime_ct": "2026-09-17 14:49 CT",
+    "branch": "Dallas Einstein Moving Company",
+    "external_number": "+16502721341",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "none",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": false,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "partial",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 3,
+    "rapport_notes": "Some friction/miscommunication (language/phone connection issues), rep stayed patient throughout.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked",
+      "two_layers_deep": "N/A \u2014 agenda question never asked.",
+      "save_your_ass": "not covered \u2014 call ended before differentiators or close were delivered; customer went to compare quotes."
+    },
+    "top_strength": "Stayed patient and un-flustered through a confusing, hard-to-follow conversation about pod logistics and unclear customer communication.",
+    "coaching_note": "Never got to the damage-coverage or on-time-guarantee value-adds before the customer disengaged to shop around \u2014 those differentiators are exactly what could have preempted a pure price-comparison exit."
+  },
+  {
+    "call_id": "6723696309346304",
+    "rep_name": "Arden 2Asilo",
+    "duration_min": 10.1,
+    "datetime_ct": "2026-09-17 14:22 CT",
+    "branch": "Garland Einstein Moving Company",
+    "external_number": "+12146400918",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "none",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": true,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": true,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Professional and confident; one minor name slip (called her \"Brenda\" once instead of Andrea).",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked",
+      "two_layers_deep": "N/A \u2014 agenda question never asked.",
+      "save_your_ass": "\"if the move goes faster than what we have anticipated then of course you pay less\" (clean pay-less hit) \u2014 other Save Your Ass lines not covered."
+    },
+    "top_strength": "Clean, confident explanation of how online estimates work relative to the final call-verified quote, directly answering the customer's opening question and building trust before diving into details.",
+    "coaching_note": "Full differentiator block (damage coverage, meet-your-mover, on-time guarantee) landed well, but no \"does that feel fair\" pause preceded the ask \u2014 worth adding that beat before the close."
+  },
+  {
+    "call_id": "5495802606166016",
+    "rep_name": "Arden 2Asilo",
+    "duration_min": 6.4,
+    "datetime_ct": "2026-09-17 14:13 CT",
+    "branch": "McKinney Einstein Moving Company",
+    "external_number": "+16827040892",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "none",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": false,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "none",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": false,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": false
+    },
+    "rapport_warmth_1to5": 3,
+    "rapport_notes": "Decent; handled a complex multi-location (house + storage unit) move query patiently.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked",
+      "two_layers_deep": "N/A \u2014 agenda question never asked.",
+      "save_your_ass": "not covered \u2014 call ended before reaching the estimate/close portion."
+    },
+    "top_strength": "Correctly identified that a single truck likely wouldn't cover an 1,800 sq ft house plus a storage unit, and proactively recommended scaling up to 4 movers/2 trucks rather than under-quoting.",
+    "coaching_note": "Never landed a personalized hour-range estimate anchor despite gathering enough detail to attempt one \u2014 the call ended in the same \"I'll call back\" ambiguity where it started."
+  },
+  {
+    "call_id": "6716047137218560",
+    "rep_name": "Arden 2Asilo",
+    "duration_min": 9.8,
+    "datetime_ct": "2026-09-16 22:15 CT",
+    "branch": "Dallas Einstein Moving Company",
+    "external_number": "+18324549850",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "none",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": false
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": false,
+      "communication_covered_anywhere": false,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": true,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Casual, friendly; handled a price-shopping customer with honesty rather than pressure.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked",
+      "two_layers_deep": "N/A \u2014 agenda question never asked.",
+      "save_your_ass": "\"if the move goes faster... you pay less\" (pay-less concept hit) \u2014 other Save Your Ass lines not covered."
+    },
+    "top_strength": "When the customer admitted he wanted to shop around, the rep didn't get defensive \u2014 just booked with no-penalty flexibility, the right no-pressure approach for a price-shopping customer.",
+    "coaching_note": "On-Time Guarantee and Meet-Your-Mover were skipped entirely in this call \u2014 worth double-checking the standard differentiator block stays a habit even in fast, casual-feeling calls."
+  },
+  {
+    "call_id": "6709761989451776",
+    "rep_name": "Arden 2Asilo",
+    "duration_min": 6.9,
+    "datetime_ct": "2026-09-16 21:59 CT",
+    "branch": "Houston Einstein Moving Company",
+    "external_number": "+14053342324",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "full",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": true,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": true,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Professional, clear, well-organized call.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked",
+      "two_layers_deep": "N/A \u2014 agenda question never asked.",
+      "save_your_ass": "\"you only pay for the actual time use... only pay for the minimum\" (pay-less concept hit) \u2014 other Save Your Ass lines not covered."
+    },
+    "top_strength": "The only call in this batch with a clean, explicit quid pro quo opener (\"I just need a few minutes... so we'll be able to give you an on-target estimate\") \u2014 a strong, replicable model.",
+    "coaching_note": "Explicit close ask was made well but the customer deferred \u2014 a \"does that feel fair\" pause paired with silence before the ask might have converted the hesitation into a same-call yes."
+  },
+  {
+    "call_id": "4731980283944960",
+    "rep_name": "Arden 2Asilo",
+    "duration_min": 12.9,
+    "datetime_ct": "2026-09-16 21:25 CT",
+    "branch": "Dallas Einstein Moving Company",
+    "external_number": "+14695049796",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "none",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": true,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": true,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Warm, patient; handled a complex \"partial move / staged home for sale\" scenario well.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked",
+      "two_layers_deep": "N/A \u2014 agenda question never asked.",
+      "save_your_ass": "\"if the move goes faster than what we have anticipated, then of course, you pay less\" (clean hit) \u2014 other Save Your Ass lines not covered."
+    },
+    "top_strength": "Estimate anchor was specifically personalized to the exact items mentioned (the 75\" TV, patio furniture, one-hour drive) rather than a generic range \u2014 genuinely consultative.",
+    "coaching_note": "Explicit close ask landed and converted, but the call skipped the agenda/concerns question entirely \u2014 worth surfacing given this customer was juggling a lot of moving-related stress (selling a home, staging)."
+  },
+  {
+    "call_id": "4600404246044672",
+    "rep_name": "Arden 2Asilo",
+    "duration_min": 10.1,
+    "datetime_ct": "2026-09-16 16:07 CT",
+    "branch": "Houston Einstein Moving Company",
+    "external_number": "+17133765565",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "none",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": true,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": false,
+        "beats_it_pay_less": true,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 4,
+    "rapport_notes": "Warm, patient, encouraging tone throughout, including a friendly measurement walkthrough.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked",
+      "two_layers_deep": "N/A \u2014 agenda question never asked.",
+      "save_your_ass": "\"you only pay for the actual time accumulated\" (pay-less concept) \u2014 other Save Your Ass lines not covered."
+    },
+    "top_strength": "Extremely patient, encouraging measurement walkthrough (\"we can use a school bus as a reference\") that kept an unfamiliar customer comfortable rather than stuck or frustrated.",
+    "coaching_note": "All three \"sheet\" differentiators landed cleanly in the standard block, but none of the five specific Save Your Ass lines beyond pay-less were used \u2014 worth layering those into the pre-close section."
+  },
+  {
+    "call_id": "5739843139706880",
+    "rep_name": "Arden 2Asilo",
+    "duration_min": 11.0,
+    "datetime_ct": "2026-09-16 14:23 CT",
+    "branch": "Dallas Einstein Moving Company",
+    "external_number": "+15129647971",
+    "call_type": "full_sales_call",
+    "skip_reason": null,
+    "stage1": {
+      "quid_pro_quo": "none",
+      "their_agenda": "not_asked",
+      "two_layers_deep": "full",
+      "sheet1_careful_with_answered_anywhere": true,
+      "sheet2_whos_coming_answered_anywhere": true
+    },
+    "stage2": {
+      "on_time_guarantee_covered_anywhere": true,
+      "communication_covered_anywhere": true,
+      "repeated_a_stage1_item_in_stage2": false
+    },
+    "stage3": {
+      "estimate_anchor": "full",
+      "save_your_ass_lines_hit": {
+        "commit_to_rate": false,
+        "estimate_is_a_window": true,
+        "beats_it_pay_less": true,
+        "self_prep_tip": false,
+        "does_that_feel_fair_then_silence": false
+      },
+      "close_rate_lock_mentioned": false,
+      "close_explicit_ask": true
+    },
+    "rapport_warmth_1to5": 5,
+    "rapport_notes": "Genuinely warm; congratulated the customer on the new house multiple times and offered proactive help.",
+    "process_discipline_violations": 0,
+    "process_discipline_notes": "",
+    "evidence_quotes": {
+      "agenda": "not asked (a process-clarification check was made instead \u2014 different from the concerns/worries question)",
+      "two_layers_deep": "N/A \u2014 agenda question never asked.",
+      "save_your_ass": "\"we'd much rather give you a realistic worst case number now than be surprised... later\" (window-framing hit); \"of course, you pay less\" (pay-less hit) \u2014 commit-to-rate, self-prep tip, and fairness-check not covered."
+    },
+    "top_strength": "The estimate anchor was the most thoroughly personalized of the whole batch \u2014 explicitly factored in the long hallway walk, the 75\" TV, and drive time into a clear worst-case range with an honest explanation of why.",
+    "coaching_note": "Genuinely warm call end-to-end, but the self-prep-to-save tip and a true \"does that feel fair\" pause before confirming the date were both skipped \u2014 small additions that would round out an already strong call."
+  }
+]

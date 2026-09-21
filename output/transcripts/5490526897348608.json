@@ -1,0 +1,299 @@
+{
+  "call_id": "4584333307846656",
+  "lines": [
+    {
+      "content": "Hi, good afternoon. This is juline with Einstein. How can I help you?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:01:51.841118",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:01:51.841118",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:01:51.841118",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:01:51.841118",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:01:51.841118",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:01:51.841118",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:01:51.841118",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:01:55.137118",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:01:55.857118",
+      "type": "custom_moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiop280goM",
+      "content": "Hi there we have a move scheduled for today and we're just wondering if we can get an ETA on when we should expect the movers.",
+      "name": "Amanda Vandiver",
+      "time": "2026-09-19T17:01:57.253297",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiop280goM",
+      "content": "call_purpose",
+      "name": "Amanda Vandiver",
+      "time": "2026-09-19T17:01:57.253297",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm okay may I know what is your name, please?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:02:03.241118",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:02:05.537118",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiop280goM",
+      "content": "The name on the order is Amanda, Vandiver.",
+      "name": "Amanda Vandiver",
+      "time": "2026-09-19T17:02:06.853297",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiop280goM",
+      "content": "ner",
+      "name": "Amanda Vandiver",
+      "time": "2026-09-19T17:02:08.434297",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, let me check.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:02:11.041118",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Okay sir I got to, I have to coordinate with the manager so they can contact the movers and then we will just give you a call to let you know of their exact time of arrival.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:02:19.441118",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiop280goM",
+      "content": "Okay, there's no way for you to just put me on hold and, and I can stay on the line and move for an answer.",
+      "name": "Amanda Vandiver",
+      "time": "2026-09-19T17:02:32.653297",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, we can try because because normally managers won't reply ASAP. So yeah, let me just put the call on hold for a few minutes while I ask, okay? Thank you.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:02:39.841118",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiop280goM",
+      "content": "Okay.",
+      "name": "Amanda Vandiver",
+      "time": "2026-09-19T17:02:49.453297",
+      "type": "transcript"
+    },
+    {
+      "content": "Hello, sir. Thank you for holding.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:06:28.308259",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiop280goM",
+      "content": "I bye!",
+      "name": "Amanda Vandiver",
+      "time": "2026-09-19T17:06:30.967785",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay sir as of this time no response yet from the managers would you still like to wait for them to reply or should we just call you back? Okay, alright, I'll just place the call on hold again, thank you.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:06:32.508259",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:06:37.727259",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiop280goM",
+      "content": "Sure, I.",
+      "name": "Amanda Vandiver",
+      "time": "2026-09-19T17:06:41.767785",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiop280goM",
+      "content": "What was that?",
+      "name": "Amanda Vandiver",
+      "time": "2026-09-19T17:06:51.367785",
+      "type": "transcript"
+    },
+    {
+      "content": "Hello, thank you for holding.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:10:15.488291",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiop280goM",
+      "content": "Yeah, hi.",
+      "name": "Amanda Vandiver",
+      "time": "2026-09-19T17:10:16.971203",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay sir, unfortunately the managers are not responding it to my messages asking for the movers ETA.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:10:19.088291",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiop280goM",
+      "content": "Okay.",
+      "name": "Amanda Vandiver",
+      "time": "2026-09-19T17:10:29.571203",
+      "type": "transcript"
+    },
+    {
+      "content": "We can just give you a callback as I am thinking they are still trying to reach out for our movers to see the status. So as soon as we hear from them, we'll give you a call, phone number that I see on my screen is 203-559-1907.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:10:30.488291",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "issue_unresolved",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:10:32.325291",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiop280goM",
+      "content": "Okay. Alright, okay, what number do you have?",
+      "name": "Amanda Vandiver",
+      "time": "2026-09-19T17:10:37.371203",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiop280goM",
+      "content": "question",
+      "name": "Amanda Vandiver",
+      "time": "2026-09-19T17:10:41.228203",
+      "type": "moment"
+    },
+    {
+      "content": "action_item",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:10:42.845291",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "phone_number",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:10:48.605291",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiop280goM",
+      "content": "Perfect.",
+      "name": "Amanda Vandiver",
+      "time": "2026-09-19T17:10:49.371203",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiop280goM",
+      "content": "positive_sentiment",
+      "name": "Amanda Vandiver",
+      "time": "2026-09-19T17:10:49.371203",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiop280goM",
+      "content": "Alright, thank you.",
+      "name": "Amanda Vandiver",
+      "time": "2026-09-19T17:10:52.371203",
+      "type": "transcript"
+    },
+    {
+      "content": "You're very welcome sir. We'll just talk to you later. Bye for now.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:10:54.488291",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiop280goM",
+      "content": "Bye.",
+      "name": "Amanda Vandiver",
+      "time": "2026-09-19T17:10:55.971203",
+      "type": "transcript"
+    },
+    {
+      "content": "issue_unresolved",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-19T17:10:56.165291",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    }
+  ]
+}
