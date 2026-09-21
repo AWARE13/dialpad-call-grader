@@ -15,7 +15,7 @@ import statistics
 from collections import defaultdict
 
 RUN_DATE = "2026-09-21"
-WINDOW = "Sept 13-19"
+WINDOW = "Sept 14-20"
 ROOT = os.path.expanduser("~/Documents/GitHub/dialpad-call-grader")
 GRADES = os.path.join(ROOT, "output/weekly/grades", RUN_DATE)
 PATTERNS = os.path.join(ROOT, "output/patterns.json")

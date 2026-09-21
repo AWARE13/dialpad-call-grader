@@ -13,7 +13,7 @@ monday.com connector, then both drafts can go up as-is.
 
 ---
 
-Call grading run for the week of Sept 13–19 is done.
+Call grading run for the week of Sept 14–20 is done.
 
 **The numbers.** 57 calls pulled across 29 reps, 44 full sales calls graded, 3
 walkthrough schedulers, 10 skipped as non-sales. Company average **47.4 out of
