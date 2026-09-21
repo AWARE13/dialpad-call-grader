@@ -1,0 +1,719 @@
+{
+  "call_id": "5055259044519936",
+  "lines": [
+    {
+      "content": "Good morning this is Amy. How can I help you?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:35:34.069325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:35:34.069325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:35:34.069325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:35:34.069325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:35:34.069325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:35:34.069325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:35:35.446325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:35:35.886325",
+      "type": "custom_moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "Amy, hi I have I guess it's a small job probably for you guys but I have a refrigerator, I sold the house and I have a refrigerator that doesn't convey with the house. But I wanted to move it to where I live if is that something that you guys would do?",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:35:37.671400",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "call_purpose",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:35:37.671400",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "ner",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:35:37.671400",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:35:50.869325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Oh, we'd love to help out. What data you're looking into.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:35:58.069325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:35:58.069325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "Say that again. I'm sorry.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:36:03.471400",
+      "type": "transcript"
+    },
+    {
+      "content": "What date are you looking at? Do you need it as soon as possible?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:36:05.869325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:36:05.869325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "Oh, I don't have I don't have a tentative date. I'm closing on the house on the thirtieth. So. I have some time.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:36:08.871400",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:36:16.669325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay, well, let me tell you about the pricing. Then, we charge per hour for a small job like this. It'll just, we send minimum of two movers and we have a two and a half hour minimum. Even if it only takes like thirty minutes to move the fringe we'll charge you for the minimum, would that work for you?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:36:19.669325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "Uh-huh.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:36:26.871400",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:36:38.566325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "Yeah, I would want it to be brought out to Spicewood so it probably would take the two and a half hour. Maybe it, the, okay, sorry.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:36:40.071400",
+      "type": "transcript"
+    },
+    {
+      "content": "All spice would I see?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:36:47.869325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:36:47.886325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:36:49.406325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Mm-hmm got.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:36:55.669325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:36:56.406325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "The refrigerator is located in south Austin of mane, so.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:36:58.671400",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "ner",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:37:01.242400",
+      "type": "moment"
+    },
+    {
+      "content": "Uh-huh.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:37:02.869325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:37:04.966325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "I see. Well, yeah, well, it's just a one fridge anyways and then what about an hour drive from Austin to Spicewood.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:37:07.069325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:37:13.966325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "Yeah, it's about 45 minutes to an hour or someplace to my house.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:37:15.471400",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, let's see what else. If you don't mind, I'll create a profile for you real quick, I'll start asking questions just to make sure that we have an accurate estimate and then I'll send it to you via email.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:37:19.669325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:37:20.806325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "Sure.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:37:30.471400",
+      "type": "transcript"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:37:32.366325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "Sure.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:37:34.671400",
+      "type": "transcript"
+    },
+    {
+      "content": "I know you're flexible with the dates. But let me just check our next opening just to be sure the earliest we have open would be Monday that September 21st.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:37:35.526325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "Right.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:37:41.871400",
+      "type": "transcript"
+    },
+    {
+      "content": "date",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:37:46.686325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "I couldn't do it the twenty first I could do it the twenty second.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:37:49.671400",
+      "type": "transcript"
+    },
+    {
+      "content": "There's gonna be like twenty second. Okay, let's see.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:37:51.469325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "I'm sorry we're fully booked on the twenty second. Why about I'm gonna, yes, sir.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:37:59.269325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "About about the twenty, about the twenty fourth or twenty fifth.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:38:03.471400",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, we do have the twenty fourth available 24 even the twenty fifth but I would say Thurs Monday to Thursday is cheaper compared to Friday and the weekend.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:38:08.869325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "Okay.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:38:12.471400",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "Okay.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:38:15.471400",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "So you're saying the twenty fourth is cheaper.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:38:22.671400",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes. Monday to Thursday is cheaper compared to Friday, Saturday, Sunday.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:38:26.269325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "Okay. Okay. Alright. So we would wanna do, alright, so we would want to do the twenty fourth.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:38:28.071400",
+      "type": "transcript"
+    },
+    {
+      "content": "So, let's say Thursday four can I please have your first and last name.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:38:34.069325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "My name is Randy connect. K-A-N. As in November AK.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:38:41.871400",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "contact_name",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:38:43.282400",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "ner",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:38:43.282400",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you Randy. I have your phone number 512-750-4952. What about your email address?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:38:50.269325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:38:51.126325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "phone_number",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:38:53.046325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "It's R-D. As in Charlie, my last name K-A-M-A-K. The number six the number zero @gmail.com.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:38:58.671400",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "ner",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:39:01.442400",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "email_address",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:39:10.082400",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you so much. How did you hear about a moving company?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:39:13.069325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:39:16.246325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "I was looking for moving companies and I you're, you came up.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:39:19.671400",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm okay, sounds good. Let's talk about your addresses. Can I have the oh, yeah, sorry, go ahead. Yes, sir.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:39:25.069325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "Plus, I see it. Right.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:39:28.671400",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "I was gonna just say I see a moving trucks moving up and down the road too, so.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:39:33.471400",
+      "type": "transcript"
+    },
+    {
+      "content": "Definitely for cool, cool. Okay. Well thank you for considering us now. Let's talk about the current address first. What's the complete details.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:39:36.469325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "I'm not 1812 forest grade.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:39:46.671400",
+      "type": "transcript"
+    },
+    {
+      "content": "I.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:39:52.669325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "That's in Austin. 78745.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:39:54.471400",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "ner",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:39:55.762400",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, let me just pull up so, yeah, load anything. So that's.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:40:01.069325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "And forest glade is one road forest glade is one of.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:40:01.071400",
+      "type": "transcript"
+    },
+    {
+      "content": "And the, what would be the new address?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:40:18.469325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:40:20.326325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "1009 Thurman left drive in Spicewood Texas 78669.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:40:23.871400",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "ner",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:40:27.471400",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "ner",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:40:35.522400",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "postcode",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:40:36.402400",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. Order the address 0912 drive. No additional stop right just point to point B, one fridge. That's it.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:40:46.669325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "Yes. Yes, that just 28 point B.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:40:57.471400",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:41:02.806325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Alrighty, let me just check how much you've been a minute and I start discussing the basic pricing. No need to take notes. I'll send everything via email. So for Monday to Thursday or let's say September 24th Thursday it's $208.208 per hour with Ivers and it's an all inclusive will be great. Yes sir. Per hour.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:41:03.469325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:41:08.526325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "date",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:41:18.166325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:41:20.486325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "It's per hour.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:41:26.871400",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "So, oh, so it's gonna be 400 and some dollars to move the refrigerator.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:41:30.471400",
+      "type": "transcript"
+    },
+    {
+      "content": "Perfect.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:41:33.469325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "That's right, but however there's also a travel fee involved because spice would, is outside of a free service zone. The travel fee is $115.115 so the charges would be $208 per hour with the two movers plus $115 travel fee. And for the two and a half hour minimum we are looking a $635 including travel fee.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:41:37.669325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:41:44.886325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:41:49.086325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:41:52.726325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:41:59.926325",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "Oh, I didn't pay that much for the refrigerator.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:42:02.871400",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "Okay. Well, let's, I guess I'm gonna pass on that. That's yeah, I, I'll make other arrangements out there. I don't, I appreciate your time then. Okay, thank you.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:42:09.082400",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "support_issue_resolved",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:42:19.082400",
+      "type": "moment"
+    },
+    {
+      "content": "No problem, no worries. I'll still send you an estimate so you have a reference. Thank you, bye-bye.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T16:42:19.669325",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDivNS1kgsM",
+      "content": "Okay, thank you. Bye.",
+      "name": "Randy Kanak",
+      "time": "2026-09-18T16:42:26.271400",
+      "type": "transcript"
+    }
+  ]
+}

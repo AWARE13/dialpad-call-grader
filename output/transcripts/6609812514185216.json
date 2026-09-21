@@ -1,0 +1,887 @@
+{
+  "call_id": "4858588857147392",
+  "lines": [
+    {
+      "content": "Hello, good morning this is juline with Einstein moving. How can I help you today?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:26:29.659778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:26:29.659778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:26:29.659778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:26:29.659778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:26:29.659778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:26:29.659778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:26:29.659778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:26:31.692778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:26:32.332778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:26:33.372778",
+      "type": "custom_moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Hi! I need to move some stuff around inside storage. So I don't need a truck. I just need some dudes to come in help me with the heavy stuff, cause on my back is bad and I don't wanna miss my pickup anymore than it already is. So, so do you provide.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:26:36.167348",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "call_purpose",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:26:36.167348",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "negative_sentiment",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:26:36.167348",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "That kind of service, just the moving people. Oh, okay, yeah.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:27:10.648348",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, mm-hmm we can assist you with that. Just a headset though the truck will still be with the mover. Since first that's a motive transportation and second all the tools that we might need in doing this on move within the storage unit will be inside the truck. But you don't have to worry about any additional truck fee because there won't be any truck fee.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:27:14.059778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Oh, oh, okay, yeah, cause I don't wanna pay for the truck cause I'm not, I mean, other than I, you know, there's probably a fee for you guys to get to me. So what, so, I'm at the Public Storage at $1,800.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:27:42.167348",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:27:47.659778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "currency",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:28:04.888348",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "South Omar and I have two smaller storage units that are going inside a bigger storage unit that already have the contents of a storage unit in it. So I'm trying to get all three of them in that storage unit and I'm putting together some shelving before they come over to try to help with that and and you know, so that it'll go smoothly and you know I can organize things a little bit.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:28:07.448348",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "ner",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:28:07.448348",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:28:35.659778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "But that's kinda, that's what I'm looking for is a couple of dudes that can come, and carry all the heavy stuff.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:28:46.328348",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:28:46.459778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm okay, so just to clarify ma'am. Basically, you have three storage unit and you want to like, put them all in one storage.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:28:54.859778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Yeah, I had three storage units. My husband and I managed to wrangle one of them cause it wasn't his fall and it had less stuff that was, you know, super big and heavy but, and that stuff already in the big storage unit. But I have two other ones that I want to try to get out of their before the end of the month because you know in, into that larger storage unit because I'm trying to save money.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:29:04.967348",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:29:28.459778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm I understand what.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:29:38.659778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "So you know, over the long hall cause the bigger unit is much cheaper than the three smaller units together.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:29:39.688348",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm I see do you have any exact date on when you'd like to do this?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:29:48.259778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Yeah, so that's.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:29:51.167348",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Well, I was hoping maybe this coming Sunday, possibly.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:29:55.967348",
+      "type": "transcript"
+    },
+    {
+      "content": "This Sunday the thirteenth. Okay, let me check.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:30:05.059778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Yeah.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:30:10.967348",
+      "type": "transcript"
+    },
+    {
+      "content": "Well for Sunday in our north Austin branch we only have a few hours available in the afternoon.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:30:14.659778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:30:18.092778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "I was thinking that it might not be enough, but what is the size of your, of the small storage unit?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:30:25.172778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Enough time, yeah.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:30:29.567348",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "The two smaller units that needs to be moved are 1010 I think ones by ten by fourteen and the other one's ten by fifteen.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:30:34.367348",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "And they're about three quarters full. I mean, they're not up to the ceiling fall, but you know, two-thirds to three quarters full.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:30:46.967348",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:30:47.659778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm I see.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:30:53.059778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "And then, what's the size of the larger unit?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:31:00.259778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:31:00.732778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "And that?",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:31:00.767348",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "The larger unit that already has 110 by fifteen unit in it already is ten by 27.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:31:04.367348",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "But like I said it had a smaller amount of stuff. So my plan is I'm gonna move that, there's some on the second floor there's a unit on the second floor, I wanna move that all down first and then whatever we can get from the first floor unit in there, we will put in there and if we can get it all in there I'll be super happy if we can't get it all in there then I'm just gonna have to resy, you know what I'm gonna do on that end but I'm gonna just try to get the most out of it that I can, and that's why I'm putting the shelving units up because I thought if we can stack it vertically I'll get more in into that unit.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:31:17.128348",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "positive_sentiment",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:31:17.128348",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, so. Okay, but that again ma'am, this Sunday we're not available like, is your date still flexible? Would you like to do this on Monday?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:32:08.659778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "So.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:32:09.167348",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:32:14.972778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Yeah. Yeah. So, no, I can't, I can't do it during the week cause I'm working. Let me look at the, let me look at the following weekend.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:32:17.567348",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:32:24.859778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "August. Well no, we're out of August. We're in September, so I was thinking the thirteenth but maybe we could do it either the nineteenth or the twentieth. So, I could even well, right now let's not do that. We, I could probably do it the nineteenth or the 20th of February September. That's also possible.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:32:31.967348",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:32:32.059778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "date",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:32:57.328348",
+      "type": "moment"
+    },
+    {
+      "content": "Well, just to give you an idea ma'am it's actually cheaper if you're gonna book this on Sunday compare to a Saturday there will be like a mm-hmm. Alright, so let's do this on Sunday the twentieth let me create your profile here ma'am so we can personalize your estimate for this. May I know what's your first and last name, please?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:33:11.059778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Okay, that's fine. If it's cheaper. Yeah, not good with that. Yeah.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:33:20.567348",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:33:35.332778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Teresa Chavez. And we've used you before my husband I think has set things up before, yeah, under Joe Chavez, but.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:33:38.567348",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "ner",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:33:38.567348",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, I see.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:33:45.859778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "ner",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:33:50.048348",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:33:51.859778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Oh, it's actually good that you consider us for this move. Thank you for calling us about your move. And then let me just confirm, ma'am for the best phone number. Is it the one you're using right now? 775-771-9908.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:33:55.459778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Sure.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:34:02.567348",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:34:08.052778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "phone_number",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:34:09.572778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Correct.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:34:13.967348",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and may I also ask what's your email?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:34:15.259778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:34:17.012778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "JT Chavez @protonmail.com.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:34:19.967348",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "ner",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:34:21.848348",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "email_address",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:34:22.967348",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah.com okay, thank you.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:34:27.259778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "And again for the address of the storage unit is at 1800 South Lamar, Boulevard, 78704.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:34:38.059778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "address",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:34:41.772778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:34:41.772778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "postcode",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:34:44.172778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Correct.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:34:46.967348",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, thank you.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:34:48.259778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "It's the Public Storage there.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:34:49.367348",
+      "type": "transcript"
+    },
+    {
+      "content": "Let me Notate that here.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:34:53.059778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "And is this an indoor storage unit?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:35:05.059778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:35:08.372778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Yes, it's indoor and it's the unit the things are going into is right next to the front door, on the first floor. There's a storage unit further back on the first floor, it's 1144 it's like 65 feet from the front, from the door.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:35:11.567348",
+      "type": "transcript"
+    },
+    {
+      "content": "Like a time.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:35:12.259778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:35:25.459778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "But this new storage unit is right next to that door, and then there's another one upstairs on the second floor, it's kind of around the corner and I haven't measured how long it is from the elevator to getting back there, but since we're moving within I mean, I would assume this would just be based on time, the estimate. Yeah, okay, so that's kind of what I'm looking for. Is, is something based on time?",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:35:40.328348",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, it will be ma'am. Mm-hmm. Yes.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:36:03.859778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "So, just to confirm for the two smaller storage unit that is about ten by 151 is on the first floor and then the other one is on the second floor.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:36:17.659778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Yeah, and I my, I want to prioritize getting the second floor stuff down to the first floor, because if we can't get it all in, I'll keep the smaller unit, but I'll just use it to move things in and out of the bigger unit.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:36:28.367348",
+      "type": "transcript"
+    },
+    {
+      "content": "Uh-huh.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:36:29.659778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:36:35.659778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm. Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:36:39.859778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Okay. Alright, thank you.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:36:47.659778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Just give me a few seconds ma'am, let me just Notate everything here.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:36:53.659778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "And you've mentioned ma'am, that both smaller units are quarter full.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:37:04.459778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "The smaller units are about two-thirds full both of them, they're not stack to the ceiling.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:37:12.167348",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:37:19.459778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Okay, I just like to ask ma'am if there are anything heavy like over card equipment, a safe or maybe a piano.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:37:33.259778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "There's no, like, there's a couple of those large boxes that they use to move other boxes in and those are, those are full of boxes, but the boxes can be moved out and, and then, you know, big boxes put on a pallet and, and we, you know, everything put back in. Yeah.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:37:42.767348",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:37:52.459778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:38:03.859778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:38:06.859778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:38:09.859778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Then how about them anything valuable like our pieces or anti collections?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:38:13.459778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Yeah, I do have some art pieces but they're well wrapped already and and I have most of them already in the, most of those art pieces are already in the big unit because they came out of the one that I already emptied out. Yeah.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:38:19.367348",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Alright.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:38:24.859778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:38:38.059778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Uh-huh do we have to arrange the items from the larger unit, or once we move the items from the smaller.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:38:41.059778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "I'm gonna try to go and, yeah, I'm gonna try to go and do some of that, you know, before you guys come, I'm trying to kind of like, get it in sections like, books go here to get chinos here art, goes here, you know, that kind of stuff, so I'm trying to do some of that already, I'm trying to get it ready. So it'll be easy to organize. Absolutely, yeah, yeah, and like, I'm gonna put two shelves together this weekend. Too big heavy duty shelves that are going to be in there just so we can stack some stuff up.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:38:51.767348",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:38:57.859778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Uh-huh.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:39:07.459778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Uh-huh I see. Okay, ma'am, understood.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:39:14.059778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Uh-huh okay, ma'am.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:39:32.059778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Yeah, cause I don't want it to just be a big dumping ground. Yeah, I do, I yeah, I want to get it organized. Yeah, exactly.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:39:37.367348",
+      "type": "transcript"
+    },
+    {
+      "content": "We need to organize everything.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:39:41.059778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Alright ma'am, I think I got all the details I needed here now I just need to build your estimate on my system. Is it okay, ma'am if I'm gonna place the call on hold or would you prefer to receive a call back instead?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:39:48.859778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Okay.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:39:58.367348",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Yeah, you can just email it to me if you want and then I can look at it and decide if it's good for me and, and, you know, get back to you.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:40:03.767348",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm, I see, alright ma'am. Yeah I'll just send an email to JT Chaves @protonmail.com and I'll that email ma'am all the estimate details will be there and the pricing breakdown and yeah, if you're ready to book, just reply back to that email or give us a call.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:40:16.459778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "email_address",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:40:22.132778",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Okay.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:40:25.367348",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDr2Kiy_gsM",
+      "content": "Okay, okay. Alright, thank you so much. Alright. Okay. Okay, bye-bye.",
+      "name": "Theresa Chavez",
+      "time": "2026-09-09T14:40:34.967348",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:40:36.859778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "You're very welcome. I'll, we'll talk to you soon. Bye for now.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-09T14:40:39.859778",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    }
+  ]
+}

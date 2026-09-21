@@ -1,0 +1,81 @@
+{
+  "call_id": "6091465836503040",
+  "rep_name": "Joel Villatoro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 7.0,
+  "datetime_ct": "2026-09-19 18:35 CT",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "total_score": 47.7,
+  "mastery": false,
+  "save_your_ass_hit": false,
+  "meet_your_mover_hit": false,
+  "on_time_guarantee_hit": false,
+  "email_handoff_hit": false,
+  "agenda_opener_hit": false,
+  "section_scores": {
+    "set_the_agenda": {
+      "score": 3.5,
+      "max": 7
+    },
+    "probe_for_info": {
+      "score": 8,
+      "max": 9
+    },
+    "pricing_differentiators": {
+      "score": 12.5,
+      "max": 20
+    },
+    "clock": {
+      "score": 4,
+      "max": 4
+    },
+    "estimate": {
+      "score": 11.4,
+      "max": 13
+    },
+    "save_your_ass": {
+      "score": 0,
+      "max": 10
+    },
+    "quote_booking": {
+      "score": 1.6,
+      "max": 11
+    },
+    "politeness": {
+      "score": 1,
+      "max": 3
+    },
+    "bonus": {
+      "score": 5.7,
+      "max": 8
+    }
+  },
+  "items_missed": [
+    "No 'How are you today?' - straight into qualifying questions",
+    "Move date taken (October 9th) but availability never checked or confirmed",
+    "No agenda statement and no 'Sound good?' confirmation",
+    "Zip codes never confirmed; moving-stressors question never asked",
+    "Hourly rate given as a flat '$220 an hour' without the per-mover-per-hour framing",
+    "No Worries Damage Coverage never mentioned at all",
+    "Meet Your Mover never mentioned at all",
+    "On-Time Guarantee never mentioned at all",
+    "'No hidden fees' given as a bare statement, not the itemized pitch",
+    "Number of trucks never stated in the estimate (movers given, trucks omitted)",
+    "No equivalents/analogy to make the four-to-five-hour range land",
+    "Entire Save Your Ass prep speech absent - no prep-equals-shorter-move framing, no consolidation examples, no carload tip, no close",
+    "No attempt to set on schedule today; no deposit never mentioned",
+    "Customer explicitly asked for 'a full quote' sent to email and was never told a confirmation email was coming, what would be in it, or to reply with corrections",
+    "Business hours / how to reach us never given",
+    "Customer's name used only once, read back off her email address",
+    "No insurance explanation at all - neither No Worries nor the 60c/lb baseline",
+    "Customer's self-deprecating 'I'm not really helpful' drew no reassurance"
+  ],
+  "top_strength": "Joel's estimate is the strongest thing here, because he built it out of the actual job instead of a generic bedroom count. He narrated the variables straight into the number: 'We're loading up on the fifth floor potentially a long walk, just depends and then thirty minute drive and unloading all the bedroom, all the furniture, and the second floor let's just save the mover to take about four hours. We're looking into the total cost of $955 and then five hours is $1,175.' That is exactly the estimate-accuracy behavior the rubric is trying to build. He was also genuinely proactive on the logistics the customer could not have known to raise - she was confused about the parking garage, and rather than take her word for it he ruled it out with a real constraint ('we wouldn't be able to park the truck or get the truck through the parking garage or trucks about thirteen feet in height') and explained the workaround. His clock explanation was complete and clean, and the whole intake ran in about seven minutes.",
+  "coaching_note": "He skipped the entire differentiator block - No Worries Damage Coverage, Meet Your Mover, and the On-Time Guarantee all went unsaid - and that is 6 of the 8 points lost in Section 3 plus the insurance bonus. Compare it to his own Houston call twelve minutes earlier, where he delivered all three well; here the whole value pitch collapsed into 'We don't have any additional charges for your move, it's just the hourly rate.' That matters more than usual on this call: this was a referral ('A friend of mine moved her daughter into an apartment using you guys'), which is the easiest audience for the trust pitch, and at $220/hr with nothing else said, price is the only thing she has to compare. The second thing to fix is cheaper and faster - she apologized twice for not knowing details and said 'I'm not sure. Sorry, I'm not really helpful,' and he moved straight to the next question. One line of reassurance there costs nothing and is the difference between a transaction and a relationship. Note for context: the call drops mid-sentence after the quote ('Can you hear me okay?'), so the booking section never got a chance - but the differentiators normally come before the estimate and were already skipped by then.",
+  "phone_presence_score": 2,
+  "phone_presence_label": "Flat",
+  "phone_presence_notes": "Efficient and competent but almost entirely transactional - her name is used once while reading back an email address, there are no affirmations or empathy markers anywhere in seven minutes, and her two apologies for not knowing details were met with the next question rather than any reassurance.",
+  "audio_review_flag": true,
+  "audio_review_reason": "Score of 2 needs verification that this is genuinely flat delivery rather than a sparse transcript - the customer's turns are largely monosyllabic ('Okay,' 'Yes,' 'No') and the call terminates mid-exchange on an audio failure ('Sorry? Hello?' / 'Can you hear me okay?'), so it is unclear how much of the low-warmth read is the rep and how much is a degrading connection. That also determines whether the missing differentiators were a skip or were cut off by the drop."
+}

@@ -1,0 +1,838 @@
+{
+  "call_id": "6296901050212352",
+  "lines": [
+    {
+      "content": "Hello, good morning, this is Jeff with Einstein, how can I help?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:45:41.636916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:45:41.636916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:45:41.636916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:45:41.636916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:45:41.636916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:45:41.636916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:45:43.322916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:45:44.082916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:45:44.842916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Hi Jody! This is Sarah. I'm just kind of scoping out a good mover for my parents who are going to be moving probably in the beginning of November locally from north side of Austin to fifth wood.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:45:45.862716",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "call_purpose",
+      "name": "Sarah",
+      "time": "2026-09-11T16:45:45.862716",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "ner",
+      "name": "Sarah",
+      "time": "2026-09-11T16:45:46.868716",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "contact_name",
+      "name": "Sarah",
+      "time": "2026-09-11T16:45:48.068716",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "ner",
+      "name": "Sarah",
+      "time": "2026-09-11T16:45:48.068716",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:45:57.236916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "ner",
+      "name": "Sarah",
+      "time": "2026-09-11T16:45:59.068716",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, well we can definitely help you with that Sarah and especially that you are doing it for your parents. So you know we'll make sure that this is going to be an easy and less stress remove, okay, so.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:46:01.436916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:46:04.642916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Are you, are you locally based company? Or are you like national or what? How?",
+      "name": "Sarah",
+      "time": "2026-09-11T16:46:16.462716",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "question",
+      "name": "Sarah",
+      "time": "2026-09-11T16:46:16.462716",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. Well, I am actually off shore from offshore, but then we're directly hired by Einstein to do the calling stuff like the customer service.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:46:22.436916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:46:29.722916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Okay. Is Ian wide com company or a local, local Austin company?",
+      "name": "Sarah",
+      "time": "2026-09-11T16:46:32.062716",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "ner",
+      "name": "Sarah",
+      "time": "2026-09-11T16:46:33.468716",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "ner",
+      "name": "Sarah",
+      "time": "2026-09-11T16:46:37.388716",
+      "type": "moment"
+    },
+    {
+      "content": "It's local Austin company so within Texas.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:46:37.436916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:46:39.082916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Okay, okay, okay.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:46:40.462716",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:46:41.242916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Okay. Alright. So just to confirm, that's gonna be by November 1st.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:46:43.436916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "date",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:46:48.042916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Well, we don't really know a date yet so I'm mostly just calling at this point to get general information. So one of the things I would want to know is how much notice you need in terms for, for booking.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:46:49.462716",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, not a problem.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:46:55.436916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Well, actually a day before. Okay, you can go ahead and reschedule but of course, if it's going to be earlier then we can go ahead and check for an available schedule to your preferred date. So, but for now.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:47:03.836916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "So usually like a week or two your, there's plenty of notice cause I just don't know a date yet.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:47:15.862716",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:47:16.602916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "That's right.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:47:20.636916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Okay, sure, so but for the meantime, we can go ahead and select Sunday November 1st, okay? Alright.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:47:23.636916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "date",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:47:28.122916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "And how do you quote it?",
+      "name": "Sarah",
+      "time": "2026-09-11T16:47:30.862716",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "question",
+      "name": "Sarah",
+      "time": "2026-09-11T16:47:32.148716",
+      "type": "moment"
+    },
+    {
+      "content": "We quote based on the information provided like, you know, the pickup and the drop-off locations and then also the inventory, the size of the house or an apartment.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:47:34.436916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Mm-hmm.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:47:41.662716",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Do you come in person to look or do you just, have us explain it?",
+      "name": "Sarah",
+      "time": "2026-09-11T16:47:48.262716",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "question",
+      "name": "Sarah",
+      "time": "2026-09-11T16:47:48.262716",
+      "type": "moment"
+    },
+    {
+      "content": "We'll explain it over the phone and you know, after you providing details to us.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:47:53.036916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Okay, okay.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:47:58.462716",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, but what type of move is this, is it, is it going to be to be from a house to an apartment house to house and I see so may I know the size of the house, please? Like the pickup location house.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:48:00.836916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:48:01.802916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Yeah, from my house, to a house, yeah, two houses one.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:48:06.262716",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "I don't know, like 2500 square feet, more or less.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:48:17.062716",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. So, for the type of Houseright we considered it as large move already and a virtual walkthrough is needed. So it's like, it's like a conference call so that we can go ahead and get a glance of the furniture and then things out inside the house. Okay, so for now let's create mm-hmm oh, go ahead.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:48:21.836916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Mm-hmm.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:48:28.462716",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Okay.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:48:33.862716",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Okay, okay, that makes sense. Okay, and then can I ask about your insurance like how does that work like is there a per item insurance coverage Max or how what do we need to know about that?",
+      "name": "Sarah",
+      "time": "2026-09-11T16:48:39.262716",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "question",
+      "name": "Sarah",
+      "time": "2026-09-11T16:48:45.262716",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "ner",
+      "name": "Sarah",
+      "time": "2026-09-11T16:48:53.588716",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, okay, that's a good question. So for the coverage that we have it's, you know, we cover-up to $2,000 per move to repair, replace or reimburse for accidental damages. So usually $2.002 million actually.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:48:54.236916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:49:02.842916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "You said 4000.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:49:09.262716",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:49:12.442916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Sure, up to $2,000 per move, okay.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:49:13.462716",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "currency",
+      "name": "Sarah",
+      "time": "2026-09-11T16:49:16.868716",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah. Yeah, actually, other com, our competitors they will charge extra for it but then with us, it's included in the hourly rates, so yeah, that's, you know, one of the different Shas that we have comparing to others the $2,000 up to $2,000 for the coverage.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:49:18.836916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Okay.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:49:35.662716",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:49:36.042916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:49:37.042916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "And then is it, is there a per item maximum?",
+      "name": "Sarah",
+      "time": "2026-09-11T16:49:41.062716",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:49:41.636916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "question",
+      "name": "Sarah",
+      "time": "2026-09-11T16:49:41.708716",
+      "type": "moment"
+    },
+    {
+      "content": "It's per move. So, this is for all.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:49:44.636916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "For move, there's no per so if all of that was on one item it wouldn't, there's no, it doesn't matter like there, there's no per item limit. Okay.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:49:47.062716",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:49:51.882916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "That's correct, that's correct.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:49:54.236916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "No, per item. Okay. Okay. So but yeah, basically you know, we are offering this because we save a lot in terms of you know, covering damages. Because our crew carefully packs and transports everything. So you know, they are well trained and well vetted and yeah, that's why we can provide up to $2,000.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:49:58.436916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Okay.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:50:00.262716",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:50:23.162916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Okay.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:50:24.862716",
+      "type": "transcript"
+    },
+    {
+      "content": "So that's why we're able to offer this, okay? Because of strong performance and professional use of our movers. So, okay. And yeah, for now, for the early rate, okay? Right now, I'll be able to help you create a profile and then afterwards I'll be endorsing the profile to a large move specialist and they will be calling you back, okay? Will that work for you? Okay.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:50:25.122916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Okay.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:50:31.462716",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Okay, I think I'm gonna hit the pause button because it's really got to be done by my parents. I'm just kind of doing the preliminary research. I wanted to give them a couple of movers to recommend and you would be one of them but I'm not the one to answer any of the questions. So but you've done what I needed which is to give me all the information to share with them. And I appreciate that. Thank you.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:50:49.462716",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:51:02.036916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "positive_sentiment",
+      "name": "Sarah",
+      "time": "2026-09-11T16:51:11.548716",
+      "type": "moment"
+    },
+    {
+      "content": "And I can also give you the early rate if you want to for November. So, you can go ahead and re, I'd like the early rate cause you don't have the pricing information yet, right? So, yeah, for us you know, for November, for weekdays like from Monday to Thursday. We charge an early rate of $190. Hold on, let me check this is in Austin area, north Austin.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:51:12.836916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:51:15.882916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "The what?",
+      "name": "Sarah",
+      "time": "2026-09-11T16:51:18.262716",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:51:20.682916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Right.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:51:23.662716",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:51:30.802916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:51:33.082916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:51:34.962916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:51:38.122916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:51:40.162916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "It's north Austin is where they're picking up and moving to south Austin. Or they're moving to driftwood which is south of south Austin.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:51:41.662716",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "ner",
+      "name": "Sarah",
+      "time": "2026-09-11T16:51:42.148716",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "ner",
+      "name": "Sarah",
+      "time": "2026-09-11T16:51:44.268716",
+      "type": "moment"
+    },
+    {
+      "content": "Let's see.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:51:45.836916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "ner",
+      "name": "Sarah",
+      "time": "2026-09-11T16:51:47.868716",
+      "type": "moment"
+    },
+    {
+      "content": "So, okay, the earlier rate for south Austin for weekdays is $208 per hour per two movers.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:51:50.036916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:51:52.962916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:51:55.442916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Okay, or hour.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:52:02.062716",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and then for weekend. Yeah, yeah, for weekend, like Friday, for Friday and Saturday that's $222 per hour per two movers.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:52:03.236916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:52:11.722916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Okay, 220.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:52:16.462716",
+      "type": "transcript"
+    },
+    {
+      "content": "222.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:52:19.436916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "The 22222. Okay.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:52:21.262716",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and on Sunday $210 hourly rate.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:52:24.236916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:52:26.962916",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "So that the 222 was for Saturday.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:52:29.662716",
+      "type": "transcript"
+    },
+    {
+      "content": "Friday and Saturday.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:52:32.636916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Okay, I see. Alright.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:52:35.062716",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Saturday and then 2:10 for Sunday.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:52:39.262716",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "time",
+      "name": "Sarah",
+      "time": "2026-09-11T16:52:42.588716",
+      "type": "moment"
+    },
+    {
+      "content": "Yup, that's right.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:52:44.036916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "Okay, got it. Alright, thank you, thank you for all your time, I appreciate it. Alright, have a good day. Mm-hmm, bye-bye.",
+      "name": "Sarah",
+      "time": "2026-09-11T16:52:45.262716",
+      "type": "transcript"
+    },
+    {
+      "content": "You're welcome. You too. Thank you for calling, bye-bye.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-11T16:52:48.236916",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "support_issue_resolved",
+      "name": "Sarah",
+      "time": "2026-09-11T16:52:49.148716",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCiyrKLkQkM",
+      "content": "positive_sentiment",
+      "name": "Sarah",
+      "time": "2026-09-11T16:52:49.228716",
+      "type": "moment"
+    }
+  ]
+}

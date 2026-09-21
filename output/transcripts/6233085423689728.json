@@ -1,0 +1,957 @@
+{
+  "call_id": "4876146005549056",
+  "lines": [
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Okay.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:33:17.695221",
+      "type": "transcript"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:33:17.695350",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Good afternoon, this is Joanna. How can I help?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:33:21.784350",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:33:21.784350",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:33:21.784350",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:33:21.784350",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:33:21.784350",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:33:23.674350",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:33:24.434350",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Hi Joanna I'm calling back because I got a call from you guys earlier regarding a quote for my upcoming move. Yeah, so, I got, yeah, I wasn't sure what kind of information you needed or.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:33:24.895221",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "call_purpose",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:33:24.895221",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "ner",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:33:26.701221",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:33:36.184350",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, no worries. I'll check it out for you. Can you just verify your email address, please.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:33:42.784350",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "It's M-C-L-A-L-O-N-D-E @gmail.com.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:33:49.495221",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "pii",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:33:50.141221",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "email_address",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:33:53.341221",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you so much just bear with me one moment here.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:33:55.384350",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Let's see.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:34:02.584350",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "One second. Alright, yeah, so this move Maria just need to ask you some questions about it in order for us to give you a more personalized estimate, okay? In terms of the date you're moving, you're planning to do it on the fifteenth which is a Tuesday. Is that correct?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:34:11.584350",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:34:11.584350",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:34:17.154350",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Okay.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:34:24.295221",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:34:29.914350",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Yes, but I am actually not a hundred percent certain because I'm closing on a condo and it's like, the closing date is still a little bit up in the air, so, yeah, I wasn't sure if I need to, like, just wait until the date is confirmed or.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:34:30.895221",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm. Oh.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:34:43.384350",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm okay, that's perfectly fine. Actually. If this is already the date that it's pretty much gonna happen on this day, that's okay. If everything works out for you with the pricing and all that, we can definitely get you that spot now. If you need to make changes later all you have to do is just give us a call, okay?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:34:52.384350",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:34:55.714350",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:35:03.034350",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Okay, yeah, how much notice do we need again?",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:35:11.095221",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, of course. Just as soon as possible, honestly, a day before, if you really, it's just a short notice you just figure it out a day before then just, you know, give us a call. But of course as soon as you know already the new date just let us know. That way we can also check if they're still unavailability on your new date as well.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:35:12.184350",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:35:20.194350",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:35:23.234350",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "I gotcha. Okay. That sounds good.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:35:35.695221",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, alright. Okay, now the address where we're coming from is 223 night Ramo circle and then you're moving 21720 timber ridge road. So both our, so we're coming from a one bedroom apartment on the second floor with stairs no elevators. And then the condo as you have mentioned which is a two bedroom second floor as well same things there's no elevators, is that right?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:35:36.784350",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Mm-hmm.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:35:51.295221",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Yeah. Yeah, that sounds all correct.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:36:03.295221",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Alright. No. Alright. Ness, we're just moving a bedroom a one bedroom. Word of bottoms and since we're doing the stairs as well would you mind giving me, giving me a list of everything we're moving per room. Should be okay, like what's in the bedroom and the living room so we have a better idea as well.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:36:04.984350",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "You mean like individual furniture. Or I got.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:36:24.295221",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes ma'am. Like in the bedroom do we have the bed dresser? Yup, just typical.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:36:29.870808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:36:33.041808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Yeah, so there's a bed, there's a vanity, there's a I guess some art.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:36:35.695221",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "And in the main, in the living room there's like a couch. Our two couches a desk and like a shoe rack.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:36:50.695221",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:36:56.270808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:36:59.270808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:37:04.070808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "And then I think that's all the major furniture.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:37:05.695221",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm okay. How many outwork are we looking at?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:37:11.870808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "How many? Sorry?",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:37:17.695221",
+      "type": "transcript"
+    },
+    {
+      "content": "Our works are. How many artworks are we looking at?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:37:19.670808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Oh, about two pieces.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:37:23.095221",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, no problem. That's fine and how about dining set table, anything in the kitchen, if you have a balcony outside furniture as well garage, anything of that sort.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:37:27.470808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "I have an inch chair. Let's see, I guess.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:37:39.895221",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "You know, I think that's it.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:37:50.095221",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, no problem. Do you need help with packing or are you planning to pack all the boxes yourself?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:37:52.070808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:37:53.641808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Yes, I would need packing.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:37:58.495221",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, no problem. Do you need help like packing the whole apartment or just the kitchen or basically everything? The close as well? Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:38:02.870808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:38:04.561808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Yeah. Yeah, so, so the full apartment if possible.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:38:09.295221",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm that's perfectly fine. Typically packing usually takes the same amount of time as the moving but I'll explain that further later as we get into the details of the pricing. But do you have any collections, books, records, or anything out, outside of a typical one bedroom worth the bottom, so one bedroom, apartment.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:38:15.470808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:38:16.481808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:38:19.601808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Mm-hmm.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:38:22.495221",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Okay.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:38:27.295221",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:38:30.761808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "I guess I have booked. Yeah, book, I'm not sure. I mean that's just one.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:38:37.495221",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:38:40.670808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Sure, how many bookshop worth?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:38:43.670808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:38:47.961808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, that's perfectly fine. Alright, and let's see okay, in terms of those items you've told me. I don't think we have anything \u00a3300, which is pretty much our when doing stairs. Now I just wanna confirm the parking from where we can park to the stairs at the ground floor how far are you walking? One school bus is about thirty to forty feet, is it just within that distance?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:38:49.670808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:38:59.281808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:39:05.401808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Yeah, yeah, I even say that about around there. Yeah, it's pretty close to the parking lot.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:39:17.095221",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:39:19.070808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay. That's good and once we get to the second floor to your door, is it about the same distance as well or a little bit longer?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:39:21.470808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Yeah, I think about the same distance.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:39:31.495221",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Alright, that should help. Thank you so much and once everything's packed, do you think you'll have more than 25 boxes. That's pretty much a typical for a one bedroom. But do you think you'll have more?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:39:34.670808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:39:40.881808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Oh, no. I don't think so.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:39:46.495221",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, perfect and then after that we'll just bring everything to your condo the same thing in terms of parking walking distance, is it pretty much just the same range or a little bit further or shorter in terms of walking?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:39:50.870808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:39:58.761808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Yeah, I think it's about the same, maybe like slightly longer but like, but yeah, not, not bad.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:40:03.895221",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, no problem that's fine. Do you have any special instructions can dressers about moving in general that you want me to take this time?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:40:13.070808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Yeah.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:40:14.695221",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:40:15.921808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "No, I guess there's might be there's some new, there's an existing furniture already at the condo. So I guess, yeah, just kind of move around those if that's possible.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:40:24.295221",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, of course, where you want them to be, that's perfectly fine. So with that being said, of course let me just explain to you how our pricing and our hourly rate works as well. So we do charge by the hour for all of the services. Now I know that this date may, may change. So just setting expectations that the hourly rate depends on the day that you're moving. If it's just from Sunday to Thursday, this are cheaper hourly rates for the week. But in case you need to move to a Friday to a Saturday, those are a regular rates. So, the difference in terms of pricing is that if we're doing it from Sunday to Monday, it's $104 per hour per mover or on Sunday.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:40:37.070808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:41:19.041808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:41:21.561808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "$205. So basically just $1 per hour, but if it's on a Friday or Saturday, it goes up to $111 per hour per mover. So it might just say, depending on the date, okay, I'll just quote you for that Tuesday job. So that, again, that's $104 per hour. That's for two men. For, I mean, for two men is $208 per hour. What's good about our price, Maria, it's all inclusive rates, everything we need is already in that price, so that's already with the two men and the truck, all the wraps are protect your items, your furniture. If you need help with this assembly, reassembly taxes, insurance, transportation fees, all of that is in the price. The only thing outside of the hourly rate would be the packing supplies. Typically for one bedroom apartment we usually end up using and $89.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:41:23.270808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:41:23.270808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:41:24.961808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:41:28.721808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:41:41.281808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:41:46.841808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Mm-hmm.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:41:48.895221",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:41:51.041808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:42:00.201808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:42:20.521808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Packing supplies but of course you only pay for what we use. Okay. Now we also include there's like our no worries damage coverage. Which would give you up to $2,000 coverage for any repair replacement reimbursement for any accident damages. Also meet your mover feature. Rest assured we don't take daily contractor workers. Our guys are the most twelve data movers in the industry. We send you their names ahead of time to let you know who's coming to help out with the move and lastly on time guarantee.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:42:22.070808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:42:35.841808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:42:35.921808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "If we run late on the time, we schedule, we provide discounts by the end of the day. Again, no hidden fees of any type, no credit card fees, no steri fees, no transportation fees, all covered by hourly rate. As 4:00 Maria we will only start the time once we arrive at your current apartment and open the contract for you. You can have us for as long as you need us, and for any move there's just a two and a half hour minimum. If we minimum we only charge in fifteen minute increments. Does that make sense?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:43:00.470808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "time",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:43:15.201808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:43:16.001808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:43:33.561808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:43:34.841808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Yes, I think so.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:43:36.895221",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Oh, okay so yup. Basically the shorter the move, the lower the cough at the end of the day. Now, typically for a one bedroom apartment, usually it can take two and a half to three and a half hours to complete. In your case with this amount of furniture. Basically, if we don't have the packing, I'm just really estimating it more within the minimum hours. Probably, just depending on, of course, the stair access as well and how much stuff we need to move around for you. But since we are including some packing service for this job right now, I'm just estimating it more than the six and a half to seven and a half hour mark. Again if how organized we're on the day if it's just lesser items to pack as well everything's, you know, very straightforward than the shorter the move is gonna be then the lower the cost, okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:43:39.470808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:43:53.081808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:43:56.361808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "I'm kidding okay.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:44:33.895221",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. So if the guys would be able to finish everything within six and a half hours to an estimated budget of $15,417 and a half hours is $1,749, but again, this is for packing and moving, including the packing surprises or estimate.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:44:35.270808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:44:42.401808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:44:46.561808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Okay, great. Yeah, so that 22 hour limit you sent that two and a half that includes packing, right? So, so like, no it's not just moving, I guess like the packing.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:44:54.295221",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:44:55.670808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Two and a half.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:45:02.270808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Yes, ma'am. So that's right. So if we or if you are interested with the packing and the moving once we arrive there, we will start packing first. So the time the minimum already starts. So, if the guys would be able to, you know, after the two and a half hour minimum is meant, we only charge in every fifteen minutes until everything is complete, the packing and the moving and the unloading, and that's everything you have to pay.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:45:12.470808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Mm-hmm.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:45:22.495221",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Okay. Okay. Yeah, I think that makes sense.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:45:39.295221",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Now as I mentioned, if you are ready to go ahead with booking it on the fifteenth I can definitely do that, get you that spot already. We don't take deposits at this time, no risk and securing a spot. So if you need to change the date later all you have to do is just give us a call.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:45:44.270808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:45:45.881808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Okay. Yeah, are you able to like, send me a summary of all these rates?",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:46:00.895221",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "question",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:46:04.141221",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, ma'am, definitely I can definitely do that for this one. I'll just include the packing portion as well and then eventually if ever you end up doing the packing yourself, then just let us know then we'll just quote you for the moving. Okay?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:46:08.270808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Okay, great.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:46:21.895221",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. Do you have any other questions or concerns about this move or any, any other questions so far?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:46:23.870808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:46:25.001808",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "No, I don't think so.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:46:32.095221",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, alright, so I'll go ahead and send everything in the email after our call, okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:46:35.870808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "Alright, great. Thank you so much.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:46:41.695221",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "positive_sentiment",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:46:42.821221",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, thanks so much and have a good day. Okay, bye!",
+      "name": "Joanna Ballon",
+      "time": "2026-09-10T18:46:43.070808",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-I2L1AkM",
+      "content": "You too, bye.",
+      "name": "Maria Lalonde",
+      "time": "2026-09-10T18:46:46.495221",
+      "type": "transcript"
+    }
+  ]
+}

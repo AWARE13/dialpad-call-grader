@@ -1,0 +1,495 @@
+{
+  "call_id": "5668171647852544",
+  "lines": [
+    {
+      "content": "This is Chris with Einstein Moving Company. How can I help you?",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:48:38.506097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:48:38.506097",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:48:38.506097",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:48:38.506097",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:48:38.506097",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:48:38.506097",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:48:38.506097",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:48:39.433097",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:48:39.633097",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:48:40.793097",
+      "type": "custom_moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "Hi, this is Nina I scheduled a move for next Tuesday at between 12:00 and two but the thing is that it just doesn't work with my client. She has another appointment.",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:48:42.087610",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "call_purpose",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:48:42.087610",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "contact_name",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:48:44.191610",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "ner",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:48:44.191610",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:48:48.106097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "time",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:48:50.191610",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "support_defective",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:48:52.311610",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, let me get this pulled up real quick.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:48:56.506097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "Can you ask her about Thursday?",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:49:15.087610",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "question",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:49:15.087610",
+      "type": "moment"
+    },
+    {
+      "content": "And then Nina, was this upcoming move booked under your name or your client's name?",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:49:21.106097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:49:21.913097",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "Oh, no. What's?",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:49:22.287610",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "It, oh, I'm so sorry. It might be under Ponti Emory.",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:49:27.087610",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, let me see.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:49:31.306097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "And it was for Tuesday, the twenty second.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:49:37.906097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "Yes, I just wanted to double-check there's like no availability at on Monday, correct?",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:49:40.887610",
+      "type": "transcript"
+    },
+    {
+      "content": "Let me double-check.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:49:47.506097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Looks like south Austin is fully booked up.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:49:52.306097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:49:54.793097",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "And what about for Wednesday?",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:50:00.087610",
+      "type": "transcript"
+    },
+    {
+      "content": "And no.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:50:01.306097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "And what? Sorry, one second actually, yeah, Monday the twenty first it actually does look like we have an opening.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:50:04.306097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "Oh, perfect. At what time?",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:50:12.687610",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "positive_sentiment",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:50:12.687610",
+      "type": "moment"
+    },
+    {
+      "content": "I mean we could do in the morning or afternoon at this point.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:50:15.106097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "We can do the or I mean the afternoon.",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:50:21.687610",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, gotcha. And then I'm sorry, I'm having trouble finding the booking on Tuesday. What was that clients name again that it could be under?",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:50:27.706097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:50:27.706097",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:50:33.113097",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "Pony Emory P-O-N-I-E-M-E-R-Y.",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:50:36.687610",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:50:38.506097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Just take a look for more time and you said it was originally booked in the afternoon, correct?",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:50:45.106097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "Yes.",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:50:51.687610",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "I'm trying to see if maybe the email that has anything.",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:50:56.487610",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "Yeah.",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:51:22.887610",
+      "type": "transcript"
+    },
+    {
+      "content": "Let's see. Oh, okay. There we go. I got it now. Sorry about that. Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:51:40.306097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Empathy",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:51:44.113097",
+      "type": "custom_moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "Thank you.",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:51:52.887610",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. So I got this rescheduled to the twenty first and then I would, I kind of updated the estimate since we got some new information at the end of the day, you only pay for the time utilize but with there being multiple beds coming from the apartment and the rest items you listed plus the storage stop. I was playing it safe by increasing the estimate to six hours. Is there any way we can get a more like, in-depth inventory list just to make sure nothing's missed.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:52:00.106097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "Sure, I also had emailed ii, movers with all of the information as like in regards to the move. It was mostly like a couch, the TV person boxes with personal items. Around ten to fifteen boxes and.",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:52:33.687610",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:52:34.306097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "And I guess how many beds specifically?",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:52:51.706097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "Beds one queen bed and maybe like two twins.",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:52:57.087610",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and then it need like night stands coffee table side tables.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:53:10.306097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "No.",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:53:16.287610",
+      "type": "transcript"
+    },
+    {
+      "content": "And then the dining room table and chairs.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:53:19.306097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "No, I don't, I don't think so.",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:53:22.887610",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. So yeah, let me adjust that. I don't think it's gonna be the six hours, I was just being overly cautious.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:53:28.306097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Alright. See on the twenty first we could do at 12:00 to 22 o'clock window if that works for you.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:53:53.506097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "time",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:53:57.433097",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "Yes, that works.",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:54:01.287610",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, alright, well I will go ahead and shoot you over a move confirmation but we look forward to seeing you this coming up Monday the twenty first in the afternoon.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:54:02.506097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "action_item",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:54:04.433097",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "It's okay, thank you so much.",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:54:11.487610",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "positive_sentiment",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:54:13.071610",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "support_issue_resolved",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:54:13.071610",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, you're very welcome. I'll send over a move confirmation now.",
+      "name": "Chris Anderson",
+      "time": "2026-09-18T14:54:13.906097",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "Okay, perfect thank you bye.",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:54:18.087610",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi4M6zlAkM",
+      "content": "positive_sentiment",
+      "name": "Nina Zamarripa",
+      "time": "2026-09-18T14:54:18.087610",
+      "type": "moment"
+    }
+  ]
+}

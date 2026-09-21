@@ -1,0 +1,523 @@
+{
+  "call_id": "6148469232803840",
+  "lines": [
+    {
+      "content": "Moving this is Bree. How may I help you?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:34:58.067803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:34:58.067803",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:34:58.067803",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:34:58.067803",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:34:58.067803",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:34:58.067803",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:34:59.594803",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "I am looking for a quote to move within Austin, it's an apartment.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:35:02.345311",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "call_purpose",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:35:02.345311",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "ner",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:35:07.273311",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, absolutely. Let's get you quoted. Let's start with a few questions to get us on the right track. That should take about five to ten minutes and then we'll be able to build you an accurate quote. Sound good.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:35:09.467803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Yup.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:35:20.945311",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and you said south Austin.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:35:22.067803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:35:23.194803",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Mm-hmm.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:35:25.145311",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "2000 to you and it's considered riverside. It's about fifteen minute drive right by 835.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:35:27.545311",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:35:34.667803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Okay, perfect and what date are you looking to secure for your move?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:35:38.267803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:35:40.194803",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "September 30th.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:35:44.345311",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "date",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:35:44.345311",
+      "type": "moment"
+    },
+    {
+      "content": "And that is a Wednesday.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:35:51.467803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "It is a Wednesday, yes.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:35:53.945311",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, perfect. I do have availability on that day and then may I get your first and last name?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:35:55.667803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "She S-H-I-L-P-A last name is in F-I-N-S-I-N-G-L-A.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:36:04.145311",
+      "type": "transcript"
+    },
+    {
+      "content": "And then your last name.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:36:08.267803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "And then this is a good number to contact you at 847-687-2943.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:36:15.467803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "phone_number",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:36:18.154803",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Yes.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:36:22.745311",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Perfect, and then no need to take notes, I can email all this information over to you. Is there a good email for you?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:36:23.867803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:36:27.434803",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:36:29.834803",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "It's my first name.my last name @gmail.com.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:36:32.345311",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "email_address",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:36:34.833311",
+      "type": "moment"
+    },
+    {
+      "content": "And how did you hear about us?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:36:46.067803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:36:46.474803",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Google.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:36:49.145311",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Actually, sorry, not Google. Yup, the very specific.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:36:52.145311",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "ner",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:36:53.873311",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, that's okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:36:55.067803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Alright. And then do you have any questions or concerns specifically that you want answered on this call?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:37:00.467803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:37:04.354803",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Oh, and trying to figure out the difference between if you get, like, you know, if we use a labor only price versus getting our own truck and.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:37:11.945311",
+      "type": "transcript"
+    },
+    {
+      "content": "Understood. Our labor comes with it, so our labor comes with a 26 foot box truck. Everything is included in our hourly rate, so the cast, the gas in, excuse me, the gas and the truck, the insurance and taxes. All rat bands and pads, to protect your furniture when moving. And then all tools for disassemble and resemble furniture appliances. So just so you know, like everything's included, you're more than welcome just to use this for labor as well. But he can not load, third party trucks. We can unload them. So if you have someone else load it, we can unload the U-Haul or whatever truck you decide to use. But we can't load, load it for liability reasons.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:37:27.467803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Or I should say getting around mm-hmm.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:37:27.545311",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Okay.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:37:36.545311",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Okay.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:38:01.145311",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Okay, got it.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:38:11.945311",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. And then what is the first location that we are picking you up address?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:38:13.667803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Actually, before we move on, can you tell me how much is the hourly rate?",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:38:18.545311",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "question",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:38:21.713311",
+      "type": "moment"
+    },
+    {
+      "content": "Yes.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:38:25.067803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "So for Wednesday, September 30th, 2026 it is $208 for two movers and 126 foot box truck. And then just keeping in mind that everything's included in that we don't have any credit card fees. There's no deposit to get on our schedule. We do have a two and a half hour minimum.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:38:28.067803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "date",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:38:29.994803",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "currency",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:38:33.154803",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Two and a half minimum that would make it.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:38:52.745311",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Let's say 200.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:39:01.745311",
+      "type": "transcript"
+    },
+    {
+      "content": "52520.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:39:02.867803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "5:20 for two and a half hours.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:39:09.545311",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "time",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:39:09.545311",
+      "type": "moment"
+    },
+    {
+      "content": "Yes ma'am.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:39:11.867803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Yeah, this is going after it says we over our address.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:39:14.945311",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, not a problem. I can go ahead and email you over just with the information that I have and then if you change your mind just let us know.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:39:20.867803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:39:22.714803",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Thank you.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:39:31.145311",
+      "type": "transcript"
+    },
+    {
+      "content": "Of course, bye-bye.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:39:32.267803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Can I ask you a question?",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:39:34.145311",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "question",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:39:34.145311",
+      "type": "moment"
+    },
+    {
+      "content": "Of course.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:39:35.867803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Wait, did I see it as I close the window? Never mind. I thought I saw the price like a little bit about that. It's okay to mind. Thank you.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:39:40.745311",
+      "type": "transcript"
+    },
+    {
+      "content": "Of course. Let me see you said Wednesday. Yup, those are one of our better value days, so that is, that would be more expensive on the weekends.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:39:52.067803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "Okay, got it. Okay, thank you.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:39:59.945311",
+      "type": "transcript"
+    },
+    {
+      "content": "Awesome, thank you have a good day.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-10T16:40:02.267803",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi5LbI_gsM",
+      "content": "You too.",
+      "name": "Singla Shilpa",
+      "time": "2026-09-10T16:40:04.745311",
+      "type": "transcript"
+    }
+  ]
+}

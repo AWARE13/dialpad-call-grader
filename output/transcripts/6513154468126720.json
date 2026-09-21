@@ -1,0 +1,411 @@
+{
+  "call_id": "5773868173139968",
+  "lines": [
+    {
+      "content": "Hello, good morning this is juline with Einstein moving. How can I help you today?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:57:46.545833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:57:46.545833",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:57:46.545833",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:57:46.545833",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:57:46.545833",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:57:46.545833",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:57:49.117833",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:57:49.917833",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:57:50.917833",
+      "type": "custom_moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "Yeah, I want to get a quote for how much it would cost to move our stuff.",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T16:57:53.076331",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "call_purpose",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T16:57:53.076331",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:58:00.945833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Okay. Ma'am, when are you planning to move? So I can check first the availability?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:58:04.545833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:58:06.077833",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "Sometime this week.",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T16:58:09.876331",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Are removing you off from an apartment or a house?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:58:13.545833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "It's an office building.",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T16:58:18.276331",
+      "type": "transcript"
+    },
+    {
+      "content": "Office, okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:58:21.345833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "We do have availability tomorrow. So there's a chance we can accommodate you like, are you ready to move out tomorrow or you need more time?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:58:31.545833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "We were thinking Thursday if possible.",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T16:58:41.076331",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, Thursday.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:58:44.145833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "Yeah, Thursday.",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T16:58:46.476331",
+      "type": "transcript"
+    },
+    {
+      "content": "We only have afternoon available on that day. So if we're only moving like few items, then we can possibly accommodate you. But then if not next available.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:58:50.145833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "No, we're.",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T16:59:00.876331",
+      "type": "transcript"
+    },
+    {
+      "content": "I'm sorry ma'am please continue.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:59:05.745833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "I was gonna say no, we'll definitely need a full day because this is a 12000 square foot office, so we we're moving like the whole office into a storage unit. So we're gonna definitely need a full day as a minimum.",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T16:59:08.076331",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:59:12.945833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "I see. Okay, ma'am, let me check. What is the zip code of the office.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:59:21.345833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "Zip code is 78741.",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T16:59:30.276331",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "postcode",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T16:59:31.406331",
+      "type": "moment"
+    },
+    {
+      "content": "78741 okay, ma'am. Let me just check our neighboring branch like, the north Austin to see if they have availability on Thursday.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:59:33.945833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T16:59:39.277833",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "Okay, perfect. Okay.",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T16:59:43.476331",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "positive_sentiment",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T16:59:43.476331",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. Okay ma'am let me assign this with to the north Austin branch. We do have availability on that branch. Let me create your profile here so we can give you an estimate. But I'm gonna create the profile get the addresses and transfer you to a moving specialist that to handle office.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T17:00:05.745833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "ner",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T17:00:10.877833",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "Okay, thank you.",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T17:00:26.676331",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm let's start with your first and last name please.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T17:00:27.945833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "First name is Alexandra, last name is Harris.",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T17:00:32.076331",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "ner",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T17:00:33.166331",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T17:00:38.145833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "ner",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T17:00:39.366331",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you and what is the best phone number is it the one you're using right now?",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T17:00:42.945833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "question",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T17:00:44.717833",
+      "type": "moment",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "Yes, that works.",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T17:00:48.276331",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and how about your email.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T17:00:49.545833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "It'll be my first name. Alexandra, at B. As in boy, A. As in Alpha, C. As in Charlie, K. As in kilo, D. As in delta.",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T17:00:53.676331",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "ner",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T17:00:55.766331",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "ner",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T17:01:03.206331",
+      "type": "moment"
+    },
+    {
+      "content": "Dot com.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T17:01:15.345833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "Yes.",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T17:01:17.676331",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, thank you.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T17:01:18.945833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "content": "Okay, ma'am, I see that you have submitted an inquiry online. So let me just use this profile just to confirm ma'am. Our pickup address is at 1949 south interstate 35 frontage road. 78741.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T17:01:37.545833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "Correct.",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T17:01:56.676331",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and then moving to 1620.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T17:01:57.945833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "Yes.",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T17:02:02.676331",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright ma'am. Let me just place the call and hold, and transfer you to a living specialist, okay? Thank you.",
+      "name": "Jeline Lavarias",
+      "time": "2026-09-08T17:02:04.545833",
+      "type": "transcript",
+      "user_id": "5945659535532032"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDC8_nQ6goM",
+      "content": "Okay.",
+      "name": "(210) 310-5260",
+      "time": "2026-09-08T17:02:10.476331",
+      "type": "transcript"
+    }
+  ]
+}

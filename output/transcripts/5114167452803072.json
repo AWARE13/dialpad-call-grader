@@ -1,0 +1,628 @@
+{
+  "call_id": "5850315384987648",
+  "lines": [
+    {
+      "content": "Good afternoon. This is Amy.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:20:32.870970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:20:32.870970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:20:32.870970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:20:32.870970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:20:32.870970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:20:32.870970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:20:32.870970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:20:32.870970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:20:34.295970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Hello.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:20:38.270970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Hello, there?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:20:42.470970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "Hi.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:20:43.197613",
+      "type": "transcript"
+    },
+    {
+      "content": "I'll do, I can hear you now. Hello. How can I help you?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:20:47.270970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "Oh, hi, so I have a move booked for this upcoming Tuesday and I can't remember or not if they had asked me if I wanted a particular time for them to come, I don't remember giving that out but they currently are scheduled to arrive at 8:30 or nine in the morning, but I just found out that my new apartment will not give me keys until 3:00 PM. Which is news to me and has never happened to me before. Every time I've ever moved. Is it possible at all for me to move, move my appointment till later in the day?",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:20:47.997613",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "call_purpose",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:20:47.997613",
+      "type": "moment"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:20:49.135970",
+      "type": "custom_moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:21:07.670970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "time",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:21:11.580613",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "time",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:21:18.140613",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "question",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:21:23.780613",
+      "type": "moment"
+    },
+    {
+      "content": "Let me double-check if they're still availability for the afternoon. Can I have your first and last name please?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:21:31.070970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:21:34.695970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "What did you say? I'm sorry.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:21:37.797613",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "question",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:21:37.797613",
+      "type": "moment"
+    },
+    {
+      "content": "May I have your first and last name?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:21:40.070970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "My first name is Andrea. That's A-U-N-D-R-E-A and my last name is verdi, V. as in Victor, ERDI.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:21:43.197613",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "ner",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:21:45.100613",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "ner",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:21:50.860613",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you. Just give me one moment.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:21:55.070970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay, fine here scheduled for September 22nd Tuesday and yes we still have an opening in the afternoon, but I just want to set a proper expectations afternoon moves. There's a two hour window right now. It's between 1:00 PM to 3:00 PM. Would that work for you?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:21:58.670970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:21:58.670970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "date",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:22:01.975970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:22:14.935970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:22:16.735970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "13.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:22:19.197613",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, that's the estimated start time 123.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:22:22.070970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "Is that the only time you have available?",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:22:26.397613",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "question",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:22:26.397613",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, either the morning the one that you currently have or the afternoon 1:00 to three.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:22:29.870970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:22:33.815970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "Okay.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:22:35.397613",
+      "type": "transcript"
+    },
+    {
+      "content": "Take your time, I know it's a lot to process making a decision. No, really, take your time.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:22:45.470970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "Yeah, sorry. It's just, I've already called my new. Yeah, like I think they literally told me twenty minutes ago. I wasn't gonna get keys until three which is not the norm and they won't know until Monday morning if they can move me earlier. So, it's just like, even if I did change it, I'm still kind of like SOL cause I'm not going to be able to get into the building they need to move things into.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:22:47.397613",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, okay. Well, what we can do here so you'll get the keys 3:00 for the apartment or we can get into the apartment starting at 3:00, sorry.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:23:13.670970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "So unfortunately I can't.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:23:13.797613",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:23:21.255970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:23:26.335970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "Yeah, they won't give me as far as I'm aware they don't know until Monday if they can move me earlier to pickup keys but apparently their policy is 3:00 PM.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:23:28.197613",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:23:36.495970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "time",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:23:40.780613",
+      "type": "moment"
+    },
+    {
+      "content": "I see. Well that still works. We can just let me go to your apartment closer to 2230 cause we're estimating like an hour and a half to load your items here at the current address. So, I would say closer to 2:00 start time or 2:30 even would, would still work. What do you think?",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:23:43.670970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:24:01.575970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:24:03.415970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:24:06.655970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "So you would be available for 2:00 or 230.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:24:07.197613",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "time",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:24:09.740613",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, I will advise the reverse to go to your current address closer to 2:00 or 2:30. They can even give you a call, so you know, you can get, we can get you a bell ETA so that we can get to the new apartment 3:00 or even after 2:00, if that's the policy.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:24:11.870970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:24:17.135970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "Yeah.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:24:21.597613",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "Okay.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:24:26.997613",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:24:31.855970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:24:34.415970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "Okay, yeah, do you mind if I put you on hold really quick?",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:24:35.997613",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "question",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:24:38.580613",
+      "type": "moment"
+    },
+    {
+      "content": "No, no worries. Take your time.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:24:41.870970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "Okay.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:24:44.397613",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "Okay, are you still there?",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:27:02.397613",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes ma'am.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:27:05.870970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "So I'm gonna have to wait to see what my boyfriend says if he wants to move forward, moving the time or if he wants to wait to see what the apartment complex says about maybe making an exception and getting SR keys earlier.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:27:08.397613",
+      "type": "transcript"
+    },
+    {
+      "content": "So, we'll just keep it this, I'll leave it for the 8:30 for now and just posted. Yeah, okay no problem. We're open everyday so give us a call tomorrow, oh, yeah, sorry go ahead. I was saying we're open everyday.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:27:26.870970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:27:29.255970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "For now, yes.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:27:31.197613",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "Yeah, and then is it, is it terribly, oh, sorry. What'd you say? Oh, is it like terribly inconvenience? Okay, is it terribly inconvenient for you guys? If we change it, if we had to, had to change the time Monday morning.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:27:34.197613",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "negative_sentiment",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:27:34.197613",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "question",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:27:36.220613",
+      "type": "moment"
+    },
+    {
+      "content": "No, it's not my only or as always the dilemma would be if there's availability but it's definitely not an inconvenience for us just let us know. We would love to arrange that changes phone if there's.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:27:57.470970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "Yes, okay.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:28:04.797613",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "Okay, okay, let me just, yeah, uh-huh okay I'll just chat with him and then see what we think we should do and then I'll call back at some point, okay? Thank you so much.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:28:08.397613",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "issue_unresolved",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:28:19.940613",
+      "type": "moment"
+    },
+    {
+      "content": "Hold on. Of course, of course Monday to Friday we're open till 5:30 in case you can you want to call back later or we'll be back tomorrow morning weekdays, I mean, weekends until 4:30 only in the afternoon.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:28:20.270970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "positive_sentiment",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:28:23.300613",
+      "type": "moment"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:28:26.015970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "Mm-hmm.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:28:29.397613",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:28:33.775970",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "Okay, sounds good.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:28:36.597613",
+      "type": "transcript"
+    },
+    {
+      "content": "Okeydoke team. Thank you so much and have a great weekend. Bye-bye.",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:28:38.270970",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "Thank you, bye.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:28:41.397613",
+      "type": "transcript"
+    },
+    {
+      "content": "Call Closing",
+      "name": "Amy Arbasa",
+      "time": "2026-09-18T21:28:43.655970",
+      "type": "custom_moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDM8ID53woM",
+      "content": "You too.",
+      "name": "Aundrea Verdi",
+      "time": "2026-09-18T21:28:44.997613",
+      "type": "transcript"
+    }
+  ]
+}
