@@ -29,18 +29,22 @@ NAVY = "#1a2744"
 # Not assigned to either group: Therese Ablang, Nhel Banayad (not mentioned in either list).
 # Jevic Lazanas was believed to have no Dialpad account as of 8/21 -- resolved 9/8, she's
 # in Dialpad after all (id 4999317649432576), added to Wednesday per Amanda's roster image.
+# Calvin Hughes (Tuesday) and Jack Davis (Wednesday) added 9/22 at Amanda's explicit request --
+# both are non-CET reps (Calvin=CTX, Jack=DFWT) added to this roster/report anyway.
 GROUP_ASSIGNMENTS = {
     "Amy Arbasa": "tuesday",
     "Chauntelle Shivers": "tuesday",
     "Jeline 2Lavarias": "tuesday",
     "Jules Nicolas": "tuesday",
     "Zhang Pammit": "tuesday",
+    "Calvin Hughes": "tuesday",
     "Arden 2Asilo": "wednesday",
     "Brianne Newbro": "wednesday",
     "Joanna Ballon": "wednesday",
     "Danah 2Celestial": "wednesday",
     "Nicole Tolete": "wednesday",
     "Jevic Lazanas": "wednesday",
+    "Jack Davis": "wednesday",
 }
 
 COMPONENTS = [
