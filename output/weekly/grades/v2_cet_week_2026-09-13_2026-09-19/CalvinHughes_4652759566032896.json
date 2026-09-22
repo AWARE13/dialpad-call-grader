@@ -1,0 +1,43 @@
+{
+  "call_id": "4652759566032896",
+  "rep_name": "Calvin Hughes",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 15.4,
+  "datetime_ct": "2026-09-14 16:39 CT",
+  "external_number": "+12819197336",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v2-jeff-call-map",
+  "stage1_quid_pro_quo": 0,
+  "stage1_their_agenda": 0,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 5,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0,
+  "stage3_estimate": 5,
+  "stage3_save_your_ass_sheet5": 3,
+  "stage3_close": 0,
+  "rapport_warmth": 6,
+  "process_discipline": 4,
+  "total_score": 38,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep"
+  ],
+  "rapport_notes": "Professional and calm, but somewhat transactional; limited warmth or personality, mostly task-driven.",
+  "process_discipline_notes": "Rep did not hold silence after delivering estimate and pricing details; immediately pivoted to next logistics question without confirming understanding.",
+  "evidence_quotes": {
+    "quid_pro_quo": "Not present. Rep jumps directly into address collection and logistics without framing the conversation or promising an accurate quote in exchange for questions.",
+    "agenda": "Never asked. Rep goes straight to confirming availability, then to logistics details, with no version of 'other than price, what are your biggest concerns?' \u2014 despite the customer raising a material concern (COI/umbrella coverage requirement), the rep never establishes a formal discovery agenda.",
+    "two_layers_deep": "N/A \u2014 No discovery agenda was established, so there is no baseline concern-follow-up to score. The customer raises the COI issue organically, and the rep addresses it in problem-solving mode rather than consultative discovery.",
+    "sheet1_careful_with": "Covered in Stage 1 as a direct answer. Customer raised artwork care concern ('wrapped in blankets or bubble wrap'); rep answered: 'We're going to have like, 44 wheel dollies\u2026 We have panel carts\u2026 everyone will have like a piece of equipment\u2026 all the stuff needed.' Also mentions 'moving blankets, especially, since we have that other truck.'",
+    "sheet2_whos_coming": "Not covered. No mention of who specifically will show up (named crew lead, Meet Your Mover concept) or anything about meeting the team.",
+    "on_time_guarantee": "Not mentioned anywhere in the call.",
+    "communication": "Not mentioned anywhere in the call. No reference to day-before call, named crew lead contact, or inbox updates.",
+    "estimate_anchor": "Partial. Rep gives a specific number ($1,520 for 4 hours with 4-man crew) and personalizes it slightly ('28 floor\u2026 artwork\u2026 unloading it'), but does NOT anchor to a typical range first ('A typical office move like this takes X-Y hours'). The estimate is stated directly without a framework.",
+    "beats_it_pay_less": "Covered in Stage 3. Rep states: 'We just bill in the fifteen minute increments' and 'if they once everything's prepped and they've loaded it up\u2026 if we want to stop the clock for two of the guys and just send the one truck and two guys to it\u2026 And we can cut the hourly rate down at that time.'",
+    "close": "Not present. No rate-lock line ('your rate locks when you book') and no explicit ask ('would you like our help with your move?'). Call ends with 'Cool, yeah, well we're confirmed, we're good' and a promise to send confirmation and COI details via email\u2014a handoff, not a close."
+  },
+  "top_strength": "Rep handled a complex logistics scenario (multi-floor pickup, two-truck solution, artwork handling, parking coordination) with clear problem-solving and specific resource commitments, instilling confidence that Einstein can execute.",
+  "coaching_note": "You skipped the discovery half of the call entirely\u2014no quid pro quo, no agenda question, no two-layer follow-up\u2014and jumped straight into order-taking; add the opening frame ('Let me ask you a few questions to build an accurate quote, should take five minutes') and ask 'Other than price, what are your biggest concerns about this move?' before pulling logistics details, then actually close with a rate-lock statement and explicit ask rather than trailing off into email logistics."
+}

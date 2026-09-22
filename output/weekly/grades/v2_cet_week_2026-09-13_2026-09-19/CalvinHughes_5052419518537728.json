@@ -1,0 +1,39 @@
+{
+  "call_id": "5052419518537728",
+  "rep_name": "Calvin Hughes",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 6.9,
+  "datetime_ct": "2026-09-15 14:51 CT",
+  "external_number": "+17192094845",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v2-jeff-call-map",
+  "stage1_quid_pro_quo": 0,
+  "stage1_their_agenda": 0,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 0,
+  "stage3_estimate": 10,
+  "stage3_save_your_ass_sheet5": 15,
+  "stage3_close": 5,
+  "rapport_warmth": 6,
+  "process_discipline": 5,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep"
+  ],
+  "rapport_notes": "Friendly and conversational, but mostly transactional data-gathering with minimal rapport-building or reassurance beyond the TV-wrapping note.",
+  "process_discipline_notes": "No violations detected; call was appropriately routed to async walkthrough and estimate review.",
+  "evidence_quotes": {
+    "quid_pro_quo": "Not present. Rep launches into data collection (date, name, address) with no framing or promise of what the call will deliver or how long it will take.",
+    "their_agenda": "Not asked. No version of 'other than price, what are your biggest concerns' or 'what do you want answers to on this call' appears anywhere.",
+    "two_layers_deep": "N/A \u2014 no agenda question was asked, so no concerns were surfaced to probe.",
+    "estimate_anchor": "Partial \u2014 rep offers typical scope ('two trucks for guys, usually a full day thing') and acknowledges the 2-hour drive, but does not personalize to the customer's specific constraints (tight driveway access, 120+ boxes, 2,500\u20132,796 sqft across two homes) in the form of an estimate range.",
+    "estimate_quote": "No quote given on this call. Rep says: 'So what I'll do is I'm gonna send over an estimate to your email and you can respond back to that with with the inventory list. I'm just gonna base it on the details I've gotten so far.'",
+    "close_handoff": "Clean walkthrough scheduler routing. Rep explicitly sends estimate via email, asks for furniture list reply, and confirms next step: 'once that gets to you can just reply back to that and then I can review the list and see what needs to be adjusted.' No rate-lock or explicit ask on this call, which is correct by design."
+  },
+  "top_strength": "Calvin correctly identified this as a virtual-walkthrough move early (2,500 sqft home), routed the customer to async estimate review with inventory list, and maintained a clear handoff without abandoning the pitch mid-stream.",
+  "coaching_note": "Open every call with a quid pro quo framing ('Let's get you quoted\u2014I'll ask a few quick questions to build an accurate estimate, should take about five minutes') and ask the customer's agenda ('Other than price, what are your biggest concerns about this move?') before diving into logistics; this builds trust and uncovers concerns that shape the rest of the conversation, even on walkthrough-routed calls."
+}

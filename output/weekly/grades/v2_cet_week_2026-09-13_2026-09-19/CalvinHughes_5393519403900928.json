@@ -1,0 +1,40 @@
+{
+  "call_id": "5393519403900928",
+  "rep_name": "Calvin Hughes",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 5.0,
+  "datetime_ct": "2026-09-14 15:00 CT",
+  "external_number": "+15122284599",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v2-jeff-call-map",
+  "stage1_quid_pro_quo": 0,
+  "stage1_their_agenda": 0,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 7.5,
+  "stage3_estimate": 5,
+  "stage3_save_your_ass_sheet5": 3,
+  "stage3_close": 0,
+  "rapport_warmth": 6,
+  "process_discipline": 5,
+  "total_score": 41.5,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep"
+  ],
+  "rapport_notes": "Friendly and efficient but transactional; minimal personalization or warmth; client initiates end of call, rep doesn't drive engagement.",
+  "process_discipline_notes": "No repeats detected; no open-ended questions asked that would trigger silence rules.",
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep jumps straight into data collection: 'Okay, yeah, let me get a, get that going' \u2014 no time-boxed ask or promise of accurate quote in return.",
+    "their_agenda": "Never asked. Rep moves directly to logistics (name, email, address, bedroom count, items).",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer; probing was all logistics, not agenda-driven.",
+    "communication_covered": "Day-before call mentioned: 'We call thirty minutes prior to arriving' \u2014 the day-of arrival window, but not named crew lead or inbox updates.",
+    "estimate_anchor": "Partial \u2014 gives range ('Typically a home that size takes four to six hours') and personalizes slightly ('I would estimate you being on the lower end of that just since we're not moving the other bedroom'), but no explicit floor-to-ceiling framing or typical rate structure tied to mover count.",
+    "beats_it_pay_less": "'...you do only pay for the time need to pass the minimum' \u2014 implies refund if under estimate, but not the explicit '15-min increments' language or 'crew beats it, you pay less' framing.",
+    "close": "No rate-lock statement. No explicit ask ('would you like our help'). Call ends with 'Other than that, I'll send over a confirmation email with all the details but any other questions that you have while we're on the phone.' Keith says 'Alright, sounds good. That's it, thanks.' Rep says 'Awesome. Alright Keith, thank you. Have a great day.' \u2014 implicit booking assumed, but no active close."
+  },
+  "top_strength": "Calvin efficiently gathered all essential logistics in a calm, organized manner and delivered a clear, all-inclusive pricing anchor with transparent rate structure and billing increments.",
+  "coaching_note": "Lead with the quid-pro-quo framing and their agenda before probing logistics \u2014 you missed the chance to uncover what Keith actually cares about (damage, crew familiarity, communication) and to deliver the key differentiators (Meet Your Mover, On-Time Guarantee, damage coverage) as direct answers or as the takeaway pitch."
+}

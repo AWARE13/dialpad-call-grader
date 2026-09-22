@@ -1,0 +1,908 @@
+{
+  "call_id": "5593321966182400",
+  "lines": [
+    {
+      "content": "Behind Stein moving, this is Calvin.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:54:34.540692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:54:34.540692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:54:34.540692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:54:34.540692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:54:34.540692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:54:34.540692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:54:34.891692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:54:36.131692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "Hi, I was just calling to see if I could get an estimate for moving in October.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:54:37.596078",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "call_purpose",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:54:37.596078",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:54:45.340692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Okay. Yeah, what date were you looking to move?",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:54:48.340692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:54:49.651692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "October 20th.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:54:51.996078",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "date",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:54:51.996078",
+      "type": "moment"
+    },
+    {
+      "content": "October 26th.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:54:54.940692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "date",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:54:54.940692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "October 24th.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:54:58.596078",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "date",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:54:58.596078",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, twenty fourth. Got it. Sorry, I cut out there. Alright, and what was your first and last name?",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:55:00.340692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:55:03.331692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "Regina, Donna.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:55:05.196078",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "ner",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:55:05.196078",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, Regina, I can email all of this information and quote to you at the end of our call. What's the best email address for you?",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:55:09.940692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:55:10.771692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:55:18.891692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "Regina Donna with two As in between and then it's 771. @gmail.com.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:55:21.396078",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "ner",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:55:21.396078",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "pii",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:55:26.329078",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "email_address",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:55:27.289078",
+      "type": "moment"
+    },
+    {
+      "content": "So is your first and last name? 771 @gmail.com.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:55:29.740692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:55:30.371692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "pii",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:55:32.131692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "email_address",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:55:32.931692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "Yes.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:55:34.596078",
+      "type": "transcript"
+    },
+    {
+      "content": "And it was bad Dona B-A-L-D-A-A-N-A or two ABA A. L. L.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:55:35.740692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:55:36.531692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "A-L, it's A-L-D-A-N-A.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:55:39.996078",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, gotcha. I thought you said two As in between. So three total As BA, LDA N. A.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:55:47.740692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "No, so R-E-G-I-N-A L-D-A-N-A.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:55:54.996078",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm. Mm-hmm.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:55:58.540692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Okay, and how did you hear about Eside was it a friend or online?",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:56:08.140692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "That should be good.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:56:10.596078",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:56:10.611692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "Just.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:56:12.996078",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "Just browsing online.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:56:21.396078",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, well, I'm gonna run you through some questions and then I'll be able to get you all the pricing and info at the end, it'll probably take about ten minutes or so does that work?",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:56:24.340692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:56:31.691692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "Yeah.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:56:33.396078",
+      "type": "transcript"
+    },
+    {
+      "content": "Cool and anything at the moment that you're like, particularly concerned about outside of obviously just a a quote that we'll get you.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:56:34.540692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "No.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:56:41.796078",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, awesome what would be the pickup address?",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:56:42.940692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:56:44.731692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "It's 3400 Kyle crossing, Kyle, Texas. 78640.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:56:49.596078",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "ner",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:56:53.049078",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "ner",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:56:54.996078",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "ner",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:56:56.089078",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "postcode",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:56:57.996078",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:57:00.940692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "And then the destination address.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:57:03.940692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "7400.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:57:06.996078",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "South Congress Ave Austin Tao.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:57:11.196078",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, cut out there again 7474 what south Congress.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:57:13.540692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "ner",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:57:13.596078",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "7400, south Congress Ave, Austin, Texas and then zip code is 7875.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:57:18.996078",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:57:24.340692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "ner",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:57:24.996078",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:57:26.131692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:57:27.340692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Okay, and the current location it's an apartment or a house.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:57:31.540692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "Current location department.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:57:36.396078",
+      "type": "transcript"
+    },
+    {
+      "content": "And how many bedrooms?",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:57:39.940692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "It's a two bedroom and it's on the third floor.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:57:42.396078",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:57:44.740692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Alright. And are we working with stairs there or an elevator?",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:57:47.140692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:57:48.251692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "It stairs at unit next to the stairs.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:57:51.396078",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:57:53.140692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Perfect, awesome. And then I guess the square footage roughly around a thousand square feet or what do you, do, you know what the square footage is on the apartment?",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:57:55.540692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:58:01.371692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "It's 800.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:58:02.796078",
+      "type": "transcript"
+    },
+    {
+      "content": "800 any additional stops or, or location storage units anything like that? Okay, and then typically we'll see around 25 to 35 prepacked boxes for a, a two bedroom apartment. Do you think that sounds about right and are you gonna handle the packing yourself?",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:58:05.740692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "No.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:58:12.996078",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:58:21.891692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "I would say it's like less cause we're just moving into a one bedroom. So we're really just moving a one bedroom. And yeah, I would say maybe twenty or less boxes and yes, we could do the packing ourselves.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:58:26.796078",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:58:33.940692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Awesome. Yeah, the main thing that adds the most time for us is loose miscellaneous items that don't get box, so yeah the better kind of prepped and pac you are, the more efficiently we can move regarding furniture items, do you, are we gonna move any appliances, Washer/Dryer fridge?",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:58:44.140692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "Uh-huh.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:58:54.996078",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:58:56.251692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "No, no this, but furniture. Yes, so, couch, coffee table night Stin bed frame match those kinds of things.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:59:00.396078",
+      "type": "transcript"
+    },
+    {
+      "content": "Right.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:59:05.140692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Uh-huh.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:59:07.540692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Okay, but all pretty standard items.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:59:12.340692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "Yes.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:59:15.396078",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And then the destination that's a one bedroom. What floor is that one on?",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:59:20.740692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:59:25.691692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "It's also, it's third floor with a elevator and stairs and that should be like a little bit like, it's in like the middle of the hallway or something.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:59:27.996078",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:59:41.740692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Okay.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:59:44.740692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "And it's just the public elevator and that will use. Can we park pretty close to the elevator, do you know?",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T14:59:48.340692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "I don't know exactly how close. It might just be like the hallway and then the elevator is like, it's like an L. shape apartment and the elevator is like, middle, like, where the L. meets. If that makes sense, so.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T14:59:55.596078",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:00:09.940692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Okay.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:00:15.340692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "Cool. Sounds good. Well, I can run through the pricing with you. It's all super simple. You don't need to take notes. I can email all of this information to you at the end of the call. So yeah, a move like this. We would send one truck and two movers. Kyle is outside of our free service zone, we do have a one time trip fee of $75 to get the empty truck to Kyle, when they arrive on site, is when the hourly rate would take effect and for a truck and a two man crew, it's $222 per hour, that includes all the pads and wrap. We do wrap all of the furniture, the insurance on all of the items that is included in the rate. We will have tools so we can do disassemble reassembly of things like the bed frame.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:00:18.940692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "action_item",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:00:27.211692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "monologuing",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:00:36.011692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:00:37.540692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "Mm-hmm.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T15:00:38.196078",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:00:42.291692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:00:52.691692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "And then there's no taxes. There's also no credit card fees. So everything else we just wrap up into the hourly rate and then the way that it works Regina is we do a 2.5 hour minimum, which would be $630 with the trip fee included once we exceed the minimum we bill in fifteen minute increments until the move is completed, so you would just pay for time used. Does that all make sense?",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:01:09.491692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:01:19.611692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "monologuing",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:01:23.051692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:01:24.451692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "question",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:01:34.851692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "Yeah.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T15:01:36.996078",
+      "type": "transcript"
+    },
+    {
+      "content": "Cool. Well, typically a one bedroom apartment will take about two and a half to three and a half hours to move. I would actually put you over that range just because of the third floor with stairs load up third floor elevator with walking their elevators to attend, to add time and then driving from Kyle to south Congress. So I actually would probably put you in the range of about four to five hours, so at four hours with the trip be included, that would be estimated at $963 and then at five hours with the trip be included, that would be estimated at $1,185. Again you do only pay for time use the miscellaneous items do add the most time but that's what I would kind of estimate based on all the details here.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:01:38.140692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "ner",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:01:54.011692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:02:05.531692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "content": "currency",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:02:12.171692",
+      "type": "moment",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "Okay, amazing and then you'll get the email sent over so I can just review through there, correct?",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T15:02:24.396078",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "positive_sentiment",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T15:02:24.396078",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, definitely. There's no deposit required to book or anything. If you did want to schedule, there's no like fee to reschedule or cancel. So, whenever you're wanting to get scheduled, that's perfectly fine and yeah, I can email the quote, it'll have everything broken down that I talked about pricing, our no worries, damage coverage which is just higher evaluation for your items that's included in the rate there'll be a breakdown on that. Our movers are background checked and trained in-house. So they're all, you know, full-time employees they're not contracted labors and we do have an on time guarantee. So forever late we do discount your money back. All that will be included in the email. I'll send but while we're on the phone, any questions for me?",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:02:30.940692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "Mm-hmm.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T15:02:39.396078",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "No, that's great. Thank you.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T15:03:13.596078",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "positive_sentiment",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T15:03:13.596078",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "support_issue_resolved",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T15:03:14.129078",
+      "type": "moment"
+    },
+    {
+      "content": "You're welcome. You have a great rest of your day.",
+      "name": "Calvin Hughes",
+      "time": "2026-09-16T15:03:15.940692",
+      "type": "transcript",
+      "user_id": "5236346109362176"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCi-8zw0QsM",
+      "content": "You too, bye.",
+      "name": "(214) 632-4090",
+      "time": "2026-09-16T15:03:18.996078",
+      "type": "transcript"
+    }
+  ]
+}

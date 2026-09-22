@@ -1,0 +1,40 @@
+{
+  "call_id": "5746224521584640",
+  "rep_name": "Calvin Hughes",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 7.5,
+  "datetime_ct": "2026-09-16 13:21 CT",
+  "external_number": "+15128502164",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v2-jeff-call-map",
+  "stage1_quid_pro_quo": 0,
+  "stage1_their_agenda": 0,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 0,
+  "stage1_whos_coming_sheet2": 0,
+  "stage2_takeaway_sheets3_4": 7.5,
+  "stage3_estimate": 5,
+  "stage3_save_your_ass_sheet5": 3,
+  "stage3_close": 0,
+  "rapport_warmth": 6,
+  "process_discipline": 5,
+  "total_score": 41.5,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep"
+  ],
+  "rapport_notes": "Calvin is polite and helpful but somewhat mechanical; the conversation feels transactional rather than warm or consultative.",
+  "process_discipline_notes": "No repeats detected; no significant silence violations.",
+  "evidence_quotes": {
+    "quid_pro_quo": "Calvin launches immediately into pricing without framing the call: 'during the week like Sunday through Thursday our hourly rate for one truck and two movers is $208 per hour...' No trade offered (ask for time in exchange for accurate quote).",
+    "their_agenda": "Never asked. Calvin never probes for Cynthia's biggest concerns or what she wants answered on the call\u2014jumps straight to logistics.",
+    "two_layers_deep": "N/A\u2014no concerns were raised by customer for rep to follow up on.",
+    "communication_covered": "Calvin says 'they're gonna give you a call about thirty minutes prior to arriving today' and 'they will call you thirty minutes in advance.' Day-before call and named crew lead are absent.",
+    "estimate_anchor": "Partial. Calvin gives the hourly rate ($208/hr, 2.5-hr minimum = $520) but does not provide a typical range for the job size or personalize to the customer's specific move profile (TV dismounting, stairs, etc.). He does eventually say 'I would expect you to be kind of in the minimum then which is $520' but this is reactive, not proactive anchoring.",
+    "beats_it_pay_less": "Calvin says 'We bill in fifteen minute increments until the move is completed,' which implies the 15-minute incremental billing that supports the 'if crew beats it, you pay less' message, but he does not explicitly state the savings benefit.",
+    "close": "No rate-lock line stated. No explicit ask ('would you like our help with your move?'). Call ends with a soft confirmation: 'Awesome. Alright, Cynthia, we'll see you a little bit later. Have a great day.' This is acknowledgment, not a close."
+  },
+  "top_strength": "Calvin efficiently captured all necessary logistical details (addresses, unit numbers, move window, inventory) and locked in a same-day move for an urgent customer need, keeping the call focused and actionable.",
+  "coaching_note": "Skip the pricing pitch entirely in Stage 1\u2014lead with a quid pro quo ('let me gather a few details so we can get you an accurate quote'), ask the customer's agenda before any logistics questions, and reserve the rate for Stage 3 after you've built trust and covered the key differentiators (damage coverage, Meet Your Mover, on-time guarantee, communication)."
+}

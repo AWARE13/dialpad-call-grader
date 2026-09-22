@@ -1,0 +1,40 @@
+{
+  "call_id": "5877169664860160",
+  "rep_name": "Calvin Hughes",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 7.7,
+  "datetime_ct": "2026-09-14 15:46 CT",
+  "external_number": "+12107279875",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v2-jeff-call-map",
+  "stage1_quid_pro_quo": 0,
+  "stage1_their_agenda": 0,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 5,
+  "stage1_whos_coming_sheet2": 5,
+  "stage2_takeaway_sheets3_4": 7.5,
+  "stage3_estimate": 10,
+  "stage3_save_your_ass_sheet5": 15,
+  "stage3_close": 5,
+  "rapport_warmth": 8,
+  "process_discipline": 4,
+  "total_score": 74.5,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep"
+  ],
+  "rapport_notes": "Calm, patient tone; handled customer's detailed concerns (monitor, aquarium, narrow stairs) without defensiveness; acknowledged customer's preferences respectfully.",
+  "process_discipline_notes": "Rep mentioned damage coverage / $2,000 insurance limit in Stage 1 (answering customer's insurance question) and then repeated the same information again later ('super rare we have damages in excess of $2,000'), violating the no-differentiator-twice rule.",
+  "evidence_quotes": {
+    "call_routing": "Yeah, I was just reaching back out, I just completed the virtual walkthrough and yeah, definitely a four man crew will be best in the two trucks",
+    "estimate_anchor_and_personalize": "basically kind of the estimate I had given you is going to be pretty on point with, with that range of about...1920 to about 2496 for about, 5:00 to six and a half hours, basically [personalized to bunk bed complexity mentioned in walkthrough]",
+    "sheet1_damage_coverage": "we actually within our hourly rate. We include our no worries, damage coverage...allocates up to $2,000 per move",
+    "sheet2_whos_coming": "We have availability on Sunday the twentieth with four guys and two trucks...they'll arrive between 8:30 AM and 9:00 AM and the movers will give you a call that morning when they're on the way",
+    "communication_included": "the movers will give you a call that morning when they're on the way [day-before/day-of call]",
+    "repeated_differentiator": "super rare we have damages in excess of $2,000 but even in those cases, you know, we, we'd take it on a case by case basis [repeating the $2K coverage concept already stated earlier]",
+    "estimate_is_window": "the estimate I had given you is going to be pretty on point with, with that range"
+  },
+  "top_strength": "Expert handling of customer logistics concerns\u2014the rep confidently addressed the narrow staircase, aquarium desk protection, and expensive monitor, taking detailed notes and offering practical solutions (wall pads, disassembly strategy, alternative routing) without over-promising.",
+  "coaching_note": "This is a post-walkthrough call and was correctly routed; however, eliminate the repeat of the $2K damage-coverage differentiator\u2014it was covered cleanly when the customer asked about insurance in Stage 1, and does not need to be restated later."
+}

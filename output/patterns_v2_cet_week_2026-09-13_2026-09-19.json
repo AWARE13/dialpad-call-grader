@@ -3,20 +3,22 @@
   "week_start": "2026-09-13",
   "week_end": "2026-09-19",
   "scope": "cet",
-  "total_calls_pulled": 429,
-  "total_graded": 349,
-  "total_skipped": 80,
-  "walkthrough_type_count": 35,
-  "company_avg_score": 56.3,
-  "company_median_score": 58.5,
-  "pass_count": 8,
-  "pass_rate_pct": 2.3,
+  "total_calls_pulled": 458,
+  "total_graded": 375,
+  "total_skipped": 83,
+  "walkthrough_type_count": 42,
+  "company_avg_score": 56.0,
+  "company_median_score": 58,
+  "pass_count": 9,
+  "pass_rate_pct": 2.4,
   "per_rep_avg_score": {
     "Amy Arbasa": 50.7,
     "Arden 2Asilo": 49.8,
     "Brianne Newbro": 64.0,
+    "Calvin Hughes": 53.1,
     "Chauntelle Shivers": 57.5,
     "Danah 2Celestial": 46.2,
+    "Jack Davis": 47.5,
     "Jeline 2Lavarias": 44.9,
     "Jevic Lazanas": 53.8,
     "Joanna Ballon": 65.7,
@@ -30,8 +32,10 @@
     "Amy Arbasa": 15,
     "Arden 2Asilo": 26,
     "Brianne Newbro": 32,
+    "Calvin Hughes": 22,
     "Chauntelle Shivers": 26,
     "Danah 2Celestial": 9,
+    "Jack Davis": 4,
     "Jeline 2Lavarias": 30,
     "Jevic Lazanas": 38,
     "Joanna Ballon": 39,
@@ -48,39 +52,39 @@
       "pct": 40
     },
     "stage1_their_agenda": {
-      "avg": 3.8,
+      "avg": 3.6,
       "max": 10,
-      "pct": 38
+      "pct": 36
     },
     "stage1_two_layers_deep": {
-      "avg": 12.8,
+      "avg": 12.7,
       "max": 15,
       "pct": 85
     },
     "stage1_careful_with_sheet1": {
-      "avg": 2.8,
+      "avg": 2.9,
       "max": 5,
-      "pct": 56
+      "pct": 58
     },
     "stage1_whos_coming_sheet2": {
-      "avg": 2.7,
+      "avg": 2.6,
       "max": 5,
-      "pct": 54
+      "pct": 52
     },
     "stage2_takeaway_sheets3_4": {
-      "avg": 4.4,
-      "max": 15,
-      "pct": 29
-    },
-    "stage3_estimate": {
-      "avg": 8.9,
-      "max": 10,
-      "pct": 89
-    },
-    "stage3_save_your_ass_sheet5": {
       "avg": 4.5,
       "max": 15,
       "pct": 30
+    },
+    "stage3_estimate": {
+      "avg": 8.8,
+      "max": 10,
+      "pct": 88
+    },
+    "stage3_save_your_ass_sheet5": {
+      "avg": 4.7,
+      "max": 15,
+      "pct": 31
     },
     "stage3_close": {
       "avg": 1.5,
@@ -88,14 +92,14 @@
       "pct": 30
     },
     "rapport_warmth": {
-      "avg": 7.9,
+      "avg": 7.8,
       "max": 10,
-      "pct": 79
+      "pct": 78
     },
     "process_discipline": {
-      "avg": 5.0,
+      "avg": 4.9,
       "max": 5,
-      "pct": 100
+      "pct": 98
     }
   }
 }

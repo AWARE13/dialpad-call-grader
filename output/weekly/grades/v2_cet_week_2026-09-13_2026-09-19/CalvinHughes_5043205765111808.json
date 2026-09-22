@@ -1,0 +1,43 @@
+{
+  "call_id": "5043205765111808",
+  "rep_name": "Calvin Hughes",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 9.5,
+  "datetime_ct": "2026-09-14 13:39 CT",
+  "external_number": "+15036791131",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v2-jeff-call-map",
+  "stage1_quid_pro_quo": 0,
+  "stage1_their_agenda": 0,
+  "stage1_two_layers_deep": 15,
+  "stage1_careful_with_sheet1": 5,
+  "stage1_whos_coming_sheet2": 5,
+  "stage2_takeaway_sheets3_4": 15.0,
+  "stage3_estimate": 10,
+  "stage3_save_your_ass_sheet5": 6,
+  "stage3_close": 0,
+  "rapport_warmth": 8,
+  "process_discipline": 4,
+  "total_score": 68.0,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep"
+  ],
+  "rapport_notes": "Friendly, patient tone; Calvin handles customer questions naturally and maintains easy back-and-forth flow throughout.",
+  "process_discipline_notes": "After mentioning the on-time guarantee near the end of Stage 2, Calvin does not hold silence after the customer's 'Okay' \u2014 he immediately pivots to next-steps details without waiting for absorption or objection.",
+  "evidence_quotes": {
+    "agenda": "NOT ASKED \u2014 Calvin launches directly into logistics probing (date, name, address, floor, elevator, parking) without first asking about priorities or concerns.",
+    "two_layers_deep": "N/A \u2014 no customer concern was raised in Stage 1 because the agenda question was never asked. The customer mentioned two mounted TVs as a question, and Calvin answered it directly ('we can take the TV off the wall'), but this was answering a logistics question, not probing a stated concern.",
+    "sheet1_careful_with": "STAGE 2: 'we do pad and wrap everything for safe transport... our no worries damage coverage... we allocate up to $2,000 per move'",
+    "sheet2_whos_coming": "STAGE 2: 'a couple of days before the move, you get to meet your movers email, it'll let you know who the guys will be, they're all on our website with their pictures and BIOS'",
+    "on_time_guarantee": "STAGE 2: 'we also do have an on time guarantee. So, forever late to a window that we give you. We do discount money back.'",
+    "communication": "STAGE 2: 'the day before the move, we send a courtesy text and then the morning of the move, the movers will call you when they're on the way'",
+    "estimate_anchor": "STAGE 3: 'typically a two bedroom apartment will take between three and a half and five and a half hours to move. So, at that 222 hourly rate that puts us at a cost range between $777.21 and $1,221... I would put you on the you know, lower end of that range... elevators do tend to add time. So I would probably still budget for about three and a half maybe four and a half hours'",
+    "save_your_ass_commit": "STAGE 2: 'we include in our hourly rate is our no worries damage coverage... all of our movers are also background checked and trained in-house'",
+    "save_your_ass_beats_it": "STAGE 3: 'it's fifteen minute increments until the move is completed. So you just pay for time, use that day.'",
+    "close_missing": "Call ends with 'Awesome. Well, if you have any questions that pop-up let us know other than that have a great day.' \u2014 No rate-lock language ('your rate locks when you book'), no explicit ask ('would you like our help with your move')."
+  },
+  "top_strength": "Calvin delivered a clear, well-organized estimate with a strong anchor (3.5\u20135.5 hour range, $777\u2013$1,221) and personalized it to the customer's specific move (elevator adds time, lower end expected because boxes already packed), which built confidence and justified the rate.",
+  "coaching_note": "Ask the agenda question ('other than price, what are your biggest concerns?') before any logistics probing \u2014 this is the highest-priority script line and unlocks everything else; also add a rate-lock mention and explicit close ask at the very end of the call."
+}
