@@ -1,0 +1,629 @@
+#!/usr/bin/env python3
+"""
+build_report_v3.py — Builds the viewable HTML report for a rubric_v3 (Section Map)
+grading run: per-rep leaderboard, per-call cards with score breakdown, recording link,
+and an expandable transcript. Matches the Einstein-branded style of report_2026-06-11.html.
+Supersedes build_report_v2_jeff.py as of the 2026-09-24 script rewrite; that file stays
+in the repo unchanged so v2 reports can still be regenerated if ever needed.
+
+Usage:
+    python3 scripts/build_report_v3.py 2026-09-28 2026-10-04
+"""
+import json, sys, html, os
+from pathlib import Path
+from collections import defaultdict
+
+WEEK_START = sys.argv[1] if len(sys.argv) > 1 else "2026-09-28"
+WEEK_END   = sys.argv[2] if len(sys.argv) > 2 else "2026-10-04"
+
+BASE = Path(__file__).parent.parent
+GRADES_DIR = BASE / "output" / "weekly" / "grades" / f"v3_cet_week_{WEEK_START}_{WEEK_END}"
+TRANSCRIPT_DIR = BASE / "output" / "transcripts"
+OUT_PATH = BASE / "output" / "weekly" / f"v3_cet_week_{WEEK_START}_{WEEK_END}_report.html"
+HISTORY_PATH = BASE / "output" / "patterns_v3_history.json"
+
+GREEN, BLUE, ORANGE, RED = "#639922", "#185fa5", "#E8630A", "#a32d2d"
+NAVY = "#1a2744"
+
+# Training-group rosters (Jeff/Northwood CET split — Tue group / Wed group).
+# Names below match the grading data's rep_name (roster "name"), not always the Dialpad
+# display name Amanda gave (e.g. "Chauny Shivers" -> "Chauntelle Shivers" here).
+# Not assigned to either group: Therese Ablang, Nhel Banayad (not mentioned in either list).
+# Jevic Lazanas was believed to have no Dialpad account as of 8/21 -- resolved 9/8, she's
+# in Dialpad after all (id 4999317649432576), added to Wednesday per Amanda's roster image.
+# Calvin Hughes (Tuesday) and Jack Davis (Wednesday) added 9/22 at Amanda's explicit request --
+# both are non-CET reps (Calvin=CTX, Jack=DFWT) added to this roster/report anyway.
+GROUP_ASSIGNMENTS = {
+    "Amy Arbasa": "tuesday",
+    "Chauntelle Shivers": "tuesday",
+    "Jeline 2Lavarias": "tuesday",
+    "Jules Nicolas": "tuesday",
+    "Zhang Pammit": "tuesday",
+    "Calvin Hughes": "tuesday",
+    "Arden 2Asilo": "wednesday",
+    "Brianne Newbro": "wednesday",
+    "Joanna Ballon": "wednesday",
+    "Danah 2Celestial": "wednesday",
+    "Nicole Tolete": "wednesday",
+    "Jevic Lazanas": "wednesday",
+    "Jack Davis": "wednesday",
+}
+
+COMPONENTS = [
+    ("section1_open", "1. Open", 10),
+    ("section2_their_concerns", "2. Their Concerns", 30),
+    ("section3_probing_for_details", "3. Probing for Details", 20),
+    ("section4_the_estimate", "4. The Estimate", 10),
+    ("section5_two_promises", "5. Two Promises", 10),
+    ("section6_concerns_again", "6. Concerns Again", 10),
+    ("section7_ask_for_the_business", "7. Ask for the Business", 10),
+]
+
+def esc(x):
+    return html.escape(str(x)) if x is not None else ""
+
+def score_color(s):
+    if s is None: return "#888"
+    if s >= 80: return GREEN
+    if s >= 60: return BLUE
+    if s >= 40: return ORANGE
+    return RED
+
+def comp_color(v, mx):
+    pct = (v or 0) / mx if mx else 0
+    if pct >= 0.9: return GREEN
+    if pct >= 0.5: return BLUE
+    if pct >= 0.2: return ORANGE
+    return RED
+
+def anchor(name):
+    return name.replace(" ", "_").replace("'", "")
+
+def load_prior_week():
+    """Returns (prior_company_avg, {rep: prior_avg}) for the week immediately
+    before (WEEK_START, WEEK_END) per patterns_v3_history.json, or (None, {})
+    if there's no history file or this is the first tracked week."""
+    if not HISTORY_PATH.exists():
+        return None, {}
+    history = json.load(open(HISTORY_PATH))
+    weeks = history.get("company_avg_by_week", [])
+    idx = next((i for i, w in enumerate(weeks) if w["week_start"] == WEEK_START and w["week_end"] == WEEK_END), None)
+    if idx is None or idx == 0:
+        return None, {}
+    prior_week = weeks[idx - 1]
+    prior_company_avg = prior_week.get("avg")
+    prior_rep_avg = {}
+    for rep, wlist in history.get("per_rep_trend", {}).items():
+        match = next((w for w in wlist if w["week_start"] == prior_week["week_start"] and w["week_end"] == prior_week["week_end"]), None)
+        if match and match.get("avg_score") is not None:
+            prior_rep_avg[rep] = match["avg_score"]
+    return prior_company_avg, prior_rep_avg
+
+PRIOR_COMPANY_AVG, PRIOR_REP_AVG = load_prior_week()
+
+def trend_badge(delta, size="13px"):
+    if delta is None:
+        return f'<span style="color:#bbb;font-size:{size}">— new</span>'
+    if delta > 0.05:
+        return f'<span style="color:{GREEN};font-size:{size};font-weight:700">&#9650; +{delta:.1f}</span>'
+    if delta < -0.05:
+        return f'<span style="color:{RED};font-size:{size};font-weight:700">&#9660; {delta:.1f}</span>'
+    return f'<span style="color:#888;font-size:{size}">&#9679; +0.0</span>'
+
+RECORDINGS_DIR = BASE / "output" / "recordings"
+
+def recording_url(call_id):
+    """Real recording URL, fetched+cached by fetch_recording_urls.py. The recording
+    has its own internal Dialpad ID, separate from call_id — never guess it."""
+    p = RECORDINGS_DIR / f"{call_id}.json"
+    if not p.exists():
+        return None
+    try:
+        rec = json.load(open(p))
+    except Exception:
+        return None
+    return rec.get("admin_recording_url") or rec.get("recording_url")
+
+def listen_link_html(call_id, css_class="listen-btn", label="&#9654; Listen"):
+    url = recording_url(call_id)
+    if url:
+        return f'<a href="{url}" class="{css_class}" target="_blank">{label}</a>'
+    return f'<span class="{css_class}" style="opacity:0.4;cursor:default;pointer-events:none" title="No recording found for this call">{label} (unavailable)</span>'
+
+def load_transcript_text(call_id):
+    p = TRANSCRIPT_DIR / f"{call_id}.json"
+    if not p.exists():
+        return None
+    try:
+        data = json.load(open(p))
+    except Exception:
+        return None
+    lines = data.get("lines", [])
+    out = []
+    for l in lines:
+        if l.get("type") == "transcript":
+            out.append(f'{l.get("name","?")}: {l.get("content","")}')
+    return "\n".join(out) if out else None
+
+files = sorted(GRADES_DIR.glob("*.json"))
+calls = [json.load(open(f)) for f in files]
+
+graded = [c for c in calls if c.get("total_score") is not None]
+skipped = [c for c in calls if c.get("total_score") is None]
+
+n_total, n_graded, n_skipped = len(calls), len(graded), len(skipped)
+avg_score = round(sum(c["total_score"] for c in graded) / n_graded, 1) if graded else 0
+pass_count = sum(1 for c in graded if c["total_score"] >= 80)
+
+by_rep = defaultdict(list)
+for c in calls:
+    by_rep[c["rep_name"]].append(c)
+
+rep_rows = []
+for rep, entries in by_rep.items():
+    scored = [e["total_score"] for e in entries if e.get("total_score") is not None]
+    avg = round(sum(scored) / len(scored), 1) if scored else None
+    passes = sum(1 for s in scored if s >= 80)
+    rep_rows.append({"rep": rep, "n": len(entries), "n_scored": len(scored), "avg": avg, "passes": passes})
+
+rep_rows_ranked = sorted([r for r in rep_rows if r["avg"] is not None], key=lambda r: -r["avg"])
+
+# component company-wide averages (for the gap chart)
+comp_avgs = {}
+for key, label, mx in COMPONENTS:
+    vals = [c.get(key, 0) or 0 for c in graded]
+    avg = sum(vals) / len(vals) if vals else 0
+    comp_avgs[key] = {"label": label, "avg": round(avg, 1), "max": mx, "pct": round(100 * avg / mx) if mx else 0}
+
+def team_average_row(scores_for_avg, n_passes):
+    avg = round(sum(scores_for_avg) / len(scores_for_avg), 1) if scores_for_avg else 0
+    delta = round(avg - PRIOR_COMPANY_AVG, 1) if PRIOR_COMPANY_AVG is not None else None
+    return f'''<tr class="team-avg-row">
+      <td></td>
+      <td style="font-weight:700">Team Average</td>
+      <td>{len(scores_for_avg)}</td>
+      <td><strong style="color:{score_color(avg)}">{avg}</strong></td>
+      <td>{n_passes}</td>
+      <td>{trend_badge(delta)}</td>
+    </tr>'''
+
+def leaderboard_rows():
+    out = [team_average_row([c["total_score"] for c in graded], pass_count)]
+    for i, r in enumerate(rep_rows_ranked, 1):
+        excl = f' <span style="color:{ORANGE};font-size:11px">({r["n"]-r["n_scored"]} excl.)</span>' if r["n_scored"] != r["n"] else ""
+        group = GROUP_ASSIGNMENTS.get(r["rep"], "unassigned")
+        prior = PRIOR_REP_AVG.get(r["rep"])
+        delta = round(r["avg"] - prior, 1) if prior is not None else None
+        out.append(f'''<tr data-group="{group}">
+      <td style="color:#aaa">{i}</td>
+      <td><a href="#{anchor(r["rep"])}" style="font-weight:700;color:{NAVY};text-decoration:none">{esc(r["rep"])}</a></td>
+      <td>{r["n_scored"]}{excl}</td>
+      <td><strong style="color:{score_color(r["avg"])}">{r["avg"]}</strong></td>
+      <td>{r["passes"]}</td>
+      <td>{trend_badge(delta)}</td>
+    </tr>''')
+    return "\n".join(out)
+
+def comp_gap_rows():
+    rows = sorted(comp_avgs.items(), key=lambda x: x[1]["pct"])
+    out = []
+    for key, d in rows:
+        out.append(f'''<div class="gap-row">
+      <div class="gap-label">{esc(d["label"])}</div>
+      <div class="gap-bar-track"><div class="gap-bar-fill" style="width:{d["pct"]}%;background:{comp_color(d["avg"], d["max"])}"></div></div>
+      <div class="gap-pct">{d["pct"]}%</div>
+    </div>''')
+    return "\n".join(out)
+
+def call_card(c, idx):
+    score = c.get("total_score")
+    color = score_color(score)
+    call_id = c["call_id"]
+    transcript = load_transcript_text(call_id)
+    transcript_html = f'<pre class="transcript">{esc(transcript)}</pre>' if transcript else '<div style="color:#999;font-size:12px">Transcript not cached.</div>'
+
+    comps_html = ""
+    for key, label, mx in COMPONENTS:
+        v = c.get(key)
+        cc = comp_color(v, mx) if v is not None else "#bbb"
+        comps_html += f'''<div class="comp-item">
+          <div class="comp-name">{esc(label)}</div>
+          <div class="comp-score" style="color:{cc}">{v if v is not None else "—"}/{mx}</div>
+        </div>'''
+
+    quotes = c.get("evidence_quotes") or {}
+    quotes_html = "".join(f'<div class="quote-item"><strong>{esc(k)}:</strong> "{esc(v)}"</div>' for k, v in quotes.items() if v)
+
+    return f'''<div class="call-card">
+      <div class="call-header">
+        <div class="call-score" style="color:{color}">{score if score is not None else "—"}/100</div>
+        <div>
+          <div style="font-weight:600;font-size:13px">Call {idx} &nbsp;·&nbsp; {esc(c.get("call_type","")).replace("_"," ")}</div>
+          <div class="call-meta">
+            <span>⏱ {c.get("duration_min","?")} min</span>
+            <span>{esc(c.get("datetime_ct",""))}</span>
+            <span>{esc(c.get("branch","")).replace(" Einstein Moving Company","")}</span>
+            <span>ID: {call_id}</span>
+          </div>
+        </div>
+        {listen_link_html(call_id)}
+      </div>
+      <div class="comps-grid">{comps_html}</div>
+      <div class="call-notes">
+        <div class="note-box">
+          <div class="note-label">💪 Top strength</div>
+          {esc(c.get("top_strength") or "—")}
+        </div>
+        <div class="note-box">
+          <div class="note-label">🎯 Coaching note</div>
+          {esc(c.get("coaching_note") or "—")}
+        </div>
+      </div>
+      {f'<details style="margin-top:8px;font-size:12px;"><summary style="cursor:pointer;color:{BLUE};font-weight:600">Evidence quotes</summary><div style="margin-top:8px">{quotes_html}</div></details>' if quotes_html else ""}
+      <details style="margin-top:8px;font-size:12px;">
+        <summary style="cursor:pointer;color:{BLUE};font-weight:600">Transcript</summary>
+        {transcript_html}
+      </details>
+    </div>'''
+
+def skip_card(c):
+    call_id = c["call_id"]
+    return f'''<div class="skip-card">
+      <strong>Not scored</strong> — {c.get("duration_min","?")} min, {esc(c.get("datetime_ct",""))}, ID {call_id}
+      &nbsp;{listen_link_html(call_id, css_class="", label="&#9654; Listen")}<br>
+      {esc(c.get("skip_reason") or "—")}
+    </div>'''
+
+def rep_section(rep, entries):
+    scored = [e["total_score"] for e in entries if e.get("total_score") is not None]
+    avg = round(sum(scored) / len(scored), 1) if scored else None
+    cards = []
+    idx = 1
+    for e in sorted(entries, key=lambda x: x.get("datetime_ct") or ""):
+        if e.get("total_score") is not None:
+            cards.append(call_card(e, idx))
+            idx += 1
+        else:
+            cards.append(skip_card(e))
+    avg_html = f'<div class="rep-avg">{avg}/100</div><div style="font-size:11px;color:rgba(255,255,255,0.6)">avg score</div>' if avg is not None else '<div class="rep-avg" style="font-size:13px">not scored</div>'
+    group = GROUP_ASSIGNMENTS.get(rep, "unassigned")
+    return f'''<div class="rep-section" id="{anchor(rep)}" data-group="{group}">
+  <div class="rep-header">
+    <div>
+      <h3>{esc(rep)}</h3>
+      <span style="font-size:12px;color:rgba(255,255,255,0.6)">{len(entries)} call(s)</span>
+    </div>
+    <div style="text-align:right">{avg_html}</div>
+  </div>
+  <div class="rep-calls">{"".join(cards)}</div>
+</div>'''
+
+rep_sections_html = "".join(rep_section(rep, entries) for rep, entries in sorted(by_rep.items(), key=lambda x: -next((r["avg"] for r in rep_rows if r["rep"]==x[0] and r["avg"] is not None), 0)))
+
+tuesday_n = sum(1 for g in GROUP_ASSIGNMENTS.values() if g == "tuesday")
+wednesday_n = sum(1 for g in GROUP_ASSIGNMENTS.values() if g == "wednesday")
+
+# Slim per-call dataset embedded client-side so every part of the page (stats bar,
+# gap chart, leaderboard) can recompute for the active view, not just show/hide DOM.
+calls_min = []
+for c in calls:
+    row = {
+        "rep": c["rep_name"],
+        "group": GROUP_ASSIGNMENTS.get(c["rep_name"], "unassigned"),
+        "score": c.get("total_score"),
+    }
+    for key, _, _ in COMPONENTS:
+        row[key] = c.get(key)
+    calls_min.append(row)
+calls_json = json.dumps(calls_min)
+components_json = json.dumps([[k, l, m] for k, l, m in COMPONENTS])
+
+def empty_notice(view_key, view_label):
+    return (f'<div class="view-empty" data-view-only="{view_key}">'
+            f'{view_label} training group roster has not been set yet — check back once it is assigned.</div>')
+
+tuesday_empty_html = empty_notice("tuesday", "Tuesday") if tuesday_n == 0 else ""
+wednesday_empty_html = empty_notice("wednesday", "Wednesday") if wednesday_n == 0 else ""
+
+html_out = f'''<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<title>CET Call Grading — {WEEK_START} to {WEEK_END}</title>
+<style>
+  body {{ font-family: -apple-system, Roboto, Arial, sans-serif; background:#f4f2ee; color:#222; margin:0; }}
+  .header {{ background:{NAVY}; color:#fff; padding:32px 40px; }}
+  .header h1 {{ margin:0 0 4px; font-size:24px; }}
+  .header .sub {{ color:rgba(255,255,255,0.7); font-size:13px; }}
+  .stats-bar {{ display:flex; gap:24px; padding:20px 40px; background:#fff; border-bottom:1px solid #e5e0d8; flex-wrap:wrap; }}
+  .stat {{ min-width:120px; }}
+  .stat .num {{ font-size:28px; font-weight:700; }}
+  .stat .lbl {{ font-size:12px; color:#888; }}
+  .section {{ max-width:1000px; margin:24px auto; padding:0 20px; }}
+  table {{ width:100%; border-collapse:collapse; background:#fff; border-radius:8px; overflow:hidden; box-shadow:0 1px 3px rgba(0,0,0,0.08); }}
+  th {{ text-align:left; padding:10px 14px; background:#eee7db; font-size:12px; color:#666; }}
+  td {{ padding:10px 14px; border-top:1px solid #eee; font-size:14px; }}
+  .gap-row {{ display:flex; align-items:center; gap:12px; padding:6px 0; }}
+  .gap-label {{ width:220px; font-size:13px; color:#444; }}
+  .gap-bar-track {{ flex:1; background:#eee; height:14px; border-radius:7px; overflow:hidden; }}
+  .gap-bar-fill {{ height:100%; }}
+  .gap-pct {{ width:40px; text-align:right; font-size:12px; color:#666; }}
+  .rep-section {{ max-width:1000px; margin:24px auto; padding:0 20px; }}
+  .rep-header {{ background:{NAVY}; color:#fff; padding:14px 20px; border-radius:8px 8px 0 0; display:flex; justify-content:space-between; align-items:center; }}
+  .rep-header h3 {{ margin:0; font-size:16px; }}
+  .rep-avg {{ font-size:22px; font-weight:700; }}
+  .rep-calls {{ background:#fff; padding:16px; border-radius:0 0 8px 8px; }}
+  .call-card {{ border:1px solid #eee; border-radius:8px; padding:14px; margin-bottom:12px; }}
+  .call-header {{ display:flex; align-items:center; gap:14px; margin-bottom:10px; }}
+  .call-score {{ font-size:22px; font-weight:700; min-width:64px; }}
+  .call-meta {{ display:flex; gap:12px; font-size:11px; color:#888; }}
+  .listen-btn {{ margin-left:auto; background:{ORANGE}; color:#fff; padding:6px 12px; border-radius:6px; text-decoration:none; font-size:12px; font-weight:600; }}
+  .comps-grid {{ display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:6px; margin-bottom:10px; }}
+  .comp-item {{ background:#faf9f6; border-radius:6px; padding:6px 8px; }}
+  .comp-name {{ font-size:10px; color:#888; }}
+  .comp-score {{ font-size:14px; font-weight:700; }}
+  .call-notes {{ display:grid; grid-template-columns:1fr 1fr; gap:10px; }}
+  .note-box {{ background:#faf9f6; border-radius:6px; padding:8px 10px; font-size:12px; }}
+  .note-label {{ font-size:11px; font-weight:700; color:{ORANGE}; margin-bottom:2px; }}
+  .quote-item {{ font-size:12px; color:#555; margin-bottom:4px; }}
+  .transcript {{ white-space:pre-wrap; font-size:11px; color:#444; background:#faf9f6; padding:10px; border-radius:6px; max-height:400px; overflow-y:auto; }}
+  .skip-card {{ border:1px dashed #ddd; border-radius:8px; padding:10px 14px; margin-bottom:8px; font-size:12px; color:#888; }}
+  .rubric-section h2 {{ margin-bottom:8px; }}
+  .rubric-score-badges {{ display:flex; align-items:center; gap:16px; margin-bottom:16px; flex-wrap:wrap; }}
+  .rubric-badge {{ flex:0 0 auto; text-align:center; background:#fff; border:2px solid {NAVY}; border-radius:10px; padding:8px 18px; min-width:90px; }}
+  .rubric-badge-pass {{ border-color:{GREEN}; }}
+  .rb-num {{ font-size:24px; font-weight:800; color:{NAVY}; line-height:1.1; }}
+  .rubric-badge-pass .rb-num {{ color:{GREEN}; }}
+  .rb-lbl {{ font-size:10px; color:#888; text-transform:uppercase; letter-spacing:.4px; margin-top:2px; }}
+  .rubric-intro {{ font-size:12.5px; color:#555; line-height:1.55; margin:0; flex:1 1 320px; min-width:280px; }}
+  .rubric-stage-bar {{ display:flex; justify-content:space-between; align-items:center; background:{NAVY}; color:#fff; padding:6px 14px; border-radius:6px; font-size:12px; font-weight:700; letter-spacing:.2px; margin:14px 0 8px; }}
+  .rubric-stage-total {{ font-weight:400; color:rgba(255,255,255,0.75); }}
+  .rubric-cards {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(210px,1fr)); gap:8px; }}
+  .rubric-card {{ display:flex; gap:10px; background:#fff; border:1px solid #eee; border-radius:8px; padding:10px 12px; }}
+  .rc-pts {{ flex:0 0 auto; width:34px; height:34px; border-radius:50%; background:{ORANGE}; color:#fff; font-weight:700; font-size:13px; display:flex; align-items:center; justify-content:center; }}
+  .rc-name {{ font-size:12.5px; font-weight:700; color:#222; margin-bottom:2px; }}
+  .rc-sheet {{ font-weight:400; color:#999; font-size:10.5px; display:block; }}
+  .rc-desc {{ font-size:11px; color:#666; line-height:1.4; }}
+  .rubric-footnote {{ font-size:11.5px; color:#888; margin-top:14px; max-width:900px; }}
+  .team-avg-row {{ background:#eee7db; }}
+  .team-avg-row td {{ border-top:2px solid {NAVY} !important; border-bottom:2px solid {NAVY} !important; }}
+  .lb-header {{ display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px; margin-bottom:10px; }}
+  .lb-header h2 {{ margin:0; }}
+  .view-tabs {{ display:flex; gap:6px; }}
+  .view-tab {{ font-family:inherit; font-size:12px; font-weight:600; color:{NAVY}; background:#fff; border:1px solid #ddd; border-radius:999px; padding:6px 14px; cursor:pointer; }}
+  .view-tab.active {{ background:{NAVY}; color:#fff; border-color:{NAVY}; }}
+  .view-empty {{ display:none; background:#fff8ef; border:1px dashed {ORANGE}; border-radius:8px; padding:10px 14px; font-size:12px; color:#8a5a20; margin-bottom:10px; }}
+  body[data-view="tuesday"] .view-empty[data-view-only="tuesday"] {{ display:block; }}
+  body[data-view="wednesday"] .view-empty[data-view-only="wednesday"] {{ display:block; }}
+  body[data-view="tuesday"] tr[data-group]:not([data-group="tuesday"]) {{ display:none; }}
+  body[data-view="tuesday"] .rep-section[data-group]:not([data-group="tuesday"]) {{ display:none; }}
+  body[data-view="wednesday"] tr[data-group]:not([data-group="wednesday"]) {{ display:none; }}
+  body[data-view="wednesday"] .rep-section[data-group]:not([data-group="wednesday"]) {{ display:none; }}
+</style>
+</head>
+<body>
+  <div class="header">
+    <h1>CET Call Grading</h1>
+    <div class="sub">Week of {WEEK_START} to {WEEK_END} &nbsp;·&nbsp; Fresh rubric, no baseline carried forward &nbsp;·&nbsp; Passing bar: 80/100</div>
+    <div class="sub" style="margin-top:8px;"><a href="cet_trend_report.html" style="color:#fff;text-decoration:underline;">&#8592; See week-over-week trend across all reps</a></div>
+  </div>
+  <div class="stats-bar">
+    <div class="stat"><div class="num" id="stat-total">{n_total}</div><div class="lbl">calls pulled</div></div>
+    <div class="stat"><div class="num" id="stat-graded">{n_graded}</div><div class="lbl">graded</div></div>
+    <div class="stat"><div class="num" id="stat-skipped">{n_skipped}</div><div class="lbl">skipped</div></div>
+    <div class="stat"><div class="num" id="stat-avg" style="color:{score_color(avg_score)}">{avg_score}</div><div class="lbl">avg / 100</div><div id="stat-avg-trend" style="margin-top:4px">{trend_badge(round(avg_score - PRIOR_COMPANY_AVG, 1) if PRIOR_COMPANY_AVG is not None else None, size="12px")}</div></div>
+    <div class="stat"><div class="num" id="stat-pass" style="color:{GREEN if pass_count else RED}">{pass_count}</div><div class="lbl">calls passing (80+)</div></div>
+  </div>
+
+  <div class="section rubric-section">
+    <h2>How this is scored</h2>
+    <div class="rubric-score-badges">
+      <div class="rubric-badge"><div class="rb-num">100</div><div class="rb-lbl">points possible</div></div>
+      <div class="rubric-badge rubric-badge-pass"><div class="rb-num">80+</div><div class="rb-lbl">to pass</div></div>
+      <p class="rubric-intro">
+        Graded directly against the seven sections of the Einstein 15-Minute Quote Call script — updated 2026-09-24. Each section is scored on its own criteria below; there's no separate rapport or process-discipline line in this version, since those behaviors (real silence held, nothing repeated) are graded inside the relevant section instead.
+      </p>
+    </div>
+
+    <div class="rubric-stage-bar"><span>1. Open</span><span class="rubric-stage-total">10 pts</span></div>
+    <div class="rubric-cards">
+      <div class="rubric-card"><div class="rc-pts">5</div><div class="rc-body"><div class="rc-name">Quid pro quo</div><div class="rc-desc">Time-boxed ask + promise of a dependable quote, and the rep waits for a yes before continuing. Partial if rushed past, zero if skipped entirely.</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">3</div><div class="rc-body"><div class="rc-name">Discovery basics</div><div class="rc-desc">Name, moving day, city-to-city route, and approximate size — all four asked for full credit.</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">2</div><div class="rc-body"><div class="rc-name">Virtual walkthrough branch</div><div class="rc-desc">Offered correctly when the first stop is 1,800 sq ft+. Full credit if the home is under that size (nothing to offer).</div></div></div>
+    </div>
+
+    <div class="rubric-stage-bar"><span>2. Their Concerns</span><span class="rubric-stage-total">30 pts</span></div>
+    <div class="rubric-cards">
+      <div class="rubric-card"><div class="rc-pts">8</div><div class="rc-body"><div class="rc-name">Their agenda</div><div class="rc-desc">"Other than price, what are your biggest concerns... what do you want answers to on this call?" Full if asked before probing, partial if late, zero if never.</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">15</div><div class="rc-body"><div class="rc-name">Two layers deep</div><div class="rc-desc">Real follow-up on a raised concern — "tell me more" — not one question and a pivot. Heaviest single item on the whole card. Full credit if the customer never raised a concern at all.</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">7</div><div class="rc-body"><div class="rc-name">Active listening reflection</div><div class="rc-desc">"So what I'm hearing is ___, ___ and ___. Did I get all of it?" Full credit if no concerns were raised.</div></div></div>
+    </div>
+
+    <div class="rubric-stage-bar"><span>3. Probing for Details</span><span class="rubric-stage-total">20 pts</span></div>
+    <div class="rubric-cards">
+      <div class="rubric-card"><div class="rc-pts">12</div><div class="rc-body"><div class="rc-name">Logistics details gathered</div><div class="rc-desc">Property type, floor, rooms, walking distance, additional rooms, special considerations, additional stops — full credit for all/nearly all seven.</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">4</div><div class="rc-body"><div class="rc-name">Packing services offered</div><div class="rc-desc">Binary — asked or not asked.</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">4</div><div class="rc-body"><div class="rc-name">Box count / overflow check</div><div class="rc-desc">Binary — asked or not asked.</div></div></div>
+    </div>
+
+    <div class="rubric-stage-bar"><span>4. The Estimate</span><span class="rubric-stage-total">10 pts</span></div>
+    <div class="rubric-cards">
+      <div class="rubric-card"><div class="rc-pts">4</div><div class="rc-body"><div class="rc-name">Anchored, personalized estimate</div><div class="rc-desc">A typical range AND personalized to this move = full credit. Range only = partial.</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">3</div><div class="rc-body"><div class="rc-name">Pricing framing</div><div class="rc-desc">Fee transparency upfront + the "not a guess" / 2.5-hour-minimum commitment framing. Both = full, one = partial.</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">3</div><div class="rc-body"><div class="rc-name">"Does that feel fair?" + silence</div><div class="rc-desc">Asked, and followed by an actual pause — no immediate re-pitch.</div></div></div>
+    </div>
+
+    <div class="rubric-stage-bar"><span>5. Two Promises</span><span class="rubric-stage-total">10 pts</span></div>
+    <div class="rubric-cards">
+      <div class="rubric-card"><div class="rc-pts">4</div><div class="rc-body"><div class="rc-name">On-Time Guarantee delivered</div><div class="rc-desc">Covers the discount terms (starts discounting immediately if late) in recognizable form.</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">4</div><div class="rc-body"><div class="rc-name">No Worries Damage Coverage delivered</div><div class="rc-desc">$2,000 coverage, no deductible / no fine print, built into the rate (not an add-on).</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">2</div><div class="rc-body"><div class="rc-name">Closes the loop</div><div class="rc-desc">"Does that put those to rest?" asked, and nothing already covered gets repeated.</div></div></div>
+    </div>
+
+    <div class="rubric-stage-bar"><span>6. Concerns Again</span><span class="rubric-stage-total">10 pts</span></div>
+    <div class="rubric-cards">
+      <div class="rubric-card"><div class="rc-pts">5</div><div class="rc-body"><div class="rc-name">Genuine final concerns check</div><div class="rc-desc">"What's still concerning you about this move?" — not the throwaway "any questions?"</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">3</div><div class="rc-body"><div class="rc-name">Follow-up on remaining concern</div><div class="rc-desc">Real digging in if something is raised here. Full credit if nothing was raised.</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">2</div><div class="rc-body"><div class="rc-name">Catch-all asked</div><div class="rc-desc">"Anything coming with you we haven't talked about?" — binary.</div></div></div>
+    </div>
+
+    <div class="rubric-stage-bar"><span>7. Ask for the Business</span><span class="rubric-stage-total">10 pts</span></div>
+    <div class="rubric-cards">
+      <div class="rubric-card"><div class="rc-pts">5</div><div class="rc-body"><div class="rc-name">Explicit ask, no easy out</div><div class="rc-desc">"Would you like our help with your move?" asked plainly — never softened into an out like "or I can just email this over."</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">2</div><div class="rc-body"><div class="rc-name">Rate-lock / no-deposit mentioned</div><div class="rc-desc">Binary.</div></div></div>
+      <div class="rubric-card"><div class="rc-pts">3</div><div class="rc-body"><div class="rc-name">Booking confirmed with details</div><div class="rc-desc">Date, phone, window, crew size, addresses confirmed, and notes left for the crew.</div></div></div>
+    </div>
+
+    <p class="rubric-footnote">
+      <strong>Walkthrough exception:</strong> calls cleanly routed to a virtual walkthrough before pricing (the Section 1 branch, large moves) get Sections 4–7 scored as full credit rather than zeroed — pricing was never supposed to happen on this call. Only for a clean, by-design handoff, not a call that just trails off. Sections 1–3 still score normally.
+    </p>
+  </div>
+
+  <div class="section">
+    <div class="lb-header">
+      <h2>Leaderboard</h2>
+      <div class="view-tabs">
+        <button class="view-tab active" data-view="all" type="button">All CET</button>
+        <button class="view-tab" data-view="tuesday" type="button">Tuesday Group</button>
+        <button class="view-tab" data-view="wednesday" type="button">Wednesday Group</button>
+      </div>
+    </div>
+    {tuesday_empty_html}
+    {wednesday_empty_html}
+    <table>
+      <tr><th>#</th><th>Rep</th><th>Calls</th><th>Avg</th><th>Passes</th><th>Trend</th></tr>
+      <tbody id="leaderboard-body">
+      {leaderboard_rows()}
+      </tbody>
+    </table>
+    <p style="font-size:12px;color:#888;margin-top:8px;">Trend compares each rep's average to their prior graded week. "— new" means no prior week on record for that rep. Full history: <a href="cet_trend_report.html" style="color:{BLUE}">week-over-week trend page</a>.</p>
+  </div>
+
+  <div class="section">
+    <h2>Where the score is going <span id="gap-chart-scope" style="font-weight:400;color:#888;font-size:13px">(company-wide, % of max)</span></h2>
+    <div id="gap-chart">
+    {comp_gap_rows()}
+    </div>
+  </div>
+
+  {rep_sections_html}
+
+  <div class="section" style="color:#999;font-size:11px;padding:12px 0 40px;">
+    This page is public but marked no-index — it isn't listed anywhere or access-gated. Anyone with this exact link can view it, including the transcripts below.
+  </div>
+
+<script>
+  var CALLS = {calls_json};
+  var COMPONENTS = {components_json};
+  var VIEW_LABELS = {{all: "company-wide", tuesday: "Tuesday group", wednesday: "Wednesday group"}};
+  var PRIOR_REP_AVG = {json.dumps(PRIOR_REP_AVG)};
+  var PRIOR_COMPANY_AVG = {json.dumps(PRIOR_COMPANY_AVG)};
+
+  function trendBadgeJs(delta, size) {{
+    size = size || '13px';
+    if (delta == null) return '<span style="color:#bbb;font-size:' + size + '">— new</span>';
+    if (delta > 0.05) return '<span style="color:{GREEN};font-size:' + size + ';font-weight:700">&#9650; +' + delta.toFixed(1) + '</span>';
+    if (delta < -0.05) return '<span style="color:{RED};font-size:' + size + ';font-weight:700">&#9660; ' + delta.toFixed(1) + '</span>';
+    return '<span style="color:#888;font-size:' + size + '">&#9679; +0.0</span>';
+  }}
+
+  function scoreColor(s) {{
+    if (s == null) return '#888';
+    if (s >= 80) return '{GREEN}';
+    if (s >= 60) return '{BLUE}';
+    if (s >= 40) return '{ORANGE}';
+    return '{RED}';
+  }}
+  function compColor(pct) {{
+    if (pct >= 90) return '{GREEN}';
+    if (pct >= 50) return '{BLUE}';
+    if (pct >= 20) return '{ORANGE}';
+    return '{RED}';
+  }}
+  function anchorName(name) {{
+    return name.split(' ').join('_').split("'").join('');
+  }}
+
+  function renderView(view) {{
+    var filtered = view === 'all' ? CALLS : CALLS.filter(function(c) {{ return c.group === view; }});
+    var graded = filtered.filter(function(c) {{ return c.score != null; }});
+    var skipped = filtered.filter(function(c) {{ return c.score == null; }});
+    var avg = graded.length ? (graded.reduce(function(a, c) {{ return a + c.score; }}, 0) / graded.length) : 0;
+    var passCount = graded.filter(function(c) {{ return c.score >= 80; }}).length;
+
+    document.getElementById('stat-total').textContent = filtered.length;
+    document.getElementById('stat-graded').textContent = graded.length;
+    document.getElementById('stat-skipped').textContent = skipped.length;
+    var avgEl = document.getElementById('stat-avg');
+    avgEl.textContent = avg.toFixed(1);
+    avgEl.style.color = scoreColor(avg);
+    var passEl = document.getElementById('stat-pass');
+    passEl.textContent = passCount;
+    passEl.style.color = passCount > 0 ? '{GREEN}' : '{RED}';
+    document.getElementById('gap-chart-scope').textContent = '(' + VIEW_LABELS[view] + ', % of max)';
+    // Prior-week average is only tracked company-wide, not per training group,
+    // so the header trend badge only makes sense on the "All CET" view.
+    document.getElementById('stat-avg-trend').innerHTML = (view === 'all' && PRIOR_COMPANY_AVG != null) ? trendBadgeJs(avg - PRIOR_COMPANY_AVG, '12px') : '';
+
+    // leaderboard, re-ranked for this view
+    var byRep = {{}};
+    filtered.forEach(function(c) {{ (byRep[c.rep] = byRep[c.rep] || []).push(c); }});
+    var rows = Object.keys(byRep).map(function(rep) {{
+      var entries = byRep[rep];
+      var scored = entries.filter(function(e) {{ return e.score != null; }}).map(function(e) {{ return e.score; }});
+      var avgR = scored.length ? scored.reduce(function(a, b) {{ return a + b; }}, 0) / scored.length : null;
+      var passes = scored.filter(function(s) {{ return s >= 80; }}).length;
+      return {{rep: rep, n: entries.length, nScored: scored.length, avg: avgR, passes: passes}};
+    }}).filter(function(r) {{ return r.avg != null; }}).sort(function(a, b) {{ return b.avg - a.avg; }});
+
+    // Team-row trend only shown on "all" — prior data is company-wide, not per training group.
+    var teamDelta = (view === 'all' && PRIOR_COMPANY_AVG != null) ? (avg - PRIOR_COMPANY_AVG) : null;
+    var teamAvgRow = '<tr class="team-avg-row"><td></td><td style="font-weight:700">Team Average</td>' +
+      '<td>' + graded.length + '</td>' +
+      '<td><strong style="color:' + scoreColor(avg) + '">' + avg.toFixed(1) + '</strong></td>' +
+      '<td>' + passCount + '</td>' +
+      '<td>' + (view === 'all' ? trendBadgeJs(teamDelta) : '<span style="color:#bbb;font-size:12px">n/a</span>') + '</td></tr>';
+
+    document.getElementById('leaderboard-body').innerHTML = teamAvgRow + rows.map(function(r, i) {{
+      var excl = r.nScored !== r.n ? (' <span style="color:{ORANGE};font-size:11px">(' + (r.n - r.nScored) + ' excl.)</span>') : '';
+      var prior = PRIOR_REP_AVG[r.rep];
+      var repDelta = (prior != null) ? (r.avg - prior) : null;
+      return '<tr><td style="color:#aaa">' + (i + 1) + '</td>' +
+        '<td><a href="#' + anchorName(r.rep) + '" style="font-weight:700;color:{NAVY};text-decoration:none">' + r.rep + '</a></td>' +
+        '<td>' + r.nScored + excl + '</td>' +
+        '<td><strong style="color:' + scoreColor(r.avg) + '">' + r.avg.toFixed(1) + '</strong></td>' +
+        '<td>' + r.passes + '</td>' +
+        '<td>' + trendBadgeJs(repDelta) + '</td></tr>';
+    }}).join('');
+
+    // gap chart, recomputed and re-sorted for this view
+    var compStats = COMPONENTS.map(function(comp) {{
+      var key = comp[0], label = comp[1], mx = comp[2];
+      var vals = graded.map(function(c) {{ return c[key] || 0; }});
+      var avgV = vals.length ? vals.reduce(function(a, b) {{ return a + b; }}, 0) / vals.length : 0;
+      var pct = mx ? Math.round(100 * avgV / mx) : 0;
+      return {{label: label, pct: pct}};
+    }}).sort(function(a, b) {{ return a.pct - b.pct; }});
+
+    document.getElementById('gap-chart').innerHTML = compStats.map(function(d) {{
+      return '<div class="gap-row"><div class="gap-label">' + d.label + '</div>' +
+        '<div class="gap-bar-track"><div class="gap-bar-fill" style="width:' + d.pct + '%;background:' + compColor(d.pct) + '"></div></div>' +
+        '<div class="gap-pct">' + d.pct + '%</div></div>';
+    }}).join('');
+  }}
+
+  document.querySelectorAll('.view-tab').forEach(function(btn) {{
+    btn.addEventListener('click', function() {{
+      document.querySelectorAll('.view-tab').forEach(function(b) {{ b.classList.remove('active'); }});
+      btn.classList.add('active');
+      document.body.setAttribute('data-view', btn.dataset.view);
+      renderView(btn.dataset.view);
+    }});
+  }});
+</script>
+</body>
+</html>'''
+
+OUT_PATH.write_text(html_out)
+print(f"Written: {OUT_PATH}  ({len(html_out)/1024:.0f} KB)")
