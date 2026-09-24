@@ -167,9 +167,13 @@ Some intake calls correctly route to a virtual walkthrough before any pricing ha
 
 Every rep's most recent score under v2 (`rubric_v2.md`) is locked in as a v2 baseline, the same way v1 scores were locked in when v2 launched. Starting with the rollout run, all grading uses v3; going forward, reps are compared against their own v3 trajectory, not the v2 number — the two scales don't convert to each other, since the point structure and section boundaries are different, not just reweighted.
 
+## Decisions resolved 2026-09-24 (confirmed with Amanda)
+
+- **Rapport/warmth and process discipline stay eliminated as standalone scored lines.** Confirmed, not just a default — the seven section totals already sum to 100 and Amanda does not want them reinstated.
+- **"Meet Your Mover" / crew intro stays without a dedicated home.** Confirmed — grade strictly off the current script as shared; nothing added back to cover content that only lived in the removed "IF THEY SAY" section.
+- **No calibration session required before this rubric goes live.** The 60-minute session with Cameron, Nhel, and Tetet (per-bullet weights, walkthrough-scheduler treatment, comp tie risk) is no longer a prerequisite — v3 ships as the live rubric as-is, not a draft pending that meeting.
+
 ## Open decisions (carried forward, unresolved)
 
-1. Per-line weight fine-tuning after the first live run or two under v3 — this is a first pass built directly from the new script, not yet field-tested.
-2. Whether rapport/warmth should be reinstated as its own scored line (dropped in this version — see **Why this version exists** above). If reinstated, it would need to come out of one of the seven section totals, since they already sum to 100.
-3. Whether a Super Green stretch tier sits above 80 — still not set, single 80 pass/fail bar carried over from v2.
-4. Per-bullet weights, walkthrough-scheduler treatment, and comp tie risk are still pending the 60-minute calibration session with Cameron, Nhel, and Tetet — this rubric is being built and shipped ahead of that session per Amanda's explicit direction (2026-09-24), not as a substitute for it.
+1. Per-line weight fine-tuning after the first live run or two under v3 — this is a first pass built directly from the new script, not yet field-tested, though no further review gate is required before it goes live.
+2. Whether a Super Green stretch tier sits above 80 — still not set, single 80 pass/fail bar carried over from v2.
