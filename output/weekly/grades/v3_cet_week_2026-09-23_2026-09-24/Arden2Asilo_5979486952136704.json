@@ -1,0 +1,38 @@
+{
+  "call_id": "5979486952136704",
+  "rep_name": "Arden 2Asilo",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 13.0,
+  "datetime_ct": "2026-09-23 14:33 CT",
+  "external_number": "+12818711482",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 23,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 8,
+  "total_score": 79,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Now in order for us to put together an estimate, sir, I have some questions for you that might take around ten to fifteen minutes. Would that be fine?",
+    "their_agenda": "Other than the price, what are your biggest concerns about this move or any questions that you'd like to for to ask me in advance?",
+    "two_layers_deep": "Mm-hmm. I excellent question, sir. Compared to other companies who charge for this assembly and reassembly with Einstein moving, sir. That's already included in your hourly rate. So whatever needs to be disassembled, we're gonna disassemble it for you and we're gonna reassemble it to the new location.",
+    "logistics_details": "It's a one story house, 1400 square foot... How many bedrooms this house, please, sir?... Are we going to move items from your garage... How about backyard items or patio or back porch items?",
+    "box_count": "How about boxes typically sir for house your size box count is within 45 to 55 pieces so many number of boxes are we going to move for you?",
+    "packing_services": "Do you need help packing your items? Because we can also do packing.",
+    "estimate_anchor": "Typically for a 1400 square foot house it usually takes two movers between six to eight hours... However in your case sir since we're going to be moving you from a one story house with a special item to take extra time and care of just as your big TV... I'm estimating the move to take around eight to nine hours in total. So it's good to budget an overall of $200.54269 million for the move.",
+    "pricing_framing": "We charge an hourly rate of $206 per hour... Everything is already included in this hourly rate, gas trucks, taxes, insurance... The only thing outside the hourly rate is a one time transportation fee of $838... there's gonna be no hidden fees of any type... For any move, it's a two and a half hour minimum. Once we go over the minimum, the time will be prorated in fifteen minutes, increment.",
+    "on_time_guarantee": "See if the movers arrive late you start to get discount on your final bill sir.",
+    "damage_coverage": "We have a free evaluation coverage for you that provides up to $2,000 for this move. See if anything gets damage gets broken you can just give us a call to Finley claim... That's gonna either be repaired, replace or reimbursed that's gonna be zero deductible and it will be handled within three to five business days.",
+    "explicit_ask": "So are you, do you want me to help you with the move on Friday the twenty fifth?"
+  },
+  "top_strength": "Rep gathered comprehensive logistics details across both properties, asked the customer's concerns upfront before probing, and delivered both major promises (On-Time Guarantee and No Worries Damage Coverage) with full terms intact.",
+  "coaching_note": "Rep never asked 'Does that feel fair?' after pricing, never asked a genuine final concerns check (Section 6), and never closed the loop on the Two Promises by confirming those put the customer's mind at rest \u2014 all three omissions left value on the table before the explicit ask."
+}

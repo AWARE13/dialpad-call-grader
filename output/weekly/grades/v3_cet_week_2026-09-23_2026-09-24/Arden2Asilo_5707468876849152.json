@@ -1,0 +1,40 @@
+{
+  "call_id": "5707468876849152",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 11.6,
+  "datetime_ct": "2026-09-24 14:37 CT",
+  "external_number": "+15129986436",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 3,
+  "section3_probing_for_details": 14,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Arden: 'This will, this will just take around ten to fifteen minutes. Okay? And before we get into that details, ma'am. Do you have any questions or any moving, general concern that you'd like to ask at least I'll be able to take note of that?' \u2014 framing present but no explicit wait for yes; pivots directly into probing.",
+    "their_agenda": "Arden: 'Do you have any questions or any moving, general concern that you'd like to ask at least I'll be able to take note of that?' \u2014 asked, but only after mentioning the 10\u201315 minute frame; Katie answered 'No' and Arden proceeded immediately into logistics probing ('This is for a 1600 square foot...') without pausing or exploring.",
+    "two_layers_deep": "Katie raised one concern implicitly (disagreement with the $3,265 estimate and time estimate at the end: 'there's no, no there's no way that it's gonna take that long. It's a partial home for two bedrooms... I'm also not gonna pay over $1,000 for movers'). Arden did not follow up with 'tell me more about that' or dig deeper into her objection; instead, Arden said 'I see. No problem, ma'am.' and the call ended.",
+    "active_listening_reflection": "No reflection. Arden acknowledged the final objection ('I see') but did not summarize back what was heard or confirm with Katie.",
+    "estimate_anchor": "Arden: 'I'm estimating the move ma'am, to take around eight and a half to nine and a half hours for three movers. So, it's good to budget an overall of $3,265 for the move.' \u2014 range given for this specific move, but no typical anchor for a home this size given earlier in the section; partial credit.",
+    "pricing_framing": "Arden: '$100 per hour, per mover... $335 one time transportation fee... no hidden fees... $2,000 free evaluation coverage, zero deductible... two and a half hour minimum... fifteen minutes increment' \u2014 fee transparency and commitment framing both present; full.",
+    "feels_fair_then_silence": "Never asked. Arden moved from pricing explanation directly to Katie's follow-up question ('what's the charge for fifteen minutes?') with no 'Does that feel fair?' check or pause.",
+    "on_time_guarantee_delivered": "Arden: 'we also have an on time guarantee so if the movers arrive late, you start to get discount on your final bill' \u2014 mentioned, but terms vague (what is the discount amount/structure?); partial credit.",
+    "damage_coverage_delivered": "Arden: 'you're gonna get up to $2,000 free evaluation coverage, so if anything gets damaged or broken you can just give us a call to file a claim... It's either gonna be repaired or replaced or reimbursed zero deductible' \u2014 $2,000 coverage, no deductible, and framed as included ('free evaluation coverage'); full.",
+    "closes_the_loop": "Arden asked 'before I go over pricing structure and estimate, do you have any question any clarification regarding the moving process in general?' after probing, but this is not a version of 'Does that put those to rest?' and does not explicitly close the loop on the Two Promises section.",
+    "final_concerns_check": "Not asked. When Arden finished the estimate and Katie objected strongly to price/time, Arden did not ask 'What's still concerning you about this move?' or any genuine final concerns probe.",
+    "catch_all_asked": "Not asked. No 'Anything coming with you we haven't talked about?' before closing.",
+    "explicit_ask": "Never. Arden never asked 'Would you like our help with your move?' or any recognizable version. Katie ended the call herself ('thank you for your time') after the price objection, and Arden accepted ('No problem, ma'am') without attempting to recover or ask for the business."
+  },
+  "top_strength": "Arden gathered comprehensive logistics details efficiently (property type, bedrooms, parking, special items like two 70-inch TVs, packing scope, destination property) and disclosed pricing structure and two promises (on-time guarantee and $2,000 damage coverage) clearly and fully.",
+  "coaching_note": "When the customer objected to the estimate on price and time (the critical decision moment), Arden accepted the objection without follow-up, re-framing, or asking for the business \u2014 the call ended without ever making an explicit ask, and no attempt was made to recover the deal when Katie signaled hesitation."
+}

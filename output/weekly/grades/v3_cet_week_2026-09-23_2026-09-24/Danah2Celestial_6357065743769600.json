@@ -1,0 +1,40 @@
+{
+  "call_id": "6357065743769600",
+  "rep_name": "Danah 2Celestial",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 7.6,
+  "datetime_ct": "2026-09-23 19:41 CT",
+  "external_number": "+15125743657",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 8,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skipped the time-boxed framing and promise structure entirely. Jumped directly into probing: 'Just have a few more questions. Is now a good time?'",
+    "their_agenda": "Never asked. Rep moved straight into logistics details without asking what Brett's concerns or priorities were for the move.",
+    "estimate_anchor": "Rep gave typical range and personalized to Brett's situation: 'typically 1100 square foot home takes two movers anywhere between four and six hours... In your case I would estimate to remove to take about three to five hours with you guys. So you're gonna be looking at around $660 to $1,100'",
+    "pricing_framing": "Hourly rate disclosed ($220 for two movers), what's included (gas, truck, taxes, insurance, wrapping, disassembly/reassembly), no additional fees stated. Two-and-a-half hour minimum and 15-minute increments explained: 'the time is prorated in fifteen minute increment.'",
+    "feels_fair_then_silence": "Not asked. Rep moved directly to booking: 'So yeah, Brett if you want we can go ahead and pencil you in for Friday October 2nd...'",
+    "on_time_guarantee": "Not mentioned at all.",
+    "damage_coverage": "Not mentioned at all.",
+    "final_concerns_check": "Not asked. Rep moved straight to booking without a genuine 'What's still concerning you?' check.",
+    "explicit_ask": "Plainly asked with no out: 'would you like our help with your move?'",
+    "rate_lock": "Mentioned: 'no need for deposit and no rescheduling and cancellation fees'",
+    "booking_confirmed": "Start time confirmed (8:30\u20139:00 AM), date confirmed (Friday October 2nd), movers will call en route confirmed. Missing: phone number confirmation, arrival window clarity, crew size explicitly confirmed (assumed two, not stated back), addresses not explicitly confirmed on the call, no notes left about customer concerns (divorce situation, TV movement, parking complexity)."
+  },
+  "top_strength": "Danah gathered all seven logistics details methodically and personalized the estimate directly to Brett's half-house scenario, making the $660\u2013$1,100 range credible and specific to the move.",
+  "coaching_note": "Section 2 (Their Concerns) was completely skipped \u2014 Danah never asked what Brett's biggest concerns were, jumped straight into logistics probing, and missed the chance to discover the divorce/timing urgency and TV/parking concerns until Brett volunteered them mid-call; this left no room for active listening reflection or proper framing before pricing."
+}

@@ -1,0 +1,32 @@
+{
+  "call_id": "5569974734725120",
+  "rep_name": "Nicole Tolete",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 11.9,
+  "datetime_ct": "2026-09-23 20:06 CT",
+  "external_number": "+14695314579",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 82,
+  "pass": true,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "quid_pro_quo": "This will take around ten to fifteen minutes. You can depend on this call will just take around ten to fifteen minutes. Will that work? [customer confirms 'Yeah']",
+    "discovery_basics": "What is your preferred move date? [Sat Sept 26 confirmed] Where are you moving from/to? [addresses obtained] Three bedroom to three bedroom, two bath [room count], estimated 2400 sq ft [approximate size]",
+    "their_agenda": "Before I get the details of your move, I'd like to ask what are your biggest concerns and what are the most important things you want answers to on this call today?",
+    "two_layers_deep": "Customer raises damage concern: 'I wanna make sure my furniture doesn't get damaged.' Rep responds: 'We have a no worries damage coverage' but does not ask follow-up like 'tell me more about that' or 'what specific items are you most worried about?' Moves directly to offering solution.",
+    "walkthrough_branch": "Rep correctly identifies home is approximately 2400 sq ft (over 1800 threshold) and offers virtual walkthrough: 'Alternatively we can do a virtual walkthrough, it's like a video call on your preferred time and date.' Customer accepts and walkthrough is scheduled via photos/videos link.",
+    "estimate_anchor": "Rep provides hourly rate ($105/mover) and explains service inclusions before customer can upload photos, but does not anchor to a typical range for a 2400 sq ft 3-bed home or personalize based on customer's stated concerns.",
+    "explicit_ask": "No explicit ask for the business occurs; call routes cleanly to walkthrough completion with secure link sent and follow-up callback promised: 'Once I got your photos and video, I'll be giving you a callback for your personalized estimate.'"
+  },
+  "top_strength": "Nicole correctly identified the move size (2,400 sq ft), recognized it required a virtual walkthrough before pricing, and cleanly routed the call to that walkthrough with a secure upload link and clear callback promise\u2014no abandoned pitch or mid-stream confusion.",
+  "coaching_note": "When the customer raised their main concern (furniture damage), Nicole jumped straight to the solution (damage coverage explanation) instead of digging deeper with a follow-up question\u2014'tell me more about that' would have surfaced whether they were worried about specific high-value items, previous bad experiences, or something else, making the later promises land harder."
+}

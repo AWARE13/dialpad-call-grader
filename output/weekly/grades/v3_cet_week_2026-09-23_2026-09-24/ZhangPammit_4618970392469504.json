@@ -1,0 +1,42 @@
+{
+  "call_id": "4618970392469504",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 20.2,
+  "datetime_ct": "2026-09-23 19:53 CT",
+  "external_number": "+12107798177",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 23,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 64,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "\"This will take about five to ten minutes of your time. Would that be okay?\" \u2014 framed with time and wait for yes, but stated as 5-10 min vs. script's 10-15 min range, minor variance.",
+    "discovery_basics": "Name (Rene Maravilla), moving day (26th), route (San Antonio to San Antonio, two locations), size (1,400 sq ft source, 1,200 sq ft destination) \u2014 all four present.",
+    "their_agenda": "\"Do you have any specific concerns or any important things that you wanted to answer during this call today?\" \u2014 asked before any logistics probing began.",
+    "two_layers_deep": "Customer raised moving a dresser and king mattress upstairs, packing/supplies concern, partial packing status. Rep followed: \"Okay... mm-hmm... Yeah no problem...\" and customer elaborated on each point. Concerns were explored through natural customer disclosure rather than rep-initiated probes, but customer did signal completion (\"I don't know what else like, what concerns or if there's anything else you need from me\") and rep accepted that signal.",
+    "estimate_anchor": "\"A typical 1400 square foot home would normally takes two movers and one truck between six to eight hours... in your case... we will split to move into two days on the first day... three to four hours and on the following day... seven to eight hours... total estimate would be $2,672.\" Later revised to $1,648 for move-only, $824 for four hours, $515 for minimum. Personalized to partial packing, single story to two story, distance, and customer's stated prep.",
+    "pricing_framing": "Trip fee/overnight fee not mentioned. Stated: \"$103 dollars per hour per mover,\" \"26 foot box truck with everything needed... all the wraps, the pods, the bunds... all of the tools... packing cost of 200 dollars,\" \"no hidden fees of any type. No credit card fees. No sterle fees, no assembly fees,\" \"minimum of two and a half hours... fifteen minute increments,\" \"you only need to pay once the job is done and only for the actual hours.\" Full transparency on fees and minimum/increment structure present.",
+    "feels_fair_then_silence": "Never asked. After final revised pricing, customer said \"Okay, cheers. I'll keep, I'll definitely keep it in mind\" and rep moved to contact/email closure without asking \"Does that feel fair?\" or similar.",
+    "on_time_guarantee": "\"We have on time guarantee we value your time. So, if you cannot make it to the time window that we arrange, we immediately start discounting money of your final bill.\" \u2014 discount terms stated clearly.",
+    "damage_coverage": "\"No worry, damage coverage included on the R-D weigh... we will provide up to 2000 dollars per Ma that is to repair, replace and reimburse for items.\" \u2014 $2,000 stated and framed as included, but no explicit mention of \"no deductible\" or \"no fine print\" language.",
+    "closes_the_loop": "After Two Promises, rep stated \"And the best part is that, there's no hidden fees of any type\" \u2014 this repeats fee transparency already covered in Section 4 pricing framing. No \"Does that put those to rest?\" or equivalent. Does not close the loop cleanly.",
+    "final_concerns_check": "Not asked. Call transitions directly to contact info and email quotation offer without asking \"What's still concerning you?\" or similar genuine concern check.",
+    "catch_all_asked": "Not asked. No \"Anything coming with you we haven't talked about?\" variant.",
+    "explicit_ask": "Never asked. Call closes with customer offering to call back and rep offering email quotation. No \"Would you like our help with your move?\" or equivalent explicit ask.",
+    "rate_lock_mentioned": "Not mentioned.",
+    "booking_confirmed": "No booking occurred. Customer said \"I'll get back to you as soon as I can, hopefully early, hopefully I'll get back to you by tomorrow morning the latest.\" Rep confirmed callback and offered to send email quote. No date/phone/window/crew size/addresses/crew notes confirmed."
+  },
+  "top_strength": "Rep gathered exceptionally thorough logistics details across both properties (bedrooms, garage type, parking, access concerns, furniture inventory, packing scope) and delivered clear, anchored pricing with full fee transparency and minimum/increment framing.",
+  "coaching_note": "Rep never asked for the business \u2014 the call ended with a passive \"call me back\" handoff instead of an explicit close; add \"Would you like our help with your move?\" before pivoting to contact details, and confirm at least date and phone if the customer says yes."
+}

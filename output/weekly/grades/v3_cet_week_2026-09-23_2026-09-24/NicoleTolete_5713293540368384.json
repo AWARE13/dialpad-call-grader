@@ -1,0 +1,35 @@
+{
+  "call_id": "5713293540368384",
+  "rep_name": "Nicole Tolete",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 15.6,
+  "datetime_ct": "2026-09-24 19:36 CT",
+  "external_number": "+13869860709",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 30,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 8,
+  "section7_ask_for_the_business": 10,
+  "total_score": 82,
+  "pass": true,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "And I'd like to ask first what are your biggest concerns and what are the most important things you want answers to on this call today?",
+    "two_layers_deep": "Nicole probes on timeline concern: 'And to confirm if I got you correctly, the first storage unit is like a floor full, like fifty percent full but the other one is like, most like, the 75 percent full that I got worth, did I get it right?' Then confirms access details: 'Oh, yeah, I just wanna ask if they are both on the third floor.' Continues with truck parking logistics at destination.",
+    "active_listening_reflection": "to confirm if I got you correctly, the first storage unit is like a floor full, like fifty percent full but the other one is like, most like, the 75 percent full that I got worth, did I get it right?",
+    "estimate_anchor": "for a typical 115 by ten storage unit it usually takes around five and a half to seven and a half hours to completely move with two movers and one truck. In your case, since we are moving two storage units both from the third floor, one is fifty percent full and 75 percent full. Moving to, oh, story house with forty minutes drive time between location. I will estimate this move to take around five to six hours with four movers and two trucks... $2,060 to $2,444",
+    "explicit_ask": "I can definitely secure a spot for you now.",
+    "pricing_framing": "We charge $96 per hour per mover... Everything is included in the hourly rate, like the fuel and truck taxes, insurance... There's only one thing outside of the hourly rate which is a one time travel fee of $70 per truck... We have a minimum of two and a half hours, once we go over the minimum, the time is prorated in fifteen minute increments.",
+    "on_time_guarantee": "if we cannot make it in the time window that we arrange, we immediately start discounting money of your final bill.",
+    "damage_coverage": "we have no worries damage coverage we provide up to $2,000 per move to repair, replace or reimburse for any accidental damages."
+  },
+  "top_strength": "Nicole expertly gathered all four discovery basics upfront, asked the customer's agenda before probing, then went two layers deep on concerns (timeline, storage unit fullness, access, location details) and reflected back what she heard to confirm accuracy.",
+  "coaching_note": "Section 4 never asks 'Does that feel fair?' and Section 6 never asks the catch-all 'Anything coming with you we haven't talked about?' \u2014 both are critical silence checks that keep momentum and flag hidden objections late."
+}

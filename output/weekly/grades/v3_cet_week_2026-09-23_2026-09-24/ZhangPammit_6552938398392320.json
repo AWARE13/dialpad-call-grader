@@ -1,0 +1,33 @@
+{
+  "call_id": "6552938398392320",
+  "rep_name": "Zhang Pammit",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 8.4,
+  "datetime_ct": "2026-09-23 21:20 CT",
+  "external_number": "+19728979891",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 83,
+  "pass": true,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'this would take within the next five minutes of your time. Would that be okay?' \u2014 time-boxed but no explicit promise of a dependable quote and no real wait for confirmation before moving on.",
+    "their_agenda": "Rep asks 'What are your biggest concerns or any important things that you wanted to answer on this call today?' \u2014 asked before probing starts.",
+    "two_layers_deep": "Customer says 'pricing making sure that it's all inclusive' and rep responds 'Mm-hmm. The pricing. Okay, no worries. We'll go ahead and walk you through how our pricing works' \u2014 acknowledges but does not dig deeper with follow-up.",
+    "active_listening_reflection": "No summary reflection. Rep moves directly to logistics after acknowledgment.",
+    "logistics_details_gathered": "Property type (house/apartment), floors (2-story, 3-story), rooms (4 bedrooms, 3 bedrooms), parking (driveway/street, garage concern), boxes (30), unit number (1234), square footage (2900, 1600), distance from truck to door (100 feet), access concerns (low hang, narrow pathways) all covered.",
+    "packing_services": "Rep asks 'no need help in packing' \u2014 phrased as a confirmation rather than an offer, but does surface the question.",
+    "box_count": "Rep asks 'how many boxes are we moving?' and gets '30 boxes' response.",
+    "walkthrough_routing": "Rep correctly identifies 2,900 sq ft home and offers virtual walkthrough: 'So normally based on your home size, we do a virtual walkthrough... Do you have time to complete the virtual walkthrough?' Customer agrees, rep sends link and transitions cleanly to walkthrough without abandoning the call."
+  },
+  "top_strength": "Rep systematically gathered all required logistics details (property type, floors, rooms, parking, boxes, unit info, square footage, distance, access concerns) and correctly routed a 2,900 sq ft move to a virtual walkthrough per the script.",
+  "coaching_note": "When the customer raised their main concern (pricing/all-inclusive), the rep should have gone at least one layer deeper ('Tell me more about what \"all-inclusive\" means to you') instead of jumping directly to logistics confirmation."
+}

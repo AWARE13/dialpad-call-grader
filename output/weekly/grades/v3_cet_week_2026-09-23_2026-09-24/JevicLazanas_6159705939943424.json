@@ -1,0 +1,35 @@
+{
+  "call_id": "6159705939943424",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 9.3,
+  "datetime_ct": "2026-09-23 16:00 CT",
+  "external_number": "+17134800857",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 75,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says: 'we can definitely help you with that. And good thing that we have an available schedule on Wednesday September 30th. So, let's go ahead and build your profile so we can provide you know an accurate estimate you can depend on sounds good.' \u2014 promise of dependable estimate is present, but no explicit time-box framing (10\u201315 minutes) and no clear wait for yes before continuing.",
+    "discovery_basics": "Name: Hoa Vo. Moving date: September 30th. Type: house to house, 7 minutes away. Size: 2100 sq ft. All four elements present.",
+    "walkthrough_branch": "Rep correctly identified 2100 sq ft (\u22651800 threshold) and offered virtual walkthrough: 'for the type of move you have, we will be needing a virtual walk through.' Customer agreed to 1:00 PM slot. Rep confirmed scheduling: 'So 1:00 PM we will try to schedule the virtual walkthrough.'",
+    "their_agenda": "Never asked. Rep moved directly into address collection and logistics probing without asking 'Other than price, what are your biggest concerns about this move?'",
+    "logistics_details_gathered": "Pickup address collected. Property type (house), stories (1 at pickup, 2 at destination), bedrooms (4 at pickup, 3 at destination), parking (yes, driveway at both). Special considerations (refrigerator, dryer, tables, boxes\u2014customer volunteered, rep did not probe deeply). No additional rooms or walking distance asked. About half the seven logistics items covered.",
+    "packing_services_offered": "Not asked.",
+    "box_count_asked": "Not asked."
+  },
+  "top_strength": "Rep correctly identified the 2100 sq ft threshold and immediately routed to a virtual walkthrough without attempting to quote on the call, keeping discovery focused and setting customer expectations clearly for next steps.",
+  "coaching_note": "Section 2's 'Their Agenda' question\u2014'Other than price, what are your biggest concerns about this move?'\u2014was never asked before probing started; this is the highest-value discovery item on the call and should always lead the concerns discussion."
+}

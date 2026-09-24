@@ -1,0 +1,390 @@
+{
+  "call_id": "6114419309846528",
+  "lines": [
+    {
+      "content": "Hi, good morning, this is Shany with Einstein moving. How can I help you?",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:10:54.680772",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:10:54.680772",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:10:54.680772",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:10:54.680772",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:10:54.680772",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:10:54.680772",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:10:54.680772",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:10:56.239772",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:10:56.719772",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:10:57.639772",
+      "type": "custom_moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "Hi. I'm just calling to let you know I just spoke to one of your movers but they just hit my house with their truck.",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:10:58.866468",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "call_purpose",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:10:58.866468",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, okay, I mean, you, okay, you're not a, a mover. I mean, you're not a client.",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:11:07.880772",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "Yup.",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:11:09.666468",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "There's.",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:11:12.066468",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "I'm not a customer. I'm in a different unit but I've list sitting in the house and I heard it shake and that I watch the truck hit it took some pictures, he said that he was gonna call and help to get insurance to cover it but I wanted to call directly.",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:11:15.066468",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. No, no, no, no, gotcha. Okay, so they hit your house, is that correct? Okay, let me where are you like, what area, what part of Dallas? What.",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:11:32.480772",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "Yes.",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:11:37.866468",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:11:42.279772",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:11:45.839772",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "I'm in Austin and I'm in central east Austin.",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:11:47.466468",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "ner",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:11:48.877468",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "ner",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:11:51.637468",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "ner",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:11:52.397468",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, so you're in Austin. Okay, give me just one moment let me get you to a manager, okay? No, absolutely and what is your name?",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:11:52.880772",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:11:54.239772",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "Okay, thank you so much.",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:11:58.866468",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "positive_sentiment",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:11:59.797468",
+      "type": "moment"
+    },
+    {
+      "content": "question",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:12:01.799772",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "Ben Law.",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:12:03.066468",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "ner",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:12:03.066468",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. Alright. Give me just one moment then.",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:12:07.280772",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "Awesome, thank you.",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:12:12.066468",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "support_issue_resolved",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:12:12.066468",
+      "type": "moment"
+    },
+    {
+      "content": "So sorry that happened.",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:12:13.280772",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "It is. Okay, it's a, it's a townhome and I'm on the corner so I understand how it happens but.",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:12:16.266468",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, gotcha. Okay, let me.",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:12:24.080772",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Would you say south Austin?",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:12:30.080772",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "question",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:12:30.080772",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:12:33.279772",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "East Austin.",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:12:34.866468",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "ner",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:12:34.866468",
+      "type": "moment"
+    },
+    {
+      "content": "East Austin. Okay. Alright.",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:12:36.680772",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:12:36.680772",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Alright, give me just one moment.",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:12:46.280772",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "Okay.",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:12:48.666468",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "Yeah.",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:13:44.884492",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, then. Okay, I'm so sorry for the wait, I finally got somebody. I'm sending you over right now to Chris.",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:19:29.209960",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "Yes.",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:19:30.737938",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:19:37.252960",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "Thank you I appreciate it.",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:19:37.937938",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "support_issue_resolved",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:19:38.932938",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "positive_sentiment",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:19:39.052938",
+      "type": "moment"
+    },
+    {
+      "content": "You're welcome, no problem.",
+      "name": "Chauny Shivers",
+      "time": "2026-09-24T14:19:39.409960",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDi1_u_mgsM",
+      "content": "Alright.",
+      "name": "(806) 535-2277",
+      "time": "2026-09-24T14:19:42.137938",
+      "type": "transcript"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "call_id": "6731511142850560",
+  "rep_name": "Zhang Pammit",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 16.6,
+  "datetime_ct": "2026-09-23 17:33 CT",
+  "external_number": "+12146639895",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 8,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 8,
+  "section7_ask_for_the_business": 6,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "We'll ask you a few questions and this would take about five to ten minutes of your time so we can give you an accurate quote. Would that sounds good? [Rep did not wait for a clear yes before pivoting to 'What are your biggest concerns...']",
+    "their_agenda": "What are your biggest concerns or are there any important things that you wanted to answer during this call?",
+    "two_layers_deep": "Emily raised concerns about the move taking longer than expected and uncertainty about furniture fit in storage; rep acknowledged but never asked 'tell me more' or dug deeper on either concern.",
+    "active_listening_reflection": "No summary reflection. Rep acknowledged concerns but never said 'So what I'm hearing is...' or confirmed understanding.",
+    "estimate_anchor": "Typical 1900 square foot home would normally takes four movers and two trucks...five and a half hours to seven and a half hours to completely move but in your case...four vers and two trucks estimated time is five and a half hours estimated cost would be $2,244. [Later revised to $510\u2013$1,020 based on actual furniture list.]",
+    "pricing_framing": "Early rate of $102 per hour per mover...everything is already included on the R D. Rate that is the gas trucks, taxes and insurance...no hidden fees of any type...minimum of two and a half hours...prorated into fifteen minute increments.",
+    "feels_fair_then_silence": "Rep never asked 'Does that feel fair?' or equivalent before moving to next topic.",
+    "on_time_guarantee_delivered": "We have on time guarantee we value your time. So, if you cannot make it to the time window that we arrange we immediately start discounting money of your final bill.",
+    "damage_coverage_delivered": "We have no worry damage coverage included on the early rate that you're paying us. We will provide up to $2,000 per move that is to repair, replace and reimburse for your items.",
+    "closes_the_loop": "Rep did not ask 'Does that put those to rest?' or similar; moved directly to booking.",
+    "final_concerns_check": "If ever do still be any questions or do you have any other concerns before I let you go?",
+    "catch_all_asked": "No 'Anything coming with you we haven't talked about?' equivalent was asked.",
+    "explicit_ask": "Would you like our help with your move on this coming Tuesday?"
+  },
+  "top_strength": "Rep successfully gathered detailed logistics information (addresses, distances, parking, storage dimensions, furniture list) and adapted the estimate down dramatically when the customer clarified the actual scope, showing flexibility and responsiveness to customer feedback.",
+  "coaching_note": "Two critical gaps: (1) Never asked 'Does that feel fair?' after the estimate, and (2) Never went two layers deep on customer concerns \u2014 when Emily expressed uncertainty about move duration and furniture fit, rep acknowledged but did not dig deeper with follow-up questions, missing Section 2's heaviest-weighted item."
+}

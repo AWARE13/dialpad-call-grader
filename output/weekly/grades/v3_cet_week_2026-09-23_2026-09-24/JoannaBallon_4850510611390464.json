@@ -1,0 +1,33 @@
+{
+  "call_id": "4850510611390464",
+  "rep_name": "Joanna Ballon",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 13.5,
+  "datetime_ct": "2026-09-24 16:04 CT",
+  "external_number": "+14804352786",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 78,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "quid_pro_quo": "So in order for me to of course, help you with an estimate you can depend on I just need a few minutes of your time probably ten to fifteen minutes... if this is a good time. / Yeah, that's fine. [No explicit wait for confirmation before moving to discovery]",
+    "discovery_basics": "you're looking at moving on the first week of October... which zip code are you coming from... going to... are you moving house an apartment... It's gonna be a four bedroom home. [All four confirmed: moving day (Oct 1st week), origin zip (78739), destination (same zip), size (4BR)]",
+    "their_agenda": "do you have any important concerns or instructions for this move that you also want to discuss on this call? / There's gonna be a bunch of TVs and furniture... [Asked after address collection had already started, not before all probing begins]",
+    "two_layers_deep": "Rep acknowledged TVs and furniture but did not follow up with 'tell me more about that' or deeper questions about why these were concerns, impact, special handling needs, etc. Moved directly into service offering: 'So we can definitely help you with your TV... for your furniture. All of them will be wrapped in blank keypads...'",
+    "active_listening_reflection": "No summary reflection. Rep simply acknowledged the concerns and pivoted to service explanations without a 'So what I'm hearing is...' or similar confirmation of what was heard.",
+    "walkthrough_branch": "Home is 2,900 sq ft (well under 1,800 sq ft threshold for the destination, but the origin is 2,900 sq ft which does trigger the virtual walkthrough offer). Rep correctly offered: 'So typically for a house the size dash we really recommend like doing a virtual walkthrough. So it's like a FaceTime. So it's like a video call just to see how much items we're moving for you... Are you available to do that?' Customer confirmed 5:00 PM same day. Call properly routed to walkthrough before pricing finalized.",
+    "logistics_details_gathered": "Property type (house), floors (2-story origin, 2-story destination), rooms (4BR + media room + living, dining), walking distance/parking (driveway, close to door at origin; driveway at destination), additional rooms (media room), special considerations (TVs, furniture, washer/dryer, refrigerator, table tennis table, patio chairs). Additional stops confirmed implicitly (single move, same zip code).",
+    "explicit_ask": "N/A \u2014 walkthrough_scheduler call, no closing ask required before scheduling the walkthrough."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details (property specs, room count, special items, parking, appliances) and correctly identified the need for a virtual walkthrough, then cleanly scheduled it for 5:00 PM same day without abandoning the call.",
+  "coaching_note": "When the customer raised a concern about TVs and furniture, drill deeper with follow-up questions ('Tell me more about the TVs \u2014 are they wall-mounted, on stands, how many?' and 'What's your biggest worry about moving the furniture?') before jumping into service explanations, and then reflect back what you heard to confirm you understood the real concern."
+}

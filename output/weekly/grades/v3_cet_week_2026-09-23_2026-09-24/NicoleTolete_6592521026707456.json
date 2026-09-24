@@ -1,0 +1,43 @@
+{
+  "call_id": "6592521026707456",
+  "rep_name": "Nicole Tolete",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 9.6,
+  "datetime_ct": "2026-09-24 16:05 CT",
+  "external_number": "+14693968693",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 7,
+  "total_score": 62,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Nicole says 'This call will just take around ten to fifteen minutes' and gets a yes ('Yes ma'am'), but never frames the 'dependable quote' promise or explicitly waits for affirmation before diving into storage unit details.",
+    "their_agenda": "Never asked. Nicole moves straight into logistics probing ('So, yeah, I can see the storage unit where the items is moving from...') with no discovery of concerns, priorities, or what the customer wants answers to.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during the call.",
+    "active_listening_reflection": "N/A \u2014 no concerns were raised by the customer during the call.",
+    "estimate_anchor": "Nicole provides both a typical range and personalization: '4 to 5 hours with two movers and one truck' anchored to the specific items inventory, then anchors pricing to hourly rate ($202/hr) and gives final range: '$1,033 to $1,235 which includes the travel fee.'",
+    "pricing_framing": "Nicole discloses the travel fee ($225) upfront, lists what's included in hourly rate (fuel, insurance, pads, tools, reassembly), confirms 'no hidden fees of any type,' mentions 2.5-hour minimum and 15-minute increments.",
+    "feels_fair_then_silence": "Never asked. After giving the estimate range, Nicole moves directly to 'Alright and to secure a spot for Wednesday, September 30th...' with no pause or 'Does that feel fair?' check.",
+    "on_time_guarantee_delivered": "Fully delivered: 'if we cannot make it in the time window that we arrange, we immediately start discounting money of your final bill.'",
+    "damage_coverage_delivered": "Fully delivered: 'no worries damage coverage. We provide up to $2,000 per move to repair replace or reimburse for any accidental damages' with no deductible or fine-print framing mentioned.",
+    "closes_the_loop": "No. Nicole repeats the no-deposit / no-fee-to-reschedule point ('there's no deposit required. If you have to reschedule or cancel no fees for that either') after already covering the Two Promises fully, and does not ask 'Does that put those to rest?' or equivalent.",
+    "final_concerns_check": "Throwaway. Nicole asks 'do you have any questions or anything for me?' which is the empty ask that automatically gets a 'no.' When Brooke does raise a concern (rain/tarps for the dining table), Nicole responds with a solution but does not circle back to ask 'What's still concerning you?'",
+    "followup_on_remaining_concern": "Full. When Brooke raises the rain/tarp concern mid-call, Nicole asks clarifying questions ('Do you think that will be more than enough to protect it?') and confirms the solution satisfies the customer.",
+    "explicit_ask": "With out. Nicole says 'would you like me to get you on the schedule' which is softened \u2014 it contains a built-in out (she could 'just' email it instead, though not explicitly stated). The phrase invites scheduling but doesn't close plainly as 'Would you like our help with your move?'",
+    "rate_lock_mentioned": "Yes. Nicole states 'there's no deposit required. If you have to reschedule or cancel no fees for that either,' confirming the rate lock.",
+    "booking_confirmed": "Full. Nicole confirms date (Wednesday, September 30th), arrival window (8:30\u20139:00 AM), crew size (two movers), phone number (469-396-8693), full name (Brooke Schiller), email (Morgan J. Bigs@icloud.com), and destination address (220 old airport road dennison Texas 75021). She also documents the rain/tarp concern for the dining table."
+  },
+  "top_strength": "Nicole efficiently gathered all critical logistics details (storage unit specs, item inventory, destination address, parking confirmation) and delivered a clear, itemized pricing breakdown with full fee transparency and both key promises (On-Time Guarantee and No Worries Damage Coverage) in a professional manner.",
+  "coaching_note": "Ask 'Other than price, what are your biggest concerns about this move, and what do you want answers to on this call?' at the top of Section 2 before any probing \u2014 this call skipped it entirely, and then missed the chance to ask a genuine final concerns check ('What's still concerning you?') rather than the throwaway 'any questions?' that guarantees a no."
+}

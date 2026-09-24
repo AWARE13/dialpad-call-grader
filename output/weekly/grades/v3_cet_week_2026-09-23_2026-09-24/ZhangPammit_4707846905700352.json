@@ -1,0 +1,40 @@
+{
+  "call_id": "4707846905700352",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 14.7,
+  "datetime_ct": "2026-09-23 18:29 CT",
+  "external_number": "+17016096368",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 23,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 3,
+  "total_score": 75,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep: 'This would take within the next five to ten minutes of your time. So we can build an accurate code you can depend on. Sounds good.' \u2014 rushed past without waiting for explicit yes before continuing probing.",
+    "their_agenda": "Rep: 'Do you have any biggest concerns or do you have any important things that you wanted to answer during this call today?' \u2014 asked early, before logistics probing began.",
+    "two_layers_deep": "Customer raised concern about wife being pregnant and needing help with packing/loading entire home. Rep followed: 'Is it back in the full house or only partial part of the house?' and 'Packing the whole house.' \u2014 two-layer follow-up on stated concern.",
+    "estimate_anchor": "Rep: 'A typical 1600 square foot home would normally takes two movers, that is between six and a half to eight and a half hours to completely move. So, in your case we're splitting your move into multiple days... The total estimate that we have here including everything, the packing the trip fee. All of the cost is $5,936' \u2014 anchored to home size with personalization to packing and multi-day split.",
+    "pricing_framing": "Rep: 'We charge an early rate of 100 and the three dollars per hour per mover... trip fee... overnight fee... packing cost... the time will only start as soon as we get on site... minimum of two and a half hours... prorated into fifteen minute increments.' \u2014 comprehensive fee transparency and commitment framing present.",
+    "feels_fair_then_silence": "Not asked at any point after estimate presented.",
+    "on_time_guarantee": "Rep: 'So, if you cannot make it to the time window that we arrange, we immediately start discounting money of your final bill.' \u2014 full delivery with discount terms.",
+    "damage_coverage": "Rep: 'We will provide up to $2,000 per move that is to repair replace and reimburse for your items.' \u2014 covered amount and built-in framing present; missing explicit 'no deductible/no fine print' language but no-fine-print intent implied.",
+    "closes_the_loop": "Rep: 'So just let us know at anytime' after covering both promises \u2014 closes without repeating.",
+    "final_concerns_check": "Rep: 'Yeah, if you have other questions let us know' \u2014 throwaway version, not genuine 'What's still concerning you?' format.",
+    "catch_all_asked": "Not asked. No 'Anything coming with you we haven't talked about?' variant.",
+    "explicit_ask": "Never asked. Rep says 'I'll send you the email quotation' and transitions to close without asking 'Would you like our help with your move?' \u2014 customer initiates next steps by asking about itemized receipt.",
+    "rate_lock_mentioned": "Rep: 'There's no deposit required, no risk and securing your spot. If something comes up and things change in your end then, you can always reschedule or cancel with a quick call, no fees for that either.' \u2014 rate-lock framing present."
+  },
+  "top_strength": "Rep gathered all logistics details systematically, asked genuine concerns early before probing, and delivered both Two Promises (On-Time Guarantee and No Worries Damage Coverage) with full transparency on fees and pricing structure.",
+  "coaching_note": "Never ask for the business \u2014 the explicit 'Would you like our help with your move?' was completely skipped, leaving the customer to self-initiate next steps; also missing the 'Does that feel fair?' pause after the estimate and the genuine 'What's still concerning you?' check at the end."
+}

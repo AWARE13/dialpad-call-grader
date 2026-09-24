@@ -1,0 +1,40 @@
+{
+  "call_id": "6317612669116416",
+  "rep_name": "Danah 2Celestial",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 9.4,
+  "datetime_ct": "2026-09-24 16:17 CT",
+  "external_number": "+17132080877",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 23,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 8,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 2,
+  "total_score": 55,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'So just a few questions about the move would take about maybe, 7-10 minutes then you could walk away with a quote' \u2014 framing present but the wait for explicit yes is unclear; customer says 'Okay, sounds good' but the flow is rushed.",
+    "their_agenda": "Rep asks 'So other than the price, do you have like, any concerns about this move or any questions you won't answers to on this call?' \u2014 asked before logistics probing, clean timing.",
+    "two_layers_deep": "Customer raises concern about chairs being stained. Rep acknowledges ('Yeah, of course') and pivots immediately into Two Promises delivery without genuine follow-up like 'tell me more about that' or 'how can we make sure that doesn't happen.' Shallow acknowledgment, not two-layer probing.",
+    "active_listening_reflection": "Rep says 'So what I'm hearing Dian is, you want those chairs get extra taken care of and everything padded right.' \u2014 reflects back what was heard and waits for confirmation ('Yeah').",
+    "estimate_anchor": "Rep provides hourly rate ($95/mover weekdays), 2.5-hour minimum, 15-minute increments, and personalizes to this move: 'I would estimate your move to take about two and a half hours with two movers. So that's gonna be a total of $475, no extra fees.' \u2014 anchored and personalized.",
+    "pricing_framing": "Rep discloses no fees upfront ('No additional fees. We don't have credit card fees, not your fees whatsoever') and covers 2.5-hour minimum and 15-minute increments. No explicit 'not a guess' commitment framing.",
+    "feels_fair_then_silence": "Rep asks 'Does that feel fair?' but immediately talks over the silence: 'Let me know if you have any questions.' Customer responds 'Yeah. I think that's fine. I'd like to, I want to talk to my mother...' \u2014 rep does not hold silence.",
+    "on_time_guarantee_delivered": "Rep fully delivers: 'when you book your move with us, we'll lock in a firm arrival window for you. If we're late, $50 comes off immediately and after the first hour it's an extra $25 for every thirty minutes after that.' \u2014 discount terms clear.",
+    "damage_coverage_delivered": "Rep mentions '$2,000 included. And we pay it out in four to six days' but does not frame the no-deductible / no-fine-print aspect or that it's built into the rate (not an add-on). Partial.",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or equivalent closing question for Section 5. No loop closure.",
+    "final_concerns_check": "Rep never asks 'What's still concerning you about this move?' or a genuine final concerns check. Not asked.",
+    "explicit_ask": "Rep never asks 'Would you like our help with your move?' or any explicit ask for the business. Customer volunteers 'I can call you back within the day' but rep does not ask for commitment. Never asked.",
+    "rate_lock_mentioned": "Rep says 'when you book your rate lock, so it doesn't change and there's no deposit needed' \u2014 rate lock mentioned."
+  },
+  "top_strength": "Danah gathered detailed logistics cleanly (studio, second floor, elevator, 25\u201330 ft to elevator, 100+ yards to unit) and nailed the Two Promises delivery with full framing, especially the On-Time Guarantee with dollar terms, which is load-bearing content delivered fully.",
+  "coaching_note": "Never ask for the business \u2014 rep allowed the customer to self-schedule a callback instead of delivering an explicit 'Would you like our help with your move?' and confirming booking details (date, crew size, arrival window, notes for crew); also skip the Two Promises section until *after* the estimate is accepted, not in the middle of probing."
+}

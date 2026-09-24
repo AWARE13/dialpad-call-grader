@@ -1,0 +1,42 @@
+{
+  "call_id": "4529138878160896",
+  "rep_name": "Joanna Ballon",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 6.7,
+  "datetime_ct": "2026-09-24 16:55 CT",
+  "external_number": "+15126272757",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 36,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never delivered: 'this will take about 10-15 minutes, and you can walk away with a quote you can depend on' framing with a wait for yes. Jumped straight into probing.",
+    "their_agenda": "Never asked 'what are your biggest concerns about this move?' or equivalent. Only reactive answers to customer questions.",
+    "estimate_anchor": "Rep gave hourly rate ($192/hr) and minimum charge ($555) but no range, no typical box count anchor, no personalization to customer's specific move profile.",
+    "pricing_framing": "Rep disclosed trip fee ($75), 2.5-hour minimum, 15-minute increments, and taxes/insurance/fees included upfront. Missing: 'not a guess' / dependability commitment language.",
+    "feels_fair_then_silence": "Never asked 'does that feel fair?' or equivalent. No pause for customer reaction after pricing.",
+    "on_time_guarantee_delivered": "Not mentioned at all.",
+    "damage_coverage_delivered": "Rep stated '$2,000 coverage for accidental damages' but did NOT frame it as 'no deductible / no fine print' or confirm it's built into the rate, not an add-on. Stated only 60\u00a2 per pound as default, then $2k coverage as separate.",
+    "closes_the_loop": "No explicit close of Section 5. Rep moved to operational questions (how wrapping works, insurance amount restated) without confirming the two promises answered the customer's concerns.",
+    "final_concerns_check": "Never asked 'what's still concerning you?' or any genuine final-concerns version. Call ends with customer needing to get approval and callback.",
+    "catch_all_asked": "Never asked 'anything coming with you we haven't talked about?'",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' or equivalent. Customer volunteered to call back after getting approval; rep accepted but did not ask for the business.",
+    "rate_lock_mentioned": "Not mentioned.",
+    "booking_confirmed": "Partial. Rep noted Monday the 28th, customer said they would call back for booking. No phone number, arrival window, crew size, addresses re-confirmed, or service notes captured for the crew."
+  },
+  "top_strength": "Rep clearly disclosed all pricing components upfront (hourly rate, trip fee, minimum, increments, taxes/insurance included) and correctly identified the item as moveable within weight limits, building customer confidence in feasibility.",
+  "coaching_note": "You jumped into a transactional logistics call and never discovered this customer's real concerns or confirmed the move felt fair \u2014 ask 'other than price, what are your biggest concerns about this move?' early, then 'does that feel fair?' after pricing, and always close with 'would you like our help?' to secure the booking yourself rather than pass it to the customer to initiate."
+}

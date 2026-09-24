@@ -1,0 +1,41 @@
+{
+  "call_id": "5614961891516416",
+  "rep_name": "Joanna Ballon",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 9.2,
+  "datetime_ct": "2026-09-24 14:03 CT",
+  "external_number": "+15129253109",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'I just need to ask you some questions about it if you have ten to fifteen minutes if this is a good time.' \u2014 frames time but does not wait for explicit yes before asking 'do you have any important concerns or instructions for this move,' skipping the 10-15 min quote promise.",
+    "discovery_basics": "Joanna asks: moving from/to addresses (Georgetown to Georgetown), apartment type (one bedroom), moving date (Sunday the fourth). All four present.",
+    "their_agenda": "Joanna jumps directly to probing with 'do you have any important concerns or instructions for this move' but never asks the recognizable version: 'Other than price, what are your biggest concerns about this move, and what do you want answers to on this call?' The opening question is about move-specific logistics, not their underlying agenda.",
+    "estimate_anchor": "Joanna: '$98 per hour per mover... two movers and one truck is $196 per hour... for two and a half hours, it's $490 for three and a half hours $686... So that's a range of 490 to 686.' Range given and personalized to one-bedroom items, two and a half to three and a half hours.",
+    "pricing_framing": "Joanna: 'What's good about our pricing, it's all inclusive rates, so you don't have to pay extra for any other fee' and 'we have a two and a half hour minimum.' Mentions all-inclusive framing and minimum but does not explicitly state trip fees, overnight fees, or 15-minute increments.",
+    "feels_fair_then_silence": "No 'Does that feel fair?' asked. Rick asks directly 'can you just round up the general price' and then says 'I hope it goes quicker so yeah, I'll go ahead and confirm.' No rep pause or echo-back of fairness.",
+    "on_time_guarantee_delivered": "Joanna: 'lastly on time guarantee if we run late on the time we schedule, we provide discounts for your move.' Covers discount terms fully.",
+    "damage_coverage_delivered": "Joanna: 'we also include our no worries damage coverage which would give you up to $2,000 coverage for any accidental damages.' Covers amount and built-in framing but does not explicitly state 'no deductible' or 'no fine print.'",
+    "closes_the_loop": "No version of 'Does that put those to rest?' asked. No loop closure after Two Promises section.",
+    "final_concerns_check": "Joanna never asks a genuine final concerns check like 'What's still concerning you about this move?' She moves directly to 'I'll send you the email after our call Rick and just check it out.'",
+    "catch_all_asked": "No version of 'Anything coming with you we haven't talked about?' asked.",
+    "explicit_ask": "Joanna never asks 'Would you like our help with your move?' Rick volunteers 'I'll go ahead and confirm that if you send me the paperwork' but the rep does not ask; rep accepts the offer passively."
+  },
+  "top_strength": "Joanna gathered all four discovery basics (names, date, route, size) cleanly in Section 1 and carried logistics detail-gathering through Section 3, building a solid inventory (bed, dresser, armoire, sleeper sofa, rocking chair) and parking/access intel, and delivered a clear anchored price range ($490\u2013$686) with full transparency on both the On-Time Guarantee and No Worries Damage Coverage promises.",
+  "coaching_note": "You skipped Section 2's 'Their Agenda' (the 8-point question about concerns beyond price) entirely, jumped straight into logistics probing, and did not ask a genuine final concerns check in Section 6 or an explicit 'Would you like our help?' ask in Section 7, leaving the customer to volunteer commitment rather than you closing \u2014 rework the rhythm to surface and validate concerns early, then close with a direct ask."
+}

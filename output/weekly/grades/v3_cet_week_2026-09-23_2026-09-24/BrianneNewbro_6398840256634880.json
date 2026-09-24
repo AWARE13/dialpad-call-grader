@@ -1,0 +1,43 @@
+{
+  "call_id": "6398840256634880",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 13.2,
+  "datetime_ct": "2026-09-23 16:26 CT",
+  "external_number": "+12404782596",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 8,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 65,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skipped the time-box + dependable quote framing entirely and went straight into account pull-up.",
+    "their_agenda": "Never asked. Rep began logistics probing immediately ('do we have a unit number').",
+    "estimate_anchor": "Gave hourly rate ($208 for two movers, one truck) but no typical range for a move of this size before personalizing.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer.",
+    "active_listening_reflection": "N/A \u2014 no concerns raised by customer to reflect back.",
+    "packing_services_offered": "Not asked. Rep offered elevator info and COI discussion instead.",
+    "on_time_guarantee_delivered": "'if we can't making the time window that we arrange, we immediately start discounting money of your final bill.' \u2014 covers discount terms.",
+    "damage_coverage_delivered": "'no worries, damage coverage. Which is our free evaluation coverage included in the hourly rate' and '$2,000 per move to repair, replace or reimburse for any accidental damages' \u2014 covers $2k and built-in framing.",
+    "closes_the_loop": "No version of 'does that put those to rest?' asked. Rep pivoted to email send without confirming Two Promises landed.",
+    "final_concerns_check": "'Do you have any other questions for me?' \u2014 empty throwaway, not genuine 'what's still concerning you.'",
+    "catch_all_asked": "Not asked.",
+    "explicit_ask": "Never asked 'Would you like our help with your move?' Rep said 'I'm going to email this over to you right now' and 'we will see you on Thursday, October 1st' (assumed yes, no explicit ask).",
+    "rate_lock_mentioned": "Not mentioned.",
+    "booking_confirmed": "Date (October 1st), phone, and crew size (2 movers, 1 truck) confirmed. Arrival window (4-5 hours) discussed but not a precise time window. Addresses pulled from system at start. Notes left for crew (COI check, extra boxes). Missing explicit confirmation of addresses at end and no re-read of key details."
+  },
+  "top_strength": "Brianne gathered extensive logistics details efficiently\u2014property type, floor/stories, box count, elevator reservations, loading dock access, walking distance\u2014and used them to personalize the estimate and flag potential issues (elevator adds time) before pricing.",
+  "coaching_note": "Section 1 is missing the critical time-box + dependable-quote framing and explicit wait-for-yes; Section 2 skipped Their Agenda entirely (no 'what are your biggest concerns' question); Section 7 never asked the explicit close ('Would you like our help?')\u2014these are load-bearing asks in the script and must happen in sequence."
+}

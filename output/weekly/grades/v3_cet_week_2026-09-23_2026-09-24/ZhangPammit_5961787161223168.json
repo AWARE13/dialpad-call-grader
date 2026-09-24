@@ -1,0 +1,40 @@
+{
+  "call_id": "5961787161223168",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 7.1,
+  "datetime_ct": "2026-09-24 17:44 CT",
+  "external_number": "+13039074845",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 54,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "None present. Rep jumps directly into confirming existing details without framing the call, time commitment, or promise of a dependable quote.",
+    "their_agenda": "Never asked. Rep says 'we just wanted to ask you some information just to make sure that we have the correct details' but never asks 'what are your biggest concerns about this move?' or equivalent.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during the call.",
+    "active_listening_reflection": "N/A \u2014 no concerns raised to reflect back.",
+    "estimate_anchor": "Full: 'The estimated cost in cases they end up seven hours would be $1,456' with context of 'six to seven hours' for a 2-bedroom move with specified access challenges.",
+    "pricing_framing": "Partial: Rep mentions it's 'timely based' and 'you only need to pay for the actual hours' and 'not necessarily locked in any way,' but does not disclose trip fee, overnight fee, packing materials upfront, nor the 2.5-hour-minimum / 15-minute-increments commitment language.",
+    "feels_fair_then_silence": "Not asked. After giving the estimate, rep immediately pivots to logistics and efficiency without asking 'Does that feel fair?' or waiting for customer reaction.",
+    "on_time_guarantee": "None. The On-Time Guarantee and its discount terms are never mentioned.",
+    "damage_coverage": "None. The No Worries Damage Coverage ($2,000 built-in, no deductible) is never mentioned.",
+    "explicit_ask": "Never. Rep ends with 'I'll send you a confirmation email' and 'If ever there will be changes then feel free to let us know' \u2014 no explicit 'Would you like our help with your move?' ask.",
+    "booking_confirmed": "Partial: Date (October 8th) and time window (8:30 AM to 9:00 AM) confirmed, crew size (two movers, one truck) confirmed, addresses confirmed (both pickup and delivery). Missing: phone number confirmation, no notes left about customer's concerns."
+  },
+  "top_strength": "Thorough logistics probing \u2014 rep systematically gathered all property details (floor, elevator access, walking distance, stairs, dimensions), special items, and box count across both locations, establishing a clear and accurate inventory for the estimate.",
+  "coaching_note": "This call is missing the entire sales framework: no quid pro quo open, no genuine concerns discovery, no Two Promises, no final concerns check, and no explicit ask for the business \u2014 it reads as a confirmation/admin call, not a sales call; retrain on the Section 1 open framing and Section 7 ask so every inbound converts to a booked move, not just a rescheduled one."
+}

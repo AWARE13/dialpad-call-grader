@@ -1,0 +1,42 @@
+{
+  "call_id": "5990814269874176",
+  "rep_name": "Brianne Newbro",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 7.4,
+  "datetime_ct": "2026-09-23 14:59 CT",
+  "external_number": "+17137026029",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 6,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 46,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never framed the 10\u201315 minute time-box or the 'quote you can depend on' promise before jumping to discovery.",
+    "their_agenda": "Asked late: 'And then do you have any questions or concerns specifically about the move that you would like answered on this call?' \u2014 this came after opening pleasantries but before the actual quid pro quo framing. Probing began immediately after the customer answered.",
+    "two_layers_deep": "Customer raised TVs needing boxes and a fragile kitchen-island piece. Rep asked 'how many TVs' and 'what size,' then moved to the furniture piece and asked 'what is that,' but did not dig deeper into either concern with follow-up like 'tell me more about that' or how to handle them. Shallow acknowledgment only.",
+    "active_listening_reflection": "No reflection summary. Rep acknowledged concerns ('Okay, perfect') but never reflected back 'So what I'm hearing is...TVs under 75 inches and a fragile kitchen island base...did I get all of it?'",
+    "estimate_anchor": "Provided: '$222 for two movers and 126 foot box truck' and 'three and a half hours' plus context 'normally with a move this size...takes between three and a half to five and a half hours.' Anchored to home size (900 sq ft). Personalized to elevator, prep level mentioned ('how well prepared you are').",
+    "pricing_framing": "Disclosed 2.5-hour minimum and 15-minute increments: 'We do have a two and a half hour minimum. Once we go over that minimum the time is prorated in 215 minute increments.' Did not disclose trip fee, overnight fee, or packing materials upfront. Missing the 'not a guess' / commitment framing. Partial only.",
+    "feels_fair_then_silence": "Asked 'do you feel like that's fair?' but customer responded immediately and rep continued talking over: 'Yeah, normally with a move this size with the 900 square feet and elevator usually takes between three and a half to five and a half hours.' No real silence held.",
+    "on_time_guarantee_delivered": "Never mentioned On-Time Guarantee or any discount for lateness.",
+    "damage_coverage_delivered": "Mentioned: 'we do have that no worries damage coverage, which is a free valu. Evaluation coverage included in the hourly rate that provides up to $2,000 per move to repair, replace or reimburse for any accidental damages.' Stated it's included in hourly rate (good), mentioned $2,000 cap, but did not use 'no deductible / no fine print' framing that the rubric requires for full credit.",
+    "closes_the_loop": "Rep did not ask 'Does that put those to rest?' after Section 5 items. Did not close the loop on the Two Promises.",
+    "final_concerns_check": "Asked 'do you have any other questions for me' twice (throwaway phrasing), not the genuine 'What's still concerning you about this move?' version.",
+    "catch_all_asked": "Never asked 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' or any explicit booking ask. Call ended with 'well you have a good rest of your Wednesday...if you do have any questions or concerns, please don't hesitate to reach out' \u2014 no ask for the business at all.",
+    "rate_lock_mentioned": "No rate-lock or no-deposit language included.",
+    "booking_confirmed": "Partial. Rep confirmed: address (2929 Ola Ave, Unit 332, third floor), destination (5910 Marquita Avenue, Dallas, 2 bedrooms), moving date (Saturday, October 10th), and sent email confirmation. Did NOT confirm: phone number, arrival window, crew size, or notes to crew about customer concerns (TVs, fragile furniture piece)."
+  },
+  "top_strength": "Brianne efficiently gathered comprehensive logistics details (property type, floor level, elevator, parking distances, bedroom count, box count, special items) to build an accurate, personalized estimate anchored to typical move duration for the home size.",
+  "coaching_note": "This call skipped the foundational quid pro quo framing, never asked the customer 'Would you like our help with your move?', and ended without confirming a booking \u2014 the customer left without a confirmed date, window, crew size, or next steps, which is a critical gap in Section 7."
+}

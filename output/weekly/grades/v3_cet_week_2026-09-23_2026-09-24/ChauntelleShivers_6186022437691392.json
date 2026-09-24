@@ -1,0 +1,41 @@
+{
+  "call_id": "6186022437691392",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 23.6,
+  "datetime_ct": "2026-09-24 16:42 CT",
+  "external_number": "+18177985929",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 54,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'I'd love to go ahead and give you that quote before. I do, I will need a couple of pieces of information' \u2014 no time-boxed framing, no 'dependable quote' promise, no wait for yes before continuing.",
+    "their_agenda": "Never asked. Rep pivots directly to logistics probing: 'Do you have any just top of mind, concerns or questions outside of the price' but then immediately moves into 'Let me take a few pieces of information' without genuine exploration of concerns.",
+    "logistics_details_gathered": "Excellent detail: property type (storage facility, apartment), floors (3rd at pickup, 2nd at delivery), room count (1 bedroom), storage unit sizes (10x10, 2x 5x10), elevator access, parking access, distance (~20 min), square footage (800), specific big items (washer/dryer, king bed, 75-inch TV), boxes (~under 20), and full addresses.",
+    "estimate_anchor": "Rep gives range ($1,236\u2013$1,442 for 6\u20137 hours at $206/hr) personalized to the move (three storage units, elevator access, 20-min distance, second-floor delivery), but no initial time-boxed promise or framing before diving into logistics; estimate arrived after extensive probing.",
+    "pricing_framing": "Full: fee transparency ($206/hr includes taxes, insurance, travel, No Worries damage coverage, no start fees or credit card fees), 2.5-hour minimum disclosed, pay-for-time-used commitment stated ('you only pay for the time you use with us anyway'), and 15-minute-increments logic embedded ('if you use less than what we estimated you will only pay for the time used').",
+    "feels_fair_then_silence": "Never asked. Rep says 'Okay, so did you want me to at least go ahead and, and reserve that truck and then once we get the pictures, we can kind of adjust accordingly' \u2014 this is a direct move to booking, not a 'does that feel fair' check with silence.",
+    "on_time_guarantee": "Not delivered. No mention of on-time discount or guarantee at all.",
+    "damage_coverage": "Mentioned in passing ('the nowhere we damage coverage is already in that') but no detail on $2,000 coverage, no-deductible framing, or 'no fine print' language.",
+    "closes_the_loop": "No. Rep does not ask if Two Promises concerns are addressed; moves directly to booking.",
+    "final_concerns_check": "Rep asks 'And then did you have any other questions' \u2014 this is the throwaway empty-question version, not the genuine 'What's still concerning you about this move' framing.",
+    "explicit_ask": "Never explicitly asked. Customer is never asked 'Would you like our help with your move?' \u2014 rep instead says 'So did you want me to at least go ahead and reserve that truck' and customer responds affirmatively to the truck reservation, but no direct ask for the business itself.",
+    "booking_confirmed": "Partial. Confirmed: date (Saturday, start time 12:30\u20131:00), phone (implicit from earlier), crew size (2 movers + 1 truck), addresses (pickup and delivery). Missing: explicit confirmation of all details together, and no notes left with crew about customer concerns (customer worried it might take less than 3 hours, but no evidence this was documented for the crew)."
+  },
+  "top_strength": "Exceptional logistics probing and detail-gathering\u2014the rep extracted a complete, accurate picture of a complex three-unit move across multiple floors with specific big-item inventory, access constraints, and travel distance, all of which informed a credible time and price estimate.",
+  "coaching_note": "Critical gap: never deliver the Two Promises (On-Time Guarantee and No Worries Damage Coverage) with the depth and framing required by the script, and never ask the closing 'Does that feel fair?' check before moving to booking\u2014these are load-bearing elements that build confidence and close objections before the ask."
+}

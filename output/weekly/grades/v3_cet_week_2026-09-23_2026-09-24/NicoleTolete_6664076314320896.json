@@ -1,0 +1,35 @@
+{
+  "call_id": "6664076314320896",
+  "rep_name": "Nicole Tolete",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 5.5,
+  "datetime_ct": "2026-09-23 20:42 CT",
+  "external_number": "+19258190642",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 2,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 3,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skips directly into estimate without time-boxing the call or securing agreement to proceed. Jumps to 'So for your packing day, I estimate this move to take around five to six hours...'",
+    "their_agenda": "Never asked. Rep launches immediately into logistics and pricing.",
+    "estimate_anchor": "Full range given with personalization: 'Based on my estimate for both packing and moving day it's good to budget around $5,700 to $6,120 which includes the packing supplies and travel fee.'",
+    "pricing_framing": "Full transparency on fees and minimum: 'there are no hidden fees of any type. No credit card fees, no stairwell fees, no disassemble or reassembly fees... Our minimum is two and a half hours once we go over the minimum the time is prorated in fifteen minute increments.'",
+    "feels_fair_then_silence": "Not asked. No 'Does that feel fair?' or equivalent check before moving on.",
+    "explicit_ask": "Never explicitly asked. Rep offers to send details via email but never says 'Would you like our help with your move?' or similar direct ask. Call ends with customer saying 'I definitely want to go through it with my husband tonight' and rep responds 'I'll send it to your email once you're ready to book you can just reply from my email, or give us a call.'"
+  },
+  "top_strength": "Nicole delivered comprehensive pricing transparency and fee framing clearly, covering all hidden-fee carve-outs and the Two Promises (On-Time Guarantee and No Worries Damage Coverage) in full detail.",
+  "coaching_note": "Open the call with the quid pro quo framing and wait for customer agreement before diving into the estimate; ask 'What are your biggest concerns about this move?' in Section 2 before probing logistics; confirm 'Does that feel fair?' and hold the silence in Section 4; and close with an explicit ask like 'Would you like our help with your move?' instead of deferring to email without commitment."
+}

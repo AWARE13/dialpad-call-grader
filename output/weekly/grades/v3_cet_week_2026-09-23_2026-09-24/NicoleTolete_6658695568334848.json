@@ -1,0 +1,39 @@
+{
+  "call_id": "6658695568334848",
+  "rep_name": "Nicole Tolete",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 9.9,
+  "datetime_ct": "2026-09-24 20:06 CT",
+  "external_number": "+14803200602",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 3,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "This call will just take around ten to fifteen minutes then I will be able to build you an accurate code you can depend on is now a good time? [Nathan agrees: Yup, sounds great.]",
+    "their_agenda": "I'd like to ask first what are your biggest concerns and what are the most important things you want answers to on this call today?",
+    "two_layers_deep": "After Nathan describes large furniture concerns and apartment logistics, Nicole responds with minimal follow-up: 'Mm-hmm. Okay.' repeated several times, then pivots to 'no boxes at all just the furniture' without asking 'tell me more' or probing the moving difficulty concern he raised.",
+    "active_listening_reflection": "No summary reflection given. Nicole acknowledges ('I see no worries we can definitely help you with that') but does not reflect back the concerns Nathan raised about the two-floor challenge or the challenging staircase at the destination.",
+    "estimate_anchor": "Now for a typical one bedroom apartment. It usually takes around two and a half to three and a half hours to completely move locally in your case. Since you're moving from a second floor apartment with no boxes moving to a second floor apartment with forty minutes drive time between location. I will estimate this move to take around three and a half to four and a half hours with two movers and one truck... for three and a half to four and a half hours including the travel fee it's good to budget around $852 to $1,074.",
+    "pricing_framing": "There's only one thing outside of the hourly rate which is a one time travel fee of $75... no hidden fees of any type no credit card fees, no sterle fees, no disassemble or rate assembly fees... Our minimum is two and a half hours, once we go over the minimum the time is prorated in fifteen minute increments.",
+    "feels_fair_then_silence": "Not asked. Nicole moves directly from the estimate into the Two Promises section without asking 'Does that feel fair?' and pausing.",
+    "on_time_guarantee": "if we cannot make it in the time window that we arrange, we immediately start discounting money of your final bill and the way the clock works is the time start as soon as we get on site and open the contract.",
+    "damage_coverage": "we have no worries, damage coverage we provide up to $2,000 per move to repair, replace or reimburse for any accidental damages. [Missing: explicit statement that there is no deductible, no fine print, and that it is built into the rate, not an add-on.]",
+    "final_concerns_check": "do you have any questions or anything for me before I let you go? [This is the empty 'any questions' throwaway version, not the genuine 'What's still concerning you about this move?' version.]",
+    "explicit_ask": "would you like our help with your move? [Immediately followed by:] I'll go ahead and send you an email for now... once you decide to book with us you can just reply from my email [Built-in out \u2014 email option given before commitment.]",
+    "booking_confirmed": "Date (Saturday October 10th, 1:30 PM), phone number (not confirmed), arrival window (1:30 PM offered), crew size (two movers mentioned but not confirmed at booking), addresses (both confirmed: 3501 ranch road 620 south B, Unit 12201 and 5900 west minster drive, Unit 2204), notes for crew (not discussed). Partially confirmed \u2014 missing phone confirmation and crew size confirmation at the point of booking."
+  },
+  "top_strength": "Nicole gathered comprehensive logistics details (floor count, walking distances, apartment sizes, furniture specifics, TV case option) and delivered a personalized, anchored estimate tied to the customer's actual move complexity.",
+  "coaching_note": "After the customer raised concerns about the challenging staircase, Nicole acknowledged but never asked 'tell me more' \u2014 follow up two layers deep on every concern before pivoting, and reflect back what you heard as a summary before moving on."
+}

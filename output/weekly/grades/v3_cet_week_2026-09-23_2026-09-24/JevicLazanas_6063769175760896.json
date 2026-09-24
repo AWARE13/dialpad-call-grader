@@ -1,0 +1,38 @@
+{
+  "call_id": "6063769175760896",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.2,
+  "datetime_ct": "2026-09-23 14:29 CT",
+  "external_number": "+14708381317",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 8,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 2,
+  "total_score": 42,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep said 'this will just take about ten minutes' but did not frame the dependable-quote promise or wait for a yes before pivoting to concerns.",
+    "their_agenda": "Rep asked 'What are your biggest concerns for this upcoming move and yeah, what are the import most important things you'd like answers to on this call today' before detailed probing started.",
+    "two_layers_deep": "Customer mentioned partial moving with heavy items (sofa, desks); rep acknowledged but asked 'Could you walk me through the list' rather than digging deeper into the concern about partial-move pricing. No follow-up like 'tell me more about why partial moving matters' or 'what's your worry there.'",
+    "active_listening_reflection": "No summary reflection offered. Rep moved directly from concern acknowledgment to logistics confirmation.",
+    "estimate_anchor": "Rep gave typical range ('A typical two bedroom apartment usually takes three and a half to five and a half hours') and personalized it ('in your case...just a minimum which is two and a half').",
+    "pricing_framing": "Rep disclosed trip fee upfront, minimum ($2.5 hours), and listed what's included. However, did not explicitly frame the '15-minute increments' or 'not a guess' commitment language.",
+    "feels_fair_then_silence": "Rep asked 'So would you like to go ahead and proceed and confirming your schedule?' but did not say 'Does that feel fair?' and immediately moved to booking ask without holding silence for customer response.",
+    "on_time_guarantee": "Never mentioned.",
+    "damage_coverage": "Never mentioned.",
+    "explicit_ask": "Rep asked 'would you like to go ahead and proceed' but customer objected on price, then rep said 'I'll go ahead and send you an email...if you decide to book with us, just give us a call back' \u2014 provided an easy out without re-asking or addressing the objection.",
+    "final_concerns_check": "No final concerns check asked after pricing objection. Rep moved to email follow-up without 'What's still concerning you?' or genuine reopening."
+  },
+  "top_strength": "Rep asked the customer's concerns early (Section 2) before diving into logistics, and gathered most discovery basics (address, floor, walking distance, apartment size, item list) clearly and methodically.",
+  "coaching_note": "You skipped the Two Promises (On-Time Guarantee and No-Worries Damage Coverage) entirely, and when the customer objected to price, you gave an easy out ('I'll email this over, call us back if interested') instead of addressing the objection or re-asking for the business \u2014 this is why the call ended without a booking or even a confirmed follow-up date."
+}

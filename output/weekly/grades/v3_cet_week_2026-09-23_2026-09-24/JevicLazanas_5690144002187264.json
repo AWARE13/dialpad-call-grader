@@ -1,0 +1,37 @@
+{
+  "call_id": "5690144002187264",
+  "rep_name": "Jevic Lazanas",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 10.7,
+  "datetime_ct": "2026-09-24 18:50 CT",
+  "external_number": "+12106562112",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 75,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'let's get you quoted and I'll just ask you a few questions to get us on the right track and provide you an accurate estimate and this will take about ten minutes' but does NOT wait for customer confirmation before proceeding \u2014 customer says 'Absolutely, thank you' but rep launches into name/email immediately without explicit framing that they have availability AND the dependable-quote promise together.",
+    "discovery_basics": "Name: 'Russell George' (asked twice, captured). Date: 'next Wednesday September 30th' (stated by customer, confirmed). Route: 'pickup location address...2202 post oak court in San antonio, Texas. 78248' and 'drop-off location address...21 oh, sorry...2310 north loop 1604 west 78248' (both asked and confirmed). Size: '2706 square feet' (asked and confirmed after rep suggested Zillow).",
+    "their_agenda": "Never asked. Rep launches directly into logistics probing (property type, floor/stories, rooms, parking, storage unit details) without asking 'Other than price, what are your biggest concerns about this move?' or equivalent.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer, so this metric does not apply.",
+    "active_listening_reflection": "N/A \u2014 no concerns raised, so no reflection opportunity existed.",
+    "logistics_partial": "Gathered: property type (house, residential), stories (two story), bedrooms (three), parking (yes, driveway), storage type (indoor, climate controlled \u2014 stated with some uncertainty), storage size (10x20, two units), storage floor (first floor). NOT gathered: walking distance from truck to door, additional stops/rooms beyond the six mentioned in pack-out, special considerations. Rep did NOT probe deeply on the six rooms mentioned by customer.",
+    "packing_not_offered": "No mention of packing services offered.",
+    "box_count_not_asked": "No box count or overflow check asked. Customer volunteered 'at least six rooms' but rep did not ask for typical count or special items.",
+    "walkthrough_routed": "Rep correctly identifies move as large (2706 sq ft \u22651800 threshold) and says 'our reel since this is considered a large move. Okay, I'll go ahead and get someone who can quote this accurately so I'll go ahead and connect you over to a large move specialist.' Then after customer pushes back on scheduling without walkthrough, rep says 'before we can really identify the hours we need to do like a virtual walkthrough or if you have copy, if you have videos or photos then you can go ahead and send it over' and later 'as I said we need to do a virtual walk through, you know, for us to provide like the right calculation, the right estimate for this before we can lock in the schedule and secure...the trucks.' Rep sends virtual walkthrough link and schedules follow-up callback with Jim Sanders (project manager on site). Call ends with agreement to callback after Jim is consulted."
+  },
+  "top_strength": "Rep correctly recognized the move size threshold (2706 sq ft) and held firm on routing to a virtual walkthrough rather than guessing on hours/crew/trucks, showing discipline on the large-move protocol.",
+  "coaching_note": "Ask 'Other than price, what are your biggest concerns about this move?' BEFORE diving into logistics probing \u2014 Section 2's Their Agenda was completely skipped, leaving you without the customer's own priorities to shape the discovery and walkthrough prep."
+}

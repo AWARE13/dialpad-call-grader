@@ -1,0 +1,33 @@
+{
+  "call_id": "5851477855215616",
+  "rep_name": "Jules Nicolas",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 6.2,
+  "datetime_ct": "2026-09-24 14:28 CT",
+  "external_number": "+13129124285",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 77,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "discovery_basics": "What date did you say you're gonna be moving? / Can you give me the zip code we're starting at and the zip code we're going to. / Are we moving out of a house or an apartment? / The square feet, like the size of your condo.",
+    "walkthrough_branch_offered": "Yes, if you can take videos, so I can text you a link where you can upload photos and videos of your condo and then we can get you an accurate estimate.",
+    "packing_services": "Definitely we can also do the packing.",
+    "no_quid_pro_quo": "Rep jumps directly into probing (zip code, property type) without framing the call duration, promise of dependable quote, or waiting for customer agreement.",
+    "no_their_agenda": "Rep never asked 'What are your biggest concerns about this move?' or equivalent before or during probing."
+  },
+  "top_strength": "Rep correctly identified a large move (900 sq ft condo with full packing needed) and properly routed to virtual walkthrough with photo/video intake, capturing all four discovery basics before pivoting.",
+  "coaching_note": "Section 1: Always open with the quid pro quo (10\u201315 minute call, dependable quote, waiting for yes) before jumping into probing\u2014it frames the conversation and sets expectations. Section 2: Ask 'What are your biggest concerns about this move?' early, before logistics details, to surface agenda and build trust."
+}

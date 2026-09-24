@@ -1,0 +1,40 @@
+{
+  "call_id": "5498101929910272",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 11.1,
+  "datetime_ct": "2026-09-23 16:42 CT",
+  "external_number": "+12069633687",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 3,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "I have some few questions for you that will take around ten to fifteen minutes. Will that be fine? [Rep waits briefly but does not explicitly frame the 'quote you can depend on' promise or wait for clear affirmation before moving to their agenda question]",
+    "discovery_basics": "Name: Amanda Young; Moving day: Thursday 24th/Monday 28th (initially tried); Route: apartment to storage unit 13 minutes away; Size: two bedroom apartment",
+    "their_agenda": "No for other than the price, are there any biggest concerns about this move that you want to answer in particular for this call? [Asked after customer already volunteered concern about price \u2014 probing on apartment details had already begun earlier when rep asked about balcony/patio/garage access]",
+    "two_layers_deep": "Customer states: 'I'm just trying to get a, if not, crazy ridiculously high.' Rep does not follow up with 'tell me more about that' or any deeper probe on this price concern; moves directly into logistics probing (address, unit number, parking, staircase access, items)",
+    "estimate_anchor": "I'm estimating the move. It might take around four to five hours, so it's good to budget an overall of around $776 to $970 [range provided]; personalized by noting large furniture, dressers, dining tables, Washer/Dryer, fragile floor mirrors specific to this customer's move",
+    "pricing_framing": "We charge an hour rate of $194 per hour for two movers and we provide a 26 foot box truck with everything that's needed... no hidden fee, no credit card fee, no storage fees, no transportation fees... two and a half hour minimum... time will be prorated in fifteen minutes increment [Full transparency on hourly rate, minimum, increments, and no-hidden-fees framing present]",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or equivalent check-in; moves directly to availability discussion after pricing explanation",
+    "on_time_guarantee": "We also have an on time guarantee. So, if the movers arrive late you start to get discount on your final bill. [Mentioned with discount mechanism, meets 'full' standard]",
+    "damage_coverage": "You're gonna get up, up to $2,000 free evaluation coverage. So if anything gets damaged gets broken during the move. You can just give us a call to file a claim for them. You're gonna repair, replace or reimburse zero deductible. [Coverage amount, zero deductible, and repair/replace/reimburse framing all present \u2014 'full' delivery]",
+    "closes_the_loop": "Once you book this move miss young or miss Amanda, you're also gonna get to enjoy other Coopers... [Rep launches into Two Promises framing but never circles back with 'Does that put those to rest?' or similar confirmation; no explicit close to the loop]",
+    "final_concerns_check": "Rep does not ask 'What's still concerning you about this move?' or genuine final concerns check; call ends abruptly when availability conflict arises (customer must move by Saturday, morning slots not available in Fort Worth branch, Dallas branch has $75 fee, customer declines)",
+    "catch_all_asked": "Rep does not ask 'Anything coming with you we haven't talked about?' \u2014 only addressed dressers when customer raised it ('I have other stuff, like dressers and stuff, do you need to know that')",
+    "explicit_ask": "Rep never asks 'Would you like our help with your move?' or any explicit booking request; call terminates when rep says 'I'm sorry that we won't be able to do the move' after availability/fee conflict"
+  },
+  "top_strength": "Arden gathered comprehensive logistics details (property type, floor, parking, walking distance, special items, box count) and delivered clear, transparent pricing with full fee disclosure and both Two Promises (On-Time Guarantee and No Worries coverage) fully explained.",
+  "coaching_note": "Section 2's Their Agenda was asked too late (after logistics probing had begun) and when the customer raised a price concern, Arden never followed up with 'tell me more' to understand what made her anxious about cost\u2014that missed layer cost the entire follow-up thread, and the call ended without ever asking for the business or confirming if a future date works."
+}

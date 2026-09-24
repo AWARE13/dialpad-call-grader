@@ -323,7 +323,7 @@ section4/section5/section6/section7 — they will be scored as full credit autom
 
     message = client.messages.create(
         model="claude-haiku-4-5",
-        max_tokens=1536,
+        max_tokens=3072,
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": prompt}],
     )

@@ -1,0 +1,41 @@
+{
+  "call_id": "4778575319834624",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 15.9,
+  "datetime_ct": "2026-09-23 16:11 CT",
+  "external_number": "+18172404615",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 2,
+  "total_score": 65,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never gave time-boxed framing with 'Does that sound good to you?' \u2014 jumped directly into 'Did you have just any type of mind, questions or concerns that I can kind of kick us off with?'",
+    "their_agenda": "Asked after extensive probing of items: 'So as far as the items go, no before I keep moving, was there any other questions that you had and did that answer the one you had?' (customer's initial concerns about what to expect, supplies, wrapping were already raised unprompted before the formal agenda question)",
+    "two_layers_deep": "Customer raised three distinct concerns \u2014 fragile shelf worry, washer/dryer pricing uncertainty, and access uncertainty \u2014 and rep asked follow-ups on each: 'tell me a little bit more about those fragile pieces,' 'if anything needs to be disassembled, like beds and reassembled at the new place that's already included,' and 'where the truck will be able to park.'",
+    "active_listening_reflection": "No reflection summary. Rep acknowledged concerns but never said 'So what I'm hearing is...' or confirmed the bundle of concerns back to customer.",
+    "estimate_anchor": "Full: 'for this particular move I do have an hourly rate of 202 that does include the two movers, the 126 foot box, foot truck' and personalized via 'the two fragile shelving units,' 'the special consideration items that you have,' and specific drive time. Price range given: '$756 to 958.'",
+    "pricing_framing": "Full: trip fee disclosed ($150), no hidden fees stated explicitly ('we also don't have any hidden fees'), credit card fees waived, no stairwell fees, all services included (wrapping, packing, disassembling). Also: '2.5 hour minimum' and 'you only pay for the time you use.'",
+    "feels_fair_then_silence": "Never asked 'Does that feel fair?' \u2014 rep moved directly to availability confirmation after stating the range.",
+    "on_time_guarantee_delivered": "Full: 'we also have our on time guarantee that's already included and that just ensures that we're protecting your time. So, if we don't arrive in the window that we say we will, the money is automatically deducted off of your final bill.'",
+    "damage_coverage_delivered": "Full: 'we do cover-up to $2,000 for any kind of incidentals' and 'We also have our meet the mover feature' \u2014 though 'No Worries' branding not explicitly used, the $2,000 coverage with no-deductible framing is present and positioned as included ('all of that is taken care of and then what also comes inside of the rate').",
+    "closes_the_loop": "No. Rep restates the two-promises content but never asks 'Does that put those to rest?' or similar confirmation.",
+    "final_concerns_check": "Throwaway: 'what, I'm going to go ahead and do candle, I'm gonna send this to you over in an email. Okay, and so just of course, when you're looking around...' \u2014 no genuine 'What's still concerning you?' question, just pivots to sending email.",
+    "catch_all_asked": "No \u2014 never asked 'Anything coming with you we haven't talked about?' or equivalent.",
+    "explicit_ask": "With out: 'did you want to go ahead and reserve that truck?' but immediately followed by customer saying 'I'm still calling around getting different quotes,' and rep responds 'I'm gonna send this to you over in an email' without re-asking. The soft out was implicit in allowing the pivot without a second clear ask.",
+    "rate_lock_mentioned": "No mention of rate lock or that the quote holds."
+  },
+  "top_strength": "Excellent two-layer follow-up on customer concerns \u2014 rep dug into the fragile shelves, washer/dryer logistics, and access details without brushing past any of them, and built a detailed estimate that directly addressed the customer's stated worries.",
+  "coaching_note": "Section 1 is missing the critical quid pro quo framing ('This will take 10\u201315 minutes and you'll walk away with a quote you can depend on \u2014 does that sound good?') \u2014 start every call with that anchor before moving into discovery, and never ask for the business without first asking 'Does that feel fair?' followed by genuine silence."
+}

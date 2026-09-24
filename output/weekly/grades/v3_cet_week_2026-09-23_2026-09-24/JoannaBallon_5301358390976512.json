@@ -1,0 +1,40 @@
+{
+  "call_id": "5301358390976512",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 8.0,
+  "datetime_ct": "2026-09-23 14:34 CT",
+  "external_number": "+19567449518",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 3,
+  "total_score": 70,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'probably ten to fifteen minutes if this is a good time' \u2014 time box present, but no promise of a dependable quote and no explicit wait for yes before proceeding into discovery",
+    "their_agenda": "Never asked. Rep moves straight into discovery: 'just wanted to check-in with you. If you have any imported concerns or instructions for this move' \u2014 this is asking for concerns but not the open-ended 'what are your biggest concerns and what do you want answers to' version from the script",
+    "logistics_details_gathered": "Covered: property type (1BR apartment to 1-story home), floor/stories (ground floor apartment, one story home), walking distance (one school bus = 30-40 feet), items confirmed (bed, dresser, TV, bookshelves, couch, coffee table, standing desk, book shelves). Packing confirmed as handled by customer.",
+    "estimate_anchor": "Joanna: 'typically for a one bedroom apartment we end up with about fifteen to 25 boxes... I'll just quote your move more on the three to four hour mark. So that would be an estimated budget of $964' \u2014 anchor given (typical range), personalized to office setup and travel time",
+    "pricing_framing": "Joanna: '$103 per hour per mover... $206 per hour... includes the two men and the truck. All the wrap... assembly, reassembly... insurance, credit card fees, all of that is in the price. One time travel fee of $140...' and 'two and a half hour minimum once we go over the minimum, we only charge in fifteen minute increments.' \u2014 both fee transparency and minimums/increment framing present",
+    "feels_fair_then_silence": "Joanna: 'Now would that be said would you like our help for this move on Saturday?' \u2014 No 'does that feel fair' asked, and customer immediately responds with a request instead of silence check occurring",
+    "on_time_guarantee_delivered": "Joanna: 'on time guarantee if we run late, we provide discounts for your move again, no hidden fees of any type' \u2014 discount framing present, discount-starts-immediately logic implied",
+    "damage_coverage_delivered": "Joanna: 'we will also, also include other features like are no worries damage coverage. Which would give you up to $2,000 coverage for any accidental damages' \u2014 coverage amount and built-in status mentioned, but no explicit 'no deductible/no fine print' framing",
+    "explicit_ask": "Joanna: 'Now would that be said would you like our help for this move on Saturday?' \u2014 plain ask, but immediately followed by customer deflection to email. Rep does not re-ask or hold the line; instead pivots to 'I'll send everything in your email' \u2014 soft out provided by rep accepting email-first path",
+    "final_concerns_check": "Joanna: 'Alright, that's all good unless you have any other questions.' \u2014 this is throwaway phrasing, not the genuine 'what's still concerning you' version",
+    "booking_confirmed": "Joanna confirms: email address (A LFA. ROM O. ISES. 101 @gmail.com), saves everything. Missing: move date (Saturday 26 was stated but not re-confirmed at booking), phone number, arrival window, crew size, addresses re-confirmed, or crew notes about concerns. Rep ends with email handoff, not a true booking lock."
+  },
+  "top_strength": "Excellent discovery and logistics detail-gathering \u2014 Joanna systematically confirmed property type, floor layout, parking distance, specific furniture items, box count, and special considerations without rushing, creating a solid estimate foundation.",
+  "coaching_note": "Do not accept an email defer as a substitute for the explicit ask and booking confirmation; hold the line on 'Would you like our help with your move?' and only email if the customer declines, not as an alternative path to close."
+}

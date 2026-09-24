@@ -1,0 +1,1237 @@
+{
+  "call_id": "5865735712186368",
+  "lines": [
+    {
+      "content": "Hello, good afternoon, this is Jeff with Einstein. How can I help you today?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:24:21.542419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:24:21.542419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:24:21.542419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:24:21.542419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:24:21.542419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:24:21.542419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:24:23.318419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:24:24.158419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:24:24.838419",
+      "type": "custom_moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Hi sherry, how are you?",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:24:26.727476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "ner",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:24:27.537476",
+      "type": "moment"
+    },
+    {
+      "content": "I'm doing great. Thank you. And you. How are you?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:24:29.342419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "I'm doing good, thank you.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:24:33.327476",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Yeah, how can I help you today?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:24:35.342419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:24:37.198419",
+      "type": "custom_moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "So I'm trying to get an estimate for a move. I'm moving my two bedroom apartment within the same apartment complex so it's like 40500 feet away it's within the same apartment complex. I'm trying to get an estimate for packing and moving.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:24:38.727476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "call_purpose",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:24:38.727476",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm. Okay.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:25:04.142419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "And it's in late October around trying to think the date the ideal dates for moving would be and I, I'm flexible but like October 18192021. Like the weekend of October 18th October. Oh, sorry, I'm sorry, I'm looking at September I apologize the weekend of October 17th so like, 16171819.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:25:05.727476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "date",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:25:26.217476",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm I see.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:25:29.342419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "date",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:25:35.577476",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:25:37.742419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "The whole back and move estimate.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:25:41.127476",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm, I see. Well, you know what? I got you and let's get you quoted for that, you know, packing and for the moving portion as well. So let's start with a few questions to get us on the right track. This should take about, let's say ten to fifteen minutes and then we'll be able to, to build an accurate estimate. Is that okay?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:25:43.742419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:26:04.198419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Yeah, that's fine.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:26:05.727476",
+      "type": "transcript"
+    },
+    {
+      "content": "Perfect, okay, so I'll go ahead and select Sunday, October 18th, okay, and then yeah, let's go ahead and build your profile. Can I have your wonderful name, please?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:26:06.542419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "date",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:26:10.158419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Fair enough.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:26:12.927476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "I give you Sam that's fine for now.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:26:20.127476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "ner",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:26:21.697476",
+      "type": "moment"
+    },
+    {
+      "content": "Sam. Okay, and your last name, Sam?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:26:22.742419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:26:22.742419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:26:25.558419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "A-R-Y-N.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:26:26.727476",
+      "type": "transcript"
+    },
+    {
+      "content": "A-R-Y-N.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:26:31.142419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "A.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:26:34.527476",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, A, okay, alright, got it. Thank you. How about your email?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:26:35.942419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "It's A-R-Y-A 4700 at Gmail.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:26:42.327476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "ner",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:26:45.937476",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, so that's aria 4700 @gmail.com.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:26:47.942419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "pii",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:26:51.558419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "email_address",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:26:52.718419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Mm-hmm.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:26:54.927476",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, got it then. So yeah, let's talk about your move aside from the price. What are your biggest concerns and what are the most important things you'd like answers to today?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:26:56.342419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:27:03.878419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Sorry, can you repeat that? I think I lost the Wi apologize, say it again.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:27:11.127476",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, it's okay. Aside from the price or rates, what are your biggest concerns for this upcoming move and you know, what are the most important things you want answers to on this call today?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:27:16.742419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:27:21.918419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Nothing really, primarily really want to get the rate.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:27:32.127476",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm well perfectly understand that sure thing I can go ahead and provide you that information. Yeah so, for now I'll ask you a few questions. So starting from the address where you're moving from, what is your pickup location address?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:27:37.142419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:27:54.238419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "It's 8818 Travis, his drive, Austin, Texas. 78735.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:27:56.727476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "ner",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:27:59.977476",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "ner",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:28:02.777476",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "postcode",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:28:04.527476",
+      "type": "moment"
+    },
+    {
+      "content": "Alright. And what floor is the apartment on?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:28:08.342419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "So I am moving from third floor to a second floor.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:28:14.727476",
+      "type": "transcript"
+    },
+    {
+      "content": "Second, so do you have like, elevator access?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:28:19.742419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:28:22.518419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "No.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:28:25.527476",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. So both stairs access. Okay. Alright. And then about how many, how many square feet is the apartment, your current apartment.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:28:27.542419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "It's a typical two bedroom. I'm not sure. Let me, let me ask my wife if she know nothing is it. Not it's not too big. It's a typical.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:28:40.527476",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:28:57.542419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "What typical?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:28:59.942419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Yeah, I think it's about, like, 1200 feet, square feet it's a typical two bedroom. It's normal two bedroom.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:29:00.327476",
+      "type": "transcript"
+    },
+    {
+      "content": "I see, so 1200 square footage, two bedroom apartment. Okay, and do you have any extra spaces like a garage? Storage room at the apartment now? Okay. Alright, and how about the walking distance from where we can park the track to the bottom of the stairs, how far is the walk, how many feet?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:29:07.142419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Yeah.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:29:12.327476",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:29:13.798419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "No.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:29:17.727476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "No.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:29:20.727476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "I would say pretty close, like you can park it right next to it the stairs. Usually right next to stairs.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:29:30.327476",
+      "type": "transcript"
+    },
+    {
+      "content": "Et. It's right there. Okay. And how about once we reach the third floor to your apartment door?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:29:41.342419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "It's even, it's even closer. It's literally, you just, you literally have this one stair to go to the apartment that are moving to.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:29:48.327476",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. So it's like safe to say around thirty feet.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:29:58.742419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Thirty but yeah even less but yes, yes, safety 35 you're correct.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:30:05.127476",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Then, and Sam, do you have any special consideration items that is heavy and super? You know, super heavier. Oversized like a safe piano or workout equipment?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:30:10.742419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:30:12.878419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:30:14.158419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "So there is a work order recruitment, but it can be dispensed. The only biggest thing I would say is but I do have like a 75 inch TV but it is very lightweight and you can, if you pack it, it's very easy to move it. I would say other than that, the heaviest would be, one of the drawers we have in the bedroom, but that's about it.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:30:24.927476",
+      "type": "transcript"
+    },
+    {
+      "content": "I see you mentioned about the workout equipment. What is that workout equipment?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:30:49.742419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:30:54.838419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "It's, you know, what are those if not Trademe is the electrical?",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:30:56.727476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "question",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:30:59.537476",
+      "type": "moment"
+    },
+    {
+      "content": "Work pad.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:31:03.542419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Say that again.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:31:05.727476",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, what is it again? Sorry, lip elliptical.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:31:07.142419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:31:07.878419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Yeah. Yeah, it's a electrical. It's a Ty electrical. But it can also be like disassembled.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:31:11.127476",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, so give me one second.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:31:22.742419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "So it's like a stationary bike is that.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:31:28.742419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Mm-hmm. Mm-hmm. Mm-hmm.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:31:32.127476",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay then, and it's like less than, right? Less than how let's, let's say \u00a3300.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:31:35.342419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:31:40.678419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Yeah, I don't think it would be more than \u00a3300 yeah, it's not that heavy.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:31:43.527476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "currency",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:31:45.657476",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:31:49.142419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Alright, and since you've mentioned about, you know, the, you know, the TV and the workout equipment. Could you walk me through the rest of the big furniture that we are going to move, we can start from your, from your living room.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:31:52.742419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "It's.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:32:05.127476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Yeah, living room has just a typical couch and the love seat very lightweight. Just not, they're not, yeah, they lightweight. I have a very lightweight coffee. Ha, it's just the glass table. It's very lightweight, I have a dining table, it's a four Fe, pretty light age, yeah, that's all in the living room.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:32:08.127476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "positive_sentiment",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:32:08.127476",
+      "type": "moment"
+    },
+    {
+      "content": "And there's no. Okay, so we have a couch, lab seat, coffee table dining table with four chairs.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:32:35.942419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Yes.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:32:44.127476",
+      "type": "transcript"
+    },
+    {
+      "content": "How about TV stand or TV console?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:32:44.942419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Now the TV stand is super light but it is very small, just the TV is the only thing.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:32:48.327476",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, with the.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:32:52.742419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Alrighty. Okay. So now, yeah. What else do you have there in the bedroom?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:32:55.142419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:32:58.558419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "So we have a two bedroom, right? So we have two beds but they can be very easily. This is amber. They are not heavy weight. Anyway you disassemble them, they are pretty okay then you have those coffee tables on the side of the bad. Again, lightweight, nothing bad. And it was chair lightweight stuff, like I said, the only heaviest thing is, one of the drawers is in the bedroom is decently heavy. That probably is the biggest heaviest thing and.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:33:02.127476",
+      "type": "transcript"
+    },
+    {
+      "content": "How many, how many dressers do you have?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:33:32.342419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Just one.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:33:36.927476",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. How many night stands or the, you know, the side tables in the bed?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:33:38.942419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "We say four but they're already very lightweight stuff.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:33:42.927476",
+      "type": "transcript"
+    },
+    {
+      "content": "For.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:33:45.542419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Anything else for the big stuff?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:33:50.342419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "We do have our baby's crib but I think again, this is also a very lightweight that it's just a frame. Anybody can yeah, I don't consider that heavy or anything. But, yeah, like I said, the drawer we have a like wooden dryer in the bedroom. That is probably the high thing we have. But I have seen, I have seen people just one person moving it but I don't wanna like misrepresent or anything is in my opinion, that's the heaviest thing.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:33:54.927476",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:33:58.142419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Yeah, I understand.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:34:01.142419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:34:16.742419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Mm-hmm I see. Gotcha. And then for the boxes a typical two bedroom apartment usually has 25 to 35 boxes. So do you feel like you will fall within that range?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:34:28.142419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:34:39.118419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "What is that 25 to thirty boxes?",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:34:42.327476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "question",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:34:42.327476",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, how many boxes are we going to move?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:34:45.542419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "You you're talking about like packing everything in the apartment other than these items, right?",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:34:50.127476",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, like the small miscellaneous items. So, cause you're.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:34:57.542419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Yeah, I can't imagine more than 25, I agree with you I kitchen would probably have like five the bedroom closet, probably five.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:35:01.527476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Yeah, I can't imagine more than 2530 yeah, I agree with you.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:35:14.727476",
+      "type": "transcript"
+    },
+    {
+      "content": "So I'll just put you on the lower range, okay, 25 boxes.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:35:19.142419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Yeah, and, and they, and we're talking about like thirty inch by thirty inch by thirty those typical boxes, correct me.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:35:24.927476",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:35:26.342419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Sure, yes.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:35:30.542419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Yes, that's correct. Okay, regardless of the box may be small, medium large, you know. So yeah, we'll go ahead and.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:35:34.742419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Yeah. We don't have, we don't have too many things. We are pretty lee, you know, on cause we know that we have to move. So, we have not been like Accura things. But, yeah, so but I mean, I can't imagine more than 25.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:35:42.927476",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:35:49.742419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Okay, and then.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:35:53.942419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:35:55.358419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Okay. So now for the packing services, so you need help in packing the kitchen stuff, the wardrobe, and then the rest of the small miscellaneous items, is that correct?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:35:58.142419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:36:10.518419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Correct.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:36:11.727476",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. So basically for a two bedroom apartment we usually a lot, five and a half hours to, you know, for the packing services. Okay, that's a typical range so or a typical estimate for a packing service for a two bedroom apartment. But then again you know, that's just an estimate and you will be charged based on the actual, actual hours. Okay. And now just to confirm, you're moving to the same building complex and the address is the same, is that correct?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:36:13.142419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Mm-hmm.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:36:41.727476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Okay.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:36:45.327476",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:36:54.598419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Yeah, we're building, we're moving from building nine to building five which is like 500 feet from this building.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:36:56.127476",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, what is the current unit number?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:37:04.142419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "934.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:37:08.727476",
+      "type": "transcript"
+    },
+    {
+      "content": "934 the new apartment is.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:37:10.742419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Let me check with my wife Fe if the new Rob like a 5:22 it's on the second floor.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:37:15.327476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "ner",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:37:17.127476",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "ner",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:37:18.257476",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "time",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:37:20.137476",
+      "type": "moment"
+    },
+    {
+      "content": "So, 522, okay. And then same size, right? Two bedroom apartment, 1200 square footage.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:37:23.942419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Oh, no, no. The other bedroom is other places at three bedroom. But yeah, we're trying to like, I think it's about like 1370 or 1400 square feet.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:37:32.127476",
+      "type": "transcript"
+    },
+    {
+      "content": "Three bedroom, okay. And what's the size?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:37:36.542419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:37:39.118419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Okay, thank you so much. Okay, now.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:37:47.342419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Hopefully, that doesn't matter. Right.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:37:51.927476",
+      "type": "transcript"
+    },
+    {
+      "content": "No, no, we just wanna go ahead and you know, input everything here as part of your profile. Okay, so regardless, okay, of the location or the drop-off location. We can definitely take care of it now for the you know, for the packing and moving. Let me go ahead and explain everything, okay?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:37:55.142419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Got it, got it.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:38:00.327476",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Right.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:38:10.527476",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:38:18.238419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Mm-hmm.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:38:18.927476",
+      "type": "transcript"
+    },
+    {
+      "content": "So.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:38:19.038419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Basically, okay, packing services are charged at the same early rate and typically require the same resources as the moving portion depending on the amount of packing needed. So the packing supply estimated, you know, estimate, note estimate is basically set separate and reflect the material expected to be used. So since you are moving from a third floor, two bedroom apartment with stairs access to a second floor apartment with stairs access and have requested a full packing services for your current apartment. Then I would estimate the pack and the move service for approximately, I, approximately 1011 hours, okay, 10:00 to eleven hours.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:38:20.318419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDiy-uM0QgM",
+      "content": "Mm-hmm.",
+      "name": "Sam Arya",
+      "time": "2026-09-23T21:38:33.327476",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:39:11.798419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:39:15.798419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "time",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:39:16.598419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "So what's gonna happen is that we will break it down into two days the first day or for day one, this is really for packing at two mover team would pack the small miscellaneous items in two boxes and I estimate this portion to take approximately five and a half hours. So if time allows, the movers can also begin this assembling wrapping and padding furniture in preparation for the move the following day and on day two, at two mover team would return to finish wrapping and padding the furniture load everything onto the truck and then drop it to, to your new apartment. So I estimate this portion to take approximately you know, six hours. So for the complete packing and the moving service.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:39:18.542419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:39:35.718419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "So we recommend budgeting around.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:40:12.758419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "$2,632. That's for the packing and for the moving. And this estimate includes approximately $217 in packing supplies. So we bring all the materials necessary and only charge you for the materials actually.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:40:18.542419",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:40:18.542419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-23T21:40:27.278419",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    }
+  ]
+}

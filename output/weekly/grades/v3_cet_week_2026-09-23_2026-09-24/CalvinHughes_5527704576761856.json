@@ -1,0 +1,37 @@
+{
+  "call_id": "5527704576761856",
+  "rep_name": "Calvin Hughes",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 15.9,
+  "datetime_ct": "2026-09-23 15:35 CT",
+  "external_number": "+13056975275",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 64,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Calvin asks 'did you have about ten minutes' but never delivers the framing about availability within timeframe, a dependable quote promise, or waits for explicit yes before moving forward.",
+    "their_agenda": "Calvin asks 'before jumping in anything at the moment that you're particularly concerned about that you'd want to address' but this is rushed and poorly phrased; customer says 'No, nothing as such' and Calvin pivots immediately to name-taking without genuine two-layer concern discovery.",
+    "estimate_anchor": "Calvin provides: '$192 per hour...two and a half hour minimum...base minimum cost would be $480...typically a two bedroom apartment takes two guys about 3.5 to 5.5 hours...usually in the range of about $672 to $1,056' and later personalizes to 'between 6 seventy two and eight sixty four...four and a half hours or less' based on inventory review.",
+    "pricing_framing": "Calvin covers trip fees ('no trip fees'), taxes ('no taxes'), credit card fees ('no credit card fees'), 2.5-hour minimum, and 15-minute increments explicitly: 'broken down into fifteen minute increment, so $48 per fifteen minutes.'",
+    "feels_fair_then_silence": "Never asked. Calvin moves from pricing explanation directly to answering customer questions about scenarios without pausing for customer reaction to the estimate itself.",
+    "on_time_guarantee": "Calvin states: 'we do have an on time guarantee if we're ever late to the window of arrival that we give you. We do discount your money back.'",
+    "damage_coverage": "Calvin covers: 'no worries damage coverage...a tire evaluation for your items we allocate up to $2,000 per move...just included an hourly rate.' Missing explicit 'no deductible/no fine print' framing.",
+    "explicit_ask": "Calvin never asks 'Would you like our help with your move?' Instead, customer volunteers 'Let me discuss with my husband and...the quote with him and then I can give you a call' and Calvin responds with email confirmation, effectively accepting a soft no-commitment response."
+  },
+  "top_strength": "Calvin systematically gathered complete logistics details (property types, floors, square footage, walkway access, special items, box count) and delivered a personalized, anchored price range ($672\u2013$1,056 narrowed to $672\u2013$864) backed by transparent hourly rates and fee structure.",
+  "coaching_note": "Never opened with the quid pro quo framing (availability + dependable quote promise + wait for yes), never asked for their agenda/concerns before probing, skipped 'does that feel fair' pause before moving to questions, and never asked the explicit closing question\u2014let the customer walk without attempting a direct ask for the business."
+}

@@ -1,0 +1,38 @@
+{
+  "call_id": "5238816230645760",
+  "rep_name": "Danah 2Celestial",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 7.1,
+  "datetime_ct": "2026-09-23 16:46 CT",
+  "external_number": "+13127308711",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 14,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 52,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never frames the 10-15 minute time box or asks for a yes to proceed \u2014 jumps straight into 'Let me check that for you and let me check availability first.'",
+    "their_agenda": "Rep never asks 'Other than price, what are your biggest concerns about this move?' \u2014 customer volunteers a concern (storage unit charging structure) but rep does not ask a dedicated agenda question.",
+    "estimate_anchor": "Rep states: 'So with two guys that's gonna be around $556 to $576' and personalizes to the customer's prior move: 'I did see your last move with us. I think it took like, just below three hours and then we have a two and a half hour minimum.'",
+    "pricing_framing": "Rep discloses: '$192 for two movers. Everything's already included there gas and truck taxes and insurance... no extra charges, no credit card fee... transportation fees... two and a half hour minimum... time is prorated in fifteen minute increments.'",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' after pricing. Moves directly to 'So Andrew would you like to go ahead and lock in the Sunday maybe October 18th?'",
+    "on_time_guarantee": "Not mentioned at all.",
+    "damage_coverage": "Not mentioned at all.",
+    "final_concerns_check": "Rep never asks 'What's still concerning you about this move?' \u2014 ends with 'Have a good one.'",
+    "explicit_ask": "Rep says 'So Andrew would you like to go ahead and lock in the Sunday maybe October 18th?' but customer does not commit; customer defers: 'Let me wait and see just how quickly they're gonna get me.' Rep accepts deferral and does not re-ask or solidify intent."
+  },
+  "top_strength": "Rep expertly leveraged prior move history to anchor the estimate and build credibility with a returning customer, and gathered all four discovery basics cleanly and early.",
+  "coaching_note": "The call skipped Section 2's agenda question entirely and never delivered the Two Promises (On-Time Guarantee and No Worries Damage Coverage), and did not ask 'Does that feel fair?' after pricing or attempt a genuine final concerns check\u2014these are load-bearing moments that protect the sale and the customer's confidence."
+}

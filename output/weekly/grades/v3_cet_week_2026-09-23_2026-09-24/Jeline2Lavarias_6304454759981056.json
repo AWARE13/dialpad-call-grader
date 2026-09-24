@@ -1,0 +1,40 @@
+{
+  "call_id": "6304454759981056",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 5.6,
+  "datetime_ct": "2026-09-23 18:42 CT",
+  "external_number": "+12102747937",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 31,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "section1_quid_pro_quo": "Jeline offers 10-15 minute personalization but then immediately pivots to pricing without waiting for a clear yes: 'would you like to do that? It would take us ten to fifteen minutes and I'll be transferring your call to a moving specialist or would you only like to get a general pricing?' Customer doesn't give explicit consent before pricing begins.",
+    "section1_walkthrough_branch": "Home is 3,000 sq ft (>1,800 threshold). Script requires offering virtual walkthrough in Section 1. Jeline instead asks 'would you like to do that?' referring to personalization/specialist transfer, but does not frame it as a 10-15 minute walkthrough. Customer deflects with 'they're probably close to each other, right?' and Jeline immediately pivots to general pricing without confirming walkthrough routing.",
+    "section2_their_agenda": "Never asked. Rep moves straight into pricing details and fee structure without asking 'Other than price, what are your biggest concerns about this move?'",
+    "section3_logistics": "Minimal probing. Gathered: property type (four bedroom office), square footage (3,000). Did NOT ask: floor/stories, number of rooms, walking distance, additional rooms, special considerations (beyond customer volunteering 'typical four bedroom house living room office'), additional stops. Customer mentioned storage need but this was reactive, not probed.",
+    "section4_estimate_anchor": "Partial. Rep gave hourly rate ranges ($412/hour for 4 movers Saturday; $384/hour weekday) tied to crew size typical for home size, but did NOT personalize to this customer's specific situation (e.g., no mention of her stated concern about storage, her stated prep level, or her timeline uncertainty). No minimum-hour framing or 15-minute-increment commitment stated.",
+    "section4_pricing_framing": "Partial. Rep disclosed hourly rate, gas, truck, taxes, insurance, pads, tools, and moving blanket deposit ($14). Did NOT mention trip fee upfront (only checked zip code after customer asked about travel fee). Did NOT mention 2.5-hour minimum or 15-minute-increment commitment ('not a guess' framing).",
+    "section4_feels_fair_silence": "Never asked. Rep ended with zip code check and travel fee clarification, never asked 'Does that feel fair?' and did not pause for customer response.",
+    "section5_on_time_guarantee": "Not mentioned at all.",
+    "section5_damage_coverage": "Not mentioned at all.",
+    "section6_final_concerns_check": "Not asked. Call ended with travel fee clarification and a perfunctory 'Have a good day' with no genuine final concerns check.",
+    "section7_explicit_ask": "Never asked. Rep never said 'Would you like our help with your move?' or any equivalent. Call was informational only, no booking attempt."
+  },
+  "top_strength": "Jeline responded thoroughly to the customer's specific questions about fees, materials, storage, and travel charges, providing clear, accurate pricing breakdowns and fee transparency.",
+  "coaching_note": "The call skipped the entire structure after Section 1: no agenda-setting, no concern discovery, no detailed probing, no estimate confirmation, no promises delivery, no final checks, and no close \u2014 it became a pure FAQ call rather than a guided sales conversation; start with 'Other than price, what are your biggest concerns?' in Section 2 and follow the card's sequencing to actually move toward a booking."
+}

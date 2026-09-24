@@ -1,0 +1,41 @@
+{
+  "call_id": "5383021288529920",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 12.5,
+  "datetime_ct": "2026-09-23 15:26 CT",
+  "external_number": "+18179083021",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 2,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 7,
+  "section7_ask_for_the_business": 1,
+  "total_score": 37,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skipped the entire opening framing (10\u201315 min time-box + dependable quote promise + wait for yes). Jumped straight to 'do you have any just top of mind questions that I can start out with or concerns?'",
+    "their_agenda": "Asked but only after probing had already begun \u2014 customer raised timing concern immediately in first message, rep acknowledged it, then said 'okay, the biggest question and concern that you had' much later after logistics details were already being gathered.",
+    "two_layers_deep": "Timing concern: 'is there flexibility on that' \u2192 rep answers directly, customer asks follow-up, rep answers again. TV stands: 'Would I need to remove that or would the movers remove that?' \u2192 rep clarifies dismounting is included, no further probe needed. Bed frame: 'may have to but I think it's really just like an hour and wrench kind of thing' \u2192 rep confirms understanding. Multiple logistics details followed up on (Peloton wheels, furniture items, elevator access).",
+    "active_listening_reflection": "No summary reflection at any point. Rep acknowledged concerns but never played back 'So what I'm hearing is X, Y, Z' format.",
+    "estimate_anchor": "Rep gave '3 to 4 hours' as estimate and mentioned 'the 9:40 three that's at the upper end so that's at the four, the about the four hours,' but no typical range for apartment this size and no personalization tied to customer's specific move characteristics (timing sensitivity, packed-in boxes, Peloton handling).",
+    "pricing_framing": "Rep mentioned time estimate (3\u20135 hours) but never disclosed trip fees, overnight fees, packing materials, 2.5-hour minimum, or 15-minute-increment billing. No 'not a guess' commitment framing.",
+    "feels_fair_then_silence": "Never asked 'Does that feel fair?' No pause or silence management around pricing.",
+    "on_time_guarantee": "Never mentioned. No discount-if-late or on-time guarantee language at all.",
+    "damage_coverage": "Never mentioned. No reference to $2,000 coverage, no-deductible, or built-in-to-rate framing.",
+    "closes_the_loop": "No explicit close after Two Promises (which were never delivered). Rep moved to other tasks without confirming concerns were addressed.",
+    "final_concerns_check": "Asked 'And then anything else you could think of that may be important?' and later 'Did you have anything else for me?' \u2014 both empty throwaway format, not genuine 'What's still concerning you about this move?' version.",
+    "catch_all_asked": "Yes: 'If you think of anything that we didn't talk about or that you think might be important to note. You could just reply to the email.'",
+    "explicit_ask": "Never asked 'Would you like our help with your move?' or any close variant. Rep ended with 'Well if you have anything else Dunkin thank you so much for answering my call this morning' and handed off without a booking commitment request.",
+    "booking_confirmed": "Partial \u2014 confirmed new time slot (9:00 AM), pickup address (2717 House Street, Dallas), drop-off address (7200 Dallas Parkway, Plano), and noted Peloton weight limit. Missing: phone number confirmation, arrival window precision (said '8:00 to 8:30' but no final lock), crew size never discussed."
+  },
+  "top_strength": "Rep handled customer's live logistics questions (TV stands, Peloton wheels, bed frame, parking) with practical follow-up and made meaningful time adjustments twice without friction, building flexibility and trust.",
+  "coaching_note": "Rep skipped the entire Section 1 opening framing (no time-box promise, no 'dependable quote' value prop, no yes-confirmation), never delivered the Two Promises (On-Time Guarantee and Damage Coverage), and never asked for the business \u2014 call ended as logistics coordination only, not a sales close."
+}

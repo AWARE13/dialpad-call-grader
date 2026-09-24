@@ -1,0 +1,33 @@
+{
+  "call_id": "5391453932527616",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 9.4,
+  "datetime_ct": "2026-09-23 14:27 CT",
+  "external_number": "+12812160183",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 8,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 3,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Rep never asked 'Other than price, what are your biggest concerns about this move, and what do you want answers to on this call?' \u2014 moved straight into listing Einstein's features instead.",
+    "two_layers_deep": "N/A \u2014 customer raised no concerns in Section 2, so no follow-up opportunity existed.",
+    "estimate_anchor": "Rep provided: 'a typical move this size would normally take two movers one truck between six to eight hours since you're going to be moving a lot of that stuff yourself. I would estimate that the move would take between five and six hours. And I would look to budget between $950 and then 1140' \u2014 anchored to home size and personalized to customer's self-moving situation.",
+    "explicit_ask": "Rep said: 'if you would like to get on our books you may go ahead and respond to that email or you can just give us a callback as well' \u2014 softened with an easy out (email or callback), not a plain 'Would you like our help with your move?'"
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details (property types, square footage, room counts, special items, parking accessibility, box count) and delivered both service promises (On-Time Guarantee and No Worries Damage Coverage) with clear terms in a natural, conversational flow.",
+  "coaching_note": "Open Section 2 with the genuine agenda question ('Other than price, what are your biggest concerns about this move?') before pivoting to Einstein's features \u2014 this is where you discover what the customer actually cares about, not where you list what Einstein has."
+}

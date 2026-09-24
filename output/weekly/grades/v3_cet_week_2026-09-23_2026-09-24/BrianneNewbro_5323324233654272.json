@@ -1,0 +1,31 @@
+{
+  "call_id": "5323324233654272",
+  "rep_name": "Brianne Newbro",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 12.6,
+  "datetime_ct": "2026-09-24 15:41 CT",
+  "external_number": "+18179802533",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 4,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Before I go over the information, do you have any questions or concerns you would like answered on this call besides pricing? [asked after rep has already begun discussing packing options and availability]",
+    "two_layers_deep": "Rep dug into the packing preference (what size stuff to pack, one-day vs. two-day feasibility), the minimalist nature of the move, appliance status, and parking concerns\u2014all with follow-up probes rather than one-and-pivot.",
+    "estimate_anchor": "No hourly rate range or typical estimate given. Rep mentions 'same' hourly rate for different days (2:08) but never anchors to a typical range for a one-bedroom move or personalizes estimate to this customer's move size.",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' or equivalent. Call ended with rep saying 'I am going to get this altogether for you since I'm going to get a couple of scenarios and then I will email this over shortly.' Customer responded with gratitude and said they will pass it to Tyler and wait for callback, but rep did not explicitly ask for the business."
+  },
+  "top_strength": "The rep handled a complex, multi-concern customer with patience and depth\u2014digging into packing logistics, availability conflicts, and a serious crew-conduct concern raised by the customer with genuine reassurance and a clear escalation path rather than dismissing it.",
+  "coaching_note": "Do not skip the quid pro quo framing in Section 1 (10\u201315 minute time box + dependable quote promise + wait for yes) and do not email an estimate without asking 'Would you like our help with your move?' first\u2014you gave away pricing leverage and never secured the business on the call."
+}

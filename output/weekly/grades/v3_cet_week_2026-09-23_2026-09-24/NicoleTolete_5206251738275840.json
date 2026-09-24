@@ -1,0 +1,37 @@
+{
+  "call_id": "5206251738275840",
+  "rep_name": "Nicole Tolete",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 10.7,
+  "datetime_ct": "2026-09-23 18:41 CT",
+  "external_number": "+17042213895",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 8,
+  "section7_ask_for_the_business": 5,
+  "total_score": 63,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Nicole never frames the call with a time-box and explicit dependable-quote promise. She jumps directly into logistics: 'Yeah, I just need to pull up your profile here...' with no quid pro quo setup.",
+    "their_agenda": "Nicole never asks 'Other than price, what are your biggest concerns about this move?' or equivalent. She goes straight into probing for details based on the online estimate.",
+    "estimate_anchor": "Nicole states: 'For this move I estimate it to take just within our minimum of two and a half to three and a half hours with two movers and one truck. And it's good to budget around $510 to $714.' This is anchored to home size and personalized to the customer's prep level (boxes already packed, previous moving company's coverage).",
+    "pricing_framing": "Nicole mentions 'no deposit is the card if you have to reschedule or cancel, no fees for that either' and references the 2.5-hour minimum, but does not explicitly state trip fees, overnight fees, or 15-minute-increments commitment framing.",
+    "feels_fair_then_silence": "Nicole never asks 'Does that feel fair?' or equivalent after presenting the estimate. She moves directly into insurance and on-time guarantee framing.",
+    "on_time_guarantee_delivered": "Nicole states: 'We have on time guarantee if we cannot make it in the time window that we arrange we immediately start discounting money of your final bill and you will be expecting us to arrive within thirty minutes depending on the traffic within 9:30 AM to 10:00 AM.' The discount-immediately framing is present.",
+    "damage_coverage_delivered": "Nicole states: 'We provide up to $2,000 per move to repair, replace or reimburse for any accidental damages.' She does not explicitly state 'no deductible' or 'no fine print' framing, nor that it is built into the rate.",
+    "explicit_ask": "Nicole never asks a version of 'Would you like our help with your move?' The call ends with administrative confirmations (email, phone availability, COI arrival timing) but no explicit close-ask for the business. The booking confirmation is discussed in response to Dale's request to 'book it over the phone,' not a proactive rep ask."
+  },
+  "top_strength": "Nicole gathered comprehensive logistics details (property type, floor, unit number, storage specs, heavy items, special considerations, elevator reservation) and confirmed the full booking with name, phone, address, time window, and crew size.",
+  "coaching_note": "You must open every call with the quid pro quo framing (time-boxed ask + promise of a dependable quote) and confirm the customer's buy-in before probing; you skipped straight into logistics and never asked 'What are your biggest concerns about this move?' \u2014 two foundational pieces that drive everything that follows."
+}

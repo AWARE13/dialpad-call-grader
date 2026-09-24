@@ -1,0 +1,38 @@
+{
+  "call_id": "4975635784572928",
+  "rep_name": "Amy Arbasa",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 9.7,
+  "datetime_ct": "2026-09-23 22:34 CT",
+  "external_number": "+12108543545",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 14,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 6,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'We do have an opening for Friday' but never frames the 10-15 minute call duration or the 'quote you can depend on' promise, and never asks for explicit agreement before diving into details.",
+    "their_agenda": "Asked as 'What are you most worried about for this upcoming noon?' but only after saying 'We do have an opening for Friday' and reviewing details \u2014 comes after initial probing has begun.",
+    "two_layers_deep": "Customer raises concerns: antiques/midcentury modern pieces, need to 'wiggle them in' to smaller space. Rep says 'Mm-hmm' twice but never asks 'tell me more about that' or digs deeper into how tight the fit is or what 'making things streamlined' means. Concern acknowledged only, no follow-up.",
+    "estimate_anchor": "$206 per hour with 2 movers, described as 'all inclusive,' plus rep suggests 'budgeting for about three to four hours' and gives $618 (3 hrs) and $824 (4 hrs) range. Personalized to this specific move (three stops, no appliances, garage fridge, storage unit on ground floor).",
+    "pricing_framing": "Rep states '2.5 hour minimum,' 'prorate the time in every fifteen minute increments,' 'no additional fees of any type,' 'no travel fees,' 'no credit card fees,' 'no disassemble, no reassembly fees,' 'all inclusive hourly rate' including 'taxes, insurance, and the gas.' Fee transparency and commitment framing both present.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or any similar closing check. Customer simply says 'That sounds good' in response to the range, but rep does not ask the question or hold silence.",
+    "on_time_guarantee": "Not mentioned at all in the call.",
+    "damage_coverage": "Not mentioned at all in the call.",
+    "explicit_ask": "Amy asks 'Now are you ready to book this date? Would you like us to help you out cause it's already on Friday and we're booking up' \u2014 a direct ask without an easy out. Customer replies 'Yes, yes, I'm ready.' Explicit and clean.",
+    "rate_lock": "Rep says 'no deposit' but never mentions 'rate lock' or that the quote/rate is guaranteed until booking is confirmed.",
+    "booking_confirmed": "Rep confirms: Friday the 25th, 8:30-9 AM ETA, pickup at Cortez Drive. Missing: phone number confirmation, arrival window detail confirmation (only ETA given, not a window as a discrete item), crew size not stated, destination addresses (406 Picon Drive and storage unit) mentioned in inventory recap but not explicitly re-confirmed as part of booking, and no notes left for crew about customer's concerns (antiques, tight fit at destination)."
+  },
+  "top_strength": "Amy gathered comprehensive inventory details efficiently (couch, sideboard, bed, garage fridge, no boxes, three-stop routing) and gave a clear, all-inclusive hourly rate with full fee transparency and minimum/increment structure.",
+  "coaching_note": "Section 2: customer raised a real concern about fitting large midcentury pieces into a smaller home\u2014rep heard it ('Mm-hmm') but never dug deeper with 'tell me more about that'; this was the moment to understand the actual challenge and reassure. Also missing: Section 4's 'Does that feel fair?' close, Section 5's Two Promises entirely (On-Time Guarantee and No Worries Damage Coverage), Section 6's final concerns check, and Section 7's rate-lock mention and full booking detail confirmation including phone and crew size."
+}

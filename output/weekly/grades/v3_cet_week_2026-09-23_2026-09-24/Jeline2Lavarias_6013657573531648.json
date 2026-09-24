@@ -1,0 +1,35 @@
+{
+  "call_id": "6013657573531648",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 7.0,
+  "datetime_ct": "2026-09-23 22:27 CT",
+  "external_number": "+12108543545",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "None present. Rep moves directly to data collection without framing the 10-15 minute call or waiting for agreement.",
+    "discovery_basics": "Name: 'first name is Leslie and last name is long'; moving day: 'Friday, this coming Friday. Correct? September 25th'; route: 'address of the current house and for the new address'; size: 'What is the square footage? It is 1850'",
+    "walkthrough_branch": "Rep correctly identifies 1,850 sq ft (at the threshold) and routes call to specialist: 'I have to transfer your call to a moving specialist that can handle this move.'",
+    "their_agenda": "Never asked. Rep collects contact info and logistics, then transfers without probing concerns.",
+    "packing_services": "Not offered.",
+    "box_count": "Not asked.",
+    "logistics_gathered": "Property type (house, one story), square footage (1,850), pickup address, two drop-off locations (house and storage unit) confirmed. Missing: number of rooms, walking distance from truck, additional rooms, special considerations beyond 'furniture and no personal belongings.'"
+  },
+  "top_strength": "Jeline correctly identified a 1,850 sq ft move as appropriate for specialist routing and executed a clean handoff to a moving specialist rather than attempting to quote on an oversized move.",
+  "coaching_note": "Before transferring out, ask 'Other than price, what are your biggest concerns about this move?' \u2014 this intake call should surface the customer's agenda so the specialist inherits context, and it's required by Section 2 on all intake calls."
+}

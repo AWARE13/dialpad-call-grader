@@ -1,0 +1,36 @@
+{
+  "call_id": "6374658651234304",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 10.0,
+  "datetime_ct": "2026-09-23 14:23 CT",
+  "external_number": "+19493503341",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 23,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Jules: 'This should take me about five to ten minutes and then I can get you in a quick quote. Does that sound good?' \u2014 asked but rushed; no real pause for confirmation before moving to concerns.",
+    "their_agenda": "Jules: 'Other than the quote in general, do you have any specific concerns or any important questions you'd want answers to join this call today?' \u2014 asked before probing started.",
+    "two_layers_deep": "Paige raises washer/dryer concern; Jules digs: 'We can also help you disconnect and reconnect that with no additional costs... we usually do that on nerves [site].' Paige confirms satisfaction ('Okay, okay'). One genuine concern fully explored.",
+    "estimate_anchor": "Jules: 'The rate is $204 per hour... $115 transportation fee since we're moving everything over to anna. Aside from that everything else is included in the hour rate.' Personalized to customer's move (Anna, specific distance, 2.5-hour minimum, 15-minute prorating mentioned).",
+    "pricing_framing": "Jules discloses hourly rate, transportation fee, no fuel/disassembly/hidden fees upfront; explains 2.5-hour minimum and 15-minute increments. No 'not a guess' framing or confidence statement.",
+    "feels_fair_then_silence": "Never asked. Call ends abruptly with Jules saying 'Oh, hello? Hello, Paige.' \u2014 transcript cuts off mid-conversation.",
+    "on_time_guarantee": "Not mentioned.",
+    "damage_coverage": "Not mentioned.",
+    "explicit_ask": "Never asked. Transcript terminates before Section 7 is reached."
+  },
+  "top_strength": "Jules gathered all seven logistics details systematically (property type, stories, rooms, parking, special items, oversized furniture, boxes) and elicited genuine detail about the customer's packing strategy before anchoring a personalized estimate.",
+  "coaching_note": "The call cuts off mid-pricing explanation before reaching Two Promises, final concerns check, or the explicit ask for business \u2014 complete the full call flow and never skip the damage guarantee and on-time guarantee before attempting to close."
+}

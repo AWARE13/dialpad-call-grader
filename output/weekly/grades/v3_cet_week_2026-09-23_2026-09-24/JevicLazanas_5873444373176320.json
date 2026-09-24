@@ -1,0 +1,37 @@
+{
+  "call_id": "5873444373176320",
+  "rep_name": "Jevic Lazanas",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 10.7,
+  "datetime_ct": "2026-09-23 20:48 CT",
+  "external_number": "+15129175910",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 54,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep jumps directly into 'So let me go ahead and pull up your account' with no time-boxed framing or promise-of-dependable-quote preamble.",
+    "their_agenda": "Never asked. Rep moves straight to logistics probing ('you providing the list of the inventory').",
+    "estimate_anchor": "'I would estimate the move to be between three to four hours. Alright? And then for that one it's safe to budget around $618 to $824.' Anchored to home size (partial move, 20 boxes) and personalized to walk distance factors.",
+    "pricing_framing": "Trip fee / overnight fee disclosed: none. Minimum mentioned ('two and a half hours that's the minimum that we have') and hourly rate structure ($206 per hour per two movers) and no hidden fees stated ('No credit card fees, no transportation fees, no, you know, stairwell fees, no reassembly fees').",
+    "feels_fair_then_silence": "Never asked. Rep moves directly to time selection: 'for the time, would you like to schedule a morning, scheduled between 8:30 AM to 9:00 AM.'",
+    "two_promises": "On-Time Guarantee: not mentioned. Damage Coverage: not mentioned.",
+    "final_concerns_check": "Not asked. Rep ends with 'thank you very much for choosing Einstein' without asking what's still concerning them.",
+    "explicit_ask": "No explicit 'Would you like our help with your move?' ever asked. Rep assumes commitment and moves to time selection without a genuine ask."
+  },
+  "top_strength": "Jevic gathered thorough logistics details (origin address, destination storage unit specs, walking distances, elevator access, box count, inventory composition) and gave a specific, anchored price range ($618\u2013$824 for 3\u20134 hours) tied to the move's actual complexity.",
+  "coaching_note": "You skipped Section 1's quid pro quo entirely and never asked for the customer's concerns (Section 2), never confirmed 'Does that feel fair?' after pricing (Section 4), never delivered the Two Promises (Section 5), and never asked an explicit 'Would you like our help?' to close (Section 7)\u2014you went straight from price into time selection, assuming the sale without securing it."
+}

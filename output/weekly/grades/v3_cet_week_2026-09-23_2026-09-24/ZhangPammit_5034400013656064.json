@@ -1,0 +1,37 @@
+{
+  "call_id": "5034400013656064",
+  "rep_name": "Zhang Pammit",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 8.1,
+  "datetime_ct": "2026-09-23 14:51 CT",
+  "external_number": "+12144588849",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 92,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'I just wanted to let you know that I will need to ask you some questions in order for us to build an accurate code. Wherein you can depend on that would take within the next five to ten minutes. Does that sounds good?' \u2014 framing present (time-boxed and promise of dependable quote) but rep doesn't clearly wait for a yes before continuing; rushes slightly into the next question.",
+    "discovery_basics": "Name: 'Austin, Shinkle' (Austin Schenkel); Moving day: 'October 29th'; Route: 'Dallas, Texas' to 'Dallas, Texas'; Size: '3500 feet, with two stories, four bedrooms' (origin), '5000 square foot house, three stories' (destination).",
+    "their_agenda": "Rep asks 'What are your biggest concerns and what are the most important things that you wanted to answer during this call?' \u2014 but this comes after the rep has already begun logistics probing (asking about house vs. apartment). Customer responds 'I just need a quote for like, packing up the house and then moving us' \u2014 no substantive concerns raised.",
+    "two_layers_deep": "N/A \u2014 customer raised no concerns; only stated immediate need for quote and packing/moving service.",
+    "active_listening_reflection": "N/A \u2014 no concerns raised to reflect back.",
+    "logistics_details_gathered": "Property type: house; Floor/stories: 2 stories (origin), 3 stories (destination); Rooms: 4 bedrooms (origin), 5 bedrooms (destination), garage, game room, living room mentioned; Parking: driveway or street (origin), street (destination); Walking distance: 30 seconds; Access concerns: none identified. All seven logistics items covered.",
+    "packing_services_offered": "Rep asks 'with regards to the packing, is it packing the full house or only partial part of the house' and customer confirms 'Full house.' Packing explicitly discussed and confirmed.",
+    "box_count_asked": "Rep asks 'normally it would take 200 boxes to 220 boxes. Do you feel that you fall within that range?' Customer declines to estimate but confirms full-house packing will be provided by Einstein.",
+    "walkthrough_branch": "Rep correctly identifies 3,500 sq ft origin and 5,000 sq ft destination (both well over 1,800 sq ft threshold) and offers virtual walkthrough in Section 3: 'I just wanted to, to ask do you have time to complete a, a virtual approve by any chance?' Customer accepts. Rep schedules for 'tomorrow 8:30 AM' at the origin property and commits to send link via email and text. Clean routing to walkthrough; no pricing delivered on this call."
+  },
+  "top_strength": "Comprehensive logistics discovery \u2014 rep gathered all seven key property details (stories, rooms, parking, walking distance, access concerns) across both origin and destination, which will enable an accurate walkthrough and estimate.",
+  "coaching_note": "Ask Their Agenda (Section 2) *before* diving into logistics probing \u2014 you covered it, but after you'd already started asking house vs. apartment questions, which weakens discovery flow and customer control."
+}

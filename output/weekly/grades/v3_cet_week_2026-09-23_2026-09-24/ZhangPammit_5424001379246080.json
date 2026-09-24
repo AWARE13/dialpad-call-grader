@@ -1,0 +1,33 @@
+{
+  "call_id": "5424001379246080",
+  "rep_name": "Zhang Pammit",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 7.5,
+  "datetime_ct": "2026-09-23 22:01 CT",
+  "external_number": "+13157271326",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 68,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep: 'this would take the next to five to ten minutes of your time. Would that be okay?' \u2014 framing present but rushed; no clear wait-for-yes before jumping to concerns.",
+    "their_agenda": "Rep: 'Do you have any concerns or any important things that you wanted to answer during this call today?' \u2014 asked immediately, but before any explicit discovery of move basics (name, date confirmed, route confirmed). Borderline sequencing.",
+    "two_layers_deep": "Customer raises fish tank concern. Rep checks policy, confirms they don't move fish tanks, customer accepts. No 'tell me more' follow-up. Later, customer raises 'some items I want to keep, some I might sell' \u2014 rep acknowledges with 'Sure' but does not probe deeper into what, how many, or impact on move size. Only one layer per concern.",
+    "active_listening_reflection": "No reflection at all. Rep acknowledges the fish tank issue and the items question but never summarizes back: 'So what I'm hearing is...' Never confirms understanding.",
+    "logistics_details_gathered": "Rep gathers: origin address (301 Lakeland, Highland Village), destination address (4310 Forest Bend, Dallas), both property types (1-story house, 2-story townhome), both square footages (3400, 2800), bedrooms (3, 3), parking (driveway both), access concerns (narrow hallways at origin, smaller driveway at destination). Missing: additional rooms, walking distance specifics, special items beyond furniture. Box-count conversation derailed by customer's 'furniture-only' clarification. Partial: good address/property/parking data, gaps on room count granularity and special considerations.",
+    "packing_services_offered": "No packing services offer made. Rep asked about box count but when customer said 'furniture only,' rep did not circle back with 'Would you like us to pack your items into boxes for you?'",
+    "explicit_ask": "N/A \u2014 walkthrough_scheduler call. No ask for business, call routed cleanly to virtual walkthrough photo upload.",
+    "walkthrough_routing": "Rep correctly identifies this is a 3400 sq ft move (exceeds 1,800 sq ft threshold), offers virtual walkthrough, explains photo/video upload process, sends link via text, and closes by confirming Saturday deadline for photos. Clean routing to walkthrough rather than on-call pricing."
+  },
+  "top_strength": "Rep correctly identified a large move (3400 sq ft origin), professionally routed the call to virtual walkthrough instead of attempting an on-call quote, and clearly explained the photo-upload process with a realistic follow-up timeline.",
+  "coaching_note": "When the customer raises a concern (fish tank, items to sell/keep), ask follow-up probes ('tell me more about that,' 'how many items are you thinking of selling?') before moving on\u2014and always summarize what you heard back to confirm you got it right; you skipped both on this call."
+}

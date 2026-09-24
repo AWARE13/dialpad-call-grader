@@ -1,0 +1,42 @@
+{
+  "call_id": "5092839913988096",
+  "rep_name": "Brianne Newbro",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 7.1,
+  "datetime_ct": "2026-09-24 16:16 CT",
+  "external_number": "+17076315022",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep does not frame the call with time-box + promise of dependable quote before diving in. Goes straight to confirming contact info and then asks 'did you have any questions or concerns you would like answered on this call' without the structured opening.",
+    "their_agenda": "Asked late: 'did you have any questions or concerns you would like answered on this call' \u2014 but this comes after contact confirmation, not before logistics probing. The discovery basics (name, moving day, addresses, square footage) have not yet been discussed at this point, so technically it lands before deep probing, but it's asked after some setup.",
+    "two_layers_deep": "Customer raises concern about disassembly/reassembly of furniture. Rep responds with full explanation: 'everything is included in the hourly rate... all tools for disassemble and reassembly. A. Furniture and appliances. So it would just add possibly time for them to, like reassemble and disassemble but it is no extra charge.' This directly addresses the concern and goes two layers by explaining what's included and cost implications. Customer satisfied ('Amazing. Okay.'). Later customer brings up shed panels; rep asks clarifying question 'Okay, see it's just one of those kind of like plastic ones. Okay' and gets confirmation. Two-layer follow-up present.",
+    "active_listening_reflection": "No summary reflection. Rep acknowledges the disassembly/reassembly concern and answers it directly, but never reflects back 'so what I'm hearing is...' or a similar recap to confirm understanding.",
+    "estimate_anchor": "Rep states: 'we typical move about the size takes two movers, one truck between six to eight hours. Looks like the system estimated about 6.25 hours to six and a half hours. I would say it would probably be pretty good estimate.' This gives a range (6\u20138 hours / system estimate 6.25\u20136.5) but does not personalize it to any specific detail about this customer's move (prep level, stated concerns, services). Anchor is present but not personalized.",
+    "pricing_framing": "Rep mentions 'no worries, damage coverage. Which is our free evaluation coverage included in the hourly rate provides up to $2,000 per move' \u2014 transparency on what's included. But there is no mention of trip fee, overnight fee, packing materials fees, or the 'not a guess' / 2.5-hour-minimum / 15-minute-increments commitment framing. Partial.",
+    "feels_fair_then_silence": "Not asked. Rep never says 'Does that feel fair?' or waits for customer reaction to the pricing.",
+    "on_time_guarantee_delivered": "Not mentioned at all. No reference to On-Time Guarantee or discount terms.",
+    "damage_coverage_delivered": "Mentioned but incomplete. Rep says: 'we do have that no worries, damage coverage. Which is our free evaluation coverage included in the hourly rate provides up to $2,000 per move to repair replace or reimburse for accidental damages.' This covers the $2,000 and that it's built in (not add-on), but does not explicitly state 'no deductible / no fine print.' Partial.",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or a similar close-the-loop question after the Two Promises section. Transitions directly to process/prep explanation.",
+    "final_concerns_check": "Asked as throwaway: 'And then do you have any other questions for me.' This is the empty 'any questions?' format, not a genuine 'What's still concerning you about this move?' Rep gets automatic no ('I don't think so.').",
+    "catch_all_asked": "Not asked. No version of 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Never asked. Rep does not ask 'Would you like our help with your move?' or any explicit ask for the business. Call moves directly to confirming arrival time and sending email.",
+    "rate_lock_mentioned": "Not mentioned.",
+    "booking_confirmed": "Partial. Rep confirms arrival time ('we have you at arrival time 8:39 AM does that still work for your schedule?'), phone number (verified at start: 707-631-5022), and date ('we will see you Tuesday October 6th'). Rep mentions 'I'm gonna go ahead and send this email to you right now' and notes shed detail ('I've got that in the notes'). But crew size is not confirmed, and there is no explicit recap of addresses or statement about notes left for crew about customer concerns. Addresses were read back earlier (2011 Cancellation Drive and 606 Spinnaker Loop) but not confirmed as correct."
+  },
+  "top_strength": "Brianne thoroughly gathered logistics details (property types, square footage, bedrooms, access, fragile items, box count estimate) and expertly followed up when the customer raised concerns about disassembly/reassembly, providing a complete answer that reassured the customer.",
+  "coaching_note": "This call is missing the core structure that turns it into a sales call: no quid pro quo framing at the open, no active listening reflection, no explicit ask for the business, and no final concerns check \u2014 these gaps suggest the rep is treating this as a confirmation call rather than a sales opportunity, which costs significant points and likely conversion."
+}

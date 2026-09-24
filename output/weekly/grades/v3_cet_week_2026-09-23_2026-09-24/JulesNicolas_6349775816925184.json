@@ -1,0 +1,42 @@
+{
+  "call_id": "6349775816925184",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 7.6,
+  "datetime_ct": "2026-09-24 18:16 CT",
+  "external_number": "+13102996764",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "None present. Jules jumps directly into discussing the golf simulator without framing the call duration, quote dependability, or confirming customer readiness.",
+    "discovery_basics": "Jules asks: 'what day do you need it for?' (moving day confirmed as Oct 2), and earlier 'I'm not sure if I spoke with you yesterday about moving the golf simulator' (implying prior awareness of service type). Start/end locations discussed (hotel 'western' to storage unit), but name confirmation and explicit size discussion are absent.",
+    "their_agenda": "Never asked. Jules moves directly into logistics discussion without asking 'Other than price, what are your biggest concerns about this move?'",
+    "packing_services_offered": "Jules: 'I believe you need us to pack the SIM you later as well' and later 'we're going to bring you know shrink wrap, bubble wrap however, I wanted to let you know as far as packing materials go' \u2014 packing is discussed but framed as a question/assumption, not a clean offer.",
+    "estimate_anchor": "Jules states: 'we charge by the hour and the hour the rate is $222 per hour for two movers and one truck. That hour rate includes taxes insurance' and 'We only have a minimum of two and a half hours.' This gives an hourly rate and minimum but no personalized range estimate or anchor for this specific job size. No typical-range-for-a-move-this-type statement.",
+    "pricing_framing": "Jules mentions: '$222 per hour...includes taxes insurance,' 'minimum of two and a half hours,' and payment after move completion with no deposit required. However, no explicit 2.5-hour-minimum framing as a 'not a guess' commitment, and no mention of 15-minute increments or trip/overnight fee structure.",
+    "feels_fair_then_silence": "Never asked. Jules does not ask 'Does that feel fair?' and does not pause for a customer reaction to pricing.",
+    "on_time_guarantee_delivered": "Not mentioned.",
+    "damage_coverage_delivered": "Not mentioned.",
+    "closes_the_loop": "No version of 'Does that put those to rest?' is present.",
+    "final_concerns_check": "Not asked. No genuine 'What's still concerning you?' or even a throwaway 'any questions?' at the end.",
+    "explicit_ask": "Jules never asks 'Would you like our help with your move?' The call ends with scheduling logistics: 'I can get you scheduled right now for October 2nd' and 'I'll get you scheduled right now and then I'll send over the confirmation email' \u2014 the booking happens implicitly rather than through an explicit close.",
+    "booking_confirmed": "Partial. Confirmed: date (October 2nd), time window (9:00\u201310:00 AM, potentially 8:30 start), email (Lauren@levelsla.com), and approximate distance (within 5 miles). Missing: pickup address confirmed, drop-off address deferred ('Not yet, but I can get you that as soon as possible'), crew size (2 movers + 1 truck mentioned in rate, but not re-confirmed as part of booking), and no notes left for crew about customer concerns."
+  },
+  "top_strength": "Jules handled a complex, specialty item (golf simulator disassembly and packing) with clear communication about hourly rates, minimum charges, and payment terms, and confirmed a specific booking date and customer contact.",
+  "coaching_note": "This call skipped nearly all discovery structure: no quid pro quo framing, no 'their agenda' question, no pricing objection handling, no Two Promises delivery, and no explicit ask for the business \u2014 the booking was assumed rather than closed. Start every call with Section 1 framing and always ask 'Other than price, what are your biggest concerns?' before moving into logistics."
+}
