@@ -27,5 +27,7 @@
     "walkthrough_branch": "Nicole correctly identifies a large move and offers the virtual walkthrough: 'Usually, based on the size of your home plus packing service. We do a virtual walkthrough, it's just like a video call on your preferred time and date.' Walkthrough is scheduled for Friday September 25th at 2:00 PM, and the call routes cleanly to that next step with no abandonment."
   },
   "top_strength": "Nicole correctly identified this as a large-move scenario and cleanly routed to a virtual walkthrough without pricing on the call, following the script intent for moves that need in-person assessment.",
-  "coaching_note": "When the customer raised three specific concerns (cost, mover quality, handling heavy pieces), Nicole acknowledged but never dug deeper \u2014 add one follow-up question per concern raised to understand the customer's real priority before routing to the walkthrough."
+  "coaching_note": "When the customer raised three specific concerns (cost, mover quality, handling heavy pieces), Nicole acknowledged but never dug deeper \u2014 add one follow-up question per concern raised to understand the customer's real priority before routing to the walkthrough.",
+  "booking_outcome": "walkthrough_scheduled",
+  "booking_note": "Virtual walkthrough scheduled for Friday at 2:00 PM, but move dates (packing on 20th, moving on 21st) were discussed conditionally pending the walkthrough assessment."
 }

@@ -45,5 +45,7 @@
     "booking_confirmed": "Customer declines to book on the call ('Let me look around and double-check just to make sure that is a good day. But can I call you all back on a scheduling?'). Rep confirms callback option but does not secure a booking with date, phone, window, crew size, or notes. Partial (only callback option confirmed, not a full booking)."
   },
   "top_strength": "Rep gathered complete logistics details methodically (property type, floors, rooms, walking distances, special considerations) and delivered a fully personalized estimate anchored to typical ranges with transparent pricing and fee structures.",
-  "coaching_note": "Rep skipped the critical \"Their Agenda\" question entirely\u2014jumping straight into probing rather than discovering what the customer's biggest concerns were before addressing price\u2014and never conducted a final concerns check or confirmed booking details, leaving the call incomplete and passive."
+  "coaching_note": "Rep skipped the critical \"Their Agenda\" question entirely\u2014jumping straight into probing rather than discovering what the customer's biggest concerns were before addressing price\u2014and never conducted a final concerns check or confirmed booking details, leaving the call incomplete and passive.",
+  "booking_outcome": "not_booked",
+  "booking_note": "Customer explicitly declined to book, stating 'I think I'm still gonna hold off on scheduling right now just cause I'm trying to get some quotes' and asked to call back later to schedule."
 }

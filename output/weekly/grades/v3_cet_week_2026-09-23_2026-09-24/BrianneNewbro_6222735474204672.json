@@ -8,5 +8,7 @@
   "call_type": "skip",
   "skip_reason": "Call terminates incomplete during intake lookup phase. Rep has not begun the sales conversation, discovery, or any section of the rubric. Customer is on hold while rep attempts to retrieve account information. No gradeable sales activity occurred.",
   "total_score": null,
-  "pass": null
+  "pass": null,
+  "booking_outcome": "unclear",
+  "booking_note": "Call ends abruptly mid-conversation while Bri is putting James on hold to reach out to Joanna; no booking decision was made."
 }

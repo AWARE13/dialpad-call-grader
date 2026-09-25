@@ -8,5 +8,7 @@
   "call_type": "skip",
   "skip_reason": "This is a booking confirmation / availability check call, not a sales discovery or quote call. The customer (Elena/Alana) is calling to confirm a previously discussed move on a specific date (Friday). Joanna is checking availability and attempting to schedule, not conducting a 15-minute quote call with discovery, probing, estimate, or close. No sales pitch, no new customer intake, no pricing discussion that would indicate this is a sales call \u2014 only a follow-up on an existing arrangement.",
   "total_score": null,
-  "pass": null
+  "pass": null,
+  "booking_outcome": "not_booked",
+  "booking_note": "No date was confirmed. Joanna said she would 'call you right back' to check availability, but the move was not locked in: 'I don't see it booked just yet for now.'"
 }

@@ -8,5 +8,7 @@
   "call_type": "skip",
   "skip_reason": "This is an in-progress service recovery call during an active move, not a sales intake or quote call. The customer is calling about movers currently on-site, discussing performance issues with the crew working their move. There is no sales discovery, no pricing discussion for a new move, no offer of services, and no ask for business. The rep (Calvin) is responding to complaints and offering a service credit ($104 discount) as a retention/complaint-resolution gesture on an existing job. This falls outside the 15-Minute Quote Call format entirely.",
   "total_score": null,
-  "pass": null
+  "pass": null,
+  "booking_outcome": "not_booked",
+  "booking_note": "This is a service call about an ongoing move already in progress, not a sales call for booking a new move. The customer is providing feedback on current movers' performance."
 }

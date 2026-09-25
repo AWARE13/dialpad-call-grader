@@ -8,5 +8,7 @@
   "call_type": "skip",
   "skip_reason": "This is a follow-up confirmation call on an already-quoted move, not a sales call. The customer explicitly states 'I spoke to someone...we did a walk here at the house and I just got a quote yesterday.' Jeline confirms the existing quote details, makes a correction to the service scope (no packing, moving only), attempts to adjust crew size, and then transfers to the original walkthrough rep rather than conducting sales discovery or pricing. No sales pitch, no Two Promises, no ask for the business \u2014 the booking is already confirmed and the call ends with a callback promise. This falls outside the 15-minute quote call rubric scope.",
   "total_score": null,
-  "pass": null
+  "pass": null,
+  "booking_outcome": "booked",
+  "booking_note": "Customer confirmed move date and Jeline stated: 'I will now confirm your booking here for Sunday October 11th. Arrival window is between 8:30 AM to 9:00 AM.'"
 }

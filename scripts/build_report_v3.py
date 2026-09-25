@@ -130,6 +130,20 @@ def listen_link_html(call_id, css_class="listen-btn", label="&#9654; Listen"):
         return f'<a href="{url}" class="{css_class}" target="_blank">{label}</a>'
     return f'<span class="{css_class}" style="opacity:0.4;cursor:default;pointer-events:none" title="No recording found for this call">{label} (unavailable)</span>'
 
+BOOKING_BADGE_STYLE = {
+    "booked":               (GREEN, "Booked"),
+    "walkthrough_scheduled": (BLUE, "Walkthrough Scheduled"),
+    "not_booked":           (RED, "Not Booked"),
+    "unclear":              ("#999", "Unclear"),
+}
+
+def booking_badge_html(c):
+    outcome = c.get("booking_outcome")
+    if not outcome:
+        return ""
+    color, label = BOOKING_BADGE_STYLE.get(outcome, ("#999", outcome.replace("_", " ").title()))
+    return f'<span style="display:inline-block;margin-left:8px;padding:2px 8px;border-radius:10px;font-size:11px;font-weight:700;color:#fff;background:{color};vertical-align:middle">{esc(label)}</span>'
+
 def load_transcript_text(call_id):
     p = TRANSCRIPT_DIR / f"{call_id}.json"
     if not p.exists():
@@ -238,7 +252,7 @@ def call_card(c, idx):
       <div class="call-header">
         <div class="call-score" style="color:{color}">{score if score is not None else "—"}/100</div>
         <div>
-          <div style="font-weight:600;font-size:13px">Call {idx} &nbsp;·&nbsp; {esc(c.get("call_type","")).replace("_"," ")}</div>
+          <div style="font-weight:600;font-size:13px">Call {idx} &nbsp;·&nbsp; {esc(c.get("call_type","")).replace("_"," ")} {booking_badge_html(c)}</div>
           <div class="call-meta">
             <span>⏱ {c.get("duration_min","?")} min</span>
             <span>{esc(c.get("datetime_ct",""))}</span>
@@ -257,6 +271,10 @@ def call_card(c, idx):
         <div class="note-box">
           <div class="note-label">🎯 Coaching note</div>
           {esc(c.get("coaching_note") or "—")}
+        </div>
+        <div class="note-box">
+          <div class="note-label">📅 Booking outcome</div>
+          {esc(c.get("booking_note") or "—")}
         </div>
       </div>
       {f'<details style="margin-top:8px;font-size:12px;"><summary style="cursor:pointer;color:{BLUE};font-weight:600">Evidence quotes</summary><div style="margin-top:8px">{quotes_html}</div></details>' if quotes_html else ""}

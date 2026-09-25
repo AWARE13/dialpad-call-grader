@@ -8,5 +8,7 @@
   "call_type": "skip",
   "skip_reason": "Customer was scheduled for a virtual walkthrough with Amy (E-R. Bossa) at 1pm; Amy had an emergency and did not join. Rep Jeline took the incoming complaint call, apologized, and rescheduled the walkthrough for a callback later the same day. No sales call occurred \u2014 this is a missed-appointment recovery call, not a 15-minute quote call or intake discovery call. No pricing, no probing, no business ask. The call ends with a callback promise, not a booking or next step that re-engages sales discovery.",
   "total_score": null,
-  "pass": null
+  "pass": null,
+  "booking_outcome": "walkthrough_scheduled",
+  "booking_note": "A virtual walkthrough was rescheduled after the initial appointment was missed: 'we'll make sure that someone will do the virtual walkthrough with you within the day'"
 }
