@@ -1,0 +1,43 @@
+{
+  "call_id": "4998985055510528",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 7.7,
+  "datetime_ct": "2026-09-23 15:36 CT",
+  "external_number": "+12099862593",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 30,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 6,
+  "total_score": 75,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'just need to ask you some questions about it might take ten to ten to fifteen minutes, if this is a good time?' \u2014 time-boxed but no explicit promise of 'a quote you can depend on' framing, and no clear wait for yes before pivoting to 'just want to check-in with you if you have any important concerns'",
+    "their_agenda": "Joanna: 'just want to check-in with you if you have any important concerns or instructions for this move that you want us to discuss today' \u2014 asked early, before detailed probing",
+    "two_layers_deep": "Customer raised one concern upfront ('pretty standard room, pretty standard place... nothing's crazy'), which is not a stated concern requiring follow-up. No follow-up opportunity.",
+    "active_listening_reflection": "No summary reflection of customer's statements. N/A applies \u2014 customer never raised a substantive concern to reflect back.",
+    "estimate_anchor": "Joanna: '$96 per hour per mover... For two men it's $192 per hour... one time travel fee of $1,680... overnight of $240... estimating this move to take about nine to ten hours... estimated budget of $4,416' \u2014 anchored to hourly rate and personalized to prior move history and third-floor access",
+    "pricing_framing": "Joanna: 'everything... is already in the price... the only thing outside of the hourly rate would be a one time travel fee... overnight fee' (trip and overnight fees disclosed); 'two men and the truck... all the reps to protect your furniture... insurance credit card fees, all of that, is already in the price' \u2014 framing present but no explicit mention of 2.5-hour minimum or 15-minute increments",
+    "feels_fair_then_silence": "After estimate, Joanna says 'would you like us to go ahead and help you with this move on the 26th of October' \u2014 no 'Does that feel fair?' asked at all",
+    "on_time_guarantee": "Not mentioned anywhere in the call",
+    "damage_coverage": "Not mentioned anywhere in the call",
+    "final_concerns_check": "Joanna: 'Alright, any questions so far?' \u2014 generic throwaway, not 'What's still concerning you about this move?'",
+    "explicit_ask": "Joanna: 'would you like us to go ahead and help you with this move on the 26th of October' \u2014 direct, no built-in out",
+    "booking_confirmed": "Email confirmed (Philip.A117@gmail.com), move date confirmed (Monday 26th October), addresses referenced earlier (15150 Blanke Road, San Antonio \u2192 3629 West Walnut Hill Lane, Irving), but no phone number captured, no arrival window confirmed, no crew size explicitly re-confirmed, no notes left for crew about customer concerns"
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details systematically (floor, stairs, furniture, special items, book collection, weight limits, fragile items) and provided a fully personalized, anchored estimate grounded in the customer's prior move history.",
+  "coaching_note": "Section 5 (Two Promises) was entirely skipped \u2014 neither On-Time Guarantee nor No Worries Damage Coverage were mentioned, which are load-bearing commitments that belong on every sales call; add these after the estimate and before asking for the business.",
+  "booking_outcome": "not_booked",
+  "booking_note": "While a date (October 26th) was discussed and estimate provided, Philip never explicitly agreed to book the move. When asked 'would you like us to go ahead and help you with this move on the 26th of October,' Philip only said 'Okay' and then asked for the estimate via email, indicating he wanted to review before committing."
+}

@@ -1,0 +1,37 @@
+{
+  "call_id": "5274794442661888",
+  "rep_name": "Nicole Tolete",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 13.4,
+  "datetime_ct": "2026-09-25 14:06 CT",
+  "external_number": "+19363558988",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 2,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 2,
+  "section7_ask_for_the_business": 1,
+  "total_score": 30,
+  "pass": false,
+  "na_fallbacks_used": [
+    "walkthrough_branch",
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Rep never asks 'other than price, what are your biggest concerns about this move?' \u2014 moves directly into estimate delivery. Mandy does surface concerns mid-call (binding quote, packing material quantity, truck size) but rep is reactive, not proactive.",
+    "two_layers_deep": "N/A \u2014 no concerns were surfaced in Section 2 because there was no Section 2 agenda ask. Concerns emerged organically later (packing material count, binding vs. estimate) but rep does attempt follow-up ('I'll get back to you on that').",
+    "estimate_anchor": "Rep gives range ($11,950\u2013$12,330) and discloses travel fee, overnight fee, packing materials, and time-based charging model. Lacks personalization to this customer's stated concerns (e.g., no mention of how the three-day structure addresses their prep needs or timeline).",
+    "explicit_ask": "Never asked. Call ends with 'I'll send you the email for your personalized estimate shortly' and 'thank you so much for picking up my call. Take care.' No direct ask: 'Would you like our help with your move?'",
+    "quid_pro_quo": "Rep opens with 'I already have your personal estimate ready in here' \u2014 no framing of the call structure, time commitment, or promise of a dependable quote. No wait for customer agreement before diving into estimate.",
+    "pricing_framing": "Trip fee and overnight fee mentioned early. Time-based charging and 'we will charge you for the total time consumed' stated. Does not use '2.5-hour minimum' or '15-minute increments' language. No 'not a guess' commitment framing.",
+    "feels_fair_then_silence": "Not asked at any point. After estimate delivery, rep asks 'does everything make sense so far?' but this is a comprehension check, not a 'does that feel fair?' pricing pause.",
+    "rate_lock_mentioned": "Not mentioned. Deposit clarified at end ('no deposit required'), but no rate-lock or price guarantee language."
+  },
+  "top_strength": "Nicole handled Mandy's detailed probing on packing materials and estimate composition with patience, offering to send a text breakdown and committing to follow up on wardrobe box counts \u2014 demonstrating willingness to support a customer's need for clarity.",
+  "coaching_note": "This call skipped the entire Section 2 agenda discovery and never asked for the business explicitly \u2014 Nicole pivoted from estimate straight to email follow-up without confirming Mandy's intent to book or addressing core move-day concerns that would have surfaced in a proper agenda."
+}

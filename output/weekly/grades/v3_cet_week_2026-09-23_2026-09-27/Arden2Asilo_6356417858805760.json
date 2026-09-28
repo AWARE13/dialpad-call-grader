@@ -1,0 +1,42 @@
+{
+  "call_id": "6356417858805760",
+  "rep_name": "Arden 2Asilo",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 5.2,
+  "datetime_ct": "2026-09-25 19:34 CT",
+  "external_number": "+15129476343",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 35,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "It might take around ten to fifteen minutes. Would that be fine? \u2014 time-boxed but no dependable quote promise, and rushed past without waiting for full affirmation before jumping to their_agenda.",
+    "their_agenda": "Before we get into that though ma'am other than the price, are there any biggest concerns that you're about this move that you would want answers within this call? \u2014 asked, but only after rep had already begun discussing the move request itself.",
+    "two_layers_deep": "Customer says 'I just want a quote for also just if I were to do like the big furniture for the moving.' Rep asks 'What are the, okay, so it's not the entire apartment that we're going to be moving, just a few pieces of furniture, is that right?' \u2014 one follow-up clarification, then pivots to inventory collection rather than exploring the underlying concern about cost/scope tradeoff deeper.",
+    "active_listening_reflection": "None. Rep acknowledged the concern (mattress, bed frame, couch, etc.) and collected inventory but never summarized or reflected back 'So what I'm hearing is you want to move only select furniture to reduce cost' or similar.",
+    "estimate_anchor": "So I'm estimating it to take around two and a half to three and a half hours only. It's good to budget around $550.70 to $770 for the move... that's safe to budget $550.70 to $770 ma'am. \u2014 range provided and personalized to fourth-to-second floor with elevator, plus only furniture subset.",
+    "pricing_framing": "Everything is already included in the hourly rate, gas trucks, taxes, insurance, all the wraps the pads and bans... no hidden fee, no credit card fee, transportation fee. \u2014 fee transparency present. 2.5-hour minimum framing is absent; rep mentions '2.5 to 3.5 hours' but not the standard 'not a guess' / minimum-hour / per-15-minute commitment language.",
+    "feels_fair_silence": "Not asked. After the estimate, customer asks 'could you say how much it was again' and then 'is it like cheaper for like a different date within that week' \u2014 rep pivots to Thursday pricing without ever asking 'Does that feel fair?' or creating space for customer reflection.",
+    "damage_coverage": "You're also gonna get up to $2,000 free evaluation coverage. So, if anything gets damaged, gets broken during the move, you can just give us a call to file a claim for them zero deductible. \u2014 Coverage amount and zero deductible mentioned, but no explicit 'no fine print' framing and no statement that it's built into the rate (not an add-on).",
+    "on_time_guarantee": "Not mentioned at all. No discount-for-lateness framing.",
+    "closes_the_loop": "No. Rep provides the damage coverage info but never asks 'Does that put those to rest?' or confirms concerns have been addressed.",
+    "final_concerns_check": "Not asked. Call ends with 'I'll be looking into it a little bit more before I make a decision' \u2014 rep does not ask 'What's still concerning you about this move?' or equivalent genuine check.",
+    "catch_all": "Not asked. No 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Never. Rep says 'I'll send you an email quotation for the updated estimate so you can double-check it' \u2014 provides an out (email follow-up) without ever asking 'Would you like our help with your move?' or equivalent.",
+    "rate_lock": "No deposit to secure a booking. No credit card details or upfront payment, you only pay after the actual move is done. \u2014 Deposit/payment terms mentioned, but no explicit 'rate lock' framing (quote holds, price is locked, etc.).",
+    "booking_confirmed": "Partial. Rep confirmed Friday the sixteenth or Thursday (date), arrival window 8:30\u20139:00 or 12:00\u20132:00 PM (window), but no phone number or address confirmation captured. No notes left about customer's concern (cost reduction for partial move). No crew size discussed."
+  },
+  "top_strength": "Rep successfully pivoted from full apartment move to a partial-furniture scenario, gathered detailed inventory, and provided a clear, personalized price range with floor-level complexity factored in.",
+  "coaching_note": "End the call with an explicit ask for the business ('Would you like our help with your move?') rather than defaulting to email follow-up; also conduct a final concerns check before closing, and make sure to confirm phone and address details if the customer is moving forward with booking."
+}

@@ -1,0 +1,901 @@
+{
+  "call_id": "6283187252928512",
+  "lines": [
+    {
+      "content": "Good afternoon, this is Joanna. How can I help?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:45:41.661855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:45:41.661855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:45:41.661855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:45:41.661855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:45:41.661855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:45:41.661855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:45:43.423855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:45:44.103855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Hey, yeah. I had a, I wanted to know what your rates for, sorry.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:45:45.373169",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "call_purpose",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:45:45.373169",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, no worries. If I may ask, when are you planning to do the move?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:45:51.861855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:45:54.863855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "On this coming Thursday October 1st.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:45:57.373169",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "date",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:45:59.546169",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, got it, thank you. Let me see to refer and what zip code are you?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:46:02.061855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:46:06.903855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:46:08.703855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "It's 78745.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:46:09.373169",
+      "type": "transcript"
+    },
+    {
+      "content": "And going to.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:46:12.861855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:46:14.583855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "78745.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:46:15.373169",
+      "type": "transcript"
+    },
+    {
+      "content": "Let me see. Okay, one second.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:46:17.661855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:46:18.263855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Let me just check our availability. Do you have, I mean, are you moving from a house or an apartment, if I may ask.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:46:23.661855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Okay.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:46:26.173169",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:46:27.183855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:46:29.663855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "So I'm moving from an apartment.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:46:30.373169",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, got it, thank you. Okay, so if it's gonna be for Thursday, we still have availabilities in the afternoon which is depending of course on how much items are moving for you. In terms of our pricing, that's gonna be $208 per hour for the two bid and the truck. All inclusive rates, and for every, we would just have a two and a half hour minimum. If we go over we only charge it fifteen minute intervals. Now, of course in order for us to provide you a more personalized estimate I can definitely like create a profile for you but just need to ask you more questions about the move as well.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:46:33.861855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:46:48.263855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:46:53.703855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:46:55.343855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:47:00.223855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Okay, yup, that's fine.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:47:09.373169",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm, okay, may I have your full name and your email, please.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:47:10.461855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "It's Kyle, my first name and my last name is peri P-U-R-D-Y.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:47:15.373169",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "contact_name",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:47:15.826169",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "ner",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:47:15.826169",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:47:17.661855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm thank you and how about your email address.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:47:21.261855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "It's Kyle peri one @yahoo.com.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:47:26.773169",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "contact_name",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:47:27.506169",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:47:29.061855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "email_address",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:47:30.026169",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:47:31.303855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Alright. So this is your first name? Your last name the number one at Yahoo. I'm sorry. Okay, thank you so much. Okay, just one moment here and yeah, before we store, Kyle just wanna check-in with you as well. If you have any imported concerns or instructions about this move that you also want to address on this call.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:47:31.461855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:47:34.063855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:47:36.783855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Yeah, yes, Yahoo.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:47:37.573169",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:47:45.503855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "No, it's just gonna be like I'm just moving a few things and some boxes, so it's not like a huge move.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:47:56.173169",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:47:59.661855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see. Okay let me just double-check it looks like I already have like a profile for you. You're coming from 905. Aros cove, is that right to cougar cove? Okay, no problem. I see and then the apartments that we were coming from her both two bedrooms that were coming from a two bedroom. Moving a two bedroom from a second floor, first floor, but you've mentioned it's just, it's not a full-blown, two bedroom living room, kind of set up.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:48:02.661855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Yes. Theu yeah, I'm just down the street.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:48:12.373169",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Mm-hmm.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:48:26.173169",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "No, yeah, it's literally just like a couch, a bed, a desk, like a buff, like a buffet, a piece of furniture, some lamps, and a in a few boxes everything else I'm doing myself.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:48:29.773169",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:48:33.261855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:48:39.861855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see how many boxes are we looking at? Do you think it's gonna be over thirty boxes in total?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:48:45.261855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Oh, god. No, no, no, no way less.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:48:50.773169",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, around fifteen to twenty is, is that a good owner? I see. Okay, no worries. Now with the items that you've given me, I'll just quote you based on the couch, bed desk buffet and lamp. So just to confirm no dresser, night stands and tables or garage, balcony furniture.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:48:53.661855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Probably like, maybe, maybe like ten cause I'm gonna do a lot of it myself.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:48:56.773169",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:48:58.143855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Yeah, I got, well, no, probably not because I can do that two chairs.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:49:14.773169",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm okay, no problem. That should work as well.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:49:21.861855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "And, oh, and a, and a a TV console.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:49:24.973169",
+      "type": "transcript"
+    },
+    {
+      "content": "Sure. Okay, got it. Thank you. And just in terms of parking walking distance from where we can park to your apartment or parking to the stairs. At the first apartment. Do you think it's just about 3040 feet, which is about one school bus or do you think, it's a little bit longer.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:49:30.861855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Yeah, yeah, no, yeah, it's about that.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:49:48.373169",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and once we get to the second floor is your door near those stairs as well?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:49:51.861855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:49:54.703855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Yeah, so there, it's actually like, kind of like a four Plex so it's just, it's all the door space outward it's not like a big apartment complex.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:49:56.773169",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "negative_sentiment",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:49:56.773169",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:50:00.743855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:50:01.461855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, nice. Okay, got it. Thank you and is it pretty much the same at the new place in terms of walking business.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:50:04.461855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Yup, it's in the same community. It's just some different street.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:50:11.773169",
+      "type": "transcript"
+    },
+    {
+      "content": "I see, okay, got it. Thank you so much and with that as I have mentioned a while ago in terms of our pricing, so it's $208 per hour that's already for two men and a truck and everything we need taxes, insurance, credit card fees, if you need help with this assembly reassembly that's already part of the service as well, transportation fee, no stairwell fees as well. We also include other features here, Kyle, like our no worries damage coverage which would give you up to $2,000 coverage for any repair, replacement, reimbursement for any accidental damages. Also meet your mover feature. Rest assured we don't take daily can track the workers and we send you their names ahead of time to let you know who's coming to help out with the move and.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:50:15.861855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:50:23.503855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Mm-hmm.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:50:27.373169",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:50:35.023855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Okay.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:50:35.173169",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:50:40.783855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:50:44.543855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Okay.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:50:50.773169",
+      "type": "transcript"
+    },
+    {
+      "content": "And lastly on time guarantee, if we run late on the time we schedule, we provide discounts for your move again. No hidden fees of any type. No credit card fees, no transportation fees, no stair fees for the time o'clock will only start once we arrive at your pickup location and open the contract for you. You can have us for as long as you need us now. For any move we just have a two and a half hour minimum. Once we hit the minimum, we only charge in every fifteen minute increments. So we don't charge you for the next hour right away. Does that make sense?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:51:00.861855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Okay.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:51:07.573169",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:51:10.743855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Okay.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:51:14.173169",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:51:20.023855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:51:29.543855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:51:34.023855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Yeah.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:51:35.173169",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Now, typically for it's, you know, pretty much it's like just really a one bedroom word of items and usually that takes two and a half to three and a half hours to complete good thing within same community and all that. But for now, I'll just put you within that range. So that's an estimated budget of $520. If the gas would be able to finish everything within two and a half hours or $728 if it goes up to three and a half hours but obviously at the end of the day you only pay for how long it takes after the two and a half hour minimum estimate. So the shorter it will be then the lower the cost at the end of the day. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:51:36.261855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Right.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:51:42.373169",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:51:51.903855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:51:55.543855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:51:55.743855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:51:56.983855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Okay.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:52:10.573169",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:52:10.903855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm now that's all good with you as I have mentioned. If you want to do it on Thursday, we do have a spot available in the afternoon. It's an arrival between 1:00 PM and 3:00 PM, so that means they can be there for those times. If that's all this you, would you like our help for this move on Thursday.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:52:12.261855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "time",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:52:21.183855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "You're gonna give me a, a two hour window. You can't, I can't pick a specific time.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:52:29.773169",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, sir that's right. Cause right now actually that's already our only spot left for Thursday. If you want a morning spot, which is we only provide a thirty minute window, if it's on a, on the morning, but the earliest is already like the Wednesday or the Friday, but the Friday has a different rate.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:52:33.261855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Okay, what.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:52:41.173169",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Uh-huh.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:52:50.173169",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Is it more expensive on Friday?",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:52:55.573169",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "question",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:52:55.573169",
+      "type": "moment"
+    },
+    {
+      "content": "Yes sir, it's a regular rate which is $111 per hour per mover or it's $222 per hour for two men and a truck so that's about $14 per hour more if it's on a Friday.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:52:58.461855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:53:00.663855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:53:03.343855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:53:07.983855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Oh, okay.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:53:09.973169",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "I will do the Thursday from 1:00 to three.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:53:15.373169",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "time",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:53:19.106169",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. But we'll definitely give you a call once we're on the way. Now we don't take deposits. There's also no reason securing this. But so in case you need to make changes later, all you have to do is give us a call, okay. Alright. May I please have your apartment number? So, go ahead, sorry.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:53:20.061855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Okay, okay, and will I get it. Oh, yeah, no, I was gonna say will, will you guys email me like a confirmation of the booking then. Okay, the unit that I'm moving in. 905. It's a unit D. As in dog.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:53:32.773169",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes sir. Yes sir. That's right.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:53:42.261855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:53:52.461855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "And then I'm moving to and on 908 is A as in apple.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:53:53.173169",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, got it. I'll send everything in the email for your review as well. Again if I missed anything just let us know and any changes to it just reach out to us as well. Okay, awesome. Thank you so much, Kyle. And yeah, we're looking forward to do your room. See you later.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:53:59.661855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Okay, awesome.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:54:09.973169",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "positive_sentiment",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:54:09.973169",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "support_issue_resolved",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:54:10.946169",
+      "type": "moment"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:54:13.263855",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Thank you.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:54:14.173169",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSws3d8QkM",
+      "content": "Alright, thanks, bye.",
+      "name": "Kyle Purdy",
+      "time": "2026-09-27T17:54:17.173169",
+      "type": "transcript"
+    },
+    {
+      "content": "Bye.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-27T17:54:18.861855",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    }
+  ]
+}

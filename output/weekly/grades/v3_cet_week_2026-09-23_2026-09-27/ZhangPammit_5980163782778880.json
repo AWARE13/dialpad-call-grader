@@ -1,0 +1,37 @@
+{
+  "call_id": "5980163782778880",
+  "rep_name": "Zhang Pammit",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 14.4,
+  "datetime_ct": "2026-09-24 17:26 CT",
+  "external_number": "+12145632393",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 92,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "This should take within the next five to ten minutes of your time. So, that you can be able to build an accurate coach can depend on. Sounds good. [Marian says 'Yes'] \u2014 framing present but rushed slightly; wait for yes occurred but phrasing was garbled ('coach can depend on' unclear).",
+    "discovery_basics": "Name: Marian Weisman; Moving day: Next Friday; Route: 911 Lafor PL (current, 1800 sq ft, 2 bed, 1 story) to 14108 County Road 1134, Tyler TX (1300 sq ft, 3 bed, 1 story duplex); Size: 1800 sq ft source property mentioned, duplex destination 1300 sq ft. All four confirmed.",
+    "their_agenda": "Rep asked: 'I just wanted to check do you have any concerns or any important things that you wanted to answer during this call today?' \u2014 This was asked AFTER probing had already begun (move date, property type, square footage, bedrooms, walk distance, access concerns all asked first).",
+    "logistics_details_gathered": "Property type (house/duplex) \u2713; Floor/stories (1 story each) \u2713; Bedrooms (2 & 3) \u2713; Walking distance (very close, sidewalk) \u2713; Special considerations (partial packing only\u2014kitchen, closets, 2 bedrooms, art studio supplies) \u2713; Additional stops (no) \u2713; Parking (street at source, driveway at destination) \u2713. Nearly all seven items covered.",
+    "packing_services_offered": "Rep asked: 'And you need help in packing, is that correct?' and followed with specificity: 'Is it packing the full house or only partial part of the house?' Customer confirmed partial (kitchen, closets, bedrooms, art supplies).",
+    "box_count_asked": "Rep asked: 'So basically, based on your home size, it would take between fifty to sixty boxes. Do you feel that you fall within that range?' Customer replied 'I believe so.'",
+    "walkthrough_branch": "Rep correctly identified 1800 sq ft threshold and offered virtual walkthrough: 'So I just wanted to let you know that normally based on your home size, we do a a virtual walkthrough. In that way, we will just base it on the items that we're moving. Do you have time to complete the virtual walkthrough today?' Customer (Marian) indicated mom would do it. Routing to virtual walkthrough was clean and confirmed\u2014call correctly ended with callback scheduling for walkthrough."
+  },
+  "top_strength": "Zhang gathered comprehensive logistics details across both properties (bedrooms, square footage, parking, access, special considerations, packing scope) and correctly identified the 1,800 sq ft threshold to route to a virtual walkthrough rather than quote on the call.",
+  "coaching_note": "Ask 'Their Agenda' (concerns and what they want answered) BEFORE launching into logistics probing\u2014it currently came after multiple questions about property type and size, which dilutes its discovery power.",
+  "booking_outcome": "walkthrough_scheduled",
+  "booking_note": "Customer agreed to have their mom call back to schedule a virtual walkthrough: 'let me call her and she can just call you back at the same number' to get a better estimate before booking."
+}

@@ -1,0 +1,34 @@
+{
+  "call_id": "5863721331367936",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 7.2,
+  "datetime_ct": "2026-09-25 14:17 CT",
+  "external_number": "+12108453507",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Not present. Rep moves straight into zip code verification and logistics probing without framing the call length, outcome promise, or waiting for customer agreement.",
+    "discovery_basics": "Name: 'My name is Jean Ben'; Moving day: 'October timeframe...week of the 26 and then to actually move on the thirtieth'; Route: 'from Grandberry Texas to San antonio' with zip codes 76049 to 78259; Size: '3400' square feet (customer corrects rep's 3000 estimate).",
+    "walkthrough_branch": "Rep correctly identifies 3400 sq ft as requiring virtual walkthrough: 'For a house the size, we need to gather more information and we need to do a virtual walkthrough...video call or a FaceTime so that we'll be able to...give you an on target estimate.' Customer agrees and rep schedules walkthrough at 4:00 PM same day.",
+    "their_agenda": "Never asked. Rep moves from size confirmation directly into address and property detail collection without asking 'what are your biggest concerns about this move?' or equivalent.",
+    "packing_services": "Not offered. Packing is mentioned only as part of the customer's stated prep timeline ('we're looking at a packing making ready the week of the 26'), never offered as a service option.",
+    "box_count": "Not asked."
+  },
+  "top_strength": "Rep correctly identified the 3,400 sq ft move as requiring a virtual walkthrough per the script and smoothly routed the call to that process rather than attempting an on-call quote, with clear confirmation of the 4:00 PM same-day walkthrough time.",
+  "coaching_note": "Section 1 is missing the critical quid pro quo framing ('10 to 15 minutes, walk away with a dependable quote') \u2014 jump straight into zip codes and probing without setting expectation or getting customer buy-in first; also Section 2's 'Their Agenda' question ('what are your biggest concerns?') should be asked before logistics detail-gathering begins, even on a walkthrough-routed call."
+}

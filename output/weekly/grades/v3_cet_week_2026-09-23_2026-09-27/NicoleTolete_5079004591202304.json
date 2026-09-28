@@ -1,0 +1,38 @@
+{
+  "call_id": "5079004591202304",
+  "rep_name": "Nicole Tolete",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 5.4,
+  "datetime_ct": "2026-09-23 16:03 CT",
+  "external_number": "+14692618266",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 75,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Nicole jumps directly to the walkthrough offer with no time-boxed framing or promise of a dependable quote. No 'Does that sound good to you?' wait.",
+    "discovery_basics": "Move date (Monday, Sept 28) and square footage (1900) confirmed in opening. City-to-city route and approximate size inferred but name (Ryan) confirmed. Missing explicit city-to-city route probing.",
+    "walkthrough_branch": "Nicole correctly identifies 1,900 sq ft triggers the virtual walkthrough: 'Upon checking the square footage of your townhome moving from 1900 square footage we usually do a virtual walkthrough, it's like a video call on your preferred time and date.'",
+    "their_agenda": "Never asked. No version of 'Other than price, what are your biggest concerns about this move?' Nicole moves directly into logistics and pricing education.",
+    "packing_services_offered": "Asked: 'And do you also need our help packing your small items into boxes or will you be able to do it yourself?' Customer declined.",
+    "box_count_asked": "Not asked.",
+    "pricing_explanation": "Nicole delivers substantial pricing education (hourly rate $102/mover, trip fee $75, what's included, no hidden fees, damage coverage $2,000, on-time guarantee, meet-your-mover, no deposit, 2.5-hour minimum, 15-minute increments) but this is done *before* the walkthrough, not as an estimate anchor tied to this customer's specific move.",
+    "booking_confirmed": "Time confirmed (12:00 PM today), link sent and confirmed received. Date confirmed (Monday Sept 28). Missing: explicit addresses, crew size (deferred to walkthrough), arrival window specificity, notes for crew about concerns."
+  },
+  "top_strength": "Nicole correctly identified the 1,900 sq ft threshold and properly routed to a virtual walkthrough instead of attempting an inaccurate on-call quote, and she delivered comprehensive pricing education upfront so the customer understands the rate structure before the walkthrough call.",
+  "coaching_note": "Ask 'Other than price, what are your biggest concerns about this move?' in Section 2 before pivoting to logistics \u2014 even on a walkthrough-routed call, understanding their agenda first builds trust and informs the walkthrough conversation itself.",
+  "booking_outcome": "walkthrough_scheduled",
+  "booking_note": "Virtual walkthrough scheduled for today at 12:00 PM to assess the move before providing a quote; actual move booking (September 28th) still pending after the walkthrough."
+}

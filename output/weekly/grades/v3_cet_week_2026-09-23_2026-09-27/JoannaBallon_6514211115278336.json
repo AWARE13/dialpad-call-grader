@@ -1,0 +1,38 @@
+{
+  "call_id": "6514211115278336",
+  "rep_name": "Joanna Ballon",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 8.8,
+  "datetime_ct": "2026-09-27 18:21 CT",
+  "external_number": "+16033228573",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 0,
+  "total_score": 72,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'Just need to ask you some questions about it that might make, might take time about ten to fifteen minutes if this is a good time.' \u2014 Time frame given, promise mentioned implicitly, but no explicit wait for a yes before moving forward.",
+    "their_agenda": "Joanna: 'before I check-in if you have any special instructions or concerns for this move that you also want to discuss on this call.' \u2014 Asked, but after the customer has already signaled he's just shopping for quotes and not locking in. Probing on move date, addresses, property type started immediately after.",
+    "logistics_details_gathered": "Property type (2BR apartment, 4th floor w/ elevator), floor/stories (destination is 2-story home), rooms (2BR + living/kitchen/dining, balcony empty), walking distances (parking to elevator ~1 school bus; door to elevator ~1-2 min walk), special items (no oversized, no fragile), packing scope (kitchen + closet mostly), box estimate (~30 boxes). All seven logistics buckets covered.",
+    "estimate_anchor": "Joanna: 'typically two bedroom apartments can take three and a half to five and a half hours to complete but in your case, since you know, just anticipating the longer walking distance and also the travel time in between... just put your move more on the six and a half to seven and a half hour mark, which is an estimated budget of $1,530... for packing as well... I just quote it within the typical of five and a half hours which is $1,342 including the packing supplies estimate.' \u2014 Range given + personalized to walking distance and travel time.",
+    "pricing_framing": "Joanna: 'Everything we need to complete the movies already in that price. The two men and the truck, all the reps to protect your furniture... taxes, insurance, credit card fees, fuel transportation fee, all in the price already... there's just a two and a half hour minimum if we go over, we only charge in every fifteen minute inter Ros.' \u2014 Comprehensive fee transparency and 2.5-hour minimum / 15-min increment framing both present.",
+    "on_time_guarantee_delivered": "Joanna: 'on time guarantee if we run late on the time, we schedule, we provide discounts for your move again. No hidden fees of any type.' \u2014 Discount terms and no-hidden-fees framing delivered, though discount detail sparse.",
+    "damage_coverage_delivered": "Joanna: 'no worries damage coverage which would give you guys up to $2,000 coverage for any accidental damages. Unlike our competitors usually they will only use the statement dated 60\u00a2 per pound per Adam or they will ask to pay extra. But with us, this already inclusive.' \u2014 $2,000 coverage, no-deductible/no-fine-print framing ('already inclusive'), built into rate (not add-on) all covered.",
+    "final_concerns_check": "Joanna: 'Alright, thank you so much. Anything else, any other questions?' \u2014 Throwaway 'any other questions' phrasing, not a genuine 'what's still concerning you' probe.",
+    "explicit_ask": "Joanna never asks 'Would you like our help with your move?' or any recognizable variant. After the estimate, she pivots to email, then to comparison-shopping advice, then closes with 'have a good day' without asking for the business."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details (property types, floors, walking distances, packing scope, box estimates) and delivered both pricing promises (On-Time Guarantee and No Worries Damage Coverage) with clear fee transparency and 2.5-hour minimum / 15-minute increment framing.",
+  "coaching_note": "Never ask for the business \u2014 this call ends without an explicit 'Would you like our help with your move?' and no booking is confirmed; also, Section 2's 'their agenda' question was asked too late, after probing had already started, and no confirmation check ('Does that feel fair?') was done before pivoting away from the estimate."
+}

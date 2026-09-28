@@ -1,0 +1,29 @@
+{
+  "call_id": "5458340507590656",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 11.9,
+  "datetime_ct": "2026-09-25 18:04 CT",
+  "external_number": "+12106879204",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 8,
+  "section7_ask_for_the_business": 3,
+  "total_score": 68,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "their_agenda": "Before I go over the information besides pricing, do you have any questions or concerns you would like answered on this call? [Asked after name/phone/email already confirmed, but before main probing started]",
+    "two_layers_deep": "Rep asked follow-up on gym equipment concern: 'For that weight to, does it have like holes and things like that' and continued clarifying: 'Oh, okay. Like the rack. Okay, la rack.' Also asked about the large monitor and got additional detail. Went back to confirm the inventory list.",
+    "estimate_anchor": "A typical move this size takes two movers and one truck between two and a half and four hours... I would look to estimate between three and four hours for your move. And then I would look to budget between $699 and $907... includes a $75 trip fee",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' Instead ended with 'I'm gonna send this email out' and transitioned directly to confirmation without a plain ask for the business."
+  },
+  "top_strength": "Brianne gathered exhaustive logistics details and special considerations (gym equipment, TV, monitor, all furniture pieces, exact item counts) through methodical probing, creating a comprehensive inventory that protects estimate accuracy.",
+  "coaching_note": "Section 1 is missing the foundational quid pro quo framing (time-boxed promise + dependable quote + wait for yes), and Section 7 never includes an explicit ask for the business\u2014both are load-bearing close gaps that prevent the customer from committing."
+}

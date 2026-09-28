@@ -1,0 +1,33 @@
+{
+  "call_id": "5163386648436736",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 15.7,
+  "datetime_ct": "2026-09-25 15:36 CT",
+  "external_number": "+19156136893",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 2,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Never asked. Rep moved directly into logistics probing (date, name, address) without asking 'Other than price, what are your biggest concerns about this move?'",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer in response to a genuine agenda question.",
+    "estimate_anchor": "Rep gave time ranges ('7 to 8 hours') and specific dollar anchors for both scenarios: packing service $3,257\u2013$3,864 for two-day move, or $1,632 for move-only. Personalized to the customer's stated interest in two quotes and their townhome size.",
+    "explicit_ask": "Never explicitly asked 'Would you like our help with your move?' or equivalent. Customer self-directed: 'Are you able to send both those quotes over via email to me?' and later 'if I do decide to go forward with you all, I will give you back a call.' Rep accepted this without closing the sale."
+  },
+  "top_strength": "Chauntelle gathered all discovery basics cleanly (name, date, both addresses, square footage, room count, property type) and delivered two detailed, anchor-specific estimates with transparent hourly pricing and no hidden fees.",
+  "coaching_note": "Section 2 \u2014 you skipped 'Their Agenda' entirely and jumped straight into probing; this cost you the chance to uncover what actually matters most to Carlos beyond price, and Section 7 \u2014 you never asked 'Would you like our help with your move?' explicitly, letting the customer walk away with only a promise to call back, when a direct ask could have booked the service on this call."
+}

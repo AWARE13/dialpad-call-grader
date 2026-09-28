@@ -1,0 +1,40 @@
+{
+  "call_id": "4993395508682752",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 6.2,
+  "datetime_ct": "2026-09-26 20:57 CT",
+  "external_number": "+16122016718",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 6,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never frames the call as 10-15 minutes or asks 'does that sound good?' \u2014 jumps directly into checking availability.",
+    "their_agenda": "Never asked. Rep launches into logistics immediately: 'are we moving another house or into it?'",
+    "estimate_anchor": "Rep gives hourly rate ($104/mover/hour) and two pricing scenarios ($670 minimum vs $982 for 4 hours), but does not anchor to 'typical' home size or personalize to customer's stated concerns.",
+    "pricing_framing": "Trip fee/overnight/materials not disclosed. 2.5-hour minimum mentioned ('We only have a minimum of two and a half hours'), but no 'not a guess' framing or 15-minute-increments commitment.",
+    "feels_fair_then_silence": "Rep asks 'Would you like me to lock that in for you and reserve the movers?' but never asks 'Does that feel fair?' and does not hold silence after the price \u2014 customer immediately responds with 'Yes, yes, please.'",
+    "on_time_guarantee_delivered": "Rep states: 'we still have on time guarantee' \u2014 mentioned clearly, no detail on discount terms.",
+    "damage_coverage_delivered": "Rep states: 'we still protect your items up to $2,000 per move' \u2014 amount and per-move framing stated, but no explicit 'no deductible / no fine print' language.",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or any version thereof after Two Promises.",
+    "explicit_ask": "Rep asks 'Would you like me to lock that in for you and reserve the movers?' \u2014 plain ask without built-in out.",
+    "rate_lock_mentioned": "Not mentioned. Rep only says 'I'll be sending you a confirmation email' and 'If there will be any changes just please let us know.'",
+    "booking_confirmed": "Date (Monday the 28th), start time (9:00 AM), address (1765 East Creek Drive, Dripping Spring), crew size (2 movers), and duration estimate (4 hours minimum) confirmed. Phone number NOT confirmed. No notes left for crew about customer concerns (customer mentioned Christmas items and ATV/trailer logistics, but rep did not recap what to tell the crew)."
+  },
+  "top_strength": "Rep correctly pulled up the customer's prior history (mentioning 'your profile') and avoided redundant re-entry of information, acknowledging repeat business and streamlining the call for a return customer.",
+  "coaching_note": "Never establish the call's purpose or time commitment upfront (Section 1 quid pro quo missing entirely), and skip asking what else the customer is concerned about beyond logistics\u2014go straight into structured discovery, gather contact information, and confirm booking details (phone number) before closing."
+}

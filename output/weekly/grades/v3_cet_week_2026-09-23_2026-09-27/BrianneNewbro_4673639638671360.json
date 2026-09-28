@@ -1,0 +1,38 @@
+{
+  "call_id": "4673639638671360",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 18.4,
+  "datetime_ct": "2026-09-23 16:50 CT",
+  "external_number": "+15126530045",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 52,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never framed the 10-15 minute call or promised a dependable quote before continuing to questions. Jumped directly into information gathering.",
+    "their_agenda": "No version of 'what are your biggest concerns' was asked at any point in the call.",
+    "estimate_anchor": "Rep provided range: '$624 and then $832 would take you to four hours' and contextualized it: 'time and efficiency...have a lot to do with how prepared you are when we get there. So, if you have the time to take things over in a car load or two that always helps keep our time down.'",
+    "pricing_framing": "Rep mentioned hourly rate and 2.5-hour minimum: 'we do charge that hourly rate' and 'I would estimate the move to take between three and four hours.' Trip fee, overnight fee, and materials fee were not disclosed. No 'not a guess' / 15-minute-increments framing.",
+    "feels_fair_then_silence": "Not asked. Rep moved directly to arrival time negotiation.",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' Instead said 'would you like me to get you on the schedule today' and when customer asked about arrival time, rep adjusted and booked without an explicit ask for business.",
+    "booking_confirmed": "Partial. Rep confirmed: date (October 27th), arrival window (12:00-2:00 PM). Did not confirm phone number re-check, crew size, or notes about customer concerns. Payment method was discussed after booking was already placed."
+  },
+  "top_strength": "Brianne gathered extensive logistics details efficiently\u2014property type, floor, special items (sofa sleeper, TV, Peloton, dresser, bed frame), multiple drop-off locations, and box count\u2014without any unnecessary back-and-forth.",
+  "coaching_note": "Section 1's quid pro quo framing was completely skipped, and no 'their agenda' question was ever asked\u2014these two missing foundational pieces mean the call never properly anchored customer expectations or surfaced real concerns; add both of these opening elements before moving to probing, and ask 'Would you like our help with your move?' in Section 7 instead of assuming the booking once details are confirmed.",
+  "booking_outcome": "booked",
+  "booking_note": "Customer explicitly confirmed booking for October 27th with 12:00-2:00 PM arrival window. Rep stated 'I have that on the schedule' and customer confirmed 'everything is booked in your system.'"
+}

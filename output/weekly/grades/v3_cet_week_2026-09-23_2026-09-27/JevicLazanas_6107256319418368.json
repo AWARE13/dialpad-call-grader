@@ -1,0 +1,38 @@
+{
+  "call_id": "6107256319418368",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 7.0,
+  "datetime_ct": "2026-09-24 14:55 CT",
+  "external_number": "+19548178205",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 38,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "section1_opening": "Rep jumps directly into address confirmation and logistics; no quid pro quo framing of time commitment or promise of dependable quote. No pause for customer agreement.",
+    "their_agenda": "Never asked. Rep moves straight into probing after address verification.",
+    "estimate_anchor": "Rep states: 'for $2, that's gonna be $4,525... Earlier I quoted you like your $54,550 so but yeah, since we're doing it on a Sunday $105.' Pricing is given but anchor is unclear and not personalized to customer's move details.",
+    "two_promises": "On-Time Guarantee and No Worries Damage Coverage never mentioned. No closing statement like 'Does that put those to rest?'",
+    "final_concerns_check": "Rep asks 'will there be anything else?' \u2014 a generic throwaway, not a genuine concerns check.",
+    "explicit_ask": "Never asks 'Would you like our help with your move?' or equivalent. Moves directly to email confirmation and goodbye.",
+    "booking_confirmed": "Date (Sunday Sept 27), time (2:00 PM), crew size (two movers, one truck), email confirmed. Missing: destination address (DK Ranch) fully spelled out, arrival window, and notes about customer concerns."
+  },
+  "top_strength": "Rep successfully retrieved customer from system, clarified a two-stop move (storage to house), and locked in a specific date/time with confirmed email contact.",
+  "coaching_note": "This was a re-booking call, not a full sales call \u2014 you skipped Section 1 framing, never asked their agenda or two-layer concerns, gave no estimate anchor or Two Promises, and never asked for the business explicitly. Treat every inbound as a fresh sales call: open with quid pro quo, ask what's concerning them, deliver both promises, and close with an explicit ask before confirming details.",
+  "booking_outcome": "booked",
+  "booking_note": "Customer explicitly confirmed the move: 'I have successfully saved your, or confirm your schedule on Sunday September 27th for two and a half hours' with pricing agreed at $4,525."
+}

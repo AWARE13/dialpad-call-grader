@@ -1,0 +1,34 @@
+{
+  "call_id": "4947523671728128",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 8.3,
+  "datetime_ct": "2026-09-24 14:55 CT",
+  "external_number": "+18172408281",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "discovery_basics": "What date are you looking at for the move? \u2192 Tomorrow or Saturday. What is your first and last name? \u2192 Shannon Brooks. What is the address that we would be helping you move from Shannon? \u2192 Going from Aubrey to McKinney. And what is the square footage like, are you moving from a house, an apartment? \u2192 It's a house it's about 2500 square feet.",
+    "walkthrough_branch": "Okay, now Shannon in order for now we can, I mean, so typically on a square foot like this we generally like doing a virtual walkthrough to get you an, an accurate estimate. So it's but I mean, are you able to do that for us to be able to give you an actual estimate?",
+    "quid_pro_quo": "Not present \u2014 no time-boxed framing or dependable-quote promise before probing started.",
+    "their_agenda": "Never asked \u2014 rep moved straight into discovery without asking about concerns or what answers the customer wanted."
+  },
+  "top_strength": "Rep correctly identified the 2,500 sq ft move and triggered the virtual walkthrough branch per protocol, routing the customer appropriately rather than forcing a quote on a large move.",
+  "coaching_note": "Lead with the quid pro quo framing (10\u201315 minutes, dependable quote, does that sound good?) before gathering any details \u2014 it sets expectation and earns permission to probe; also ask Their Agenda (concerns and what they want answered) before diving into logistics.",
+  "booking_outcome": "not_booked",
+  "booking_note": "Customer ended the call abruptly saying 'I've got to go now' without committing to a booking or scheduling a walkthrough, requesting only an email quote instead."
+}

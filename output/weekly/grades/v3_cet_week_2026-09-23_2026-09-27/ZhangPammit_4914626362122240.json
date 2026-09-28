@@ -1,0 +1,43 @@
+{
+  "call_id": "4914626362122240",
+  "rep_name": "Zhang Pammit",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 9.6,
+  "datetime_ct": "2026-09-26 14:47 CT",
+  "external_number": "+13054912575",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 8,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 39,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep said 'This would take about five to ten minutes of your time and so that we can be able to build an accurate code you can depend on, sounds good.' Customer said 'Okay. Sounds good.' but rep did not wait for explicit yes\u2014moved straight to 'Alright, let's talk about you.'",
+    "their_agenda": "Rep asked 'What are your biggest concerns or are there any important things that you wanted to answer during this call today?' before detailed probing started. Customer responded with concern about timeliness.",
+    "two_layers_deep": "Customer raised concern about movers taking longer than quoted. Rep responded with 'I perfectly understand no worries our movers are highly trained professionals' and moved to collecting contact info. No follow-up question like 'tell me more about that' or 'how much over did they go?' to probe the concern.",
+    "active_listening_reflection": "No summary reflection. Rep acknowledged the concern briefly ('I see,' 'I perfectly understand') but never reflected back what was heard as a summary confirmation.",
+    "logistics_details_gathered": "Rep covered property type (apartment), floor (4th, then 29th at destination), square footage (700, then 750), walking distance, large items (sectional, bed, dressers, TV stand, glass mirror), box count estimate, and access concerns. Nearly all seven logistics items present.",
+    "packing_services_offered": "Rep did not explicitly ask 'Would you like us to pack your items?' When customer mentioned wrapping furniture, rep said 'Yeah, that's already included on the, already we so for packing it's like most on the miscellaneous like codes' \u2014 discussed wrapping but did not offer packing as a service option.",
+    "box_count_asked": "Rep stated 'the typical back count for your home size is fifteen to 25 boxes. Do you feel that you fall within net range?' Customer confirmed yes.",
+    "estimate_anchor": "Rep gave hourly rate ($95/hour per mover, 26-foot truck) and trip fee ($1755) due to location outside free travel zone. Did not give a total estimate range personalized to this customer's move (no 'homes your size typically run X-Y hours' or similar anchor). Partial because structure was stated but no range or total personalization.",
+    "pricing_framing": "Rep disclosed trip fee and what's included (gas, truck, taxes, insurance, wraps, pads, tools, disassembly/reassembly). Also mentioned 'simple and easy to understand pricing.' Missing explicit 2.5-hour minimum, 15-minute increments, or 'not a guess' framing.",
+    "feels_fair_then_silence": "Rep never asked 'Does that feel fair?' or any version. Customer rejected the quote immediately on the grounds of the trip fee distance issue, but rep was cut off before reaching that checkpoint.",
+    "on_time_guarantee_delivered": "Rep did not deliver any On-Time Guarantee framing. Customer's opening concern was about timeliness, but rep never circled back to address it with the guarantee promise.",
+    "damage_coverage_delivered": "Rep did not mention No Worries Damage Coverage, $2000 coverage, deductible terms, or any warranty protection.",
+    "closes_the_loop": "No closing loop attempted. Section 5 was never reached because customer rejected on pricing before rep could deliver the Two Promises.",
+    "final_concerns_check": "Rep never asked 'What's still concerning you?' or any version of a final concerns check. Call ended immediately after customer objection.",
+    "catch_all_asked": "Rep did not ask 'Anything coming with you we haven't talked about?' or catch-all question.",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' or any explicit ask for the business. Customer self-rejected on price before Section 7 could occur."
+  },
+  "top_strength": "Rep asked Their Agenda early and unprompted, surfaced the customer's real concern (timeliness), and gathered comprehensive logistics details (property type, both floors, square footage, walking distances, large items, special items, box count) systematically.",
+  "coaching_note": "Once the customer raised a concern about past mover delays, dig deeper with a follow-up question instead of reassuring and pivoting\u2014probe 'tell me more' to fully understand the concern, then weave the answer into your estimate and the On-Time Guarantee pitch to directly address what matters to them."
+}

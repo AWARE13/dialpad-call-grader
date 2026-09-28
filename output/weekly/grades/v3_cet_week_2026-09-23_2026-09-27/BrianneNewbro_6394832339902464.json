@@ -1,0 +1,31 @@
+{
+  "call_id": "6394832339902464",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 14.8,
+  "datetime_ct": "2026-09-25 14:35 CT",
+  "external_number": "+18476442182",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 23,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 5,
+  "total_score": 63,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Before I get any more information, do you have any questions or concerns besides pricing that you would like answered on this call today? [Customer raises garage/parking concern immediately.]",
+    "two_layers_deep": "So you need what? So you have an apartment... Oh, so is it like a proper parking garage?... How much of a walk? Do you think that is like a hundred feet or the whole parking garage? [Rep digs into garage access, walking distance, and floor situation across multiple exchanges.]",
+    "estimate_anchor": "For a typical move this size it takes two movers, one truck, five to seven hours. I would with the walk in the partial pack. I would look to take probably about eight and a half hours... would like to budget between $1,080 and 680 and then if we hit the eight and a half $1,884.",
+    "explicit_ask": "I'm happy to get you on the schedule if you would like us to help you with your move on Saturday the tenth or I can go ahead and send over an email with all this information for you. [Customer chooses email, rep accepts without re-pitching, but the 'or' provides an easy out.]"
+  },
+  "top_strength": "Brianne dug two layers deep on the customer's primary concern (parking garage access and walking distance), circled back to it when addressing the move estimate, and gathered comprehensive logistics details (property type, floor count, special items, TV sizes, partial pack needs).",
+  "coaching_note": "Section 5 (Two Promises) and Section 6 (final concerns check) were entirely skipped \u2014 On-Time Guarantee and No Worries Damage Coverage were never mentioned, and the final concerns check was replaced with a hollow 'any questions?'; add these before moving to the ask or email."
+}

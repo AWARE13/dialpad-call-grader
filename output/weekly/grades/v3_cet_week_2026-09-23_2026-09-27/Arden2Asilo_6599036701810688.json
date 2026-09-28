@@ -1,0 +1,42 @@
+{
+  "call_id": "6599036701810688",
+  "rep_name": "Arden 2Asilo",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 8.2,
+  "datetime_ct": "2026-09-23 18:41 CT",
+  "external_number": "+18143084735",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Arden: 'I need to ask you questions that will take around ten to fifteen minutes so I can give you a realistic number estimate' \u2014 framing present but no explicit wait for yes; customer volunteers 'A realistic number' without being asked to confirm.",
+    "discovery_basics": "Zip codes (75235 from, 75072 to), move date (October 14-17), origin/destination (Dallas to McKinney), size (10x10 storage unit) all gathered.",
+    "their_agenda": "Never asked. Rep moves directly into logistics probing without ever asking 'Other than price, what are your biggest concerns about this move?'",
+    "logistics_details_gathered": "Property type (storage unit), size (10x10), and contents (boxes + 3 pieces furniture) covered. Missing: floor/stories (N/A for storage), number of rooms (N/A for storage), walking distance, additional rooms, additional stops.",
+    "estimate_anchor": "Arden: '$204 per hour for two movers and one truck... $687 to $891' with typical time range. Personalized to storage unit scenario and distance.",
+    "pricing_framing": "Arden: 'Everything is already included in the hourly rate. Gas trucks, taxes, insurance, all the wraps, the bags and bans... only thing outside that our rate is a one time... Transportation fee of $75... there are no hidden fees... no credit card fees, no sterle fees, and no disassemble or assembly fees.' Full fee transparency and 'not a guess' framing present.",
+    "feels_fair_then_silence": "Never asked. Call ends abruptly after customer says 'that's very high. Alright, thank you, thank you.'",
+    "on_time_guarantee": "Not mentioned at all.",
+    "damage_coverage": "Not mentioned at all.",
+    "final_concerns_check": "Not asked. Call ends without checking for remaining concerns.",
+    "explicit_ask": "Never asked 'Would you like our help with your move?' Call terminates mid-objection without closing attempt."
+  },
+  "top_strength": "Arden gathered all four discovery basics cleanly (zip codes, move date, route, property type/size) and delivered a transparent, itemized pricing frame with no hidden fees upfront.",
+  "coaching_note": "Section 2 (Their Agenda) was never asked\u2014this is the load-bearing question that uncovers what the customer actually cares about beyond price; without it, the rep can't personalize the pitch or address real objections. Additionally, Sections 5, 6, and 7 were abandoned entirely (no promises delivered, no final concerns check, no explicit ask for the business), leaving the sale incomplete.",
+  "booking_outcome": "not_booked",
+  "booking_note": "Customer expressed concern about pricing ('that's very high'), asked clarifying questions about rates, and ended the call with 'Alright, thank you, thank you' without confirming any booking or committing to a date."
+}

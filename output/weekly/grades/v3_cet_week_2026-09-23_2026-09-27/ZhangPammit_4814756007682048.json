@@ -1,0 +1,41 @@
+{
+  "call_id": "4814756007682048",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 14.0,
+  "datetime_ct": "2026-09-26 18:46 CT",
+  "external_number": "+12106300929",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 71,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skips straight into probing (name, phone, email, address) with no opening framing about timing, what the customer will walk away with, or explicit wait for a yes.",
+    "their_agenda": "Asked only after extensive probing: 'So, do you have any concerns or any important things that you wanted to answer during this call today?' Customer replies 'No, that's it' \u2014 no concerns raised.",
+    "estimate_anchor": "Rep provides typical ranges: 'typical one bedroom apartment would normally take two movers between two and a half to three and a half hours...estimated cost would be $832' and personalizes to the customer's specific moves with different crew sizes and pricing for each location.",
+    "pricing_framing": "Rep discloses fee structure upfront: '$104 dollars per hour per mover,' gas/trucks/taxes/insurance included, explains the 2.5-hour minimum and 15-minute increments: 'Once you go over that, it will always be prorated into fifteen minute increments.' Also mentions no deposit: 'there's no deposit required. No recent securing your spot.'",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or similar; after providing pricing, rep moves directly into logistical details (arrival window, confirmation email).",
+    "on_time_guarantee_delivered": "Rep covers the discount framing: 'if you cannot make it to the time window that we arrange we immediately start discounting money of your final bill.'",
+    "damage_coverage_delivered": "Rep states: 'we have now why damage coverage included on the already rate that you're paying us, we will provide up to 2000 dollars per move. That is to repair, replace and reimburse for your items.'",
+    "closes_the_loop": "No closing question asked after the Two Promises; rep launches into logistical confirmation instead.",
+    "final_concerns_check": "Never asked. Rep moves from pricing discussion straight to confirmation: 'Alright, I'll send you confirmation email if there will be changes just let us know.' No genuine version of 'What's still concerning you about this move?'",
+    "catch_all_asked": "Never asked. No version of 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Never asked. Rep confirms details and sends email but never asks 'Would you like our help with your move?' or equivalent plain ask for the business.",
+    "booking_confirmed": "Partial. Rep confirms: arrival window (12:00\u20132:00 PM), date (October 1st, Thursday), and sends confirmation email. Missing: explicit confirmation of phone number for day-of, full crew size per location (implied as two movers but not restated), and no notes left with crew about customer's concerns (customer had none, but the structure was not completed)."
+  },
+  "top_strength": "Strong logistics probing and multi-location detail gathering\u2014rep systematically captured property type, floor/access, walking distance, special items, and box counts for all three locations, and delivered a clear, anchor-based estimate with full pricing transparency.",
+  "coaching_note": "Section 1 must open with the quid pro quo framing (10\u201315 min call, dependable quote, wait for yes) before any probing; Section 6 and 7 were entirely skipped\u2014rep must ask a genuine final-concerns check and an explicit ask for the business ('Would you like our help?') before hanging up."
+}

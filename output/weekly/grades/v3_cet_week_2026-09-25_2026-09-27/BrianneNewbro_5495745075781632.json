@@ -1,0 +1,41 @@
+{
+  "call_id": "5495745075781632",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 8.9,
+  "datetime_ct": "2026-09-25 15:46 CT",
+  "external_number": "+17132489663",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 4,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skips the time-boxed framing entirely. No version of 'this will take 10-15 minutes and you can walk away with a quote you can depend on' is present. Instead rep jumps to: 'Do you have just a few moments to quickly go over the information that you just put in? Awesome and then be sizes pricing?'",
+    "their_agenda": "Asked but AFTER probing has already started. Rep asks 'Do you have any questions, or concerns you would like answered on this call?' but immediately before had already begun gathering details. Customer replies 'Not that I can think of at the moment but of course, I haven't had time to think.' This is asked out of sequence.",
+    "two_layers_deep": "Customer raises multiple concerns: (1) school traffic timing \u2014 rep offers time windows but does not dig deeper with 'tell me more about that'; (2) truck size constraint \u2014 customer says '30 foot deals that's gonna be hard to find space' \u2014 rep responds with truck size (26 ft) but does not probe further; (3) preparation and move efficiency \u2014 rep does follow up here with 'how well prepared you are.' Mixed execution but the primary concerns about timing and truck size receive only single-layer responses.",
+    "active_listening_reflection": "No summary reflection. Rep acknowledges the sofa detail ('Got it. Oh.') and the special items, but never reflects back a summary of concerns heard. No version of 'So what I'm hearing is ____, ____, and ____. Did I get all of it?' is present.",
+    "estimate_anchor": "Rep provides anchored estimate: 'A typical move this size takes between two and a half to three and a half hours' and personalizes: 'the most important one is how well prepared you are when we get there. If you can consolidate things into boxes...that obviously helps keep our time down efficiency up and the less time we take less money you end up spending.' Both elements present.",
+    "pricing_framing": "Rep discloses hourly rate ($190 for two movers, 26 ft truck), states 'no hidden fees,' explains clock starts on-site, '2.5 hour minimum' mentioned, '15 minute increments' stated. Trip/overnight fees not explicitly mentioned but core framing (rate, minimum, increments, no hidden fees) is present.",
+    "feels_fair_then_silence": "Not asked. After the pricing explanation and estimate anchor, rep never asks 'Does that feel fair?' or waits for customer confirmation before pivoting to the close.",
+    "on_time_guarantee_delivered": "Fully delivered: 'we have our on time guarantee we value your time. So, if we can't make it in the time window that we arrange, we Maly start discounting money of your final bill.' (discount terms clear, though 'Maly' appears to be a transcription artifact for 'will immediately')",
+    "damage_coverage_delivered": "Fully delivered: 'We do have a no worries, damage coverage which is our free evaluation coverage included in the hourly rate provides up to $2,000 per move to repair, replace or reimburse for accidental damages.' Covers the $2,000 amount and that it is included in the rate (not an add-on).",
+    "closes_the_loop": "No. Rep delivers both promises but does not ask 'Does that put those to rest?' or any closing confirmation. The Two Promises section ends and rep pivots directly into pricing explanation.",
+    "final_concerns_check": "Throwaway version. Rep asks 'No, I don't think I have any other questions at this particular point?' \u2014 this is a tag-on to customer's statement, not a proactive 'What's still concerning you about this move?' A non-genuine phrasing that invites an automatic no.",
+    "explicit_ask": "Asked with built-in out. Rep says 'would you like us to help you with your move on Wednesday September 30th' but customer pivots to 'if you could email me these details...I can consider it then...I'll call you back.' Rep accepts with 'Okay. Absolutely' and says 'you can just email us back too if that works better' \u2014 softens the ask into an email option without securing a commitment.",
+    "rate_lock_mentioned": "Yes. Rep states 'there is no deposit to get on our schedule' and 'There is also no changes or charges or fees to cancel or change the time or date.'",
+    "booking_confirmed": "None. No booking is confirmed. Customer defers decision ('I'm you're only the second moving company. I've talked to...I can consider it then I we'll call you back'). Rep does not secure date, phone, arrival window, crew size, or addresses. No booking details confirmed."
+  },
+  "top_strength": "Brianne thoroughly gathered logistics details (property types, floor levels, walking distances, special items, box count estimate) and delivered the Two Promises (On-Time Guarantee and No Worries Damage Coverage) with full clarity and correct terms.",
+  "coaching_note": "Lead every call with the quid pro quo framing \u2014 'This will take 10-15 minutes and you can walk away with a quote you can depend on' \u2014 before asking a single discovery question, and always ask for the business plainly without offering an email-out escape route."
+}

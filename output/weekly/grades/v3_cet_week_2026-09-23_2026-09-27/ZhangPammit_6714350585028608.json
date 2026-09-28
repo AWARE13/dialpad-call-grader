@@ -1,0 +1,42 @@
+{
+  "call_id": "6714350585028608",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 12.9,
+  "datetime_ct": "2026-09-26 16:23 CT",
+  "external_number": "+12818468789",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 4,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 6,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep said 'I just need to ask you some questions this would take within the next five to seven minutes of your time to build you an accurate [quote]' \u2014 no time-boxed framing of the full call, no explicit promise of a dependable quote, and no wait for a yes before launching into probing.",
+    "their_agenda": "Rep asked 'do you have any concerns or any important things that you wanted to answer during this call today?' \u2014 but only after already asking moving date, property type, and unit type. Customer said 'Nope,' and rep moved straight into logistics probing.",
+    "logistics_details_gathered": "Rep covered property type (apartment), unit type (one bedroom), addresses (three stops with full street addresses and zip codes), unit numbers, square footages (650 sq ft origin, 750 sq ft destination), floor level (50th floor), elevator reservation (yes), walking distance (estimated as a couple of minutes with loading dock access), special items (liquor cabinet, boxes, desk, chair, TV, coffee table, entertainment stand), and multi-stop complexity (pickup from apartment, drop and pickup at storage unit, final delivery).",
+    "estimate_anchor": "Rep gave rate ($115/hr per mover) and specific estimate ($2,070 for 5\u20136 hours with 5 movers and 1 truck), but did not anchor to a typical range for this home size or personalize based on the customer's stated situation (prior move, minimal items, multiple stops). The estimate was given without context of what 'typical' looks like for a similar move.",
+    "pricing_framing": "Rep mentioned 'no hidden fees of any type' and 'you only need to pay once the job is done and only for the actual hours' \u2014 addressing pay-on-completion and transparency. Did not explicitly state trip fee, overnight fee, 2.5-hour minimum, or 15-minute-increment billing. Did not frame as 'not a guess.'",
+    "feels_fair_then_silence": "Rep never asked 'Does that feel fair?' or any equivalent. Moved directly to 'Would you like our help with the move next Saturday?' without inviting the customer to respond to the pricing.",
+    "on_time_guarantee_delivered": "Rep said 'we still have the on time guarantee we will still cover-up to $2,000 per move' \u2014 mentioned the coverage amount but did not explain the discount terms (starts discounting immediately if late) in recognizable form.",
+    "damage_coverage_delivered": "Rep said 'we will still cover-up to $2,000 per move' in the context of the on-time guarantee, but this was not clearly separated as a distinct No Worries Damage Coverage promise. Did not explain no deductible, no fine print, or that it is built into the rate (not an add-on).",
+    "closes_the_loop": "Rep did not ask 'Does that put those to rest?' or confirm that the Two Promises addressed the customer's concerns. The promises were mentioned in passing ('we still have the on time guarantee... we will still cover-up to $2,000 per move') as a callback to the prior move, with no closure confirmation.",
+    "final_concerns_check": "Rep did not ask 'What's still concerning you about this move?' or any genuine variant. No final concerns check was performed before the ask.",
+    "explicit_ask": "Rep asked 'Would you like our help with the move next Saturday?' \u2014 plainly and without a built-in out. Customer said 'Yeah, I do want to book it. Yes.'",
+    "rate_lock_mentioned": "No mention of rate lock or no-deposit language anywhere in the call.",
+    "booking_confirmed": "Rep confirmed moving date (October 3rd, Saturday), arrival window (8:30 AM to 9:00 AM), and crew size (5 movers and 1 truck). Did not explicitly confirm phone number (though rep had it on file), pickup address (800 Embassy Drive Unit 115), storage unit address (2009 Airport Boulevard), or final delivery address (98 Red River Street Unit 5009) in the booking confirmation loop \u2014 these were discussed during probing but not re-confirmed as part of the booking. Rep sent confirmation via email and noted a COI would be requested for the final location (Bosque Residences at Waterline). No notes left for the crew about customer concerns (customer had stated none, but rep did not proactively ask about what the crew should know)."
+  },
+  "top_strength": "Thorough multi-stop logistics discovery \u2014 rep captured every address, unit number, floor, walking distance, special items, and storage complexity without losing track of a three-leg move with partial pickups and drop-offs.",
+  "coaching_note": "Section 1 and 4 are critical gaps: never frame the call upfront with a quid pro quo and wait for a yes, and never present a pricing estimate without anchoring it to a range and asking 'Does that feel fair?' with a real pause for response."
+}

@@ -1,0 +1,40 @@
+{
+  "call_id": "4642307748175872",
+  "rep_name": "Danah 2Celestial",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 10.7,
+  "datetime_ct": "2026-09-27 15:23 CT",
+  "external_number": "+17133021203",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 30,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 0,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 71,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "This call would take about maybe, 71015 minutes Max. And you can walk away with a quote that you can depend on, sounds good. [Customer affirms.]",
+    "discovery_basics": "Name: Christopher Hampton. Move: Austin to McKinney (Dallas area). Date: Sunday October 11th. Size: 800 sq ft, 2 bedrooms.",
+    "their_agenda": "Other than the price obviously, what are your biggest concerns about the move-in any answers that you want, any questions one answers to you on this call?",
+    "two_layers_deep": "Customer raises concern about expensive monitors/computer equipment. Rep follows: 'Is that something, I'll have to disassemble or will you all be able to take care of that?' Customer raises scheduling concern. Rep follows with On-Time Guarantee details.",
+    "active_listening_reflection": "So what I'm hearing is Christopher you need full packing service. Of course all of the materials or furniture and the monitors needs to be padded. Did I get all of it?",
+    "logistics_details": "Property type (townhome), stories (two), bedrooms (two), parking (open lot with covered area, 5-6 steps), no extra rooms/garage, no oversized items, no fragile items, no appliances, box count (22-30 boxes typical for size).",
+    "packing_services": "Full packing service requested and acknowledged.",
+    "box_count": "So for a home of your size supposed to give you a reference there's typically about 2230 pre pack boxes. Do you think you fall within the range?",
+    "two_promises_on_time": "When we book your move Christopher, we'll lock in a firm arrival window for you and if ever relate $50 comes up immediately after the first hour it's an extra $25 for every thirty minutes after that.",
+    "two_promises_damage": "Up to $2,000 included in the hourly rate and we pay it out in four to six day.",
+    "section4_gap": "Rep says 'I've got everything I need here Christopher, let me just build your estimate. Can I give you a callback right after like, five to ten minutes.' No estimate anchor given, no pricing framing, no 'does that feel fair' asked.",
+    "section6_gap": "Call ends with callback promise. No 'what's still concerning you' check, no catch-all, no final concerns gate.",
+    "section7_gap": "Call ends mid-pitch without ever asking 'Would you like our help with your move?' No explicit ask, no rate-lock mention, no booking confirmation."
+  },
+  "top_strength": "Danah executed a flawless Section 2 (Their Concerns): asked the agenda early, followed up authentically when the customer raised the monitors concern and scheduling logistics, and reflected back all concerns with clear confirmation before moving forward.",
+  "coaching_note": "The call halts at the callback for estimate calculation \u2014 Sections 4, 5, 6, and 7 (pricing, promises, final concerns, and the ask itself) were never delivered; confirm whether this was intentional per company protocol or a dropped handoff, and if intentional, clarify when those sections resume on the callback."
+}

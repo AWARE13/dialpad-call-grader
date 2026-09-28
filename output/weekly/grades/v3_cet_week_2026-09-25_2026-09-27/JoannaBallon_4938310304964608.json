@@ -1,0 +1,40 @@
+{
+  "call_id": "4938310304964608",
+  "rep_name": "Joanna Ballon",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 8.8,
+  "datetime_ct": "2026-09-27 17:45 CT",
+  "external_number": "+17137247341",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 8,
+  "total_score": 46,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep jumps directly into probing (moving date, zip code, apartment vs house) without framing the call length or promise of a dependable quote, and without waiting for a yes. No recognizable version delivered.",
+    "their_agenda": "Asked after extensive probing: 'just wanna check-in with you as well. If you have any imported concerns or instructions about this move that you also want to address on this call.' This comes after discovery of dates, addresses, property type, and items.",
+    "two_layers_deep": "Customer says 'it's just gonna be like I'm just moving a few things and some boxes, so it's not like a huge move.' Rep responds 'I see. Okay' and immediately pivots to item confirmation rather than following up with 'tell me more about that' or exploring what prompted this concern.",
+    "active_listening_reflection": "No summary or reflection of the customer's stated concern about it being a small move. Rep acknowledges ('I see') but does not reflect back.",
+    "estimate_anchor": "Rep gives a range ($520\u2013$728) tied to time (2.5\u20133.5 hours) but personalizes it minimally\u2014only references 'one bedroom worth of items' without tying it to customer-specific details like their prep level, stated concern about size, or items mentioned.",
+    "pricing_framing": "Rep delivers trip fee, stairwell fee transparency, 2.5-hour minimum, 15-minute increments, and assembly/reassembly inclusion ('$208 per hour that's already for two men and a truck and everything we need taxes, insurance, credit card fees...'). Both anchor and framing present.",
+    "feels_fair_then_silence": "Not asked. Rep gives estimate and moves directly into availability window without asking 'Does that feel fair?' or similar closing question.",
+    "on_time_guarantee_delivered": "Fully delivered: 'on time guarantee, if we run late on the time we schedule, we provide discounts for your move again.'",
+    "damage_coverage_delivered": "Partial. Rep mentions '$2,000 coverage for any repair, replacement, reimbursement for any accidental damages' but does not explicitly state 'no deductible,' 'no fine print,' or that it's 'built into the rate, not an add-on.'",
+    "closes_the_loop": "No. Rep does not ask 'Does that put those to rest?' or similar confirmation that the two promises have resolved concerns. Instead transitions directly to availability.",
+    "final_concerns_check": "Not asked. Rep moves from booking confirmation directly to goodbye without asking 'What's still concerning you about this move?' or any variant.",
+    "catch_all_asked": "Not asked. No version of 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Full. 'If that's all this you, would you like our help for this move on Thursday.' Plainly asked, no built-in out offered."
+  },
+  "top_strength": "Joanna successfully gathered sufficient logistics details (items, layout, walking distance, floor level, community proximity) and confidently quoted a personalized price range with clear fee transparency and minimum-charge framing.",
+  "coaching_note": "Section 1 must open with the quid pro quo framing (10\u201315 minute call, dependable quote) and a genuine wait for yes before probing begins; currently you jump straight into discovery, which costs 5 critical opening points."
+}

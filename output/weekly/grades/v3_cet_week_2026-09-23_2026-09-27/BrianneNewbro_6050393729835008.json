@@ -1,0 +1,42 @@
+{
+  "call_id": "6050393729835008",
+  "rep_name": "Brianne Newbro",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 9.7,
+  "datetime_ct": "2026-09-25 14:19 CT",
+  "external_number": "+15126563425",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 30,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 77,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Bri: 'It'll take about five to ten minutes and then we can get you an accurate quote' \u2014 framing present but time estimate differs from script (5-10 min vs 10-15 min), and no explicit confirmation wait or 'Does that sound good to you?' before proceeding.",
+    "their_agenda": "Bri: 'before I get any other information, is there any specific questions or concerns you would like answered on this call besides pricing?' \u2014 asked before logistics probing begins.",
+    "two_layers_deep": "N/A \u2014 customer raised one concern ('what the final costs will likely be') but rep acknowledged without follow-up, then immediately pivoted to the Two Promises preamble. However, per rubric N/A rule, since the customer didn't substantially expand on concerns, this is a single surface-level raise with no real concern clustering to dig into.",
+    "active_listening_reflection": "N/A \u2014 no summary reflection of customer's stated concern.",
+    "estimate_anchor": "Bri: 'for Sunday October 4th, that's $210 and that's for two movers and 126 foot box truck... And so I would look to budget between $525 and $735.' \u2014 range provided and personalized to the partial move specifics ('minimal items and boxes').",
+    "pricing_framing": "Bri: 'we just charge an hourly rate, we're super transparent... we have no hidden fees... the time starts as soon as we get on site... two and a half hour minimum once we go over that minimum the time is prorated in fifteen minute increments.' \u2014 both hourly transparency and 2.5-hour minimum/15-minute increment framing present. No explicit trip or overnight fee disclosure (N/A for this move type).",
+    "feels_fair_then_silence": "Bri: 'Does that sound fair?' followed by customer's 'Yes.' \u2014 asked plainly and silence was held (customer responded).",
+    "on_time_guarantee_delivered": "Bri: 'if we can't make the time window that we arrange immediately start discounting money of your final bill' \u2014 discount terms clearly stated.",
+    "damage_coverage_delivered": "Bri: 'we do have our no worries image coverage. Which is our free evaluation coverage included in the hourly rate that provides up to $2,000 per move to repair, replace or reimburse accident Foxi damages.' \u2014 $2,000 coverage and 'included in the hourly rate' (no add-on) stated, but phrasing is garbled ('image coverage,' 'Foxi') and 'no deductible/no fine print' framing is absent.",
+    "closes_the_loop": "Bri does not ask 'Does that put those to rest?' or equivalent after the Two Promises section. She pivots directly into pricing without confirming the promises resolved the customer's concerns.",
+    "final_concerns_check": "Bri: 'do you have any other questions for me while you have me on the line' \u2014 throwaway version of the final concerns check, not the genuine 'What's still concerning you about this move?' version.",
+    "catch_all_asked": "Not asked \u2014 no version of 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Never asked \u2014 rep books the move and sends confirmation without ever plainly asking 'Would you like our help with your move?' or equivalent. The booking is assumed/confirmed, not explicitly requested."
+  },
+  "top_strength": "Brianne gathered all essential logistics details methodically (both properties, bedroom/floor specifics, parking/loading dock access, special items) and provided a clear, personalized estimate range ($525\u2013$735) tied directly to the partial-move specifics, establishing strong credibility.",
+  "coaching_note": "Never ask for the business explicitly \u2014 after the estimate and Two Promises, move straight to booking confirmation without the plain 'Would you like our help with your move?' ask, and skip the final-concerns check entirely ('any other questions?' is a throwaway); add the genuine 'What's still concerning you about this move?' and 'Anything coming with you we haven't talked about?' before closing."
+}

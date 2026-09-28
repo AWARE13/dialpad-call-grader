@@ -1,0 +1,43 @@
+{
+  "call_id": "5617202362884096",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 5.3,
+  "datetime_ct": "2026-09-23 22:02 CT",
+  "external_number": "+15125878578",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 31,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Not present. Rep jumped straight into pricing structure without framing the call duration, quote dependability, or waiting for customer agreement.",
+    "their_agenda": "Not asked. Rep never asked 'Other than price, what are your biggest concerns about this move?' Customer raised concerns organically (quality, moving speed, family help availability) but rep never systematically surfaced the customer's full agenda.",
+    "logistics_details_gathered": "Partial: zip codes asked (78752, destination unclear). Property type, floor/stories, room count, walking distance, special considerations, additional stops \u2014 none covered. Rep asked about bedroom set, dining table, boxes, family help availability, but never systematized property details.",
+    "estimate_anchor": "Partial: Rep gave hourly rates ($104/mover weekday, $208 for two movers, $220\u2013$230 weekend) but no typical box count anchor, no personalization to this customer's light load (bedroom set + dining table + boxes), no range contextualized to move size.",
+    "pricing_framing": "Partial: Hourly rate, 2.5-hour minimum, and per-mover structure explained. Missing: trip fee mentioned only as conditional ('if 10\u201315 miles away'), no explicit overnight fee disclosure, no '15-minute increments' commitment, no 'not a guess' framing.",
+    "feels_fair_then_silence": "Not asked. Rep never asked 'Does that feel fair?' or any variation. Call ended with customer saying 'we'll do the during the week situation and... holler back at you' \u2014 no closing question, no silence held.",
+    "on_time_guarantee_delivered": "Not mentioned at all.",
+    "damage_coverage_delivered": "Not mentioned at all.",
+    "closes_the_loop": "No. Section 5 items were never introduced, so there was nothing to close.",
+    "final_concerns_check": "Not asked. Rep ended the call with 'Thank you for considering us' \u2014 no genuine 'What's still concerning you?' or even 'Any other questions?'",
+    "explicit_ask": "Never asked. Customer initiated the close ('we will holler back at you guys') and rep accepted the handoff without asking 'Would you like our help with your move?' or confirming a booking.",
+    "booking_confirmed": "None. No date confirmed, no phone number captured, no arrival window set, no crew size confirmed, no addresses verified, no notes left for crew."
+  },
+  "top_strength": "Jeline clearly explained Einstein's hourly rate structure, per-mover pricing, minimum duration, and incidentals (travel fee, wrapping, assembly) in a way the customer could follow and reference \u2014 pricing transparency was the call's strongest component.",
+  "coaching_note": "This call skipped or abandoned almost every discovery and closing checkpoint: no quid pro quo framing, no agenda-setting, minimal logistics probing, no promises section, no final concerns check, and critically, no explicit ask for the business \u2014 the customer left dangling with 'I'll call you back' rather than a confirmed booking with details.",
+  "booking_outcome": "not_booked",
+  "booking_note": "Customer said 'we'll do the during the week situation and again...Once we get this what do you call it, the dates and set that? We will holler back at you guys' - indicating they will call back later to schedule, not booking now."
+}

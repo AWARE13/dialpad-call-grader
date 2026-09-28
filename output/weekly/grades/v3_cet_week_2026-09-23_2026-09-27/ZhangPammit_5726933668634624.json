@@ -1,0 +1,33 @@
+{
+  "call_id": "5726933668634624",
+  "rep_name": "Zhang Pammit",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 9.1,
+  "datetime_ct": "2026-09-24 14:46 CT",
+  "external_number": "+14698556100",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 23,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 82,
+  "pass": true,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'this would take within the next five to ten minutes of your time. Would that be okay?' but does NOT explicitly frame the 'dependable quote' promise or clearly demarcate the time-boxed structure. Customer affirms 'Yeah, that's fine' but the framing is incomplete.",
+    "their_agenda": "Rep asks 'What are your biggest concerns or do you have any important things that you wanted to answer during this call today?' \u2014 asked before any probing. Customer responds with two concerns: furniture disassembly/assembly and appliance hookup/disconnect.",
+    "two_layers_deep": "On concern 1 (bed disassembly): Customer clarifies 'our bed it's like a king size like wood bed Frank, it would need to be taken apart and then put back together.' Rep confirms coverage. On concern 2 (refrigerator hookup): Customer asks if it's included; rep confirms appliances and furniture reassembly are included. Both concerns explored until customer signals satisfaction ('Okay. Okay, perfect').",
+    "active_listening_reflection": "No summary reflection. Rep acknowledges each concern individually with direct answers but never mirrors back or summarizes what was heard.",
+    "logistics_details_gathered": "Property type (house), floors (1 story current, 2 story destination), bedrooms (4 current, 4+office destination), rooms (dining, living, kitchen, laundry), parking (driveway/street), walking distance (5\u201310 seconds), access concerns (hallway at origin, stairs at destination) all covered.",
+    "walkthrough_branch": "Home is 2,100 sq ft (Section 1), which exceeds 1,800 sq ft threshold. Rep correctly offers virtual walkthrough: 'So normally based on your home size, we do a virtual walkthrough. In that way you would just base it on the items that we are moving. Do you have time to complete the virtual off for you today?' Customer agrees and confirms 4:00 PM time. Walkthrough properly scheduled with link sent via text and email."
+  },
+  "top_strength": "Rep thoroughly gathered all seven logistics details (property type, floors, rooms, parking, walking distance, access concerns, additional stops) and correctly identified the 2,100 sq ft home as qualifying for a virtual walkthrough, then successfully routed and scheduled it with a confirmed time and delivery method.",
+  "coaching_note": "Do not skip the active listening reflection in Section 2 \u2014 when a customer raises multiple concerns, summarize what you heard back to them ('So what I'm hearing is X and Y') and confirm before moving on, rather than answering each concern individually and pivoting forward.",
+  "booking_outcome": "walkthrough_scheduled",
+  "booking_note": "Customer agreed to a virtual walkthrough at 4:00 PM to assess items before booking: 'So I'll send you a link for the virtual walkthrough. We'll see you then at 4:00 PM'"
+}

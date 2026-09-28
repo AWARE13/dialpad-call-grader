@@ -1,0 +1,41 @@
+{
+  "call_id": "6751637024055296",
+  "rep_name": "Amy Arbasa",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 16.0,
+  "datetime_ct": "2026-09-23 19:45 CT",
+  "external_number": "+17262445844",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Amy: 'Let's get you quoted. I'll start with a few questions to get us on the right track and then I'll create an estimate that you can depend on.' \u2014 framing present but no time box stated and no clear wait for confirmation before moving forward.",
+    "their_agenda": "Amy: 'Do you have any specific concern what are you most worried about or any questions that you'd like me answered on this call today?' \u2014 asked AFTER extensive probing (inventory details, floor, elevator, packing needs, box count, walking distance already covered).",
+    "two_layers_deep": "Customer raised two concerns: (1) price and (2) how long it would take / wanting it done in one day. Amy acknowledged price, said 'It should be pretty straightforward the inventory straightforward' but never asked follow-up questions like 'tell me more about the timeline concern' or 'what would make one day vs two days important to you.' No real two-layer exploration.",
+    "active_listening_reflection": "Amy never summarized or reflected back what Jasper said. No version of 'So what I'm hearing is...' or confirmation.",
+    "estimate_anchor": "Amy: 'Typically an apartment the size we would send two movers, one shock. It would take anywhere from four and a half to five and a half hours... packing is the most just part of the process. So we'd have to divide this into two days.' \u2014 gave range anchored to home size and personalized to packing scope.",
+    "pricing_framing": "Amy disclosed: hourly rate ($206), packing materials ($217 budget), travel fee ($105), 2.5-hour minimum, 15-minute increments, all-inclusive of taxes/insurance/gas. Full fee transparency and commitment framing present.",
+    "feels_fair_then_silence": "Never asked. Amy went straight from 'Question so far?' to 'Let me send you the numbers' and continued pitching without gauging acceptance.",
+    "on_time_guarantee": "Not mentioned at all.",
+    "damage_coverage": "Not mentioned at all.",
+    "final_concerns_check": "Amy asked 'What else?' after Jasper's unpacking question, which is minimal and not the genuine 'What's still concerning you about this move?' framing.",
+    "explicit_ask": "Never asked. Call ended with 'I'll email you the quote in a minute and then feel free to reach out no deposit required if you're ready to book' \u2014 a passive close with no direct ask like 'Would you like our help with your move?'",
+    "booking_confirmed": "Partial. No date locked (customer said 'most likely week of 5th... October 8 or 9... might be as late as October 14'), no crew size confirmed, no arrival window confirmed, no notes left for crew about customer's concerns (one-day preference, timeline sensitivity)."
+  },
+  "top_strength": "Amy gathered comprehensive logistics details\u2014property type, floor, elevator access, full inventory walkthrough, packing scope, destination address, parking, and box-count expectations\u2014creating an accurate, well-anchored estimate in two-day format with full price transparency.",
+  "coaching_note": "Section 2's 'Their Agenda' must be asked *before* any probing starts, and when concerns are raised, go two layers deep instead of acknowledging and pivoting; Section 5 (Two Promises) was entirely skipped; and Section 7 needs an explicit, unambiguous close ask ('Would you like our help with your move?') and date/crew lock-in rather than passive email hand-off.",
+  "booking_outcome": "not_booked",
+  "booking_note": "Customer said 'if you could send an estimate with that would be great' and Amy stated 'no deposit required if you're ready to book' - the customer did not explicitly commit to a booking, only requested an estimate to be emailed."
+}

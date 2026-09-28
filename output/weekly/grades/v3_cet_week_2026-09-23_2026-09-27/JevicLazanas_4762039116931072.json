@@ -1,0 +1,39 @@
+{
+  "call_id": "4762039116931072",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 13.5,
+  "datetime_ct": "2026-09-24 16:25 CT",
+  "external_number": "+15129649542",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 6,
+  "total_score": 55,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep jumps straight into availability check ('this weekend. Okay, let me check the availability for you') without the time-boxed framing or waiting for a yes.",
+    "their_agenda": "Never asked. Rep moves directly into item-by-item logistics probing: 'And are we going to move like a few items or you know, from a, from a house, a bedroom, one bedroom apartment.'",
+    "estimate_anchor": "Rep gives a range ($600 to $800 for 3\u20134 hours) but does not personalize it to any specific concern or detail about Troy's move; no reference to prep level, access, or stated priorities.",
+    "pricing_framing": "Trip/overnight/material fees disclosed ('no hidden fees of any type, no credit card fees, no deposit, no transportation fees, no terrible fees'). The 2.5-hour minimum and 15-minute increments are mentioned ('two and a half hour minimum, and once we go over that minimum the time is prorated in fifteen minute increments'). Both elements present, though the 'not a guess' commitment is not explicitly framed.",
+    "damage_coverage": "Rep states '$2,000 per move to repair, replace or reimburse for accidental damages' but does not mention 'no deductible' or 'no fine print' framing, nor that it is built into the rate.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or any equivalent. Moves directly to scheduling.",
+    "explicit_ask": "Rep asks 'would you like our help with your move this coming Saturday?' \u2014 plainly, without an out.",
+    "booking_confirmed": "Rep confirms date (Saturday September 26th) and time window (1:30 PM\u20133:30 PM). Email confirmation mentioned. Phone number and crew size not confirmed; notes about customer concerns not left for crew."
+  },
+  "top_strength": "Rep thoroughly and methodically gathered a detailed item-by-item inventory (dressers, beds, couches, bookshelves, desks, organs, etc.) and confirmed the full list back to the customer with precision, establishing clear expectations about what would be moved.",
+  "coaching_note": "Section 2 \u2014 never ask 'Other than price, what are your biggest concerns about this move?' \u2014 you skip straight to logistics probing, missing the opportunity to surface and address Troy's real anxieties before pricing, which would have made the estimate feel more tailored and earned.",
+  "booking_outcome": "booked",
+  "booking_note": "Customer explicitly agreed to the move and date was confirmed: 'I have confirmed your scheduled on Saturday September 26th'"
+}

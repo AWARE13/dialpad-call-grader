@@ -1,0 +1,35 @@
+{
+  "call_id": "4516036237369344",
+  "rep_name": "Danah 2Celestial",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 5.8,
+  "datetime_ct": "2026-09-23 14:26 CT",
+  "external_number": "+18304563777",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'let's just go ahead and review your move details here. I'm gonna ask you just a few questions just to get us on the right track then from there we'll be able to build you an estimate' \u2014 no time-box framing, no 'dependable quote' promise, no explicit wait for yes.",
+    "discovery_basics": "Move date: 'your requested date is Wednesday September 30th, is that correct?' Starting address: '27410 areas in Bernie.' Size: '1700 square feet.' Destination: 'storage unit... west interstate ten. In San antonio into a ten by twenty unit on the ground floor.' All four confirmed.",
+    "their_agenda": "Never asked. Rep transitions directly from confirming details to walkthrough offer: 'Okay, perfect, so, yeah, typically Ashley, for home of the size we recommend doing a virtual walkthrough...'",
+    "logistics_details_gathered": "Property type (house), square footage (1700), bedrooms (three), and destination type (storage unit) established. No probing on floor plan, walking distance, special items, or additional rooms beyond the consignment stop the customer volunteered.",
+    "walkthrough_branch": "Home is 1,700 sq ft \u2014 just under the 1,800 sq ft threshold stated in the rubric. However, rep offers the virtual walkthrough anyway ('typically Ashley, for home of the size we recommend doing a virtual walkthrough'), treating it as a borderline case warranting walkthrough routing rather than an immediate quote."
+  },
+  "top_strength": "Danah cleanly routed the call to a virtual walkthrough with a specific, confirmed time slot (5:00 PM) and fallback option (video upload), capturing an additional stop requirement without losing clarity on next steps.",
+  "coaching_note": "Before routing to walkthrough, ask 'Other than price, what are your biggest concerns about this move?' to surface their agenda \u2014 this would give the walkthrough team critical context and build rapport earlier in discovery.",
+  "booking_outcome": "booked",
+  "booking_note": "Customer confirmed Wednesday, September 30th with start time 8:30-9:00 AM, and agent stated 'I've got your reserve for Wednesday the thirtieth' with truck reserved."
+}

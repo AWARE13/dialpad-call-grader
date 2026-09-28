@@ -1,0 +1,42 @@
+{
+  "call_id": "4693838912593920",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 21.6,
+  "datetime_ct": "2026-09-25 16:13 CT",
+  "external_number": "+13165532984",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 8,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 8,
+  "total_score": 55,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'this should take about ten to fifteen minutes and we'll be able to build you an accurate estimate. Sounds good.' Customer affirms 'Yeah.' but rep does not wait for full confirmation before moving to email collection.",
+    "their_agenda": "Rep asks: 'What are your biggest concerns and we are the most important things you want answers to on this call today aside from the pricing.' Customer responds with one concern: 'nothing gets broken.' Rep acknowledges but never asks follow-up questions like 'tell me more about that' \u2014 pivots immediately to logistics probing.",
+    "two_layers_deep": "No follow-up depth. Customer raises concern about items getting broken. Rep responds with general reassurance ('our movers are well trained, not daily contracted') but never asks clarifying questions. Moves straight to confirmation of details.",
+    "active_listening_reflection": "No reflection summary. Rep acknowledges the concern ('Mm-hmm') but does not synthesize back to the customer what was heard.",
+    "estimate_anchor": "Rep provides typical range ('between two and a half to three and a half hours') and personalizes to customer's move ('third floor apartment with elevator access to a second floor apartment with elevator access, and since you are moving less stuff'). Gives price range: '$520 to $728.'",
+    "pricing_framing": "Rep discloses: '$208 per hour per two movers,' 'No hidden fees of any type,' 'no credit card fees, no stair fee, no transportation fees, no disassemble and reassembly fees,' '$2.5 hour minimum,' 'prorated in fifteen minute increments' ($52 per 15 min). Full transparency on fees and time structure present.",
+    "feels_fair_then_silence": "Never asked. Rep moves directly from pricing explanation to 'So do you have questions or clarifications about the pricing and how it works?' \u2014 this is a question-invitation, not 'Does that feel fair?' and no silence is held.",
+    "on_time_guarantee_delivered": "Rep fully delivers: 'if we can't make it in the time window that we arrange, we immediately start discounting money of your final bill.' Terms are clear.",
+    "damage_coverage_delivered": "Partial. Rep states: 'we provide up to $2,000 per move to repair, replace or reimburse for accidental damage' and 'all of that is included at no extra cost.' However, rep does NOT explicitly state 'no deductible' or 'no fine print' framing \u2014 only says it's included in the rate.",
+    "closes_the_loop": "No. Rep does not ask 'Does that put those to rest?' or equivalent closing question. Moves from Two Promises directly into time mechanics and then into the ask.",
+    "final_concerns_check": "Not asked. Rep says 'Okay, alrighty, so, will there be anything else?' \u2014 this is a throwaway 'anything else' phrasing, not a genuine 'What's still concerning you about this move?' Rep gets no and ends.",
+    "catch_all_asked": "Not asked. No version of 'Anything coming with you we haven't talked about?' was deployed.",
+    "explicit_ask": "Full. Rep asks: 'Would you like to get on the schedule today for Thursday November 5th?' after customer asks for clarification. No softened out offered \u2014 direct commitment request.",
+    "rate_lock_mentioned": "Yes. Rep states: 'we don't collect deposit, no deposit, no upfront payment... no risk and securing your spot. If something comes up or things change on your end then you can always reschedule with a quick call, no fees for that either.'",
+    "booking_confirmed": "Partial. Confirmed: move date (November 5th), arrival window (8:30\u20139:00 AM), pickup address (unit 301, south building, 109 Jacob pontine lane), dropoff address (unit 2213, Crestview Commons, 801 Sugar Avenue). Missing: crew size (never stated), phone number (asked for email, never re-confirmed phone). Notes for crew about concerns were NOT left in the confirmation."
+  },
+  "top_strength": "Jevic gathered comprehensive logistics details (floor, elevator access, walking distances, special items, room inventory, box count) with clear, organized probing that built an accurate picture for the estimate.",
+  "coaching_note": "Go two layers deep on the customer's initial concern about items getting broken \u2014 ask 'tell me more about that' or 'what happened before' \u2014 instead of giving generic reassurance and pivoting immediately to logistics; also never ask 'Does that feel fair?' after pricing, hold a real silence for the customer to process, and always run a genuine final-concerns check ('What's still concerning you?') before the ask, not just 'anything else.'"
+}

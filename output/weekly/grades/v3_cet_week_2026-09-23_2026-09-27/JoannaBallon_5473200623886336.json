@@ -1,0 +1,35 @@
+{
+  "call_id": "5473200623886336",
+  "rep_name": "Joanna Ballon",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 9.2,
+  "datetime_ct": "2026-09-24 15:00 CT",
+  "external_number": "+18065001700",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 23,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 6,
+  "total_score": 79,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'might need about ten to fifteen minutes to discuss your move... that's fine'",
+    "their_agenda": "Joanna: 'before we start just wanted to check-in if you have any important concerns or instructions for this move that you also want to discuss on this call' \u2014 asked before any logistics probing",
+    "two_layers_deep": "Customer raised TV mounting concern; Joanna followed up: 'We can definitely help you this mount then, but we just cannot mount and mount them on your new home' \u2014 addressed the concern and clarified the boundary",
+    "estimate_anchor": "Joanna: 'for now since we have those additional items...I'll just put you more on the seven and a half to eight and a half hour mark. Which would be an estimated budget of $2,117' \u2014 anchored to typical three-bedroom move, personalized to added beds and distance change",
+    "pricing_framing": "Joanna: '$111 per hour per mover...includes the you guys and the truck, and all the reps to protect your furniture...travel fee of $230...two and a half hour minimum...every fifteen minute increments' \u2014 trip fee and minimum disclosed, 15-min increment framing included",
+    "explicit_ask": "Joanna: 'would you like us to go ahead and help you with this move so we can get you on the schedule already?' \u2014 plain ask, no out"
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details systematically (property type, floors, room count, garage items, parking distance, fragile goods, furniture count) and tied the estimate directly to what the customer actually had to move, making the $2,117 anchor credible and personalized.",
+  "coaching_note": "After the estimate is given, pause and ask 'Does that feel fair?' \u2014 do not skip straight to the explicit ask without checking for price objections first; also in Section 6, ask a genuine 'What's still concerning you about this move?' instead of the throwaway 'Any other questions?' to surface last-minute worries before closing.",
+  "booking_outcome": "booked",
+  "booking_note": "Customer explicitly agreed to the move and confirmed arrival time: 'Yes please' to booking, and 'That'll be fine' to 8:30-9:00 AM on October 3rd"
+}

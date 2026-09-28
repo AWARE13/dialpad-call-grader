@@ -1,0 +1,43 @@
+{
+  "call_id": "6114984576983040",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 11.4,
+  "datetime_ct": "2026-09-26 19:45 CT",
+  "external_number": "+17373462954",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 8,
+  "total_score": 76,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep: 'we just wanted to ask you some information in order for us to give you a prefer quote this would take within the next five to ten minutes of your time. Would that be okay?' \u2014 asked but paced quickly without a clear pause for yes before moving into concerns",
+    "their_agenda": "Rep: 'Do you have any concerns or any important things that you wanted to answer during this call today?' \u2014 asked AFTER rep had already started probing with 'let me check if we have the correct details on file' and location/unit info",
+    "logistics_details_gathered": "Rep covered property type (apartment vs. house), floor/stories (4th floor, 2-story house), number of rooms (3 BR, later 5 BR; kitchen, living room, bathrooms), walking distance (few steps from truck to door, 20-30 steps within unit, ~1-2 min total), special considerations (digital piano, TV, furniture mismatch), access (driveway parking, standard doors, no narrow hallways)",
+    "box_count_asked": "Rep: 'Typical number of boxes based on your home size is 35 to 45 boxes. Do you feel that you fall within that range?' Customer clarified they expect ~10 boxes",
+    "estimate_anchor": "Rep: 'we're coming from a three bedroom apartment located on the fourth floor going to the new location which is like fifteen minutes away... This is a two story house so, we will be sending out three members and one truck estimated time is between 5:00 to six hours. The estimated cost would be $1,890' \u2014 anchored to typical range and personalized to customer's specific move (4th floor, furniture shortfall, 15-min distance)",
+    "pricing_framing": "Rep disclosed hourly rate ($105/mover), included items (gas, truck, taxes, insurance, wraps, tools), no hidden fees (no credit card/stair/reassembly fees), 2.5-hour minimum, 15-minute increments after minimum \u2014 all stated upfront without customer prompting",
+    "feels_fair_then_silence": "Rep never asked 'Does that feel fair?' or equivalent; moved directly from pricing explanation into Two Promises section",
+    "on_time_guarantee_delivered": "Rep: 'we have on time guarantee we value your time. So, if you cannot make it to the time window that we arrange we immediately start discounting money of your final bill.' \u2014 covers discount terms clearly",
+    "damage_coverage_delivered": "Rep: 'we have no worry damage coverage included on the already weight that you're paying us, we will provide up to 2000 dollars from you that is to repair replace and reimburse for your items' \u2014 mentions $2,000 and that it's included, but does NOT explicitly state 'no deductible' or 'no fine print' framing",
+    "closes_the_loop": "Rep did not ask 'Does that put those to rest?' or equivalent; moved directly into 'would you like our help with your move?'",
+    "final_concerns_check": "Rep: 'Alright then, so, thank you so much. Do you still have any other questions before I let you go?' \u2014 standard throwaway 'any questions?' format, not a genuine 'What's still concerning you?' version",
+    "explicit_ask": "Rep: 'I truly believe that we're the best mover in town would you like our help with your move?' \u2014 plain, explicit ask with no built-in out",
+    "rate_lock_mentioned": "Rep: 'upon checking here on the 4th of October we can be able to book her slot as early as 8:30 AM to 9:00 AM, wherein there's no deposit required' \u2014 no-deposit mentioned",
+    "booking_confirmed": "Rep confirmed: date (October 4, Sunday 8:30 AM), price ($1,890 for 6 hours / actual time), crew size (3 members + 1 truck). Did NOT confirm phone number as a repeat back, did NOT confirm both addresses as a summary, did NOT leave notes for crew about customer concerns. Confirmation email promised to go over details but no explicit crew notes about customer's furniture shortfall or concerns."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details across both locations (floors, room counts, walking distances, access, special items) and delivered a fully personalized, anchored estimate ($1,890 for 3 movers + truck, 5\u20136 hours) tied directly to the customer's specific move profile.",
+  "coaching_note": "Add the 'Does that feel fair?' pause after the estimate, skip the throwaway 'any questions?' and use the genuine 'What's still concerning you?' final check instead, and explicitly confirm phone number + both addresses + crew notes about the furniture mismatch during booking."
+}

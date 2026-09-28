@@ -1,0 +1,34 @@
+{
+  "call_id": "6221898585513984",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 7.1,
+  "datetime_ct": "2026-09-25 18:02 CT",
+  "external_number": "+14696135347",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skipped framing entirely \u2014 went straight to 'I have a confirm a couple of pieces of information' with no 10\u201315 minute commitment or 'does that sound good' wait.",
+    "their_agenda": "Never asked. Rep moved directly into logistics probing without asking about concerns or what answers the customer needed.",
+    "estimate_anchor": "Rep gave $210/hr rate and range ($525\u2013$630 for 2.5\u20133 hrs) but did not personalize to this customer's specific move factors. Addressed range when customer questioned it: 'our average hour frame is two and a half to three and a half to move like a full one bedroom apartment' \u2014 generic, not personalized.",
+    "feels_fair_then_silence": "Never asked. After quoting, customer immediately asked 'can you guarantee that range' and rep moved into justification without checking 'Does that feel fair?'",
+    "explicit_ask": "Never asked. Call ended with customer saying 'That's something that we could schedule for in the morning' and rep responding with availability. No explicit ask like 'Would you like our help with your move?' \u2014 the booking was customer-led, not rep-driven."
+  },
+  "top_strength": "Chauntelle gathered discovery details efficiently (studio size, unit numbers, parking, item list, floor info) and corrected her own assumption when the customer clarified it was a studio, not a one-bedroom.",
+  "coaching_note": "Chauntelle skipped the entire opening frame (quid pro quo) and never asked about the customer's concerns or what he needed answered on the call \u2014 she jumped straight into logistics, then pricing, leaving the customer to initiate the close rather than the rep asking for the business explicitly."
+}

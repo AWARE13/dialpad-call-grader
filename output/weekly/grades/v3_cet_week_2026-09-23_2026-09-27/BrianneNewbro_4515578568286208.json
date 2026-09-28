@@ -1,0 +1,41 @@
+{
+  "call_id": "4515578568286208",
+  "rep_name": "Brianne Newbro",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 6.5,
+  "datetime_ct": "2026-09-25 16:57 CT",
+  "external_number": "+13342755235",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never delivered the time-boxed framing ('10 to 15 minutes') or the 'quote you can depend on' promise, nor waited for a yes. Instead: 'do you have any other questions or concerns that you would like answered on this call?' \u2014 which is actually Their Agenda phrasing, asked immediately in Section 1 instead of after framing.",
+    "their_agenda": "Asked as: 'do you have any other questions or concerns that you would like answered on this call?' \u2014 this is correct, but it was asked before any discovery probing, so technically 'asked_before_probing' except it replaced the quid pro quo framing entirely rather than following it.",
+    "discovery_basics": "Name: not asked. Moving day: October 15th (stated by customer). City-to-city: 11020 Hubner Oak, San Antonio to 4114 Medical Drive, San Antonio (both local). Approximate size: '2 bedrooms roughly 700 square feet' per customer estimate (given as context, not directly asked by rep). 3 of 4 elements present.",
+    "estimate_anchor": "Rep gave: 'between the minimum which is our two and a half hours to three and a half hours' \u2014 a time-based range, not a dollar anchor. No personalization to this customer's specific move (one bedroom, minimal items, standing desk, 6 boxes). Partial at best.",
+    "pricing_framing": "Rep mentioned '2.5 hour minimum' and '15 minute increments' \u2014 the commitment framing is there. No explicit mention of trip fee, overnight fee, or packing materials. Fee transparency missing; commitment framing partial. Overall partial.",
+    "feels_fair_then_silence": "Never asked. Rep said 'Okay, sounds good' and moved directly to next section without asking if the estimate feels fair or pausing for customer response.",
+    "on_time_guarantee_delivered": "Never mentioned.",
+    "damage_coverage_delivered": "Never mentioned.",
+    "closes_the_loop": "No Two Promises section exists in this call; rep went straight from estimate to logistics confirmation.",
+    "final_concerns_check": "Rep asked: 'I do not have any more questions for you. Unless you have any more questions for me.' \u2014 this is a throwaway format, not a genuine 'what's still concerning you?' framing.",
+    "catch_all_asked": "Never asked. No equivalent to 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Never asked. Rep said 'I'll go ahead and send you this email' and moved to close without asking 'Would you like our help with your move?'"
+  },
+  "top_strength": "Excellent detail-gathering on logistics: the rep systematically confirmed both addresses, unit numbers, floor/stair access, fragile items (standing desk, PC, monitor), arrival time constraint (2 PM), and box count estimate despite a time-pressured customer.",
+  "coaching_note": "This call skipped the foundational Section 1 quid pro quo entirely and never moved into pricing, Two Promises, or an explicit ask \u2014 it functioned as a confirmation/logistics call rather than a sales call; reorient to the script flow: open with availability + time framing + promise, discover concerns, probe details, anchor and personalize an estimate, deliver the two promises, confirm the booking, and close with an explicit ask."
+}

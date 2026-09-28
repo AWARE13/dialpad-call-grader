@@ -1,0 +1,40 @@
+{
+  "call_id": "6509548919103488",
+  "rep_name": "Zhang Pammit",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 5.3,
+  "datetime_ct": "2026-09-24 15:18 CT",
+  "external_number": "+19495105036",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never frames the 10\u201315 minute time-box or asks for permission to proceed; jumps directly into verification: 'So you have booked your move online, is that correct?'",
+    "their_agenda": "Never asked. Rep moves directly into logistics probing without soliciting customer concerns or priorities.",
+    "estimate_anchor": "Rep provides estimate ('$1,212') and mentions it's time-based with a 5\u20136 hour window, but does not anchor to typical range for this home size or personalize to customer circumstances beyond the move type.",
+    "pricing_framing": "Rep mentions 'timely based' and hourly structure but does NOT disclose trip fee, overnight fee, packing materials upfront, nor does she frame the 2.5-hour minimum or 15-minute increments commitment.",
+    "feels_fair_then_silence": "Never asked. Rep provides estimate and immediately pivots to logistics and confirmation without gauging customer reaction or holding silence.",
+    "on_time_guarantee": "Not mentioned at all.",
+    "damage_coverage": "Not mentioned at all.",
+    "final_concerns_check": "Never asked. Rep closes with 'Thank you and have a great day then' with no version of 'What's still concerning you?' or even 'Any questions?'",
+    "explicit_ask": "Never asked. Rep never says 'Would you like our help with your move?' or any variant. Assumes booking is confirmed and closes."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details (both addresses, unit numbers, floor levels, walk distances, large items, special considerations, and box count) with clarity and accuracy, creating a solid foundation for the estimate.",
+  "coaching_note": "This call skipped the core consultative structure entirely \u2014 no quid pro quo framing, no discovery of customer concerns, no Two Promises, no genuine close \u2014 treating it as a verification call rather than a sales call; retrain on the Section 1 open and the ask-for-business discipline in Section 7.",
+  "booking_outcome": "booked",
+  "booking_note": "Move explicitly confirmed for Monday the 28th with time window (5-6 hours), cost ($1,212), and team details (2 movers, 1 truck) locked in. Customer confirmed details and said 'sounds good.'"
+}

@@ -1,0 +1,41 @@
+{
+  "call_id": "5105999048646656",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 15.7,
+  "datetime_ct": "2026-09-26 19:49 CT",
+  "external_number": "+12106183727",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 6,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'I only have one spot left so I'll just need to answer a few questions about your move. Might take about ten to fifteen minutes if this is a good time.' \u2014 time-boxed but no explicit promise of a dependable quote or formal wait for yes.",
+    "discovery_basics": "Name (Zach Rodriguez), moving day (Monday the 29th), zip codes (78257 to 78258), apartment size (1100 sq ft, two bedroom). All four covered.",
+    "their_agenda": "Joanna: 'Do you have any important instructions, concerns about this move that you want us to take note of us of this time?' \u2014 asked, but only after extensive logistics probing (box count, floor, parking distance, stairs, etc.) had already started.",
+    "two_layers_deep": "Customer raised insurance/breakage concern; Joanna followed with 'What's your, in your insurance policy? Like breakage, that kind of thing.' She then provided detailed two-layer explanation of damage coverage ($2,000, no deductible, included in rate). Concern was thoroughly explored.",
+    "estimate_anchor": "Joanna: 'Usually those can take three and a half to five and a half hours to complete... I can just quote your move more than the five to seven hour mark. So, if the guys will be able to finish everything within five hours, there's an estimated budget of $1,080 including the travel fee already. If it goes up to seven hours it's $1,464...' \u2014 range provided and personalized to stairs + potential packing.",
+    "pricing_framing": "Trip fee ($70), packing supplies ($50 if needed), hourly rate ($96/mover, $192 for two), 2.5-hour minimum, 15-minute increments all disclosed. No deposit mentioned; payment upon completion. Transparent framing present.",
+    "feels_fair_then_silence": "No version of 'Does that feel fair?' or similar pause-check was asked after the pricing estimate.",
+    "on_time_guarantee": "Joanna: 'And lastly on time guarantee if we run late on the time we schedule we provide discounts by the end of the day. Again no hidden fees of any type...' \u2014 discount framing for lateness mentioned.",
+    "damage_coverage": "Joanna: 'With us, we also include our no worries damage coverage. Which would give you up to $2,000 coverage for any repair, replacement reimbursement for any accidental damages, you don't have to pay extra for that, that's already part of our service...' \u2014 full delivery with no-deductible and built-in framing.",
+    "closes_the_loop": "No closing question like 'Does that put those to rest?' was asked. Section 5 commitments were explained but not explicitly confirmed as resolved.",
+    "final_concerns_check": "Joanna: 'And what else? I think that's pretty much it.' \u2014 throwaway closing, no genuine 'What's still concerning you?' version asked.",
+    "explicit_ask": "Joanna: 'Now if that's the case, would you like our help for this move on Monday?' \u2014 plainly asked without a built-in out.",
+    "rate_lock": "No mention of rate lock or guarantee of quoted price stability.",
+    "booking_confirmed": "Date (Monday), arrival window (9:00 AM), addresses (25051 W Interstate 10 + 1207 Brooke Crow), apartment number (6310) confirmed. Crew size (2 movers) mentioned in pricing but not explicitly re-confirmed at booking. Phone number not re-confirmed at close. Concerns about stairs and packing noted but not explicitly logged as crew notes."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details (property type, floor, walking distances, parking, stairs, boxes, special items) and delivered full pricing transparency with a personalized estimate range that accounted for the stairs and packing variables.",
+  "coaching_note": "Ask 'Does that feel fair?' after the estimate and hold the silence \u2014 and return to a genuine 'What's still concerning you?' final check before asking for the business instead of the empty 'I think that's pretty much it' close."
+}

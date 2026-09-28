@@ -1,0 +1,41 @@
+{
+  "call_id": "5551501594632192",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 16.1,
+  "datetime_ct": "2026-09-25 18:07 CT",
+  "external_number": "+12485041584",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never delivered the 'availability within your timeframe + 10-15 minutes + dependable quote' framing or waited for customer agreement before proceeding.",
+    "their_agenda": "Rep never asked 'Other than price, what are your biggest concerns about this move?' \u2014 jumped directly into logistics probing.",
+    "two_layers_deep": "Customer raised several concerns (large sideboard weight, garage shelving reassembly preference, uncertain box count, parking/gate access) but rep acknowledged with one-line responses (e.g., 'Okay, so sideboard with removable stone top') and moved on; no 'tell me more about that' follow-up.",
+    "estimate_anchor": "Rep gave hourly rate ($208/hr for 2 movers) and estimated 6.5 hours = $1,144, but did NOT anchor to typical range for a 1-bedroom move or personalize to customer's specific concerns (customer will help load, has resale furniture, wants shelving kept assembled). No 'typical range' framing present.",
+    "pricing_framing": "Rep disclosed hourly rate and trip/service structure only in response to customer's direct question; no upfront trip fee, overnight fee, materials fee, or '2.5-hour minimum' / '15-minute increments' commitment language used.",
+    "feels_fair_then_silence": "Never asked. Rep moved directly from price quote to 'would you like to go ahead and schedule?'",
+    "on_time_guarantee_delivered": "Not mentioned.",
+    "damage_coverage_delivered": "Not mentioned.",
+    "closes_the_loop": "No Two Promises section delivered at all.",
+    "final_concerns_check": "Rep asked 'will there be anything else that I can help?' \u2014 empty throwaway closing, not 'What's still concerning you about this move?'",
+    "catch_all_asked": "No 'Anything coming with you we haven't talked about?' asked.",
+    "explicit_ask": "Rep never said 'Would you like our help with your move?' or equivalent. Customer initiated booking; rep responded to request rather than asking for the business."
+  },
+  "top_strength": "Excellent logistics discovery \u2014 gathered property type, floor layout, detailed furniture inventory, garage contents, box count, arrival address, parking constraints, and gate code; created a comprehensive picture of the move scope.",
+  "coaching_note": "This call skipped the entire sales script \u2014 no quid pro quo, no concerns discovery, no Two Promises, no genuine ask for the business, and no final concerns check. Jevic accepted the existing customer's quick request but abandoned all seven-section structure; rebuild from Section 1's framing on every call, even returning customers."
+}

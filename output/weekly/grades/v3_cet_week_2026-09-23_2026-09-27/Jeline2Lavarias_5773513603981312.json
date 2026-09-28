@@ -1,0 +1,42 @@
+{
+  "call_id": "5773513603981312",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 5.7,
+  "datetime_ct": "2026-09-23 22:13 CT",
+  "external_number": "+15126393916",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 32,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never frames the call length, quote dependability, or asks for confirmation before proceeding.",
+    "their_agenda": "Rep never asks about concerns or what customer wants answered on the call. Jumps directly into confirming previous details.",
+    "two_layers_deep": "No concerns raised by customer, N/A.",
+    "active_listening_reflection": "No concerns raised by customer, N/A.",
+    "estimate_anchor": "Rep gives range ($480-$576) and mentions it's based on prior move history, but no personalization to this specific customer's concerns or situation. States '2.5 hour minimum' and '15 minute increments' but no upfront disclosure of additional fees (no mention of trip fee, overnight, materials if applicable).",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' Customer responds 'Okay, good' but rep does not pause for real reflection; instead moves directly to scheduling.",
+    "on_time_guarantee": "Not mentioned at all.",
+    "damage_coverage": "Not mentioned at all.",
+    "explicit_ask": "Rep never asks 'Would you like our help with your move?' Instead, rep assumes the booking and moves straight to 'Should I schedule you on October 6th?' \u2014 this is not an explicit ask.",
+    "final_concerns_check": "Rep does not ask 'What's still concerning you?' or equivalent. Only says 'if you have any more questions or concerns, feel free to reply to that email' after the call is effectively closed.",
+    "catch_all_asked": "Not asked."
+  },
+  "top_strength": "Rep efficiently leveraged existing customer history and prior move details to establish trust and speed the process, positioning this as a straightforward reverse of a known move.",
+  "coaching_note": "This call skipped every major commitment moment from the script \u2014 no quid pro quo framing at the top, no concerns discovery, no Two Promises section, no explicit ask for the business, and no final concerns check; rep must follow the card section-by-section, not skip to scheduling on familiarity alone.",
+  "booking_outcome": "booked",
+  "booking_note": "Customer explicitly confirmed October 6th with arrival window 8:30 AM - 9:00 AM: 'Should I schedule you on October 6th Tuesday 8:30 AM to 9:00 AM is the arrival window' with customer responding 'Okay, beautiful.'"
+}

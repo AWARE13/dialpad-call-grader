@@ -1,0 +1,36 @@
+{
+  "call_id": "5660435579183104",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 6.8,
+  "datetime_ct": "2026-09-24 18:26 CT",
+  "external_number": "+17577639230",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep jumps straight into availability check without framing time box or dependable quote promise: 'Yeah, we actually do have available on October 1st.'",
+    "their_agenda": "Never asked. Rep moves directly into logistics probing after initial availability confirmation.",
+    "estimate_anchor": "Rep gives hourly rate ($204/hour for two movers) but does not anchor to a typical range for a 2,400 sq ft home or personalize beyond the rate itself. Customer initiates estimate discussion ('I'm thinking $6,700 somewhere') and rep partially corrects upward mentioning 'five to seven hours' for 'three bedroom apartment,' but this is reactive, not proactively anchored.",
+    "feels_fair_then_silence": "Not asked. Rep states the rate and moves on without asking if it feels fair or pausing for customer reaction.",
+    "explicit_ask": "Never asked. Call ends with customer saying 'I'll probably give you a call back once I determine' and rep saying 'Sounds good. Thank you bye-bye.' Rep never asks 'Would you like our help with your move?' or equivalent explicit close."
+  },
+  "top_strength": "Jules gathered all four discovery basics (name/address, move date, route, size) cleanly and efficiently in Section 1, establishing a clear starting point for the estimate.",
+  "coaching_note": "You skipped the entire opening value frame (no 10\u201315 minute time-box or dependable quote promise), never asked about concerns or agenda, gave no anchored range estimate, and ended without an explicit ask for the business \u2014 this read as a partial inquiry call, not a full sales call. Return to the script: open with your quid pro quo, probe Their Concerns deeply, anchor and personalize your estimate, and close with a direct 'Would you like our help?'",
+  "booking_outcome": "not_booked",
+  "booking_note": "Customer did not commit to booking. They said 'I will call that right back once I talk to her and make sure that's good' and 'I'll probably give you a call back once I determine what we think is gonna work best' - explicitly stating they need to confirm with someone else before committing."
+}

@@ -1,0 +1,36 @@
+{
+  "call_id": "6143761935015936",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 5.7,
+  "datetime_ct": "2026-09-23 15:58 CT",
+  "external_number": "+14692618266",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 65,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never delivered the time-boxed ask or promise of a dependable quote. Jumped straight to account verification.",
+    "discovery_basics": "Rep confirmed: email (nichols.ryan@gmail.com), address (4605 Lister Drive), property type and size (1900 sq ft townhome). Never asked moving day, destination city, or confirmed these details were for the move date/route.",
+    "walkthrough_branch": "Rep correctly identified 1900 sq ft (exceeds 1,800 sq ft threshold) and routed to 'specialist' / virtual walkthrough instead of quoting on call. Clean handoff implied but not explicit.",
+    "their_agenda": "Never asked. Rep moved directly from account verification into the routing without discovering customer concerns.",
+    "estimate_anchor": "N/A \u2014 walkthrough_scheduler call, no pricing given.",
+    "explicit_ask": "N/A \u2014 walkthrough_scheduler call, no ask for business."
+  },
+  "top_strength": "Rep correctly identified the large move (1,900 sq ft) and properly routed to a specialist/walkthrough instead of attempting to quote on the call.",
+  "coaching_note": "Before routing: deliver the quid pro quo framing ('takes 10\u201315 minutes, you'll get a quote you can depend on'), ask their agenda / key concerns about the move, and confirm moving day and destination city \u2014 all three would surface key details even for a walkthrough-routed call and prevent the customer feeling rushed off the phone.",
+  "booking_outcome": "walkthrough_scheduled",
+  "booking_note": "Agent transfers customer to a specialist for an in-home estimate: 'let me get you on over to that specialist so we can get you all settled away.'"
+}

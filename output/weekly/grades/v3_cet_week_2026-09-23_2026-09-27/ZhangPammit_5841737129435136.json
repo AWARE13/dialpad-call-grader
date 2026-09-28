@@ -1,0 +1,41 @@
+{
+  "call_id": "5841737129435136",
+  "rep_name": "Zhang Pammit",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 14.9,
+  "datetime_ct": "2026-09-23 17:02 CT",
+  "external_number": "+17087690386",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep: 'this would take within the next five to ten minutes of your time so we can build you an accurate code. You can depend on, sounds good.' \u2014 framing present (time-boxed + dependable quote promise) but rushed; rep did not genuinely wait for a yes before moving into discovery.",
+    "their_agenda": "Rep: 'Do you have any biggest concerns or any important things that you wanted to answer during this call today?' \u2014 asked, but only after already probing moving day and property type in Section 1.",
+    "two_layers_deep": "Customer raised TV transport concern. Rep: 'Mm-hmm of course, no worries. We'll take note of that.' \u2014 no follow-up probe or 'tell me more about that'; rep moved immediately to collecting contact info instead.",
+    "active_listening_reflection": "No summary reflection at any point. Rep acknowledged the TV concern in passing but never reflected back what was heard or asked 'Did I get all of it?'",
+    "estimate_anchor": "Rep: 'Estimated time is between three to four hours. The estimated cost would be $963 if they end up four hours, if they end up twenty and a half hours, then that would be $630.' \u2014 range given AND personalized to the three-stop move (apartment \u2192 friend's place \u2192 storage) with noted logistics (elevators, stairs, distances). Full anchor present.",
+    "pricing_framing": "Rep disclosed trip fee ($75, one-time), hourly rate ($111/mover), minimum (2.5 hours), and 15-minute increment structure. Also explained no hidden fees and the Two Promises (damage coverage $2,000, On-Time Guarantee). Full framing present.",
+    "feels_fair_then_silence": "Never asked. After giving the estimate range ($630\u2013$963), customer immediately said 'I spoke with someone earlier... that's just way price here than... what I've gotten from other comp.' Rep responded 'Oh, okay, no worries. If you find a better rate it's be to take advantage of it.' \u2014 no 'Does that feel fair?' checkpoint.",
+    "on_time_guarantee_delivered": "Rep: 'we have on time guarantee we value your time. So, if you cannot make it to the time window that we arrange we immediately start discounting money of your final bill.' \u2014 discount terms fully explained.",
+    "damage_coverage_delivered": "Rep: 'we have no worry damage coverage included on the early weight that you're playing us, we will provide up to 2000 dollars per move that is to repair, replace and members for your items.' \u2014 $2,000 coverage and 'included' (built into rate) stated, but the explicit 'no deductible / no fine print' framing is absent.",
+    "closes_the_loop": "No explicit close. Rep moved directly to the price and customer pushed back on cost; rep never asked 'Does that put those to rest?' or circled back to confirm the Two Promises resolved the earlier TV/packing concerns.",
+    "final_concerns_check": "Not asked. After price objection, rep offered to email the quote; call ended without any 'What's still concerning you?' or 'Anything else we haven't talked about?' checkpoint.",
+    "explicit_ask": "Never asked. Rep offered to send an email quote ('do you still want me to send you the email quotation by any chance?') but never asked 'Would you like our help with your move?' \u2014 the explicit ask was replaced with a fallback to email delivery."
+  },
+  "top_strength": "Rep gathered comprehensive logistics across three stops (origin, intermediate, destination) with excellent detail on floor levels, elevators, stairs, walking distances, special items, and storage dimensions \u2014 Section 3 probing was thorough and well-sequenced.",
+  "coaching_note": "Never ask 'Does that feel fair?' after pricing and never attempt an explicit 'Would you like our help?' close \u2014 when the customer objected on price, rep conceded and offered email instead of holding the line or addressing the objection directly.",
+  "booking_outcome": "not_booked",
+  "booking_note": "Customer explicitly declined due to price: 'that's just way price here than, like, what I've gotten from other comp. So well, I appreciate the time and the quote it's just more pricey than I'm able to spend right now.'"
+}

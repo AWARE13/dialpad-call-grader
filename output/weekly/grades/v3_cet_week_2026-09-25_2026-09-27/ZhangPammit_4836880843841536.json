@@ -1,0 +1,40 @@
+{
+  "call_id": "4836880843841536",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 9.0,
+  "datetime_ct": "2026-09-25 18:58 CT",
+  "external_number": "+12812104906",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 3,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 42,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'This should take within the next five to ten minutes of your time so we can build you an accurate code you can depend on. Sounds good.' \u2014 frames time and value promise, but does not pause for explicit yes before moving forward; asks 'Sounds good' and immediately transitions to 'So let's talk about Jeremy' without confirming agreement.",
+    "their_agenda": "Rep asks 'What are your biggest concerns or are there any important things that you wanted to answer during this call today?' but this is asked AFTER the rep has already stated 'we will ask you a few questions to get us on the right track,' positioning it as secondary. More critically, the rep has already begun requesting personal information (name, contact, email) in the preceding exchange, so probing has already started when this is asked.",
+    "two_layers_deep": "Customer says 'All, all I need is like two dressers and a bed moved and then little thing and boxes is close. That's it.' Rep responds 'Okay. No worries we'll go ahead and gather details then...' \u2014 no follow-up questions, no 'tell me more about that,' no second layer. The concern (that the move is simple, just a few items) is acknowledged but not explored.",
+    "active_listening_reflection": "No reflection back to customer. Rep gathers information but never summarizes what was heard or confirms understanding with customer.",
+    "estimate_anchor": "Rep provides hourly rate ($102/hour) and trip fee ($140) and explains what's included, but does NOT anchor to a typical range for this home size (730 sq ft, 1-bed apartment, ~10 boxes, 2-3 items). No estimate total or bracket given; no personalization to this customer's specific move profile (short distance, minimal items, no special considerations).",
+    "pricing_framing": "Rep covers trip fee ($140) upfront and explains what's included in the hourly rate, mentions 2.5-hour minimum and 15-minute increments: 'The time will only start as soon as we get on site and open the contract for you will then have us first as long as you need this and for any move, we have a minimum of two and a half hours once you go over that it will always be prorated to fifteen minute increments.' However, no mention of the 'not a guess' framing or commitment language; fee transparency is present but incomplete.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or any equivalent. Rep says 'Does that make sense?' (about how the clock works) and customer agrees, but rep does not ask for reaction to the pricing itself and does not hold silence for a response.",
+    "on_time_guarantee_delivered": "Rep states: 'we have on time guarantee we value your time. So, if you cannot make it to the time window that we arrange, we immediately start discounting money of your final bill.' Covers discount terms clearly and completely.",
+    "damage_coverage_delivered": "Rep states: 'we have no worry, damage coverage included on the R-D. Weight that you're paying us. We will provide up to 2000 dollars per move that is to repair, replace and reimburse for your items.' Covers the $2,000 limit and 'included' framing, but does NOT explicitly state 'no deductible' or 'no fine print' \u2014 says coverage is 'included on the rate' but omits the no-deductible clarity.",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or equivalent. The Two Promises section ends abruptly with the rep pivoting directly into 'And the best part is that there's no hidden fees...' without confirming the customer's reaction to the promises.",
+    "final_concerns_check": "Rep does not ask any version of 'What's still concerning you?' or 'any remaining concerns?' before moving to close. The call jumps from pricing explanation directly to 'Would you like me to send you the email quotation?'",
+    "catch_all_asked": "No \u2014 rep never asks 'Anything coming with you we haven't talked about?' or similar catch-all.",
+    "explicit_ask": "Rep says 'Would you like me to send you the email quotation any chance?' \u2014 this is NOT an explicit ask for the business ('Would you like our help with your move?'). The phrasing 'send you the email quotation' is also a soft out (offering to email without committing). Customer says 'I typed it down, I'm just getting quotes right now. Thank you though.' and the call ends. No business was asked for."
+  },
+  "top_strength": "Rep executed thorough and systematic logistics probing (property type, floor, unit number, walking distances, special items, fragile items, box count, destination property details and access) and delivered clear pricing transparency with a complete breakdown of what's included, trip fees, and the Two Promises (on-time guarantee and damage coverage).",
+  "coaching_note": "The call lost the customer at the close: no final concerns check, no explicit ask for the business (only a soft 'send you the quote' offer), and no booking confirmation \u2014 customer ended the call in the exploration phase without committing, and the rep never attempted to move them forward with a clear ask."
+}

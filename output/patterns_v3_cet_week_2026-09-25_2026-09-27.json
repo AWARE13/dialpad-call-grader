@@ -1,0 +1,30 @@
+{
+  "rubric_version": "v3-section-map",
+  "week_start": "2026-09-25",
+  "week_end": "2026-09-27",
+  "total_calls_pulled": 94,
+  "total_graded": 85,
+  "total_skipped": 8,
+  "total_failed": 1,
+  "company_avg_score": 59.8,
+  "company_median_score": 59,
+  "pass_rate_pct": 9.4,
+  "per_rep_avg_score": {
+    "Danah 2Celestial": 71,
+    "Joanna Ballon": 63.3,
+    "Brianne Newbro": 63,
+    "Zhang Pammit": 62.6,
+    "Nicole Tolete": 62.3,
+    "Jevic Lazanas": 57,
+    "Arden 2Asilo": 53.8,
+    "Chauntelle Shivers": 47.8,
+    "Calvin Hughes": 46
+  },
+  "failed_calls": [
+    {
+      "call_id": "5897062365569024",
+      "rep_name": "Zhang Pammit",
+      "error": "Expecting ',' delimiter: line 60 column 34 (char 6458)"
+    }
+  ]
+}

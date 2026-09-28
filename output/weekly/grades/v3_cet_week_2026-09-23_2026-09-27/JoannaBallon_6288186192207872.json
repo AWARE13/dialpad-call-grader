@@ -1,0 +1,43 @@
+{
+  "call_id": "6288186192207872",
+  "rep_name": "Joanna Ballon",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 6.2,
+  "datetime_ct": "2026-09-27 21:23 CT",
+  "external_number": "+18065597716",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'I just need fifteen minutes to discuss that move with you' but does not frame the time-boxed ask + promise of a dependable quote, and does not wait for customer confirmation before moving to probing.",
+    "their_agenda": "Rep asks 'aside from that and the pricing, do you have any important concerns or instructions for this move?' but this is asked after initial logistics probing has already begun (addresses, dates confirmed in the flow before this).",
+    "two_layers_deep": "Customer raises concern about parking/truck placement and having items already packed. Rep acknowledges with 'Mm-hmm' but does not ask follow-up questions like 'tell me more about that' to probe deeper into the parking constraint or its impact on the move.",
+    "active_listening_reflection": "No summary reflection. Rep does not say 'So what I'm hearing is...' to confirm the customer's concerns back to them.",
+    "logistics_details_gathered": "Gathered: property type (one-story home), destination floor (4th floor with elevator), box count (~25), and walking distance estimate (100 feet). Missing or unclear: number of rooms, additional rooms, special considerations beyond what's stated, whether there are additional stops. Partial coverage.",
+    "box_count_asked": "Rep asks 'how many boxes are we looking at? Just an estimate would be fine in total $15 to twenty' and customer responds '25'.",
+    "estimate_anchor": "Rep gives hourly rate ($100/hour per mover, $200/hour for two men) and a specific estimate ('4 to 6 hour job. Which is an estimated budget of $2,064 including the travel fee'), but does not personalize it to the customer's stated concerns (parking complexity, items already packed) or prep level.",
+    "pricing_framing": "Rep discloses trip fee ($864), explains 2.5-hour minimum, and states 'we start the clock once we arrive at your pickup location.' Mentions all inclusions. Full delivery of fee transparency and minimum framing.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or any variant. After quoting $2,064, customer immediately says 'Yeah, that's more than what I'm looking for this moment, so I'm not gonna afford' \u2014 rep acknowledges but does not ask the open-ended fairness check first.",
+    "on_time_guarantee_delivered": "Rep states 'on time guarantee. If we run late, we provide discounts by the end of the day.' Covers the discount terms in recognizable form.",
+    "damage_coverage_delivered": "Rep mentions 'no worries damage coverage which would give you up to $2,000 coverage for any accidental damages' but omits the 'no deductible / no fine print' framing and does not explicitly confirm it is built into the rate, not an add-on.",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or a recognizable variant after covering the two promises. No loop closure.",
+    "final_concerns_check": "Rep never asks 'What's still concerning you about this move?' or any genuine final concerns check before attempting the ask.",
+    "explicit_ask": "Rep never asks 'Would you like our help with your move?' or any recognizable explicit ask. Call ends with customer declining the price and rep saying 'but of course if anything changes just let us know, okay?' \u2014 no ask attempted.",
+    "rate_lock_mentioned": "Not mentioned.",
+    "booking_confirmed": "No booking details confirmed. Call does not reach a point where date, phone, arrival window, crew size, addresses, or crew notes are solidified because no ask was made and no close was attempted."
+  },
+  "top_strength": "Joanna gathered all four discovery basics (name, move date, route, approximate size) efficiently and communicated the full pricing structure with transparency on fees, minimums, and inclusions.",
+  "coaching_note": "The quid pro quo framing and wait for customer buy-in is missing entirely \u2014 jump straight into logistics probing; add an explicit ask for the business before letting price objections end the call, and dig deeper when customers raise concerns (parking, packing status) rather than acknowledging with silence."
+}

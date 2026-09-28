@@ -1,0 +1,39 @@
+{
+  "call_id": "6416555562278912",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 14.9,
+  "datetime_ct": "2026-09-24 14:01 CT",
+  "external_number": "+12399194272",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 14,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never frames the 10\u201315 minute call or asks for agreement before proceeding; jumps directly to asking about moving day.",
+    "their_agenda": "Never asked. Rep moves straight to logistics (address, date) without asking 'Other than price, what are your biggest concerns about this move?'",
+    "estimate_anchor": "Full range given with personalization: 'I would just budget anywhere from like a five to seven hour day... For example, it took us five hours. The cost is $1,000 $1.02102 million, in case it'll take us a whole day, like a seven hour day, it's gonna be $1,428 plus the cost for the packing materials.'",
+    "pricing_framing": "Hourly rate disclosed ($204/hour, gas/truck/taxes/insurance included), and tools/blankets mentioned, but no explicit 2.5-hour minimum commitment framing or 15-minute-increments language; no trip/overnight fees mentioned.",
+    "feels_fair_then_silence": "Not asked. Rep provides pricing and immediately says 'Do you have any questions about that?' \u2014 no 'Does that feel fair?' and no silence held.",
+    "on_time_guarantee": "Not delivered. No mention of on-time discount guarantee at all.",
+    "damage_coverage": "Not delivered. No mention of $2,000 no-deductible coverage.",
+    "explicit_ask": "Never asked 'Would you like our help with your move?' Rep allows customer to lead into booking logistics organically without a clear close."
+  },
+  "top_strength": "Jules gathered detailed logistics and special considerations (elevator availability, furniture types, packing needs for clothing/dishes, floor levels, bedroom count) methodically and confirmed all key details for the move.",
+  "coaching_note": "Start every call with the quid pro quo framing (10\u201315 minutes, quote you can depend on, wait for yes), ask the customer's biggest concerns before any probing, deliver both the On-Time Guarantee and No Worries Damage Coverage in Section 5, and close with an explicit 'Would you like our help with your move?' before booking confirmation.",
+  "booking_outcome": "booked",
+  "booking_note": "Customer explicitly confirmed the move for Wednesday, September 30th with time window 8:30-9:00 AM. Jules stated: 'we're going to be arriving around 8:30 to nine in the morning' and Angela agreed: 'we're all set for this next Wednesday.'"
+}

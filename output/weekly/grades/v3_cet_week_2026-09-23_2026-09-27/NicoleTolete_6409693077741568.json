@@ -1,0 +1,43 @@
+{
+  "call_id": "6409693077741568",
+  "rep_name": "Nicole Tolete",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 9.5,
+  "datetime_ct": "2026-09-25 17:13 CT",
+  "external_number": "+19567396254",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 30,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 5,
+  "total_score": 85,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "This call will just take around ten to fifteen minutes then I will be able to build you an accurate code you can depend on would that work for you. \u2014 Yes. (framing present, wait for yes)",
+    "their_agenda": "I'd like to ask first what are your biggest concerns and what are the most important things you want answers to on this call today? (asked before any logistics probing)",
+    "two_layers_deep": "Customer said 'I just wanted to get like a rough estimate of how much it would be.' Rep acknowledged but moved directly into logistics with no follow-up dig. N/A applied because customer raised only one stated concern and rep moved to logistics immediately rather than layering. No true concern-driven conversation ensued.",
+    "logistics_details_gathered": "Property type (apartment), floor (second floor, third floor destination), bedrooms (1), walking distances (10-15 ft to stairs, 5 ft to door at origin; 5-10 ft at destination), no additional rooms/storage, special items (75-inch TV, no appliances, no heavy items). All seven logistics items covered.",
+    "estimate_anchor": "For a typical one bedroom apartment it usually takes around two and a half to three and a half hours... Since you're moving from a second floor apartment to a third floor apartment both with staircase access, I will estimate this move to take around three and a half to four and a half hours... it's good to budget around $672 to $864. (range + personalization to staircase access)",
+    "pricing_framing": "$192 per hour for two movers and one truck. Everything included in the hourly rate, like the fuel and truck taxes, insurance, all wrap pads and bans... There's no hidden fees of any type... Our minimum is two and a half hours. Once we go over the minimum the time is per rated in fifteen minute increments. (both fee transparency and commitment framing present)",
+    "feels_fair_then_silence": "Not asked. Rep moves from estimate directly to 'Does everything make sense so far?' and then asks about booking.",
+    "on_time_guarantee_delivered": "if we cannot make it in the time window that we arrange, we immediately start discounting money of your final bill and the way the clock work is the time start as soon as we get on site and open the contract... (discount terms clearly stated)",
+    "damage_coverage_delivered": "we have no worries, damage coverage. We provide up to $2,000 per move to repair, replace or reimburse for any accidental damages. (coverage amount and reimburse framing present; does not explicitly state 'no deductible/no fine print' but says '$2,000 per move' without qualifier)",
+    "closes_the_loop": "No closing question like 'Does that put those to rest?' asked. Moves from two promises directly to booking ask.",
+    "final_concerns_check": "Do you have any questions or anything for me? (throwaway phrasing, not genuine 'what's still concerning you')",
+    "catch_all_asked": "Not asked. No 'Anything coming with you we haven't talked about?' variant.",
+    "explicit_ask": "would you like our help with your move? (asked plainly, but then immediately followed by) If you could send me an email and for the quote, please. (rep accepts email-only response, built-in out)",
+    "booking_confirmed": "Email confirmed (roses.angelica865@gmail.com). Move date not re-confirmed at close. No phone number re-confirmed, no arrival window discussed, no crew size confirmed, no destination address re-confirmed, no notes left for crew about concerns. Only email address and callback mention."
+  },
+  "top_strength": "Nicole gathered comprehensive logistics details methodically (property type, floors, distances, square footage, special items, box count) and delivered a fully personalized estimate anchored to the customer's specific staircase-access scenario, building clear confidence in the pricing.",
+  "coaching_note": "After pricing is delivered, pause and ask 'Does that feel fair?' \u2014 wait for the customer's genuine reaction before moving forward; this gap (and the throwaway final-concerns check) cost momentum at the close."
+}

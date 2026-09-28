@@ -1,0 +1,35 @@
+{
+  "call_id": "6413949968359424",
+  "rep_name": "Nicole Tolete",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 11.3,
+  "datetime_ct": "2026-09-23 19:32 CT",
+  "external_number": "+12624087991",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 30,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 8,
+  "total_score": 84,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "I'd like to ask first what are your biggest concerns and what are the most important things you want answers to on this call today?",
+    "two_layers_deep": "Customer did not raise any concerns \u2014 they answered questions about dates and logistics. No follow-up gaps to score.",
+    "estimate_anchor": "For a typical one bedroom apartment it usually takes around two and a half to three and a half hours... In your case... I will estimate this move to take around four to five hours with two movers and one truck. And it's good to budget around $963 to $1,185.",
+    "explicit_ask": "Would you like our help with your move?"
+  },
+  "top_strength": "Nicole methodically gathered complete logistics details (floors, distances, elevator access, appliances, TV sizes, box counts) and delivered a transparent, itemized pricing explanation with all fees and guarantees upfront.",
+  "coaching_note": "After the customer expressed hesitation on price and chose to shop around, Nicole never asked 'Does that feel fair?' or paused for reaction, and she skipped the final genuine-concerns check ('What's still concerning you?') \u2014 both gaps that could have surfaced and addressed the price objection before the customer walked.",
+  "booking_outcome": "not_booked",
+  "booking_note": "Customer declined to book, stating 'The price is a little higher than I was thinking. I'd like to hear a few other quotes and get back to you on that.'"
+}

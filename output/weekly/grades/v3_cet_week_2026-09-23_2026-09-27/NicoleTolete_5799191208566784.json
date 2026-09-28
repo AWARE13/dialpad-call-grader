@@ -1,0 +1,35 @@
+{
+  "call_id": "5799191208566784",
+  "rep_name": "Nicole Tolete",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 6.1,
+  "datetime_ct": "2026-09-24 19:56 CT",
+  "external_number": "+12566127791",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 8,
+  "section2_their_concerns": 8,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 8,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "And I'd like to ask first what are your biggest concerns and what are the most important things you want answers to on this call today?",
+    "two_layers_deep": "Trevor says 'I'm not entirely sure about the placement and all that stuff yet' \u2014 Nicole responds 'Okay' and 'Awesome' with no follow-up probe.",
+    "estimate_anchor": "For this eight foot pod, is it completely full? ... we charge $200 per hour for two movers ... two and a half hour it's good to budget $500",
+    "explicit_ask": "And would you like our help with your move?",
+    "feels_fair_then_silence": "No 'Does that feel fair?' asked; Nicole launches directly into availability and booking without confirming the customer's comfort with the estimate.",
+    "final_concerns_check": "Do you have any questions or anything for me before I let you go? \u2014 standard throwaway phrasing, not the genuine 'What's still concerning you?' form."
+  },
+  "top_strength": "Nicole delivered a clear, anchored estimate ($500 for 2.5 hours at $200/hr) and disclosed all fee structure and perks (On-Time Guarantee, No Worries Damage Coverage, Meet Your Mover) upfront without the customer asking.",
+  "coaching_note": "When Trevor raised placement uncertainty ('I'm not entirely sure about the placement'), Nicole did not dig deeper \u2014 ask 'tell me more about that' to understand whether it affects logistics or reassembly scope, and always pause after an estimate to ask 'Does that feel fair?' before moving to booking confirmation.",
+  "booking_outcome": "booked",
+  "booking_note": "Customer explicitly agreed to schedule: 'Yeah, yeah, let's go ahead and schedule it then Friday 1:30. Sounds good.' Nicole confirmed the spot was secured for Friday, October 2nd at 1:30 PM."
+}

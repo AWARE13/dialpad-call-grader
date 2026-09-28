@@ -1,0 +1,42 @@
+{
+  "call_id": "6611611704139776",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 10.7,
+  "datetime_ct": "2026-09-25 17:07 CT",
+  "external_number": "+18325458686",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 4,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 3,
+  "total_score": 55,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "So in order for us to build an estimate I just need to ask you questions that might take around ten to fifteen minutes. Would that be fine for you? [customer confirms yes]",
+    "their_agenda": "Other than the price Nicholas I just wanna know are, are there other biggest concerns about this move that you would want answers to within this call.",
+    "two_layers_deep": "Customer raises foam latex mattress concern and TV concern. Rep acknowledges both but does not ask 'tell me more' or dig deeper into the mattress handling specifics beyond reassuring. Rep pivots quickly to logistics probing rather than exploring.",
+    "active_listening_reflection": "No summary reflection. Rep acknowledges 'Okay, thank you so much' but never says 'So what I'm hearing is...' or reflects back the concerns as a confirmed package.",
+    "estimate_anchor": "Typically a one bedroom apartment usually takes two movers between two and a half to three and a half hours to completely move, sir. In your case...I'm estimating the move to take only around two and a half, three and a half hours as well. So, it's good to budget an overall of $685.75 to $875. [Personalized because of staircase access and special mattress.]",
+    "pricing_framing": "Hourly rate $190 per hour, transportation fee $210, 2.5 hour minimum, 15-minute increments, no hidden fees disclosed. Missing 'not a guess' framing language.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or equivalent. After estimate, immediately transitions to availability and booking ask.",
+    "damage_coverage_delivered": "Free evaluation coverage that provides up to $2,000...zero deductible...handled within three to five business days. Full delivery of damage coverage terms.",
+    "on_time_guarantee_delivered": "Never mentioned. No 'On-Time Guarantee' or discount-if-late framing at all.",
+    "closes_the_loop": "Rep asks 'Anything else sir?' which is a catch-all but not a specific loop-closer on the Two Promises or concerns. No 'Does that put those to rest?' language.",
+    "final_concerns_check": "Anything else, sir? [generic throwaway, not 'What's still concerning you about this move?']",
+    "catch_all_asked": "Anything else, sir? [asked once at very end, but phrased as throwaway, not specific catch-all about items/special considerations.]",
+    "explicit_ask": "I do have availability for Wednesday 30th of September. I can book you for no deposit for quiet. Would you want our help with the move? [Customer declines, says 'I'm still waiting to hear back to get another quote. Is there any way that I could call you back?' Rep responds with email/callback option, softening the ask with an out.]",
+    "rate_lock_mentioned": "No mention of 'rate lock' or price guarantee/no-deposit confirmation in that framing.",
+    "booking_confirmed": "Partial. Rep confirms email will be sent, mentions callback option and Saturday availability, but does NOT confirm: date (left open to customer callback), phone number, arrival window, crew size (mentioned '2 movers' in estimate but not explicitly re-confirmed at booking), or notes for crew about concerns."
+  },
+  "top_strength": "Rep delivered a complete, transparent pricing breakdown with anchor, personalization to the customer's staircase and special mattress, and full damage coverage terms (including the critical $2,000 no-deductible framing) before the ask.",
+  "coaching_note": "Go two layers deep on concerns raised in Section 2 ('tell me more about that mattress handling'), and do not ask 'Does that feel fair?' immediately after pricing \u2014 that silence-hold is load-bearing before the explicit ask in Section 7, which should always be unambiguous ('Would you like our help with this move?') with no soft out like 'or I can email this.'"
+}

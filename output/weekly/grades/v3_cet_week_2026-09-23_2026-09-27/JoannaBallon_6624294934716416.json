@@ -1,0 +1,40 @@
+{
+  "call_id": "6624294934716416",
+  "rep_name": "Joanna Ballon",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 13.6,
+  "datetime_ct": "2026-09-23 17:06 CT",
+  "external_number": "+15099942157",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never said 'Great, it looks like we have availability... This will take about 10 to 15 minutes...' or similar framing. Jumped directly into email verification and move confirmation.",
+    "their_agenda": "Rep asked 'do you have any special instructions or concerns about this move that you also want to address on this call?' \u2014 but phrased as a yes/no with no real opening for their concerns to surface before logistics probing began.",
+    "estimate_anchor": "Joanna: 'For the meantime I'll just put your move more on the 22 and a half to three and a half hour mark' \u2014 time estimate given, and partially personalized to walking distance and stairs, but no typical range for a storage-to-home move of this size given as anchor.",
+    "pricing_framing": "Joanna: '$105 per hour, per mover... all inclusive... only thing outside of the hourly rate is a one time travel fee of $75... two and a half hour minimum. If we go over the minimum we only charge in fifteen minute interval' \u2014 fee transparency and minimum/increment framing both present.",
+    "feels_fair_then_silence": "Rep never asked 'Does that feel fair?' or equivalent. Customer responded 'Yeah, that sounds great' but rep never prompted it.",
+    "on_time_guarantee_delivered": "Joanna: 'on time guarantee if we run late, we provide discounts by the end of the day, again no reason fees of any type' \u2014 discount framing present, though 'by the end of the day' is vague on immediate-discount terms.",
+    "damage_coverage_delivered": "Joanna: 'no worries damage coverage, which would give you to $2,000 coverage for any repair, replacement reimbursement for any accidental damages' \u2014 coverage amount and no-fee framing mentioned, but did not explicitly state 'no deductible' or 'no fine print,' and did not confirm it is built into the rate (not an add-on).",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' or similar explicit close. Call ended with 'I'll go ahead and send everything in an email... we'll see you then' \u2014 soft close without an ask.",
+    "booking_confirmed": "Date (Sunday), arrival window (8:30\u20139:00 AM), storage address (2543), destination address (5707 Woodrow, Unit B), and crew size (two movers) confirmed. Phone number NOT confirmed. Notes on furniture pad and parking concerns mentioned but not systematically left for crew."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details (property type, stories, walking distance, storage packing percentage, fragile items, box count, parking constraints) and explained pricing and guarantees clearly and completely.",
+  "coaching_note": "This call skipped Section 2's genuine agenda-setting entirely, never asked 'Does that feel fair?' after the estimate, and ended without ever asking for the business \u2014 rep soft-closed with 'we'll send the email' instead of requesting Matthew's commitment, which left the close ambiguous.",
+  "booking_outcome": "not_booked",
+  "booking_note": "Customer stated 'I'm gonna say, I'm gonna know by tomorrow if this is all gonna happen, I'm saying my 95 percent sure' and explicitly asked about cancellation terms, indicating no final commitment was made despite discussing details and pricing."
+}

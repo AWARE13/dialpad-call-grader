@@ -1,0 +1,42 @@
+{
+  "call_id": "5585262134730752",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 9.8,
+  "datetime_ct": "2026-09-26 13:12 CT",
+  "external_number": "+12109654506",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 64,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep: 'This would take within the next five to ten minutes of your time and would that be okay with you?' \u2014 time-boxed but no mention of a dependable quote or explicit promise; customer says 'Yes' but rep rushes forward without a clear 'Does that sound good?' framing.",
+    "their_agenda": "Rep: 'Do you have any specific concerns or any important things that you wanted to answer during this call today?' \u2014 asked after already collecting name, email, source, and starting the discovery. Probing has already begun.",
+    "logistics_details_gathered": "Rep covered: property type (one story house, apartment), floor/stories (second floor apartment), number of rooms (two bedroom), walking distance (garage/1 minute walk to stairs), access concerns (narrow hallways, bed frame must disassemble), additional items (bed frame, mattress, 12 plastic containers, 22\u201323 boxes, small TV, rug, air fryer). Nearly all seven logistics items present.",
+    "box_count_asked": "Rep: 'How many plastic containers are removing?' and customer volunteers 'about 23 boxes' \u2014 box count was discussed as part of inventory, though not a formal 'typical count for your home size' anchor question.",
+    "estimate_anchor": "Rep: '$480' for 2.5 hours @ $96/hr for one mover + 26ft truck. Gives a range (hourly rate and minimum) but does not personalize to this customer's move (no mention of light load, quick turnaround concern, or the minimal complexity reflected in the load).",
+    "pricing_framing": "Rep fully disclosed: hourly rate ($96/hr), truck/gas/insurance/tools included, no credit card fees, no trip fees, no reassembly fees, 2.5-hour minimum, 15-minute increments, clock starts on-site. Comprehensive fee transparency and time-clock framing present.",
+    "feels_fair_then_silence": "Never asked. Rep quotes $480 and immediately customer says 'No, that's too much. Okay, thank you so much' \u2014 rep does not ask 'Does that feel fair?' before or after the price.",
+    "on_time_guarantee_delivered": "Rep: 'we have on time guarantee we value your time. So, if you cannot make it to the time window that we arrange, we immediately start discounting money of your final bill.' \u2014 covers the discount framing; phrasing is slightly awkward but intent is clear.",
+    "damage_coverage_delivered": "Rep: 'we have no worry, damage coverage included on the early way that you're paying us, we will provide up to $2,000 per move that is to repair replace and reimburse for your items.' \u2014 covers $2,000, included in rate, no deductible framing absent but 'included on the early way' implies no add-on.",
+    "closes_the_loop": "No version of 'Does that put those to rest?' asked. Segment ends with Two Promises stated but no confirmation close.",
+    "final_concerns_check": "Not asked. Call ends immediately after price rejection with no attempt to probe remaining concerns.",
+    "catch_all_asked": "Not asked.",
+    "explicit_ask": "Never asked. Customer rejects price ($480) and hangs up; rep does not attempt an explicit ask ('Would you like our help with your move?')."
+  },
+  "top_strength": "Rep executed thorough logistics probing \u2014 gathering property type, floor, room count, walking distances, access constraints, and full inventory \u2014 and maintained a calm, professional tone through the discovery phase.",
+  "coaching_note": "Close the price presentation with 'Does that feel fair?' and hold silence for the customer's reaction before they reject; the call ended immediately at price, suggesting no opportunity to address affordability concerns or explore alternate crew sizes or timing that might fit the budget."
+}

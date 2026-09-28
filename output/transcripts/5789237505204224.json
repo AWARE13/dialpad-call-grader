@@ -1,0 +1,782 @@
+{
+  "call_id": "5309420938764288",
+  "lines": [
+    {
+      "content": "Hello, good morning, this is Jeff with Einstein. How can I help you today?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:38:12.194869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:38:12.194869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:38:12.194869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:38:12.194869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:38:12.194869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:38:12.194869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:38:12.194869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:38:12.194869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:38:13.987869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:38:14.707869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:38:15.387869",
+      "type": "custom_moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Hi, good morning yes, I was just returning your call which I think you returning my call about getting a quote.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:38:16.998563",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "call_purpose",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:38:16.998563",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm oh, yes, ma'am. So thank you for returning the call and yeah, we just wanna go ahead and follow up about your recent online moving inquiry. So well I'll just go ahead and confirm the details that you've entered online. Okay? So start, yeah, starting from the pickup location so we have here a second floor storage unit, is that correct?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:38:22.394869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:38:25.387869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:38:36.347869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Yeah.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:38:39.798563",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Yes, it's actually on the third floor. I just called and found out.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:38:51.198563",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:38:51.627869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Hi, okay, third floor and then this is a 10x10 storage 10x10. Okay, perfect. Thank you and then for this one this is located at 4500 South Congress Avenue, Austin. Yeah, okay, and reul what is the distance from where we can park the truck to the bottom of the elevator, and once we reach the tap elevator to the storage unit.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:38:54.194869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Yup, yup.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:38:59.598563",
+      "type": "transcript"
+    },
+    {
+      "content": "address",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:39:07.787869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:39:10.827869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Yeah.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:39:11.598563",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "You guys can park like right? Like by the entrance.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:39:25.998563",
+      "type": "transcript"
+    },
+    {
+      "content": "It with the entry Rance. Okay. And then on the top elevator to the storage unit.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:39:30.194869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Yeah, it has an elevator from the ground floor to the third floor.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:39:36.798563",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And is it just near once we reach the third floor elevator to your storage unit. Is it just near like you know, having feed?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:39:43.994869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:39:45.307869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Yeah. The, yes, I haven't seen it myself but I spoke to them and they said that it's the second entry that they have at the building and once you get pick the elevator up to the third floor, it's just down the hall from the elevator.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:39:50.598563",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm okay, got it. Got it. So safe to say over all like fifty feet for the distance, right?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:40:10.394869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Probably.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:40:18.198563",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, then now let's talk about the storage unit, about how full is it.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:40:19.994869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "I don't know, cause I haven't seen it. I would say probably full. It has a one bedroom apartment worth of stuff.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:40:26.598563",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. That's very helpful information. Thank you. Do you have any special items there that is you know super heavier oversize, like a safe piano or workout equipment. Something like that.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:40:39.194869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Mm-hmm.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:40:43.398563",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "No, but there is like a larger like arm war.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:40:53.598563",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:40:59.594869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "This is like a little awkward just like a, like a cabinet type thing.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:41:00.798563",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm okay. Anything else that you think that is, you know, large and heavy aside from the large arma.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:41:06.794869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:41:10.667869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "No, no, not necessarily.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:41:16.398563",
+      "type": "transcript"
+    },
+    {
+      "content": "Not any Fred Ile or you know valuable items such as and peaks or artwork.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:41:19.994869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "No.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:41:27.798563",
+      "type": "transcript"
+    },
+    {
+      "content": "How about P-V washer and dryer.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:41:29.594869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "No.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:41:33.198563",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Got it. Thank you. And then just to confirm, let's proceed to the drop-off location so we're moving the stuff to a two story house located at 6306 Arbor Crest Lane.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:41:34.994869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Mm-hmm.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:41:36.798563",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Yes.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:41:40.998563",
+      "type": "transcript"
+    },
+    {
+      "content": "address",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:41:45.547869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Yes.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:41:48.798563",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Got it. Okay, so this is a one bedroom, so 111 bedroom fourth of items. Okay, now let's go ahead and talk about the pricing and how it works. Okay, so okay, this is for Sunday September 27th, right?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:41:49.994869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:41:57.467869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "date",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:42:08.627869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Yeah.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:42:10.998563",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Now for the pricing, we charge an hour rate of $210 per hour per two movers and we provide a 26 foot box track with everything needed. So, everything is included, like the fuel and tracks taxes, insurance, all wrap pads, advance to protect item and being moved, also, no credit card fees, no transportation fees, no terrible fees. Again, no heat and fees at all, no Heiden. Fees of anytime, okay. And then for the time, yeah, oh, on top of that how it works, so we have extra perks, like no worries, damage coverage. It's included in the early rate and we provide up to $2,000 per move to repair, replace or reimburse for.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:42:12.794869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:42:16.827869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Mm-hmm, yeah.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:42:40.998563",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:42:44.867869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Mm-hmm.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:42:51.198563",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:42:53.987869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Accidental damages and then a few days before your move you will receive a meet your mover email introducing them to you helping us detention of strangers arriving at your front door and finally if we can't make it in the time window that we arrange, we immediately start discounting money of your final bill and all of that is included at no extra cost. Okay? Now for the time, the way the clock works is the time starts as soon as we get on site and open the contract, you then have us for as long as you need us. And then for any move we have a two and a half hour minimum. Once we go over that minimum, the time is prorated in fifteen minute increments. Now for your personalized estimate.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:42:57.794869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Mm-hmm.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:43:10.398563",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Mm-hmm.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:43:21.198563",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:43:26.867869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:43:31.547869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:43:45.187869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "A typical 10x10 feet storage unit usually takes two movers one track between you know, four to five and a half hours to completely move but in your case since you are moving one bedroom worth of items from you know, a third floor storage unit going to a two story house then I would estimate your move to be between three to four hours. So I'd like to reiterate that, that's just an estimate. So at the end of the day, you will only be charged for the actual hours rendered. So, yeah, having that said would you like our help with your upcoming move this Sunday?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:43:45.194869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:43:50.267869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Mm-hmm, yeah.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:44:12.798563",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Yeah.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:44:16.998563",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Yeah.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:44:20.598563",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:44:23.707869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Yeah, what is, you said it's 210 an hour for two movers, right?",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:44:27.198563",
+      "type": "transcript"
+    },
+    {
+      "content": "Cost.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:44:30.794869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Yeah, that's right. That's for $840 for three to four hours. So safe to budget around $630 to $840.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:44:34.394869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:44:36.267869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:44:41.947869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Okay. Okay. Perfect. Eight around 8:00 and forty and what are the times you guys have available?",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:44:45.798563",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "positive_sentiment",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:44:47.019563",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, so.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:44:48.194869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "time",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:44:50.779563",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, well you know what? We have like two available schedules, okay, the first one isn't it in the morning between 8:30 to nine and then the second one is in the afternoon, 2:00 PM but we have a two hour window arrival for afternoon. So probably, you know, between 1:00 to three. Okay, that's what I thought. So, you know, let's go ahead and get you on the schedule for the morning, the Sunday, September 27th.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:44:54.794869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "time",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:45:01.907869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Uh-huh.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:45:03.198563",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:45:06.507869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Yeah, I would want the morning.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:45:12.798563",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:45:14.427869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Yeah.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:45:17.598563",
+      "type": "transcript"
+    },
+    {
+      "content": "date",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:45:22.307869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Yeah, and we were just waiting to hear back from somebody else on the quote as well. But could I, could we schedule this and then if like, anything changes by the end of the day could let you know.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:45:24.198563",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm absolutely, we can definitely do that, okay? Just to make sure we'll go ahead and secure the schedule for you and yeah, hopefully, you know, you'll proceed with im time and mm-hmm so I'll go ahead and send you a confirmation email for this you know, for, for the schedule, okay?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:45:38.594869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Yeah.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:45:50.598563",
+      "type": "transcript"
+    },
+    {
+      "content": "action_item",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:45:54.187869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Okay.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:45:57.198563",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Okay, perfect.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:46:00.198563",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "positive_sentiment",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:46:00.198563",
+      "type": "moment"
+    },
+    {
+      "content": "Alrighty. Okay, so will there be anything else that I can help you with today?",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:46:01.994869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:46:04.467869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "No, I guess I would just let you know by end of day if we aren't gonna move forward, but as of now we'll plan to.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:46:08.598563",
+      "type": "transcript"
+    },
+    {
+      "content": "I understand. So, well yeah, I can go ahead and just save it in here and then you know, anytime you can give us a call. Okay.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:46:18.794869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "action_item",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:46:26.387869",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Sounds good. Thank you so much.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:46:27.798563",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "positive_sentiment",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:46:29.619563",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "support_issue_resolved",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:46:29.619563",
+      "type": "moment"
+    },
+    {
+      "content": "No problem thank you so much for your time and for choosing im sign. You have a good day be though.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:46:30.794869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "You too, thank you. I'll get an email.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:46:36.798563",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you bye-bye yes, you'll get an email, you'll get an email for the confirmation.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:46:38.594869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Okay, thank you.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:46:43.998563",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay bye-bye for now just sent it.",
+      "name": "Jevic Lazanas",
+      "time": "2026-09-25T15:46:46.394869",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSoOWy3goM",
+      "content": "Okay, bye-bye thank you bye-bye.",
+      "name": "Bazel Shaw",
+      "time": "2026-09-25T15:46:48.198563",
+      "type": "transcript"
+    }
+  ]
+}

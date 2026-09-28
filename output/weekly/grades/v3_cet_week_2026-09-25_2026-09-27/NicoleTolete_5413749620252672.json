@@ -1,0 +1,38 @@
+{
+  "call_id": "5413749620252672",
+  "rep_name": "Nicole Tolete",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 7.0,
+  "datetime_ct": "2026-09-25 17:03 CT",
+  "external_number": "+15129606540",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 4,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'You book online this call will just take around five to ten minutes. Will that be fine?' \u2014 no framing of time-boxed ask + promise of dependable quote, no real wait for yes before diving into details.",
+    "their_agenda": "Never asked. Rep immediately probes logistics: 'You're moving on Saturday October 10th from a one bedroom apartment...' with no prior discovery of concerns or what the customer wants answers to.",
+    "estimate_anchor": "Rep gives range ($666 to $888 for 3\u20134 hours) but does not personalize it to anything specific about this customer's move \u2014 no reference to their stated preferences, concerns, or readiness level.",
+    "feels_fair_then_silence": "Not asked. Rep delivers pricing and immediately continues: 'and keep in mind we are a time based company...' with no pause or confirmation check.",
+    "on_time_guarantee": "Not mentioned. Rep covers damage coverage ('no worries, damage coverage, we provide up to $2,000 per move') but never delivers the On-Time Guarantee.",
+    "damage_coverage": "Covered: 'included in the hourly rate. We have no worries, damage coverage, we provide up to $2,000 per move to repair, replace or reimburse for any accidental damages' \u2014 but missing no-deductible/no-fine-print framing.",
+    "final_concerns_check": "Rep asks 'do you have any questions or anything for me?' \u2014 this is the throwaway empty-out version, not a genuine 'what's still concerning you?' check.",
+    "explicit_ask": "Never asked. Rep confirms details and closes with 'And we'll see you again on Saturday October 10th' \u2014 no direct ask for the business ('Would you like our help with your move?'), and no rate-lock mentioned.",
+    "booking_confirmed": "Partial. Confirmed: date (Saturday October 10th), phone (512-960-6540), arrival window (8:30\u20139:00 AM), addresses (both pickup and drop-off). Missing: crew size confirmation and notes left for crew about customer concerns."
+  },
+  "top_strength": "Nicole gathered all core logistics details (property type, floor, walking distance, special items, box count, parking) efficiently and cleanly, and correctly explained the time-based pricing model and damage coverage inclusion without confusion.",
+  "coaching_note": "Start every call with the quid-pro-quo framing ('we have availability, this takes 10\u201315 minutes, you walk away with a quote you can depend on \u2014 sound good?'), ask their agenda before any probing, and always ask 'Does that feel fair?' with a real pause before moving to Two Promises \u2014 you're currently jumping straight into logistics and skipping the permission-to-continue that keeps customers engaged."
+}

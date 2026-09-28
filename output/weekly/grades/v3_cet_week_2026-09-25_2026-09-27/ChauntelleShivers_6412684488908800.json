@@ -1,0 +1,34 @@
+{
+  "call_id": "6412684488908800",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 14.4,
+  "datetime_ct": "2026-09-25 14:46 CT",
+  "external_number": "+12146634099",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 38,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never framed the call timeline or the promise of a dependable quote; jumped directly into probing with 'So I'll take a few pieces of information down just to make sure I get the right rate for you.'",
+    "their_agenda": "Asked after extensive probing: 'Alright. So My biggest concern is, I think just related to the insurance part' \u2014 customer volunteered it, rep didn't proactively ask 'Other than price, what are your biggest concerns?'",
+    "two_layers_deep": "Customer raised insurance concern (damaged TV history, coverage limits, replacement vs. repair). Rep followed up: 'So honestly, I don't personally know that...' and continued with 'our movers first off, they are professionally trained...' Dug into the concern substantively across multiple exchanges.",
+    "damage_coverage_delivered": "Mentioned $2,000 coverage multiple times but framing was fragmented and incomplete. Never clearly stated 'no deductible / no fine print' or 'built into the rate, not an add-on.' Customer had to ask for clarification: 'is it 2000 to buy a new TV or is it 2000 to fix the existing TV?'",
+    "feels_fair_then_silence": "Never asked 'Does that feel fair?' after providing the $585 estimate. Rep said 'Alright, I do have that here' and moved directly to 'So the hourly rate for this particular move would be $204...'",
+    "explicit_ask": "Never asked 'Would you like our help with your move?' Rep closed with 'whenever you kind of come to a decision you know, definitely, you can reply to an email' \u2014 soft, optional language with no explicit ask.",
+    "final_concerns_check": "Asked 'And then where would we be taking to...' which is a logistics clarification, not a genuine 'What's still concerning you about this move?' Rep asked 'do we have availability on that day' \u2014 not a final concerns check."
+  },
+  "top_strength": "Strong two-layer follow-up on the customer's critical insurance concern\u2014when the customer pressed on $2,000 coverage limits and replacement vs. repair, the rep stayed engaged and provided context about professional training, inspection protocols, and case-by-case handling rather than brushing past.",
+  "coaching_note": "The call skipped the foundational quid pro quo framing entirely and never asked an explicit close ('Would you like our help?'); add both to your opening and closing to set clear expectations and create a genuine commitment moment rather than a soft email-followup trail-off."
+}

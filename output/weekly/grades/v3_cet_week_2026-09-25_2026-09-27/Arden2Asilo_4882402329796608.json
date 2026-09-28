@@ -1,0 +1,33 @@
+{
+  "call_id": "4882402329796608",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 8.6,
+  "datetime_ct": "2026-09-25 22:26 CT",
+  "external_number": "+18322318912",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 52,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Not asked. Rep moved directly into logistics probing without asking 'Other than price, what are your biggest concerns about this move?'",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer.",
+    "estimate_anchor": "I am estimating the move to take around four to five hours, sir. So it's good to budget an overall of $1,095 for the move. However, that this is just an estimate and we only factored in a little extra time in the quote based on the details that we have discussed. Ultimately sir, on move date itself you only pay for the actual time use.",
+    "explicit_ask": "Never asked. Rep said 'Congratulations. You're officially on the books' without ever asking 'Would you like our help with your move?' \u2014 customer agreed to book only after rep explained the booking process and asked if they wanted two additional hours."
+  },
+  "top_strength": "Arden gathered comprehensive logistics details efficiently\u2014property types, floor levels, walking distances, parking, special items (TVs, fragile goods), and box counts\u2014creating a solid foundation for an accurate estimate.",
+  "coaching_note": "Skip the quid pro quo framing entirely, never ask for their biggest concerns, skip the Two Promises guarantees, and never ask for the business explicitly\u2014this call skipped all four of those load-bearing items; focus on rebuilding Section 1 (time-boxed ask + dependable quote promise + wait for yes), Section 2 (Their Agenda before any probing), and Section 7 (explicit close with the Two Promises already covered)."
+}

@@ -1,0 +1,705 @@
+{
+  "call_id": "5882002322792448",
+  "lines": [
+    {
+      "content": "This is Chris with Einstein Moving Company. How can I help you?",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:25:38.078882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:25:38.078882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:25:38.078882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:25:38.078882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:25:38.078882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:25:38.078882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:25:38.078882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:25:39.019882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:25:39.219882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Okay. Hi, Chris, this is destiny. I had a couple of questions for you.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:25:39.850861",
+      "type": "transcript"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:25:40.379882",
+      "type": "custom_moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "ner",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:25:43.146861",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "ner",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:25:43.786861",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, what's going on?",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:25:46.478882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Well, I'm actually moving October 2nd and I was trying to fill out you all moving online but I probably thought it would be easier if I did it over the phone. I was just wondering what if I gave you like the information what the flat rate would be and it's like if it was doable for you all.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:25:48.850861",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "date",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:25:51.066861",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, I, can go over our rate and any fees that are associated with it and are you in north Austin or south Austin?",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:26:07.478882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:26:13.659882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "ner",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:26:14.459882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "South Austin. I live in, I live of south Conry.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:26:15.850861",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "ner",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:26:15.850861",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "ner",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:26:17.706861",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. Got it. Yeah. Alright. So, yeah, October 2nd we do have some availability. I just need to start in an account and you said your name is destiny.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:26:18.278882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "date",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:26:21.899882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Okay. Yes. C-E-S-T-I-N-E-Y.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:26:26.650861",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:26:29.678882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay, and your last name.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:26:33.878882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Kenerson K-E-N-N-E-R-S-O-A.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:26:37.450861",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and the number you're calling on is that the best number to keep on file?",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:26:42.878882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:26:44.939882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Yes sir.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:26:46.450861",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, so we will cover pricing over the phone but at the end of the call, I do follow up via email. What's a good email address to send that to?",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:26:48.278882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Okay, my first and last name @gmail.com.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:26:55.450861",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "email_address",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:26:58.786861",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:27:00.878882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "So I'm also walking well.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:27:03.250861",
+      "type": "transcript"
+    },
+    {
+      "content": "No, you're fine and how did you hear about us?",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:27:05.078882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:27:07.499882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Online.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:27:09.250861",
+      "type": "transcript"
+    },
+    {
+      "content": "Very cool.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:27:11.678882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Reviews.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:27:12.850861",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, good. Good, good and what's the first address?",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:27:14.078882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:27:17.899882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Like by where I'm moving from.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:27:20.050861",
+      "type": "transcript"
+    },
+    {
+      "content": "Your, yeah, your current address.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:27:23.678882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "So it's gonna be 4411 South Congress Avenue and the apartment is 2414 it's a studio.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:27:26.050861",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "address",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:27:27.866861",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:27:34.478882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "And then, your move to address.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:27:38.678882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "The same exact one except the apartment number is I can get to you right now.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:27:41.650861",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:27:46.478882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Sorry, the department number is, 3530.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:27:48.850861",
+      "type": "transcript"
+    },
+    {
+      "content": "And with your current unit, what's the square foot of it?",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:27:55.478882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:27:58.859882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "So that's a great question, I wanna say like, roughly around like 575.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:28:02.050861",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "positive_sentiment",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:28:02.050861",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. 575 any special considerations to know like antiques, pianos, grandfather clocks appliances? Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:28:07.478882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "No, no.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:28:14.650861",
+      "type": "transcript"
+    },
+    {
+      "content": "And your current unit four is it on?",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:28:23.078882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:28:25.659882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "44.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:28:27.850861",
+      "type": "transcript"
+    },
+    {
+      "content": "Fourth, and you said you're going to. Which four.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:28:29.078882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "I'm going to the fifth floor 214.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:28:33.250861",
+      "type": "transcript"
+    },
+    {
+      "content": "And then from your current unit to the elevator about how far of a walk and feeder yards.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:28:36.278882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Not that far. Maybe like I don't know, twenty feet far. Maybe like 20101020 feet I'm like around the corner.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:28:42.850861",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:28:48.278882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "Okay. Okay, and then from the apartment or sorry, from the elevator to your new door about how far we'll walk there.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:28:51.878882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Not quite sure. I would work, I would probably say roughly the same twenty feet, it's all really Slack.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:29:00.850861",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and same square foot of that unit, new unit.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:29:06.878882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "New unit probably 675, it's a one bedroom.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:29:11.050861",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Alright. So, yeah, these usually go pretty quick and fall within our two and a half hour minimum. So the hourly rate that you're going to be looking at is $222, the $222 hourly rate includes absolutely everything in this case that is the taxes, insurance, gas pads and wraps and a fully stocked tool bag for disassemble and reassembly Ates. The hourly rate itself will kick into effect once we get on site and begin the walkthrough and it will remain running until the move is completed. To your satisfaction we do maintain that 2.5 hour minimum. As of now I don't see us going over that. So it would be the minimum budget of $555.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:29:15.878882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Okay, cool.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:29:23.050861",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:29:25.499882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:29:26.699882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:29:36.339882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Okay, cool.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:29:36.850861",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:29:50.419882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Okay, perfect. Are you been able to email me all this information? Sorry.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:29:53.650861",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "positive_sentiment",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:29:53.650861",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "question",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:29:58.306861",
+      "type": "moment"
+    },
+    {
+      "content": "Yup. I'm gonna shoot that over next and is this something you wanted to go ahead and lock down or do you want to get back to us?",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:30:00.278882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "question",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:30:03.059882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Can I get back to you, I'm just gonna call my mom really quickly cause she's the one kind of doing all this.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:30:06.850861",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Yeah, and keep in mind we don't have any cancellation fees or rescheduling fees and we don't hold the credit card to get you on the books.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:30:11.678882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Oh, okay if I were to call back this number would I be able to get it's Chris, right?",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:30:19.450861",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "contact_name",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:30:25.466861",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "ner",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:30:25.466861",
+      "type": "moment"
+    },
+    {
+      "content": "Yup. Yeah, the only time I'm not going to be available I have my, my regional manager in town. So we're going out to lunch around twelve. So, I assume we'll be back by 1:30 and I'll be here until 4:30.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:30:26.078882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Okay.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:30:33.850861",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:30:35.019882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "content": "time",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:30:36.339882",
+      "type": "moment",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Perfect. I'll call you before 4:30.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:30:37.450861",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "action_item",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:30:38.226861",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "time",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:30:38.866861",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, perfect. I'll go ahead and shoot this information over and wait to hear back from you.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:30:39.278882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Thank you so much.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:30:43.450861",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "positive_sentiment",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:30:43.450861",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "support_issue_resolved",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:30:43.450861",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, you're welcome. Bye.",
+      "name": "Chris Anderson",
+      "time": "2026-09-25T16:30:44.678882",
+      "type": "transcript",
+      "user_id": "4814157400834048"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSmPTkpAgM",
+      "content": "Bye.",
+      "name": "(832) 226-4989",
+      "time": "2026-09-25T16:30:47.050861",
+      "type": "transcript"
+    }
+  ]
+}

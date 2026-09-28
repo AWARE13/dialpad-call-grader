@@ -1,0 +1,43 @@
+{
+  "call_id": "6596781005905920",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 11.3,
+  "datetime_ct": "2026-09-25 18:02 CT",
+  "external_number": "+19728383866",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 41,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep said 'This should take within the next five to ten minutes of your time so we can build an accurate code. So you can depend on and sounds good.' \u2014 time-boxed but framing is rushed and incomplete; no clear wait for customer yes before moving forward.",
+    "their_agenda": "Rep asked 'What are your biggest concerns or do you have any important things that you wanted to answer during this call?' \u2014 asked before probing started.",
+    "two_layers_deep": "Customer raised concern: 'I'm freaking out, cause I need to, I've been in this, in my apartment like ten years, so I, oh, all a little bit stressed.' Rep acknowledged ('I understand. Mm-hmm.') but did not ask 'tell me more about that' or dig deeper. Only surface acknowledgment, no real layering.",
+    "active_listening_reflection": "No summary reflection. Rep acknowledged concerns with 'I understand' and 'I know that it's not easy to left' but never reflected back a structured summary like 'So what I'm hearing is...'",
+    "logistics_details": "Rep covered property type (apartment), floor (3rd floor, stairs), rooms (1 bedroom), walking distance (about 1 minute), additional items (dining room, patio furniture, washer/dryer, weights, ~20 boxes), special considerations (stairs, no elevator), and destination address and details. All seven items touched.",
+    "packing_services": "Not offered. Rep never asked 'Would you like us to pack your items into boxes for you?'",
+    "box_count": "Not asked. Rep gathered that customer has ~20 boxes but never offered a typical box count for a 900 sq ft apartment or asked about overflow risk.",
+    "estimate_anchor": "Rep gave hourly rate anchor ($104/hour weekday, $111/hour weekend) but did not personalize to this customer's move or provide a range estimate. Pricing was stated in the abstract without connection to the specific inventory, concerns, or prep level.",
+    "pricing_framing": "Rep disclosed hourly rates but did not mention trip fee, overnight fee, or packing materials upfront. The '2.5-hour minimum' and '15-minute increments' commitment framing was absent. Partial at best.",
+    "feels_fair_then_silence": "Not asked. Conversation moved directly to customer objection ('I'm trying to get flat fees and not really, really stuff') with no 'Does that feel fair?' checkpoint or pause.",
+    "on_time_guarantee": "Not mentioned.",
+    "damage_coverage": "Not mentioned.",
+    "closes_the_loop": "No two-promises section executed; nothing to close.",
+    "final_concerns_check": "Not asked. Call ended immediately after customer objected to hourly pricing.",
+    "explicit_ask": "Never asked 'Would you like our help with your move?' or any equivalent ask for the business. Customer self-terminated when hourly pricing was disclosed.",
+    "rate_lock_mentioned": "Not mentioned."
+  },
+  "top_strength": "Zhang gathered comprehensive logistics details (property type, floor, rooms, items, special considerations, walking distance, and destination details) and asked the customer's concerns early in the call before jumping into probing.",
+  "coaching_note": "The call ended without a close because an objection (customer preference for flat fees vs. hourly pricing) was not handled \u2014 rep disclosed rates, customer objected, and rep conceded immediately instead of exploring whether Einstein's pricing model or service scope could still work for this move or offering alternatives; additionally, packing services, box count, Two Promises, and the final concerns check were never covered."
+}

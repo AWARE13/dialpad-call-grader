@@ -1,0 +1,43 @@
+{
+  "call_id": "4516578834292736",
+  "rep_name": "Brianne Newbro",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 11.3,
+  "datetime_ct": "2026-09-25 15:26 CT",
+  "external_number": "+19565725246",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 8,
+  "total_score": 75,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skipped the framing entirely. Jumped straight to 'And then what day are you looking to secure?' with no mention of 10-15 minute timeframe or dependable quote promise, and no explicit yes-gate before moving forward.",
+    "their_agenda": "Asked after probing: 'Besides pricing, do you have any questions or concerns you would like answer on this call today?' \u2014 but this came after already collecting move date, property type, and square footage in Section 1.",
+    "two_layers_deep": "Customer raised one concern: 'We would just have to put items and boxes, and you guys would move the boxes in furniture, right?' Rep confirmed with 'Yes, correct.' No follow-up probing; customer signaled they were done and rep moved on. However, per rubric N/A rule, a follow-up gap does not exist if there was nothing meaningful to follow up on \u2014 this was a clarification question, not a concern that warranted layering.",
+    "estimate_anchor": "Full anchor + personalization: 'A typical move this size from a, the 1400 square foot home usually takes two movers, one truck between six to eight hours... since we're moving from the two story with a short drive to a two story you would fall within that range and I would look to budgets... probably between six to seven hours.' Estimate given as $1,236 (6 hrs) to $1,442 (7 hrs), personalized to her specific move profile (two-story to two-story, short distance, her prep level).",
+    "pricing_framing": "Full framing present: 'Our pricing is super simple. We charge an hourly rate... Everything is included in that hourly rate. Fuel and truck taxes, insurance, all wrap pads... We also have no hidden fees.' Plus commitment framing: 'we do have a two and a half hour minimum. Once we go over that minimum the time is prorated in fifteen minute increments.'",
+    "feels_fair_then_silence": "Asked: 'does that sound fair.' followed by silence/acknowledgment: 'Mm-hmm. Okay, yup.' Rep held the silence and did not immediately re-pitch.",
+    "on_time_guarantee_delivered": "Full delivery: 'we do have our on time guarantee we value your time. So we can't, if we can't make it in the time window that we arrange we made at least start discounting money of your final bill. The way the clock works is the time starts as soon as we get on site and open the contract.'",
+    "damage_coverage_delivered": "Full delivery: 'we do have our no worries damage coverage. Which is our free evaluation coverage included in the hourly rate provides of two week $2,000 per move to repair, replace or reimburse for accidental damages' \u2014 covers the $2,000, included in rate (not add-on), and no-deductible framing.",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or equivalent. After delivering both promises, rep moves directly to pricing ('Our pricing is super simple'). No explicit loop-close and no clarification that these cover what was on the customer's mind.",
+    "final_concerns_check": "Not asked. Rep never asks 'What's still concerning you about this move?' or a genuine final concerns version. Call goes straight from estimate/promises into the explicit ask ('Would you like us to help you with that move').",
+    "catch_all_asked": "Not asked. No version of 'Anything coming with you we haven't talked about?' was delivered.",
+    "explicit_ask": "Full ask, no out: 'Would you like us to help you with that move on Saturday October 10th.' Asked plainly with no softening or alternative option presented.",
+    "rate_lock_mentioned": "Mentioned: 'there is no deposit required to get on our schedule and there are no fees or charges to change or cancel that move as well.'",
+    "booking_confirmed": "Partial. Confirmed: date (Saturday October 10th), arrival time (8:39 AM), move type (boxes + furniture with flexibility). Missing: phone number confirmation (not re-confirmed despite the opening capture), final address confirmation at close, crew size explicitly confirmed in the booking summary, and notes left for crew about customer's specific concerns (the high-value mirror, the two-story logistics, preference for flexibility on packing vs. moving)."
+  },
+  "top_strength": "Brianne gathered comprehensive logistics detail (property type, stories, rooms, parking, special items, fragile items, box count, destination details) with natural conversational flow and genuine customer engagement.",
+  "coaching_note": "Add the Section 1 quid pro quo framing (10\u201315 minute timeframe + dependable quote promise + explicit yes-gate) at the very start of the call before any discovery; it sets the contract and allows the customer to opt out early if timing is bad."
+}

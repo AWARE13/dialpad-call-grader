@@ -1,0 +1,43 @@
+{
+  "call_id": "5058988635103232",
+  "rep_name": "Arden 2Asilo",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 10.9,
+  "datetime_ct": "2026-09-25 19:47 CT",
+  "external_number": "+16505753622",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 6,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep jumps directly into address verification ('can I have your email first') and probing without any time-boxed framing or promise of a dependable quote or pause for customer agreement.",
+    "discovery_basics": "Name (Blake Stevenson), email, and moving day (Monday 28th) were gathered early. Route (1913 Lighty Road Austin to 4405 Jinks Avenue Austin) was obtained. Approximate size: stated 'very small apartment' / '1 bedroom' but no square footage confirmed. All four elements: name \u2713, moving day \u2713, city-to-city route \u2713, approximate size (partial\u2014stated but not confirmed in sq ft).",
+    "logistics_details_gathered": "Property type (apartment to house) \u2713, floor/stories (first floor apartment, 4-bedroom house) \u2713, number of rooms (1 bed apartment, 4 bed house, but only 2 receiving items) \u2713, walking distance/truck parking (can park in front, confirmed) \u2713, additional rooms (living room items confirmed) \u2713, special considerations (TV 55\", deflatable mattress, cabinet, plastic bed frame itemized) \u2713, additional stops (none indicated) \u2713. Full or nearly all seven items covered.",
+    "box_count_asked": "Arden: 'In boxes typically for a one bedroom apartment box count is within fifteen to 25 how many number of box do you think are we going to move for you?' Blake: 'Fifteen to twenty the thirty I don't think thirty boxes but, okay. Okay.' Arden: 'Okay. Alright, maximum of twenty.'",
+    "estimate_anchor": "Arden: 'It's good to budget, an overall of 52 and a half to three and a half hours, and it's good to budget an overall of $595 to $803 for the move. So, once again, our hourly rate is $208 per hour.' Range given ($595\u2013$803) and anchored to time (2.5\u20133.5 hrs @ $208/hr). Personalized to 'small apartment' / limited items / 20 boxes max \u2014 clearly tailored to this customer's stated situation.",
+    "pricing_framing": "Arden discloses: 'Everything is already included in the hourly rate, gas trucks taxes, insurance, all the wraps, the pads and bans to protect the items and being moved. Even tools for disassemble and reassembly... Also there are no hidden fees, no credit card fees, terrible fees, and disassemble or assembly fees. If needed, be the only thing just outside the hourly rate is a one time transportation fee of $75.' Trip fee ($75) disclosed upfront. Hourly rate and what's included stated. However, '2.5-hour minimum' and '15-minute increments' commitment framing not present.",
+    "feels_fair_then_silence": "Not asked. After giving estimate, Arden moves directly to availability: 'For Monday 28th of September the team can come between 8:30 to 9:00. Would you need our help with this move, sir?' No pause for customer reaction, no 'Does that feel fair?' or similar.",
+    "damage_coverage_delivered": "Arden: 'Once you book this move, you're going to get up to $2,000 free evaluation coverage. So, if anything gets damaged or broken during the move, you can file a claim zero deductible and that's gonna either be repaired, replaced or reimbursed.' Covers $2,000 amount \u2713, zero deductible framing \u2713, but does NOT state 'no fine print' framing or that it's built into the rate (not an add-on). Partial.",
+    "on_time_guarantee_delivered": "Not mentioned at all in the call.",
+    "closes_the_loop": "No reflection or summary of the two promises, and no ask like 'Does that put those to rest?' Rep moves straight to availability/booking.",
+    "final_concerns_check": "Not asked. Rep transitions directly from estimate to booking availability without any version of 'What's still concerning you about this move?'",
+    "catch_all_asked": "Not asked. No version of 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Arden: 'Would you need our help with this move, sir?' Asked plainly with no softening or built-in out (e.g., 'or I can email this over'). Full.",
+    "booking_confirmed": "Partial. Confirmed: date (Monday 28th September) \u2713, time window (12:45\u20132:45 PM, adjusted from 8:30\u20139:00 AM customer request) \u2713, departure address (1913 Lighty Road, Unit A) \u2713, destination address (4405 Jinks Avenue) \u2713. Missing: phone number not re-confirmed, crew size not stated, no notes left for crew about customer concerns. Partial (3 of 5 items confirmed)."
+  },
+  "top_strength": "Arden gathered comprehensive logistics details (property types, room layouts, specific furniture inventory, box count, special items like the 55\" TV) with clear follow-up questions, allowing for a personalized and accurate estimate anchored to both time and price.",
+  "coaching_note": "Arden skipped the entire Section 2 discovery of customer concerns ('Other than price, what are your biggest concerns?') and jumped straight into probing, and never asked 'Does that feel fair?' after pricing\u2014both are high-leverage moments to build confidence and surface objections before the ask."
+}

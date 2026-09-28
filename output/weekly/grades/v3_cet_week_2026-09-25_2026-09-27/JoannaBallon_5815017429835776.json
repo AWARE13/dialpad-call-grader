@@ -1,0 +1,40 @@
+{
+  "call_id": "5815017429835776",
+  "rep_name": "Joanna Ballon",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 9.3,
+  "datetime_ct": "2026-09-27 17:56 CT",
+  "external_number": "+14699248297",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 62,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "\"Just need to ask you some questions about it that might take about ten to fifteen minutes. Is that okay?\" \u2014 time-boxed but no explicit promise of a dependable quote, and no clear wait for confirmation before moving forward.",
+    "their_agenda": "\"Do you have any important concerns or instructions do that you want us to discuss on this call as well?\" \u2014 asked early, before logistics probing started.",
+    "two_layers_deep": "Customer: \"if you guys can pack everything in my current department, move it and then unpack it on my new apartment.\" Rep: \"Okay. So we can definitely help you with the packing and the moving portion. But we do not unpack the boxes...\" \u2014 one response, no follow-up like 'tell me more about why unpacking is important to you' or similar.",
+    "active_listening_reflection": "Not present. No summary like 'So what I'm hearing is you want packing, moving, and unpacking \u2014 is that right?' offered.",
+    "estimate_anchor": "\"So, currently, I'm just estimating your move to take about six to eight hours which is an estimated budget of $1,821 including the packing supplies estimate.\" \u2014 typical range given ($102/hr \u00d7 2 movers, 6\u20138 hrs, plus $189 supplies estimate). Also personalized: accounts for walking distance and packing time.",
+    "pricing_framing": "\"If you need help with this assembly reassembly. Taxes, insurance, credit card fees. Basically everything is already in that price... no hidden fees of any type, no credit card fees, no transportation fees... two and a half hour minimum. If we go over, we only charge in fifteen minute intervals.\" \u2014 fee transparency and 2.5-hour minimum + 15-minute increment framing both present.",
+    "feels_fair_then_silence": "No recognizable 'Does that feel fair?' or equivalent asked. Rep moves directly to the ask without testing customer reaction to the price.",
+    "on_time_guarantee_delivered": "\"on time, guarantee if we run late on the time we schedule, we provide discounts for your move\" \u2014 delivered but terms are vague (what discount, how immediate?). Partial credit for mention without full clarity on discount start.",
+    "damage_coverage_delivered": "\"we will also include other features, like our no worries damage coverage. Which would give you up to $2,000 coverage for any repair, replacement reimbursement for any accidental damages\" \u2014 amount and purpose covered, but missing 'no deductible / no fine print' framing and no explicit 'built into the rate' language. Partial.",
+    "closes_the_loop": "No. Rep does not ask 'Does that put those to rest?' or similar closure after presenting the Two Promises.",
+    "explicit_ask": "\"So with that Christina, would you like our help for this move on the seventh?\" \u2014 asked plainly, but customer deflects with 'Could you send me the estimate? And then I can confirm whenever I'm able to.' Rep then says 'if you're ready to go ahead with the booking just let us know' \u2014 softens into an out (email follow-up). Does not re-ask or hold for a commitment.",
+    "rate_lock_mentioned": "Not mentioned.",
+    "booking_confirmed": "Email, date (7th October), and current/new addresses confirmed. Missing: phone number, arrival window, crew size, and notes left about concerns. Partial."
+  },
+  "top_strength": "Joanna gathered logistics details systematically and thoroughly \u2014 property type, floor, furniture specifics, fragile items, box count estimates, and walking distances \u2014 giving her solid material for an accurate quote.",
+  "coaching_note": "Skip the 'send an email and they'll confirm later' close \u2014 ask plainly, wait for a yes-or-no answer, and if they hesitate, find the real objection rather than offering an out; also add a genuine final-concerns check before the ask instead of moving straight from pricing to the ask."
+}

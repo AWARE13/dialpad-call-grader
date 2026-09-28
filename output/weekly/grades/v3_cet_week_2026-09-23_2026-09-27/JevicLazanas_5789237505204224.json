@@ -1,0 +1,40 @@
+{
+  "call_id": "5789237505204224",
+  "rep_name": "Jevic Lazanas",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 8.8,
+  "datetime_ct": "2026-09-25 15:37 CT",
+  "external_number": "+12316206511",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 6,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep opens directly into probing ('start, yeah, starting from the pickup location...') with no framing of call duration, quote dependability, or ask-for-yes. Entirely absent.",
+    "their_agenda": "Customer's concerns never solicited. Rep proceeds immediately to logistics probing without asking 'what are your biggest concerns about this move.'",
+    "estimate_anchor": "Rep provides typical range ('typical 10x10 feet storage unit usually takes... four to five and a half hours') and personalizes to this move ('in your case... three to four hours'). Anchor present but delivered mid-pricing explanation, not as a standalone estimate moment.",
+    "pricing_framing": "Trip fees, overnight fees, packing materials: none disclosed upfront. 2.5-hour minimum and 15-minute increments are stated ('two and a half hour minimum... prorated in fifteen minute increments'), but full fee transparency and 'not a guess' framing are absent.",
+    "feels_fair_then_silence": "Never asked. Rep delivers estimate and moves directly to 'would you like our help' without checking 'does that feel fair?' or pausing for customer reaction.",
+    "damage_coverage_delivered": "Mentioned ('no worries damage coverage. It's included in the early rate... $2,000 per move to repair, replace or reimburse for... accidental damages') but missing the no-deductible/no-fine-print framing. Stated as benefit but not with explicit language that there is no fine print or deductible.",
+    "closes_the_loop": "Rep does not circle back to confirm the Two Promises or ask 'does that put those to rest.' Moves directly from pricing explanation to the ask.",
+    "final_concerns_check": "Rep asks 'will there be anything else that I can help you with today?' \u2014 a throwaway empty close, not the genuine 'what's still concerning you about this move?' framing.",
+    "catch_all_asked": "Not asked. No version of 'anything coming with you we haven't talked about?'",
+    "explicit_ask": "Rep asks 'would you like our help with your upcoming move this Sunday?' \u2014 plain, direct ask with no built-in out.",
+    "booking_confirmed": "Partial. Rep confirms Sunday September 27th, morning time window (8:30\u20139 AM), and mentions sending a confirmation email. Missing: explicit phone number confirmation, crew size stated during booking, arrival window detail beyond 'morning,' destination address re-confirmed, and notes left for crew about customer concerns. Customer also explicitly states 'we were just waiting to hear back from somebody else on the quote' and asks to schedule 'and then if like, anything changes by the end of the day could let you know,' which rep agrees to \u2014 but rep does not re-confirm commitment or get a final yes; booking is conditional."
+  },
+  "top_strength": "Rep gathered detailed logistics (third-floor storage unit, distance to elevator, furniture details, two-story destination) systematically and stayed organized through a complex move scenario.",
+  "coaching_note": "Open the call with the quid pro quo framing (10\u201315 minutes, dependable quote, wait for yes) before any probing; this was completely skipped and is the single highest-value item in Section 1."
+}

@@ -1,0 +1,43 @@
+{
+  "call_id": "5275297372479488",
+  "rep_name": "Brianne Newbro",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 7.4,
+  "datetime_ct": "2026-09-24 15:25 CT",
+  "external_number": "+15124617223",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 41,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'You have about five or ten minutes to go over that?' but never frames the time-boxed promise or waits for confirmation before continuing.",
+    "their_agenda": "Rep asks 'besides pricing, do you have any questions or concerns you would like answered on this call?' but only after already beginning to probe the move details (contact confirmation, email).",
+    "two_layers_deep": "Customer raises concern about equipment being 'movable' and needing direction to the second location; rep acknowledges but does not dig deeper with follow-ups like 'tell me more about that.'",
+    "active_listening_reflection": "No summary reflection of customer's concerns. Rep acknowledges individual points but never reflects back the full picture.",
+    "estimate_anchor": "Rep provides: '$200 for two movers and 126 foot box truck' with '$75 trip fee' and 'two and a half hours would put you at 575 and then if you were to hit that three and a half hour mark then it would be 775.' Personalizes to customer's specific item weights and garage accessibility.",
+    "pricing_framing": "Rep states '2.5 hour minimum once we go over that minimum the time is prorated into fifteen minute increments' and mentions trip fee, but does not frame as 'not a guess' or full commitment language.",
+    "feels_fair_then_silence": "Rep never asks 'does that feel fair?' after presenting the estimate. Moves directly to availability slot.",
+    "on_time_guarantee": "Rep delivers: 'we can't make it in a time window that we arrange immediately start discounting money of your final bill' and explains the time clock starts when movers arrive on site.",
+    "damage_coverage": "Rep delivers: 'no worries damage coverage...up to $2,000 per move to repair, replace or reimburse for accidental damages...included in our hourly rate' and mentions email introduction of movers.",
+    "closes_the_loop": "Rep does not ask 'does that put those to rest?' after Two Promises section.",
+    "final_concerns_check": "Rep does not ask any final concerns check before the ask.",
+    "explicit_ask": "Rep asks 'Would you like us to help you with that move?' but customer responds 'I've had a few better bids but let me think about it' \u2014 no commitment, and the rep does not follow up or hold for decision.",
+    "rate_lock_mentioned": "No mention of rate lock or deposit policy.",
+    "booking_confirmed": "Rep confirms only 'Saturday September 26th' and '1:30 to 330 arrival time.' Missing: full phone confirmation, crew size confirmation on record, destination address (customer could not provide), and notes left for crew about concerns."
+  },
+  "top_strength": "Rep clearly explained the Two Promises (On-Time Guarantee and Damage Coverage) with full terms and framing, and gathered detailed logistics about the multi-stop equipment move despite customer memory lapses.",
+  "coaching_note": "Open with a clear quid pro quo (time-boxed, dependable quote promise + wait for yes), ask Their Agenda before any probing, and follow up on customer concerns with at least two layers of depth instead of moving forward after a single acknowledgment; also ask 'Does that feel fair?' after the estimate and hold the silence.",
+  "booking_outcome": "not_booked",
+  "booking_note": "Customer explicitly stated 'I've had a few better bids but let me think about it' and said she would be in touch, indicating no commitment was made despite a time slot being offered."
+}

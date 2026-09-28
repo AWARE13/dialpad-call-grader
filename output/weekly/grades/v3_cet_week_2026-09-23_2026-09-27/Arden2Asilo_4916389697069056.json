@@ -1,0 +1,39 @@
+{
+  "call_id": "4916389697069056",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 5.7,
+  "datetime_ct": "2026-09-23 20:33 CT",
+  "external_number": "+18173438071",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 38,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never delivered the time-boxed ask + dependable quote promise. Jumped straight into probing.",
+    "their_agenda": "Rep never asked 'Other than price, what are your biggest concerns about this move?' \u2014 went directly into logistics.",
+    "estimate_anchor": "Rep gave a typical range for the size ('two movers between six to eight hours') and provided a dollar anchor ($1,648 for 8 hours max), but did not personalize to this customer's specific situation until after the customer volunteered that only some items were moving.",
+    "feels_fair_then_silence": "Rep never asked 'Does that feel fair?' or any validation check on the estimate before pivoting to inventory collection.",
+    "on_time_guarantee": "Not mentioned at all.",
+    "damage_coverage": "Not mentioned at all.",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' \u2014 instead deferred to callback after inventory received.",
+    "booking_confirmed": "Confirmed name (Gina Mayfield), callback time (10 AM tomorrow), and method (text inventory). Did not confirm move date details, arrival window, crew size, addresses, or crew notes about concerns. Partial only."
+  },
+  "top_strength": "Arden clearly explained the hourly rate structure, what's included, no hidden fees, and the 2.5-hour minimum \u2014 this transparency and pricing education was thorough and helped the customer understand how the company works.",
+  "coaching_note": "Start every call with the quid pro quo framing (time-boxed + dependable quote promise) and a real wait for yes before jumping into probing; ask 'Other than price, what are your biggest concerns?' early, and close with an explicit 'Would you like our help with your move?' rather than deferring to a callback.",
+  "booking_outcome": "not_booked",
+  "booking_note": "No date/time was locked in. Customer agreed to send inventory list and receive a callback tomorrow for a revised estimate, but no move was actually booked: 'I'll give you a call around 10:00 AM tomorrow so you can send...then we'll sort it out from there.'"
+}

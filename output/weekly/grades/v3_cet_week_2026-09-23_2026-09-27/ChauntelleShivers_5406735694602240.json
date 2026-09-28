@@ -1,0 +1,38 @@
+{
+  "call_id": "5406735694602240",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 17.5,
+  "datetime_ct": "2026-09-23 14:41 CT",
+  "external_number": "+14694651854",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 14,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 79,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "ABSENT \u2014 no recognizable time-boxed framing or 'does that sound good to you' confirmation before probing",
+    "discovery_basics": "First address implied (call starts mid-conversation after reconnect); second address: 'Probably Dallas'; moving day: NOT asked; approximate size: customer says 'I don't know' square footage, rep later estimates '1600 square feet'; city-to-city route: incomplete (storage location unknown until customer says Dallas)",
+    "walkthrough_branch": "Rep correctly offers virtual walkthrough when packing is involved: 'generally if we're doing any kind of packing just so I can get a better idea of the space and kind of what all needs to be packed up. We usually like to hop on a virtual walkthrough so that I can key in that information into your profile. Would you be available to do that?' Customer confirms 1:00 PM afternoon slot.",
+    "their_agenda": "ABSENT \u2014 no version of 'other than price, what are your biggest concerns about this move' asked at any point",
+    "packing_offered": "Yes: 'Okay, and then so are you thinking maybe a full pack. So we do offer a service where we can come and just pack everything up for you'",
+    "box_count": "Yes: 'And so how many boxes of books do you think you'll have?' Customer responds 'at least ten small boxes' and later 'I think there's some more boxes of books out in the garage'",
+    "logistics_partial": "Property type: duplex (asked). Floor/stories: 'one story' (asked). Bedrooms: three, but no beds coming (asked). Walking distance: NOT asked. Additional rooms: NOT asked. Special considerations: customer has back injury, can't pack (mentioned but not systematically probed). Additional stops: storage unit destination, not yet confirmed. Overall: roughly half covered.",
+    "final_check": "Yes, asked as throwaway: 'And then do you have any other questions that I could help answer for you?' Customer: 'Not right now but I appreciate all your help.'"
+  },
+  "top_strength": "Chauntelle correctly identified this as a packing move requiring a virtual walkthrough and routed to it cleanly, explaining the process in accessible terms and securing a confirmed time slot (1:00 PM) without abandoning the call.",
+  "coaching_note": "Missing Section 1's quid pro quo framing entirely \u2014 no time-box or 'dependable quote' promise stated before discovery, and Section 2's their-agenda question ('other than price, what are your biggest concerns?') was never asked, leaving customer's underlying pain points unspoken.",
+  "booking_outcome": "walkthrough_scheduled",
+  "booking_note": "Customer agreed to a virtual walkthrough at 1:00 PM this afternoon: 'what time works for you this afternoon?' 'Yes, please' at 1:00, but no final move date was locked in - only the walkthrough was confirmed."
+}

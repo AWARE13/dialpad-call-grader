@@ -1,0 +1,43 @@
+{
+  "call_id": "4753209621258240",
+  "rep_name": "Nicole Tolete",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 7.5,
+  "datetime_ct": "2026-09-25 16:32 CT",
+  "external_number": "+16518081397",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 3,
+  "total_score": 62,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Nicole: 'this call will just take around ten I mean five to ten minutes. Will that be fine?' \u2014 framed time but no clear 'does that sound good?' confirmation and no promise of a dependable quote before moving forward",
+    "their_agenda": "Never asked. Nicole jumped directly into logistics probing (heavy items, appliances, TV box, etc.) with no open-ended discovery of Kelly's concerns or priorities.",
+    "logistics_details_gathered": "Property type (1-bed apt), floor (17th), unit number (1706), elevator/loading dock access confirmed, walking distance confirmed ('couple of steps'), contents confirmed (couch, bed, TV, console, Peloton, no appliances), TV box status and TV case offered, box count range asked (15-25 boxes, customer confirmed fit)",
+    "box_count_asked": "For a typical one bedroom apartment we usually expect to see around fifteen to 25 boxes to move. Do you think you'll fall within that range?",
+    "estimate_anchor": "I estimate at the same to take around three to four hours with two movers and one truck and without the travel fee now it's good to budget around $624 to $832 \u2014 anchored range provided; personalized to branch transfer eliminating travel fee",
+    "pricing_framing": "Minimum is still two and a half hours once we go over the minimum, the time is prorated in fifteen minute increments \u2014 2.5-hour minimum and 15-minute increments disclosed. No trip fee / overnight fee transparency upfront; travel fee mentioned only in context of branch switch. No 'not a guess' framing.",
+    "feels_fair_then_silence": "Not asked. Nicole moved directly to arrival window confirmation without soliciting customer reaction to the price or holding silence.",
+    "on_time_guarantee_delivered": "Not mentioned at all.",
+    "damage_coverage_delivered": "We provide up to $2,000 per move to repair, replace or reimburse for any accidental damages \u2014 amount and purpose stated, but no framing of 'no deductible / no fine print' or that it's built into the rate (not an add-on).",
+    "closes_the_loop": "No loop-closing question after damage coverage statement. Nicole transitioned immediately to confirming contact details.",
+    "final_concerns_check": "Do you have any questions or anything for me? \u2014 throwaway format, likely to receive automatic no",
+    "catch_all_asked": "Not asked.",
+    "explicit_ask": "No ask for the business at all. Nicole confirmed the booking details and closed the call without ever asking 'Would you like our help with your move?' or equivalent. The booking was already in the system from Kelly's online submission.",
+    "rate_lock_mentioned": "Not mentioned."
+  },
+  "top_strength": "Nicole gathered comprehensive logistics details early and efficiently (floor, unit number, elevator access, loading dock, walking distance, contents, TV handling, box count), making the estimate accurate and move-ready without needing a virtual walkthrough.",
+  "coaching_note": "Nicole skipped Section 2 (Their Agenda) entirely and jumped straight to probing \u2014 she never asked Kelly what her biggest concerns or priorities were for this move, which meant she missed the chance to surface and address them proactively; additionally, she never asked 'Does that feel fair?' after quoting, never delivered the On-Time Guarantee, and never asked for the business (the booking was already online), leaving critical persuasion and commitment moments unused."
+}

@@ -1,0 +1,35 @@
+{
+  "call_id": "4965666612617216",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 6.9,
+  "datetime_ct": "2026-09-25 20:54 CT",
+  "external_number": "+13212232172",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 2,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 37,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep opens directly with 'we can go ahead and try to squeeze in your schedule if ever that you'll proceed to move on Monday, September 28th' \u2014 no framing of time-box, no promise of dependable quote, no wait for a yes.",
+    "their_agenda": "Never asked. Rep launches into logistics and pricing without asking what concerns or questions Katherine has.",
+    "estimate_anchor": "Rep states: 'a typical one bedroom apartment usually takes two movers, one truck between two and a half to three and a half hours to completely move. So, in your case since you are moving from a ground floor apartment to another ground floor apartment, then I would estimate your move to be within that range two and a half to three and a half hours' \u2014 anchored to home size and personalized to ground-floor-to-ground-floor logistics.",
+    "pricing_framing": "Rep discloses: '$208 per hour per mover' and 'no hidden fees of any type. No upfront payment, no deposit, no credit card fees, no transportation fees, no disassemble and reassembly fees' and '2.5 hour minimum and once we go over that minimum the time is prorated in fifteen minute increments.' Both fee transparency and minimum/increment framing are present.",
+    "damage_coverage_delivered": "Rep states: 'we have the no worries damage coverage. So, this is included in the early rate, we provide up to $2,000 to repair replace or reimburse for accidental damages.' Coverage amount and built-in-to-rate framing present, but no explicit framing of 'no deductible / no fine print.'",
+    "booking_confirmed": "Rep confirms date (Monday September 28th), time window (2:00 PM to 4:00 PM, mid-point 3:00 PM), and promises email confirmation. Does not confirm phone number, crew size, both addresses, or notes about customer concerns. Booking is partial."
+  },
+  "top_strength": "Rep delivered a clear, detailed estimate anchored to typical move duration for the home size and personalized it to Katherine's ground-floor-to-ground-floor move, plus disclosed all major fees and pricing mechanics upfront without hiding costs.",
+  "coaching_note": "Rep skipped Section 1's quid pro quo framing entirely and never asked 'what are your biggest concerns' before jumping into logistics \u2014 this left the call reactive to Katherine's scheduling conflicts rather than collaborative, and no real discovery of her underlying needs or worries happened."
+}

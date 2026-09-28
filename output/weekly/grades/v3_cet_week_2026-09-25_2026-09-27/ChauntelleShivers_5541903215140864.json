@@ -1,0 +1,43 @@
+{
+  "call_id": "5541903215140864",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 33.9,
+  "datetime_ct": "2026-09-25 18:12 CT",
+  "external_number": "+14804909095",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 15,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "section1_quid_pro_quo": "Rep never frames the call with 'we have availability... this will take 10-15 minutes... you can walk away with a quote you can depend on... does that sound good?' Instead, rep jumps straight into asking for basic info: 'So the first thing that we like to do is, is go ahead and get at least your basic information and an email.'",
+    "section2_their_agenda": "Rep never asks 'Other than price, what are your biggest concerns about this move, and what do you want answers to on this call?' Customer raises concerns organically (lazy boy chair experience, concern about crew skill/hourly rate exposure), but the rep does not ask an open-ended agenda question.",
+    "section2_two_layers_deep": "When customer raises lazy boy concern: Rep asks 'Tell me more about the lazy boy. How big is it? How many sections does it have?' Customer responds with details. Rep then asks 'Okay, so it's just a three seat. Lazy boy.' This continues\u2014rep digs into the chair's construction, the customer's past moving experiences, and the specific fear about inexperienced crews. Rep follows up multiple times on this core worry without rushing to pivot.",
+    "section2_active_listening_reflection": "No summative reflection. Rep does not say 'So what I'm hearing is [X], [Y], and [Z]. Did I get all of it?' Instead, rep acknowledges in real-time ('Uh-huh', 'Mm-hmm', 'Okay') but never summarizes the full picture of customer's concerns back to them.",
+    "section3_logistics_details": "Rep gathers: property type (1 bed apartment), floors (second floor origin, third floor destination, no elevator), rooms (implied\u20141 bedroom), walking distance (excellent\u2014can park right at building), additional rooms (not explicitly), special considerations (lazy boy recliner, large desk, 55-inch TV stand with cabinets, bed frame, end tables, computer tower). Packing services: never offered. Box count: never asked.",
+    "section4_estimate_anchor": "Rep gives hourly rate range upfront ($102\u2013$110 per mover), but the estimate itself is given as '3-4 hours at $204 per mover (two movers)' = $687\u2013$891. Customer pushes back hard; rep recalculates the 2.5-3 hour minimum at $585\u2013$789. The estimate is anchored to a time range and rate but not personalized to this customer's stated concerns (crew experience/laziness of chair disassembly). Rep says 'generally for a move the size, generally it would take two and a half to three and a half hours' but does not explicitly tie the price to anything about this customer's situation beyond the stairs.",
+    "section4_pricing_framing": "Rep discloses the $75 trip fee upfront and mentions 'no deposits.' Rep also says 'disassembling reassembling we do not charge extra for that comes with our standard service, the wrapping.' However, rep does not state the 2.5-hour minimum or 15-minute-increment framing that the script calls for. No explicit 'not a guess' language.",
+    "section4_feels_fair_silence": "Rep never asks 'Does that feel fair?' or any variant. Instead, rep defends the estimate against customer pushback and explains why it's necessary, but does not ask for the customer's reaction and hold silence.",
+    "section5_on_time_guarantee": "Never mentioned. No discount terms, no on-time guarantee framing at all.",
+    "section5_damage_coverage": "Rep says 'we also do have our know where we damage coverage which is outside of the 60\u00a2 standard' but this is incomplete and confusing phrasing. No mention of $2,000 coverage, no-deductible framing, no 'built into the rate' language. Partial credit only\u2014the idea was touched but not fully delivered.",
+    "section5_closes_the_loop": "Rep does not ask 'Does that put those to rest?' or confirm that the two promises have addressed concerns. There is no explicit loop-close.",
+    "section6_final_concerns_check": "Rep asks 'is there any other, any other questions I can answer for you?' This is a throwaway 'any questions?' that gets an automatic no, not a genuine 'What's still concerning you about this move?' The customer says 'No, I think we're good.'",
+    "section6_catch_all_asked": "Rep does not ask 'Anything coming with you we haven't talked about?' Customer volunteers 'I'm not having you guys box anything' late in the call, but the rep never asks this catch-all.",
+    "section7_explicit_ask": "Rep never asks 'Would you like our help with your move?' The customer is never directly asked to book. Rep only offers to send a message to management to see if someone will come do a walkthrough and says 'Not unless you want to go ahead and at least reserve the truck that's free to do,' but customer declines. Call ends with 'they will be giving you a call' \u2014 no explicit ask for the business.",
+    "section7_rate_lock_mentioned": "Not mentioned.",
+    "section7_booking_confirmed": "No booking confirmed. Customer declines to reserve the truck, asks for a management callback for an in-home estimate, and the call ends with a promise that 'they'll reach out to you.' No date, phone, arrival window, crew size, or addresses confirmed as a booking. Rep does not confirm details."
+  },
+  "top_strength": "Rep listened deeply and did not dismiss the customer's repeated concerns about crew experience and hourly-rate risk exposure\u2014following up multiple times on the lazy boy chair disassembly worry, the customer's past moving experiences, and the fear of paying for inexperienced work, which kept the customer engaged throughout a difficult conversation.",
+  "coaching_note": "Never skip Section 1's quid pro quo framing or Section 2's open-ended 'What are your biggest concerns?' question\u2014both are load-bearing items that set the tone and permission to dig deeper; this call jumped straight to logistics without either, and never circled back to ask for the business, resulting in a hand-off to management with no commitment."
+}

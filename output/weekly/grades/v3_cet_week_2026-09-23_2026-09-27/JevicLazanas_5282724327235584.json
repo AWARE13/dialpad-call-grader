@@ -1,0 +1,43 @@
+{
+  "call_id": "5282724327235584",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 21.6,
+  "datetime_ct": "2026-09-24 15:06 CT",
+  "external_number": "+18323147143",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 6,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Jevic: 'this should take about ten to fifteen minutes so we can provide you an accurate estimate. Sounds good.' [No wait for yes; moved straight to name gathering]",
+    "their_agenda": "Jevic: 'aside from the price what are your biggest concerns and what are the most important things you want answers to on this call today?' [Asked early, before major probing]",
+    "two_layers_deep": "Clark raises TV boxing concern. Jevic answers but does not dig deeper with 'tell me more' follow-ups; treats each concern as a one-off response and pivots.",
+    "active_listening_reflection": "[No summary reflection of concerns heard; Jevic acknowledges but does not reflect back 'So what I'm hearing is...']",
+    "estimate_anchor": "Jevic: 'typical one bedroom apartment usually takes two and two movers, one truck between two and a half to three and a half hours' and 'in your case since you are moving from a second floor apartment with stairs access...I would expect you to be within that range'",
+    "pricing_framing": "Jevic: trip fee $140, no hidden fees, 2.5-hour minimum, 15-minute increments all stated. Fuel, taxes, insurance, pads, tools included.",
+    "feels_fair_then_silence": "[Never asked 'does that feel fair?' or equivalent; Jevic moves directly to schedule availability]",
+    "on_time_guarantee_delivered": "Jevic: 'if we can't make it in the time window that we arrange, we immediately start discounting money of your final bill'",
+    "damage_coverage_delivered": "Jevic: 'up to $2,000 per remove to repair, replace or reimburse' for accidental damages, framed as built-in coverage (no deductible, no fine print language used)",
+    "closes_the_loop": "[No 'does that put those to rest?' or similar closing question on the Two Promises; coverage was mentioned early unprompted, not tied to a promise close]",
+    "final_concerns_check": "Jevic: 'Do you have any other questions or anything for me?' [Generic throwaway, not 'What's still concerning you?' variant]",
+    "explicit_ask": "Jevic: 'would you like our help with your, with your move, the Saturday, there's only one schedule left 3:00 PM' [Direct ask, no built-in out]",
+    "rate_lock_mentioned": "[No rate-lock or no-deposit language present]",
+    "booking_confirmed": "Customer asked for callback; Jevic offered to email details and said 'just give us a callback and we'll be more than happy to save the schedule for you.' Date (Saturday 3:00 PM window), phone (implied via callback), and addresses confirmed; crew size and detailed notes for crew not explicitly confirmed."
+  },
+  "top_strength": "Jevic gathered comprehensive logistics details (both addresses, floor plans, walking distances, special items) and positioned the damage coverage and on-time guarantee clearly, making the value prop concrete and reducing customer anxiety about the two large TVs.",
+  "coaching_note": "After the customer raised concerns (TV boxing, reassembly specifics), dig deeper with follow-up questions instead of pivoting; also ask 'does that feel fair?' after pricing and confirm booking details (crew size, notes for movers about TV mounting concern) before ending the call, rather than defaulting to callback-only.",
+  "booking_outcome": "not_booked",
+  "booking_note": "Customer asked to call back in 2 hours to decide: 'Is it okay if I give you a callback? Is that okay? I'll probably like, just need maybe, maybe two hours or so just before I'll make a decision.' No date/time was locked in."
+}

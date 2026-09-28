@@ -1,0 +1,43 @@
+{
+  "call_id": "4882943998992384",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 8.9,
+  "datetime_ct": "2026-09-25 22:02 CT",
+  "external_number": "+18308003938",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 64,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep said 'This should take within the next five to ten minutes of your time. Then we'll be able to build an accurate quote you can depend on sounds good.' \u2014 framing present but time estimate was 5\u201310 min, not the standard 10\u201315 min, and no clear wait for verbal yes before proceeding.",
+    "discovery_basics": "Name: Julian; moving day: Next Saturday the 3rd; property type: apartment; moving within San Antonio (city-to-city route satisfied as same city). Size confirmed as one-bedroom apartment (second location two-bedroom). All four basics confirmed.",
+    "logistics_details_gathered": "Property type (apartment); floors/stories (second floor, no elevator, stairs); number of rooms (one-bedroom, later two-bedroom destination); walking distance (half a minute from truck to stairs); special items (washer, dryer, bed, TV, couch); access concerns checked (none); fragile/valuable items checked (none). Full coverage across seven logistics categories.",
+    "box_count_asked": "Rep stated: 'So a typical number of boxes is between fifteen to 25 boxes. Do you feel that you fall within that range?' \u2014 box count range offered and customer affirmed.",
+    "packing_services_offered": "No recognizable version of 'Would you like us to pack your items into boxes for you?' was asked.",
+    "estimate_anchor": "Rep provided: 'we'll send out to livers and one truck, estimated time is between three to four hours estimated cost would be $964.' \u2014 anchored to home size (one-bedroom to two-bedroom move, 25 minutes away, stairs at both ends) and personalized to this customer's specific move details.",
+    "pricing_framing": "Trip fee of $140 disclosed upfront ($103/hour per mover, $140 trip fee). Minimum of 2.5 hours and 15-minute increment prorating explained: 'We will then have us first, as long as you need us for any move we have a minimum of twenty and a half hours once you go over that it will always be prorated into fifteen minute increments.' Both components present.",
+    "feels_fair_then_silence": "Rep never asked 'Does that feel fair?' or equivalent. Call moved directly to Two Promises section without checking customer's reaction to pricing.",
+    "on_time_guarantee_delivered": "Rep stated: 'we have ontime guarantee we value your time. So, if you cannot make it to the time window that we arrange, we immediately start discounting money of your final bill.' \u2014 discount terms fully covered.",
+    "damage_coverage_delivered": "Rep stated: 'we have no worry, damage coverage included on the already way that you're paying us we will provide up to $2,000 per move that is to repair replace and reimburse for your items.' \u2014 $2,000 coverage and built-in framing stated, but no explicit 'no deductible / no fine print' language used.",
+    "closes_the_loop": "Rep did not ask 'Does that put those to rest?' or similar. No loop-closing question asked after Two Promises.",
+    "final_concerns_check": "Rep never asked 'What's still concerning you about this move?' or any genuine final concerns check. Call ended without this step.",
+    "catch_all_asked": "No recognizable version of 'Anything coming with you we haven't talked about?' was asked.",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' or any explicit ask for the business. Call ends abruptly after pricing quote without closing step."
+  },
+  "top_strength": "Systematic logistics probing \u2014 the rep gathered property type, floor/stories, room count, walking distance, special items, and access concerns comprehensively, which will support accurate estimate delivery and crew prep.",
+  "coaching_note": "The call dropped off after pricing without any of the final three sections (concerns again, Two Promises loop-close, or explicit ask) \u2014 add a genuine final-concerns check and ask for the business plainly before the call ends."
+}

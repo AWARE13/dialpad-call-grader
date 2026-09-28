@@ -1,0 +1,35 @@
+{
+  "call_id": "5885435586322432",
+  "rep_name": "Joanna Ballon",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 29.7,
+  "datetime_ct": "2026-09-23 19:30 CT",
+  "external_number": "+13056975275",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 4,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 8,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Rep never asks 'Other than price, what are your biggest concerns about this move?' The customer volunteers concerns about pricing and fees, but the rep does not proactively surface the customer's agenda.",
+    "two_layers_deep": "N/A \u2014 customer concerns were volunteer-raised (discount request, fee surprise, competing quotes), but rep did not systematically ask 'tell me more about that' to explore them deeper; instead moved quickly to comparisons and fee explanations.",
+    "estimate_anchor": "Rep states 'we quoted you for an hour for a three and a half to four and a half hours for this job which is an estimated budget of $864' \u2014 gives range and personalization to prep level, but this comes very late in the call and only after the transportation fee conflict.",
+    "explicit_ask": "Rep asks 'Would you like our help with this move and get you on the schedule?' and 'Would you like to go ahead and book this move on the twenty second?' \u2014 direct ask, no softened out offered."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details (property type, floor, room count, walking distances, parking, elevator access, box count) and confirmed all pickup and delivery addresses with spelling \u2014 excellent due-diligence probing for accuracy.",
+  "coaching_note": "Never ask 'Other than price, what are your biggest concerns?' at the start of Section 2 \u2014 this call skipped it entirely, jumping straight into probing and missing the chance to surface and validate the customer's real agenda before defending fees.",
+  "booking_outcome": "booked",
+  "booking_note": "Customer explicitly agreed to book: 'Yeah, yeah, let's do that.' Date (October 22nd) and time window (9:00-9:30 AM) were confirmed, and Joanna proceeded to collect all booking details."
+}

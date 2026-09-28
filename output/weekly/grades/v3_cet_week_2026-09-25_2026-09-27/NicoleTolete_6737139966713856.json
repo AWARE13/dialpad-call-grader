@@ -1,0 +1,42 @@
+{
+  "call_id": "6737139966713856",
+  "rep_name": "Nicole Tolete",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.8,
+  "datetime_ct": "2026-09-25 20:56 CT",
+  "external_number": "+17209352032",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 8,
+  "section7_ask_for_the_business": 0,
+  "total_score": 71,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "This call will just take around ten to fifteen minutes. Then I will be able to build you an accurate quote you can depend on. Would that work?",
+    "discovery_basics": "What is your preferred move date... [October 3rd]. May I please have the complete address where you're moving from? [300 Fergusson drive, Austin, Texas. 78753]. And the address where you're moving to? [It's gonna be the same address. I'm a different unit.]. And for your current apartment, how many bedrooms do you have? [It's gonna be two in both of them.]. And what is the square footage? [I don't know...]",
+    "their_agenda": "Not asked \u2014 Nicole moved directly into logistics probing without asking 'Other than price, what are your biggest concerns about this move?'",
+    "logistics_details_gathered": "Floors/stories (second to fourth, elevator availability), number of rooms (2BR), walking distances (parking to stairs, stairs to door, elevator distances), special considerations (washer/dryer, TVs without boxes), appliances verified, no additional stops.",
+    "estimate_anchor": "For a typical two bedroom apartment, it usually takes around four and a half to six hours... In your case... I'll estimate this move to take around five and a half to six and a half hours... It's good to budget around $1,265 to $1,495.",
+    "pricing_framing": "We charge $230 per hour for two movers and one truck. Everything is included in this hourly rate, like the fuel and truck taxes, insurance. All wrap pads and bans... No hidden fees of any type. No credit card fees, no stairwell fees, no disassemble or reassembly fees... We have a minimum of two and a half hours once we go over the minimum the time is prorated in fifteen minute increments.",
+    "feels_fair_then_silence": "Not asked \u2014 Nicole proceeded directly to the estimate value ($1,265 to $1,495) and did not ask 'Does that feel fair?' or pause for customer reaction before the customer objected.",
+    "on_time_guarantee_delivered": "We have on time guarantee if we cannot make it in the time window that we arrange, we immediately start discounting money of your final bill.",
+    "damage_coverage_delivered": "We have no worries, damage coverage. We provide up to $2,000 per move to repair, replace or reimburse for any accidental damages.",
+    "closes_the_loop": "Not asked \u2014 Nicole did not ask 'Does that put those to rest?' after covering the Two Promises.",
+    "final_concerns_check": "Before I go over with our pricing structure and your estimate, do you have any specific concern or stresser about the moving process in general? [No.]",
+    "catch_all_asked": "Not asked \u2014 no version of 'Anything coming with you we haven't talked about?' was delivered.",
+    "explicit_ask": "Never asked \u2014 when customer objected to price ('that's way too high'), Nicole immediately closed with 'Thank you so much for considering Einstein. Moving' without ever asking 'Would you like our help with your move?'"
+  },
+  "top_strength": "Nicole gathered comprehensive logistics details (floors, distances, appliances, furniture weight, box expectations) and delivered a fully transparent pricing structure with all fee categories and time-based billing clearly explained upfront.",
+  "coaching_note": "Ask 'Their Agenda' early (before logistics probing starts) to surface customer concerns, then pause after the estimate with 'Does that feel fair?' \u2014 this gives the customer space to process and often surfaces objections you can address before they hang up, rather than losing them the moment they hear the price."
+}
