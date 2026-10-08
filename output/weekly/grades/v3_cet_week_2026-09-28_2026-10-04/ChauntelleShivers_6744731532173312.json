@@ -1,0 +1,33 @@
+{
+  "call_id": "6744731532173312",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 9.9,
+  "datetime_ct": "2026-10-03 16:50 CT",
+  "external_number": "+12814506589",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 2,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Not asked. Rep jumps straight into probing: 'So I do have a moving you from 3400 Harmon Avenue and that's in Austin one bedroom apartment on the third floor, is that correct?'",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer.",
+    "estimate_anchor": "Rep states 'right now, we had you at about three to four hours estimated time' and later 'increase the reservation to about five and a half.' No typical range anchor for apartment size, no personalization to customer's specific concerns.",
+    "explicit_ask": "Never asked. Rep says 'I will send over an updated estimate for you' and then pivots to 'Do you have any questions for me that I could answer for you?' \u2014 no closing ask for the business."
+  },
+  "top_strength": "Excellent logistics probing \u2014 rep systematically gathered detailed information about large items (L-shaped couch, 70-inch TVs, queen bed, desks, dressers, outdoor furniture), both locations' parking and elevator access, walking distances, TV mounting, and dresser drawer content, providing a thorough picture for the estimate.",
+  "coaching_note": "This call skipped the foundational Section 1 quid-pro-quo framing, never asked for their concerns or agenda, provided no pricing framing (trip fees, minimums, increments), and critically never asked for the business \u2014 rep pivoted to 'sending an estimate' instead of closing the sale."
+}

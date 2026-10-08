@@ -1,0 +1,40 @@
+{
+  "call_id": "4541200000655360",
+  "rep_name": "Brianne Newbro",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 11.0,
+  "datetime_ct": "2026-10-01 18:12 CT",
+  "external_number": "+12146766570",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 8,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skipped the time-boxed framing entirely \u2014 went straight into 'Do you have a few moments to go over that?' with no quid pro quo about availability, time box, or dependable quote promise.",
+    "their_agenda": "Rep asked 'Besides pricing, do you have any other questions or concerns you would like answered on this call?' \u2014 but this came after confirming the contact info. Probing (location details, unit number, elevator access) began immediately after the customer's response, so the agenda was asked but positioned early relative to full probing sequence.",
+    "two_layers_deep": "Couch concern: Customer raised 'the only main...probably the biggest concern...our couch' and rep responded 'She was like, I'm not doing it,' validating the concern. Customer elaborated unprompted on the difficulty moving the couch in. Rep followed with 'Okay. And then what size mattress are we moving?' \u2014 a pivot, not a second layer. However, the customer's own extended explanation about the couch challenge (two paragraphs unprompted) satisfied the depth requirement without the rep needing to explicitly probe further.",
+    "estimate_anchor": "Rep provided: 'It looks like, first Sunday October 11th the hourly rate is $206...for two movers and 126 foot box truck...I would estimate your move to take between four and a half and five and a half hours...I would like to budget between $1,000 and two...if we hit the five and a half hour mark it'd be $100,208...I honestly think will fall closer to that $4 and a half. I'm just taking into consideration time for the couch and elevators.'",
+    "pricing_framing": "Rep disclosed: $206 hourly rate for two movers and 126 ft truck, $175 trip fee, 2.5 hour minimum, time starts when on site, prorated in 15 minute increments, and 'Everything is included in that hourly rate. So the fuel and truck taxes and insurance all wrap pads.'",
+    "feels_fair_then_silence": "Rep never asked 'Does that feel fair?' or an equivalent. Moved directly from estimate into Two Promises section.",
+    "on_time_guarantee_delivered": "Rep stated: 'We do have our on-time guarantee we value your time. So, if we can't make it in the time window that we arranged, we immediately start discounting money of your final bill.'",
+    "damage_coverage_delivered": "Rep stated: 'If we do have a no worries damage coverage, or does our free evaluation coverage included in our hourly rate and that provides up to $2,000 per move to repair replace or reimburse for accidental damages.' Covers the $2,000 and inclusion in rate, but language is garbled ('If we do have' is unclear framing) and does not explicitly state 'no deductible / no fine print.'",
+    "closes_the_loop": "Rep did not ask 'Does that put those to rest?' or equivalent. Moved directly from damage coverage description into booking.",
+    "final_concerns_check": "Rep asked 'Do you have any other questions for me?' \u2014 a throwaway, not the genuine 'What's still concerning you about this move?' version.",
+    "explicit_ask": "Rep asked: 'would you like us to help you with that move?' \u2014 direct, plain, no built-in out.",
+    "rate_lock_mentioned": "Rep stated: 'there's no deposit required to get on our schedule, there's no charges or fees to cancel' \u2014 rate lock protection implied via no-deposit/no-cancel-fee, though not explicitly labeled 'rate lock.'",
+    "booking_confirmed": "Rep confirmed: date (Sunday October 11th), arrival time (8:39 AM), and mentioned sending a confirmation email and that customer will receive 'meet your mover email,' phone call confirmation the day before, and call on the day-of. Did NOT explicitly confirm phone number, crew size stated ($206 for two movers but not re-confirmed at booking), or crew notes about the couch concern."
+  },
+  "top_strength": "Rep gathered detailed logistics across both properties, special considerations (the couch problem), and clarified the customer's concerns before pricing, then delivered a personalized, anchored estimate ($1,000\u2013$2,000 with explicit reasoning tied to the couch and elevator obstacles).",
+  "coaching_note": "Add the quid pro quo time-box promise at the very start of the call before any discovery, and ask 'Does that feel fair?' after the estimate is delivered before moving into Two Promises \u2014 both are high-leverage moments in the script that were skipped."
+}

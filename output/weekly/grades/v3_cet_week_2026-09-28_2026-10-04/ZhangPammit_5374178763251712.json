@@ -1,0 +1,37 @@
+{
+  "call_id": "5374178763251712",
+  "rep_name": "Zhang Pammit",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 17.2,
+  "datetime_ct": "2026-09-29 18:05 CT",
+  "external_number": "+13233761656",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 3,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 8,
+  "section7_ask_for_the_business": 8,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'This should take about five to ten minutes of your time wherein we will ask a few personal information and some questions in line with... Upcoming move to give you an accurate quote. Which you can depend on sounds good.' \u2014 framing present but rushed; customer says 'Okay' multiple times but rep doesn't clearly wait for/confirm a yes before moving forward.",
+    "their_agenda": "Rep asks 'Do you have any concerns or anything that important things that you wanted to answer during this call today?' \u2014 but this comes AFTER the rep has already started asking for name and contact info, placing it after some probing has begun.",
+    "two_layers_deep": "Customer raises concern 'I just wanted to know if it's too small of a job for you guys.' Rep replies 'Yeah, oh, yes, we do move apartments, storage houses. Yeah, and we just ask to better address.' \u2014 concern acknowledged but no follow-up layer ('tell me more about that'), and rep pivots to asking for name immediately.",
+    "estimate_anchor": "Rep gives typical range: 'We're coming from a one bedroom apartment located on the third floor going to the new location which is one bedroom apartment which is located on the fifth floor with elevators, we'll send out two movers and one truck estimated time is between two and a half to three and a half hours estimated cost is $510.14 to $714.' Personalized to customer's specific move (floors, elevators, two movers/one truck).",
+    "pricing_framing": "Rep discloses all-inclusive pricing ('gas trucks taxes and insurance all the wraps, the pods, the bunds... and all of the tools'), mentions minimum ('minimum of two and a half hours'), and 15-minute increments ('once you go over that it will always be prorated in to fifteen minute increments'). Full framing present.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or equivalent. After giving the estimate range, rep immediately launches into explanation of how to prepare and minimum-hour logic \u2014 no pause for customer reaction.",
+    "final_concerns_check": "Rep asks 'Do you still have any other questions or concerns?' \u2014 a genuine version, not just 'any questions?'",
+    "explicit_ask": "Rep asks 'So, I just wanted to check would you like our help with your move on the 16th of October. Would you like me to lock that in for you?' \u2014 plainly asked with no built-in out.",
+    "rate_lock_mentioned": "Rep says 'there's no deposit required, no risk and securing your spot in case if you wanted to reschedule or to cancel then all you have to do is just something give us a call' \u2014 rate lock not explicitly mentioned; rather, no-deposit/no-risk framing is used.",
+    "booking_confirmed": "Rep confirms date ('Friday the sixteenth'), time ('9:00 AM'), and mentions sending confirmation email ('I'll send you the confirmation email with regards to this'). Missing: phone number re-confirmation, arrival window clarity (2-hour window mentioned but not re-confirmed in booking), crew size (2 movers implied but not re-stated at close), addresses (not re-confirmed), and crew notes about customer concerns."
+  },
+  "top_strength": "Rep delivered a complete, transparent pricing explanation upfront with all-inclusive framing, fee transparency, the 2.5-hour minimum, and 15-minute increment logic \u2014 making the estimate easy to understand and building trust in the math.",
+  "coaching_note": "Pause and listen after the estimate is delivered \u2014 never skip the 'Does that feel fair?' check and the silence that follows; it's where customer objections surface that you haven't heard yet."
+}

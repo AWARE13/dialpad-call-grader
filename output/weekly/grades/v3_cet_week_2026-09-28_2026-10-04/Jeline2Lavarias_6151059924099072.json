@@ -1,0 +1,35 @@
+{
+  "call_id": "6151059924099072",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 6.3,
+  "datetime_ct": "2026-09-29 14:56 CT",
+  "external_number": "+18177392834",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 79,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Jeline: 'usually this could take ten to fifteen minutes of your time. Will that be okay with you?' \u2014 framing present (time-boxed), but no explicit promise of a dependable quote and no clear wait for yes before pivoting to address collection.",
+    "discovery_basics": "Name: 'Chandler Hilton' \u2713 | Moving day: 'end of December' / 'December 29th Tuesday as placeholder' \u2713 | Route: 'Bastrop Texas' to 'Austin Texas' \u2713 | Size: '1800 square feet' \u2713",
+    "walkthrough_branch": "Jeline: 'since this is, we also consider this as a large house to 1800 square feet. So, I'll just endorse your profile to one of the moving specialist... we conduct a virtual walkthrough. So it's like a video call where you have to show as the house and the furniture that we will be moving.' \u2014 correctly offered at 1,800 sq ft threshold.",
+    "their_agenda": "Not asked. Rep moved directly into discovery (pickup address, property type, square footage) without asking 'what are your biggest concerns about this move, and what do you want answers to on this call?'",
+    "packing_services": "Chandler asked: 'do you all offer a packing and unpacking services or do you just move?' Jeline answered it but did not proactively offer it as part of the script \u2014 the customer initiated the question.",
+    "box_count": "Not asked.",
+    "walkthrough_routing": "Clean routing confirmed. Jeline: 'I'll just endorse your profile now to one of the moving specialist so she can email you the initial code and yeah, just reply to that email and then hopefully we can schedule the virtual walkthrough, whatever you're available.' Chandler confirmed: 'Okay, thank you.' No abandonment or mid-stream dropout."
+  },
+  "top_strength": "Rep correctly identified the 1,800 sq ft threshold, offered the virtual walkthrough in Section 1 (not after probing), and cleanly routed the call to a specialist without pricing on this call\u2014textbook walkthrough-scheduler execution.",
+  "coaching_note": "Ask for 'their agenda' (biggest concerns and what they want answered on the call) *before* diving into logistics discovery\u2014it was skipped entirely here, and it anchors the whole Section 2 conversation."
+}

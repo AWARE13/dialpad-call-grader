@@ -1,0 +1,43 @@
+{
+  "call_id": "6533957488517120",
+  "rep_name": "Jevic Lazanas",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 5.4,
+  "datetime_ct": "2026-10-03 14:19 CT",
+  "external_number": "+12103914170",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 2,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 4,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 37,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "section1_opening": "Rep never frames time-box, dependable quote promise, or waits for customer buy-in before diving into existing account details.",
+    "their_agenda": "No version of 'other than price, what are your biggest concerns' asked. Customer volunteers a concern (packing assistance needed), but rep never probes their broader agenda.",
+    "two_layers_deep": "N/A \u2014 customer raised a concern about packing services, but rep treated it as a transactional add-on question rather than a deeper concern to explore.",
+    "active_listening_reflection": "N/A \u2014 no agenda-gathering, so no summary reflection attempted or needed.",
+    "estimate_anchor": "Rep gives $2,071 estimate including 5.5-hour packing + 3-hour moving + $217 supplies for a two-bedroom apartment. Range is missing; estimate is softened by 'just an estimate' language but not personalized to customer's stated situation (someone staying behind, partial pack only).",
+    "pricing_framing": "Rep mentions $217 in packing supplies and 'only charge you based on actual materials use' and 'actual hours use,' but does not disclose trip fees, overnight fees, 2.5-hour minimum, or 15-minute-increment commitment framing.",
+    "feels_fair_silence": "Rep never asks 'Does that feel fair?' or any version of it. No silence discipline applied.",
+    "on_time_guarantee": "Never mentioned.",
+    "damage_coverage": "Never mentioned.",
+    "closes_the_loop": "No 'Does that put those to rest?' or loop-closure attempt.",
+    "final_concerns_check": "Rep asks 'will there be anything else or any questions that you'd like answers to?' \u2014 generic throwaway phrasing, not 'What's still concerning you about this move?'",
+    "catch_all": "Never asked.",
+    "explicit_ask": "Rep never says 'Would you like our help with your move?' or any direct ask. Rep says 'So would you like to go ahead and you know confirm the packing and the moving for the same day?' \u2014 but this is confirming an existing booking, not asking for the business initially. No explicit close-the-sale ask.",
+    "booking_confirmed": "Rep confirms Friday, October 9th and mentions email confirmation will follow. Phone number, arrival window, crew size, addresses, and notes for crew are not confirmed on this call."
+  },
+  "top_strength": "Rep quickly and clearly explained packing-service add-on logistics, supplies cost, and hour estimates in a way the customer could understand and asked clarifying questions when the customer was confused about the breakdown.",
+  "coaching_note": "This call skipped Section 1's core quid-pro-quo framing entirely, never discovered the customer's broader concerns beyond the transactional packing question, abandoned both Two Promises sections completely, and closed without an explicit ask for the business \u2014 you're confirming an existing booking, not selling the move; rebuild from the opening frame and probing layers."
+}

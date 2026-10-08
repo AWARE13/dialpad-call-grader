@@ -1,0 +1,33 @@
+{
+  "call_id": "5962568986566656",
+  "rep_name": "Nicole Tolete",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 5.1,
+  "datetime_ct": "2026-10-01 14:00 CT",
+  "external_number": "+15127887568",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 8,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 70,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "This call will just take around ten to fifteen minutes then I will be able to build you an accurate code you can depend on, sounds good.",
+    "discovery_basics": "Rep asked about virtual walkthrough timing and scheduled for 'tomorrow at 2:00 PM central' but never explicitly asked for name confirmation, moving day, route, or home size in discovery sequence.",
+    "walkthrough_branch": "Customer asked for in-person walkthrough, rep pivoted to virtual walkthrough offer and scheduled it \u2014 correct routing for large moves.",
+    "their_agenda": "Never asked 'Other than price, what are your biggest concerns about this move?'",
+    "pricing_explanation": "Rep provided hourly rate ($202), travel fee ($960), overnight fee ($240), packing materials, and fee structure but this was offered proactively during the 'five minutes' explanation, not in response to customer concerns or during Section 4."
+  },
+  "top_strength": "Nicole correctly identified the customer's preference for an in-person walkthrough, pivoted smoothly to a virtual alternative, and scheduled the follow-up call cleanly with a specific time and link delivery.",
+  "coaching_note": "Section 2 (Their Concerns) was skipped entirely \u2014 before pivoting to the walkthrough scheduler, ask 'Other than price, what are your biggest concerns about this move?' to surface agenda, then use that context when explaining pricing during the interim five-minute window."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "5554099594764288",
+  "rep_name": "Brianne Newbro",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 5.0,
+  "datetime_ct": "2026-10-01 15:28 CT",
+  "external_number": "+12109192929",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 1,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Not asked. Rep moved directly into logistics probing without asking 'Other than price, what are your biggest concerns about this move?'",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer; rep did not create space for them.",
+    "estimate_anchor": "No estimate given at all. Rep stated '2.5 hour minimum' and '15 minute increments' but never provided a price range or anchored estimate for this move.",
+    "explicit_ask": "Never asked. Rep said 'Awesome. Thank you so much for your time Allison' and closed the call without asking 'Would you like our help with your move?' or any variant. Call ended mid-process."
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details (apartment floor/stairs, both addresses, parking access, bedroom count, furniture inventory including two TVs, box count range) and confirmed the arrival window clearly.",
+  "coaching_note": "This call never moved past discovery \u2014 no estimate was quoted, no Two Promises were delivered, and no explicit ask for the business was made; the rep appears to have been conducting a confirmation/prep call for an already-booked move (October 13th) rather than a sales call, which explains the structural gaps, but the transcript shows a sales call intake path that was abandoned mid-stream without a pricing or close component."
+}

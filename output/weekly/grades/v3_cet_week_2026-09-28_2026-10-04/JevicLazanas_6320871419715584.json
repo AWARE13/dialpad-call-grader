@@ -1,0 +1,42 @@
+{
+  "call_id": "6320871419715584",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 15.9,
+  "datetime_ct": "2026-09-30 20:15 CT",
+  "external_number": "+14027073431",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 3,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'this will take about ten minutes. Is that okay?' but does NOT explicitly frame the value prop ('quote you can depend on') or wait for a clear yes before moving into property confirmation. Proceeds immediately to logistics confirmation.",
+    "their_agenda": "Asked AFTER probing began. Rep asked about special items, TVs, fragile items first, then asked: 'what are your biggest concerns or what are the most important things you want answers to on this call today, aside from the pricing and the rate?' Customer responds with 'The pricing and duration' but rep does not dig deeper into duration concern.",
+    "two_layers_deep": "Rep does not follow up on the stated concerns (pricing and duration). When customer mentions 'duration,' rep does not ask 'tell me more about that' or probe the concern further\u2014simply acknowledges and pivots to packing question.",
+    "active_listening_reflection": "No reflection back. Concerns are mentioned but never summarized or confirmed with the customer (e.g., 'So what I'm hearing is that duration and pricing are your main concerns\u2014did I get that right?').",
+    "estimate_anchor": "Full anchor and personalization present: 'based on the details you provided, you are moving from a ground floor two bedroom apartment to a ground floor three bedroom condo and have requested for full packing services...approximately twelve hours total...around $2,692. This estimate includes approximately $217 in packing supplies and a one time trip fee of $75.'",
+    "pricing_framing": "Trip fee ($75) and packing materials ($217) disclosed upfront. Two-and-a-half-hour minimum and fifteen-minute increments explained. No explicit 'not a guess' commitment language.",
+    "feels_fair_then_silence": "Never asked. Rep moves directly from estimate explanation into customer question handling without using 'Does that feel fair?' or similar close-ended confirmation.",
+    "on_time_guarantee_delivered": "Fully delivered with discount terms: 'if we can't make it in the time window that we arrange, we immediately start discounting money of your final bill.'",
+    "damage_coverage_delivered": "Fully delivered: 'Our free evaluation coverage included in our hourly rate provides up to $2,000 per move to repair or replace or reimburse for accidental damages.' No-deductible and built-in framing clear.",
+    "closes_the_loop": "Does not ask 'Does that put those to rest?' or similar closing confirmation. Moves directly into estimate explanation without confirming the two promises address the customer's concerns.",
+    "final_concerns_check": "Not asked. Rep goes directly to 'do you have any other questions or clarification, sir?' which is a throwaway close, not 'What's still concerning you about this move?'",
+    "catch_all_asked": "Not asked. No version of 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Asked with an out: 'would you like our help with your, with, you know, with the packing and then moving for November 13th and November 14th.' Customer responds 'I'm still shopping around and determining what the exact move-in date is going to be. If you could forward me a quote to my email address, that would be appreciated.' Rep accepts and offers email instead of re-engaging.",
+    "rate_lock_mentioned": "Not mentioned. No language about 'securing' or 'locking in' the rate.",
+    "booking_confirmed": "Only email address confirmed. No date, phone number, arrival window, crew size, destination address, or crew notes captured before ending the call."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details (furniture inventory, walking distances, room layout, special items) and delivered both the On-Time Guarantee and No Worries Damage Coverage promises with full, clear terms.",
+  "coaching_note": "Biggest gap: customer said 'duration' was a concern but rep never dug into it with a follow-up question, and then failed to ask 'Does that feel fair?' after pricing or conduct any genuine final concerns check before accepting the 'send me a quote' exit\u2014two separate opportunities to address the stated concern were missed."
+}

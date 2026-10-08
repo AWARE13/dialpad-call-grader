@@ -1,0 +1,41 @@
+{
+  "call_id": "5952461581099008",
+  "rep_name": "Therese Ablang",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 7.7,
+  "datetime_ct": "2026-10-02 20:21 CT",
+  "external_number": "+12103479189",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 54,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep launches directly into confirming booking details (\"you are currently booked for Monday October 12th\") with no time-boxed framing or promise of a dependable quote. No wait for customer agreement to the call structure.",
+    "their_agenda": "Never asked. Rep moves directly from probing logistics to estimate.",
+    "logistics_details_gathered": "Property type (1BR apt), floor/stories (garage at ground level, unit on higher floor implied), rooms (1BR stated), walking distance (garage close to unit), special considerations (dresser weight, bed frame, TV mounted, drawer contents, moving blankets for storage unit), additional stops (storage unit destination). All seven logistics categories covered.",
+    "estimate_anchor": "\"I see that this move was estimated at three and a half hours with two movers in a truck with no additional fees of any type. And so we are looking at a total estimated cost of about $728.\" Personalized to customer's specific scenario (storage unit, 1BR, 15-25 boxes, two movers, 3.5 hours).",
+    "pricing_framing": "\"The only thing that we do have is a two and a half hour minimum. If and when we exceed the two and a half hours, we charge in fifteen minute increments at the same hourly rate.\" Trip fees and overnight fees not mentioned. Minimum and increments framing present; fee transparency incomplete.",
+    "feels_fair_then_silence": "Rep never asks \"Does that feel fair?\" or equivalent. After stating the estimate, rep asks \"Did you have any questions with regards to our pricing or the estimate?\" (a question, not the framing, and no pause held \u2014 customer says \"No, sounds good with me\" immediately).",
+    "on_time_guarantee_delivered": "Not mentioned.",
+    "damage_coverage_delivered": "Not mentioned.",
+    "closes_the_loop": "Rep does not deliver or reference the Two Promises section at all.",
+    "final_concerns_check": "Rep states \"if you do come up with any questions, any concerns or if anything changes with regards to the move,\" but this is framed as a forward-looking invitation for future contact, not a genuine final check for current concerns (\"What's still concerning you about this move?\").",
+    "catch_all_asked": "Not asked.",
+    "explicit_ask": "Rep never asks \"Would you like our help with your move?\" or any variant. Booking was already confirmed at intake; this call treats it as a pre-move coordination call, not a sales pitch requiring an explicit ask for the business."
+  },
+  "top_strength": "Therese gathered comprehensive logistics details efficiently\u2014property type, floor/stories, rooms, walking distance, special items (dresser, bed frame, TV, drawer contents, storage unit setup), and box count\u2014all the information needed for a precise estimate.",
+  "coaching_note": "Lead with the quid pro quo frame (time-boxed, promise of a dependable quote) before confirming booking details; deliver the Two Promises (On-Time Guarantee and No Worries Damage Coverage) as standalone commitments; and ask a genuine final concerns check (\"What's still concerning you?\") rather than a throwaway question, so customers know they've been heard on everything that matters."
+}

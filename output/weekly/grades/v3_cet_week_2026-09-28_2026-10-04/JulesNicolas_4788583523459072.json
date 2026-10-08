@@ -1,0 +1,36 @@
+{
+  "call_id": "4788583523459072",
+  "rep_name": "Jules Nicolas",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 12.2,
+  "datetime_ct": "2026-10-02 14:13 CT",
+  "external_number": "+14849478305",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 46,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never frames the 10\u201315 minute time box or promises a dependable quote. Jumps straight from 'Let me make sure we have availability' into scheduling.",
+    "their_agenda": "Customer's concerns about size and complexity of move surface organically ('this would in essence be a two place pickup'), but rep never asks 'Other than price, what are your biggest concerns?' or explicitly discovers what they want answered on the call.",
+    "estimate_anchor": "Rep gives hourly rate ($190/hr for 3 movers + $140 trip fee) and minimum ($615 for 2.5 hrs) but does not anchor to a typical range for a home this size, nor does he personalize to this customer's stated complexity (two pickups, first-floor-to-second-floor, furniture-only, gated community). Pricing is bare-bones.",
+    "pricing_framing": "Trip fee disclosed ($140), hourly rate explained ($190), but no 'not a guess' framing, no 2.5-hour minimum explanation tied to a commitment, no 15-minute-increment transparency. Fee disclosure is present but weak on the confidence/commitment side.",
+    "feels_fair_then_silence": "Never asked. Customer says 'I'm gonna have to discuss this with my husband and get back to you' \u2014 rep accepts this without ever asking 'Does that feel fair?' or holding space for reaction.",
+    "explicit_ask": "Rep says 'No problem feel free to give us a call with when you're ready to schedule' \u2014 this is a passive hand-off with a built-in out (call us back), not 'Would you like our help with your move?' asked plainly.",
+    "booking_confirmed": "No booking confirmed at all. Customer defers to discuss with husband; rep does not secure date, phone, arrival window, crew size, or move notes. Call ends with customer saying they'll call back."
+  },
+  "top_strength": "Jules gathered extremely thorough logistics details on two separate pickups, building numbers, floor levels, exact item counts, and gated-community access requirements \u2014 that was comprehensive and well-organized.",
+  "coaching_note": "Jules never asked for the customer's concerns upfront (Section 2), never anchored pricing to typical range or personalized it (Section 4), and ended with a passive hand-off instead of asking plainly 'Would you like our help with your move?' and actually booking them (Section 7) \u2014 the call lacks the structure and closing discipline the script requires."
+}

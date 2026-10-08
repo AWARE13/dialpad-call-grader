@@ -1,0 +1,43 @@
+{
+  "call_id": "5493013050859520",
+  "rep_name": "Brianne Newbro",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 5.6,
+  "datetime_ct": "2026-09-30 18:55 CT",
+  "external_number": "+12108757649",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 38,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep launches into logistics discussion immediately: 'Okay. So we can go about this two different ways. So first of all, I think the most, the easiest one is actually us picking up everything at the, excuse me, amo ranch house...' No time-box framing or promise of a dependable quote, no wait for customer confirmation.",
+    "their_agenda": "Never asked. Rep moves straight into logistics and pricing without ever asking 'what are your biggest concerns about this move, what do you want answers to on this call?'",
+    "logistics_details_gathered": "Property type not established clearly; floor/stories not asked; rooms count not explicitly asked; walking distance not asked; additional rooms/special considerations touched only via safe weight ($600 mentioned by customer, addressed by rep); no overflow/box count discussion.",
+    "estimate_anchor": "Range provided (8.5\u20139.5 hrs for 3 movers/$2,731.50\u2013$3,050; 6\u20137 hrs for 4 movers/$2,577\u2013$2,989) but NOT personalized to customer's specific situation beyond mentioning trip fee ($105). No framing that ties the estimate to their stated concerns or prep level.",
+    "pricing_framing": "Trip fee disclosed ($105 outside 15-mile radius). No mention of 2.5-hour minimum, 15-minute increments, or 'not a guess' commitment. Partial credit only for fee transparency.",
+    "feels_fair_then_silence": "Never asked 'Does that feel fair?' Customer concern ('I worry that they're wasting a lot of time in the truck driving over to the second house') is acknowledged and addressed, but the 'does that feel fair' close is absent.",
+    "on_time_guarantee_delivered": "Not mentioned at all.",
+    "damage_coverage_delivered": "Not mentioned at all.",
+    "closes_the_loop": "No closure on the Two Promises section; no confirmation that concerns are addressed.",
+    "final_concerns_check": "Not asked. Call ends with 'thanks Justin. Bye.'",
+    "catch_all_asked": "Not asked.",
+    "explicit_ask": "Never asked 'Would you like our help with your move?' Rep offers to email and lets customer decide: 'I can just email it all over and then you can have that way you can just look over everything.' Customer self-closes: 'I'll look out for your email and then I'll let you know...'",
+    "rate_lock_mentioned": "Mentioned in passing ('We do have 8:39 AM arrival time for those dates available') but no explicit rate-lock or no-deposit framing per the script.",
+    "booking_confirmed": "Partial: Date options discussed and confirmed (7th and 14th available). Arrival time mentioned (8:39 AM). Phone number and crew size discussed. But no explicit confirmation of addresses, no notes left for crew about customer concerns, no full booking confirmation sequence."
+  },
+  "top_strength": "Brianne navigated a two-location move logistics challenge clearly and provided transparent truck/crew options with honest cost comparison, helping the customer see the value of the four-mover solution.",
+  "coaching_note": "Open with the quid pro quo framing (time-box and promise of a dependable quote) before diving into logistics, and never skip the explicit ask \u2014 'Would you like our help with your move?' is the call-closing anchor; emailing an estimate without that ask leaves the close entirely to the customer."
+}

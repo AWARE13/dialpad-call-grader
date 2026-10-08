@@ -1,0 +1,41 @@
+{
+  "call_id": "6666209036902400",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 11.7,
+  "datetime_ct": "2026-09-30 19:19 CT",
+  "external_number": "+15107177967",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 5,
+  "total_score": 54,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep jumps directly into availability check ('When are you planning to do this? So I can check the availability') with no time-box framing or promise of a dependable quote. No 'Does that sound good to you?' confirmation.",
+    "their_agenda": "Not asked. Rep moves straight into probing after Monique describes the job (pod unload, bed frames, cabinets). No version of 'Other than price, what are your biggest concerns?'",
+    "two_layers_deep": "N/A \u2014 customer explicitly stated 'No, this is my first time so I don't know what to expect' when asked about concerns, signaling no concerns to probe.",
+    "active_listening_reflection": "N/A \u2014 no concerns raised to reflect back.",
+    "estimate_anchor": "Rep provides typical range for an eight-foot pod ('normally for an eight foot pod, we only finish unloading this in one and a half hour') and personalizes to the two-story house and 2.5-hour minimum, landing on $520 total. Fully anchored and personalized.",
+    "pricing_framing": "Rep discloses hourly rate ($208/hr for two movers), explicitly states 'no hidden fees of any type' and details 2.5-hour minimum with 15-minute increments. Both elements present.",
+    "feels_fair_then_silence": "Not asked. Rep moves directly to answering Monique's follow-up question about gas inclusion ('Does that include the gas?') without asking 'Does that feel fair?' or pausing for customer reflection.",
+    "on_time_guarantee": "Not delivered. No mention of On-Time Guarantee, discount terms, or lateness policy.",
+    "damage_coverage": "Not delivered. No mention of No Worries Damage Coverage, $2,000 coverage, or deductible framing.",
+    "explicit_ask": "Rep says 'Would you like to go ahead and schedule your move with us or should I send you an email with the details so you can review?' \u2014 this includes a built-in out ('or should I send you an email'), softening the ask.",
+    "rate_lock": "Rep states 'And then here at ein ma'am we do not require any deposit if you want to secure your schedule for November 5th Thursday so no risk and securing your spot.' Rate lock / no-deposit mentioned.",
+    "booking_confirmed": "Partial. Rep confirms: date (November 5th Thursday), arrival window options (morning 8:30\u20139 AM, afternoon 12\u20132 PM), crew size (two movers), email for confirmation. Missing: phone number re-confirmation, specific addresses re-confirmation as part of booking, crew notes about customer concerns. Email is sent as follow-up, not live booking."
+  },
+  "top_strength": "Jeline gathered all core logistics details efficiently (2,100 sq ft, two-story, eight-foot pod location, special items check) and delivered a clear, anchored estimate ($520, 2.5 hours, two movers) with full pricing transparency and fee disclaimers.",
+  "coaching_note": "You skipped Section 2 entirely \u2014 'Other than price, what are your biggest concerns about this move?' must be asked before any probing, and Section 5's Two Promises (On-Time Guarantee and Damage Coverage) were not delivered at all; these are non-negotiable trust-builders that belong on every call."
+}

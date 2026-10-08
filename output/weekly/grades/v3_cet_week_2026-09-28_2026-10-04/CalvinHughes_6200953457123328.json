@@ -1,0 +1,33 @@
+{
+  "call_id": "6200953457123328",
+  "rep_name": "Calvin Hughes",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 9.4,
+  "datetime_ct": "2026-10-02 16:49 CT",
+  "external_number": "+15122304863",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Not asked. Rep moves directly into probing about the new address and move logistics without first asking 'Other than price, what are your biggest concerns?'",
+    "two_layers_deep": "N/A \u2014 customer raised concerns about cost ($3,400 quote being high, wanting cheaper weekday rate) but rep did not ask follow-up probing questions like 'tell me more about that.' Rep mostly acknowledged and pivoted to the solution (weekday pricing).",
+    "estimate_anchor": "Calvin: 'Yeah, definitely I would put it more at like, yeah, four and a half to six that would probably more than like the $1,900 and 2300. Range for, for a cost estimate with the, with the rate at $384.' This anchors the estimate to a typical range ($1,900\u2013$2,300) and personalizes it to the customer's specific move (weekday rate, easier access, same load as last time).",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' Instead, rep said 'I can send over a confirmation email for October 19th' and moved directly to logistics confirmation without an explicit ask for the business."
+  },
+  "top_strength": "Calvin successfully gathered all core discovery details (name, move date, route, approximate size) and built trust by referencing the customer's prior move history, demonstrating continuity and familiarity that put the customer at ease.",
+  "coaching_note": "Skip the quid-pro-quo framing entirely and never ask 'Their Concerns' first \u2014 these are non-negotiable call openers that build control and permission; without them, the call feels transactional rather than consultative, and you miss critical discovery that affects pricing accuracy."
+}

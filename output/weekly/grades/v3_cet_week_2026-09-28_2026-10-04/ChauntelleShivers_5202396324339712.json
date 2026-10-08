@@ -1,0 +1,38 @@
+{
+  "call_id": "5202396324339712",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 18.4,
+  "datetime_ct": "2026-10-01 17:57 CT",
+  "external_number": "+15123088090",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Never asked. Rep moves directly into logistics probing without asking 'Other than price, what are your biggest concerns about this move?'",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer that required follow-up.",
+    "active_listening_reflection": "N/A \u2014 no concerns raised to reflect back.",
+    "estimate_anchor": "Rep says: 'I'm getting this moved including the drive probably between three to four hours... We would be looking at cost wise between $805 and probably about $1,035.' Anchored to typical range for this move size and personalized to the drive time and straightforward nature.",
+    "pricing_framing": "Trip fee disclosed: '$115 trip fee since we're moving from Austin to Leander.' Two-and-a-half-hour minimum mentioned: 'we do have a two and a half hour minimum and you do only pay for the time that you use.' However, '15-minute increments' framing and 'not a guess' commitment framing are absent.",
+    "feels_fair_then_silence": "Never asked. Rep does not ask 'Does that feel fair?' or similar validation question.",
+    "on_time_guarantee": "Not delivered.",
+    "damage_coverage": "Not delivered.",
+    "explicit_ask": "Rep never asks 'Would you like our help with your move?' or equivalent. Instead, rep says: 'Completely up to you if you want to go ahead and reserve that free truck you can.' This is a soft, optional framing with an easy out, but the underlying ask is also never explicitly stated."
+  },
+  "top_strength": "Chauntelle gathered comprehensive logistics details (property type, floor level, proximity to door, detailed inventory, destination address, delivery location details) and provided a personalized, anchored estimate ($805\u2013$1,035 for 3\u20134 hours including drive and trip fee) that felt accurate and grounded in the customer's actual move profile.",
+  "coaching_note": "Section 2's 'Other than price, what are your biggest concerns?' must be asked before any logistics probing starts; Section 5's Two Promises (On-Time Guarantee and No Worries Damage Coverage) were entirely skipped; and Section 7's explicit ask for the business ('Would you like our help?') was never plainly stated\u2014these three structural gaps are the primary gaps holding this call back from passing."
+}

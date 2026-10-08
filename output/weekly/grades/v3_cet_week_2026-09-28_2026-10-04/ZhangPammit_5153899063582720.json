@@ -1,0 +1,43 @@
+{
+  "call_id": "5153899063582720",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 10.3,
+  "datetime_ct": "2026-10-01 20:11 CT",
+  "external_number": "+13377617233",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Roselyn: 'basically we just wanted to ask you a few questions in order for us to give you a perfect code this would take within the next five to ten minutes of your time. Would that be okay?' \u2014 framing present but rushed; rep moves immediately into 'so let's talk about your move' without waiting for a clear yes or letting the promise of a dependable quote register.",
+    "their_agenda": "Roselyn: 'What do you have any concerns or any important things that you wanted to answer during this call today?' \u2014 asked, but only after saying 'let's talk about your move,' meaning probing (address confirmation) had already begun before this was asked.",
+    "two_layers_deep": "Customer says 'I'm on a one month, income disability. So I'm trying to find a quote that I could handle.' Roselyn responds 'Mm-hmm' and immediately pivots to logistics ('So let me just confirm if you have the details correctly'). No follow-up like 'tell me more about that' or clarification on what 'handle' means in budget terms. Later, customer says 'I really don't have nobody to help me really move' and Roselyn says 'No worries... that is why we're here to help you out' \u2014 acknowledged but not explored deeper.",
+    "active_listening_reflection": "No summary reflection. Roselyn acknowledges concerns inline ('Okay, no worries') but never says something like 'So what I'm hearing is you need an affordable move and you don't have help \u2014 did I get that right?'",
+    "logistics_gathered": "Covered: property type (apartment), floor/stories (first/ground floor at both locations), number of rooms (one bedroom), walking distance (50 feet pickup to door, 20 feet at destination), access concerns (breezeway, general layout). Not clearly covered: additional rooms (asked 'any additional room aside from one bedroom' but customer said no), special considerations (customer mentioned heavy items but not systematically asked about full special-considerations inventory). Box count asked but not overflow/special items check (china, books).",
+    "packing_services": "Not asked. Roselyn discusses boxes and efficiency related to prep but never asks 'Would you like us to pack your items into boxes for you?'",
+    "estimate_anchor": "Roselyn: 'a typical one bedroom apartment would normally takes two movers and one truck that is between two and a half to three and a half hours to completely move-in your keys... estimated cost is from $552 to $672.' Personalized to customer's prep level: 'the most important one is how well prepared you are when we get there... we'll lose some of our efficiency when we get done to small miscellaneous items.' Customer then confirms 'I'm doing all my packing. Like I said, I'm doing all my package so everything will be packed already.' Estimate is anchored and personalized.",
+    "pricing_framing": "Trip fee: not mentioned. Overnight fee: not mentioned. Fee transparency: 'we charge an early we of 96 dollars per hour per mover and we provide 26 foot box truck with everything needed... all the wraps the parts, the bond to protect your item... and all of the tools.' Minimum/increments: 'We have a minimum of two and a half hours... it will always be prorated the fifteen minute increments.' Framing present but incomplete \u2014 no trip or overnight fees disclosed; however, the 2.5-hour minimum and 15-minute increments commitment is clear.",
+    "feels_fair_then_silence": "Not asked at all. Roselyn moves from pricing straight into 'So in case if you still have extra time just to prepare' and logistics, skipping the 'Does that feel fair?' checkpoint entirely.",
+    "on_time_guarantee": "Roselyn: 'we have on time guarantee we value your time. So, if you cannot make it to the time window that we arrange, we immediately start discounting money of your final bill.' Discount terms mentioned clearly.",
+    "damage_coverage": "Roselyn: 'we have no worry damage coverage included on the R-D weight that you're paying us. We will provide up to 2000 dollars per move. That is the repair, replace and reimburse for items.' Built-in framing ('included on the R-D weight') is clear; no-deductible/no-fine-print explicitly stated ('no hidden fees of any type... no credit card fees, no stair will fee').",
+    "closes_the_loop": "No version of 'Does that put those to rest?' asked. After the Two Promises section, Roselyn pivots to time windows and booking without closing the loop on the promises.",
+    "final_concerns_check": "Never asked. Roselyn moves from the estimate/booking window directly into 'Would you like our help with your move?' with no genuine 'What's still concerning you?' or even throwaway 'Any questions?' before the ask.",
+    "explicit_ask": "Roselyn: 'Would you like our help with your move?' \u2014 asked plainly, but when customer says 'The price is kinda high for me,' Roselyn immediately offers an out: 'do you still want me to send you the email CAD by any chance?' This is a built-in out that softens the ask.",
+    "rate_lock": "Not mentioned. No 'rate is locked in' or similar commitment.",
+    "booking_confirmed": "Partial. Roselyn confirms: 'upon checking here on the 26th of October we can be able to book your status early as 8:30 AM to 9:00 AM' (date and arrival window). Phone number and addresses were gathered earlier in the call. Crew size mentioned earlier ('two movers and one truck'). However, no confirmation of final details at booking, and no notes left for the crew about the customer's concerns (budget sensitivity, lack of helper). Call ends without a final confirmation recap after customer declines."
+  },
+  "top_strength": "Roselyn gathered comprehensive logistics details across both locations and delivered clear, full pricing and Two Promises transparency early enough for the customer to understand value before the ask.",
+  "coaching_note": "Add a genuine final concerns check before asking for the business \u2014 the customer raised a price concern at the very end with no opportunity for the rep to address it, and the rep never asked 'What's still concerning you?' to surface objections while there was still time to respond."
+}

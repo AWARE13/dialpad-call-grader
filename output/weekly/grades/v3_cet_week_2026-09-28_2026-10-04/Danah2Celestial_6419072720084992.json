@@ -1,0 +1,42 @@
+{
+  "call_id": "6419072720084992",
+  "rep_name": "Danah 2Celestial",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 13.5,
+  "datetime_ct": "2026-09-28 15:59 CT",
+  "external_number": "+15129665366",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 8,
+  "total_score": 72,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Danah: 'Yeah, we still have availability there and then Britney to put together an estimate. I'll be asking you some questions would take about seven to ten minutes so I can give you a quote you can depend on. Sounds good.' \u2014 Time-boxed and quote promise framed, but customer responds 'Sure' and Danah doesn't explicitly wait for a yes before moving forward; transitions immediately to 'Alright, perfect. Alright, so before we get into the details...'",
+    "their_agenda": "Danah: 'So other than the price what are your biggest concerns about this one. And any questions you want answers to on this call?' \u2014 Asked before any probing.",
+    "two_layers_deep": "Customer raises two concerns: (1) 'I freaked out the online quote when I said, like, the size of the house I'm moving to but the amount of stuff is a, like one bedroom apartment.' Danah responds with explanation but does not dig deeper with 'tell me more about that.' (2) 'I'm looking to do two drop-off. One at a storage unit and one at a house and they're like five minutes from each other.' Danah says 'Got it. Yeah, so first of all about the house that you're moving into...' and provides answer, but does not follow up with probing to understand the concern deeper. Later customer says 'my couch is a little heavy other than that, no.' Danah asks 'do you have any items there that you're very concerned about?' which is a follow-up, but it's brief acknowledgment, not two-layer probing.",
+    "active_listening_reflection": "No summary reflection. Danah acknowledges concerns and explains responses but never says something like 'So what I'm hearing is [X], [Y], and [Z]. Did I get all of it?'",
+    "estimate_anchor": "Danah: 'So, I know you're going to be looking at around $1,688 to $2,148 that inclusive for fee already and we are a time based company so essentially it'll depend on how well prepared you are and you only pay for the actual time use on to move.' \u2014 Range given and personalized to move time and customer preparation level.",
+    "pricing_framing": "Danah: 'So pricing is very simple. So Saturday, that's one of our peak days so the hourly rate for two movers is $230 everything's already included there, the gas and the truck taxes and insurance... The only thing outside of the hourly rate is a one time trip fee of $768... And we don't have any hidden fees here... Then we have a two and a half hour minimum for any move. Once we go over that the time is prorated in fifteen minute increments.' \u2014 Fees disclosed upfront (trip fee, no hidden fees), minimum and increments stated clearly.",
+    "feels_fair_then_silence": "Danah: 'Does that feel fair?' Customer: 'That sounds great.' \u2014 Asked and silence held; customer responds positively without rep talking over.",
+    "on_time_guarantee_delivered": "Danah: 'So we value your time here like, it's our own. So when we book your move, we will lock in a firm arrival window for you. And if we're late $50 comes up immediately then after the first hour it's an extra $25 for every fifteen minutes after that.' \u2014 Discount terms clearly stated (starts immediately, $50 + $25 per 15 min after first hour).",
+    "damage_coverage_delivered": "Danah: 'If something does get damaged, that's our no worries damage coverage. So up to $2,000 included in the hourly rate and we pay it out in 46 days.' \u2014 $2,000 covered and stated as 'included in the hourly rate,' but does not explicitly say 'no deductible' or 'no fine print' framing.",
+    "closes_the_loop": "After delivering Two Promises, Danah asks 'Do you have any questions so far before we get into the details?' but does not ask a closing version of 'Does that put those to rest?' to explicitly confirm the promises landed. No explicit loop-closer.",
+    "final_concerns_check": "Danah: 'Alright, so we've got everything here now before I built your estimate Britney, do you have any questions, any concerns so far?' \u2014 This is asked before estimate, not after. After pricing, no version of 'What's still concerning you about this move?' is asked. The call goes straight from 'Does that feel fair?' to 'Okay, great. So, yeah, Britney if you want we can go ahead and cancel you in...'",
+    "catch_all_asked": "Not asked. No version of 'Anything coming with you we haven't talked about?' appears in the transcript.",
+    "explicit_ask": "Danah: 'Would you like our help with your move?' \u2014 Asked plainly with no softening or out provided.",
+    "rate_lock_mentioned": "Danah: 'We do not require deposit to book. So in case there are changes on your end rescheduling or maybe canceling changes plans we can do that without additional fees.' \u2014 No-deposit mentioned; no explicit 'rate lock' language but the substance is there.",
+    "booking_confirmed": "Danah: 'Alright, perfect. So we'll go ahead and log in that day for you and I'll send the confirmation email with everything that we talked about now on your end, just double-check the addresses, your phone number, date, and the time...' and Customer confirms 'right back on this number the ends in 8781.' \u2014 Date (Saturday October 17th), time window (8:30\u20139 am), phone (8781), addresses mentioned. No explicit confirmation of crew size (2 movers stated but not confirmed back). No summary of customer's stated concerns for crew notes."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details across both the apartment and secondary stops (storage unit, final house), including square footage, floor/elevator situation, parking distances, room count, item inventory, and unit sizes \u2014 providing a solid foundation for the estimate.",
+  "coaching_note": "After the pricing estimate lands, skip the immediate ask for the business; instead run Section 6's full final concerns check ('What's still concerning you about this move?') and catch-all ('Anything coming with you we haven't talked about?'), then close the loop on the Two Promises before going for the signature."
+}

@@ -1,0 +1,39 @@
+{
+  "call_id": "5684164277084160",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 6.4,
+  "datetime_ct": "2026-10-03 17:03 CT",
+  "external_number": "+14694605034",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 2,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "MISSING \u2014 Rep jumps straight into address confirmation: 'Alright. Perfect. Okay, and so we'll start by confirming some addresses we are moving you from 6201 Chapel Hill Boulevard...' No time-box, no 'you can walk away with a quote you can depend on,' no wait for a yes.",
+    "their_agenda": "MISSING \u2014 Rep never asks 'Other than price, what are your biggest concerns about this move?' Moves directly to logistics probing.",
+    "estimate_anchor": "PARTIAL \u2014 Rep gives a time estimate ('two and a half to three and a half hour mark') but no price range anchor and minimal personalization: 'We don't have anything too crazy.'",
+    "pricing_framing": "MISSING \u2014 No trip fee, overnight fee, packing materials disclosed. No 'not a guess' or 2.5-hour-minimum commitment framing.",
+    "feels_fair_then_silence": "MISSING \u2014 Never asked 'Does that feel fair?' or equivalent.",
+    "on_time_guarantee_delivered": "MISSING \u2014 Never mentioned.",
+    "damage_coverage_delivered": "MISSING \u2014 Never mentioned.",
+    "final_concerns_check": "THROWAWAY \u2014 'And then did you have any other questions that I can help answer today?' is a generic throwaway, not 'What's still concerning you about this move?'",
+    "explicit_ask": "NEVER \u2014 Rep never asks 'Would you like our help with your move?' Instead, rep moves directly to sending the email: 'Well, the reason I just sent that email over to your inbox...'",
+    "booking_confirmed": "PARTIAL \u2014 Date (the tenth) and arrival window (2:00\u20132:30) confirmed. Phone number not confirmed, crew size not stated, notes for crew about concerns mentioned but loosely ('just reply with that information in the email')."
+  },
+  "top_strength": "Chauntelle gathered thorough logistics details (addresses, floor layout, truck access, stairwell configuration, large items, TVs, box count) and documented special considerations clearly for the moving crew.",
+  "coaching_note": "This call skipped the entire sales structure \u2014 no quid pro quo framing, no concerns discovery, no pricing transparency, no promises, and crucially no explicit ask for the business; rep sent a quote via email instead of closing on the call itself."
+}

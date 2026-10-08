@@ -1,0 +1,38 @@
+{
+  "call_id": "5084654298505216",
+  "rep_name": "Brianne Newbro",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 8.8,
+  "datetime_ct": "2026-09-28 15:51 CT",
+  "external_number": "+17602007591",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 71,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "None present. Rep never frames the call as 10-15 minutes with a quote to depend on, nor waits for customer confirmation before proceeding.",
+    "discovery_basics": "Moving day: 'October 16th... October seventeenth' \u2713 | Name: 'Walbert tries' \u2713 | Route: Not asked (customer already explained it's on-property to pods, but no city-to-city route discussed) | Size: '3300... I got two of them' \u2713 \u2014 partial; three of four asked.",
+    "walkthrough_branch": "Customer property is 3,300 sq ft (exceeds 1,800 threshold). Rep correctly recognizes this as a specialist job: 'what I'll do is get some sewer basic information from you and then go ahead and transfer you to a specialist who can help you get you an accurate estimate.' Rep does not attempt to quote on this call \u2014 routes to specialist instead. This is correct walkthrough-scheduler routing.",
+    "their_agenda": "Never asked. Rep launches into logistics gathering without asking 'what are your biggest concerns about this move or what do you want answers to on this call?' The customer volunteers concerns about the nature of the job (whether Einstein does in-house pod moves, truck need, etc.), but rep does not solicit agenda.",
+    "logistics_details_gathered": "Gathered: property type (home with loft, garage mentioned) \u2713 | floor/stories (loft upstairs, majority downstairs) \u2713 | number of rooms (4 bedrooms) \u2713 | additional rooms (garage) \u2713. Not gathered: walking distance, special considerations beyond what customer offered, additional stops. Partial coverage (roughly 5 of 7 items, clear gaps).",
+    "packing_services_offered": "Not asked.",
+    "box_count_asked": "Not asked.",
+    "explicit_ask": "N/A \u2014 walkthrough_scheduler call properly routed before any closing ask.",
+    "rate_lock_mentioned": "N/A \u2014 walkthrough_scheduler call properly routed before pricing discussion.",
+    "booking_confirmed": "N/A \u2014 walkthrough_scheduler call properly routed. Rep confirmed specialist callback will follow; address captured (161 Heartland Lane, 78006); phone (76-020-7591) and email (selmaautomotive@gmail.com) captured. No crew size, arrival window, or move-specific notes confirmed \u2014 not applicable for intake-to-specialist handoff."
+  },
+  "top_strength": "Rep correctly identified a 3,300 sq ft on-property pod move as a specialist job and routed it cleanly without attempting to quote on the spot, which is the right call for a large move outside standard scope.",
+  "coaching_note": "Ask 'Other than price, what are your biggest concerns about this move?' early in Section 2 before diving into logistics \u2014 this uncovers what the customer really needs answered and builds rapport before discovery."
+}

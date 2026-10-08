@@ -1,0 +1,33 @@
+{
+  "call_id": "6717163949039616",
+  "rep_name": "Joanna Ballon",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 9.5,
+  "datetime_ct": "2026-10-03 19:48 CT",
+  "external_number": "+13174903210",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 30,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 100,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Just need to ask you some questions about it for a more personalized estimate but might take about ten to fifteen minutes. Is this a good time? ... before we start aside from the pricing, do you have any other important concerns that you also want to discuss on this call?",
+    "discovery_basics": "But right now you're planning to do the move on the 22nd of October which is a Thursday, is that right? ... address where we're coming from is a 300 East Riverside Drive in Austin going to 1901 West Saint Johns Avenue in Austin as well. So this is a two bedroom apartment ... Do you have like, the exact square footage of the apartment? ... It's 2200 I believe",
+    "walkthrough_offered": "We usually conduct like a virtual walk. It's like video call like a FaceTime to assess how much items we're really moving for you. Are you available to do that?",
+    "packing_offered": "Are you also looking at getting a quote for packing, are you planning to pack yourself?",
+    "box_count": "Typically for a home, this size, you might end up with about, let's say in terms of number of boxes about a hundred to a 130. Do you think you would fall within that range?"
+  },
+  "top_strength": "Joanna correctly identified this as a 2,200 sq ft move with packing and routed cleanly to a virtual walkthrough rather than attempting premature pricing\u2014she gathered all essential discovery details (date, addresses, size, room count, access logistics, special items, packing intent) systematically before proposing the walkthrough.",
+  "coaching_note": "When the customer raised a concern about needing separate quotes (with and without packing), Joanna acknowledged it but did not dig deeper to understand the decision-making priority\u2014a missed opportunity to layer back into Their Concerns early, though this did not derail the correct walkthrough routing."
+}

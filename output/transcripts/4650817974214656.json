@@ -1,0 +1,656 @@
+{
+  "call_id": "5027631510888448",
+  "lines": [
+    {
+      "content": "Good morning, it's Joanna. How can I?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:33:37.836651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:33:37.836651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:33:37.836651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:33:37.836651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:33:37.836651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:33:37.836651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:33:37.836651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:33:39.264651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:33:39.864651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Hi, I had to get a quote for moving services.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:33:41.572481",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "call_purpose",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:33:41.572481",
+      "type": "moment"
+    },
+    {
+      "content": "No worries I'd be happy to help you out with that. If I may ask, when are you planning to do your move?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:33:47.436651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:33:51.624651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "It's October 24th and I'm moving in the same building so I don't need a truck. I just need the assistance.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:33:54.172481",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "date",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:33:54.959481",
+      "type": "moment"
+    },
+    {
+      "content": "I understand we already inclusive of the traffic that's the right of the guys as well as their equipment there.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:34:04.236651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "I, I'm sorry. You're skipping pretty bad I can't hear.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:34:10.372481",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "negative_sentiment",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:34:10.372481",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "What was that?",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:34:16.972481",
+      "type": "transcript"
+    },
+    {
+      "content": "Can you hear me okay? Can you hear me better now? Okay, yup, our hourly rates are already inclusive of the truck because of course that's the ride in the equipment they'll use will be there as well. So that should work too. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:34:17.436651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Now I can, yeah.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:34:22.372481",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Okay.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:34:37.972481",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, of course, in order for me to provide you a more personalized estimate I just need to ask you some questions about it might take about ten to fifteen minutes if this is a good time.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:34:39.636651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Yes.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:34:50.572481",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, may I have your full name on your email? I'll send everything in an email as well.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:34:51.636651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Haley else if it's, is it the same system you all use online?",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:34:57.772481",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "ner",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:34:57.772481",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "question",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:34:59.919481",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, that's correct. Were you able to set up a profile online? I'll check your email.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:35:03.036651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Okay.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:35:04.972481",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "I was, but it included truck fees and it was like $850 and that's just, I thought that number was a little crazy for moving in the same just from one unit to another, in the same building so I think it included the truck fee still. Yeah.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:35:07.972481",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "currency",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:35:11.559481",
+      "type": "moment"
+    },
+    {
+      "content": "Yup, let me check it for you. May I have your email address?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:35:22.836651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Haley Nelson H-A-L-E-Y-N-E-L-S-O-N. 2019 @gmail.com.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:35:28.972481",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "ner",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:35:28.972481",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "pii",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:35:31.119481",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "email_address",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:35:39.399481",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, one second.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:35:45.036651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, no problem. Let me just double-check it for you. Just one moment.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:35:57.036651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, so yeah, ask you some questions about this once I can give you more submit. Of course, this is gonna be based on the items you're moving for you. But just like what I've mentioned, the hourly rate is already inclusive of the truck. So, if you're just to confirm, are you planning to do it on a Friday or Saturday? The twenty third or the twenty fourth, the Friday.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:36:12.036651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:36:29.664651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Friday. Oh, yeah, sorry, Friday the twenty third.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:36:33.172481",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and then before we start do you have any special concerns or instructions for this move that you also want to discuss on?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:36:37.836651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Will they be able to like break down a bed and rebuild it?",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:36:48.172481",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "question",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:36:48.172481",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm that's correct. But this assembly and reassembly is already part of the service. So that's fine. And then you're coming from a one bedroom apartment. Going to a two bedroom. It can, you give me, like a list of the items we're moving for you so I can just quote it based on the items you have.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:36:53.436651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Mm-hmm. Okay.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:36:54.172481",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Yeah.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:37:08.572481",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "There'll be a couch, a bed, a coffee table, a entryway table two TVs, two desk, a dresser.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:37:10.972481",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Like, countertop chairs and there's a couple of other smaller items.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:37:28.372481",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:37:37.836651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm do we have anything in the, right. Okay, any side tables, night stands, balcony furniture or garage, we also need to move.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:37:43.836651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Those are the, those are the big Prodi.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:37:44.572481",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:37:48.624651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "No.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:37:54.772481",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And how about boxes typically will end up with fifteen to 25 boxes. Do you think you would just fall within that range?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:37:56.436651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:38:02.144651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "It will be less than that.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:38:04.972481",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, now for now, I'll just put it around fifty which is the lower range but if it's less than that, that's fine and just to confirm, are you moving within the same building or same complex, different building?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:38:07.836651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:38:15.584651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Same complex different building but they're thirty feet apart.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:38:20.572481",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, so how mm-hmm, okay, no worries. And then there will be elevators that we can use, is that right?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:38:23.436651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Yes.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:38:32.572481",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. You mentioned a while ago so once we go down to the elevator on your current building, so we don't have to like, we can just like move to the to the new building by, by walking. Is that going to the next elevator?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:38:34.236651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:38:46.704651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Yes. So you'll go up one floor and elevator out of the building thirty feet to the other building and up two floors in an elevator with that building.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:38:49.972481",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, got it. Thank you. Just one second.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:39:04.836651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:39:18.036651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, let's see just one second.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:39:25.836651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, alright, so, but you're all good pack all, all packed good to go. Is that right?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:39:37.836651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Yes. Besides the stuff that they have to take down, like the bed. That's the only thing everything else will be packed cool.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:39:44.572481",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "positive_sentiment",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:39:44.572481",
+      "type": "moment"
+    },
+    {
+      "content": "Of course, no problem. Alright, sure. Okay, so in terms of our charges, so we charge hourly rates for all of our services. Now our Fridays and Saturdays are regular rates which are $222 per hour that's already for the two men and everything we need is already included in that price, so taxes, insurance, credit card fees, all the reps to protect your items. If you need help with this assembly, reassembly that's all inclusive rates. So you don't have to pay extra for fuel transportation, that's all inclusive as well. Now we also include our no worries damage coverage which would give you up to $2,000 coverage for any accidental damages. So, unlike our competitors, usually they'll just use the statement dated 60\u00a2 per pound, per Adam also.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:39:49.836651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:40:02.744651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:40:12.264651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:40:28.704651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:40:28.984651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:40:34.344651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:40:36.104651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Feature rest assured. Haley we don't take daily to track your workers. Our guys are the most of vetting movers in the industry. And we send you their names ahead of time, at least on time guarantee. So if we run late, we provide discounts for your move now. Our clock only starts once we arrive at your apartment and open the contract for you. You can have as long as you need us now for any move. This is a two and a half hour minimum. If we go over the minimum, we only charge in fifteen minute intervals. So for this.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:40:39.036651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:40:42.064651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:41:10.024651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Basically the minimum cost for this job is $555 considering that they'll be able to finish everything within two and a half hours now just depending on how far we're walking then, of course, we just need to add more time to that as well.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:41:13.304651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:41:16.424651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:41:16.864651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Okay, that's good to know. Yeah, if you could send me that in an email and I'll let you know. I'm gonna shop around quotes first.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:41:30.172481",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:41:31.836651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I understand. No problem. And of course shop around, just check for any other fees outside of the hourly rate. Now, once you I send the email Haley just feel free to let us know in terms of the, as you have mentioned how far we're walking from your current elevator to the new one. Cause that will give us a better idea as how it's gonna look like, okay. Because here, on this building, we have moved here before. So the possibility of long walks are really, you know, one of the factors let me, okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:41:39.036651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Yeah.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:41:45.772481",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:41:47.584651",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "Yeah. Okay, sounds good. Thank you.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:42:10.372481",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, thank you so much. Hay, have a good day, bye.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T14:42:11.436651",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSipDJiQkM",
+      "content": "You too.",
+      "name": "Haley Nelson",
+      "time": "2026-09-28T14:42:15.172481",
+      "type": "transcript"
+    }
+  ]
+}

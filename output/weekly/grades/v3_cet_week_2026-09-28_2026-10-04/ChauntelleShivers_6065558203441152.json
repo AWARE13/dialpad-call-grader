@@ -1,0 +1,40 @@
+{
+  "call_id": "6065558203441152",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 13.2,
+  "datetime_ct": "2026-10-02 17:29 CT",
+  "external_number": "+13058042016",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 8,
+  "section7_ask_for_the_business": 0,
+  "total_score": 57,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "section1_quid_pro_quo": "Chauny says 'I'll need a couple of pieces of information just so I can make sure I get the right rate for you' but never delivers the recognizable time-boxed framing ('10 to 15 minutes, quote you can depend on') or waits for a yes before proceeding.",
+    "section2_their_agenda": "Asked only after substantial probing had already started: 'And then any questions or concerns so far as we're running through that?' \u2014 this comes after address, size, floor, access, and all logistics have been gathered.",
+    "section2_no_concerns_raised": "Customer responds: 'I don't, I don't know what kind of questions or concerns with people have at this point. I've just given you my information.' No concerns were raised, so Two Layers Deep and Active Listening Reflection are N/A.",
+    "section3_logistics": "Rep covered property type (apartment), floor (2nd and 3rd), rooms (1BR both), walking distance (near bottom of stairs), elevator status (yes at origin), special items (large TVs, furniture), and truck parking (at building). Box count asked: 'approximately how many boxes would you say typically we see about fifteen to 25 for a unit at the size' \u2014 customer estimated 30.",
+    "section3_packing": "Packing services never explicitly offered as a standalone option. Rep only mentions wrapping/padding as included in the rate later.",
+    "section4_estimate_anchor": "Rep gives typical range ('three to four hour duration') and personalizes somewhat to the small item count ('with the items that you gave to me if these are the only items that we're moving for you...the three to four hours is definitely gonna be fine'). Range is $775-$975, with 2.5-hour minimum at $675-$720. However, pricing explanation is confusing and customer has to ask for clarification multiple times about whether travel fee is separate or included.",
+    "section4_pricing_framing": "Rep mentions 2.5-hour minimum and 15-minute increments prorating ('after the two and a half we just prorate it fifteen minute increments'). Trip/travel fee disclosed ($175). However, the explanation is muddled and the customer explicitly flags confusion: 'you said it's include, it includes the $175, so that makes it seem like the $200 an hour includes the $175, but you're saying there's an additional separate one time fee.' Rep does not clearly resolve this until later when she restates the fee is 'included in the estimate.'",
+    "section4_feels_fair": "Rep never asks 'Does that feel fair?' or any version of it. Customer volunteers appreciation but also states 'the quote is probably a little too high for me' \u2014 no pause or silence check on fairness.",
+    "section5_promises": "No mention of On-Time Guarantee or its discount terms. No mention of No Worries Damage Coverage ($2,000, no deductible). Rep does mention 'we don't do any kind of deposits. You don't pay for anything until after the move is completed. It's also free to cancel. It's free to reserve the truck. It's free to modify it so we don't have any additional fees' \u2014 this is not the Two Promises section content.",
+    "section6_final_concerns": "Rep asks 'Are there any other questions I can answer for you?' \u2014 throwaway phrasing, not the genuine 'What's still concerning you about this move?' version. No catch-all ('Anything coming with you we haven't talked about?').",
+    "section7_explicit_ask": "Rep never asks 'Would you like our help with your move?' Closest is 'did you want to go in at least reserve the truck?' \u2014 but customer declines before rep can close. No explicit ask for the business. Rep does mention no deposits and free reservation/modification but doesn't ask to book; instead offers to email and customer declines on price grounds."
+  },
+  "top_strength": "Chauny gathered comprehensive logistics details\u2014floor, elevator, large items, box count, truck access, destination details\u2014and successfully clarified a confusing pricing moment when the customer questioned the fee structure.",
+  "coaching_note": "Section 1 must open with the recognizable quid pro quo framing ('This takes 10\u201315 minutes, you'll walk away with a quote you can depend on') and wait for a yes; Section 5's two promises (On-Time Guarantee and No Worries Damage Coverage) were completely skipped; and Section 7 must include an explicit ask ('Would you like our help?') before offering to email\u2014right now the call ends without ever asking for the business."
+}

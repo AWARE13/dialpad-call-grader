@@ -1,0 +1,41 @@
+{
+  "call_id": "5167893303304192",
+  "rep_name": "Jack Davis",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 5.6,
+  "datetime_ct": "2026-10-04 16:22 CT",
+  "external_number": "+12815086144",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Jack jumps directly into 'What day were you looking to move?' with no framing about the 10-15 minute call structure or promise of a dependable quote.",
+    "their_agenda": "Never asked. Jack says 'I just need to get some details from you' and goes straight into data collection, then directly into pricing talk.",
+    "two_layers_deep": "Customer says 'that dresser is like heavy units on the second floor. That's my biggest concern' and Jack responds with 'Mm-hmm' and 'Sure, cool' then pivots to pricing. No follow-up.",
+    "estimate_anchor": "Jack gives a range ('three to four hours' for typical, 'closer to two and a half or three hours' for this one, 'about four hours' with the drive) and anchors to the $915 total, but does not personalize it to the customer's stated concern (the heavy dresser) or prep level.",
+    "pricing_framing": "Jack mentions the $100/mover hourly rate, $200 total, wrap/disassemble/assemble, and the $115 travel fee, but does not mention the 2.5-hour minimum, 15-minute increments, or 'not a guess' framing.",
+    "feels_fair_then_silence": "Never asked. Jack says the number and immediately asks about the date/time preference.",
+    "on_time_guarantee_delivered": "Not mentioned.",
+    "damage_coverage_delivered": "Not mentioned.",
+    "closes_the_loop": "Not applicable \u2014 no Two Promises delivered at all.",
+    "final_concerns_check": "Never asked. Jack moves directly to 'I'll go ahead and send you a confirmation email now.'",
+    "explicit_ask": "Never asked directly. Jack says 'I'll go ahead and send you a confirmation email now' \u2014 a unilateral statement, not a 'Would you like our help with your move?' ask. Customer never explicitly agrees to booking.",
+    "booking_confirmed": "Date (November 15th) and time window (12:30\u20132:30 PM) confirmed; customer's name, email, phone already collected in Section 1. Addresses confirmed earlier. No crew size mentioned, no notes left for crew about the dresser concern, no final recap of addresses."
+  },
+  "top_strength": "Jack successfully qualified the customer as a repeat mover and leveraged prior move data to estimate time accurately, building credibility through familiarity.",
+  "coaching_note": "Jack skipped the core discovery ask ('What are your biggest concerns?') that unlocks deeper conversation and trust \u2014 he went straight to data collection and pricing, missing the chance to address the heavy dresser concern in a consultative way and never delivered either of the Two Promises, leaving the customer without confidence guarantees."
+}

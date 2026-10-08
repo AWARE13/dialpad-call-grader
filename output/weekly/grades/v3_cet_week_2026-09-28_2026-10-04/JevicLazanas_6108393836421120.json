@@ -1,0 +1,36 @@
+{
+  "call_id": "6108393836421120",
+  "rep_name": "Jevic Lazanas",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 6.6,
+  "datetime_ct": "2026-09-28 18:42 CT",
+  "external_number": "+12107412186",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 75,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Jevic: 'this will take about ten to fifteen minutes. Is that okay? So we can give you...' \u2014 time-boxed framing present but lacks explicit 'dependable quote' promise and doesn't explicitly wait for yes before proceeding into email collection.",
+    "discovery_basics": "Name (Mary Owen), moving date (16th October), route (Wylie Texas to Lufkin Texas), size (single story ranch, 3 bed/2 bath) \u2014 all four covered.",
+    "walkthrough_branch": "Jevic correctly identified move as 'large move already for... more than 1600 square footage' and routed to large move specialist callback rather than continuing with pricing.",
+    "their_agenda": "Never asked. Rep moved directly into profile-building and property details without first asking 'Other than price, what are your biggest concerns about this move?'",
+    "logistics_details": "Gathered: property type (ranch), stories/bedrooms (single story, 3 bed/2 bath at origin; 3 bed/2.5 bath + in-law suite at destination), some room details (dining room set, antique furniture, entertainment centers). Not gathered: walking distance to truck, additional rooms, specific special considerations beyond furniture list, explicit count of rooms/items. Partial coverage.",
+    "packing_services": "Not offered.",
+    "box_count": "Not asked.",
+    "explicit_ask": "N/A \u2014 walkthrough scheduler call, routing to specialist callback."
+  },
+  "top_strength": "Jevic correctly identified and routed a large-move intake (1,600+ sq ft) to a specialist callback rather than attempting to price on the call, and confirmed callback logistics (phone number, timeframe) cleanly.",
+  "coaching_note": "Before routing to a specialist on large moves, ask 'Other than price, what are your biggest concerns about this move?' to surface the customer's agenda \u2014 this intelligence feeds the specialist and improves handoff quality."
+}

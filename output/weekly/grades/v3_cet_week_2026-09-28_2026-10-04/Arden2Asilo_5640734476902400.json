@@ -1,0 +1,38 @@
+{
+  "call_id": "5640734476902400",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 5.7,
+  "datetime_ct": "2026-09-28 22:10 CT",
+  "external_number": "+17165232266",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 14,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 46,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'this will just take around five to ten minutes' but never frames the value proposition of a dependable quote or asks for customer permission to proceed\u2014just launches into probing.",
+    "their_agenda": "Rep never asks 'what are your biggest concerns about this move?' The customer volunteered a question about drawer wrapping at the start, but rep did not solicit additional concerns before moving into logistics.",
+    "estimate_anchor": "Rep states '$1,299 for the move' and '5 to 6 hours,' but does not anchor this to a typical range for a 2-bedroom move or personalize it to the customer's specific situation (prep level, concern about drawer handling, etc.). Also notes 'that is just an estimate' without the 2.5-hour minimum or 15-minute-increment framing.",
+    "feels_fair_then_silence": "Rep never asks 'does that feel fair?' after giving the estimate.",
+    "on_time_guarantee": "Not mentioned at all.",
+    "damage_coverage": "Not mentioned at all.",
+    "final_concerns_check": "Rep does not ask 'what's still concerning you about this move?' or any genuine final concerns check.",
+    "explicit_ask": "Rep never asks 'would you like our help with your move?' The call ends with 'I'm gonna send you a kickoff email' and goodbye.",
+    "booking_confirmed": "Rep confirms arrival window is 'this coming Wednesday' (customer's own reference), and confirms destination address (241 Shockley Avenue in Dato, 3 bedroom house). Phone number and crew size NOT confirmed. Notes for the crew about the drawer/dressing concern mentioned at the start were NOT left."
+  },
+  "top_strength": "Rep methodically gathered detailed logistics (parking, elevator distances, room counts, box count) and correctly asked about packing services\u2014discovery details were solid and well-sequenced.",
+  "coaching_note": "Rep skipped the entire opening value frame (quid pro quo), never solicited broader customer concerns before probing, omitted both Two Promises entirely, skipped final concerns and catch-all checks, and never asked for the business\u2014this was a data-collection call that abandoned the sales structure mid-stream."
+}

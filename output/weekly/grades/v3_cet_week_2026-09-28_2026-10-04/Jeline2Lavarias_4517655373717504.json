@@ -1,0 +1,35 @@
+{
+  "call_id": "4517655373717504",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 7.7,
+  "datetime_ct": "2026-09-29 15:13 CT",
+  "external_number": "+15127576644",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Not present. Rep does not frame the 10\u201315 minute call structure or promise a dependable quote before probing.",
+    "discovery_basics": "Name: 'Robert, last name Powell'; Moving day: 'first or second week' of next couple of weeks; Route: 'San antonio to El Paso'; Size: '2011 square feet'",
+    "walkthrough_branch": "Rep correctly identified 2011 sq ft (\u22651800 threshold) and offered virtual walkthrough: 'What we normally do here sir, is we do a virtual walkthrough, so it's like a video call. So we can still see the furniture or the items that we will be moving.' Later routed to specialist/email for virtual walkthrough scheduling when rep said: 'Because since this condo is large, I actually need to transfer your call to one of the moving specialist.'",
+    "their_agenda": "Not asked. Rep moves directly into probing (move date, day flexibility, property type) without asking 'Other than price, what are your biggest concerns about this move?'",
+    "logistics_details_gathered": "Property type: 'condominium'; Floor/stories: 'ground floor. It's two stories'; Bedrooms: '3 bedroom' (asked late); Walking distance: not asked; Additional rooms: not asked; Special considerations: not asked; Additional stops: not asked. Partial coverage, clear gaps.",
+    "packing_services_offered": "Not offered.",
+    "box_count_asked": "Not asked."
+  },
+  "top_strength": "Rep correctly identified the 2,011 sq ft threshold and smoothly routed to a virtual walkthrough specialist without attempting an in-call quote, keeping the customer on path.",
+  "coaching_note": "Deliver the quid pro quo framing in Section 1 ('This will take 10\u201315 minutes, you can walk away with a quote you can depend on') before any probing begins, and ask Their Agenda ('What are your biggest concerns?') before diving into logistics questions."
+}

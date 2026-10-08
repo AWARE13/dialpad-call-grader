@@ -1,0 +1,33 @@
+{
+  "call_id": "4838259429777408",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 14.9,
+  "datetime_ct": "2026-09-30 16:58 CT",
+  "external_number": "+19175390137",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 23,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 88,
+  "pass": true,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never delivered the time-boxed framing ('this will take 10-15 minutes, you can walk away with a quote you can depend on') or waited for explicit yes before probing.",
+    "discovery_basics": "Name (Tanya), moving day (October 16th), route (2630 Bissonnette, Houston to 5300 sq ft home ~30 min away), size (1200 sq ft + 700 sq ft = 1900+ sq ft total across two units), and apartment details all gathered.",
+    "their_agenda": "Asked: 'Besides pricing, do you have any questions or concerns you would like answered on this call today?' \u2014 asked before any logistics probing began.",
+    "two_layers_deep": "Customer raised three concerns: (1) pricing, (2) how the move will be performed, (3) packing service. Rep followed up on each: 'Yeah, so basically like you know, we have two apartments in the same building...' and 'Because we don't, we don't really have like a lot of effect...' Rep dug into each concern with clarifying questions about elevator access, parking distance, unit configuration, and packing logistics across the two units.",
+    "active_listening_reflection": "No summary reflection. Rep acknowledged concerns but never reflected them back as 'So what I'm hearing is X, Y, and Z. Did I get all of it?'",
+    "walkthrough_branch": "Home is 5,300 sq ft (two-story, five bedrooms) plus the two apartment units totaling ~1,900 sq ft = well over 1,800 sq ft threshold. Rep correctly offered virtual walkthrough: 'Oh, yeah, no, we can definitely do a virtual walkthrough if you'd like and then I also can send you a link and you can do it on your own and it'll upload.' Customer accepted the walkthrough option and was sent a video link to complete the walkthrough independently before final pricing.",
+    "explicit_ask": "Rep asked: 'Would you like us to help you, would you like to hop on that schedule and then I can send you the live switch link to do the video?' \u2014 plain ask without a soft-out, though the customer's response ('Yeah, sending me the bank so that I can do the video...') deferred final booking to after the walkthrough video, which is appropriate for this call type.",
+    "booking_confirmed": "Partial confirmation: Date (October 15 packing, October 16 move) and phone number (97-539-0137) confirmed, email confirmed. However, no arrival window, crew size, or destination address details explicitly confirmed at call end. Video link sent via text; no notes left for crew about customer concerns."
+  },
+  "top_strength": "Rep discovered two layered apartments totaling 1,900+ sq ft, correctly recognized the move required a virtual walkthrough before pricing, and cleanly transitioned the customer to the walkthrough process rather than forcing an incomplete estimate.",
+  "coaching_note": "Always open with the quid pro quo time-box framing ('10 to 15 minutes, you can walk away with a quote you can depend on') and wait for a yes before diving into probing \u2014 rep skipped this entirely and jumped straight into discovery questions."
+}

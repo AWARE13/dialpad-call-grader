@@ -1,0 +1,31 @@
+{
+  "call_id": "5149390769790976",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.9,
+  "datetime_ct": "2026-09-30 19:23 CT",
+  "external_number": "+15129057579",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 62,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says: 'This should take about five to ten minutes of your time so we can build an accurate quote you can depend on, sounds good.' \u2014 time-boxed and promise made, but customer response is ambiguous ('Yeah. Yes, that's all we gotta do...') and rep does not wait for a clear yes before moving forward.",
+    "discovery_basics": "Moving day: 'Probably the second week of October' \u2014 asked and answered. Current location: '8012 enter court, Justin, 78729' \u2014 asked and answered. Destination city: never asked. Home size: '124 bedrooms' [likely '1-2 bedrooms']; square footage unknown per customer. Rep gathered name (Ron Romeo), email, phone, and learned it's a 2-story house with 4 bedrooms, living room, kitchen; rep did not ask for destination city or confirm square footage.",
+    "their_agenda": "Rep asks: 'Do you have any concerns or do you have any important things that you wanted to answer during this call today?' \u2014 asked, but only after probing began (name, email, how you heard about us were already asked). Customer raises concern about glass items and diplomas being damaged.",
+    "two_layers_deep": "Customer raises concern: 'I have glass on top of like, re, or something and people are smashing. So, I have concerns about that and some diplomas like.' Rep responds: 'Okay. Alright. Okay, one sec.' \u2014 no follow-up question, no 'tell me more about that,' rep pivots immediately to address probing.",
+    "active_listening_reflection": "Rep does not reflect back or summarize the customer's concerns. No confirmation of what was heard.",
+    "walkthrough_offer": "Rep correctly identifies the triggering factor: 'Oh normally if this, if that's more than 1700 we normally do a virtual walkthrough so you can let us know what are the things that we are moving in?' \u2014 walkthrough branch is triggered and offered appropriately when customer indicates uncertainty about room count and items being moved."
+  },
+  "top_strength": "Rep correctly identified and routed this as a walkthrough-scheduler call, recognizing the home size and item complexity warranted a virtual walkthrough rather than a phone-based quote.",
+  "coaching_note": "Probe for concerns before jumping into routine data collection \u2014 ask 'their agenda' immediately after the quid pro quo, not after you've already asked for name and email, and always follow up when a customer raises a concern (here: the fragile items) with at least one clarifying question before moving on."
+}

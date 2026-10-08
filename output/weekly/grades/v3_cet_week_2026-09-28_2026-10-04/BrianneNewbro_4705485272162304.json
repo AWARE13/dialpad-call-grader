@@ -1,0 +1,42 @@
+{
+  "call_id": "4705485272162304",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 7.1,
+  "datetime_ct": "2026-09-29 17:55 CT",
+  "external_number": "+17133781769",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 52,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "No recognizable time-box + promise framing. Rep skips directly into logistics: 'I have this is a good contact number for you...'",
+    "their_agenda": "Rep asks 'do you have any questions for me' near the end, but this is a throwaway closing question, not a genuine 'What's still concerning you about this move?' framing.",
+    "two_layers_deep": "Customer raises concern about the quote breakdown and hourly rate. Rep answers the immediate question but does not ask follow-ups like 'tell me more about that' or 'what else is on your mind about the rate.' N/A credited because customer does not volunteer additional concerns after the one clarification.",
+    "estimate_anchor": "Estimate was already quoted ($805) prior to this call. Rep confirms and restates the breakdown: '$190 for two movers 126 foot box truck with the trip fee of $140. And that is $805... estimated you for three and a half hours.' Personalization attempt is minimal ('for that date, Thursday October 1st').",
+    "pricing_framing": "Rep mentions 2.5-hour minimum and no deposit ('we do have a minimum of two and a half hours. So you only pay for the time we need... you don't pay for anything until after the move'). Does not explicitly state trip fee disclosure upfront or the 15-minute-increments commitment framing.",
+    "feels_fair_then_silence": "Never asked. After restating the estimate, rep moves directly to logistics probing without asking 'Does that feel fair?' or pausing for customer reaction.",
+    "on_time_guarantee_delivered": "Not mentioned at all.",
+    "damage_coverage_delivered": "Not mentioned at all.",
+    "closes_the_loop": "No loop closure attempted. Rep restates process (email intro, phone call before, arrival window, payment method) but never asks 'Does that put those to rest?' or similar.",
+    "catch_all_asked": "Not asked. No version of 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Never asked. Rep closes with 'I'm gonna email all this information to you' and logistics recap, no explicit 'Would you like our help with your move?' or booking commitment.",
+    "rate_lock_mentioned": "Not mentioned.",
+    "booking_confirmed": "Partial. Rep confirms phone number (713-378-1769), email (cruise Carlos 1017 @gmail.com), move date (October 1st), arrival window (12:45\u20132:45 PM), unit numbers (1029, 235), and notes that this is within-complex. Does not confirm crew size explicitly or recap what the customer was worried about for crew notes."
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details\u2014property type, floor/stories, square footage, parking distance, special items (TV, couches, bed), boxes, and second address\u2014providing confidence in the estimate accuracy.",
+  "coaching_note": "You skipped the entire opening framing (quid pro quo), never asked what concerns the customer wanted answered (their agenda), and jumped straight into probing; then you closed without the Two Promises, a genuine final concerns check, or an explicit ask for the business\u2014this call reads more like a confirmation call than a sales call, and it misses the biggest load-bearing moments in the script."
+}

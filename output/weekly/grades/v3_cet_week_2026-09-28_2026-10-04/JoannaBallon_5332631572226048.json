@@ -1,0 +1,39 @@
+{
+  "call_id": "5332631572226048",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 9.1,
+  "datetime_ct": "2026-10-04 19:12 CT",
+  "external_number": "+19403431500",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 30,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 8,
+  "total_score": 77,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'It might take about ten to fifteen minutes so we can give you a personalized estimate.' \u2014 Time frame given but no explicit promise of dependable quote framing, and no clear wait for affirmative response before pivoting to agenda check.",
+    "their_agenda": "Joanna: 'But before we start aside from the pricing, do you have any other important concerns that you also want to discuss on this call?' \u2014 Asked before probing, customer answers 'No.'",
+    "logistics_details_gathered": "Covered: property type (condo), floor/stories (ground floor), rooms (1 bedroom, 11 unit number), walking distance (~100 feet/two school buses), additional items (two couches, pool table, desk, bed frame), special considerations (folded pool table, ground-to-ground treadmill, boxes ~50). No explicit 'number of rooms' in origin property but garage contents well-probed.",
+    "estimate_anchor": "Joanna: 'I'll just put you within that range for now... an estimated budget of $480 for a two and a half hour job to $672 for a three and a half hour job.' Personalized to one-bedroom equivalent, travel time, walking distance, and two-mover recommendation ($192/hr for two movers).",
+    "pricing_framing": "Joanna: '$96 per hour per mover... two minimum... all inclusive rates. I can guarantee that there are no other fees... truck, wrapping, taxes, insurance, credit card fees all in the price... no fuel or transportation fees... two and a half hour minimum... charge in every fifteen minute interval.' Full disclosure of trip/material fees and 2.5-hour minimum + 15-minute increments framing present.",
+    "damage_coverage": "Joanna: 'Our no worries damage coverage which would give you up to $2,000 coverage for any repair replacement reimbursement for any accidental damages.' \u2014 Mentions $2,000 and coverage but does not explicitly state 'no deductible' or 'no fine print' or confirm it is built into rate (not add-on).",
+    "on_time_guarantee": "Joanna: 'And lastly on time guarantee if we run late we provide discounts for your move.' \u2014 Mentions guarantee and discount terms but lacks specificity on when discount starts/percentage.",
+    "explicit_ask": "Joanna: 'So, with that being said would you like our help for this move tomorrow?' \u2014 Direct, plain ask with no softened out.",
+    "rate_lock_mentioned": "Joanna: 'No deposits. And the payment is only upon completion of the move, okay?' \u2014 Rate is locked by quoting; no-deposit commitment is explicit.",
+    "booking_confirmed": "Partial: Availability windows offered (11:00 AM\u20131:00 PM, 12:30\u20132:30 PM, two-hour arrival window). Phone follow-up mentioned ('we definitely call you once we're on the way'). Email confirmation to follow. BUT customer did not commit on-call ('Can I give you a callback? I have to consult with my partner'), so date/crew size/addresses were never confirmed for booking. Only availability and payment terms confirmed."
+  },
+  "top_strength": "Joanna conducted exceptionally thorough logistics probing\u2014she systematically clarified the garage contents, item-by-item weights and dimensions (treadmill, pool table, couches, desk, bed frame), box count, parking logistics at both origin and destination, and walking distance\u2014building a highly detailed and personalized estimate without needing a walkthrough.",
+  "coaching_note": "Section 2's quid pro quo lacked the explicit 'dependable quote' promise and wasn't followed by a clear pause for affirmation before moving to the agenda check; Section 6 had no final concerns re-check at all; and Section 4's 'Does that feel fair?' was never asked\u2014add these three critical closing-loop moments to ensure nothing is left unaddressed before the ask."
+}

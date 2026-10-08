@@ -1,0 +1,43 @@
+{
+  "call_id": "4716142069587968",
+  "rep_name": "Arden 2Asilo",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 12.3,
+  "datetime_ct": "2026-09-28 18:32 CT",
+  "external_number": "+15128887677",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 30,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 8,
+  "total_score": 86,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "We do have availability and just let you know we need to gather details in order for us to give you an on target estimate that might take around ten to fifteen minutes. Would that be fine?",
+    "their_agenda": "Other than the pricing, what are your biggest concern about this month, so I can also take note of and I can answer that within the call.",
+    "discovery_basics": "This is for a 1400 square foot one story house in Fi, 5605. I. Port drive in Austin... we're going to be moving everything into a one story house in 1008. Maplewood drive in Fluger, sir. How many bedroom is this house?",
+    "logistics_details_gathered": "Room-by-room inventory (bedrooms 1\u20133, living room, dining room, kitchen), garage/shed items (washer/dryer, lawn mower, portable AC, boxes, Christmas decorations), parking confirmation, special items (plants), distance estimate (25\u201330 min), and destination property details confirmed.",
+    "packing_services_offered": "Would you need help packing or everything will be back once we get there.",
+    "box_count_asked": "Typically sir a house your size is within 45 to 55 total number of boxes. How many total number of boxes do you think are we going to move for you, sir?",
+    "estimate_anchor": "For your personalized estimate typically... takes two movers between six to eight hours... In your case... approximately around six to seven hours only. So it's good to budget an overall of $1,380 to $1,610.",
+    "pricing_framing": "We charged an hourly rate of $230 per hour... Everything is already included in that hourly rate, gas trucks, taxes, insurance... There's also gonna be no hidden fee, no credit card fee, no transportation fees... It's a two and a half hour minimum... charged in fifteen minutes increment.",
+    "feels_fair_then_silence": "Not asked after pricing estimate.",
+    "on_time_guarantee": "We have an on time guarantee. So, if the movers arrive late, you automatically start to get discount on your final bill. The later they arrive the bigger your discount will be.",
+    "damage_coverage": "You're gonna get a free evaluation coverage that provides up to $2,000... zero deductible and it's going to be handled within three to five business days.",
+    "explicit_ask": "So, would you want our help with this for no deposit required?",
+    "rate_lock_mentioned": "For no deposit required.",
+    "booking_confirmed_partial": "Date confirmed: Saturday the 10th of October, 8:30 to 9:00 arrival window. No phone number confirmation, no crew size confirmed, no destination address re-confirmed at booking, no notes left for crew about customer concerns."
+  },
+  "top_strength": "Arden gathered comprehensive logistics details through a thorough room-by-room inventory and covered both key promises (On-Time Guarantee and No Worries Damage Coverage) with full transparency on terms and rates.",
+  "coaching_note": "After pricing, ask 'Does that feel fair?' and hold silence for the customer to respond; do not skip directly to closing \u2014 this gives the customer space to voice hesitation before the ask. Also conduct a final concerns check before asking for the business."
+}

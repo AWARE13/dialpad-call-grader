@@ -1,0 +1,43 @@
+{
+  "call_id": "5618869310103552",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 12.1,
+  "datetime_ct": "2026-09-28 16:06 CT",
+  "external_number": "+14092732896",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 8,
+  "section7_ask_for_the_business": 10,
+  "total_score": 75,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skips framing entirely. After getting Robert's contact info, immediately asks 'And then besides pricing, do you have any other questions or concerns that you would like answered on this call?' without first anchoring time, the quote promise, or waiting for agreement.",
+    "their_agenda": "Asked, but after probing had already started. Rep says: 'And then besides pricing, do you have any other questions or concerns that you would like answered on this call?' This comes after the availability check and email capture, not before logistics probing.",
+    "logistics_details_gathered": "Rep covers: property type (apartment), unit number (1704), floor (17th), freight elevator access, distance to new location (5-7 min), new property sqft (1200), new unit floor (18th), freight elevator at destination. Also gathers: bed size (Queen), furniture items (Chester drawer, love seat, recliner, boxes, area rugs, large picture frame). Nearly all seven logistics items covered.",
+    "estimate_anchor": "Rep provides typical time range and personalizes: 'Typical move this size usually takes two movers and one truck between two and a half and four hours. I believe that you would fall within that range and would look to budget. So for three hours we're looking at $576 and if we hit that four hour mark, we're looking at $768.' Also notes 'how well prepared you are when we get there' as a key factor.",
+    "pricing_framing": "Rep fully covers: hourly rate structure ($192/hr for Sunday Oct 4th, two movers, 126 ft box truck), what's included ('fuel and truck taxes, insurance, all rate pads and band to protect items... all tools for disassemble and reassembly'), 2.5-hour minimum, 15-minute increments ('once we go over that minimum the time is prorated in fifteen minute increments'). No trip fee or overnight fee mentioned (not applicable to this move), but core framing is present.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or any version of it. After stating the price range, rep immediately pivots: 'Like I said, I do have that 8:39 AM arrival Al time. And then would you like us to help you help us, excuse me, would you like us to help you with your move?'",
+    "on_time_guarantee_delivered": "Rep states: 'We can't make it on the time window that we arrange. We immediately start discounting money of your final bill.' Covers discount terms (discounting immediately if late) in recognizable form.",
+    "damage_coverage_delivered": "Rep states: 'We do have our no worries damage coverage. Which is our free evaluation coverage included in the hourly rate provides up to $2,000 per move to repair, replace or reimburse for accident and all damages for things like that.' Covers the $2,000, that it's included in rate (not an add-on), though phrasing 'free evaluation coverage' is slightly unclear \u2014 the 'no deductible/no fine print' framing is absent.",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or equivalent. After delivering both promises, rep moves straight to the move prep notes and pricing anchor without closing the loop.",
+    "final_concerns_check": "Rep asks: 'And then do you have any other questions for me?' This is a genuine open-ended check, though not the exact scripted phrase 'What's still concerning you about this move?' \u2014 it's still a real concerns prompt, not a throwaway 'any questions?'",
+    "catch_all_asked": "Rep does not ask 'Anything coming with you we haven't talked about?' or similar. The final check is only 'do you have any other questions for me?'",
+    "explicit_ask": "Rep asks plainly: 'And then would you like us to help you help us, excuse me, would you like us to help you with your move?' No built-in out offered.",
+    "rate_lock_mentioned": "Rep states: 'There's no deposit to get on the schedule and no fees or charges to change or cancel.' This is a rate-lock / no-deposit message.",
+    "booking_confirmed": "Rep confirms: date (Friday, 8:30\u20139 AM), arrival window (8:30\u20139 AM), addresses (pickup 2929 West Lane, delivery 2323 McCue), unit numbers (1704 pickup, destination TBD), floor numbers (17th pickup, 18th delivery), crew size (two movers and truck), and sends confirmation email. Phone number already captured. Notes on customer concerns (prep level, freight elevators) are discussed but not explicitly left as notes for the crew in the transcript. Booking is substantially complete."
+  },
+  "top_strength": "Brianne thoroughly gathered logistics details across both locations (floors, elevators, distances, furniture specifics, square footage) and delivered a personalized, anchored estimate range ($576\u2013$768) that directly tied to the customer's actual move size and prep factors.",
+  "coaching_note": "Skip the quid pro quo framing entirely \u2014 open with time-boxing and the promise of a dependable quote before any probing, then wait for a yes; also add 'Does that feel fair?' with genuine silence after pricing, and ask the catch-all 'Anything coming with you we haven't talked about?' before closing."
+}

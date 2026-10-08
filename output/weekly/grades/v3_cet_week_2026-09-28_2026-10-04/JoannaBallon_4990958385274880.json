@@ -1,0 +1,42 @@
+{
+  "call_id": "4990958385274880",
+  "rep_name": "Joanna Ballon",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 7.9,
+  "datetime_ct": "2026-09-30 17:28 CT",
+  "external_number": "+15126607257",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 30,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'just need about ten to fifteen minutes to discuss that call if this is a good time?' \u2014 framing present (time-boxed, promise implicit) but does not wait for explicit yes; Gina says 'Yes, that's fine' which could count as yes, but it's thin and not a deliberate pause.",
+    "their_agenda": "Joanna: 'aside from the pricing, do you have any important concerns for this move that you also want to discuss on this call?' Asked before any probing. Gina: 'No.' \u2014 no concerns raised, so Two Layers Deep and Active Listening Reflection both N/A.",
+    "discovery_basics": "Name: Gina McCauley (implied from greeting); moving day: October 12, flexible; route: Dallas to Austin; size: one-bedroom apartment. All four asked.",
+    "logistics_details_gathered": "Property type: apartment; floors: current 7th floor (initial misstatement corrected), new 4th floor; rooms: 1 bed, 1 living room; elevators: yes both ends; walking distance from parking: ~50 feet current, unknown new; distance door to elevator: <6 feet current. Furniture: bed, dresser, nightstand, couch, coffee table, miniature freezer, stand-up desk, lightweight TV, bookshelves on rollers. Boxes: ~30 plastic moving tubs. Nearly all seven items covered.",
+    "estimate_anchor": "Joanna gives hourly rate ($204/hr for 2 men and truck) and lists inclusions (wraps, assembly, taxes, insurance, credit fees), plus travel fee ($1,056) and potential overnight fee ($240). Personalizes minimally to Monday rate and notes timing affects overnight fee applicability \u2014 partial, not fully personalized to Gina's specific prep or concerns (no concerns were raised).",
+    "pricing_framing": "Fee transparency: travel fee and overnight fee disclosed. Commitment framing: mentions 'charge by the hour' twice and that hourly includes multiple items, but does NOT mention 2.5-hour minimum or 15-minute-increment billing or 'not a guess' framing. Partial.",
+    "feels_fair_then_silence": "Never asked. Gina interrupts with a clarifying question about travel fee structure; Joanna answers but never circles back to 'Does that feel fair?' and never holds silence.",
+    "on_time_guarantee": "Not mentioned at all.",
+    "damage_coverage": "Not mentioned at all.",
+    "closes_the_loop": "No loop closure attempted on the Two Promises section.",
+    "final_concerns_check": "Not asked. Call ends abruptly when Gina decides to seek cheaper alternatives (renting a truck herself).",
+    "catch_all_asked": "Not asked.",
+    "explicit_ask": "Never asked 'Would you like our help with your move?' or equivalent. Gina volunteers to explore alternatives and ends the call; Joanna says 'thank you so much for considering us' but never asks for the business."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details efficiently \u2014 floor levels, walking distances, furniture inventory, box count, elevator access \u2014 building a solid foundation for an accurate estimate.",
+  "coaching_note": "The call collapsed after pricing because Joanna never delivered the Two Promises (On-Time Guarantee and No Worries Damage Coverage), never asked 'Does that feel fair?' to lock confidence, and never made an explicit ask for the business \u2014 once Gina voiced sticker shock and pivoted to a DIY truck rental, there was no safety net to keep her engaged."
+}

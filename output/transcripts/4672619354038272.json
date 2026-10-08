@@ -1,0 +1,908 @@
+{
+  "call_id": "5083282761097216",
+  "lines": [
+    {
+      "content": "Stein moving this is Dana. Can I have your name?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:27:26.205374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:27:26.205374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:27:26.205374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:27:26.205374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:27:26.205374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:27:26.205374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:27:26.205374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:27:27.767374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Hi Dana, this is Adela. How are you?",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:27:30.467109",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "ner",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:27:31.234109",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "contact_name",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:27:32.394109",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "ner",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:27:32.394109",
+      "type": "moment"
+    },
+    {
+      "content": "I am doing good Adela. How about you?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:27:34.005374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:27:35.487374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Very well just wondering if you can give me a quote for a moving job.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:27:38.267109",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "call_purpose",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:27:38.267109",
+      "type": "moment"
+    },
+    {
+      "content": "Of course. Let me check pricing and availability for you first. Can I have the zip code for the pickup and the drop-off.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:27:44.805374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:27:44.805374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Pickup is gonna be 78749 and drop-off 78739.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:27:53.867109",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and what date are you looking to move?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:28:01.005374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:28:03.927374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "I guess, ASAP.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:28:08.267109",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, let me see when.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:28:11.805374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Well, let me just start with the items cause I don't have it's not like a full house. I just need a, I have a king size ad board.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:28:12.467109",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "It has like in a second panel. So this particular frame, it's pretty sturdy and heavy. It's heavy wood upholstered it has late woods late and it, and, and a heavy mattress king size latex, which it's pretty heavy.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:28:24.467109",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:28:28.605374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:28:33.405374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:28:41.805374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:28:50.205374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "So, if they have like, I don't know if you movers, if they have like special moving for latex mattresses. I mean, I think that mattress is probably \u00a3300, like, I'm not sure maybe it's just super heavy for, I can barely lift it to kind of, like talk in the sheets. Alright. So, is the bed frame heavy as I mentioned is the late tex mattress heavy. I mean, pretty, I mean, those are, yeah, this is my main, and then maybe possibly an office, but the, those are like not important, like an office chair. I can like even move that in my car, an office chair. And yeah, maybe like a couple of small items. But let's talk about the price because anything else I can move-in by myself.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:28:53.867109",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "currency",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:29:03.234109",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:29:04.605374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Okay.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:29:07.605374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Okay, got it.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:29:10.605374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Okay. Got it. So we are moving only a few pieces, right? Okay, our.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:29:43.605374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Yeah. And it's gonna go the new house. Just so you know, the new house. So the bed will go upstairs, cause the old house has only one floor. But the new house has a, the bedrooms are upstairs and this bed will be in the masters upstairs, and the floor upstairs is all carpeted, so I really need the movers to where the whatever the thing they put on their feet, cause like I washed, I deep, clean the carpet and wanna kind of make sure it doesn't get all Parnian moving process.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:29:49.667109",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:30:24.405374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Mm-hmm, got it. Actually adella all of the furniture will be wrapped and padded for protection. That's included in our rate, as well as the home, your current, and your new home. We don't let our movers wear shoe covers cause it's a risk for slipping but we have floor runners that we can put. And also, if we need to put paddings on the doorways and the walls we use that to, to protect the entire place and then adella in terms of availability, our latest is tomorrow in the afternoon. And we're on, understand we're only moving a few pieces but we have a two and a half hour minimum if that works for you.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:30:27.405374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:30:30.527374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "What's your price?",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:31:14.267109",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "question",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:31:14.267109",
+      "type": "moment"
+    },
+    {
+      "content": "The hourly rate for two movers is $208 that's all included already. No credit card fees, no transportation fees. So for two and a half hours, it's a total of $520.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:31:16.605374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "currency",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:31:20.287374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "currency",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:31:29.247374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Okay. Will they dismantle the frame like the, so the disassemble and assembly. Okay. I don't imagine this job it's gonna take it can, it should not be taking them more than two hours.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:31:33.467109",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, this assembly and reassembly is included. Yup.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:31:38.205374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Yeah, if it's a few pieces.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:31:52.605374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "It's only a bed from.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:31:55.667109",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup and maybe a few other miscellaneous. Yeah, that's not gonna take that long.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:31:58.605374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Yeah. The few I mean, depends on how they move like, to be honest with you, I just, I have a budget for this, I wanna stick within it cause otherwise like, Milen to buy, to buy new stuff. So I am not gonna throw in the additional little items unless I see like, oh, you know, they're pretty efficient, no big, you know. And then like, oh, you know, we just been here for thirty minutes, like, okay, let's throw in the office chair and I have one table for my child, which is like, a craft table very plain, very like, nothing fancy there, so depending on like, I wanna stay right? I I did, wanna stay within the two hours again, because it's like, there are a few items and what I'm very interested in like, making sure they appropriately wrap the mattress and the bed frame and.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:32:02.867109",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:32:14.205374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Mm-hmm. Yup.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:32:21.405374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Yup, yup.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:32:28.005374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Mm-hmm. Yup.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:32:34.005374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Mm-hmm yeah, you can do that too.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:32:37.005374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:32:45.405374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:32:54.405374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "If I need like they should come with. There's a like this bad had a tool for the screws. I put this back together myself and and I just forgot what I put like this. It's like the tools, kinda like one of those screw drivers that are Okta gone but I just don't know what I put it. So maybe I should like dig in the garage and see if I can find it. But otherwise I'm sure they will have maybe I can take a picture and send it to you to make sure they come with the right tools for the assembly and disassemble.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:32:58.667109",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:33:08.805374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:33:19.005374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Mm-hmm okay. Yeah, first of all, thank you for those Adela our movers here. We don't hire daily contracted workers. Our cruise are employed with background checks and professional training, so I can assure everyone is yeah, trained and very efficient for you. Normally they would always try to beat the code especially for longer moves. They would try to beat the code but of course in an efficient manner, not to the point that they're gonna rush everything. If that makes sense and then forward to disassemble reassembly we have to complete tools for that.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:33:32.805374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:33:37.687374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Yeah.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:34:07.667109",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Oh, you do? Okay, so I shouldn't worry about it. Okay, alright. Well so remind me again the total will be how much would all included.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:34:11.267109",
+      "type": "transcript"
+    },
+    {
+      "content": "For two and a half hours is $520 all included and just in case like, okay, you can, like you ask us to, okay, can you just move this and that more or more items after the two and a half hour minimum the time will be in fifteen minute increments.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:34:18.405374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "currency",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:34:21.687374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Okay.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:34:24.467109",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Gotcha. Okay. Your min and the minimum is two and a half.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:34:38.267109",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:34:42.405374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Okay, so the transit time like driving from my house to hear it's probably gonna take them about twenty minutes.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:34:43.667109",
+      "type": "transcript"
+    },
+    {
+      "content": "No, the drive time from the branch going to the first stop, that's not included as well as the drive time from the new home to the last. So, the drive time going to and going from. Yeah, it's not included.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:34:50.805374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Oh, oh, my god. They will definitely, yeah, alright. Okay. And, and so, and does the, then does the quote. Then they definitely have time to put in that little kid. The kids table which does not, does not need dise so are you saying like, basically you're not charging per item, you're charging per hour.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:34:59.267109",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, yes, yes.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:35:13.005374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Yes, we're time based. Yes.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:35:22.005374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Oh, time this. Oh, yeah, they'll definitely I mean they'll definitely leave it within. So let me call, I have I'm just doing my diligence, I have two more numbers I want to call them and get a quote and then I'll call this number back. So far. I'm like, everything, I'm here and sounds good for me. But let me just call the other two numbers and so I'm happy with what I'm choosing and then I'll call you back and then we confirm for tomorrow and they're, I, are they flexible in the morning or afternoon.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:35:24.467109",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "positive_sentiment",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:35:24.467109",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:35:35.805374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "action_item",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:35:39.154109",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, yeah.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:35:41.805374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "action_item",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:35:49.954109",
+      "type": "moment"
+    },
+    {
+      "content": "Of course of course.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:35:50.205374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "For tomorrow our only availability is in the afternoon. It'll be around the arrival time. We have a two hour arrival window in the afternoon, because of the move prior. So, it'll be between 2:30 PM and 4:30 PM. Well if you want more, we have the latest is on Wednesday if you want a morning time.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:35:57.405374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "time",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:36:12.807374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Okay.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:36:16.067109",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "No, I think tomorrow is fine. So because we don't know when they're gonna get to the house, my son has a soccer practice by the old house but he can go by himself but that one starts at 5:30 and wraps up at 6:30. So, they and I have someone at the old house already there. So there will be someone at the house they can come whenever time if by any chance they managed to go early and make it to the new house.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:36:24.467109",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "time",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:36:38.714109",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "time",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:36:39.914109",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:36:41.205374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Okay.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:36:44.205374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Between 5:00 and 530 which time I'm not available. Cause I have to drop-off my son at practice, I'm probably gonna just give them leave the door open.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:36:57.467109",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "time",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:36:58.394109",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:37:09.405374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Or I have to. Or do I have to be, well, I'll just, let me just call you back. Like I, I'll call yes I'll manage because I like to sleep in my bed tomorrow. I've been slipping on the floor, okay? Alright.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:37:10.067109",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "question",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:37:11.834109",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, sure.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:37:15.405374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Yeah, of course. Yeah, Adela if you want I can set up your profile here so we can get everything ready. Then if you're ready to move forward, then we could just go ahead and lock in for tomorrow.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:37:21.405374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:37:25.727374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Okay, so let me just give this, okay, but don't make any confirmation and like all the other two numbers I mean, fire 520 sounds fine to me but anyway let me just you know, be so what do information do you need?",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:37:35.867109",
+      "type": "transcript"
+    },
+    {
+      "content": "But right now we can set up your profile mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:37:36.405374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Oh, no, no, yeah.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:37:41.805374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Yeah, yeah, yeah. Okay, the email address.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:37:46.605374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "question",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:37:48.274109",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Adela. Coman. Eleven at Gmail.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:37:53.267109",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, perfect, and also last one, the pickup and the drop-off full addresses.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:37:58.605374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Pickup 6212 morning. Do you?",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:38:08.867109",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Austin, Texas. 78749.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:38:13.667109",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "ner",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:38:13.667109",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "postcode",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:38:16.067109",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, morning, Ju drive, right.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:38:18.405374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Yes.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:38:22.067109",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, perfect. Alright, and the drop-off.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:38:23.205374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "1111 Martin lane.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:38:27.467109",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "ner",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:38:31.114109",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "78739.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:38:34.067109",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Martin lane or Morgan lane.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:38:38.205374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:38:39.405374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:38:41.527374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Marden at margin.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:38:41.867109",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, thank you.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:38:46.005374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Okay, perfect. Alright, so yeah, we've got your profile and let me see.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:38:52.005374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Alright, we've got your profile here and yeah, I'll send also an email with the pricing and everything that we talked about Adela then if you have any questions or if you're ready to move forward with us, just give us a callback and also, we don't require a deposit to book.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:39:02.205374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:39:09.287374",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Okay. Remind me again what's the name of your company?",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:39:17.267109",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "question",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:39:19.594109",
+      "type": "moment"
+    },
+    {
+      "content": "Moving company.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:39:21.405374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Okay. Gotcha. Alright. Well, yeah, please do send me that email and let me make this to other calls and then you know, we'll see. Yeah, I'm pretty sure they're probably gonna be comfortable.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:39:23.867109",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup, yup. Sure. Just give us a call. Thank you.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:39:34.605374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS5vTh3QgM",
+      "content": "Thank you, bye-bye.",
+      "name": "Adela Coman",
+      "time": "2026-09-28T19:39:38.267109",
+      "type": "transcript"
+    },
+    {
+      "content": "Bye-bye.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-28T19:39:40.005374",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    }
+  ]
+}

@@ -1,0 +1,761 @@
+{
+  "call_id": "5438248099028992",
+  "lines": [
+    {
+      "content": "Thank you for calling Einstein movie company. This is Bree.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:44:22.183872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:44:22.183872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:44:22.183872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:44:22.183872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:44:22.183872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:44:22.183872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:44:23.422872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:44:24.942872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Hi, my name is Susan Hardway. And I just was hoping you all could advise me. I'm in Austin and I'm looking to move three items, a grandfather clock, a big piece of Bart, and a cedar chest from Frisco, Texas. Is that something you guys do or is there a small move? I, I'm just lost on how to get that stuff moved.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:44:25.814267",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "call_purpose",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:44:25.814267",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "contact_name",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:44:27.949267",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "ner",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:44:27.949267",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "ner",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:44:32.189267",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "ner",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:44:38.749267",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "question",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:44:40.214267",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:44:45.502872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Yes, absolutely we do do that from Frisco to Austin from so we're moving those items from Frisco to south Austin, correct?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:44:46.783872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:44:50.742872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:44:51.422872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:44:52.862872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:44:54.622872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:44:56.262872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Correct.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:44:57.614267",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Yup. We do that, we just charge an hourly rate. Everything's included in the hourly rate. So, it, and we do have a two and a half hour minimum which we would obviously meet with the drive from Frisco to Austin and then they would just try, there might be some trouble fees and things of that nature. So, just kind of, oh, you're wanting to do that.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:44:58.783872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:45:11.902872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:45:12.862872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Mm-hmm.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:45:13.814267",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Okay.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:45:19.214267",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Okay. Okay, and how do I get an estimate on something like that?",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:45:21.614267",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "question",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:45:24.029267",
+      "type": "moment"
+    },
+    {
+      "content": "I can help you out. Let me do let me see what the best.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:45:26.383872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Okay.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:45:27.614267",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:45:28.462872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "That might be, I mean, from our McKinney branch going to Austin and then turning around.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:45:33.583872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:45:37.262872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:45:38.902872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Let me get some basic, go ahead.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:45:42.583872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "And would they send, okay, I'm sorry would they stick those things on a, on a truck that was going any way or how does that typically work?",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:45:42.614267",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "question",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:45:43.389267",
+      "type": "moment"
+    },
+    {
+      "content": "No, it would just be on its own truck.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:45:50.383872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Okay, okay, okay.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:45:52.814267",
+      "type": "transcript"
+    },
+    {
+      "content": "The way we work, yeah, cause we're, we just do local moves. Let me get some basic information from you. I'm gonna have to go ahead and pass you off to a I don't wanna pass you off but transfer you to like that sounds like you're not worthy. That is not the case, I just don't do long, just moves. I'm not trained yet for long-distance move. So, I want to get to someone who was going to give you the most accurate estimate and be most cost efficient obviously what day are we looking to secure?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:45:54.583872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Okay.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:45:56.414267",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Okay.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:45:59.414267",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "I know what you mean.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:46:10.214267",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:46:13.462872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "No, no. How was that?",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:46:15.014267",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "question",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:46:16.349267",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Okay.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:46:19.214267",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Okay, thank you.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:46:25.214267",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:46:26.422872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "I mean, it could be almost any day in the next, probably the next two weeks. Yeah.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:46:29.414267",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, is, and, and like so our value days are Monday through Thursday. Is that okay to look in one of those and are you prefer weekend? Yeah.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:46:35.983872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:46:41.782872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Yeah, so those are leaf expensive. Yeah, no, no that would be I mean Thursday like, or even Monday the fifth would be great.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:46:43.814267",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:46:54.583872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Or any, the fifty seventh or eighth would be fine.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:46:56.414267",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, let's do the sixth cause I have a bunch of trucks open for that day.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:46:59.983872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Okay.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:47:03.014267",
+      "type": "transcript"
+    },
+    {
+      "content": "And then your name was Susan, and then last name's Hardway HAR EA.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:47:05.383872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:47:06.862872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Mm-hmm.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:47:07.814267",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Part away uh-huh R-D-A-W-A-Y yeah or the way.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:47:10.214267",
+      "type": "transcript"
+    },
+    {
+      "content": "And then this is a good contact number to you for you the 512-657-2224, and then no need to take notes. We can send everything over via email. Do you have a good email for that?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:47:17.983872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "phone_number",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:47:21.142872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Yes.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:47:25.214267",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:47:28.902872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Yes, it's first initial, last name S. Hardway 8991 at Gmail.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:47:31.214267",
+      "type": "transcript"
+    },
+    {
+      "content": "And then where are we picking up those items in Frisco?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:48:04.783872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:48:05.942872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:48:08.822872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "The address is 7171 misty oaks lane.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:48:09.614267",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "And the zip is 75034.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:48:17.414267",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "postcode",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:48:19.269267",
+      "type": "moment"
+    },
+    {
+      "content": "And then is that a house, a storage unit?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:48:25.183872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:48:26.262872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Yeah, it's a house.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:48:28.214267",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and then how many square feet is the house? One story? Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:48:29.983872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "One store.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:48:31.214267",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "The one you're picking up from is probably a thousand.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:48:34.814267",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:48:40.783872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "And then the address of the location in Austin.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:48:46.183872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:48:50.542872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "1704 A for cut Glen drive three words.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:48:51.614267",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "ner",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:48:56.189267",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "And that's Austin 78746.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:49:00.614267",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "ner",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:49:02.309267",
+      "type": "moment"
+    },
+    {
+      "content": "That.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:49:05.383872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "And then I know we're just moving the few items but how many square feet is the home that we're moving it to?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:49:08.383872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "2600, and it would all be on the first level.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:49:13.214267",
+      "type": "transcript"
+    },
+    {
+      "content": "Perfect.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:49:18.583872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:49:21.583872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "I think I've got all the information that I'm going to need. Do you mind holding on just one moment and let me reach out to see if one of my supervisors is available to take over?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:49:23.983872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:49:26.942872",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Perfect, thank you so much for your help.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:49:32.414267",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "positive_sentiment",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:49:32.414267",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "support_issue_resolved",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:49:33.549267",
+      "type": "moment"
+    },
+    {
+      "content": "Yes ma'am. Thank you for being patient.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:49:34.783872",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Mm-hmm.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:49:36.614267",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you so much for holding. It looks like they're all on the other line. Do you mind if someone gives you a call right back? If once they hop off.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:52:10.934924",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:52:14.878924",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Oh, no, that's totally fine. And also, if it's, if it's easier to send via email that's totally fine too, so whatever, I'm not a big emergency.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:52:18.514358",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, sounds good. I will let them know and you should hear from us shortly.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:52:25.934924",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Oh.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:52:28.114358",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Okay, thanks so much.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:52:30.514358",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "positive_sentiment",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:52:31.408358",
+      "type": "moment"
+    },
+    {
+      "content": "Of course. Thank you. Have a good rest of your day. Bye!",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-09-29T18:52:31.934924",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSscPj4AsM",
+      "content": "Okay, you too. Bye-bye.",
+      "name": "Susan Hardaway",
+      "time": "2026-09-29T18:52:34.114358",
+      "type": "transcript"
+    }
+  ]
+}

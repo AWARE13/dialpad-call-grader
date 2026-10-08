@@ -1,0 +1,33 @@
+{
+  "call_id": "5912602928783360",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 10.1,
+  "datetime_ct": "2026-09-28 15:00 CT",
+  "external_number": "+14084407914",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 71,
+  "pass": false,
+  "na_fallbacks_used": [
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'Before I do that, I will need to take a couple of pieces of information just to make sure that I have the right rate for you' but never frames the 10-15 minute time box or the promise of a dependable quote, and doesn't wait for a yes before continuing.",
+    "discovery_basics": "Name: 'My first name is via, V. as in Victor, I. as in India, K as in kilo, A. As in apple, S. as in Sam... nay, N as in Nancy, A as in apple, Y as as in Yankey, A as in apple, R as in Robert, Maya Ria.' Date: 'Monday October 5th, is that correct?' Route: 'Dallas' to 'Dallas 75229.' Size: From house 2200 sq ft, to house 1800 sq ft.",
+    "their_agenda": "Not asked. Rep acknowledges one concern about TV dismount and washer/dryer hookup mid-call, but never asks 'Other than price, what are your biggest concerns about this move?'",
+    "two_layers_deep": "Rep does follow up on TV mount concern: 'Do you mean from the wall? No, they can, yeah, they can take everything off of the wall for you.' And on washer/dryer: 'Yes they can do, they can hook the washer and dryer backup.' These are real follow-ups on the customer's raised concerns.",
+    "walkthrough_branch": "Customer states moving from 2200 sq ft to 1800 sq ft. The origin house is 2200 sq ft (\u22651,800 threshold). Script Section 1 calls for virtual walkthrough offer on moves 1,800+ sq ft. Rep says 'Let me go ahead and get you over to a specialist so they can get you all taken care of' \u2014 transfers without offering or scheduling the walkthrough, and abandons the full call script.",
+    "explicit_ask": "Never asked. Rep transfers to specialist instead: 'Let me go ahead and get you over to a specialist so they can get you all taken care of.'"
+  },
+  "top_strength": "Rep gathered all four discovery basics cleanly (name, date, both addresses, both square footages) and followed up authentically when the customer raised concerns about TV and washer/dryer installation.",
+  "coaching_note": "This is a 2,200 sq ft move \u2014 Section 1 requires you to offer the virtual walkthrough before transferring; instead, you handed off mid-call without scheduling it, breaking the walkthrough-routed path and leaving the customer hanging. Always offer the walkthrough when the origin home is 1,800+ sq ft, confirm next steps, then transfer."
+}

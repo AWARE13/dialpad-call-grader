@@ -1,0 +1,32 @@
+{
+  "call_id": "4722629833695232",
+  "rep_name": "Nicole Tolete",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 9.9,
+  "datetime_ct": "2026-09-30 17:18 CT",
+  "external_number": "+18325061094",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 8,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "I'd like to ask first what are your biggest concerns and what are the most important things you want answers to on this call today? [Stephanie: Biggest concern is the cost.]",
+    "two_layers_deep": "Nicole acknowledged cost concern ('I see. Don't worry I can run, run you down to the prices later on') but immediately pivoted into logistics questions without digging deeper into what specifically about cost was worrying her.",
+    "estimate_anchor": "For a typical 1400 square footage home we usually expect to see around 45 to 55 boxes to move. [...] Now for a typical 1400 square footage home it usually takes around six to eight hours to completely move locally [...] We will break this move into two days. So on your first day, I estimated a two mover with one truck for seven and a half to eight and a half hour range... [but no final dollar total was given before the customer objected].",
+    "feels_fair_then_silence": "Nicole never asked 'Does that feel fair?' or any variant; the estimate discussion was interrupted by the customer's objection about the overnight fee and two-day structure.",
+    "explicit_ask": "No explicit ask for the business was ever made. The call ended with Nicole saying 'I still really appreciate you considering Einstein moving if ever you need us in the future you can always give us a call' \u2014 a graceful exit after the customer rejected the move, but no attempt to retain or close."
+  },
+  "top_strength": "Nicole delivered the quid pro quo framing clearly upfront ('This call will just take around ten to fifteen minutes. Then I will be able to build you an accurate quote you can depend on'), and she gathered all four core discovery basics (name, moving day, route, and approximate size) before diving into details.",
+  "coaching_note": "When the customer raised her biggest concern (cost), Nicole pivoted immediately into logistics questions instead of digging two layers deep into what specifically about price was worrying her\u2014if she'd uncovered that the real worry was the two-day move or overnight hotel fee earlier, she could have addressed it before building the full estimate and losing the deal."
+}

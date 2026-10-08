@@ -1,0 +1,845 @@
+{
+  "call_id": "5413024389439488",
+  "lines": [
+    {
+      "content": "Thank you for calling moving. This is Bree. How may I help you?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:18:36.413467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:18:36.413467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:18:36.413467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:18:36.413467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:18:36.413467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:18:36.413467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:18:36.413467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:18:38.157467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Hey there I need someone to pick something up for us and put it and move it to our third floor office here in town early next week. Yeah.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:18:40.673282",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "call_purpose",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:18:40.673282",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:18:55.613467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "And what are we moving?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:18:58.613467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:18:59.517467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "It's going to be what is eleven desk and but they're gonna still be in their Amazon box form. So it's probably, you know, probably 22 to 25 different boxes, eleven of those being you know, let's call it sixty by thirty type table tops. And then the rest being all legs. So, yeah, just lots of, lots of boxes, some large.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:19:01.073282",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "ner",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:19:08.291282",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:19:26.213467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Yeah.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:19:34.073282",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah. Alright, looks like you're calling from the south Austin area you said.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:19:35.213467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:19:38.877467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Yes. How would you know? I'm calling from the south Austin area?",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:19:41.273282",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "question",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:19:43.651282",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "ner",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:19:45.051282",
+      "type": "moment"
+    },
+    {
+      "content": "It, when it calls caller ID, just tells me kind of what area like it there are system routes you from where you're calling to the branch if that makes sense.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:19:46.013467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "So, you can liter, you can literally tell that I am sitting in south Austin and like the data tells you that I'm sorry, I'm fascinated by that.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:19:55.073282",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:19:59.677467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "ner",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:20:01.091282",
+      "type": "moment"
+    },
+    {
+      "content": "Did.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:20:02.213467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Well, yeah, no I think well I think how it works and I'm not super a Techi obviously but because we use like a system. So I'm sure you tried calling the south Austin branch. So when you got to me, yeah, and that's how it's like saying south ice. Yeah, it say south Austin. I'm moving company like I don't know where you're pinned.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:20:05.213467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Sure.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:20:11.273282",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:20:14.797467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Oh, yeah, yeah, okay, okay, alright, yeah, that makes more sense, that makes more sense. Yeah, I was like, wait a second you can tell where, yeah, yeah, like my gosh, you yeah, some CIA sh right here. What does I sign-up to, you know.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:20:17.273282",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:20:23.717467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Always watching.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:20:29.813467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "ner",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:20:33.291282",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, no kidding you never know, nowadays is wild out there. Alright let's see and you said.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:20:34.613467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Yeah, well and I've been, I've been watching Lyon S. so, you know, it's all in my mind right now, you know.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:20:39.571282",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "ner",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:20:43.211282",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, I know it's such a good show. I'm, I, I'm curious to see how they're gonna make it go for the next season someone's got to go.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:20:44.213467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:20:44.213467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "That's right, yup. Okay, but yeah.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:20:53.273282",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. And you said next week.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:20:57.237467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Yeah, so, so, of course, I don't have it. So the plan is, is that right now the order is expected to land in at our Manaca facility, so south Austin on Monday. I was hoping that I could schedule someone with a truck to, you know, large like actual moving tri to pick it all up and main check and then take it to east eleventh third floor and place it inside those boxes inside our office suite.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:21:01.073282",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "ner",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:21:14.611282",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, and so maybe like the sixth or the seventh.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:21:38.213467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Yeah. On the Tuesday, yeah, Tuesday the sixth if possible.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:21:42.473282",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, did you say? Okay, perfect, you got that.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:21:44.813467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "And then what is your first name?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:21:53.813467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:21:54.317467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "My first name is Matt.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:21:56.273282",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "ner",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:21:57.811282",
+      "type": "moment"
+    },
+    {
+      "content": "And then your last name.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:22:02.213467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Myos M-U-N-O-Z.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:22:05.273282",
+      "type": "transcript"
+    },
+    {
+      "content": "And then this is a good contact for you the 512-391-9369, alright and then no need to take notes. I can send everything over to you via email. What is a good email for you?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:22:08.813467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "phone_number",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:22:11.557467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Yup.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:22:13.673282",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Yup.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:22:16.073282",
+      "type": "transcript"
+    },
+    {
+      "content": "action_item",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:22:18.197467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "It's gonna be Matt.my U. @texasoriginal.com.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:22:22.673282",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "email_address",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:22:25.571282",
+      "type": "moment"
+    },
+    {
+      "content": "And then how did you hear about us?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:22:37.013467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:22:37.797467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Just Google, I mean, I've, I've, know of you all regardless, just in general from living here, but also just googling.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:22:40.073282",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "ner",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:22:41.131282",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. Yeah, perfect, and then what is the address that we're going to pick up all those desks.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:22:46.013467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "The address you'd pick it up at is 12701 Loudon. Lane in Loudon is spelled L-O-W-D-E-N. Building, yeah, building number 501.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:22:53.873282",
+      "type": "transcript"
+    },
+    {
+      "content": "Monta.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:23:07.013467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "And for that, how many square feet is that building just so I can sell the box.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:23:15.413467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "The building 7500 square feet. Yeah. Oh, the off, like which the office we're delivering to or the building you're picking up from?",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:23:23.273282",
+      "type": "transcript"
+    },
+    {
+      "content": "Or the office?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:23:25.613467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:23:28.613467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Building we're picking up from.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:23:33.413467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "It's 7500 square feet.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:23:36.473282",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. But obviously we're just picking up those items.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:23:39.413467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Yeah, we'll have them we'll have them staged in, in the back so I can open area, so basically, just pulling truck load them up. I don't know if it's gonna be on a pallet or not. I never really know how Amazon is gonna deliver this stuff but should be should be ready to pull back in, load it, load it up and then go.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:23:44.273282",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "ner",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:23:58.691282",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. So it's kind of more of like a warehouse.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:24:08.813467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Yeah, it's, yeah, sure. That's, it's, if that tell you when I consider it, it's more of a pro. It's our former production facility but, but yeah, it's kind of their industrial little buildings.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:24:11.873282",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, okay, perfect and then pull right up.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:24:24.413467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Alright, and we said about 25 boxes and that's not including the desks.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:24:35.213467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "That is including the desk.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:24:41.873282",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, it is? Okay, perfect.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:24:44.813467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Yeah, it'll, it'll, it's eleven desk but they're gonna come in parks and pieces, right. So it, it'll, it'll result in probably about 25 you know give or take boxes that are split between the table tops and the legs.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:24:47.273282",
+      "type": "transcript"
+    },
+    {
+      "content": "Right.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:24:53.813467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Okay, perfect. And then unload and you said that's East Eleventh Street that we're going to.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:25:03.413467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "address",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:25:10.037467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Yeah, 1050 East Eleventh Street.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:25:12.473282",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "address",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:25:14.091282",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "And that's gonna be suite 350.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:25:19.073282",
+      "type": "transcript"
+    },
+    {
+      "content": "And third floor.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:25:24.413467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "But yeah, but I'll, I'll, would obviously meet them there.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:25:25.673282",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:25:30.413467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "And then we are doing elevator access on that.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:25:32.813467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Elevator access. Unfortunately, there's, there's not a, there's not a you know, simple easy large freight elevator. There are two elevators but it's easy access to those two just from the parking lot.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:25:37.673282",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, sounds good.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:25:52.013467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:25:58.013467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Alright. If you don't mind, I am going to reach out to my supervisor, because this is, I'm usually trained up to about 1700 square foot houses. I do offices once in a while so I just want them to definitely check my estimate, cause I don't want to overestimate or under estimate for you. Do you mind if I give you a call just back?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:26:00.413467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:26:03.037467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:26:19.757467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Yeah, I guess the quick question I have is what is like you keep asking about the square footage. I'm not entirely sure how go here.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:26:22.673282",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, that's just for I have to put it in the box.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:26:31.613467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Okay. Okay. Yup. Yeah.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:26:35.873282",
+      "type": "transcript"
+    },
+    {
+      "content": "You know what I mean? Like, I know I'm only moving boxes but like, for the system it likes the number in there, so, that's the only reason, yeah, not a big, yeah, that has nothing to do with like how I'm estimating you or anything, it just the system likes the numbers.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:26:37.013467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Yeah.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:26:41.273282",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Okay. Okay, cool. Yup.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:26:44.273282",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Okay. Yup. That's fine.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:26:54.473282",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, and then besides, before I hop off with you, do you have any other questions or concerns about the move is, I just getting the boxes there?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:26:55.013467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "It's literally just, yeah, just need manpower to take boxes from point A to point B, because I don't think gamble, I don't think Arizon could deliver all those up to the third floor.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:27:04.673282",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:27:07.397467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Yup.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:27:08.813467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:27:11.157467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Okay, sounds good.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:27:11.813467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Yeah, nor would they, right.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:27:18.413467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Yup. Yup. So.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:27:20.873282",
+      "type": "transcript"
+    },
+    {
+      "content": "Out of their scope for sure. Alright, yes we're happy to help you we do just so you know, we do charge an hourly rate so everything is included in that hourly rate, the fuel and trucks, the taxes and insurance and then all Rappa vans, protects items when being moved, we have no hidden fees, no credit card fees, no sterle. Fees or anything of that nature. And then we do have our no worries, damage coverage. Which is a free evaluation coverage included in the hour. The rate provides up to $2,000 per move to repair, replace or reimburse for accidental damages. And then we do have our on time guarantee. So, I will go ahead and reach out to my supervisor it won't take very long and then I'll just give you a quick callback.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:27:23.517467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Right.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:27:25.673282",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:27:53.357467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:28:02.037467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS_5KM6AoM",
+      "content": "Okay, sounds good. Thank you. Mm-hmm. Bye-bye.",
+      "name": "Munoz Matthew",
+      "time": "2026-10-02T14:28:07.673282",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. Thanks Matt. Uh-huh bye.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:28:08.813467",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-02T14:28:09.957467",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    }
+  ]
+}

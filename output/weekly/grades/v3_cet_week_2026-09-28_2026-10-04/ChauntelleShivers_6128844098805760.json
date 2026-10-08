@@ -1,0 +1,36 @@
+{
+  "call_id": "6128844098805760",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 9.7,
+  "datetime_ct": "2026-10-01 17:19 CT",
+  "external_number": "+14053010171",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never framed the call with 'Great, it looks like we have availability within your time frame... This will take about 10 to 15 minutes, and you can walk away with a quote you can depend on.' Instead jumped directly into questions after a brief time-check.",
+    "their_agenda": "Rep asked 'Now before I hop in, do you have any questions or just like, top of mind concerns that I can kick us off with?' \u2014 but this came after Ben had already volunteered his packing concern, so it functionally came after probing had begun, not before.",
+    "two_layers_deep": "When Ben raised packing concerns (wall art, TVs), rep acknowledged and explained standard services but did not ask follow-up questions like 'tell me more about that' or dig deeper into what exactly worried him about packing.",
+    "estimate_anchor": "Rep provided: 'the hourly rate...is gonna be $230 an hour' with 'two movers and one truck,' personalized to the customer's situation (minimal items, standard box count, walking distance at second location factored in), and a range of '$800 to about $920' for 3.5\u20134.5 hours.",
+    "pricing_framing": "Rep disclosed: '2.5 hour minimum,' 'no stair wheel fees,' 'no processing fees,' 'all inclusive' (taxes, insurance, travel, wrapping, padding, disassembling/reassembling). Also framed 'only pay for the time you use.'",
+    "feels_fair_then_silence": "After the estimate range was given, rep immediately moved to 'Typically a one bedroom unit takes about two and a half to three and a half' and continued re-pitching lower ranges. Never asked 'Does that feel fair?' and never held silence for customer response.",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' or any direct close. Instead, customer Ben asked for email, and rep said 'I sure can.' Then rep offered time slots but customer deferred with 'if we can get that estimate over to me. Let me look at a couple of other options and then I will reach back out if it makes sense.'",
+    "final_concerns_check": "Rep's closing was 'Okay, you got it. Well thank you so much Ben for answering my call and hopefully we'll hear from you soon. Any other questions?' \u2014 this is the empty 'Any other questions?' throwaway, not the genuine 'What's still concerning you about this move?' version.",
+    "booking_confirmed": "Rep confirmed arrival window (12:30\u20131:00 PM or 1:00\u20131:30 PM), mentioned no upfront payment and no cancellation fees, but never confirmed: customer phone number for the crew, addresses (though mentioned in discovery), move date (October 3rd, stated by rep but not confirmed by customer in booking context), crew size beyond 'two movers,' or notes about the customer's concerns for the crew to reference."
+  },
+  "top_strength": "Thorough and systematic logistics discovery \u2014 Rep gathered all seven logistics items (property type, floors, room count, walking distance, special considerations, box count, parking/access details) in a clear, organized way that set up an accurate estimate.",
+  "coaching_note": "Section 1 must open with the quid pro quo framing (time-boxed call + dependable quote promise) before any probing; Section 2's 'what concerns you' question should come first, before logistics probing starts; and Section 7 requires an explicit 'Would you like our help?' close with a real pause \u2014 none of these appeared, so the call ended on a 'let me think about it' defer instead of a booking attempt."
+}

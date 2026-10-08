@@ -1,0 +1,39 @@
+{
+  "call_id": "6605301468143616",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 17.2,
+  "datetime_ct": "2026-09-30 20:44 CT",
+  "external_number": "+12106490306",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 30,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Well in order for me to give you an estimate, I'm just gonna ask you a few questions regarding the move. So we can give you the most accurate code and this would take ten to fifteen minutes of your time. Is that okay? [Customer: Yes]",
+    "their_agenda": "Before I proceed on asking you the questions about the details if they move aside from the pricing. Do you have any other concerns about the moving process?",
+    "two_layers_deep": "N/A \u2014 customer raised one concern (two quotes: with/without packing) and rep pivoted to logistics without probing deeper into the underlying need.",
+    "estimate_anchor": "Normally just to give you a reference Nico we finish the move-in five and a half hours but in your case, I'm only estimating the move only to finish and let's say four and a half to five and a half hours with two movers and one truck. So the estimate it cost for move only is $1,011 to $1,219.",
+    "pricing_framing": "$75 travel fee, $150 packing materials, no hidden fees, 2.5-hour minimum, 15-minute increments all disclosed upfront.",
+    "feels_fair_then_silence": "Not asked \u2014 rep moved directly to deposit/cancellation policy without soliciting customer reaction to pricing.",
+    "on_time_guarantee": "Never mentioned.",
+    "damage_coverage": "Never mentioned.",
+    "final_concerns_check": "Not asked \u2014 rep skipped Section 6 entirely and went straight to 'do you have any questions so far?' then offer to email.",
+    "explicit_ask": "Never asked \u2014 rep offered 'would you like to be on the schedule or you want to receive the estimate details to your email?' which is a soft out, not an explicit ask for the business."
+  },
+  "top_strength": "Excellent logistics detail gathering (Section 3) \u2014 rep systematically covered property type, floors, elevator access, walking distances, furniture inventory, and destination details with precision and follow-up clarification.",
+  "coaching_note": "Section 5 (Two Promises) and Section 6 (Concerns Again) were completely skipped; rep pivoted to email handoff without delivering the On-Time Guarantee, No Worries Damage Coverage, final concerns check, or a genuine ask for the business \u2014 this is a 40-point miss on the call structure that directly cost the sale."
+}

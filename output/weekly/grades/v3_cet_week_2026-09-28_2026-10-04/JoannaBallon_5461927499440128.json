@@ -1,0 +1,43 @@
+{
+  "call_id": "5461927499440128",
+  "rep_name": "Joanna Ballon",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 29.0,
+  "datetime_ct": "2026-09-30 21:58 CT",
+  "external_number": "+16462889946",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 23,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 68,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'This might take about ten to fifteen minutes. Is that okay?' \u2014 present but rushed past; Eugene agrees but conversation immediately pivots to address collection without a clear frame on dependable quote promise.",
+    "their_agenda": "Joanna: 'Before we start, do you have any important concerns aside from the pricing that you also want to discuss today?' \u2014 asked before logistics probing. Eugene raises cancellation policy and apartment readiness uncertainty.",
+    "two_layers_deep": "Joanna: 'Mm-hmm. Mm-hmm. Mm-hmm.' and 'Okay, no problem. I'll explain all that to you as we discuss your removal.' \u2014 she acknowledges Eugene's concerns about cancellation and apartment readiness and later circles back to explain cancellation policy fully ('if you need to make any changes, you need to reschedule, you need to cancel that's fine. No fee for that'). Two-layer follow-up present.",
+    "active_listening_reflection": "No summary reflection offered. Joanna acknowledges concerns but never reflects them back as 'So what I'm hearing is X, Y, Z. Did I get all of it?'",
+    "logistics_details_gathered": "Property type (apartment to townhome), floor/stories (3rd floor pickup, 1st-2nd floor destination), bedrooms (one-bedroom each), walking distance (15 feet parking to stairs, apartment near stairs), additional items (6 boxes, sofa, mattress details, second furniture), special considerations (stairs access, $2K sofa, old furniture needing protection, mattress disposal). All seven categories covered.",
+    "packing_services_offered": "Joanna: 'Are you planning to do all the packing and two boxes or do you need help with that as well?' \u2014 offered.",
+    "box_count_asked": "Joanna: 'So we only have about six boxes.' \u2014 count confirmed from customer's email list.",
+    "estimate_anchor": "Joanna: 'For a one bedroom apartment Eugene, usually it takes two and a half to three and a half hours to complete... for now I'm estimating your move more on the five to six hour mark... That is an estimated budget of $1,329 including the transportation fee.' \u2014 typical range given ($204/hr \u00d7 2.5\u20133.5 hrs base) and personalized to this customer's stairs, multiple stops, and travel time.",
+    "pricing_framing": "Joanna: '$102 per hour per mover... that already includes the two men and the truck. All the wrap to protect your furniture with blanket, pads and shrink wraps... already includes taxes, insurance credit card fees... The only one outside of the hourly rate is a one time transportation fee is of $105... The time will only start once we arrive at your pickup location... just a two and a half hour minimum. If we go over the minimum, we only charge in fifteen minute intervals.' \u2014 both fee transparency and minimum/increment framing fully present.",
+    "feels_fair_then_silence": "Not asked. Joanna never asks 'Does that feel fair?' or equivalent, and proceeds directly to other questions.",
+    "on_time_guarantee_delivered": "Joanna: 'on, on time guarantee if we run late on the time that we schedule. We provide discounts for your move again.' \u2014 delivered but discount terms not fully detailed (no mention of immediate discounting or percentage/amount).",
+    "damage_coverage_delivered": "Joanna: 'we include up to $2,000 coverage for any repair, replacement reimbursement... unlike our competitors, usually they only use the statement date at 60\u00a2 per pound per item but with us, we include up to $2,000 coverage.' \u2014 coverage amount and no-fine-print framing present, but does not explicitly state 'no deductible' or that it's built into the rate (not an add-on).",
+    "closes_the_loop": "No. Joanna does not ask 'Does that put those to rest?' or similar. She moves into final clarifications about truck size and assembly without confirming the Two Promises resolved Eugene's concerns.",
+    "final_concerns_check": "Not asked. Joanna does not ask 'What's still concerning you about this move?' or a genuine version of that question at the end.",
+    "explicit_ask": "Never. Joanna never asks 'Would you like our help with your move?' or an equivalent plain ask. Eugene volunteers 'Let me call you back let me think about it and I'll call you back like this week' \u2014 the customer leaves without being explicitly asked to book.",
+    "rate_lock_mentioned": "No rate-lock or no-deposit commitment mentioned. Payment terms discussed but no rate guarantee or hold offer made."
+  },
+  "top_strength": "Joanna gathered complete logistics details (property types, floor layouts, walking distances, item lists, weight limits, special concerns) and delivered a fully anchored, personalized estimate ($1,329 for 5\u20136 hours) with clear pricing transparency, fee breakdowns, and 2.5-hour minimum/15-minute-increment framing.",
+  "coaching_note": "Close every call with an explicit ask ('Would you like our help with your move?') and hold silence for the answer; end this call without a single ask, you lose the sale \u2014 Eugene left to 'think about it' instead of confirming a booking."
+}

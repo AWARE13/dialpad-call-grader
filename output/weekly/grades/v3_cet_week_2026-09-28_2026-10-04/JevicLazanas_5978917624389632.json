@@ -1,0 +1,42 @@
+{
+  "call_id": "5978917624389632",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 23.6,
+  "datetime_ct": "2026-09-29 22:10 CT",
+  "external_number": "+15126584402",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 8,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 8,
+  "total_score": 68,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'this will just take about ten minutes. Is that okay?' but uses 'will take' framing (10 mins, not 10-15), skips the explicit 'dependable quote' promise, and does get a yes ('Sure')\u2014partial credit for time-boxed ask + wait, missing the full promise framing.",
+    "their_agenda": "Rep asks: 'What are your biggest concerns for this upcoming move and what are the most important things you want answers to on this call today?' Asked before any logistics probing, properly placed. Customer raises concern about damage coverage/insurance.",
+    "two_layers_deep": "Customer raises damage concern. Rep responds with product pitch (No Worries coverage) instead of follow-up probe like 'tell me more about that'\u2014does not dig deeper, one answer and pivot.",
+    "active_listening_reflection": "No summary reflection. Rep acknowledges 'I see. Well, you know, if that is your main concern' but never reflects back what was heard in a structured format like 'So what I'm hearing is...'",
+    "estimate_anchor": "Rep gives typical range ('two and a half to three and a half hours with two movers') and personalizes to this move: 'since you are moving from a third floor apartment with stair access, going to another third floor apartment...I would estimate your move to be between three and a half to four and a half hours.' Also provides budget: '$735 to $945.' Both present.",
+    "pricing_framing": "Rep discloses hourly rate ($210/hour for two movers), explains 2.5-hour minimum, 15-minute increments prorating, and explicitly states 'no hidden fees of any type. No credit card fees. No transportation fees, no stair fees, no assembly reassembly fees.' Full framing present.",
+    "feels_fair_then_silence": "Rep asks 'So would you like our help with your upcoming move?' but customer responds with concern ('It's definitely within the range...I'm making a few calls'), and rep immediately re-pitches the extra hour added ('So, the reason why you know, I added like an hour offer is because of the factors involved...') instead of holding silence. Talked over.",
+    "on_time_guarantee_delivered": "Rep delivers: 'If we can make it in the time window that we arrange, we immediately start discounting money of your final bill and all of that is included at no extra cost.' Covers discount terms clearly.",
+    "damage_coverage_delivered": "Rep states: 'No worries damage coverage which is my favorite. That will give you peace of mind...we provide up to $2,000 per move to repair, replace or reimburse.' Covers $2,000 and repair/replace framing, but does NOT explicitly state 'no deductible' or 'no fine print'\u2014partial credit.",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or equivalent. After covering the two promises, rep pivots directly to time-window availability and booking without confirming the customer's concerns are resolved.",
+    "final_concerns_check": "Rep asks 'Will there be anything else Taylor that you know, I can help you with today?'\u2014this is an empty throwaway 'anything else' phrasing, not the genuine 'What's still concerning you about this move?' version.",
+    "catch_all_asked": "Rep does not ask 'Anything coming with you we haven't talked about?'\u2014no catch-all question for overlooked items.",
+    "explicit_ask": "Rep asks 'So would you like our help with your upcoming move?' plainly, no built-in out like 'or I can just email this over.' Full credit.",
+    "rate_lock_mentioned": "Rep never mentions rate-lock or guarantee that the quoted price won't change. Not stated.",
+    "booking_confirmed": "Rep confirms date (Sunday October 4th, 8:30-9:00 AM), sends email confirmation (which customer verifies receipt), discusses payment method (on-site iPad processing), but does NOT confirm: arrival window explicitly re-stated at close, crew size (two movers mentioned in pricing but not re-confirmed at booking), or that notes about customer concerns (stair access, gate code, etc.) are left for the crew. Partial credit."
+  },
+  "top_strength": "Jevic expertly gathered comprehensive logistics details (property type, floor/stories, room count, walking distance, special items, box count, access concerns) and built a fully personalized estimate anchored to the customer's specific situation (third-floor stair access both ways), which demonstrates strong technical probing and confidence.",
+  "coaching_note": "When a customer expresses hesitation or raises a concern after your ask, resist the urge to re-pitch immediately\u2014pause and listen first; the customer's objection about checking with others after the estimate was real feedback, not a rejection, and re-pitching the extra hour shifted the focus back to you instead of staying with their concern."
+}

@@ -1,0 +1,41 @@
+{
+  "call_id": "4679477667078144",
+  "rep_name": "Brianne Newbro",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 18.1,
+  "datetime_ct": "2026-10-02 16:07 CT",
+  "external_number": "+15127628484",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 3,
+  "total_score": 42,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "section1_quid_pro_quo": "Rep jumps directly into availability checking ('Not today. We are full. Yup, I have tomorrow.') with no framing of time, value of quote, or explicit ask for agreement before proceeding.",
+    "section2_their_agenda": "Never asked. Rep moves immediately into logistics probing without 'What are your biggest concerns?' or equivalent.",
+    "section4_estimate_anchor": "Rep provides hourly rate ($300/hr for 3 movers, $200/hr for 2 movers) and mentions 2.5-hour minimum, but does not anchor to a typical range for this job size or personalize based on customer's stated concerns (rain, water in lot, special packing for art). Final total ($900\u2013$1050) emerges through back-and-forth calculation, not delivered as a framed estimate.",
+    "section4_pricing_framing": "Trip fee ($150) disclosed mid-conversation ('it's just outside of our radius'), and 2.5-hour minimum mentioned, but no upfront framing of all fees or the 'not a guess' / 15-minute-increment commitment language.",
+    "section4_feels_fair_silence": "Never asked. Rep moves to availability alternatives ('Do you want Sunday?') without checking if the customer finds the pricing acceptable.",
+    "section5_two_promises": "On-Time Guarantee not mentioned. Damage Coverage not mentioned. Neither promise is covered.",
+    "section5_closes_loop": "False. No 'Does that put those to rest?' or equivalent closing question.",
+    "section6_final_concerns": "Asked as 'Awesome. Do you have any other questions for me?' \u2014 a throwaway / empty-out phrasing that invites an automatic no.",
+    "section6_catch_all": "Not asked. No 'Anything coming with you we haven't talked about?' equivalent.",
+    "section7_explicit_ask": "Never asked directly. Rep confirms the booking ('Okay, sounds good. I am on board for that') and walks through payment method, but never explicitly says 'Would you like our help with your move?' or equivalent plain ask for the business.",
+    "section7_rate_lock": "Mentioned: 'No deposit required to get on our schedule and there's no charges to change the date if something comes up and then no fees to cancel.'",
+    "section7_booking_confirmed": "Partial. Date confirmed (Saturday 8:39 AM arrival at storage unit); phone collected; one address confirmed (300 Pepper Mill Loop); second address confirmed (7320 W State Hwy 29); no crew-size or truck-size re-confirmed at close; no notes left for crew about rain/water hazard concern; payment method discussed (card/debit/ApplePay) but booking details not fully recapped."
+  },
+  "top_strength": "Brianne gathered detailed logistics across multiple stops, addresses, and special items (rain mitigation, artwork packing, garage stacking) and calmly managed a technically complex job with two drop-offs and weather contingency.",
+  "coaching_note": "Open every call with the quid pro quo framing ('10\u201315 minutes, you can walk away with a quote you can depend on, does that sound good?') and always ask 'What are your biggest concerns about this move?' before diving into logistics \u2014 this call jumped straight to probing, skipped the Two Promises entirely, and never explicitly asked for the business."
+}

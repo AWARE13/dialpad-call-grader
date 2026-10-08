@@ -1,0 +1,36 @@
+{
+  "call_id": "6542220334505984",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 6.1,
+  "datetime_ct": "2026-10-03 17:15 CT",
+  "external_number": "+12145290198",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'let's go ahead and get you quoted' but never delivers the 10-15 minute time-box framing or 'does that sound good?' confirmation. Opens with availability check, then jumps straight to probing.",
+    "discovery_basics": "Name: 'Bob Patel' \u2713 | Moving day: 'Sunday October 11th' \u2713 | Route: 'from house to house' with origin '219 Harper Street, Irving 75063' and destination '1105 [address] in flower' \u2713 | Size: '2500 square feet' origin, '5000 square feet' destination \u2713",
+    "their_agenda": "Never asked. Rep moves directly into property details without asking 'Other than price, what are your biggest concerns about this move?'",
+    "walkthrough_branch": "Rep correctly identifies 2500 sq ft origin (over 1800 threshold) and offers virtual walkthrough: 'for a house for, for you know, for 2500 square footage house we need to conduct like a virtual walkthrough. It's like a conference call or FaceTime' and transitions to specialist: 'Just give me one second cause I need to endorse this to a large move specialist.'",
+    "logistics_details": "Gathered: property type (house) \u2713, stories (2) \u2713, bedrooms (4 origin / 5 destination) \u2713, parking/walking distance (20-30 feet) \u2713. Missing: additional rooms detail, special considerations beyond the list mentioned, no probing on that list content.",
+    "packing_services": "Never offered.",
+    "box_count": "Never asked.",
+    "explicit_ask": "Call ends before this section \u2014 rep transfers to specialist without completing the intake loop."
+  },
+  "top_strength": "Rep cleanly identified the 1,800+ sq ft threshold and correctly routed the call to a virtual walkthrough specialist instead of attempting to quote mid-call; discovery basics were all gathered (name, date, route, size).",
+  "coaching_note": "Never ask 'Their Agenda' before probing logistics \u2014 this is the highest-leverage moment to uncover what matters most to the customer. Ask it immediately after confirming availability, before any property questions."
+}

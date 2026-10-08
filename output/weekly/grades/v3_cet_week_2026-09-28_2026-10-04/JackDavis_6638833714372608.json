@@ -1,0 +1,33 @@
+{
+  "call_id": "6638833714372608",
+  "rep_name": "Jack Davis",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 12.0,
+  "datetime_ct": "2026-09-28 15:27 CT",
+  "external_number": "+18054448888",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 4,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 60,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Not asked. Jack moved directly into logistics probing ('So, are we moving the entire house or is this like a partial move?') without first asking about concerns or agenda.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer, so no follow-up gap exists.",
+    "estimate_anchor": "Jack provided: 'four mover team, that'd be a $408 hourly rate' and 'estimating it from, you know, seven to eight hours that would give us, you know, four to five hours to load in the three to four hours to get everything unloaded' leading to '$3,264 for your move.' Personalized to the customer's prep work and the organized garage.",
+    "explicit_ask": "Jack never asked 'Would you like our help with your move?' Instead, he said 'If you would like to move forward all you're gonna have to do is respond to that email and say let's book it.' The customer was never directly asked; Jack deferred to email response."
+  },
+  "top_strength": "Jack gathered comprehensive logistics details (bedrooms, garage contents, appliances, disassembly needs, distance, room breakdown) and built a personalized, transparent estimate with clear hourly framing, no hidden fees, and all-inclusive pricing.",
+  "coaching_note": "Jack skipped the critical Section 2 agenda question entirely and never asked for the business directly in Section 7 \u2014 instead defaulting to 'just respond to email,' which is a soft close with an easy out that leaves the sale hanging rather than asking for commitment."
+}

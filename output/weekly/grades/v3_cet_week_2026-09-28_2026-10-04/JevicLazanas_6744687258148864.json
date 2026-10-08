@@ -1,0 +1,31 @@
+{
+  "call_id": "6744687258148864",
+  "rep_name": "Jevic Lazanas",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 7.4,
+  "datetime_ct": "2026-09-29 14:36 CT",
+  "external_number": "+15129175742",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'this will just take about ten minutes' but does not deliver the full framing about a dependable quote or wait for confirmation before pivoting. Missing the 'Does that sound good to you?' check.",
+    "their_agenda": "Rep asks 'for this upcoming move what are your biggest concerns and what are the most important things you want answers to on this call today?' \u2014 asked early, before logistics probing.",
+    "two_layers_deep": "Customer raises 'how do you move the big pieces.' Rep responds with explanation of pads/blankets and 'no extra cost' but does not dig deeper with 'tell me more about that' or follow-up questions. Concern addressed but not layered.",
+    "active_listening_reflection": "Rep does not reflect back or summarize the customer's concerns. No 'So what I'm hearing is...' statement.",
+    "logistics_details_gathered": "Rep confirms property type (house, 2-story, 4-bedroom, 2-car garage, ~3,372 sq ft). Does not probe for walking distance, additional rooms beyond garage, or special considerations. Packing and box count never asked.",
+    "walkthrough_branch": "Rep correctly identifies the home is 3,372 sq ft (>1,800) and routes to a virtual walkthrough: 'for the type of house you have or for the size of house you have, we'll go ahead and need to conduct a virtual walkthrough, so we can provide you an accurate estimate.' Call is cleanly routed to walkthrough scheduling with callback mechanism."
+  },
+  "top_strength": "Rep correctly identified the home size (3,372 sq ft) and immediately routed to a virtual walkthrough as the script requires, avoiding an inaccurate quote and staying within scope for the call stage.",
+  "coaching_note": "On the customer's stated concern about moving big pieces, ask at least one follow-up question ('tell me more about that' or 'which pieces are you most worried about?') before pivoting to logistics \u2014 and never deliver the quid pro quo framing without pausing for actual confirmation from the customer."
+}

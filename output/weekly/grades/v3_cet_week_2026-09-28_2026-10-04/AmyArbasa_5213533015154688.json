@@ -1,0 +1,42 @@
+{
+  "call_id": "5213533015154688",
+  "rep_name": "Amy Arbasa",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 12.6,
+  "datetime_ct": "2026-10-01 18:37 CT",
+  "external_number": "+15086889805",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 21,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 8,
+  "section7_ask_for_the_business": 1,
+  "total_score": 65,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Amy does not deliver the recognizable framing about time-boxed estimate and dependable quote before probing; she jumps directly into confirming details from an already-submitted instant booking form.",
+    "their_agenda": "Amy asks 'Is there any specific concerns you'd like to share or what are you most worried about where the upcoming move so I can alert the movers aside from the price' \u2014 but only after significant probing (inventory, parking, walking distances) has already started.",
+    "two_layers_deep": "Jimmy raises two concerns: (1) distance from parking to new apartment door \u2014 Amy acknowledges and notes it. (2) TV damage worry \u2014 Amy digs in: 'Well we have all the tools the wrapping and we go heavy and protecting your belonging especially the wants like you don't, you have your seventy inch TV the 65 inch TV. So we're very careful with that.' Both concerns get follow-up, though the parking-distance concern is acknowledged more than probed.",
+    "active_listening_reflection": "Amy does not summarize and confirm concerns with a phrase like 'So what I'm hearing is...'; she acknowledges them individually but never reflects them back as a consolidated summary.",
+    "estimate_anchor": "Amy provides a range: 'usually a one bedroom apartment we would send two movers. It will take two and a half to three and a half hours to complete' and personalizes it to Jimmy's move: 'the major factor here would be the stairs involved third floor. To turn floor. I would like to be a bit conservative and set you know, proper expectation with you I would suggest budget for three and a half maybe up to four hours'.",
+    "pricing_framing": "Amy discloses the hourly rate ($222.22/hr), the free service zone (no travel fee), the 2.5-hour minimum, and 15-minute increment prorating: 'If we go beyond that minimum, we will prorate the time in every fifteen minute increments.' She also notes 'We don't require any deposit.'",
+    "feels_fair_then_silence": "Amy asks 'Does that sound fair so far?' and Jimmy responds 'Absolutely, yes' \u2014 a real answer is received and acknowledged without re-pitching.",
+    "on_time_guarantee_delivered": "Never mentioned. No reference to discount terms or late arrival guarantees.",
+    "damage_coverage_delivered": "Never mentioned. No reference to the $2,000 No Worries coverage, no deductible framing, or built-in-rate language.",
+    "closes_the_loop": "Amy does not ask 'Does that put those to rest?' or similar. She moves directly from pricing into confirming unit numbers.",
+    "final_concerns_check": "Amy asks 'Is there anything else you wanted to discuss or clarify before we end the call?' \u2014 a genuine open-ended concern check, not a throwaway 'any questions.'",
+    "catchall_asked": "Amy does not ask 'Anything coming with you we haven't talked about?' or similar catch-all inventory check.",
+    "explicit_ask": "Amy never asks 'Would you like our help with your move?' or any explicit ask for the business. She treats the booking as already confirmed from the online instant-booking form and moves to logistics confirmation.",
+    "rate_lock_mentioned": "Not mentioned. No framing about the quote being locked or valid through a certain date.",
+    "booking_confirmed": "Amy confirms: date (Friday October 16th), arrival window (8:30\u20139:00 AM), addresses (current 11001 South First Street Unit 1330 to 10001 South First Street Unit 0331), and crew size (two movers). She does not confirm phone number for the day-of call. She does note inventory and details in the confirmation email but does not explicitly summarize what concerns she'll flag to the crew (TV wrapping, stairs, parking distance at destination)."
+  },
+  "top_strength": "Amy gathered comprehensive logistics details (property type, floor/stories, number of rooms, walking distances, parking, inventory specifics) and provided a well-anchored, personalized estimate with transparent pricing and all-inclusive hourly rate framing.",
+  "coaching_note": "Deliver the Two Promises section (On-Time Guarantee and No Worries Damage Coverage) in full before closing \u2014 both are completely missing and represent significant value your customer doesn't yet know about, and never deliver an explicit 'Would you like our help with your move?' ask instead of assuming the instant-booking form closes the deal."
+}

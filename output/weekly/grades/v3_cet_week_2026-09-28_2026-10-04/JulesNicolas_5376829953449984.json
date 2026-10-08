@@ -1,0 +1,39 @@
+{
+  "call_id": "5376829953449984",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 6.9,
+  "datetime_ct": "2026-10-01 18:24 CT",
+  "external_number": "+14692302199",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Not asked. Rep moves directly into probing: 'Can I have your first and last name?' \u2192 'Is this a move starting in 6008 Julie drive?' No version of 'What are your biggest concerns about this move?'",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer during the call.",
+    "active_listening_reflection": "N/A \u2014 no concerns were raised by customer.",
+    "estimate_anchor": "Rep gives range: 'If not a little bit more, I would actually estimate this to take anywhere from three to four hours so the cost of that would go anywhere from $687.91 to $891.' Also mentions hourly rate ($204/hr for two movers) and minimum ($585 for 2.5 hours).",
+    "pricing_framing": "Hourly rate disclosed ($204/hour), 2.5-hour minimum stated ($585), 15-minute proration mentioned ('we prorate every fifteen minutes'). No trip fee, overnight fee, or 'not a guess' commitment framing present.",
+    "feels_fair_then_silence": "Not asked. Rep transitions directly to availability: 'Okay, so that sounds about right. If not a little bit more, I would actually estimate...' then customer asks about truck size, no pause for customer reaction or 'Does that feel fair?' prompt.",
+    "on_time_guarantee_delivered": "Not mentioned at all.",
+    "damage_coverage_delivered": "Not mentioned at all.",
+    "explicit_ask": "Never asked. Call ends with: 'Alright, I'll make mark that down. Thank you so much, ma'am. You've been great and I hope you enjoy the rest of your day, okay?' No 'Would you like our help with your move?' or equivalent.",
+    "rate_lock_mentioned": "Not mentioned."
+  },
+  "top_strength": "Jules gathered all four core discovery basics (name, move date, city/route, home size) cleanly in the opening and anchored the estimate to a realistic hourly rate and 2.5-hour minimum, giving the customer transparency on the pricing model.",
+  "coaching_note": "This call skipped Section 2 (Their Agenda) entirely and jumped straight into logistics probing \u2014 you need to ask 'Other than price, what are your biggest concerns about this move?' before diving into property details. Also: no Two Promises delivery (On-Time Guarantee and No Worries Damage), no final concerns check, and no explicit ask for the business \u2014 the call ended without confirming a booking or asking permission to proceed. Restructure to follow the call card sections in order."
+}

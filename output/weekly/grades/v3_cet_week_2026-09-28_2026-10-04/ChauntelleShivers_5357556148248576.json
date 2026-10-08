@@ -1,0 +1,40 @@
+{
+  "call_id": "5357556148248576",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 6.1,
+  "datetime_ct": "2026-10-04 15:50 CT",
+  "external_number": "+15126990654",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 2,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep jumps directly into property details: 'I see that it was a check with packing. Could you tell me a little bit more about that?' No time-box, no wait for a yes.",
+    "their_agenda": "Never asked. Rep goes straight into logistics probing without establishing what the customer's concerns or priorities are.",
+    "estimate_anchor": "Rep gives time estimate only ('the estimated time that we already have on there, that the system computers three to four I'm gonna leave it at that') with no price anchor, no range, and no personalization.",
+    "pricing_framing": "No trip fee, overnight fee, or materials disclosure. No '2.5-hour minimum' or '15-minute increments' framing. Customer brings up minimum herself; rep acknowledges but does not proactively frame it.",
+    "feels_fair_then_silence": "Not asked. Rep moves to arrival window without seeking confirmation on the estimate.",
+    "on_time_guarantee_delivered": "Never mentioned.",
+    "damage_coverage_delivered": "Never mentioned.",
+    "closes_the_loop": "No closing of the loop on any promises or guarantees \u2014 none were stated.",
+    "final_concerns_check": "Rep asks 'do you have any like other questions that I can answer for you' \u2014 a throwaway, not a genuine 'what's still concerning you about this move?' variation.",
+    "catch_all_asked": "Not asked. No 'anything coming with you we haven't talked about?' check.",
+    "explicit_ask": "Never asked. Rep says 'I'm gonna send over a confirmation email to you right now' without ever asking 'Would you like our help with your move?'"
+  },
+  "top_strength": "Chauntelle gathered comprehensive logistics details efficiently \u2014 floor numbers, elevator reservations, truck parking, walking distances, item inventory, and box count \u2014 building a solid estimate foundation.",
+  "coaching_note": "You skipped Section 2 (Their Agenda) entirely and rushed straight into logistics probing, then jumped to booking confirmation without pricing discussion, promises, or a genuine ask for the business \u2014 rebuild the call sequence to match the card: establish concerns first, give a framed estimate with silence, deliver the Two Promises, and ask plainly before confirming details."
+}

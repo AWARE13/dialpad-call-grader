@@ -1,0 +1,41 @@
+{
+  "call_id": "5429042860040192",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 21.0,
+  "datetime_ct": "2026-09-29 21:28 CT",
+  "external_number": "+13105958150",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 10,
+  "total_score": 63,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Missing entirely \u2014 no time-boxed framing or 'Does that sound good to you?' validation before probing begins.",
+    "their_agenda": "Rep never asked 'Other than price, what are your biggest concerns about this move?' Went straight into logistics probing.",
+    "logistics_details_gathered": "Property type (apartment), floor/stories (second floor, elevator/stairs), rooms (2 bed), distances (parking to elevator, elevator to apt, stairs to apt), special items (washer/dryer/TV/rowing machine/dresser/nightstands), overflow check via box count (25-35 boxes for 2-bed range).",
+    "box_count_asked": "Yes \u2014 'And normally for a two bedroom apartment we see a 25 to 35 boxes. Do you think you would fall within that range?'",
+    "estimate_anchor": "Anchor given: 'For a two bedroom apartment, we finish the move-in five to seven hours with two movers and one truck... I estimate to move to finish in five hours to six hours with two motors and one truck estimated cost is $1,020 to $1,224.' Personalized to this move: second floor with elevator access from, stair-only access to, washer/dryer, special care items.",
+    "pricing_framing": "Both elements present \u2014 transparency: '$102 per hour per mover... gas and truck taxes, insurance, all the wraps and pads... no hidden fees of any type.' And commitment framing: 'We do have a minimum of two and a half hour after that minimum the time is prorated in fifteen minute increments.'",
+    "feels_fair_then_silence": "Not asked. Rep moves directly to booking without asking 'Does that feel fair?' or holding silence.",
+    "on_time_guarantee_delivered": "Not mentioned at all.",
+    "damage_coverage_delivered": "Not mentioned at all.",
+    "explicit_ask": "Yes, explicit and clean: 'Would you like to be on the schedule for October 7th, no deposit is required?' No softening or easy out.",
+    "rate_lock_mentioned": "Yes \u2014 'No deposit is required' mentioned during the ask.",
+    "booking_confirmed": "Full \u2014 arrival window (8:30\u20139:00 AM), date (October 7th), confirmation email with addresses and contact info, phone number (already on file from earlier), crew size (two movers). Notes about dumped items and special care items noted during probing."
+  },
+  "top_strength": "Excellent logistics discovery and detailed personalized estimate \u2014 rep systematically gathered property type, access details, special items, distances, and overflow concerns, then anchored pricing to the specific complexity of this move (elevator pickup, stair-only delivery, appliances, multiple special items).",
+  "coaching_note": "Skip the quid pro quo frame entirely and never ask 'Their Agenda' \u2014 the rep jumped straight into logistics probing with no time-boxed promise or permission. Add 'Does that feel fair?' after the estimate, and deliver both the On-Time Guarantee and No Worries Damage Coverage promises before asking for the business (Section 5 is completely missing)."
+}

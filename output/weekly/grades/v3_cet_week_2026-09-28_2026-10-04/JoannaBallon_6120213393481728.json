@@ -1,0 +1,43 @@
+{
+  "call_id": "6120213393481728",
+  "rep_name": "Joanna Ballon",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 7.7,
+  "datetime_ct": "2026-09-28 16:03 CT",
+  "external_number": "+19198082354",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 6,
+  "total_score": 63,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "I take about ten to fifteen minutes. / Alana confirms 'Yeah, that should be fine' \u2014 but no explicit wait for confirmation of the 'dependable quote' promise; rep doesn't pause for explicit yes before continuing to her next question ('do you have any specific concern or instructions').",
+    "discovery_basics": "moving on the eighteenth (moving day) \u2713; 2111 Austin Street, same building, fifth floor to sixth floor (route: same building, intra-building) \u2713; one bedroom apartment with bed, dresser, nightstand, sectional, desk, TV stand, rug (size/scope) \u2713; name Alana (actually Elena per opening, corrected to Alana) \u2713.",
+    "logistics_details_gathered": "Property type: apartment \u2713; floor/stories: fifth to sixth (same building) \u2713; number of rooms: one bedroom \u2713; walking distance: 'closest elevator next door... another elevator around the corner... sixth floor apartment half hallway down from elevator' \u2713; additional rooms: none mentioned; special considerations: sectional couch piece won't fit in elevators, must use stairs \u2713; additional stops: none \u2713. Nearly all seven items covered.",
+    "estimate_anchor": "$192/hour on Sunday for two men, 2.5-hour minimum = $480; quoted range $480\u2013576 for 2.5\u20133 hours, anchored to her home size and adjusted for stairs/walking time. Personalized to the stairs and walking distance. Full presence of both anchor and personalization.",
+    "pricing_framing": "Trip fee, overnight fee, packing materials: mentioned 'no stable fees, no transportation fee, all inclusive rates' and 'no hidden fees of any type. No credit card fees, taxes, sterile fees, transportation fee all inclusive.' 2.5-hour minimum and 15-minute increments: 'we just have a two and a half hour minimum. But once we go over the minimum we only charge in fifteen minute interval.' Both pricing transparency (fees) and commitment framing present.",
+    "feels_fair_then_silence": "Rep does not ask 'Does that feel fair?' or equivalent. After quoting $480\u2013576, moves directly to 'Alright, now if that's all good with you would you like our help with this move on the eighteenth?' \u2014 the explicit ask, but no 'feels fair' check or silence hold.",
+    "on_time_guarantee_delivered": "'on time guarantee if we run late we provide discounts for your move.' Discount terms (discounts if late) delivered clearly.",
+    "damage_coverage_delivered": "'no worries, damage coverage which would give you up to $2,000 coverage for any repair, replacement reimbursement for any accidental damages.' Covers $2,000 and coverage type, but missing explicit framing that there is no deductible / no fine print, and does not state it's built into the rate (not an add-on). Partial.",
+    "closes_the_loop": "No loop-closing question asked. Rep moves from Two Promises directly to booking details without asking 'Does that put those to rest?' or equivalent.",
+    "final_concerns_check": "Rep asks 'Alright, thank you so much Selena for choosing us again, I'll send everything in the email if you need if you have further questions, need to make changes, just let us know, okay?' \u2014 this is a throwaway close, not a genuine 'What's still concerning you about this move?' No genuine final concerns check.",
+    "catch_all_asked": "No 'Anything coming with you we haven't talked about?' or equivalent catch-all offered.",
+    "explicit_ask": "'Alright, now if that's all good with you would you like our help with this move on the eighteenth?' \u2014 plainly asked with no softened out. Full.",
+    "rate_lock_mentioned": "No rate-lock language present. Rep says 'No deposit at this time. The payment is only upon completion of the move' but never locks in the quoted rate or mentions it will be held.",
+    "booking_confirmed": "Confirmed: move date (eighteenth, Sunday) \u2713; arrival window (8:30 AM to 9:00 AM) \u2713; current unit (505) \u2713; new unit (603) \u2713. Missing: phone number to confirm, crew size not discussed, no notes left for crew about stairs/sectional concern. Partial (4 of ~6 items confirmed; missing phone and crew crew-size/concern briefing)."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details (property type, floor count, walking distances, special constraints like the sectional needing stairs) and tailored her estimate directly to those constraints, showing she listened and understood the move complexity.",
+  "coaching_note": "Skip the agenda question entirely and move straight into probing, then add a genuine final concerns check before closing \u2014 right now you're missing 'What's still concerning you about this move?' and never asking 'Does that feel fair?' after your estimate."
+}

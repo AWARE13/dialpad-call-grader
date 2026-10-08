@@ -1,0 +1,41 @@
+{
+  "call_id": "5809280491233280",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 9.3,
+  "datetime_ct": "2026-10-02 16:26 CT",
+  "external_number": "+14696109581",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep jumps directly into confirming details (\"let me go ahead and confirm the details that you have entered online\") with no time-boxed framing, promise of a dependable quote, or wait for customer agreement before proceeding.",
+    "their_agenda": "Never asked. Rep moves straight into logistics probing after initial greeting.",
+    "logistics_details_gathered": "Property type (ground floor two bedroom apartment), floor (ground), rooms (two bedrooms), walking distance (20 feet), special items (wooden furniture, heaviest ~300 lbs, bunk bed, queen bed, two sofas), box/tote count (35), destination type (indoor storage unit on ground floor), and destination address all covered.",
+    "box_count_asked": "\"So a typical two bedroom apartment usually has 25 to 35. So do you feel like you will fall within that range combination of totes and box boxes?\" Customer confirms roughly 35.",
+    "estimate_anchor": "\"A typical two bedroom apartment usually takes two and a three and a half to five and a half hours to completely move with two movers and one truck. So, in your case, since you are moving from a ground floor apartment to an indoor storage unit with, you know, with special consideration items such as the heaviest item that weighs 300 pounds and the bunk bed that requires extra time to, to, to disassemble, then I would estimate your move to be actually within the range the three and a half to five and a half hours... Around $918 to $1,122.\" Range anchored to typical move type and personalized to stated concerns (heavy items, bunk bed disassembly).",
+    "pricing_framing": "\"We charge an hourly rate of $102 per hour per mover... everything is included in this hour rate, like the fuel and trucks, taxes, insurance, all wrap pads and bans... no hidden fees of any type. No credit card fees, no upfront payment, no deposit, no stairwell fees... And... you will have a two and a half hour minimum and once we go over that minimum the time is prorated in fifteen minute increments.\"",
+    "feels_fair_then_silence": "Rep does not ask \"Does that feel fair?\" or any variation. After stating the estimate range, rep asks \"do you have questions around it?\" (a yes/no prompt, not the required framing).",
+    "damage_coverage_delivered": "\"And also for peace of mind, you will receive a, a meet your mover email a few days before your move... no worries damage coverage. So it's like a protection for up to $2,000 per move to repair, replace or, or reimburse for accidental damages.\" Covers the $2,000 amount but does NOT mention no deductible, no fine print, or that it's built into the rate (not an add-on).",
+    "on_time_guarantee_delivered": "Never mentioned.",
+    "explicit_ask": "\"So would you like your help?\" asked, but immediately followed by customer objection (\"I am still waiting for a callback from a couple of other moving companies\") and rep does not persist \u2014 instead pivots to email follow-up: \"Yeah, I will send you an email... and once you decide to book with us, just give us a callback.\" This is a built-in out (customer can decide later without immediate commitment); the ask was not plain and direct.",
+    "rate_lock_mentioned": "Never mentioned.",
+    "booking_confirmed": "Email address confirmed (Nico at Lexie @gmail.com), move date confirmed (Thursday October 8th), but no phone number re-confirmed for callback, no arrival window, no crew size confirmed, no final address confirmation, and no notes left for crew about customer concerns."
+  },
+  "top_strength": "Jevic thoroughly probed logistics details\u2014property type, walking distance, special items with weights, box counts, destination details\u2014and delivered a well-anchored estimate personalized to the customer's specific concerns (heavy wooden furniture, bunk bed disassembly time).",
+  "coaching_note": "You skipped the entire Section 2 (Their Agenda and concerns), jumped straight into probing, never asked \"Does that feel fair?\" before the customer objection, didn't cover the On-Time Guarantee at all, and let the customer opt out with \"I'm waiting for other quotes\" without the explicit ask framed as a plain yes-or-no close."
+}

@@ -1,0 +1,39 @@
+{
+  "call_id": "5658086029434880",
+  "rep_name": "Calvin Hughes",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 5.6,
+  "datetime_ct": "2026-10-02 14:03 CT",
+  "external_number": "+19097258430",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 39,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "section1_quid_pro_quo": "Calvin mentions availability and moving on Nov 1st but never frames the 10-15 min call length or 'quote you can depend on' promise, and never waits for a yes before diving into details.",
+    "discovery_basics": "Moving date (Nov 1st) and route (same street, few houses up) mentioned; home size comes up late as 'two bedroom' initially then corrected to 4-bedroom. Name (Erica) obtained. Some basics present but scattered and reactive.",
+    "their_agenda": "Never asked. Calvin immediately responds to Erica's unsolicited price question ('what do you guys charge') without first establishing her concerns and priorities.",
+    "estimate_anchor": "Calvin provides hourly rate ($96/hour per guy, 2.5-hour minimum, billing in 15-minute increments) and later gives a range anchor: 'typically four guys... $384 hourly rate... full day... more like $23,000 is pretty standard for a big home like this.' The anchor is present but arrived at very late and only after budget conflict arose.",
+    "pricing_framing": "Calvin clearly explains all-inclusive rate (no taxes, trip fees, credit card fees; pads, wrap, disassembly, reassembly, insurance included), the 2.5-hour minimum, and 15-minute increment billing. This is comprehensive fee transparency and commitment framing. However, 'not a guess' language is not present.",
+    "feels_fair_then_silence": "Never asked. Call ends with customer saying 'let me talk to my husband' \u2014 no explicit 'Does that feel fair?' ask from Calvin, and no real pause held.",
+    "two_promises": "On-Time Guarantee never mentioned. No Worries Damage Coverage never mentioned. Entire Section 5 omitted.",
+    "final_concerns_check": "Never asked. Call ends abruptly after Erica says she'll discuss with husband.",
+    "explicit_ask": "Never asked. Calvin never says 'Would you like our help with your move?' or any equivalent. Call trails off as a price-check inquiry.",
+    "section1_walkthrough_branch": "Property is 2,700 sq ft (well over 1,800), but the walkthrough offer is never made. However, this is a reactive price-check call driven entirely by the customer's budget objection; Calvin does not intentionally skip the walkthrough \u2014 the call structure itself never reaches that pivot point because discovery and the quid pro quo framing were missing."
+  },
+  "top_strength": "Calvin clearly articulated all-inclusive pricing and fee transparency ($96/hour, 2.5-hour minimum, 15-minute billing, no hidden fees) in a way the customer understood, and he did the math to show why her $500 budget was unrealistic for her scope.",
+  "coaching_note": "Open with the quid pro quo framing (10-15 min call, dependable quote, get a yes) before responding to price questions; this would have anchored the call and allowed proper discovery, including the walkthrough offer for this 2,700 sq ft home, instead of falling into a budget-objection spiral."
+}

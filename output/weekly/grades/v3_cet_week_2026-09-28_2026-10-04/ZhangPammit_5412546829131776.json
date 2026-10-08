@@ -1,0 +1,33 @@
+{
+  "call_id": "5412546829131776",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 5.5,
+  "datetime_ct": "2026-10-03 14:19 CT",
+  "external_number": "+18179881947",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 74,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "quid_pro_quo": "This would take within the next five to ten minutes of your time we'll just ask you some questions so we can give you an accurate code and would that be okay? \u2014 framing present (time and value promise), but rep doesn't explicitly wait for a yes before moving into probing.",
+    "their_agenda": "Do you have any biggest concerns or any important things that you wanted to answer during this call today? \u2014 asked, but immediately after opening framing and before discovery basics (name, moving day, route) are confirmed, placing it out of ideal sequence.",
+    "two_layers_deep": "Rep acknowledges 'getting down to like the price' and the remodeling situation with brief backchannel ('Mm-hmm, Okay, So we're not moving the full house this is only a two bedroom worth of items. Is that correct?') but does not dig deeper into the price concern or the remodeling logistics with follow-up probes like 'tell me more about that.'",
+    "active_listening_reflection": "No summary reflection of concerns. Rep moves directly into logistics probing without mirroring back what was heard.",
+    "logistics_details_gathered": "Property type (house/condo), floor (2-story / first floor), rooms (2-bedroom items / 2-bedroom condo), parking distance (100 ft / 20 ft), access concerns (narrow doorways noted), special items (furniture vs. boxes), and packing needs (kitchen, 2 bedrooms) all covered.",
+    "packing_services_offered": "Do you need help in packing like putting the small items like kitchen was clothing. \u2014 offered and accepted.",
+    "box_count_asked": "Not asked. Rep pivots to furniture vs. boxes ('I think we're looking more for like, furniture movement') but never asks the standard box-count framing or overflow check.",
+    "walkthrough_offer": "So normally based on your home size, we do a virtual walkthrough. In that way, we will just base it on the items that we are moving. Do you have time to complete the virtual walkthrough today? \u2014 correctly offered at the 3,000 sq ft origin (\u22651,800 threshold), customer accepts, and rep cleanly routes to the walkthrough link and hang-up."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details (both addresses, square footage, floor layout, parking distances, access concerns, packing scope) and correctly identified and routed a 3,000 sq ft move to a virtual walkthrough with clean confirmation and next-step handoff.",
+  "coaching_note": "Ask 'their agenda' before starting logistics probing, and dig two layers deep into concerns (especially price sensitivity in a remodeling scenario) rather than one acknowledgment and a pivot \u2014 use 'tell me more about that' to uncover what's really driving hesitation."
+}

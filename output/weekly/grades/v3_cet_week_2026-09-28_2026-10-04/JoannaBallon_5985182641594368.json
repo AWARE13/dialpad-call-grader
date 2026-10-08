@@ -1,0 +1,37 @@
+{
+  "call_id": "5985182641594368",
+  "rep_name": "Joanna Ballon",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.0,
+  "datetime_ct": "2026-09-28 15:17 CT",
+  "external_number": "+19732708680",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 8,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 30,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never framed the call as 10\u201315 minutes with a dependable quote and never asked for acknowledgment before proceeding. Jumped directly into system check.",
+    "their_agenda": "Rep asked 'do you have any important concerns or stressors about this move' but this came after a failed system lookup \u2014 not a clean probing-gate ask per the script, and no follow-up asking what else they wanted answers to on the call.",
+    "two_layers_deep": "Customer volunteered a concern (motorbike transport). Rep acknowledged ('we do not move motorized vehicles') and offered a workaround ('check on yelp'), but did not dig deeper with follow-ups like 'Tell me more about that' or 'How are you thinking you'll handle that?' Moved straight to logistics.",
+    "estimate_anchor": "Rep gave hourly rate ($104/hour per mover, $208/hour for two) and transportation fee ($1,056 per truck), but never anchored to a typical range for this home size or personalized the estimate to this customer's specific move (packing + moving, two-story, two-bedroom).",
+    "pricing_framing": "Rep mentioned hourly rates, trip fee, and what's included ('reps to protect your furniture, assembly reassembly, taxes, insurance, credit card fees'), but never delivered the 'not a guess' / 2.5-hour-minimum / 15-minute-increments commitment framing. No clarity on whether packing materials are a separate charge or included.",
+    "feels_fair_then_silence": "Never asked 'Does that feel fair?' or any permission-gate question. Customer asked for the quote to be emailed and segmented; rep agreed and moved to email confirmation.",
+    "on_time_guarantee": "Not mentioned at any point.",
+    "damage_coverage": "Not mentioned at any point.",
+    "explicit_ask": "No explicit 'Would you like our help with your move?' or clear booking ask. Call ended with 'We'll send you the quotation after our call' \u2014 transactional close, not a sales ask.",
+    "booking_confirmed": "Email address confirmed (corrected mid-call). Move dates discussed (October 1st, or October 2nd for delivery). Addresses confirmed. Crew size implied (two guys and truck). No notes left for the crew about customer concerns (motorbike alternative, packing timeline expectations)."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details\u2014property types, floor configuration, parking access, furniture inventory\u2014and did probe for fragile items and special considerations, building a solid foundation for an estimate.",
+  "coaching_note": "This call skipped the quid-pro-quo framing entirely and never asked for the customer's agenda before diving into logistics; add 'does that sound good?' gate and 'what else do you want answers to?' before probing, and close with an explicit ask ('Would you like our help?') instead of defaulting to an email send."
+}

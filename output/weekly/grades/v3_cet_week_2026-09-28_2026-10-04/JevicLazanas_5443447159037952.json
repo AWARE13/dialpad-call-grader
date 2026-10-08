@@ -1,0 +1,40 @@
+{
+  "call_id": "5443447159037952",
+  "rep_name": "Jevic Lazanas",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 8.9,
+  "datetime_ct": "2026-09-28 14:28 CT",
+  "external_number": "+12105511829",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 6,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'So, I can see here that you are moving from a one story house' and launches directly into probing without the 10-15 minute time-box framing or promise of a dependable quote. No wait for affirmation either.",
+    "their_agenda": "Never asked. Rep moves straight into logistics probing: 'are we moving like the entire house or you know just partial.'",
+    "estimate_anchor": "Rep provides: 'a typical like, you know, one bedroom bedrooms worth of items usually takes two movers, one truck between two and a half to three and a half hours to completely move. So, in your case...I would estimate your move to be between like two and a half to three and a half hours' and personalizes to one-story to one-story with drive time.",
+    "pricing_framing": "Rep covers trip fee ($175), states 'no hidden fees of any type. No credit card fees, no stairwell fees. No assembly assembly fees.' Also covers 2.5-hour minimum and 15-minute increments: 'the time is prorated in fifteen minute increments.'",
+    "feels_fair_silence": "Never asked. Rep jumps to explicit ask without 'does that feel fair?' and without holding silence.",
+    "on_time_guarantee": "Rep states: 'if we can't make it in the time window that we arrange, we immediately start discounting money of your final bill.' Covers the discount terms clearly.",
+    "damage_coverage": "Rep says: 'we provide up to $2,000 per move to repair, replace or reimburse for accidental damages' and 'included in the hourly rate.' Missing the explicit 'no deductible/no fine print' framing.",
+    "closes_the_loop": "Rep does not ask 'does that put those to rest?' or similar confirmation. Moves straight to explicit ask.",
+    "explicit_ask": "Rep asks: 'would you like our help with your upcoming move this Monday October 5th?' \u2014 asked plainly without a built-in out.",
+    "rate_lock_mentioned": "Never mentioned.",
+    "booking_confirmed": "Rep confirms: 'Monday October 5th between 8:30 AM to 9:00 AM' (date and arrival window). Rep also takes note of bed disassembly/reassembly detail. Missing: explicit phone number confirmation, crew size confirmation, both addresses re-confirmed in booking summary."
+  },
+  "top_strength": "Rep gathered discovery basics cleanly (moving date, both addresses, size/contents, access) and provided a well-anchored, personalized estimate with complete pricing transparency including trip fee and 2.5-hour minimum framing.",
+  "coaching_note": "You skipped Section 2 entirely \u2014 never asked 'other than price, what are your biggest concerns about this move?' \u2014 and skipped the 'does that feel fair?' check before asking for the business; add both to your next call to stay on script."
+}

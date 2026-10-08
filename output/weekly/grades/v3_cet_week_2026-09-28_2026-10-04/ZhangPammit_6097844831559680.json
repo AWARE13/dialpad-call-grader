@@ -1,0 +1,33 @@
+{
+  "call_id": "6097844831559680",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 5.3,
+  "datetime_ct": "2026-10-02 22:14 CT",
+  "external_number": "+15127894433",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 85,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'we just wanted to ask a few questions in order for us to give you a perfect code. And is it a convenient time to talk this would take within the next five to ten minutes of your time.' \u2014 time-boxed but no explicit 'dependable quote' framing or clear wait for affirmation before diving in.",
+    "discovery_basics": "Name (David), moving day (implied same-day via locations), from 1060 Olympic Lane (1-story, 2500 sqft, 4 bed + study) to 4912 Lashon Lane Austin (1-story, 3000 sqft, 3 bed). All four elements present.",
+    "walkthrough_branch": "Rep correctly identifies destination as 3000 sqft (over 1800 threshold), offers virtual walkthrough: 'So basically based on your home size normally we do a virtual walkthrough in that way, we will just base it on the items that we are moving. Do you have time to complete the virtual walkthrough today?' Customer accepts and link is sent.",
+    "their_agenda": "Never asked. Rep moves directly into logistics probing without asking 'Other than price, what are your biggest concerns about this move?'",
+    "box_count": "Rep asks 'based on your home size normally we do... between 140 to 180 boxes. Do you feel that you fall within that range?' Customer volunteers they will move boxes themselves and only need furniture moved."
+  },
+  "top_strength": "Flawless discovery and logistics gathering \u2014 rep collected all seven logistics details (property type, stories, rooms, parking, access, additional rooms, special considerations) across both locations and correctly identified the 3000 sqft destination as a walkthrough candidate, then cleanly routed to the virtual walkthrough with link confirmation.",
+  "coaching_note": "Section 2 \u2014 never ask 'Their Agenda' before diving into probing; this is the highest-value question on the entire call and must come before any logistics questions start."
+}

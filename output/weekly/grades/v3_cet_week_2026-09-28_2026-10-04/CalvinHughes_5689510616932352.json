@@ -1,0 +1,41 @@
+{
+  "call_id": "5689510616932352",
+  "rep_name": "Calvin Hughes",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 15.0,
+  "datetime_ct": "2026-09-28 16:20 CT",
+  "external_number": "+15123128094",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 6,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Calvin: 'Okay, I can do that. Yeah, it'll be about ten minutes or so we can run through the details and I can get you all the pricing and email it over to you that work.' \u2014 frames time but skips the 'dependable quote' promise and doesn't explicitly wait for a yes before moving to their agenda.",
+    "their_agenda": "Calvin: 'Okay, I can do that. Yeah, it'll be about ten minutes or so... anything in particular at the moment that you're concerned about with the move outside of, of course, just, you know, a, a price quote.' \u2014 asked before probing starts, proper sequencing.",
+    "two_layers_deep": "Customer mentions packing concern ('the probably the biggest thing is how much of the packing I'm gonna be doing'). Calvin responds 'Yeah, we'll pat and wrap all the furniture. We can handle all of that if you need help packing boxes and just obviously add some time but we do that as well.' and immediately pivots to 'What was the date you were looking to move?' \u2014 only one layer of follow-up, no real 'tell me more about that' probe.",
+    "active_listening_reflection": "No reflection. After customer raises packing concern, Calvin acknowledges in a transactional way and moves directly to logistics probing without summarizing what he heard.",
+    "estimate_anchor": "Calvin: 'moving locally a one bedroom like this with an elevator involved. I would estimate probably in the range of about three and a half, four and a half hours depending on how, you know, well prepped everything was and then we'll want to factor in about a 1.5 hour drive. So I would estimate about five to six hours and that would put us with the trip be included at an estimated cost range of $1,170 to $1,362.' \u2014 provides range and personalizes to prep level and elevator time.",
+    "pricing_framing": "Calvin: 'we do a 2.5 hour minimum. And then once we exceed the minimum, which would be $690 with the trip fee included. But once we exceed that minimum, we'll just bill in fifteen minute increments until the move is completed.' Trip fee disclosed upfront ($202.10 mentioned earlier). Full framing present.",
+    "feels_fair_then_silence": "After pricing, Calvin does not ask 'Does that feel fair?' \u2014 he moves directly to 'we have our no worries damage coverage...' without the pause check.",
+    "on_time_guarantee_delivered": "Calvin: 'we do have on time guarantees if we were ever late to the window of arrival we give you we do discount money back.' \u2014 covers discount terms but lacks specificity on how the discount structure works.",
+    "damage_coverage_delivered": "Calvin: 'we have our no worries, damage coverage that's just higher evaluation for your items. So we allocate up to $2,000 per move. Just to give peace of mind to our clients. We go well above and beyond the industry standard of 60\u00a2 per pound insurance and that no worries, damage coverage is included in the rate.' \u2014 fully delivered with no-deductible framing implied and included in rate confirmed.",
+    "closes_the_loop": "Calvin does not ask 'Does that put those to rest?' or similar closing check after Two Promises.",
+    "final_concerns_check": "Calvin: 'outside of that, did you have any other questions while we're on the phone?' \u2014 empty throwaway question, not a genuine 'What's still concerning you about this move?'",
+    "explicit_ask": "Calvin: 'Were you wanting to get on the calendar?' \u2014 clear, plain ask without a built-in out.",
+    "rate_lock_mentioned": "No rate-lock language present in the call.",
+    "booking_confirmed": "Partial. Calvin confirms: date (Tuesday, Oct 13), arrival window (8:30\u20139:00 AM), addresses (collected), phone number (not re-confirmed in booking recap), crew size (mentioned: two-man crew). Notes about customer concerns not left for crew. Confirmation email mentioned but details not fully walked through on the call itself."
+  },
+  "top_strength": "Calvin gathered comprehensive logistics details (floor, elevator, access points, special furniture, box count estimate) and delivered the estimate with clear pricing framing and trip fee transparency upfront.",
+  "coaching_note": "After raising concerns in Section 2, go two layers deep with follow-up questions (not just acknowledgment), and always ask 'Does that feel fair?' after pricing, then hold the silence before moving to Two Promises."
+}

@@ -1,0 +1,40 @@
+{
+  "call_id": "5646201668280320",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 17.1,
+  "datetime_ct": "2026-09-28 19:02 CT",
+  "external_number": "+12144981125",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 14,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 52,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "section1_missing_quid_pro_quo": "Rep jumps straight into pricing: 'No problem, ma'am, we did send you an email. Our hourly rate for three movers is $315 per hour.' No time-box or promise of a dependable quote, no wait for a yes.",
+    "section1_discovery_basics": "Moving day mentioned ('Saturday'), city-to-city route confirmed (4+ hours away), size mentioned (1681 sq ft), but customer's name was in the system already\u2014no fresh re-ask of all four discovery items.",
+    "section2_no_agenda": "Rep never asks 'Other than price, what are your biggest concerns about this move?' Launches directly into logistics and pricing details.",
+    "section3_logistics": "Gathered: property type (house), stories (two-story second home), bedrooms (3 and 4), boxes (30 estimated), appliances (washer/dryer), outdoor items (shed equipment, storage container, smoker). Missing: walking distance, additional rooms beyond bedrooms, explicit 'special considerations' probe.",
+    "section4_estimate_partial": "Gives hourly rate ($315/3hr) and hour estimate (11\u201312 hrs = ~$2,520 move + $240 overnight + $1,560 transport = $4,320 total). Does personalize briefly to overnight move necessity. But never anchors with 'typical range for a home your size.'",
+    "section4_no_feels_fair": "No 'Does that feel fair?' asked. Customer asks 'what's the total' and rep calculates; customer says 'Let me think about this' and rep pivots to in-law pickup question\u2014no pause held.",
+    "section5_damage_coverage_partial": "Says '$2,000 evaluation coverage if anything gets damaged...zero deductible...repair, replace or reimburse...within three to five business days.' Does not say it's built into the rate (no add-on framing) or close with 'Does that put those to rest?'",
+    "section5_no_on_time_guarantee": "On-Time Guarantee never mentioned.",
+    "section6_throwaway_close": "At 16:45, 'Alright, any more questions or clarifications for me, miss? Maley.' Customer says 'I don't think so, I think this is all very clear.' This is the empty 'any questions?' with no genuine follow-up.",
+    "section7_no_explicit_ask": "Rep never says 'Would you like our help with your move?' Instead, customer volunteers 'Alright, well, we will definitely think about it...Well, we will definitely think about it. Is there any way to just put a hold on that date?' Then rep offers to book, and customer responds 'let's go ahead and book.' The customer asks for the booking; the rep does not make an explicit ask.",
+    "section7_booking_partial": "Confirmed: date (Saturday/Sunday), second address (in-law's house with full address), destination house (2-story, couch on bottom floor), but missing: primary phone number, arrival window, crew size explicitly stated, crew notes about customer concerns."
+  },
+  "top_strength": "Rep thoroughly probed logistics details (property type, stories, bedrooms, outdoor items, appliances, box count, packing need) and explained the overnight/two-day split with clear time-block framing and fee transparency upfront.",
+  "coaching_note": "Skip the email context and start with the quid pro quo ('10\u201315 minutes, you'll walk away with a quote you can depend on\u2014does that sound good?'), ask their agenda before launching into logistics, and close with an explicit ask for the business ('Would you like our help with your move?') rather than waiting for the customer to volunteer it."
+}

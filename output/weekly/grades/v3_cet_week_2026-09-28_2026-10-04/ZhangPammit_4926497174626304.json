@@ -1,0 +1,32 @@
+{
+  "call_id": "4926497174626304",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 6.5,
+  "datetime_ct": "2026-10-02 18:16 CT",
+  "external_number": "+15127518951",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 81,
+  "pass": true,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "quid_pro_quo": "This would take within the next five to ten minutes of your time would that be okay? [No explicit promise of 'a quote you can depend on' \u2014 time frame present but missing the dependability framing]",
+    "their_agenda": "Do you have any concerns or any important things that you wanted to answer during this call today? [Asked, but after the opening framing and only moments before probing begins]",
+    "two_layers_deep": "Rep asks 'What is this two big items or heavy items?' then follows up on pool table disassembly limitations and smoker weight/accessibility with multiple clarifying questions. Customer explains the smoker has wheels and describes the step logistics; rep acknowledges and probes further on the weight concern.",
+    "logistics_details_gathered": "Property type (two-story house), square footage (3600 / 3400), bedrooms (5 + game room / 3 + loft), parking (driveway with incline vs. gated community driveway), access concerns (narrow pathways check), walking distance implied, items (pool table, smoker, boxes reduced to 75). Both origin and destination covered.",
+    "box_count_asked": "Based on your home size, it is between 200 to 220 boxes, do you feel that you fall within that range?",
+    "walkthrough_branch_offered": "So normally based on your home size, we do a virtual walkthrough. In that way, we will just base it on the items that we are moving. Do you have a time to complete the virtual walk for today? [Correctly offered at 3600 sq ft / 1,800+ threshold]",
+    "walkthrough_confirmed": "Sure, so we'll schedule you for Tuesday at 2:00 PM what we're going to do is that we'll send you a text message and an email for the link and we'll see you then to do the virtual offer... So I'll send it over and schedule you for Tuesday at to at 2:00 PM."
+  },
+  "top_strength": "Rep correctly routed a 3,600+ sq ft move to a virtual walkthrough instead of attempting to quote on the phone, and thoroughly gathered logistics details (both properties, parking, access, item counts, special items) before scheduling.",
+  "coaching_note": "Section 2: 'Their Agenda' was asked *after* probing started (during the opening, not before); Section 1: Quid pro quo framing lacked the explicit promise of 'a quote you can depend on' \u2014 only time was mentioned; Section 2: No active-listening reflection was ever given back to summarize the two heavy items concern and confirm accuracy."
+}

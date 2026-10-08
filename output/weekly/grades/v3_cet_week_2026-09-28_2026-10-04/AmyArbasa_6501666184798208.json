@@ -1,0 +1,41 @@
+{
+  "call_id": "6501666184798208",
+  "rep_name": "Amy Arbasa",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 24.4,
+  "datetime_ct": "2026-10-01 18:00 CT",
+  "external_number": "+15124964188",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 23,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 8,
+  "total_score": 83,
+  "pass": true,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Let's get you quoted. I'll start with the profile. I'll ask you some questions to get us on track. And then I will prepare an estimate that you can depend on... does that sound good? [customer affirms]",
+    "discovery_basics": "Name: April Miller. Moving day: October 14th (Wednesday). Route: North Loop Austin to CubeSmart storage, Burnett Road. Size: ~1000 sq ft apartment.",
+    "their_agenda": "Other than price, what are you most worried about for your upcoming move or is there any specific question that you'd like me answered on this call?",
+    "two_layers_deep": "Customer raised: climate-controlled second floor move with freight elevator concern. Amy acknowledged and dug deeper: 'Well, thank you for sharing that and yes, we will take care of your belongings as if it is our own, that's how we train the movers and we go heavy on the protection of your furniture. So we have shrink wrap, moving blankets, bands the Dey the tools if we need to disassemble or reassemble any furniture.' This is a direct follow-up addressing the core worry (protection in climate-controlled storage).",
+    "packing_services": "Do you need us to pack those boxes for you or would you have those ready to go?",
+    "box_count": "Now, do you have anything like china or a book collection that might put you over a typical count? [Not asked in exact form, but Amy did say] We normally see around twenty to thirty boxes for like 800 to 1000 square foot home size.",
+    "estimate_anchor": "Typically a house the size let's say 800 to a thousand square footage we would send two movers one truck and it would take anywhere from three to five hours to complete... your case the inventory is very straightforward... we're going to the second floor. So I want to be a bit conservative and suggest that you budget for three up to four hours... that would only be $624. If we end up using four hours that would be $832 again anywhere from $624 to $832...",
+    "pricing_framing": "$208 per hour with two movers... it's an all inclusive hourly rate... there's no travel fee... two and a half hour minimum. If we go beyond the two and a half hours we will prorate the time in every fifteen minutes.",
+    "feels_fair_silence": "Not asked after pricing presentation.",
+    "on_time_guarantee": "We have the on time guarantee we will give you a time or an estimated time of arrival. But if we're not able to fulfill that at that ETA we are late for some reasons we will give you a discount... you know, reduce it on your, on your bill at the end of the day.",
+    "damage_coverage": "We have our insurance we call it but no worries, damage coverage we all locate up to $2,000 per move to either repair, replace or reimburse any damages cost by our team. No additional fees for the insurance it's all included in our move...",
+    "closes_the_loop": "And the best part is we don't require any deposits, no rebooking fees, no cancellation fees. So, would you like us to hop out with this move?",
+    "explicit_ask": "So, would you like us to hop out with this move?",
+    "booking_confirmed": "Wednesday October 14th... 8:30 to nine ETA here at 5312 Roosevelt Avenue, that's unit letter B... I'll just send you the confirmation email once we get off the phone..."
+  },
+  "top_strength": "Amy thoroughly gathered logistics details (property layout, inventory breakdown, parking, storage unit specifics, patio items, box estimates) with clear follow-ups that allowed her to give a precise, personalized estimate tied directly to the customer's move complexity.",
+  "coaching_note": "Add an active listening reflection in Section 2 (e.g., 'So what I'm hearing is you need movers experienced with climate-controlled storage units and second-floor freight elevator moves \u2014 did I get that right?') to confirm understanding before pivoting to pricing, and ask 'Does that feel fair?' after presenting the estimate range with a genuine pause for her response."
+}

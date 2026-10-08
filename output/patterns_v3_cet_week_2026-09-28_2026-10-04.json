@@ -1,0 +1,50 @@
+{
+  "rubric_version": "v3-section-map",
+  "week_start": "2026-09-28",
+  "week_end": "2026-10-04",
+  "total_calls_pulled": 487,
+  "total_graded": 431,
+  "total_skipped": 52,
+  "total_failed": 4,
+  "company_avg_score": 59.3,
+  "company_median_score": 59,
+  "pass_rate_pct": 7.0,
+  "per_rep_avg_score": {
+    "Amy Arbasa": 67.8,
+    "Zhang Pammit": 66.7,
+    "Nicole Tolete": 66.2,
+    "Arden 2Asilo": 65.1,
+    "Joanna Ballon": 64.7,
+    "Danah 2Celestial": 60.3,
+    "Brianne Newbro": 59.9,
+    "Jevic Lazanas": 57.6,
+    "Jeline 2Lavarias": 56.9,
+    "Therese Ablang": 51.8,
+    "Chauntelle Shivers": 51.1,
+    "Jack Davis": 51,
+    "Jules Nicolas": 50.5,
+    "Calvin Hughes": 49.3
+  },
+  "failed_calls": [
+    {
+      "call_id": "5085337691136000",
+      "rep_name": "Joanna Ballon",
+      "error": "Expecting ',' delimiter: line 51 column 31 (char 3816)"
+    },
+    {
+      "call_id": "4688348530909184",
+      "rep_name": "Joanna Ballon",
+      "error": "Expecting ',' delimiter: line 40 column 88 (char 1080)"
+    },
+    {
+      "call_id": "4672822375129088",
+      "rep_name": "Nicole Tolete",
+      "error": "Expecting ',' delimiter: line 40 column 98 (char 1101)"
+    },
+    {
+      "call_id": "5521261348560896",
+      "rep_name": "Zhang Pammit",
+      "error": "Expecting ',' delimiter: line 24 column 162 (char 720)"
+    }
+  ]
+}

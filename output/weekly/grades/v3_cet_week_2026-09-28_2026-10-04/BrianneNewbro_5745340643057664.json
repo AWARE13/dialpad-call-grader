@@ -1,0 +1,40 @@
+{
+  "call_id": "5745340643057664",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 11.3,
+  "datetime_ct": "2026-09-29 17:18 CT",
+  "external_number": "+15127400100",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 8,
+  "section7_ask_for_the_business": 1,
+  "total_score": 55,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep asks 'Do I have about five to ten minutes' but never frames a time-boxed agreement or states 'you can walk away with a quote you can depend on' \u2014 no framing of the 10\u201315 minute promise or wait for a yes before proceeding.",
+    "their_agenda": "Rep asks 'besides pricing, do you have any questions or concerns you would like answered on this call?' \u2014 but this comes AFTER the rep has already begun probing (mentioned no deposit, no cancel fees, pricing structure). Asked after probing started.",
+    "two_layers_deep": "Customer raises concern about cost/value decision: 'it just depends on the difference in cost...whether or not I would think that would save me any money.' Rep follows up: 'Yeah, for sure. Just so, you know, since you are shopping around we do have, our pricing is super simple...' Rep digs into the concern with substantive detail about what Einstein includes vs. competitors. When customer mentions fireplace sealed without notice, rep acknowledges ('Oh, wow') and customer continues without needing further prompts. Rep demonstrated two-layer follow-up on the primary concern.",
+    "estimate_anchor": "Rep anchors: 'typical move this size takes between two and a half and three and a half hours' and personalizes to the move distance ('you're going to be taking boxes yourself anyways') and calculates '2.5 hours $595' and '3.5 hours 728.' Both range and personalization present.",
+    "pricing_framing": "Rep states '2.5 hour minimum once we go over the minimum the time is prorated in fifteen minute increments' and discloses trip fee ($75). Framing of minimum and increment structure present; trip fee disclosed. However, no explicit 'not a guess' commitment language. Partial.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or equivalent. No silence pause requested or offered.",
+    "on_time_guarantee": "Never mentioned.",
+    "damage_coverage": "Never mentioned.",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or confirm the Two Promises. No loop closure.",
+    "final_concerns_check": "Rep asks 'Well, since, do you have any other questions or concerns for me while you have me on the line?' \u2014 a genuine concerns check, not a throwaway 'any questions.'",
+    "catch_all_asked": "Rep never asks 'Anything coming with you we haven't talked about?' or equivalent.",
+    "explicit_ask": "Rep does not ask 'Would you like our help with your move?' or any direct close. Instead: 'if you would like to book you can give us a call back or you can just reply to the email and we can get it on the schedule that way as well.' Booking is left optional with no explicit ask. Never asked.",
+    "booking_confirmed": "Rep confirms date (December 1st), email (lokey.78759@gmail.com), origin address (8599 North Capital of Texas Highway, Austin, Unit 2117), destination (850 sq ft apartment, second floor, Austin), and pricing window ($520\u2013$728). Rep mentions two time windows (8:30\u20139:00 AM and 12:30\u20132:30 PM) but customer never selects one. No phone number confirmed, no crew size discussed, no notes left for crew about customer concerns. Partial."
+  },
+  "top_strength": "Brianne gathered logistics details thoroughly and probed deeply into the customer's cost-versus-value concern, giving her enough information to deliver a personalized, anchored estimate with the right time range.",
+  "coaching_note": "Skip the quid pro quo framing entirely \u2014 you jumped into discovery without ever anchoring the call to a 10\u201315 minute time-boxed agreement or confirming the customer was ready; and you never delivered the Two Promises (On-Time Guarantee and No Worries Damage Coverage) or asked for the business explicitly, leaving money and commitment on the table."
+}

@@ -1,0 +1,32 @@
+{
+  "call_id": "6046604014690304",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 11.1,
+  "datetime_ct": "2026-09-30 21:13 CT",
+  "external_number": "+12029979938",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 2,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Jeline: 'Well first I'd like to ask first aside from the park, aside from the pricing, do you have any other concerns about the process?' Customer raised two concerns: careful handling and furniture reassembly.",
+    "two_layers_deep": "Jeline acknowledged concerns ('Mm-hmm, okay ma'am') and gave a brief reassurance about employee training and reassembly capability, but did not dig deeper with follow-up questions like 'tell me more about that' or explore what specific furniture items worried the customer beyond the initial response.",
+    "estimate_anchor": "Jeline gave hourly rate ($208/hour for two movers) and a specific estimate for this move ($670 for 2.5 hours), but did NOT give a typical range for a 16-foot pod unload or personalize to this customer's stated concerns (careful handling, reassembly).",
+    "feels_fair_then_silence": "Not asked. After pricing discussion, Jeline moved directly to rebooking logistics without asking 'Does that feel fair?' or pausing for customer reaction.",
+    "explicit_ask": "Never asked. Customer said 'I'm gathering different quotes' and Jeline replied 'I'll just send everything to your email... if you want to proceed booking or give us a call' \u2014 this is a soft pivot to email follow-up, not a direct 'Would you like our help with your move?' ask."
+  },
+  "top_strength": "Jeline gathered all four discovery basics (name, moving day, address, square footage) early and confirmed details accurately, establishing a complete profile before diving into estimate discussion.",
+  "coaching_note": "Missing the quid-pro-quo framing entirely (no 10\u201315 minute time-box promise and no explicit wait for a yes), no active-listening summary of the customer's concerns, no \"Does that feel fair?\" pause after pricing, and critically, no explicit ask for the business \u2014 the call ended with a soft email/callback loop instead of a clear closing ask."
+}

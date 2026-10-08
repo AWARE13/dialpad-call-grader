@@ -1,0 +1,33 @@
+{
+  "call_id": "6398680666251264",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 7.7,
+  "datetime_ct": "2026-09-29 14:46 CT",
+  "external_number": "+15127882148",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 54,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Not asked. Rep moves directly into logistics probing without asking 'Other than price, what are your biggest concerns about this move?'",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer; customer only responded to direct probing questions.",
+    "estimate_anchor": "Partial \u2014 rep provides time range ('4:00 to five hours') and cost ($1,110), but does not anchor to 'typical for a home your size' or personalize to the customer's situation beyond the change to move-only.",
+    "explicit_ask": "Never asked. Rep ends with 'I'll send you confirmation email with regards to this. If ever you have questions then just feel free to let us know.' and 'Thank you and have a great day. Bye now!' \u2014 no 'Would you like our help with your move?' or equivalent explicit close."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details for both locations (property type, square footage, rooms, walking distance, access concerns) and confidently handled the customer's mid-call pivot from packing to move-only, recalculating the estimate cleanly.",
+  "coaching_note": "Rep skipped Section 2 entirely\u2014never asked 'Other than price, what are your biggest concerns?'\u2014and jumped straight to probing; also failed to ask the closing question 'Would you like our help with your move?' and never delivered the Two Promises (On-Time Guarantee and No Worries Damage Coverage), leaving the customer with no safety anchors and no explicit ask to close the business."
+}

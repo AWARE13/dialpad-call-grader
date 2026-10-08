@@ -1,0 +1,38 @@
+{
+  "call_id": "6283164517703680",
+  "rep_name": "Zhang Pammit",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 7.8,
+  "datetime_ct": "2026-09-29 21:48 CT",
+  "external_number": "+18173078565",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skips straight into property details confirmation ('Yeah, so basically Sean tried to call you because you have booked remove online...Is it now a convenient time to talk?') with no time-boxed framing or promise of a dependable quote.",
+    "their_agenda": "Never asked. Rep launches directly into logistics: 'The first location is 2532 central park delivered in Bedford. This is a two bedroom apartment of square footage is 750 and what is the unit number?'",
+    "estimate_anchor": "Range given without personalization: '...we will be sending out two movers and the one track estimated time is between three to four hours. The estimated cost would be $776, if they end up four hours, but then again we're timely based...' No mention of how prep level, stated concerns, or specific items (heavy bed frame, fragile items, narrow stairway) affect the price.",
+    "feels_fair_then_silence": "Not asked. Rep transitions directly to confirmation email: 'Alright, I'll send you the confirmation email and if ever there will be any changes then just kindly please let us know.'",
+    "explicit_ask": "Never asked. No version of 'Would you like our help with your move?' This is an existing booking confirmation call that never converts or explicitly closes.",
+    "pricing_framing": "Partial. Rep mentions time-based billing ('you only need to pay once the job is done and only for the actual hours') but does not disclose trip fees, overnight fees, packing materials, 2.5-hour minimum, or 15-minute increments.",
+    "on_time_guarantee_delivered": "None. No mention of discount terms, on-time guarantee, or any service promise beyond the time estimate.",
+    "damage_coverage_delivered": "None. No mention of $2,000 coverage, no deductible framing, or built-in coverage.",
+    "booking_confirmed": "Partial. Date (October 1st) and arrival window ('afternoon') confirmed; crew size (two movers and one truck) mentioned; destination address confirmed (1002 fuller wiser road, yous Texas); but phone number and specific notes about customer concerns (narrow stairway, bulky items, fragile items) are not confirmed or recorded."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details (property type, floor level, unit numbers, walk distances, access concerns, heavy/fragile items, box count) with clear follow-up questions that build an accurate picture of the move.",
+  "coaching_note": "This is a confirmation-of-existing-booking call, not a sales call \u2014 the customer had already booked online. You skipped Section 1's quid pro quo (no time-box or commitment to a dependable quote), never asked for their agenda or concerns, delivered no Two Promises (On-Time or Damage Coverage), and never asked for the business. For future existing-booking calls, confirm the above items and actively close, rather than hanging up after sending a confirmation email."
+}

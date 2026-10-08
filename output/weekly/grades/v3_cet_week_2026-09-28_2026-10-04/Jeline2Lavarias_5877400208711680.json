@@ -1,0 +1,37 @@
+{
+  "call_id": "5877400208711680",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 9.9,
+  "datetime_ct": "2026-09-30 19:38 CT",
+  "external_number": "+17737036691",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 2,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 8,
+  "section7_ask_for_the_business": 1,
+  "total_score": 32,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Not asked. Rep moved directly into probing about the plant question Raj raised.",
+    "two_layers_deep": "Rep asked multiple follow-ups on the plants: 'If I may ask age, oh, I'm sorry to interrupt how big your plants are like. Is it like, five foot, six foot tall?' Then: 'Okay, how many plans in total do you have?' Then: 'One more question before I really answer your question like what are the pots, is it ceramic? Is it clay pots, or is it plastic pots?' Continued digging into details about which plants needed liability waiver.",
+    "active_listening_reflection": "Partial. Rep summarized: 'So if you only want us to handle the tallest plant. That's only two. Correct?' \u2014 but this was a narrow confirmation of one detail, not a full reflection of all concerns/requests raised in the call.",
+    "estimate_anchor": "Partial. Rep gave hourly rate ($210/hour, $208/hour with discount) and total range ($907 to $1,115 for 4\u20135 hours), but did not anchor to typical home size or personalize to this customer's specific situation (the plants, the tight timeline, the liability waiver requirement).",
+    "pricing_framing": "None. No mention of trip fee, overnight fee, packing materials, 2.5-hour minimum, or 15-minute increments. Payment timing was addressed late ('payment process... can be dealt with after the moving') but no upfront fee transparency.",
+    "feels_fair_then_silence": "Not asked. Rep moved directly to 'would you like to confirm your booking' without asking if the estimate felt fair or pausing for genuine customer reaction.",
+    "on_time_guarantee": "None. Never mentioned.",
+    "damage_coverage": "None. Never mentioned.",
+    "explicit_ask": "Never asked in recognizable form. Rep said 'would you like to confirm your booking for Monday October 5th?' which is a confirmation of an existing quote/booking, not a fresh 'would you like our help' ask. The customer had already been quoted by Bian; this call was a follow-up/modification.",
+    "final_concerns_check": "Full. Rep asked: 'I understand your concern and that is a very valid concern Raj. But the good thing here at Einstein is as much as possible. We do not cancel any of our moves... But yeah, if any, if in any case that we really have to cancel this we will let you know ahead of time so you can plan ahead as well and I'll just Notate as well of your concern here.' This addressed Raj's stated fear (cancellation risk) directly."
+  },
+  "top_strength": "The rep demonstrated excellent two-layer probing on the customer's plant concern, asking follow-up questions about size, quantity, material, and handling requirements, then translating that into a concrete solution (liability waiver, two tall plants moved, smaller ones customer-handled).",
+  "coaching_note": "This was a callback on an existing quote, not a fresh sales call \u2014 you skipped the full Section 1 quid pro quo framing, never asked Section 2's agenda question, never offered packing or confirmed box count, and never delivered the Two Promises or asked 'Does that feel fair?' before closing; focus on running the full call structure even on follow-up modifications."
+}

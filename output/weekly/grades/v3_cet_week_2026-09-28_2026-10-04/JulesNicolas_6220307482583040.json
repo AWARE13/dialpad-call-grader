@@ -1,0 +1,39 @@
+{
+  "call_id": "6220307482583040",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 11.9,
+  "datetime_ct": "2026-10-01 22:23 CT",
+  "external_number": "+12147525070",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never frames the call as 10\u201315 minutes with a dependable quote and never gets a yes before diving into probing. Jumps immediately to rates: 'For sure, so we just have different hour rates for days...'",
+    "their_agenda": "Never asked. Rep goes straight into logistics and rate questions without establishing Donald's concerns or what he wants answered on the call.",
+    "estimate_anchor": "Rep gives hourly rate ($222/hour for weekend, $204 for Monday) and minimum ($555 for 2.5 hours), but never anchors to a typical range for a storage-unit move or personalizes to Donald's stated time pressure and parking logistics.",
+    "pricing_framing": "Rep discloses no transport fee ('There wouldn't be any additional fees. It's just the hourly rate') and mentions the 2.5-hour minimum ($555), but never frames the 'not a guess' or 15-minute-increment commitment.",
+    "feels_fair_then_silence": "Never asked whether the estimate feels fair. Rep moves straight to booking.",
+    "on_time_guarantee": "Not mentioned at all.",
+    "damage_coverage": "Not mentioned at all.",
+    "final_concerns_check": "Rep asks only 'Anything else I can help you with?' which is a throwaway. Donald actually raises a substantive concern ('I need someone at least on the crew between one of the two of them that I really understand English') and rep acknowledges it ('Of course, definitely') but does not probe deeper or confirm it's truly resolved.",
+    "explicit_ask": "Never asked 'Would you like our help with your move?' The booking is assumed and driven by Donald's urgency, not a real close by the rep.",
+    "booking_confirmed": "Rep confirms: name (Donald Fuller), email, phone, move date (Monday 8:30\u20139 a.m.), from address (2627 Live Oak Street, 75204), to address (100 Margaret Avenue, 75207), and parking notes. Missing: arrival window confirmed verbally (rep states 8:30\u20139 but doesn't confirm Donald heard it), crew size never stated, no summary of Donald's concern about English-speaking crew lead to the notes."
+  },
+  "top_strength": "Jules quickly gathers critical logistics details (addresses, zip codes, floor levels, special parking instructions, storage unit numbers) and adapts the estimate to Donald's specific timeline urgency and constraints.",
+  "coaching_note": "Section 2 is completely skipped\u2014never ask 'Other than price, what are your biggest concerns about this move?' and listen two layers deep before jumping into rates; this call would have surfaced Donald's real anxieties (deadline, crew communication) much earlier and allowed you to frame the whole pitch around solving them."
+}

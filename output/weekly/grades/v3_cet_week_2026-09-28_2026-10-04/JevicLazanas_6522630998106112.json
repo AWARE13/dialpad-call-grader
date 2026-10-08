@@ -1,0 +1,40 @@
+{
+  "call_id": "6522630998106112",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 15.4,
+  "datetime_ct": "2026-09-30 21:44 CT",
+  "external_number": "+18069308783",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 23,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 5,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says: 'this should take about ten to fifteen minutes and we'll be able to build you know an accurate estimate. Sounds good.' Rep waits briefly for yes but the framing lacks the explicit 'quote you can depend on' promise language and doesn't strongly anchor the value prop.",
+    "their_agenda": "Rep asks: 'What are your biggest concerns aside from the pricing? Okay, what are the most important things you want answers to on this call today?' \u2014 asked before any logistics probing.",
+    "two_layers_deep": "Customer raises elevator wait time and timing concerns. Rep digs: 'How about the stairs access how far is the, you know, the walk from the storage unit to the stairs...' and 'How full is the storage unit?' and 'are we going to move all of the items?' Rep follows up on multiple concerns raised by customer.",
+    "active_listening_reflection": "No summary reflection. Rep acknowledges concerns ('I see, yeah, that's kind of, you know, that's kind of a problem, right?') but does not reflect back what was heard in a confirmatory summary.",
+    "estimate_anchor": "Rep provides typical range ('a typical ten by twenty feet storage unit usually takes two movers, one truck between seven and a half to nine and a half hours') and personalizes to customer's move ('since you are moving from a second floor storage unit with elevator access but there's a long wait time... going to a two story house with a thirty minute drive... I would estimate your move to be between six and a half to seven and a half hours with three movers and one track').",
+    "pricing_framing": "Rep discloses trip fee ($75), states all inclusions (fuel, truck access, insurance, pads, wraps, tools), specifies no hidden fees, and explains time clock ('two and a half hour minimum... prorated in fifteen minute increments'). Full pricing framing present.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or equivalent. After pricing, rep moves directly to 'Do you have questions or clarifications around that?' and customer responds with a follow-up question about four movers.",
+    "on_time_guarantee_delivered": "Rep states: 'Finally we have the on time guarantee. So if we can't make it in the time window that we arrange, we immediately start discounting money of your final bill.' Clear discount-on-lateness framing present.",
+    "damage_coverage_delivered": "Rep says: 'The first one is our no worries damage coverage. Our free evaluation coverage included in our early rate provides up to $2,000 per move to repair replace or reimburse. For accidental damages... no hidden fees of any type.' Rep mentions $2,000, built-in to rate, but does not explicitly say 'no deductible / no fine print' \u2014 implied but not stated.",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or similar. No explicit close to the Two Promises section.",
+    "explicit_ask": "Rep says: 'would you like me to go ahead and get you on the schedule today?' But when customer says 'Nope, just send me the estimate please,' rep immediately backs off: 'I'll do that.' This is a softened ask with an easy out built in \u2014 rep does not push to booking, allows email-only exit.",
+    "rate_lock_mentioned": "Rep states: 'No deposit so there's no...' (rate-lock framing is present but incomplete \u2014 mentions no deposit but doesn't explicitly state rate lock or that the quote holds).",
+    "booking_confirmed": "Rep only confirms email address (sano@gmail.com) for sending estimate. Does not confirm date, phone, arrival window, crew size, final addresses, or crew notes. Only 1 of 6 booking details confirmed."
+  },
+  "top_strength": "Rep executed thorough two-layer probing on customer's elevator wait-time and timing concerns, gathering specific logistics details (floor, walk distance, storage dimensions, furniture inventory) that built a credible personalized estimate.",
+  "coaching_note": "Rep failed to ask 'Does that feel fair?' after pricing and abandoned the explicit ask entirely when the customer requested only an email estimate, missing the chance to move toward booking and secure the customer's commitment."
+}

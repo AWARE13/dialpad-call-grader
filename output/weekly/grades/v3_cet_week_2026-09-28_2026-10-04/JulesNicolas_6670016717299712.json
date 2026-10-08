@@ -1,0 +1,38 @@
+{
+  "call_id": "6670016717299712",
+  "rep_name": "Jules Nicolas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 7.1,
+  "datetime_ct": "2026-10-02 20:27 CT",
+  "external_number": "+18177131956",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 2,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 8,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 43,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Missing entirely. Rep launches into pricing discussion without the time-boxed framing or 'does that sound good to you?' wait.",
+    "their_agenda": "Never asked. Rep never asks 'what are your biggest concerns about this move?' or equivalent.",
+    "estimate_anchor": "Full estimate provided: '$7,990' for Thursday packing + Friday move, or '$7,738' for Wednesday packing + Thursday move, with crew size (4 guys packing, 6 guys + 3 trucks moving) and hourly rates ($97 weekday, $103 Fri/Sat). Includes materials ($450-$560 for boxes).",
+    "pricing_framing": "Rep covers: 'we do not have any additional fees. You know we don't have anything like a fuel fee, no disassemble reassembly fees, no hidden fees at all' and '2.5 hour minimum' and 'prorate every fifteen minutes.'",
+    "feels_fair_then_silence": "Not asked. No 'does that feel fair?' check.",
+    "on_time_guarantee": "Not mentioned.",
+    "damage_coverage": "Not mentioned.",
+    "explicit_ask": "Never explicitly asked 'Would you like our help with your move?' Rep instead moves directly to scheduling once customer says 'that sounds good.' Customer initiates: 'I'd like to get it scheduled.'",
+    "booking_confirmed": "Date confirmed (October 22 packing, October 23 move); time window confirmed (8:30-9:00 am); addresses, phone, payment method mentioned; no crew size or notes confirmed for the move itself."
+  },
+  "top_strength": "Jules clearly explained the two-day packing/moving split with specific crew sizes and pricing for both day-of-week options, and successfully locked in the customer's preferred dates with near-complete booking details.",
+  "coaching_note": "This call skipped the entire discovery phase\u2014no quid pro quo framing in Section 1, no 'what are your biggest concerns' in Section 2, no two-promise delivery in Section 5, and no final concerns check in Section 6; the customer initiated the ask instead of Jules making it, and neither On-Time nor Damage Coverage guarantees were mentioned at all."
+}

@@ -1,0 +1,37 @@
+{
+  "call_id": "5567035024384000",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 13.2,
+  "datetime_ct": "2026-10-02 21:23 CT",
+  "external_number": "+19202845574",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 8,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 2,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Jevic: 'this should take about ten minutes so we can provide you an accurate estimate, you can depend on, sounds good.' \u2014 Time-boxed and promise of dependable quote present, but rushed past Joe's confirmation ('Okay') without a real wait for affirmation before diving into agenda.",
+    "their_agenda": "Jevic: 'What are your biggest concerns for this upcoming move?' \u2014 Asked early, before logistics probing started. Joe responds: 'Just getting it done in time, I suppose. And making sure nothing gets damaged.'",
+    "two_layers_deep": "Jevic acknowledges 'efficiency and we got you covered on that for sure' but immediately pivots to 'let me just go ahead and confirm the details' with no follow-up dig into either concern raised.",
+    "logistics_details_gathered": "Jevic covers: property type (two bedroom apartment), floor/stories (third floor, elevator access), walking distances (100 ft ground level, ~150 ft top), additional rooms (none), special considerations (bed, couch, TV, dresser, nightstands, desks, chairs, bookcase, TV stand, exercise bike), additional stops (two-story house destination). Comprehensive coverage.",
+    "estimate_anchor": "Jevic: 'a typical two bedroom apartment usually takes three and a half to five and a half hours... in your case... I would estimate the move to be between six and a half to seven and a half hours... it's safe to budget around $1,375 to $1,575' \u2014 Range given with personalization (third floor, long walk, 30-min drive, alerts noted).",
+    "pricing_framing": "Jevic: '$200 per hour per two movers... $75 trip fee... no hidden fees... no credit card fees, no deposit, no upfront payment... two and a half hour minimum... time is prorated in fifteen minute increments.' Full fee transparency and commitment framing present.",
+    "feels_fair_then_silence": "Jevic: 'do you have questions or clarifications about the, you know, the, about the pricing and the estimate, and how it works?' \u2014 Asked, but Joe immediately responds with past-move comparison (not a silence). Jevic does not ask 'Does that feel fair?' at all.",
+    "on_time_guarantee_delivered": "Jevic: 'if we can make it in the time window that we arrange we immediately start discounting money of your final bill' \u2014 Discount-on-late framing fully delivered.",
+    "damage_coverage_delivered": "Jevic: 'no worries damage coverage... we provide up to $2,000 per move to repair, replace or reimburse for accidental damage.' \u2014 Amount and coverage stated, but missing explicit no-deductible/no-fine-print framing.",
+    "explicit_ask": "Jevic: 'So would you like our help with your upcoming move on October 24th Saturday?' \u2014 Asked plainly. Joe: 'Could you kind of send me this quote just in an email and, and I can think about it.' Rep then agrees to email: 'I'll go ahead and send you an email... if you're ready to proceed then you know, just go ahead and give us a call to, to, to save a spot for you.' \u2014 Built-in out provided ('just go ahead and give us a call' is softer than booking confirmation; email pathway offered instead of securing commitment)."
+  },
+  "top_strength": "Jevic gathered comprehensive logistics details (all seven items: property type, floor, rooms, walking distances, additional rooms, special items, destination details) and provided a fully anchored, personalized estimate with transparent fee structure.",
+  "coaching_note": "Stop after raising concerns: ask 'tell me more about that' for each concern Joe mentioned (getting it done in time, nothing gets damaged) before moving on \u2014 you acknowledged them but never dug in, and you never reflected back what you heard to confirm you understood."
+}

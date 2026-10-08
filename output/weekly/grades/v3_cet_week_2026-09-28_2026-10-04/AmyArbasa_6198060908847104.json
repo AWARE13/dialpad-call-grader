@@ -1,0 +1,34 @@
+{
+  "call_id": "6198060908847104",
+  "rep_name": "Amy Arbasa",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 6.0,
+  "datetime_ct": "2026-09-28 19:48 CT",
+  "external_number": "+15125875732",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Not present. Amy opens with 'I'm calling to conduct our kickoff call' but never gives time-boxed framing, promises a dependable quote, or asks for permission to proceed.",
+    "their_agenda": "Not asked. Amy never asks 'Other than price, what are your biggest concerns about this move?' or anything equivalent. She moves straight into logistics from the opening.",
+    "estimate_anchor": "Partial. Amy gives specific pricing ($220/hr, $550 for 2.5 hrs, $880 for 4 hrs) but does not personalize it to the customer's stated move profile beyond referencing the February move. The estimate is anchored in ranges but not tied to the customer's particular concerns or prep level.",
+    "feels_fair_then_silence": "Not asked. After pricing, Amy says 'Do you have any questions so far?' but never asks 'Does that feel fair?' and does not hold silence for a genuine customer response.",
+    "explicit_ask": "Never asked. The call ends with 'I'll send you the final confirmation email' and no version of 'Would you like our help with your move?' is present. No explicit close for business is attempted."
+  },
+  "top_strength": "Amy successfully pulled historical data from the customer's February move, used it to accurately adjust the estimate from 6h45m to 4 hours, and disclosed all pricing and minimum-hour terms clearly upfront without being asked.",
+  "coaching_note": "This call skipped the entire discovery and permission architecture of Section 1 (no quid pro quo), never asked about the customer's concerns (Section 2), skipped packing and box-count questions (Section 3), never delivered the Two Promises (Section 5), and never attempted an explicit ask for the business (Section 7) \u2014 treat this as a repeat/confirmation call, not a fresh sales call, or if it is a sales call, rebuild the structure around the customer's real agenda before pricing."
+}

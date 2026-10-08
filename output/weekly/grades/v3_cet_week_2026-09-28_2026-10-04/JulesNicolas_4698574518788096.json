@@ -1,0 +1,41 @@
+{
+  "call_id": "4698574518788096",
+  "rep_name": "Jules Nicolas",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 13.6,
+  "datetime_ct": "2026-09-29 19:43 CT",
+  "external_number": "+18136902236",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "\"this should take me about you know, ten to fifteen minutes. Does that sound good to you?\" \u2014 framing present, time-boxed, rep waits for yes before continuing.",
+    "discovery_basics": "Name: 'Vicky V-I-C-K-I...S-C-H-A-U-B.' Move date: 'Next Monday' / October 5th. Route: 'Plant City' to 'Cintas Road Dover'. Size: 'three bedroom' / 'one story.' All four elements gathered.",
+    "logistics_details_gathered": "Rep confirmed: 3-bed / 1-story origin, 1-story destination, king bed, dresser w/ mirror, second dresser, nightstands, safe, china cabinets (2), buffet, large display cabinet (special\u2014glass doors can't come out), small chest, two desks, dining table, daybed, second armchair, area rug. Special considerations: safe bolted/unbolted, display cabinet glass cannot be removed, adjustable bed base. ~25 boxes estimated.",
+    "estimate_anchor": "\"So, of course, it depends really on how easy or how complicated disassemble and reassembly would be but I would budget a four to six hour day, so the cost of that would go anywhere from $838.22 to 1222.\" \u2014 both typical range and personalization (disassemble/reassembly complexity noted).",
+    "pricing_framing": "\"Our rate is $192 per hour for two movers and one truck...the rate does include you know, the gas, the truck taxes, and insurance...The only thing you'd see outside of the hour rate is a one time $70 trip charge aside from that everything else is included...minimum of two and a half hours and then after that we prorate every fifteen minutes.\" \u2014 full fee transparency and commitment framing present.",
+    "feels_fair_then_silence": "Rep never asked 'Does that feel fair?' or equivalent; moved directly into clarifications about prep and then availability logistics.",
+    "on_time_guarantee_delivered": "Never mentioned.",
+    "damage_coverage_delivered": "Never mentioned.",
+    "final_concerns_check": "Rep never asked 'What's still concerning you?' or any variant; call transitioned directly to email scheduling.",
+    "catch_all_asked": "Rep never asked 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' or equivalent. Instead offered email / callback: 'You'll I'll send everything over in an email. So when you're ready to get this scheduled, you can either give us a callback or you can also respond back to the email I'm gonna send over.'",
+    "booking_confirmed": "Rep confirmed Monday availability and took email address / phone number implicitly (Vicky provided them). No explicit confirmation of arrival window, crew size, or final address details re-stated for the record. Email-only handoff, no date/time/crew details locked in on the call itself."
+  },
+  "top_strength": "Jules gathered exceptionally detailed logistics information\u2014special furniture considerations (display cabinet with unmovable glass, bolted safe, adjustable bed), room-by-room placement needs, and box count\u2014which grounded a highly personalized estimate and demonstrates strong discovery discipline.",
+  "coaching_note": "Section 2 (Their Agenda / Concerns) was completely skipped: never asked 'What are your biggest concerns?' or any variant before probing; this is the highest-value early-call item on the rubric and must be asked explicitly before logistics. Additionally, Section 5 (Two Promises) and Section 6 (final concerns check) were missing entirely, and Section 7 never included the explicit ask\u2014rep pivoted to email/callback without confirming the sale on the call."
+}

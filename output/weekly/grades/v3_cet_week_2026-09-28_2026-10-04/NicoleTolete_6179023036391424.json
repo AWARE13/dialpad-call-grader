@@ -1,0 +1,31 @@
+{
+  "call_id": "6179023036391424",
+  "rep_name": "Nicole Tolete",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 11.1,
+  "datetime_ct": "2026-09-29 20:21 CT",
+  "external_number": "+17139138160",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 5,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Nicole: 'what are your biggest concerns and what are the most important things you want answers to on this call today?' Lashonda: 'Well, just the rate we Chi this rate for one... just like a, it's just a bedroom of like ten extra large boxes, the mattress and the headboards... I just can't move it because I have a, yeah, nerve pain so I can't move it.'",
+    "two_layers_deep": "Nicole acknowledged the rate concern ('The rate... I see... I see you may no worries we can definitely help you with that') but did not follow up with 'tell me more about that' or dig deeper into what 'rate' meant or what price range would work. The concern was noted, not explored.",
+    "estimate_anchor": "Nicole: '$190 per hour for two movers and one truck' with full fee breakdown, then: 'based on the items we're moving from a second floor apartment and picking up one item from Walmart moving to a Ford floor apartment. I estimate your move to take just within our minimum two and a half to three hours with two movers and one truck and it will be good to budget around $475 to $570.' This anchors a range and personalizes to the customer's move (multiple stops, floor access, item count).",
+    "explicit_ask": "Nicole: 'And would you like our help with your move tomorrow?' \u2014 asked plainly with no built-in out."
+  },
+  "top_strength": "Nicole gathered comprehensive logistics details (two addresses, floor/elevator info, walking distances, special items, parking proximity) and delivered a clear, anchored estimate range ($475\u2013$570 for 2.5\u20133 hours) with full transparency on pricing structure and the two key guarantees.",
+  "coaching_note": "Nicole did not ask 'Does that feel fair?' after pricing, did not hold silence to let the customer respond to the estimate, and did not return to the customer's opening concern about 'rate' \u2014 a second layer of probing ('tell me more about what rate range you had in mind?') would have surfaced the disconnect earlier and prevented the callback at the end."
+}

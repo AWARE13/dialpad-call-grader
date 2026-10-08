@@ -1,0 +1,31 @@
+{
+  "call_id": "5887399210295296",
+  "rep_name": "Joanna Ballon",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 11.6,
+  "datetime_ct": "2026-10-04 17:16 CT",
+  "external_number": "+19794502276",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 23,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Before that, do you have any important concerns that you also want to discuss on this call? [Asked before probing; customer raised toolbox concern]",
+    "two_layers_deep": "Is it on wheels? Mm-hmm, of course, I understand that they can be very heavy but in terms of its weight including the contents. Do you have an estimated weight of it? [Rep followed up on toolbox with weight question; customer provided details; rep continued with lift gate solution]",
+    "estimate_anchor": "Typically for an 1800 square foot home... So for now, of course, I'm just quoting like for three guys in a nine hour job. That would be an estimated budget of $2,808. [Anchor provided with range and personalized to home size and 30-minute drive time]",
+    "explicit_ask": "If you want to go ahead with the you know with the booking and all that or for a more personalized booking just let us know. [Presented with 'or' option \u2014 send email alternative provided as out]"
+  },
+  "top_strength": "Joanna gathered all essential discovery details (name, date, route, square footage, bedrooms, oversize items, fragile items, parking, garage contents) and asked about the customer's concerns upfront before diving into logistics.",
+  "coaching_note": "Add the quid pro quo framing at the top ('10\u201315 minutes, you'll walk away with a quote you can depend on, does that sound good?'), skip the email send offer in Section 7 (it's a built-in out), and end with a genuine final concerns check\u2014not just routing to email review without asking what's still worrying them about the move."
+}

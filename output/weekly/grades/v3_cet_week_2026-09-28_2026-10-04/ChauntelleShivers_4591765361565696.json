@@ -1,0 +1,39 @@
+{
+  "call_id": "4591765361565696",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 16.7,
+  "datetime_ct": "2026-09-28 17:30 CT",
+  "external_number": "+14252053076",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 2,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 3,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "section1_missing_quid_pro_quo": "Rep jumps directly into correcting special items details from a prior email with no framing of the call structure, time, or the promise of a dependable quote.",
+    "section2_their_agenda_not_asked": "Rep never asks 'Other than price, what are your biggest concerns about this move, and what do you want answers to on this call?' Customer raises concerns organically (crew size, pricing, time estimate) but rep was never prompted to elicit them.",
+    "section3_box_count": "Chauny: 'Okay, and then as far as the box count, I know you said that you were going to pack everything yourself, but what is the estimated box count?' Erin: 'Probably five ward row boxes, like for clothing, and then probably under twenty.' Chauny: 'Okay, so we'll call it probably like 25.'",
+    "section4_estimate_anchor": "Chauny: 'So five to six hours now for call wise I would budget for that $16,652 about $1,998. Okay. As far as budget range for the estimate. And then obviously if you go below that and you're doing the three to four hours which is what you say typically is what the move generally takes for you then you'll be more so at the around the $1,332 mark.' (Personalized to customer's experience: 3-4 hour typical moves.)",
+    "section4_pricing_framing_partial": "Chauny mentions no deposits and pay-after-move model ('So, we don't charge upfront. So, that's different for us... you don't pay us anything until after the move is done, so there's no deposits'), but does not explicitly state trip fees, overnight fees, 2.5-hour minimum, or 15-minute-increment commitment framing.",
+    "section4_no_silence_check": "Rep does not ask 'Does that feel fair?' or any version of it before moving to booking.",
+    "section5_missing_promises": "Rep never delivers the On-Time Guarantee (discount terms if late) or No Worries Damage Coverage ($2,000 coverage, no deductible, built-in). No mention of either promise.",
+    "section6_throwaway_check": "Chauny: 'Aaron, do you have like any other just general questions that I can answer for you?' \u2014 this is the empty 'any questions?' version, not the genuine 'What's still concerning you about this move?' prompt.",
+    "section7_no_explicit_ask": "Rep never asks 'Would you like our help with your move?' or any recognizable ask for the business. Instead, rep states 'Okay, I do have that booked for you' \u2014 assumes consent without explicitly asking.",
+    "section7_booking_partial": "Rep confirms start time (8:00-8:30), mentions sending a confirmation email, and notes customer can email/text/call with questions. Does NOT confirm: phone number, arrival window details beyond start time, crew size explicitly stated at booking, addresses, or notes left for crew about customer concerns (time estimate concern was significant but not documented in handoff)."
+  },
+  "top_strength": "Chauntelle expertly gathered and clarified detailed inventory and logistics through methodical follow-up (furniture, special items, high-rise access, loading dock), building confidence in the accuracy of the estimate despite working from an earlier email.",
+  "coaching_note": "This call skipped Section 1's framing entirely and never asked for the customer's agenda; start every call with the quid pro quo (time-boxed structure + dependable quote promise + wait for yes), then ask 'Other than price, what are your biggest concerns?' before diving into data correction \u2014 it resets the frame and gives you natural concerns to surface the Two Promises against later."
+}

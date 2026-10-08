@@ -1,0 +1,42 @@
+{
+  "call_id": "4883983334940672",
+  "rep_name": "Joanna Ballon",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 7.8,
+  "datetime_ct": "2026-09-29 15:22 CT",
+  "external_number": "+18323314749",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 68,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'I'm actually calling about the quotation request you've submitted online, just wanna discuss that move if you have time might take about ten to fifteen minutes.' [No clear wait for yes before moving to next question \u2014 rushed.]",
+    "their_agenda": "Joanna: 'before we start I just wanna check if you have any aside from the price, any other important concerns that discuss on this call.' [Asked after initial framing but before logistics probing began, then customer answered 'just the price' \u2014 no concerns raised, so two_layers and reflection are N/A.]",
+    "walkthrough_branch": "Customer home is 2,200 sq ft (clearly \u22651,800). Joanna offered virtual walkthrough: 'of course usually for a house this size we conduct like a virtual walkthrough or a video call to assess how much items we're really moving for you on the day of are you available to do that. Or of course I can just discuss the pricing for now.' Customer declined ('just give me the pricing'), and Joanna proceeded to price on this call instead of holding the walkthrough requirement. This is a miss \u2014 the script directs that homes 1,800+ should be scheduled for walkthrough, not quoted immediately.",
+    "estimate_anchor": "Joanna: 'Typically for a house. This size we recommend four guys to help us out with two trucks already so that would be $380 per hour... typically it can take six and a half to eight and a half hours to complete... an estimated budget of $2,890. If it goes up to eight and a half hours, that's $3,650 already inclusive of the transportation fee.' [Range provided (6.5\u20138.5 hrs = $2,890\u2013$3,650) and personalized to this customer's 4BR, 2,200 sq ft home with minimal items and customer doing own packing.]",
+    "pricing_framing": "Joanna: 'we charge by the hour for all of our services... $95 per hour per mover... the only one outside of the hourly rate would be a one time travel fee of $210 per truck... everything's already included in the rate... For the clock, we will only start the time once we arrive there at your pickup location... two and a half hour minimum... we only charge in fifteen minute intervals.' [Both fee transparency (travel fee, hourly rate) and 'not a guess' framing (2.5-hour minimum, 15-minute increments) present.]",
+    "feels_fair_then_silence": "Not asked. Joanna provided the estimate and price range but never asked 'Does that feel fair?' or equivalent. Customer responded unprompted: 'I think I got an idea it's kind of on the expensive side so obviously I'm talking to other, other people as well for the quote.'",
+    "on_time_guarantee": "Joanna: 'lastly on time guarantee, if we run late on the time, we schedule we provide discounts for your move.' [Mentioned but vague on discount terms \u2014 does not specify 'starts discounting immediately' or other clear dollar/percentage framing.]",
+    "damage_coverage": "Joanna: 'we will also include other features like our no worries damage coverage which would give you up to $2,000 coverage for any accidental damages, unlike our competitors, usually they'll just offer the statement data 60\u00a2 per account per item but with us, we already include that $2,000 insure coverage for any for your move.' [Covers $2,000, built into rate (not add-on), and contrasts with competitor fine-print \u2014 'no fine print' framing is implicit via the competitor comparison.]",
+    "closes_the_loop": "No explicit loop-close question. Joanna moves directly from two-promises framing into customer's unprompted objection.",
+    "final_concerns_check": "Not asked. Call ends after customer raises price objection; no section 6 check-in for 'What's still concerning you about this move?'",
+    "explicit_ask": "Never asked. Customer says 'I think I got an idea it's kind of on the expensive side so obviously I'm talking to other, other people as well for the quote. So but yeah, thank, thank you for the update and we can stay connected if I decide to move, move with you guys.' Joanna responds 'No problem, I understand of course, and yup thank you so much for considering us for this move.' No explicit ask for the business (e.g., 'Would you like our help with your move?').",
+    "rate_lock_mentioned": false,
+    "booking_confirmed": "None. Call ends without any booking confirmation (date, phone, arrival window, crew size, addresses, or notes)."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details (property type, floor/stories, bedroom count, office, parking, packing preference, box estimate, destination details) and delivered a clear, anchored, personalized pricing range ($2,890\u2013$3,650) with transparent hourly rates and fee structure.",
+  "coaching_note": "Critical miss: the customer's 2,200 sq ft home met the 1,800+ threshold for virtual walkthrough routing in Section 1, but Joanna offered it as optional and pivoted straight to pricing when declined\u2014hold the walkthrough requirement and don't quote on the initial call for homes this size. Also, never end a quote without asking 'Does that feel fair?' and holding silence, and always close with an explicit ask ('Would you like our help?') before hanging up."
+}

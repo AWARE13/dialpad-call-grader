@@ -1,0 +1,43 @@
+{
+  "call_id": "5925622541230080",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 8.6,
+  "datetime_ct": "2026-09-30 14:35 CT",
+  "external_number": "+19726326058",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 5,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never delivers the time-boxed framing ('10 to 15 minutes') and promise of a dependable quote before diving into probing. Instead jumps directly to 'do you have any top of mind concerns or questions I can kick us off with?'",
+    "discovery_basics": "Rep asks for moving day ('October 11th' \u2014 already known from inbound), partial route (destination mentioned as 313 cherry spring drive), but never explicitly confirms originating city or asks for home size upfront in Section 1.",
+    "their_agenda": "Asked after probing has already started. Rep begins asking detailed furniture questions ('speaking of the furniture, so what are those items') before framing the call or asking the genuine agenda question.",
+    "two_layers_deep": "Customer raises concerns (only moving furniture, timing, wife may not like the rate, fear of forgetting items). Rep follows up on each: 'what are those items?', 'will you need us to disassemble?', 'what kind of couch?', 'are the office desks coming?', 'will you need us to disassemble those?', parking access question. Multiple layers of detail gathered on each item.",
+    "active_listening_reflection": "No summary reflection offered. Rep acknowledges concerns but never reflects back 'So what I'm hearing is X, Y, and Z. Did I get all of it?'",
+    "estimate_anchor": "Range provided ($515\u2013$721) and time range (2.5\u20133.5 hours), but personalization is minimal \u2014 rep notes 'if these are the only items you know we're moving' but doesn't tie the estimate to their specific concerns (timing, wife's budget sensitivity, minimal furniture load).",
+    "pricing_framing": "Partial. Rep states 'includes all the taxes, the insurance, the travel, everything, so there's no hitten fees, it's just that flat rate' (fee transparency). Missing explicit 2.5-hour-minimum and 15-minute-increments commitment framing.",
+    "feels_fair_then_silence": "Never asked. Rep moves directly from pricing into 'Alright. And then also to note the things that also come in an hourly rate\u2026' with no pause for customer reaction.",
+    "on_time_guarantee_delivered": "Full. Rep states: 'The on time guarantee if for whatever reason we don't arrive within the window then money is automatically you do it off of your checkout' \u2014 covers discount/credit framing.",
+    "damage_coverage_delivered": "Partial. Rep mentions '$2,000 for any kind of incidentals' but does not explicitly state 'no deductible' or 'no fine print' \u2014 only says 'that's nice as well.' Missing the no-deductible/no-fine-print framing required for full credit.",
+    "closes_the_loop": "No. Rep does not ask a version of 'Does that put those to rest?' after delivering the Two Promises.",
+    "final_concerns_check": "Not asked. Rep moves to booking ('Did you want to go ahead and get that truck scheduled?') with no genuine final concern check \u2014 no version of 'What's still concerning you about this move?'",
+    "catch_all_asked": "No. Rep never asks 'Anything coming with you we haven't talked about?' or equivalent.",
+    "explicit_ask": "With out. Rep asks 'Did you want to go ahead and get that truck scheduled?' but customer responds with 'Yeah, go ahead and reserve it if I have to if we, if we decide to cancel it cause my wife doesn't like the rate I'll just call you back.' Rep provides an easy cancellation out ('you could reply to the email or give us a call') rather than confirming a firm commitment.",
+    "rate_lock_mentioned": "True. Rep states: 'It's free to reserve the truck. If you need to cancel it if you need to move it we don't have additional fees for that either that's free.'",
+    "booking_confirmed": "Partial. Rep confirms date (Sunday, October 11th), time window (8:00\u20138:30 AM), destination (313 cherry spring drive, one-story house), and crew size (two movers implied). Missing explicit confirmation of phone number, origin address (1621 apartment 521 mentioned but never re-confirmed in booking), and no notes left with the crew about customer concerns (timing, minimal furniture, wife's budget sensitivity)."
+  },
+  "top_strength": "Rep executed thorough two-layer probing on every furniture item and access detail, gathering specific information (bed frame type, couch configuration, desk disassembly, gate code) that directly informed a more accurate estimate.",
+  "coaching_note": "Section 1 must open with the time-boxed, dependable-quote quid pro quo framed and confirmed before any probing begins \u2014 you jumped straight into furniture questions, which moved their-agenda later and cost structure clarity early."
+}

@@ -1,0 +1,38 @@
+{
+  "call_id": "4871327153692672",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 6.3,
+  "datetime_ct": "2026-10-04 18:26 CT",
+  "external_number": "+13374923012",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 0,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'this could take five to ten minutes of your time' but never frames the promise of a dependable quote or asks for confirmation before proceeding.",
+    "their_agenda": "Asked after extensive probing \u2014 rep asks 'do you have any concerns about the moving process' only after collecting logistics details, not before.",
+    "two_layers_deep": "Customer raises 'How many movers would it be?' and 'what's the travel fee tied into the hour per hour?' \u2014 rep answers but does not dig deeper with follow-up questions like 'tell me more about that concern.'",
+    "active_listening_reflection": "No summary reflection. Rep does not say 'So what I'm hearing is...' or confirm what concerns were heard.",
+    "estimate_anchor": "Rep gives a typical range ('normally for a one bedroom apartment we finishes at three and a half hours') and personalizes to drive time ('the drive time in between the location could be between one hour to one and a half depending on the traffic'), arriving at '$770 to $960.'",
+    "pricing_framing": "Travel fee ($105), hourly rate ($190 for two movers), minimum (2.5 hours), and increment (15 minutes) all disclosed. 'No hidden fees of any type' stated explicitly.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or similar validation question. Customer volunteers 'God damn. Yeah, that's a lot. Okay, I didn't expect that much' \u2014 objection surfaces but is not solicited or handled.",
+    "on_time_guarantee": "Not mentioned at any point in the call.",
+    "damage_coverage": "Not mentioned at any point in the call.",
+    "final_concerns_check": "Rep asks only 'Anything else before I let you go?' \u2014 a throwaway close with no substance.",
+    "explicit_ask": "Rep never asks 'Would you like our help with your move?' or any variant. Call ends after customer says 'Never mind' in response to the price."
+  },
+  "top_strength": "Rep gathered all seven logistics details systematically (property type, floor, rooms, walking distance, special items, TV size, storage specs, parking distance) and disclosed pricing structure transparently with no hidden fees.",
+  "coaching_note": "Section 1 must open with the quid pro quo framing and wait for a yes before probing; Section 2's 'concerns' question must come before logistics details, not after; and when the customer objects to price, dig in with follow-up questions rather than letting the call end \u2014 the explicit close and Two Promises were never reached."
+}

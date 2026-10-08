@@ -1,0 +1,43 @@
+{
+  "call_id": "5834663388291072",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 11.2,
+  "datetime_ct": "2026-09-30 15:31 CT",
+  "external_number": "+12104261947",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 54,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Jeline: 'let me just ask am I speaking with Patrice? Alright ma'am, let me just confirm and ask you questions regarding this move and this might take ten to fifteen minutes of your time, if that's okay?' \u2014 framing present but rushed past, no real wait for affirmative before moving into logistics confirmation.",
+    "their_agenda": "Never asked. Rep jumps directly into confirming existing information (moving date, prior service) and gathering logistics without asking what customer's biggest concerns or goals are for this move.",
+    "logistics_details_gathered": "Property type (one bedroom apartment), floor/stories (third floor), number of rooms (one bedroom), walking distances (pickup: less than 20 feet to stairs, then 3 apartments down; dropoff: drive right up to storage door), additional rooms (none), special considerations (stairs only access at pickup, climate controlled storage at dropoff), additional stops (none). All seven items covered.",
+    "box_count_asked": "Jeline: 'Normally ma'am, for a one bedroom apartment we see fifteen to 25 boxes. Do you think you would fall within that range?' Customer responds ~25 plastic bins. Jeline confirms: 'just to confirm ma'am, only plastic bins, no moving boxes.'",
+    "estimate_anchor": "Jeline: '$1,192 per hour for two movers... minimum of two and a half hours... that would cost $550. So this includes the travel fee and the hourly rate.' \u2014 Range and typical anchor provided, but no personalization to this customer's specific move (light load, stairs, prior experience, or stated concerns about heat/timing).",
+    "pricing_framing": "Jeline: 'everything is included a gas and truck taxes, insurance all the wraps and pads... travel fee of $70, but that's only a one time fee... minimum of two and a half hours... time is prorated in fifteen minute increments.' \u2014 Fee transparency and 2.5-hour minimum/15-minute increments fully disclosed.",
+    "feels_fair_then_silence": "Never asked. After stating '$550,' Jeline immediately transitions to 'Would you like to be on the schedule for Monday October 12th?' with no check on customer's reaction to price.",
+    "on_time_guarantee": "Never mentioned.",
+    "damage_coverage": "Never mentioned.",
+    "closes_the_loop": "No. Neither guarantee was delivered, so no closing question.",
+    "final_concerns_check": "Not asked. No version of 'What's still concerning you about this move?' appears in the call.",
+    "catch_all_asked": "No. 'Anything coming with you we haven't talked about?' never asked.",
+    "explicit_ask": "Never asked. Jeline says 'Would you like to be on the schedule for Monday October 12th?' \u2014 this is a booking confirmation question, not an explicit ask for the business. The customer volunteers 'Yes, I would Jaylee please' but the rep never asks 'Would you like our help with your move?' or equivalent.",
+    "booking_confirmed": "Partial. Confirmed: date (October 12), arrival window (8:30\u20139:00 AM, adjusted from 8:45\u20139:15 AM per customer request), addresses (pickup and dropoff), and phone implied via confirmation email. Missing: crew size (not stated), phone number (not collected for direct contact), crew notes about customer's stated concerns (heat sensitivity, preference for early morning, traffic avoidance never documented in crew notes). Jeline mentions confirmation email will have 'date and time, the addresses, and the contact information' but crew briefing on customer's heat/timing concern is absent."
+  },
+  "top_strength": "Jeline thoroughly gathered all critical logistics details (property type, floor, distances, storage facility access) and confirmed box count clearly, creating an accurate picture of the move without confusion.",
+  "coaching_note": "You skipped 'Their Agenda' (Section 2) entirely \u2014 never asked what customer's biggest concerns or priorities are \u2014 which cost you the chance to address them proactively and made the call feel transactional; also never delivered the Two Promises (On-Time Guarantee and Damage Coverage) and never asked 'Does that feel fair?' after pricing, leaving the customer without key confidence drivers."
+}

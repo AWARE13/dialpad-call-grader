@@ -1,0 +1,43 @@
+{
+  "call_id": "5875319330611200",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 14.8,
+  "datetime_ct": "2026-09-30 16:42 CT",
+  "external_number": "+15126579616",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 7,
+  "total_score": 77,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep said 'That should take about five to ten minutes then he'll be able to build an accurate code you can depend on, sounds good' \u2014 framing present but stated as five to ten minutes (not the script's ten to fifteen), and the rep did wait for a yes before continuing. Partial because time-box slightly off and 'code' appears to be a misstatement for 'quote.'",
+    "discovery_basics": "Name (Jeremia Goree), moving day (Friday), route (Cedar Park to storage at 78747, with secondary stop to house on Laughlin Lane), size (1528 sq ft, single story, one-bedroom equivalent).",
+    "their_agenda": "Asked 'What are your biggest concerns or any is there any important things that you wanted to answer during this call today?' \u2014 but this came after the rep had already asked 'what are removing are we moving has an appointment?' and stated the property type. Technically probing had begun.",
+    "packing_services_offered": "Rep asked 'Do you need help in packing?' and customer declined.",
+    "box_count_asked": "Rep asked 'And how many number of boxes are we moving?' Customer answered 'Maybe a dozen.'",
+    "estimate_anchor": "Rep provided: 'typical one story house would normally takes two movers between six to eight hours'; then personalized: 'in your case... less than an hour away... only unloading two items... estimated time is between five and a half to six and a half hours estimated cost... would be $1,518.' Both anchor and personalization present.",
+    "pricing_framing": "Trip fee ($75) disclosed upfront. Rate framing ($104/hr per mover), 2.5-hour minimum, fifteen-minute increments, and 'no hidden fees of any type' all stated. Both present.",
+    "feels_fair_then_silence": "Rep never asked 'Does that feel fair?' After pricing, jumped directly to availability and rate-lock messaging.",
+    "on_time_guarantee_delivered": "Rep stated: 'if you cannot make it to the time window that we arrange, we immediately start discounting money of your final bill.' Covers discount terms in recognizable form.",
+    "damage_coverage_delivered": "Rep stated: 'we have no worry damage coverage included on the already rate... We will provide up to 2000 dollars per move... to repair, replace and reimbursed for your items.' Covers $2,000, included in rate (no add-on), and no mention of deductible. Full delivery of the promise.",
+    "closes_the_loop": "Rep never asked 'Does that put those to rest?' or equivalent. No loop-closing after the Two Promises section.",
+    "final_concerns_check": "Rep did not ask 'What's still concerning you about this move?' or any variant. No final concerns check occurred.",
+    "explicit_ask": "Rep asked 'that said it actually believe that we the best move-in town would you like our help with your move' \u2014 plainly asked with no softening or out offered. Garbled phrasing but unmistakably an explicit ask.",
+    "booking_confirmed": "Customer declined the move ('I'm gonna have to pass') citing price. Rep offered to email the quote; customer agreed. No booking details were confirmed because no booking was made. Partial credit at best would apply only if a booking had been attempted; here it is none."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details across three stops (origin, secondary destination, storage) including property type, parking, access concerns, item specifics, walking distances, and storage specifications \u2014 full discovery picture for accurate quoting.",
+  "coaching_note": "Rep needs to pause after stating the estimate and ask 'Does that feel fair?' with genuine silence before moving forward; this anchors customer buy-in and creates space for objections rather than losing the deal to sticker shock without attempting recovery."
+}

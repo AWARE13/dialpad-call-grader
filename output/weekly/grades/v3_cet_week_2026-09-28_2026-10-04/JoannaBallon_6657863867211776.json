@@ -1,0 +1,38 @@
+{
+  "call_id": "6657863867211776",
+  "rep_name": "Joanna Ballon",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 12.7,
+  "datetime_ct": "2026-09-28 21:51 CT",
+  "external_number": "+18327947654",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 3,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 0,
+  "total_score": 32,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'It might take about ten to fifteen minutes if this is a good time.' Customer confirms 'Sure, yeah' but rep rushes past without explicit time-boxed framing or dependable-quote promise.",
+    "their_agenda": "Joanna: 'do you have any important concerns or instructions for this move aside from the pricing that you want me to discuss on this call as well?' \u2014 asked only after collecting email, name, moving date, and initial logistics.",
+    "two_layers_deep": "Customer raises concern: 'because I don't have the location where I'm moving so, you know, that location might change.' Joanna acknowledges but does not dig deeper with follow-up questions like 'tell me more about that' or explore the impact.",
+    "active_listening_reflection": "No summary reflection given. Joanna moves directly into address collection without reflecting back what she heard about the location uncertainty.",
+    "estimate_anchor": "Joanna provides hourly rate ($95/hour for one mover, $190 for two), overnight fee ($240), transportation fee ($2,161), and total estimate ($4,205) with reasoning tied to customer's move specifics (one bedroom, 600 sq ft, travel time to Houston).",
+    "pricing_framing": "Joanna discloses overnight fee ($240) and transportation fee ($2,161) upfront. She explains hourly billing and what's included. She mentions '2.5 to 3.5 hours' for typical one-bedroom local moves and driving time estimates.",
+    "feels_fair_then_silence": "Joanna asks 'do you have any questions so far?' twice but never asks 'Does that feel fair?' and does not hold silence for reflection \u2014 she immediately fills by offering to send email or asking for more questions.",
+    "on_time_guarantee": "Never mentioned.",
+    "damage_coverage": "Never mentioned.",
+    "explicit_ask": "Joanna never asks 'Would you like our help with your move?' or any direct ask for the business. Call ends with 'Alright, thank you so much as, see you later and have a good day' \u2014 a polite goodbye without a booking question.",
+    "booking_confirmed": "No booking details confirmed. No date locked in (only a range Oct 25\u201331 and a sample date of Oct 29). No confirmation of phone, arrival window, crew size, or crew notes. Joanna ends by saying she'll send the email and says goodbye without any closing sequence."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details (bedroom count, floor, square footage, furniture list, parking distance, destination city and zip code) and gave a fully anchored, transparent estimate with clear itemization of hourly rates, fees, and driving time included.",
+  "coaching_note": "You must deliver both Two Promises (On-Time Guarantee and No Worries Damage Coverage) before the ask for the business, and you must ask an explicit closing question\u2014'Would you like our help with your move?'\u2014and confirm booking details (date, phone, address, crew size, arrival window) before ending the call; this call ended with no ask and no booking at all."
+}

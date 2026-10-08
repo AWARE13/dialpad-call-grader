@@ -1,0 +1,43 @@
+{
+  "call_id": "5178688239083520",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 18.1,
+  "datetime_ct": "2026-10-01 17:43 CT",
+  "external_number": "+17135188848",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 3,
+  "total_score": 62,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never says: 'This will take about 10 to 15 minutes, and you can walk away with a quote you can depend on. Does that sound good?' Instead jumps directly into checking availability and asking for email.",
+    "their_agenda": "Never asked. Customer raises price concern ('what's the best rate you can give me') but rep does not ask 'other than price, what are your biggest concerns about this move?' \u2014 concern emerges organically, not by design.",
+    "logistics_details_gathered": "Property type (salon), floor (second, with elevator), truck parking distance, pickup address (4059 West Timer Road 77027), dropoff address (5559 Holly Springs Drive 77056), distance (approx 3 miles), item inventory (massage equipment, trolleys, bins, table, chair, mini fridge, small tables), special handling notes (items on rollers, require careful movement), and equipment types (melt machine, panel machine, skin-tightening equipment). All seven logistics categories covered.",
+    "estimate_anchor": "$190 per hour for two movers and one truck; $475 for 2.5-hour minimum (anchored to home size and service level); upper range $665 (personalized: 'just in case something comes up').",
+    "pricing_framing": "Trip fee/overnight fee: not disclosed. Two-hour minimum: 'we do have a two and a half hour minimum once we go over that minimum and the rate is prorated in fifteen minute increments.' Not-a-guess framing: absent. Rate transparency present ('everything's included in the hourly rate \u2014 fuel, trucks, taxes, insurance, all wrap pads and bands and protect items'). Partial: one framing element (all-inclusive rate) present, not-a-guess and minimum commitment stated but not framed as 'not a guess.'",
+    "feels_fair_then_silence": "Never asked. Customer objects to price ('Oh my god! Okay, you guys have gone up a lot') and rep pivots to justification and comparison shopping ('you're more than welcome to shop around and then get back to us'), no 'Does that feel fair?' prompt.",
+    "on_time_guarantee_delivered": "Fully stated: 'we have that on time guarantee so, hopefully we arrive in that time or how we start immediately discounting money of your final bill. The way the clock works is the time starts as soon as we get on site.'",
+    "damage_coverage_delivered": "Fully stated: 'we do have that free value evaluation coverage included in the hourly rate that provides up to $2,000 per move to repair, replace or reimburse for accident.' Frames as built-in ('included in the hourly rate'), no deductible/fine-print language present.",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or equivalent closing question. Instead moves directly to 'you're more than welcome to shop around' after stating the two promises.",
+    "final_concerns_check": "Asked as: 'besides those equipment on rollers, that are super fragile. Do you have any other questions or concerns? You won't answer it on the call.' This is a narrow, throwaway version that presupposes the concern (equipment fragility) rather than a genuine open 'What's still concerning you about this move?' Customer responds with a price/timing concern, not addressing the narrow frame.",
+    "catch_all_asked": "Never asked. No 'Anything coming with you we haven't talked about?' or equivalent.",
+    "explicit_ask": "Never asked. Conversation ends with rep saying 'I will go ahead and reach out to the branch manager and then I will go ahead and send you this email and then I'll text you and let you know what he says.' No plain 'Would you like our help with your move?' Customer says 'Let's go ahead and put it' (takes the initiative), but rep does not explicitly ask.",
+    "rate_lock_mentioned": "'there's no deposit required to get on our schedule either so there's no risk and secure in your spot and there are no charges or fees for changing the date or canceling as well.'",
+    "booking_confirmed": "Date (Tuesday, the sixth) confirmed. Phone number: not confirmed. Arrival window (closer to 3:00 p.m., pending branch manager approval, 1:00 to 3:00 window stated) confirmed with notes. Crew size (two movers, one truck) stated but not explicitly confirmed as booked. Addresses (4059 West Timer Road, 5559 Holly Springs Drive) confirmed. Notes for crew about equipment fragility and client schedule constraint present. Missing: phone number. Partial."
+  },
+  "top_strength": "Excellent logistics probing\u2014rep gathered comprehensive detail on equipment types, handling requirements, floor access, parking, and dropoff constraints, and organized notes for the crew about fragile items and time-sensitive client schedule.",
+  "coaching_note": "Never asked for the business explicitly ('Would you like our help with your move?')\u2014customer drove the close themselves; also skipped quid-pro-quo framing, their agenda discovery, 'Does that feel fair?' after price, and the final genuine concerns check, leaving multiple structural gaps in the call script."
+}

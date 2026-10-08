@@ -1,0 +1,33 @@
+{
+  "call_id": "5137369292644352",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 7.6,
+  "datetime_ct": "2026-09-29 15:14 CT",
+  "external_number": "+15127401205",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 86,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "discovery_basics": "name (Rob Fields), moving day (October 1st), city-to-city route (8807 Bra Crest Drive, San Antonio to 14925 Moss Glen, San Antonio), approximate size (2800 sq ft primary, 1300 sq ft destination)",
+    "their_agenda": "Asked late, after extensive probing: 'Okay, are we downsizing?' followed by logistics review. No explicit 'what are your biggest concerns' framing.",
+    "walkthrough_branch": "Rep correctly identified 2800 sq ft home qualifies for virtual walkthrough and offered it: 'normally based on your home size, we do a virtual walkthrough... Do you have time to complete the virtual walk through today?'",
+    "logistics_details_gathered": "Property type (2-story, 1-story), bedrooms (2, 2), rooms (kitchen noted), walking distance (20 feet), access concerns (flat, driveway parking confirmed), special items (washer/dryer, fridge), box count (25 boxes), downsizing status confirmed",
+    "box_count_asked": "'the total number of boxes that we're moving would be $45' (miscommunication, then clarified to 25 boxes)"
+  },
+  "top_strength": "Rep thoroughly gathered all logistics details and correctly identified and offered the virtual walkthrough for a 2,800 sq ft home, then properly pivoted to a photo/video submission process when customer couldn't do real-time walkthrough.",
+  "coaching_note": "Section 1 is missing the quid pro quo framing entirely \u2014 rep jumped straight into problem-solving (rain question) and logistics probing without time-boxing the call or getting explicit buy-in before asking discovery questions."
+}

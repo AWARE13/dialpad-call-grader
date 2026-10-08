@@ -1,0 +1,32 @@
+{
+  "call_id": "5108237468999680",
+  "rep_name": "Arden 2Asilo",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 10.1,
+  "datetime_ct": "2026-09-29 15:31 CT",
+  "external_number": "+19729786141",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 6,
+  "total_score": 68,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "in order for us to get a personalized or on target estimate I need to ask few questions that might take ten to fifteen minutes. Would that be fine? [customer: Yes]",
+    "their_agenda": "other than the price, is there any, what are your biggest concerns about this move that you would want answers on within this call?",
+    "two_layers_deep": "Customer says 'nothing major because it's a very small move' and lists items (washer/dryer, table, aquarium). Arden asks 'when you mentioned items in the garage, the items in the garage are one bedroom worth, two bedroom worth?' but does not dig deeper into why these concerns matter or press for underlying worries beyond the inventory list itself.",
+    "estimate_anchor": "a typical one bedroom worst apartment usually takes two movers between two and a half to three and a half hours to be moved ma'am. In your case... I'm estimating them will take only around two and a half to three and a half hours. So it's good to budget an overall of $545.63 to $763 for the move.",
+    "explicit_ask": "do you want our help with the move, ma'am?"
+  },
+  "top_strength": "Arden delivered a complete and transparent pricing explanation covering hourly rate, all inclusions, the $2,000 damage coverage with zero deductible, on-time guarantee, and the two-and-a-half-hour minimum with 15-minute increments \u2014 building confidence in the offer before asking.",
+  "coaching_note": "After the customer's initial concern (\"nothing major, small move\"), Arden shifted immediately to inventory probing instead of asking clarifying follow-ups like \"tell me more about why the washer/dryer and aquarium are your main focus\" \u2014 missing the chance to uncover real anxieties or decision drivers that could have personalized the pitch further."
+}

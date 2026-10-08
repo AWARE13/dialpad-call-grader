@@ -1,0 +1,33 @@
+{
+  "call_id": "6003468117778432",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 7.8,
+  "datetime_ct": "2026-10-04 17:09 CT",
+  "external_number": "+19794502276",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "discovery_basics": "When are you planning to move from? / So I was looking to move on the nineteenth / moving from south Austin to Cedar Park / It is 1800 square feet",
+    "walkthrough_branch": "I'm gonna transfer your call to a moving specialist that can give you more accurate code [call routed to specialist for home at exactly 1800 sq ft threshold]",
+    "quid_pro_quo": "[Never framed: no time-box statement, no 'quote you can depend on' promise, no wait for customer yes before pivoting to profile-building]",
+    "their_agenda": "[Never asked. Rep moved directly into name/contact collection and then to pricing ballpark without eliciting concerns or priorities]",
+    "logistics_details": "Property type (home), floors (two story), bedrooms (three), garage (mentioned). Missing: walking distance, additional rooms beyond bedroom count, special considerations, additional stops."
+  },
+  "top_strength": "Rep correctly identified the 1,800 sq ft threshold and routed the call to a moving specialist for a virtual walkthrough rather than attempting to quote on the phone, following the script's walkthrough-scheduler protocol.",
+  "coaching_note": "Section 1 skipped the quid pro quo framing entirely\u2014establish the 10\u201315 minute time-box and 'quote you can depend on' promise before collecting details, and pause for customer confirmation before moving forward; also gather concerns (Their Agenda, Section 2) before jumping to logistics and pricing ballparks."
+}

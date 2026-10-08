@@ -1,0 +1,39 @@
+{
+  "call_id": "4818015813410816",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 15.3,
+  "datetime_ct": "2026-10-03 21:07 CT",
+  "external_number": "+19569849131",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skipped the framing entirely \u2014 moved straight into 'So here at... We charge an hourly rate' with no time-box, no promise of a dependable quote, no wait for a yes.",
+    "their_agenda": "Never asked. Rep went directly into logistics probing: 'So here at... may I know the distance from the parking to the elevator.'",
+    "estimate_anchor": "Rep gave hourly rate ($230/hr for two movers), scope (2.5-hour minimum), and personalization: 'So for your move I will only estimate this to be on the minimum of 2.5 hours... for two and a half hours for two movers this is $575.' Also disclosed fee structure upfront (no hidden fees, all included).",
+    "pricing_framing": "Full \u2014 disclosed hourly rate, included services (gas, truck, taxes, insurance, wraps, pads, tools), no hidden fees ('no hidden fees of anytime'), 2.5-hour minimum, 15-minute increments mentioned explicitly.",
+    "feels_fair_then_silence": "Not asked at all. After quoting $575, rep immediately pivoted to 'Well, the only promotions on going right now is if you're gonna book this on a weekday' with no pause or fairness check.",
+    "on_time_guarantee_delivered": "Never mentioned.",
+    "damage_coverage_delivered": "Never mentioned.",
+    "final_concerns_check": "Throwaway version \u2014 'do you have any questions?' Rep did not ask a genuine version like 'What's still concerning you about this move?'",
+    "explicit_ask": "Never asked. Rep moved directly to scheduling: 'So would you like to secure your schedule now for October 10th?' \u2014 a scheduling question, not an explicit ask for the business ('Would you like our help with your move?').",
+    "booking_confirmed_partial": "Partial \u2014 rep confirmed date (Sunday October 11th), arrival window (9:00 AM to 9:30 AM), pickup address (11119 Altera Parkway, unit 1431), drop-off address (12506 North Lemar Boulevard, storage unit, first floor, 10x10), and email. Missing: phone number confirmation, crew size, and crew notes about customer concerns. No concerns were raised to document for the crew."
+  },
+  "top_strength": "Rep gathered all logistics details cleanly (property type, floor/stories, rooms, parking distance, storage unit specs) and provided a fully transparent estimate with pricing framing, fee disclosure, and hourly-rate anchoring.",
+  "coaching_note": "Add the opening quid-pro-quo framing ('This will take 10\u201315 minutes, you'll walk away with a quote you can depend on \u2014 does that sound good?'), ask their agenda before probing starts, deliver the Two Promises (On-Time Guarantee and No Worries Damage Coverage) before closing, and use an explicit ask for the business ('Would you like our help with your move?') instead of jumping straight to scheduling."
+}

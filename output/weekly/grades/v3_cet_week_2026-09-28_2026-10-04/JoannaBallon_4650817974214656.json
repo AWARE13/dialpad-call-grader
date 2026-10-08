@@ -1,0 +1,43 @@
+{
+  "call_id": "4650817974214656",
+  "rep_name": "Joanna Ballon",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 8.8,
+  "datetime_ct": "2026-09-28 14:33 CT",
+  "external_number": "+12819014355",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 42,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'in order for me to provide you a more personalized estimate I just need to ask you some questions about it might take about ten to fifteen minutes if this is a good time.' \u2014 time-boxed but no explicit promise of dependable quote or real wait for yes before continuing.",
+    "their_agenda": "Joanna: 'And then before we start do you have any special concerns or instructions for this move that you also want to discuss on?' \u2014 asked, but only after probing already began (moving dates, Friday/Saturday decision already discussed).",
+    "two_layers_deep": "Customer raises bed assembly concern; Joanna confirms it's included but does not dig deeper with 'tell me more about that' or explore what else concerns them. No follow-up on logistics concerns.",
+    "active_listening_reflection": "No summary reflection of concerns raised. Joanna acknowledges bed assembly but does not recap or confirm understanding of customer's full picture.",
+    "logistics_details_gathered": "Covered: moving date (Oct 23), same complex/different building, elevator access, walking distance (30 feet, up one floor), item list (couch, bed, coffee table, entryway table, two TVs, two desks, dresser, chairs, small items), box count (less than 15\u201325, noted ~50 lower range). Missing: property type detail (apartment confirmed but not room count beyond '1 bedroom to 2 bedroom'), floor/stories of each building clearly, additional rooms, special considerations beyond bed assembly.",
+    "packing_services_offered": "Not offered. Customer stated items will be packed; Joanna did not ask if they need help packing.",
+    "box_count_asked": "Joanna: 'And how about boxes typically will end up with fifteen to 25 boxes. Do you think you would just fall within that range?' \u2014 asked.",
+    "estimate_anchor": "Joanna: '$222 per hour...two men and everything we need is already included...minimum cost for this job is $555 considering that they'll be able to finish everything within two and a half hours.' Personalized by noting the walking distance factor and two-and-a-half-hour minimum for this specific move.",
+    "pricing_framing": "Joanna: 'taxes, insurance, credit card fees, all the reps to protect your items...assembly, reassembly that's all inclusive rates...no extra for fuel transportation, that's all inclusive as well...two and a half hour minimum. If we go over the minimum, we only charge in fifteen minute intervals.' Both trip/fee transparency and 2.5-hour minimum + 15-minute increments commitment present.",
+    "feels_fair_then_silence": "Joanna never asks 'Does that feel fair?' \u2014 customer immediately pivots to 'if you could send me that in an email and I'll let you know. I'm gonna shop around quotes first.' No pause or probe of the pricing reaction.",
+    "on_time_guarantee_delivered": "Joanna: 'at least on time guarantee. So if we run late, we provide discounts for your move' \u2014 discount framing present but vague on immediate discount terms (does not clarify 'starts discounting immediately' language).",
+    "damage_coverage_delivered": "Joanna: 'we also include our no worries damage coverage which would give you up to $2,000 coverage for any accidental damages...unlike our competitors, usually they'll just use the statement dated 60\u00a2 per pound, per Adam also.' \u2014 $2,000 coverage mentioned, no-deductible framing absent, no explicit 'built into the rate, not an add-on' statement.",
+    "closes_the_loop": "No closing ask like 'Does that put those to rest?' After Two Promises, Joanna immediately pivots to email/shopping around without confirming the customer's comfort with the guarantees.",
+    "final_concerns_check": "Joanna: 'Alright, thank you so much. Hay, have a good day, bye.' \u2014 no version of 'What's still concerning you?' or 'any questions?' asked at the end.",
+    "catch_all_asked": "Never asked.",
+    "explicit_ask": "Joanna never asks 'Would you like our help with your move?' Customer volunteers 'if you could send me that in an email and I'll let you know. I'm gonna shop around quotes first.' No explicit ask for the business."
+  },
+  "top_strength": "Joanna clearly explained the hourly rate structure, all-inclusive pricing, minimum charge, and 15-minute interval billing in a single coherent section, and correctly anchored the estimate ($555 minimum) to this specific move's time and walking distance.",
+  "coaching_note": "Never ask for the business (Section 7) \u2014 after pricing, Joanna pivots to email/follow-up without any version of 'Would you like our help with your move?' and misses the final concerns check (Section 6) entirely, ending the call abruptly."
+}

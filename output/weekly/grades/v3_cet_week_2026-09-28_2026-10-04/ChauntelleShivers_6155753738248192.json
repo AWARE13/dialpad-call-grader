@@ -1,0 +1,37 @@
+{
+  "call_id": "6155753738248192",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 9.1,
+  "datetime_ct": "2026-10-02 14:13 CT",
+  "external_number": "+12142443335",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'I was calling in regards to your possible move on October 22nd that you have about fifteen minutes to kind of run through those details with me' but never frames availability, promise of dependable quote, or waits for customer agreement before pivoting to probing.",
+    "their_agenda": "Rep asks 'So I will confirm a couple of details here for you and then before that do you have just any type of mind, concerns or questions?' \u2014 asked, but after already starting to probe details about the date and moving logistics.",
+    "two_layers_deep": "Customer raises concern about truck type/lift gate capability. Rep follows: 'Okay, perfect. And so what would those, what are those items looking like those heavy big ones.' Customer details the items (dresser, Chester drawers), rep asks 'Okay, and then the other contents that are in there, is it just like regular furniture or boxes, or is it just, those were the two special items?' \u2014 demonstrates two-layer probing on this concern.",
+    "estimate_anchor": "Rep delivers: 'So I'm estimating this move between two and a half to three so we have a minimum of that two and a half' and 'I do have an hourly rate of $194. Of course. That does include the two guys that includes the everything, the insurance taxes all of the load in everything. So no hidden fees there... all in we're looking at an estimate with that two and a half to three hours, around $485 to around $620 as like that range.' Anchored to home size and personalized to the lift-gate need and short distance.",
+    "pricing_framing": "Rep states 'we don't have any kind of fees deposits. None of that, it's free to reserve the truck. It's free to cancel the truck. It's free to move the truck around' and mentions the $194 hourly rate includes 'the insurance taxes all of the load in everything. So no hidden fees there.' No explicit mention of 2.5-hour minimum or 15-minute increments framing.",
+    "feels_fair_then_silence": "After quoting $485\u2013$620, customer says 'Yeah, yeah, that's yeah, that's right, okay' and immediately asks 'Okay. Beautiful and so I do have... Do you and you're, you're emailing that to me.' Rep never asks 'Does that feel fair?' or holds silence for customer reflection.",
+    "explicit_ask": "Rep never asks 'Would you like our help with your move?' or any equivalent explicit ask for the business. Instead, rep pivots to 'if you want to go ahead and reserve since that's free cause you can always cancel for free, but.' \u2014 customer deflects with 'This is like my first blush to, to me and we're not really, we're getting close to finishing the house' and rep accepts without re-asking. Call ends with rep saying 'I'm sending this email over to you' with no direct booking ask.",
+    "on_time_guarantee": "Not mentioned anywhere in the call.",
+    "damage_coverage": "Not mentioned anywhere in the call.",
+    "active_listening_reflection": "Customer raises multiple items (truck type, lift gate, heavy furniture, small safe, box count, lead time concerns). Rep never summarizes or reflects back the concerns heard. For example, after customer discusses the safe and lead-time question, rep responds with task-focused statements ('I got that. Okay, beautiful') but never says 'So what I'm hearing is...' or confirms the customer's overall picture."
+  },
+  "top_strength": "Chauntelle gathered comprehensive logistics details (storage unit dimensions, furniture inventory, box count, special items, access constraints) through persistent two-layer probing, building a solid estimate foundation despite skipping the formal agenda-setting step.",
+  "coaching_note": "Never asked for the business explicitly and skipped both Two Promises entirely (On-Time Guarantee and No Worries Damage Coverage), leaving money on the table and missing two critical differentiators that close deals \u2014 prioritize the full sales script structure, especially Sections 5 and 7."
+}

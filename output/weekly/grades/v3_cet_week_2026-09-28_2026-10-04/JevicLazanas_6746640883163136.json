@@ -1,0 +1,41 @@
+{
+  "call_id": "6746640883163136",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 20.6,
+  "datetime_ct": "2026-09-28 16:32 CT",
+  "external_number": "+19085772380",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 62,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Not present. Rep jumped directly into checking profile and asking about move date with no time-box framing or promise of a dependable quote.",
+    "their_agenda": "Not asked. Rep never asked 'Other than price, what are your biggest concerns about this move?'",
+    "logistics_details_gathered": "Rep covered property type (5th floor 1BR apt), floor/stories (5th to 13th), walking distances (10 feet from truck to elevator, 80 feet within building, 10-20 feet at destination), elevator reservation, parking, special items (walking pad, artwork, fireplace, TV, planters), and box count (20 boxes).",
+    "estimate_anchor": "Rep provided typical range for 1BR (2.5\u20133.5 hours), personalized to customer's move (5th floor with elevator, 13th floor destination, artwork requiring extra handling), and gave estimate of 4\u20135 hours resulting in $840\u2013$1,050. Later clarified it could be 3\u20134.5 hours.",
+    "pricing_framing": "Rep disclosed $210/hour rate (2 movers), 2.5-hour minimum, 15-minute increments, no hidden fees, fuel/tax/insurance/pads/tools included. No explicit fee transparency on trip fees or overnight fees at the outset.",
+    "feels_fair_then_silence": "Rep never asked 'Does that feel fair?' after pricing. Customer asked follow-up questions about traffic accounting and insurance coverage instead.",
+    "on_time_guarantee_delivered": "Rep stated: 'if we can't make it in the time window that we arrange which is the 8:30 AM to 9:00 AM window, then we immediately start discounting money of your final bill.' This covers the discount-on-lateness concept but lacks explicit 'starts discounting immediately if late' framing.",
+    "damage_coverage_delivered": "Rep delivered fully: '$2,000 per move...to repair, replace or reimburse for accidental damages' and contrasted with competitors' 60\u00a2/lb. However, no explicit 'no deductible, no fine print' or 'built into the rate, not an add-on' framing.",
+    "closes_the_loop": "Rep said 'Will there be anything else, Melissa?' but this is a throwaway check, not a 'Does that put those to rest?' close on the Two Promises section.",
+    "final_concerns_check": "Rep asked 'Will there be anything else, Melissa?' twice (at end of estimate discussion and before asking about contact method), both throwaway versions.",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' or any direct ask for the business. Call ended with administrative details (contact number, COI process) but no actual booking ask.",
+    "booking_confirmed": "Partial. Date confirmed (November 1st, 8:30\u20139:00 AM window), address confirmed (1621 East Sixth Street to 615 West Seventh Street), phone contact method discussed. Missing: crew size explicitly stated, no notes left about customer's concerns, no final 'you're booked' confirmation."
+  },
+  "top_strength": "Thorough logistics probing\u2014rep gathered detailed property info, walking distances, special items, box count, and elevator access across both locations, building a solid foundation for an accurate estimate.",
+  "coaching_note": "Never asked for the business; the call ended on administrative follow-ups (COI, contact number) without a single 'Would you like our help?' ask or a booking confirmation, leaving the sale unclosed despite a qualified, interested repeat customer."
+}

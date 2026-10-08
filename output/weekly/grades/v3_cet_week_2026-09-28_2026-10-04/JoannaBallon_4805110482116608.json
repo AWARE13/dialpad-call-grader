@@ -1,0 +1,42 @@
+{
+  "call_id": "4805110482116608",
+  "rep_name": "Joanna Ballon",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 10.0,
+  "datetime_ct": "2026-10-01 16:37 CT",
+  "external_number": "+19255743249",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 6,
+  "total_score": 63,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'this might take about ten to fifteen minutes. But if that's okay, this is a good time.' \u2014 framing present but rep doesn't wait for explicit yes, moves directly to next question",
+    "their_agenda": "Joanna (after probing started): 'do you have aside from the pricing which I will be discussing later, do you have any other concerns or important concerns about this call, this move that you also wanna take note of?' \u2014 asked after initial discovery already underway, not before logistics probing begins",
+    "two_layers_deep": "Shahid raises piano concern; Joanna: 'That's a good question. We actually do not move baby grand pianos.' Then later: 'for the items that you have mentioned, the electric piano is not like the regular upright piano... do you have like the estimated weight of that electric piano?' Shahid responds with detail (wife and he lifted it); Joanna follows: 'just of course anything that's coming from upstairs just take note that we cannot move anything over \u00a3300, okay?' \u2014 rep digs twice into the piano concern and clarifies weight/floor restrictions",
+    "active_listening_reflection": "No summary reflection of customer's concerns. Rep acknowledges ('I understand,' 'I got it') but never says 'So what I'm hearing is...' or similar restatement",
+    "logistics_details_gathered": "Property type (two story house, eighth-floor storage unit with elevator), rooms, walking distance (20 feet), additional rooms (storage facility), parking (driveway at house, unobstructed parking at storage), special considerations (heavy items, no items over 300 lbs from upstairs, electric piano, outdoor patio furniture)",
+    "estimate_anchor": "Joanna: '$95 per hour per mover so for two men it's $190 per hour' (rate anchored to move size); 'I'm just estimating it to be completed within the minimum of two and a half hours $475 but then again... I think it's best to just prepare for 22 and a half to three hours. So, that will be an estimated budget of $475 to $570' (personalized to customer's 6\u20137 items and wrapping time) \u2014 both present",
+    "pricing_framing": "Joanna: 'everything we need is already in that price, the two men and the truck, all the wrap to protect your furniture... no hidden fees of any type, no credit card fees, no sterle fees, no transportation fees all included in the price... two and a half hour minimum... we only charge in every fifteen minutes. So we don't charge you for the next hour right away.' \u2014 fee transparency and 2.5-hour minimum + 15-minute increments both covered",
+    "feels_fair_then_silence": "After estimate ($475\u2013$570), Joanna asks: 'Alright, now, if that's all good with you, would you like our help for this move on Wednesday?' \u2014 no 'does that feel fair?' phrasing, and immediately pivots to explicit ask without waiting for reaction to price",
+    "on_time_guarantee_delivered": "Joanna: 'on time guarantee we arrive, if we arrive late on the time that we schedule we provide discounts for your move.' \u2014 mentions the discount-for-lateness core but does not specify when discounts start or exact terms",
+    "damage_coverage_delivered": "Joanna: 'we also include our no worries, damage coverage which would give you up to... $2,000 coverage for any accidental damages already part of the service' \u2014 $2,000 and 'already part of the service' (built in, not add-on) stated, but no explicit 'no deductible / no fine print' framing",
+    "closes_the_loop": "Joanna: 'Alright, anything else?' \u2014 generic close, no 'Does that put those to rest?' or confirmation that the two promises answered customer's concerns; no tie-back to opening agenda",
+    "final_concerns_check": "Joanna: 'Alright, anything else?' \u2014 throwaway empty question, not 'What's still concerning you about this move?' or genuine version",
+    "explicit_ask": "Joanna: 'would you like our help for this move on Wednesday?' \u2014 plainly asked, no softening or built-in out",
+    "rate_lock_mentioned": "Not mentioned. Joanna states 'no deposit at this time' and 'payment is only upon completion' but never says the estimate is locked or guaranteed",
+    "booking_confirmed": "Joanna confirms: arrival time ('8:30 AM and 9:00 AM arrival'), date (Wednesday, October 7th implicit). Missing: phone number confirmation, crew size (mentioned 'two men' in pricing but not confirmed for this booking), addresses (mentioned earlier but not re-confirmed as part of booking), notes to crew about piano/weight concerns not documented"
+  },
+  "top_strength": "Rep thoroughly probed logistics (storage facility floor, elevator, parking, walking distance, weight restrictions) and gathered detailed item inventory, providing a solid foundation for an accurate estimate.",
+  "coaching_note": "Do not ask Their Agenda after probing has already started \u2014 move it to the very beginning, before any logistics questions, so you capture their top concerns first; and always use 'Does that feel fair?' with genuine silence before pivoting to the ask for the business."
+}

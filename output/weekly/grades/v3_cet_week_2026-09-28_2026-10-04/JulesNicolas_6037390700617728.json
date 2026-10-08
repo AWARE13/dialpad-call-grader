@@ -1,0 +1,41 @@
+{
+  "call_id": "6037390700617728",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 9.0,
+  "datetime_ct": "2026-10-02 14:45 CT",
+  "external_number": "+19728375506",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 37,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep jumps directly into \"This is the move starting 7150 Craig ranch parkway, right?\" with no time-boxing, promise framing, or wait for agreement.",
+    "their_agenda": "Never asked. Rep goes straight into logistics probing (\"Do you have anything kind of like oversized or heavy...\") without asking about concerns or goals.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer.",
+    "active_listening_reflection": "N/A \u2014 no concerns raised by customer.",
+    "estimate_anchor": "Rep gives range (\"$2,040 to $28,560\" with 5\u20137 hours, 4 guys, 2 trucks, $102/hour per mover, $408/hour for crew, 2.5-hour minimum) but does not personalize it to the customer's stated situation, prep level, or concerns.",
+    "pricing_framing": "Rep discloses the hourly rate ($102/person, $408 crew, 2.5-hour minimum) but does not frame the \"not a guess\" commitment or mention trip/overnight fees upfront.",
+    "feels_fair_then_silence": "Never asked. Customer volunteers comparison shopping and price sensitivity; rep does not ask \"Does that feel fair?\" or hold silence for response.",
+    "explicit_ask": "Rep never asks \"Would you like our help with your move?\" Instead, customer ends the call saying \"I'll get back to you in a couple of days via email\" and rep says \"My pleasure\" \u2014 no ask for the business.",
+    "on_time_guarantee_delivered": "Not mentioned.",
+    "damage_coverage_delivered": "Not mentioned.",
+    "rate_lock_mentioned": "Not mentioned.",
+    "booking_confirmed": "No booking details confirmed. Customer says \"week of the ninth\" vaguely; rep confirms \"Monday to Thursday is cheapest\" but does not lock in a date, time window, crew size, addresses, or notes for the crew. Call ends with customer saying she will email back."
+  },
+  "top_strength": "Jules gathered extensive logistics detail and itemization from the customer (furniture dimensions, special pieces, assembly needs, storage unit specifics, placement floors) with patience and acknowledgment, building a clear picture of the move.",
+  "coaching_note": "Section 1 is missing the quid pro quo framing entirely \u2014 jump straight into probing with no time-box or promise of a dependable quote; Section 2 skips their agenda completely; Section 7 never asks for the business, leaving the customer to volunteer a callback instead of a confirmed booking."
+}

@@ -1,0 +1,40 @@
+{
+  "call_id": "6232840074469376",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 10.0,
+  "datetime_ct": "2026-10-04 19:39 CT",
+  "external_number": "+18323594862",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 6,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep jumped directly into address confirmation and probing without framing the 10\u201315 minute call structure or asking for a yes before proceeding.",
+    "their_agenda": "Asked only after extensive logistics probing: 'Before this is the pricing structure, any estimates? Do you have any concerns about the moving process?' \u2014 this was asked mid-way through detail-gathering, not upfront.",
+    "two_layers_deep": "Customer raised concern about morning timing availability; rep answered with availability window but did not dig deeper into why mornings were necessary or what other concerns existed. No follow-up on the stated concern.",
+    "active_listening_reflection": "No summary reflection offered. Rep acknowledged concerns but did not reflect back what was heard.",
+    "estimate_anchor": "Anchor provided: 'normally for apartment your size we finishes at five and a half hours but in your case... I estimate this to finish in four and a half to five and a half hours. So the estimated cost for your move fusion is between $918 to $1,122.' Personalized to third-floor access and minimal boxes.",
+    "pricing_framing": "Full disclosure: '$204 per hour for two movers... everything is included... gas and truck taxes, insurance, all the wraps and pads... no den fees of any type no credit card fees, no terrible fees... no hidden fees... minimum of two and a half hour... prorated in fifteen minute inquires.' Clear fee transparency and commitment framing present.",
+    "feels_fair_then_silence": "Rep never asked 'Does that feel fair?' or equivalent. Moved directly into booking ask.",
+    "on_time_guarantee": "Never mentioned. Rep did not deliver the On-Time Guarantee or discount terms.",
+    "damage_coverage": "Never mentioned. Rep did not deliver the No Worries Damage Coverage or $2,000 coverage details.",
+    "closes_the_loop": "No recap of promises or confirmation that concerns are addressed. Rep moved straight to booking.",
+    "final_concerns_check": "Rep did not ask a genuine final concerns check. No 'What's still concerning you?' or equivalent before the close.",
+    "explicit_ask": "Full and clean: 'So with that, would you like to be on the schedule for October 9th... would you like to be on the schedule today?' Plainly asked, no built-in out.",
+    "booking_confirmed": "Partial. Confirmed: date (October 9th), time window (8:30 to 9:00 AM), both addresses (pickup and drop-off), unit number (52337). Missing: phone number, crew size not explicitly confirmed, and no mention of notes left for crew about customer concerns. Email confirmation mentioned but crew notes not addressed."
+  },
+  "top_strength": "Jeline gathered comprehensive logistics details systematically \u2014 property types, floor levels, walking distances, parking, secondary location, furniture inventory \u2014 and delivered a well-anchored, personalized estimate with full fee transparency in a confident, organized manner.",
+  "coaching_note": "Section 2 (Their Agenda and Two Layers Deep) and Section 5 (Two Promises) were both skipped entirely \u2014 ask for concerns before probing, follow up on them when raised, and always deliver the On-Time Guarantee and Damage Coverage framing, even on smaller moves; Section 4's 'Does that feel fair?' question is also missing and should come before the booking ask."
+}

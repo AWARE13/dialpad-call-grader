@@ -1,0 +1,39 @@
+{
+  "call_id": "6381586193096704",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 6.1,
+  "datetime_ct": "2026-09-29 18:21 CT",
+  "external_number": "+15302202060",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 57,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never says 'This will take about 10 to 15 minutes' or 'you can walk away with a quote you can depend on' or asks 'Does that sound good to you?' before diving into concerns.",
+    "their_agenda": "Asked after probing had started: 'Besides pricing, do you have any questions or concerns you would like answered on this call today?' \u2014 this comes after confirming phone/email but before the full probing sequence begins. Customer says 'No, just pricing,' so no concerns raised, making Two Layers Deep and Active Listening n/a.",
+    "estimate_anchor": "'Looks like that rate is $230 for two movers and 126 foot box truck. It typical move this size usually takes four to six hours. I believe that you would fall within that range between 4:00 and five. So, I would look to budget between $920 and $20.1150.' Also personalized to customer's prep level: 'the most important one is how well prepared you are when we get there, if you are able to consolidate things the boxes and even have the ability to take some of those smaller things over yourself in the car.'",
+    "pricing_framing": "Trip fee/overnight fees not disclosed. 2.5-hour minimum mentioned: 'we do have a two and a half hour minimum once we go over that minimum the time is prorated in fifteen minute increments.' No 'not a guess' framing used.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' \u2014 moves directly to the ask.",
+    "on_time_guarantee_delivered": "'we do have our on time guarantee we value your time. So we can't make it in the time window that we arrange. We immediately start discounting money of your final bill' \u2014 covers discount terms in recognizable form.",
+    "damage_coverage_delivered": "'we have our new worries damage coverage which is our free evaluation coverage included in the hourly rate provides up to $2,000 per move to repair, replace or reimburse for accidental damages.' Mentions $2,000 and 'included in the hourly rate' but does not explicitly state 'no deductible / no fine print' framing.",
+    "closes_the_loop": "No ask like 'Does that put those to rest?' after delivering the two promises.",
+    "explicit_ask": "'Would you like us to help you with that move on Saturday?' is followed immediately by customer hesitation and request to email quote. Rep then says 'Yup. I will send this over' \u2014 providing an easy out (email) without securing a yes first.",
+    "booking_confirmed": "Arrival time confirmed (8:39 AM Saturday the third), phone number confirmed (530-220-2060), addresses confirmed (10727 Domain Drive, unit 269 / 1807 Roseburg Drive). Missing: crew size confirmation, date re-confirmed as Oct 3, notes left for crew about customer concerns (customer had no stated concerns, but no catch-all asked to surface hidden concerns)."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details (square footage, floor/stories, bedroom count, elevator access, walking distance, box count) and provided a well-anchored, personalized estimate range ($920\u2013$1,150 for 4\u20135 hours) tied to customer prep level.",
+  "coaching_note": "Always lead with the quid pro quo framing ('10\u201315 minutes, quote you can depend on, does that sound good?') before diving into probing, and never offer an email-out immediately after the ask \u2014 wait for a genuine yes or explicit objection first."
+}

@@ -1,0 +1,42 @@
+{
+  "call_id": "5785253375680512",
+  "rep_name": "Nicole Tolete",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 9.7,
+  "datetime_ct": "2026-09-30 21:02 CT",
+  "external_number": "+18134864280",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 2,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 4,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 8,
+  "total_score": 52,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Nicole opens with 'do you have any specific concern or stresser' immediately, with no time-box framing or 'does that sound good?' confirmation. No recognizable quid pro quo present.",
+    "their_agenda": "Never asked. Nicole jumps directly to box count probing: 'do you have an estimate on how many boxes are we moving?'",
+    "two_layers_deep": "Not applicable \u2014 customer raised no concerns in Section 2 (answered 'no').",
+    "active_listening_reflection": "Not applicable \u2014 no concerns were raised for the rep to reflect back.",
+    "estimate_anchor": "Nicole provides both range and personalization: 'I will estimate this move to take around six to seven hours with four movers and two trucks' and '$2,654 to $3,038' based on 200 boxes and virtual walkthrough details.",
+    "pricing_framing": "Nicole discloses trip fee ($175 per truck), no hidden fees, 2.5-hour minimum, 15-minute increments, and fuel/insurance/tools all included. Both fee transparency and commitment framing present: 'we are a time based company. So you will still be charged for the total time consumed.'",
+    "feels_fair_then_silence": "Never asked. Nicole transitions directly to deposit/cancellation policy and then 'Would you like our help with your move?' without asking 'Does that feel fair?' or holding silence.",
+    "on_time_guarantee_delivered": "Fully delivered with discount terms: 'if we cannot make it in the time window that we arrange. We immediately start discounting money of your final bill.'",
+    "damage_coverage_delivered": "Partially delivered \u2014 mentions 'no worries, damage coverage. We provide up to $2,000 per move to repair, replace or reimburse for any accidental damages' but does not explicitly state 'no deductible / no fine print' or that it's built into the rate (not an add-on).",
+    "closes_the_loop": "No recognizable 'Does that put those to rest?' or equivalent closure asked. Nicole moves to 'Would you like our help?' without looping back.",
+    "explicit_ask": "Fully asked plainly: 'And would you like our help with your move?' \u2014 no built-in out.",
+    "rate_lock_mentioned": "Rate lock not explicitly mentioned. Nicole mentions 'no deposit required' and 'no fees for reschedule or cancel,' but does not reference rate locking.",
+    "booking_confirmed": "Partially confirmed. Nicole provides contact method (email reply or call 9 AM\u20135:30 PM daily) and mentions sending estimate to email, but does not confirm date, phone number, arrival window, crew size, addresses, or crew notes about customer concerns."
+  },
+  "top_strength": "Nicole delivered a clear, itemized estimate with a dual-truck/multi-mover setup, full pricing transparency including the travel fee, comprehensive service framing (wraps, blankets, tools, insurance, two promises), and handled complex mid-call logistics questions (clock-stop during closing, overnight hold option, double travel fee) with accurate, confident answers.",
+  "coaching_note": "Open with the quid pro quo framing ('10\u201315 minutes, dependable quote, does that sound good?') before any probing, ask their agenda before jumping to box count, and ask 'Does that feel fair?' with a genuine pause before moving to close \u2014 these three moves will anchor the call and give the customer space to voice concerns you can then dig into."
+}

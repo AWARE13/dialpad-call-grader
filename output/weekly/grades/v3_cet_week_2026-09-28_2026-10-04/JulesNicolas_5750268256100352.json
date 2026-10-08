@@ -1,0 +1,38 @@
+{
+  "call_id": "5750268256100352",
+  "rep_name": "Jules Nicolas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 5.2,
+  "datetime_ct": "2026-09-28 19:18 CT",
+  "external_number": "+14807487774",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 32,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep jumps directly into 'Do you already have a date' with no time-boxed framing or promise of a dependable quote. No version of the framing delivered.",
+    "their_agenda": "Never asked. Rep moves straight into logistics probing ('Can you think of anything oversized or heavy') without first establishing what concerns the customer has about the move.",
+    "estimate_anchor": "Rep gives the hourly rate ($194/hour for two guys) and mentions minimums/15-minute prorating, but does not anchor to a typical range for this type/size of job or personalize to the customer's stated prep or concerns.",
+    "feels_fair_then_silence": "Not asked. After quoting the rate, rep says 'I will book you right now' with no pause or check for customer comfort with pricing.",
+    "on_time_guarantee": "Not mentioned at all during the call.",
+    "damage_coverage": "Not mentioned at all during the call.",
+    "final_concerns_check": "Not asked. Rep does not ask 'What's still concerning you about this move?' or any variation before closing.",
+    "explicit_ask": "Never asked. Rep moves directly to 'I will book you right now for about five hours' without asking 'Would you like our help with your move?' Rep assumes the booking without an explicit ask.",
+    "booking_confirmed": "Rep confirms date (Wednesday 8:30\u20139 AM), estimates time (four to five hours), and acknowledges the move scope (first floor, inside to garage). Phone number and crew size not confirmed; no notes left for the crew about customer concerns (entry/dresser weight, drape handling)."
+  },
+  "top_strength": "Rep quickly recovered from a scenario mismatch (customer was an existing client with a completed move; rep found the profile and reframed appropriately) and confirmed availability and logistics without confusion.",
+  "coaching_note": "This call skipped nearly every core framework step \u2014 no quid pro quo open, no agenda discovery, no Two Promises, no genuine ask for the business. Treat each call as a full 15-minute opportunity to build trust and gather concerns, even when the scope is small or the customer is familiar."
+}

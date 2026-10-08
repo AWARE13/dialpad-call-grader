@@ -1,0 +1,38 @@
+{
+  "call_id": "5053377784619008",
+  "rep_name": "Joanna Ballon",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 22.9,
+  "datetime_ct": "2026-09-29 14:06 CT",
+  "external_number": "+18322331515",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 2,
+  "total_score": 57,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'It might take about ten to fifteen minutes but yeah, I'll send everything in your email as well after our call, okay?' \u2014 time-boxed but no explicit wait for yes before continuing into discovery.",
+    "their_agenda": "Joanna: 'And but before we start aside from the prices, do you have any important concerns for this move that you also want to discuss on this call?' \u2014 asked, but only after initial logistics probing (name, date, availability, day preference) had already begun.",
+    "two_layers_deep": "Customer: 'I've never hired a moving company to move me this far before.' Joanna: 'Oh, I see. Okay, no problem. As long as within Texas we should be able to help you out.' Then customer volunteers: 'Yes, yes. My daughter has, my daughter has used you in Austin.' Joanna validates. Then later: 'I'm 82 years old.' Joanna: 'Okay, no problem. We'll definitely help you with this one.' \u2014 Each concern (never hired movers for distance, age/packing need) is acknowledged and one follow-up is given, meeting two-layer threshold.",
+    "active_listening_reflection": "No summary reflection of concerns. Joanna acknowledges each item individually but never circles back with 'So what I'm hearing is...' or similar consolidation.",
+    "estimate_anchor": "Joanna: 'the first day might take nine to ten hours, of course, depending on traffic and then the following day we will unload everything in their new place and that one might just take two and a half hours, which is just our minimum. Okay... So that would be an estimated budget of $3,793. So that is for a total of $12 and a half hour job plus the transportation fee overnight fee and packing supplies.' \u2014 Estimate is anchored to home size (800 sq ft, 1 bedroom) and personalized to packing + overnight travel.",
+    "pricing_framing": "Joanna: 'we charge by the hour for all of our services... hourly rate of $95 per hour per mover... $190 per hour... All the wraps to protect your furniture, that disassemble and reassembly. As well as taxes, insurance, credit card fees. All of that is already included in the price... There are just three things that are outside of your hourly rate...' \u2014 Transparent fee disclosure. No explicit '2.5-hour minimum' or '15-minute increments' framing present.",
+    "feels_fair_then_silence": "Joanna never asks 'Does that feel fair?' \u2014 moves directly from estimate calculation into recap and email offer.",
+    "on_time_guarantee": "Not mentioned.",
+    "damage_coverage": "Not mentioned.",
+    "final_concerns_check": "Joanna: 'but for now I know that you're still looking at the dates for the move but of course do you think you're already ready for, to get our help for this move?' \u2014 This is a soft ask without genuine follow-up on remaining concerns. No version of 'What's still concerning you?' appears.",
+    "explicit_ask": "Joanna: 'do you think you're already ready for, to get our help for this move?' \u2014 Softened with 'do you think' and customer says 'I have to think about it.' Then Joanna: 'Of course we can save if ever we can remove the packing portion...' offering an easy out rather than a clean close."
+  },
+  "top_strength": "Joanna gathered exceptionally thorough logistics detail \u2014 property type, rooms, furniture inventory, appliances, collections, parking, special considerations \u2014 creating a rich picture for accurate quoting.",
+  "coaching_note": "Section 5 (Two Promises) and Section 6 (final concerns check) were entirely skipped; add the On-Time Guarantee and No Worries Damage Coverage before moving to the ask, and ask 'What's still concerning you?' rather than jumping to the soft close."
+}

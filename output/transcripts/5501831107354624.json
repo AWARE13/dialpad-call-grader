@@ -1,0 +1,789 @@
+{
+  "call_id": "6733599139471360",
+  "lines": [
+    {
+      "content": "Good afternoon, this is Joanna. How can I help?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:07:22.399976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:07:22.399976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:07:22.399976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:07:22.399976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:07:22.399976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:07:22.399976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:07:22.399976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:07:23.840976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:07:24.400976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Hi, I'm calling because recently submitted an inquiry online and I need some movers for tomorrow.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:07:26.016234",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "call_purpose",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:07:26.016234",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, may I please have your email address?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:07:36.199976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Yeah, it's Elizabeth CL 3111. @gmail.com.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:07:40.416234",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "contact_name",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:07:41.873234",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "ner",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:07:41.873234",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "pii",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:07:45.273234",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "email_address",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:07:48.033234",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, let me see one moment.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:07:49.999976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, just bear with me okay, and you already needed for tomorrow, is that right?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:08:02.599976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Okay.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:08:06.216234",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Yes.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:08:11.616234",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, let me just check our availability but you're moving from west William cannon drive in Austin, going to skyline drive in Austin as well, is that right?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:08:13.999976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:08:21.360976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:08:23.360976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Yes, that's correct.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:08:26.016234",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm may I please have the complete address in skyline drive?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:08:27.799976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Yeah.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:08:35.616234",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, so I can check. Yup, mm-hmm mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:08:42.799976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "So, the address is 1300 black spyglass drive.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:08:43.416234",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Apartment number 135 Austin, Texas, 78746.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:08:51.816234",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "ner",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:08:55.313234",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "postcode",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:08:56.993234",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, just to confirm it's 1300 spy glass, not skyline, correct? Spied glass drive. Mm-hmm, okay. Alright. Yup. Tomorrow. Let's see. Just one second. So it's just a one bedroom apartment. We actually don't have any availability at our nearest branch. But we do have a north branch as well but the pricing is just a little bit different. But I can also give it to you as well so if it works out then you can just let me know. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:08:59.599976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Yes.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:09:07.416234",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Okay, yeah, just let me know.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:09:38.016234",
+      "type": "transcript"
+    },
+    {
+      "content": "I'm sorry. Can you hear me?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:09:41.599976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Yes, I can hear you. Just let me know the price and I'll let you know if it works for me or not.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:09:46.416234",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup. Nope, we were going to do it for tomorrow. It's $208 per hour. That's already for the two men and the truck. So it's just the same hourly rate as our other branch. But the only difference is that there will be a one time transfer port fee of $150 if we will be doing it for tomorrow. But if your dates are flexible our nearest availability, our next availability rather would be Wednesday with our south branch. So that would be just the hourly transportation fee.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:09:51.199976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:09:57.040976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:10:08.400976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "And that would be.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:10:24.816234",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "That would be Wednesday the thirtieth, correct?",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:10:29.616234",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes. Yes ma'am. That's correct.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:10:32.599976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Okay, give, give me just one quick moment, I'm gonna console with my partner and see if this works for him as well. Okay, just a second.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:10:42.216234",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:10:43.399976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm sure. I'll send you an estimate. Okay? Go ahead.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:10:49.399976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:10:52.480976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Okay.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:12:50.016234",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:12:51.799976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Hi, so how much would it, we can do it on Wednesday. We do have that flexibility. How much would that be?",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:12:52.416234",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "question",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:12:54.113234",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm okay. Alright, so I just need to ask you more questions about the move-in the items that we're moving as well. So the pickup location is 2808 west William cannon drive. It's a one bedroom apartment on the third floor but no elevators, just stairs, is that right?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:12:58.399976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "It's 209 west Sol cannon drive.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:13:19.416234",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, 2809 is that right? Okay, yeah, let me just update it here.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:13:24.799976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Yeah, mm-hmm.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:13:28.416234",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:13:39.000976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay. Alright. And then can you give me a list of the items you are moving for you since we need to do the stairs. Just wanted to make sure of course, with the items. Removing our limit is up to \u00a3300 as small as we have we don't have anything over \u00a3300. We can bring those them down those stairs.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:13:40.399976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:13:44.200976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:13:48.880976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:13:52.680976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:13:55.880976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Got it. So, I'm gonna need to move a bed frame and a box spring, and a mattress, and then I have one cabinet, and then one bookshelf, I'm going to be moving my kitchen table and my chairs, I have a washer, and the dryer, I have a desk, I have a small sofa and I have a cabinet.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:14:00.816234",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:14:02.599976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm. Mm-hmm. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:14:06.799976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:14:16.399976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:14:21.799976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:14:25.399976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay. Do you have any night stands, coffee table side tables to move as well?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:14:32.599976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:14:34.240976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "No.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:14:39.816234",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And for the boxes, is everything all packed? Good to go or do you need help with packing as well?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:14:41.599976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:14:47.080976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Everything's good to go, everything's fucked. There are like about to ten there's about ten boxes of books, so I do need help with that.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:14:50.016234",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "swearing",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:14:51.873234",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:14:59.599976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, is that every sure is that everything that we need in terms of boxes? Or do you have more as well? In terms of your clothing kitchen? Was probably about ten to twenty or just the ten boxes?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:15:01.999976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:15:03.200976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "No, that would be all just the ten.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:15:15.816234",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, that's fine and then after that we'll just bring everything to the new. Oh, by the way I'm sorry. How far are we parking from the stairs on the ground floor one school does us about thirty to forty feet. How many school does do you think is the distance?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:15:18.799976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Maybe like one to two school buses.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:15:37.416234",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And once we get to the third floor, how far is your apartment to the stairs?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:15:40.399976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "It's right in front of the stairs.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:15:50.016234",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. That's great. Okay, and then your new bed apartment is a two bedroom apartment. This one's on the second floor with stairs as well no elevators and is the pretty much the same as the current one or it's a, is it a little bit longer in terms of walking?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:15:52.399976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:16:11.200976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "It's about the same.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:16:15.216234",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, I just wanna make sure I heard the address correctly. Okay, sorry. Cause, I know, no, it's really, I think it's my line. So the drop-off location is 1300 spyglass SP Y. GLA SS is that right? Spyglass drive? Okay, alright, alright so with that if we are doing your move on Wednesday again it's $208 per hour.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:16:16.999976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:16:30.040976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Yes, that's correct.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:16:35.016234",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:16:42.560976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "This price, it's all inclusive rates, like everything we need is already in that price. You don't have to pay for credit card fees, taxes, insurance. All of that is in the transportation fee, no charge for the stair roles as well. Now, we also include our no damage coverage. Which would give you up to $2,000 coverage for any repair replacement reimbursement for any accidental damages. Also meet your mover feature. Rest assured we don't take Billy can track the workers our guys are the most of that in movers in the industry. And we will send you their names ahead of time to let you know who's coming to help out with the move and lastly on time guarantee, if we're.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:16:45.199976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:16:46.480976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:17:06.280976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:17:16.560976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:17:21.560976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Run late on the time, we schedule, we provide discounts for your move. Again. No hidden fees of any type. No credit card fees, no sterle fees, no transportation fees for the clock, your time will only start once we arrive at your pickup location.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:17:30.199976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:17:38.720976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:17:46.600976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "And open the contract for you can have us for as long as you need us now for any move we just have a two and a half hour minimum. Once we go over the minimum, we only charge in fifteen minute inter roles. Now in terms of our estimates, typically one bedroom apartment can take two and a half to three and a half hours to complete. Now in your case of course the biggest fact that we want to consider are the stairs access. So we just need to add a little bit more time to that as well as for the washer and the dryer as well. So, for now, I'm just quoting you more on the four to four and a half hour mark, which is an estimated budget of $936 but of course, if it takes shorter than that, that's fine. You only pay for how long it takes after the two and a half half hour minimum estimate. So the shorter to move then they'll lower the cost at the end of the day. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:17:47.599976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:17:54.800976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:18:24.800976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "I understand.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:18:40.416234",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm okay, any questions so far?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:18:42.799976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "No.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:18:47.616234",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, so with that being said would you like our help on this move on Wednesday?",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:18:49.399976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "If you could just send us an email estimate so I could review it with my partner.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:18:59.016234",
+      "type": "transcript"
+    },
+    {
+      "content": "Of course, no problem. I'll go ahead and send everything to your email.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:19:03.799976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:19:06.080976",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Okay, thank you so much and then I'll give you a callback.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:19:09.816234",
+      "type": "transcript"
+    },
+    {
+      "content": "You can. Yup mm-hmm no problem. Thank you so much and have a good day.",
+      "name": "Joanna Ballon",
+      "time": "2026-09-28T19:19:10.399976",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "support_issue_resolved",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:19:10.713234",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "action_item",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:19:11.833234",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCS-oPl1AoM",
+      "content": "Thank you, bye-bye.",
+      "name": "Eli Cruz Lopez",
+      "time": "2026-09-28T19:19:17.016234",
+      "type": "transcript"
+    }
+  ]
+}

@@ -1,0 +1,803 @@
+{
+  "call_id": "6655204382777344",
+  "lines": [
+    {
+      "content": "Hi Stein moving this is Dana. Can I have your name?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:07.272320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:07.272320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:07.272320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:07.272320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:07.272320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:07.272320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:07.629320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:08.709320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Hi Dana, this is Alex.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:33:10.867597",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "ner",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:33:11.460597",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "contact_name",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:33:12.340597",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "ner",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:33:12.340597",
+      "type": "moment"
+    },
+    {
+      "content": "Hi, Alex, how can I help you?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:13.272320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:14.069320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:14.429320",
+      "type": "custom_moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Hey! I've used you guys a few times in the past and my girlfriend is moving in with me. So I'm hoping to set up a move essentially on her behalf, and in my house.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:33:15.667597",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "call_purpose",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:33:15.667597",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:19.872320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Yeah, sure did you submit a quote request?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:25.872320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Yes, I just went through the flow online.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:33:30.067597",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Can I have your email address?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:34.272320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:34.989320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Yeah, it's just the letter X. @alexdio.com.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:33:36.667597",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "email_address",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:33:39.067597",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, thank you.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:42.072320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Okay, so you are looking to Mi Thursday October 15th, correct?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:48.672320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "date",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:33:55.469320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Yeah, we're pretty flexible though probably like, fourteen to sixteen would be ideal. But yeah, just wanted to call so to find availability.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:33:58.267597",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm got it, so on October 15th the only available timeslot is in the afternoon while Wednesday fourteenth and Friday the sixteenth we still have a lot of availability and in the morning too.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:34:06.672320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "date",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:34:10.269320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Okay. Let's do the, I think Friday the sixteenth then.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:34:24.667597",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, okay. So, yeah, to get started I'll be asking you some questions. Just to get us on the right track. Would take about ten to fifteen minutes. So I can build your estimate from there, sounds good.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:34:29.472320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:34:29.472320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:34:36.709320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Cool.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:34:45.067597",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:34:45.549320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Alright. So first is starting address 4825. Davis lane. So she's coming from a one bedroom apartment on the ground floor. Do you happen to know the square footage of her unit?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:34:46.272320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:34:50.549320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:34:51.949320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:34:55.629320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "I wanna say it's like 800 to a thousand. It's a larger one bedroom but also not that large.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:34:59.467597",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:35:01.909320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Okay.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:35:02.472320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Gotcha. And does she have any like, extra or bonus room? Like a study or an office?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:35:06.072320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:35:07.789320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Nope.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:35:12.067597",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Then what is the walking distance from where we can park the truck up to her door?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:35:13.872320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:35:16.269320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "It's probably about thirty feet, it's close.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:35:20.467597",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Then the items are moving, then the items are moving besides those standard furniture. Like the beds couches. Does she have anything oversized or heavy like a safe for any exercise equipment?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:35:23.472320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:35:32.469320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:35:34.469320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Nope! I like that.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:35:37.867597",
+      "type": "transcript"
+    },
+    {
+      "content": "What about valuable or fragile items. Like artwork, antique pieces or any collection?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:35:39.672320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Nope.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:35:46.267597",
+      "type": "transcript"
+    },
+    {
+      "content": "And are we gonna move major appliances? Bridge Washer/Dryer.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:35:48.072320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:35:48.829320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "No major appliances.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:35:52.867597",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, then will you guys need help packing the boxes or is everything going to be boxed and ready?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:35:54.672320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:35:57.389320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Everything will be right at rock.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:36:02.467597",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. So in terms of the number of boxes Alex, so typically for a one bedroom apartment there's about fifteen to 25 pre pack boxes. Do you think you're gonna fall within the range?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:36:04.872320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:36:08.029320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:36:14.549320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Yeah, it's probably be fifteen to twenty.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:36:16.867597",
+      "type": "transcript"
+    },
+    {
+      "content": "Right, and then the house she's moving into is 4906 Aberdeen circle. So this is a two story house and is there is a driveway here, can we back into or is it a street parking?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:36:19.872320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:36:30.469320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "They can likely back into the driveway when you all move-in here. They didn't just because the gates kind of small. So maybe we'll call it the street.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:36:35.467597",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:36:41.472320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Okay. Gotcha. A right. So, we've got everything here so let me discuss the pricing and then the estimate after and I'll send everything to your email so you won't have to take notes, okay.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:36:43.872320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "action_item",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:36:52.629320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:36:54.749320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Great.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:36:56.467597",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "positive_sentiment",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:36:56.467597",
+      "type": "moment"
+    },
+    {
+      "content": "So pricing very simple so Friday is one of our peak days. So the hourly rate for two movers is $222 everything's already included their gas and the truck taxes and insurance. All of the wrapping of the furniture for protection. When being moved as well as the home, we will put floor runners and paddings on the walls and door waste if needed and this assembly, and reassembly of all the furniture. That's all included there all in pricing, no extra fees, not even a credit card fee or transportation fees. Then we have the two and a half hour minimum for any move. Once we go over the minimum the time is prorated in fifteen minute increments and then estimate typically one bedroom apartment takes two and a half to three and a half hours with two movers now in your case everything straightforward. So I would say the move will forward within the typical range. So with two guys, two and a half to three and a half hours.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:36:57.672320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "currency",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:37:04.949320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:37:07.629320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:37:10.669320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:37:13.429320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:37:28.389320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:37:32.029320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:37:38.909320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "You're looking at around $5.55278 million and return base, essentially, you only pay for the actual time use on the move. Does that feel fair?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:37:55.272320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "currency",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:37:56.589320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:37:59.109320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:38:06.669320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Yup, yeah, that sounds good. You said Friday is a peak day if we did that Thursday afternoon. What's the difference in the price?",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:38:08.467597",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:38:09.672320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Yup.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:38:12.672320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "question",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:38:15.500597",
+      "type": "moment"
+    },
+    {
+      "content": "So, Thursday, the hourly rate for two movers is $208. So, you're going to be looking at around $520 to 728.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:38:18.072320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "currency",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:38:21.549320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "currency",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:38:25.829320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Oh, that's not really that different. Okay, cool. Let's stay with Friday the sixteenth.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:38:29.467597",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:38:31.272320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Alright, would you prefer a morning time start time is between 8:30 and nine?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:38:34.272320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:38:34.989320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "time",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:38:38.149320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Yeah, we get out of the way.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:38:40.267597",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, okay so let's go ahead and lock in that move for Friday October 16th. I will send the confirmation email Alex so just review everything just make sure the address is the time are correct then if you have any questions any changes just give us a call anytime.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:38:42.072320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "date",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:38:47.149320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:38:50.309320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Yeah, sounds good. Oh, I'm realizing that her apartment number wasn't on that address. Do you want to add that?",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:39:00.067597",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, yes, please.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:39:06.072320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "It's 1417.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:39:08.467597",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, thank you.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:39:10.872320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Alright. Anything else that you want me to maybe take note of to?",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:39:15.072320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Nope, I think we're all good.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:39:19.867597",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, so yeah, we're all set here. I'll send the confirmation email then. Yeah, just let us know if there's anything and thank you for choosing us again Alex, we'll see you soon.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:39:21.672320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "support_issue_resolved",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:39:23.269320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:39:30.149320",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "Awesome! Thank you so much; bye-bye.",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:39:31.867597",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICFys_rnQgM",
+      "content": "support_issue_resolved",
+      "name": "Alex Steeno",
+      "time": "2026-09-29T20:39:32.700597",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, bye-bye.",
+      "name": "Danah 2Celestial",
+      "time": "2026-09-29T20:39:33.672320",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    }
+  ]
+}

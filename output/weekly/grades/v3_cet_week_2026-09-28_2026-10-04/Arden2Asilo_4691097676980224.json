@@ -1,0 +1,43 @@
+{
+  "call_id": "4691097676980224",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 11.1,
+  "datetime_ct": "2026-09-30 15:05 CT",
+  "external_number": "+18176145424",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 6,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "MISSING \u2014 Rep never framed the call as '10 to 15 minutes' with a promise of a dependable quote, nor asked for a yes before proceeding.",
+    "their_agenda": "MISSING \u2014 Rep never asked 'Other than price, what are your biggest concerns about this move?' Call went straight into logistics probing from a prior conversation.",
+    "logistics_details": "Property type, floor/stories, rooms, walking distance, additional rooms, special considerations all covered through detailed inventory review: '75 inches TV and a China cabinet to take extra care off into a two bedroom apartment on the first floor' \u2014 full details gathered.",
+    "packing_services_offered": "Rep asked: 'How about packing ma'am? Do you, will you need help packing or everything will just'",
+    "box_count_asked": "Rep asked about boxes: 'when I asked for estimated number of boxes you said possibly six to ten' and 'six to eight large cardboard boxes, small items inside' and 'five to ten boxes, six to ten rather.'",
+    "estimate_anchor": "Rep gave typical range and personalized: 'typically a two bedroom, sorry, a 1400 square foot house usually takes two movers between six to eight hours however in your case... I'm estimating the move to take only around five to six hours approximately. It's good to budget an overall of $1,034 to $1,164 for the move.'",
+    "pricing_framing": "Rep disclosed: 'hourly rate of $194 per hour for two movers and we provide a 26 foot box truck with everything that's needed. Everything is already included in that hourly rate gas trucks, taxes, insurance, all the wraps, the pads and bans... no hidden fee, no credit card fee, no transportation fee' and '2.5 hour minimum once we go over the minimum the time will be created in fifteen minutes increment.'",
+    "feels_fair_then_silence": "MISSING \u2014 Rep never asked 'Does that feel fair?' after pricing. Rep moved directly to next topic without a pause.",
+    "on_time_guarantee": "Rep stated: 'we also have an on time guarantee. So, if the movers arrive late, you start to get discount on your final bill. The later they arrive ma'am. The bigger discount will be'",
+    "damage_coverage": "Rep stated: 'You're gonna get a free evaluation coverage. If anything gets damaged, gets broken or gets miss handled during the move, you're gonna, you can file a claim for zero deductible. It's gonna either be repaired, replaced or reimbursed within three to five business days.'",
+    "closes_the_loop": "MISSING \u2014 Rep did not ask 'Does that put those to rest?' or equivalent confirmation after the Two Promises section.",
+    "final_concerns_check": "MISSING \u2014 Rep never asked 'What's still concerning you about this move?' before the close.",
+    "catch_all_asked": "MISSING \u2014 Rep never asked 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Rep asked: 'would you want our help with this move ma'am?' and again 'Would you want our help with this move?' \u2014 clear, no built-in out."
+  },
+  "top_strength": "Rep gathered an exceptionally detailed and complete inventory through careful review of the customer's prior email and multiple clarifying questions, which enabled a highly personalized and accurate estimate ($1,034\u2013$1,164 for 5\u20136 hours) tailored to the specific items and route.",
+  "coaching_note": "This call skipped critical discovery structure \u2014 no quid pro quo framing at the open, no agenda-setting in Section 2, and no genuine final concerns check or catch-all before close \u2014 which means you're missing early signals about what the customer really needs and leaving potential concerns unaddressed; add those sections back in even when working from a prior email intake."
+}

@@ -1,0 +1,38 @@
+{
+  "call_id": "5709552902512640",
+  "rep_name": "Zhang Pammit",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 8.2,
+  "datetime_ct": "2026-10-03 21:13 CT",
+  "external_number": "+18592005725",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 4,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 8,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Roselyn: 'This would only take within the next five to ten minutes of your time. Would that be okay?' \u2014 Time-boxed but no explicit mention of 'quote you can depend on' or the two-part framing; also lacks the pause/wait for clear yes.",
+    "their_agenda": "Roselyn: 'So, do you have any concerns or any important things that you wanted to address during this call?' \u2014 Asked, but only after she's already introduced the call purpose. The rubric requires this before probing starts; she moves into probing (storage unit details) immediately after.",
+    "two_layers_deep": "Bobby raises concern about extending beyond free service area. Roselyn checks branches and resolves it, but does not dig deeper into the concern itself (e.g., 'Tell me more about your worry there' or exploring impact). Single-layer acknowledgment and pivot.",
+    "estimate_anchor": "Roselyn: 'We will be sending out 22 trucks and four movers estimated time is between five to six hours. The estimated cost that we have would be $2,520.' \u2014 Provides range anchored to the home size (1900 sq ft to 2500 sq ft). Personalized slightly to services (load/unload, disassemble/reassemble included).",
+    "pricing_framing": "Roselyn mentions 2.5-hour minimum ('that's the only reason why we don't book it for two and a half hours') and hourly rate structure (time-based, pay only for actual hours). Does NOT upfront disclose trip fee ($150 per truck for McKinney; $0 for Garland branch) as a standard transparency item \u2014 only mentioned after Bobby's concern about location.",
+    "on_time_guarantee": "Roselyn: 'We have on time guarantee we're still covered up to $2,000 per move.' \u2014 Mentions the guarantee and coverage amount, but does NOT explain discount terms or when/how it triggers if late.",
+    "damage_coverage": "Roselyn: 'we're still covered up to $2,000 per move' \u2014 Mentions $2,000 coverage, but does NOT specify no deductible, no fine print, or that it's built into the rate (not an add-on).",
+    "closes_the_loop": "No recap or 'does that put those to rest?' after Two Promises section.",
+    "final_concerns_check": "Roselyn never asks 'What's still concerning you?' or any genuine final concerns check. No attempt at this section.",
+    "catch_all_asked": "Roselyn never asks 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Roselyn: 'So the would you like me to lock that in for you, would you like our help with your move?' \u2014 Clear, plain ask with no built-in out."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details across both locations (storage unit dimensions/fullness, destination home layout, parking, access, bedroom count, special items) and locked in the booking with explicit ask and rate-lock confirmation.",
+  "coaching_note": "Ask 'their agenda' before any probing begins, reflect back concerns as a summary to confirm understanding, and add a genuine final concerns check ('What's still concerning you?') before closing \u2014 these three moves will dramatically improve discovery and customer confidence."
+}

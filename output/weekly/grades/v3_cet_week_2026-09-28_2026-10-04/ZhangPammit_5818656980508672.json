@@ -1,0 +1,33 @@
+{
+  "call_id": "5818656980508672",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 12.7,
+  "datetime_ct": "2026-10-01 16:24 CT",
+  "external_number": "+12107108939",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 92,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "This would take within the next five to ten minutes of your time and would that be okay? (framing present but rep does not wait for explicit yes before pivoting to their agenda)",
+    "discovery_basics": "Move date: thirteenth; Origin: 28963 Widow Sham Way, San Antonio, Texas; Destination: 639 Bo Drive, Irvine, Texas; Size: 2300 sq ft origin / 1300 sq ft destination",
+    "their_agenda": "What are your biggest concerns or do you have any important things that you wanted to answer during this call today? (asked after probing had already begun with the move date question)",
+    "walkthrough_branch": "Rep correctly identified 2300 sq ft origin home as \u22651800 and offered virtual walkthrough: 'So basically based on your home size normally, we do a virtual offer in that way, we will just base it on the items that we are moving. Do you have time to complete a virtual walkthrough today?' Customer confirmed yes; rep then scheduled walkthrough for Saturday at 1:30 PM at the origin address and explained the process (FaceTime, room-by-room walkthrough)",
+    "logistics_details_gathered": "Property type (house), stories (1 at origin, 3 at destination), bedrooms (1 + office at origin, 2 at destination), parking (driveway at both), access concerns (none), box count estimate discussed (115\u2013135 boxes), packing services (full house packing requested and confirmed)"
+  },
+  "top_strength": "Rep cleanly routed the call to a virtual walkthrough by correctly identifying the 1,800+ sq ft threshold, explaining the process clearly, and confirmed all logistics details (property specs, parking, access, packing needs) before scheduling\u2014setting up a solid foundation for post-walkthrough pricing.",
+  "coaching_note": "Ask 'Their Agenda' (what concerns or questions do they want answered) *before* starting logistics probing\u2014it was asked after the move date, which inverts the script order and can cause the customer to feel like their concerns are secondary."
+}

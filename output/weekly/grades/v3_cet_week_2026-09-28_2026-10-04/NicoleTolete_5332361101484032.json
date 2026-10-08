@@ -1,0 +1,38 @@
+{
+  "call_id": "5332361101484032",
+  "rep_name": "Nicole Tolete",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 5.6,
+  "datetime_ct": "2026-09-28 15:32 CT",
+  "external_number": "+15134626053",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 6,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Call opens mid-conversation ('let me just continue about mentioning our extra perks') \u2014 no time-boxed framing or promise-of-dependable-quote structure present; no wait for customer agreement before continuing.",
+    "their_agenda": "Never asked. Rep launches directly into service features (Meet Your Mover, On-Time Guarantee) without asking about customer's concerns or priorities first.",
+    "estimate_anchor": "For a typical three bedroom apartment, it usually takes around five to seven hours to completely move locally in your case, since you're moving from a second floor apartment with a bit of a walk... I will estimate this move to take around six to seven hours with two movers and one truck... for six to seven hours estimate including the travel fee. It's good to budget around $1,447 to $1,669.",
+    "pricing_framing": "Trip/travel fee disclosed ($115 implied in total); minimum mentioned ('two and a half hours once we go over the minimum the time is per rated in fifteen minute increments'). Missing: explicit 'not a guess' commitment framing.",
+    "on_time_guarantee": "if we cannot make it in the time window that we arrange, we immediately start discounting money of your final bill and the way the clock work is the time start as soon as we get on site and open the contract.",
+    "damage_coverage": "Yes, we provide up to $2,000 per move to repair, replace or reimburse for any accidental damages. Missing: explicit 'no deductible / no fine print' framing and clarification that it's built into the rate, not an add-on.",
+    "feels_fair_silence": "No recognizable 'Does that feel fair?' ask. Rep moves directly to booking without checking customer's reaction to pricing.",
+    "explicit_ask": "Would you like our help with your move?",
+    "booking_confirmed": "Date confirmed (Friday 8:30 AM). Phone number, arrival window detail, crew size (2 movers, 1 truck), and addresses not confirmed. Notes about customer concerns not left for crew."
+  },
+  "top_strength": "Nicole delivered a full estimate anchor with travel fee transparency and clearly explained the time-based billing model with the 2.5-hour minimum and 15-minute increments.",
+  "coaching_note": "Open with the quid pro quo framing (time-boxed, promise of dependable quote, wait for yes) rather than jumping into a mid-call continuation, and always ask 'What are your biggest concerns?' before probing logistics \u2014 you missed the chance to understand what mattered most to this customer."
+}

@@ -1,0 +1,35 @@
+{
+  "call_id": "6527601625833472",
+  "rep_name": "Nicole Tolete",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 15.6,
+  "datetime_ct": "2026-09-29 15:51 CT",
+  "external_number": "+15127455339",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 79,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Nicole: 'This call will just take around ten to fifteen minutes. Will that work?' \u2014 framing present but no explicit quid pro quo (availability + dependable quote) and customer answers 'Okay' without a clear affirmation of the value trade.",
+    "discovery_basics": "Name (Stacy), moving day (Oct 1st, 8:30 AM), route (house to storage unit climate-controlled), size (1800 sq ft house, 3 bed, 2 bath). All four present.",
+    "walkthrough_branch": "Nicole correctly identifies 1800 sq ft and offers virtual walkthrough: 'we usually do a virtual walkthrough. It's like a video call on your preferred time and date so we can identify how many movers and truck you will be needing.' Customer initially willing, then declines walkthrough itself but agrees to send photos/video. Call routes cleanly to walkthrough-as-contingency rather than firm pricing.",
+    "their_agenda": "Never asked. Nicole jumps directly into logistics probing (stories, garage, storage type, etc.) without first asking 'Other than price, what are your biggest concerns about this move?'",
+    "estimate_anchor": "Nicole provides range ($2,496\u2013$2,912 for 6\u20137 hours, four movers, two trucks) anchored to typical 1800 sq ft home with garage, personalized to this customer's potential single-truck fit. Full anchor present.",
+    "pricing_framing": "Nicole covers hourly rate ($416/hr = $104/mover \u00d7 4), trip/fuel/tax/insurance/pads/tools all included, no hidden fees stated, two-promise coverage (damage + on-time), and 2.5-hour minimum with 15-minute increments. Full framing delivered.",
+    "explicit_ask": "No explicit ask. Nicole ends with 'I'll get back to you once you got your photos and videos. So I can go ahead and secure a spot for you if that works with your husband. And do you have any questions or anything for me?' \u2014 offering to proceed but not asking plainly 'Would you like our help with your move?'"
+  },
+  "top_strength": "Nicole correctly identified this as a walkthrough-required call (1800 sq ft), offered the virtual walkthrough per protocol, delivered comprehensive pricing framing (hourly rate, no hidden fees, damage coverage, on-time guarantee, and time minimums), and cleanly routed the customer to photo/video submission with a callback plan rather than forcing an incomplete quote.",
+  "coaching_note": "Section 2 was entirely skipped\u2014Nicole never asked 'Other than price, what are your biggest concerns about this move?' before diving into logistics probing, which is the highest-value discovery question on the card and should always come first."
+}

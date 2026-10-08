@@ -1,0 +1,1195 @@
+{
+  "call_id": "6444384474406912",
+  "lines": [
+    {
+      "content": "Hi, good afternoon, this is Shany with Einstein. How can I help you?",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:57:49.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:57:49.884545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:57:49.884545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:57:49.884545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:57:49.884545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:57:49.884545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:57:51.683545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:57:52.643545",
+      "type": "custom_moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Hi, I'm Gordon Smith, did I missed a call from you?",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T17:57:54.633329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "contact_name",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T17:57:55.149329",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "ner",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T17:57:55.149329",
+      "type": "moment"
+    },
+    {
+      "content": "Yes, you did Gordon. How are you doing today?",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:57:57.084545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:57:58.603545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "I'm enjoying right, I'll tell you that. So yeah, yeah, where is it?",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T17:58:00.633329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "positive_sentiment",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T17:58:00.633329",
+      "type": "moment"
+    },
+    {
+      "content": "That part. Right there, I love it too. Well, I was calling of course in regards to your move. Just wanted to kind of go over a few details if you have some time.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:58:03.084545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:58:03.084545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "question",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T17:58:08.549329",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "I have some time and do you have my address? I think I put that in there, didn't it from where into from Austin on art. Delead to hear away and if you have a guy that wants to come by and look at my holding or belongings or whatever I have to have a real on cause I planning on moving sometime within first two weeks next year you know, so that's kind of flexible there but and I can tell you what I had but then it's, cause I've seen your truck here cause they moved, that's how I saw your plus you also chronic, I think you had, had you down as a dest moving company in town, so.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T17:58:15.033329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "call_purpose",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T17:58:15.033329",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "question",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T17:58:18.789329",
+      "type": "moment"
+    },
+    {
+      "content": "Yes.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:58:22.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "ner",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T17:58:22.949329",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:58:47.484545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Alright. Okay, well beautiful. So yes, so a couple of things, let me definitely verify the addresses that we have cause I do have two addresses here coming loading up and then dropping off. So the first address that I have is the 1320. Art daly drive, and that's from a one bedroom apartment on the first floor is that the very first stop?",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:59:01.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "So, mm-hmm.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T17:59:20.433329",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:59:27.443545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "That's where you're picking up. Yes, and you can get pretty close to the door on the first floor and like, from my apartment to get to the front door. I'm actually the back door is better but hundred sheet you know, but you know, you and drive, ride up to anybody that's why onsite inspection is better for your appraisal.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T17:59:30.033329",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, perfect.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:59:31.284545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:59:48.084545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay, perfect. No, that's, that is good information to know. Okay. And then as far as the items, I know, you just mentioned the items, what are those big items that we would be helping you to move from this location?",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T17:59:53.484545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "This is a short distance?",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T17:59:54.633329",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:00:06.603545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Washroom dryer, I checked the owner's manual on my washer which is an LG and it is, it like weighs 100 pounds. Dryer smart flyer. So I didn't even check to see how much it would, then I have a queen size bed and.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:00:11.433329",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:00:20.484545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "You know that's gonna have a bunch of boxes. I have three trucks that are rubber made boxes. You know, which I like, you know they're almost like foot lockers, but they're rubber made and lightweight. Then they, anyway, I have probably, I saved all my boxes from my last week, so I probably have 25. Unless, say thirty small boxes and let's say, let's say, so let's say ten medium sign boxes and I have a, have one of those guests that you can raise and lower she'll do your computer to work which is not really very heavy. But it's got a motor in it and then I have a.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:00:31.833329",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:00:42.084545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Alright.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:00:54.084545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:01:01.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "You got it.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:01:07.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:01:12.084545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Three other little death that are like you can actually fell them up like, you get them. Well, they're like tables you use it a, an outdoor gathering or something, where you gonna put dips and stuff, but there no heavy furniture except for the bed, the washer and dryer, and I have a bicycle one kind of particular about, but it's not.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:01:13.833329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "It's not a electric bicycles to peddle power bicycle but I'm kind of particular about it cause I don't have a car and so I take care of my circle and uh-oh. Oh, I have a couple of small tool boxes, like you have your sockets and wrenches in. They're like maybe eighteen inches long and a foot deep. You know, a couple of those, I have a a suit case that you put underneath any car, you want an airplane with the full wheels in the bottom of a hard sell suitcase, and the hard shell like you put in the overhead, have one of those, I have a couple of fire arms under the lock and she, they're, you know, those what do they call those cases?",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:01:32.433329",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, of course.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:01:42.684545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:02:06.684545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:02:11.484545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "question",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:02:21.633329",
+      "type": "moment"
+    },
+    {
+      "content": "The safe.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:02:25.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "No, it's not safe. It's just a little, it looks like a little brief case with a, you know Tadlock. I keep my gun blocks up and the waterproof you know, but I keep them under locking key and.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:02:28.233329",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, okay, yes.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:02:36.084545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay. Gotcha. Okay, but you'll be moving those anyway for us.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:02:45.684545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Is there yeah? They're you know, they way maybe a pound but anyway it's not like having our.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:02:51.633329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "question",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:02:51.633329",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Anything it's revival list anything and.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:03:01.833329",
+      "type": "transcript"
+    },
+    {
+      "content": "Gotcha.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:03:01.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "The box and the suit cases washing dry bed you really have very, I've actually been trying to downsize and I have been very successful at that donate stuff will have a guitar particular about. But it's in a hard shell case made by calling which is made here in Austin on a computer, of course in the printer, you know. So, so that's all the stuff and if you want to do a quote, I mean if you don't have for my stop by the next ninety days we'll schedule an appointment. I take a look at what I've got and say yeah, we'll do it for this or whatever.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:03:06.033329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "ner",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:03:23.469329",
+      "type": "moment"
+    },
+    {
+      "content": "Yes.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:03:24.684545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:03:31.284545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay, perfect. Well honestly, based off the information that you gave to me, I mean, if these are all the items that you have, I mean, I definitely could give you an accurate quote and then I'll send that over to you as well in an email. Generally we always like to do, you know, like, virtual walkthroughs or physical walkthroughs if we're moving like, I mean, 6000 square foot houses, I mean, you can't really, you know, tell really what they have in there but no, if this is the only items you know, and then of course the boxes that were moving. I mean, no, we can, I can definitely get you an accurate quote on that.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:03:40.284545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "action_item",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:03:52.803545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "I you just made me remember something that I need back in my wild and crazy, us back and horse eighteen and nineteen I worked for red ball hosing company and this was in 69 and we would like vir we still active and we go pickup an entire household, the furniture at the air force they said move it to send ange or only one fail, sloop you know, we did, you know, we work like 2448 straight hours. I forgotten all about that, I forgot all about that. So you said something about anyway it just came all looking back to me because it's like one of the, one of the truck drivers were riding back with it. I think it sleep for the wheel. We had flapping around and hey, wake.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:04:22.833329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "phone_number",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:04:48.869329",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, wow.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:04:51.084545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Right.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:05:19.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "No, no, you're just good, you're listen, this is the best part of my day honestly is, is when I'm able to, to kinda just shoot the breeze, it's great.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:05:25.284545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "I do have just based off the information that you gave me. If these are all the items and then I have those forty boxes in there as well. We're moving you, it looks like from a first floor to a first floor, the second location is 11450. Hero way in Leander Texas.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:05:37.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "monologuing",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:05:49.563545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:05:56.123545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:05:56.723545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Alright.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:05:57.514329",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, I honestly and getting this move within our minimum honestly because it seems like a pretty straightforward move. The drive we have probably about maybe a 3545 minute drive it looks like it, so that drive is probably gonna, you know, take longer than the load up to be honest with you. So I'm getting this moved including the drive probably between three to four hours. And again that's including that drive time and so I do have an hourly rate of 2:30 that does include the two movers any kind of disassembling reassembling. That needs to be done, that's included in that as well all padding protecting of all the furniture that standard service for us.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:05:58.284545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "monologuing",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:06:15.203545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Mm-hmm.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:06:16.714329",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:06:35.603545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "time",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:06:36.563545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "monologuing",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:06:39.003545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "And then that also does include the $115 trip fee since we're moving from Austin to Leander with a bit of a drive, but that is included inside of the estimate already. We do have as far as budget with that three to four hours, that I'm estimating we would be looking at cost wise between $805 and probably about.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:06:49.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "currency",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:06:53.443545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:06:56.923545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "currency",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:07:12.763545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "$1,035 as that range is what I'm seeing here now I will tell you we do have a two and a half hour minimum and you do only pay for the time that you use. So if the move takes less than that, then that's what you'll pay of course with that $2 half minimum.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:07:16.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "currency",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:07:16.884545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "currency",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:07:34.403545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "It still the minimum.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:07:34.714329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Yeah, I understand that. Okay, 11 thing. I still have some visits to this new location out there way, I've been out there two or three times already and I'll go back a couple of times I'm not sure that's about the first floor, it's a four story place we like to place that is first floor. You know the pickup is first floor and you are close to the door and you guys have moved to before, I mean I've seen their truck that but out there, I haven't locked in which floor I'm gonna be on but they do have elevators and the door is good.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:07:37.714329",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:07:37.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Yes, uh-huh.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:08:06.684545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Oh, okay. Okay. At the second location, you mean.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:08:13.284545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay, okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:08:18.084545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Yeah, the second look, the drop-off. Is not really and maybe for a hoo but I'm still negotiating with them and like see what's available one or two. But you know anyway the price sounds great. Did you want somebody to come by or schedule something. You know, because like another thing is like that January 1st that's a Friday and your new year's ever by party's the first kind of around holiday everybody what ballgames.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:08:18.514329",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. No, no, you got it.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:08:28.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "date",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:08:39.109329",
+      "type": "moment"
+    },
+    {
+      "content": "So, so, yes, so we are, so we are not, yes, so we are actually not operating on the first, so but we are on the second which is that Saturday? And we are on.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:08:42.684545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Mm-hmm.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:08:55.714329",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:08:57.963545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Right.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:09:01.114329",
+      "type": "transcript"
+    },
+    {
+      "content": "And we are operating as well on new year's eve which is the thirty first so the day before, and the day after new years we are in operation just the day of we're not.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:09:02.683545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "And like it's and let's say that for some reason it I get pushed this out to the third or the fourth of the fifth before you all are available. Nine available and everything's locked in. That's okay too because I can let you know later, you know, after I make my get the everything locked out at the end, or we can solidify the date sometime in the first two weeks of next year. Okay?",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:09:16.714329",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:09:26.484545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Yes, yes.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:09:39.084545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Gotcha. So, yes, we are flexible mm-hmm okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:09:45.684545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Okay, ha, yeah. Okay, well, I'll let you know as soon as I know and, and like what the, one last question, did you actually want to send somebody by, before or after we may I signed a contract to pay a deposit or whatever to look at and make sure you know, the inventory of what I'm carrying over?",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:09:49.114329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "question",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:09:56.429329",
+      "type": "moment"
+    },
+    {
+      "content": "So we.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:10:04.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Sure, sure. So we so we actually don't do deposits. You don't pay for anything until after the move it's completed a hundred percent and then like I said, if these are all the items you have more item. Do you have more items than the items that we discussed on the call today?",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:10:07.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Mm-hmm.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:10:17.914329",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:10:21.483545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "I'll probably have less items. Like I said I've been downside. Yeah, I'll probably have less items. I'm gonna keep the washing and drying the bed device on computer. The three trunks. The rubber made trunks. I'll change those the boxes obviously, it may, I. May not have that many boxes. Oh, but.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:10:27.514329",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:10:47.484545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:10:52.284545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "I have a, anyway, anyway, you know, if, if push come to shove it and like it's a little bit more than the 805. To 1035 well, then, you know, I'll just have to buy the but I should have less items and, and like, I'm good at box, I've moved so many like I said I worked at a mover back in the day. So what else do you need to know? Do I just call you back, or.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:10:52.714329",
+      "type": "transcript"
+    },
+    {
+      "content": "So, no. So this is, no, all the information that you gave to me is great. Like I said there's nothing that needs to be signed or no deposit is taken, you will handle all of that stuff after the move is completed. Now, what is included in that rate though that I did wanna mention that is everything. So taxes, insurance, travel, everything we don't have any kind of hit and fees here, we don't even have processing fees or steer wheel fees, so that rate is what it is. The other thing is, it is also free to reserve the truck. So you can cancel it for free, you can move the date around. We don't have, don't have any additional fees if you need to make changes on that either. So, if you wanted to kind of get something on the books, you could, there's no cost to that.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:11:14.484545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "question",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:11:14.629329",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Okay.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:11:49.714329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "One.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:12:04.714329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "You know you when you were going through the I think 2:30 now. I think I wrote down here three to four hours 1:15 trip co, and they said there's two movers and reseting. And furniture. I don't have any, I've got one chair, I tell you about my chair, I didn't tell you my chair.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:12:11.914329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "time",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:12:15.509329",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:12:16.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "time",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:12:18.669329",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, I will add that. Yes. Well, it's just anything that may need just some safe guarding, Ju, I just want you to know we do take care of that.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:12:25.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Well.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:12:34.114329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "What in the one, the mattress it's, I spent, I overspent on the bad because I think, but anyway, don't put a pad. I mean, a, a mattress, not a sleeve but a bag.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:12:37.114329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "negative_sentiment",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:12:37.114329",
+      "type": "moment"
+    },
+    {
+      "content": "We do have mattress covers that will move.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:12:50.484545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Okay. And I've seen these furniture movers look like a Dollywood has like you could do drywall on it. You know, you set the mat or something and just kind of is that. Are they just gonna like bear how it and haul that out of here?",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:12:55.114329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "question",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:13:04.669329",
+      "type": "moment"
+    },
+    {
+      "content": "Are you talking about your mattress?",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:13:06.684545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "question",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:13:06.684545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Yes ma'am.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:13:10.114329",
+      "type": "transcript"
+    },
+    {
+      "content": "They will. Oh, I, I'm not too sure exactly how to carry that out.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:13:10.284545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Okay, cause I've, I was thinking about buying a a for I'm mattress not doing it all myself. And that's when I said well you know I'm just calling to get some quotes but it's probably my treasured item because like I spent a third of my time sleeping. Sorry. Okay you know, I, if I didn't tell you about that you, I, I'm, I was neglecting my duty, it's a rock and recliner it. It probably weighs forty pounds. I put it together myself you know, ordered it from Amazon so, it's not like something from rooms to go or anything and I don't have any other furniture except stuff that falls up and you put a computer on it. So, anyway.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:13:17.314329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "negative_sentiment",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:13:17.314329",
+      "type": "moment"
+    },
+    {
+      "content": "Gotcha.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:13:25.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "No, no problem.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:13:39.684545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:13:43.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "ner",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:13:48.189329",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, no problem. No, so completely up to you if you want to go ahead and reserve that free truck you can and then, I'm still gonna send you an email. We do have some time so if things do change you can always reach back out to us we can cancel that for you or we can move it. So it's really up to you at this point. Did you want to go ahead and at least get that truck reserved.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:13:58.884545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "What else do we need to do?",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:13:59.314329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "question",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:13:59.314329",
+      "type": "moment"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:14:09.363545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Okay.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:14:23.314329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "No, not, not right. Let me go back out to good, we handle one more time and talk to there one more time. A bit before I call you back and say, rp the truck and like I said, the first two weeks of January is like my window, because the way my schedule is in my family schedule it just works out best for me.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:14:26.314329",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:14:41.484545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay, that does sound good?",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:14:50.484545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Them if you said I can reserve it for free and I don't wanna like tell you or something when like I get run over by a car. I wonder what happened. Mister Smith, twelve finding. Yeah well, tomorrow is not guaranteed for anybody.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:14:52.714329",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, no, no.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:15:00.084545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "ner",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:15:01.069329",
+      "type": "moment"
+    },
+    {
+      "content": "That's right.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:15:07.284545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "Okay.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:15:10.284545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "I remember that shooting in, in south Texas shot. What? Software springs or was it, anyway, let me just anyway, thank you Sean.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:15:10.714329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "ner",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:15:12.709329",
+      "type": "moment"
+    },
+    {
+      "content": "You're so welcome, Gordon. And Gordon idea go ahead and send that email over to you. So that should be in your inbox and you just let me know if you have any questions or you need anything. In the meantime we're here to help you.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:15:21.084545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "ner",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:15:21.429329",
+      "type": "moment"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:15:22.643545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:15:23.203545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "action_item",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:15:23.963545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Let me when I missed your call was that the 512-324-4930 is that the number that I can call you back? Or what about the 81-815-8781 what number is that?",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:15:37.114329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "phone_number",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:15:41.109329",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm that is.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:15:42.684545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "action_item",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:15:44.429329",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "phone_number",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:15:46.869329",
+      "type": "moment"
+    },
+    {
+      "content": "So either, either one of those numbers will get you to us.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:15:48.684545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "question",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:15:49.949329",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Okay. Thank you. I'll, you'll be hearing from you soon.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:15:54.514329",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, no problem, Gordon. Well, it was a pleasure connecting with you today and you have a great rest of your day.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:15:57.084545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    },
+    {
+      "content": "ner",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:15:58.603545",
+      "type": "moment",
+      "user_id": "5271673269723136"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Alright.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:16:01.114329",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSx7m2tAsM",
+      "content": "Thank you ma'am. You too.",
+      "name": "Gordon Smith",
+      "time": "2026-10-01T18:16:05.314329",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you, bye-bye.",
+      "name": "Chauny Shivers",
+      "time": "2026-10-01T18:16:05.484545",
+      "type": "transcript",
+      "user_id": "5271673269723136"
+    }
+  ]
+}

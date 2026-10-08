@@ -1,0 +1,40 @@
+{
+  "call_id": "5551009632133120",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 6.0,
+  "datetime_ct": "2026-09-28 14:58 CT",
+  "external_number": "+12103134866",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 4,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'might take about ten to fifteen minutes' and mentions giving 'a more personalized estimate' but does not wait for a clear yes or frame the dependable-quote promise before moving into fact-gathering.",
+    "their_agenda": "Asked ('Do you have any important concerns for this move that you also want to discuss on this call?') but only after already asking when the move is, getting the address, and noting it's a two-story home \u2014 probing had started.",
+    "logistics_details_gathered": "Rep confirmed two-story home, asked about items being moved (got specific list: desks, chairs, dressers, bookshelf, bed), asked about boxes, asked about stairs weight limit, and asked about storage location. Missing: property type clarity, number of rooms, walking distance to storage, additional stops. Partial coverage.",
+    "estimate_anchor": "Rep gave hourly rates ($192 Wed/Thu, $200-206 Fri) and a range ($480\u2013$672 based on 2.5-hour minimum plus one buffer hour), both anchored to the customer's specific situation (two and a half hour minimum, storage distance variables). Full.",
+    "pricing_framing": "Rep mentioned 2.5-hour minimum and 15-minute increments, and mentioned everything is 'all inclusive' (taxes, credit card fees, disassembly/reassembly, damage coverage), but did not explicitly disclose trip fees or overnight fees upfront, and the 'not a guess' framing is absent. Partial.",
+    "feels_fair_then_silence": "Rep never asked 'Does that feel fair?' or equivalent. Moved directly from estimate into mentioning no-worries damage coverage and then to a soft close ('I'll send everything in the email...you can just respond'). Not asked.",
+    "on_time_guarantee_delivered": "Rep says 'on time guarantee' but only mentions the 2.5-hour minimum and 15-minute increments; does not explain the discount terms (starts discounting immediately if late). Partial.",
+    "damage_coverage_delivered": "Rep states 'no worries damage coverage...give you up to $2,000 coverage for any accidental damages' but does not explicitly state 'no deductible / no fine print' or that it's built into the rate (not an add-on). Partial.",
+    "closes_the_loop": "Rep does not ask a version of 'Does that put those to rest?' or similar closing question for the Two Promises section. The customer raised no concerns in Section 2, so no explicit loop to close. False.",
+    "final_concerns_check": "Rep never asks a genuine final-concerns check ('What's still concerning you about this move?') or even a throwaway 'any questions?' before moving to close. Not asked.",
+    "explicit_ask": "Rep never asks 'Would you like our help with your move?' or any explicit ask for the business. Instead says 'I'll send everything in the email and yeah, you can just respond to the email, give us a call. Whichever works for you.' This is a soft handoff, not a close. Never."
+  },
+  "top_strength": "Joanna clearly gathered the specific items being moved (desks, chairs, dressers, bed, bookshelf) and built an estimate directly tied to those details plus the two-story/storage-distance variables, showing strong item-level specificity that personalizes the quote.",
+  "coaching_note": "The call lacks any explicit ask for the business \u2014 Joanna handed off with 'I'll send everything in the email' rather than asking 'Would you like our help with your move?', and she never asked 'Does that feel fair?' after the estimate or a genuine final-concerns check before closing, leaving the sale completely open-ended."
+}

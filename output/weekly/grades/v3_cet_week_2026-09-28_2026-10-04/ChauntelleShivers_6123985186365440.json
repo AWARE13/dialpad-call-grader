@@ -1,0 +1,43 @@
+{
+  "call_id": "6123985186365440",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 11.7,
+  "datetime_ct": "2026-09-30 17:44 CT",
+  "external_number": "+12149188206",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep jumps straight into 'I'll need a couple of pieces of information just so I can get you the right rate' with no time-box or 'quote you can depend on' framing, and never waits for a yes.",
+    "their_agenda": "Never asked. Rep moves directly from gathering addresses into logistics probing.",
+    "logistics_details_gathered": "Covered: property type (house), floor/stories (one story), rooms (two bedroom), walking distance (10 feet), big items (washer/dryer, freezer), box count (30 boxes). Missing: additional rooms beyond two bedrooms, special considerations beyond items being moved.",
+    "box_count_asked": "Asked as 'approximately how many boxes' \u2014 customer responds 'Just guess, and I'd say thirty.' Not framed as a typical-count overflow check.",
+    "estimate_anchor": "Range given ($505\u2013$606 for 1:30\u20132:00 slot; $660\u2013$762 for 8:00\u20138:30 slot) but no personalization to customer's stated concerns (elderly, heat sensitivity, minimal items due to selling furniture).",
+    "pricing_framing": "Trip fee disclosed ($150 for morning Garland location), but no 2.5-hour-minimum or 15-minute-increments commitment framing; no explicit 'not a guess' language. Rep does mention '2.5 hour minimum' once when adjusting estimate but doesn't frame it as part of the pricing transparency upfront.",
+    "feels_fair_then_silence": "Never asked. Rep says 'So the minimum we have a two and a half hour minimum' and immediately pivots to options without pausing for customer reaction.",
+    "on_time_guarantee_delivered": "Not mentioned.",
+    "damage_coverage_delivered": "Mentioned: 'we have our no re damage coverage that's gonna cover-up to $2,000 worth of incidentals.' Missing: no-deductible and no-fine-print framing; coverage presented vaguely as covering 'incidentals' rather than fully transparent terms.",
+    "closes_the_loop": "No version of 'Does that put those to rest?' asked. Rep moves from damage coverage mention to confirming email without looping back.",
+    "final_concerns_check": "Asked as 'Did you have any other questions for me that I can answer?' \u2014 a generic throwaway, not a genuine 'What's still concerning you about this move?'",
+    "explicit_ask": "Never asked. Customer volunteers 'why don't we do that and I'll go ahead and book it' \u2014 rep accepts this but never proactively asks 'Would you like our help with your move?'",
+    "rate_lock_mentioned": "Not mentioned.",
+    "booking_confirmed": "Partial. Confirmed: arrival window (8:00\u20138:30 AM after customer change), confirmation email being sent, date (October 5). Missing: phone number confirmation restate, crew size, note left for crew about customer concerns (elderly, heat sensitivity)."
+  },
+  "top_strength": "Rep gathered all four core discovery items (name, moving day, route, size) cleanly and maintained good rapport, with the customer feeling comfortable enough to ask follow-up questions and change preferences mid-call.",
+  "coaching_note": "Section 1 is missing the quid pro quo framing entirely \u2014 start every call with 'This will take 10\u201315 minutes and you can walk away with a quote you can depend on. Does that sound good?' before moving into probing, and Section 2 never asks 'Other than price, what are your biggest concerns?' which skips the entire agenda-setting that makes the rest of the call targeted."
+}

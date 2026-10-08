@@ -1,0 +1,43 @@
+{
+  "call_id": "4672619354038272",
+  "rep_name": "Danah 2Celestial",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 12.4,
+  "datetime_ct": "2026-09-28 19:27 CT",
+  "external_number": "+16462729816",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never frames the call with time-box, promise of dependable quote, or waits for customer yes. Jumps directly into \"Can I have the zip code for the pickup and the drop-off.\"",
+    "their_agenda": "Rep never asks about concerns beyond the items. Goes straight into logistics when customer mentions \"I just need a king size ad board.\"",
+    "two_layers_deep": "N/A \u2014 customer raised specific concerns (mattress weight, wrapping, frame disassembly, tool compatibility, timing), but rep acknowledged with backfill/reassurance rather than probing deeper to understand the underlying worry.",
+    "estimate_anchor": "Rep gives hourly rate ($208 for two movers) and computes $520 total for 2.5-hour minimum, but never anchors to typical box count or homes this size. Does not personalize to customer's prep level or concerns about wrapping/efficiency.",
+    "pricing_framing": "Rep mentions 2.5-hour minimum and 15-minute increments; does NOT proactively disclose trip fees, overnight fees, or delivery materials. No \"not a guess\" framing.",
+    "feels_fair_then_silence": "Rep never asks \"Does that feel fair?\" or any equivalent. Customer asks price directly; rep answers; no pause for reflection.",
+    "on_time_guarantee_delivered": "Not mentioned at all.",
+    "damage_coverage_delivered": "Not mentioned at all.",
+    "closes_the_loop": "No. Rep does not ask if Two Promises put concerns to rest.",
+    "final_concerns_check": "Rep does not ask genuine version of \"What's still concerning you?\" before close.",
+    "catch_all_asked": "Not asked.",
+    "explicit_ask": "Rep never asks \"Would you like our help with your move?\" Customer initiates pivot to compare quotes: \"Let me call, I have I'm just doing my diligence, I have two more numbers I want to call them.\" Rep responds with availability but does not make an explicit ask.",
+    "rate_lock_mentioned": "Rep says \"we don't require a deposit to book\" \u2014 rate-lock framing is implicit in deposit waiver, but not explicitly stated as a lock guarantee.",
+    "booking_confirmed": "Rep collects email, pickup and drop-off full addresses, and confirms 2:30\u20134:30 PM arrival window for tomorrow. Missing: confirmation of phone number (email given, not phone), no confirmation of crew size explicitly, no notes left for crew about customer's concerns (wrapping, efficiency, tool compatibility, carpet protection)."
+  },
+  "top_strength": "The rep handled multiple customer concerns about mattress wrapping, frame disassembly, tool compatibility, and carpet protection with calm acknowledgment and reassurance about crew training and equipment\u2014building trust without being defensive.",
+  "coaching_note": "The biggest gap: this call skipped Section 1's quid pro quo framing entirely and never asked \"Other than price, what are your biggest concerns?\" (Section 2's Their Agenda) \u2014 you went straight into logistics and let the customer drive the agenda, which left the Two Promises (Section 5) and a real close (Section 7) undelivered; you need to own the structure of the call before the customer compares you to competitors."
+}

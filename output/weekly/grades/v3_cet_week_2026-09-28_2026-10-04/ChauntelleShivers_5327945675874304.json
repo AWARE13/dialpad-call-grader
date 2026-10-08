@@ -1,0 +1,41 @@
+{
+  "call_id": "5327945675874304",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 10.6,
+  "datetime_ct": "2026-10-01 14:38 CT",
+  "external_number": "+12147920635",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 8,
+  "total_score": 53,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'Do you have about ten minutes to kind of run through some details with me?' but never frames the 10\u201315 minute time commitment, the promise of a dependable quote, or waits for explicit agreement before proceeding.",
+    "their_agenda": "Rep immediately begins discovery ('if I'm looking at this correctly we're just simply moving you from one unit to another') without first asking 'Other than price, what are your biggest concerns about this move?'",
+    "two_layers_deep": "N/A \u2014 customer mentioned the tight entryway corner as a concern early on ('The entryway is a little tight, it's like a, a tight corner') but the rep acknowledged it once ('Okay, you got it') and pivoted without digging deeper into the concern or its impact.",
+    "active_listening_reflection": "N/A \u2014 no summary reflection offered of customer's stated concerns.",
+    "estimate_anchor": "Rep states: 'for this particular move based off the information that you gave to me pretty straightforward, we are moving from a second floor to a second floor with just stairs, we're still gonna load the truck. So I'm getting about three to four hours' and 'Cost wise I am ranging between 612 and 816' \u2014 both a typical range and personalization to the customer's minimal items and same-complex move.",
+    "pricing_framing": "Rep mentions '2.5 hour minimum' and 'you still only pay for the time you use' and 'no deposit, it's free to reserve' but does not disclose any trip fee, overnight fee, or packing materials costs upfront.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or similar closing question after presenting the estimate.",
+    "on_time_guarantee": "Not mentioned anywhere in the call.",
+    "damage_coverage": "Not mentioned anywhere in the call.",
+    "explicit_ask": "Rep asks 'Did you want to go ahead and at least reserve that truck' \u2014 plain ask without softening or built-in out.",
+    "rate_lock_mentioned": "Rep states 'As you there is no deposit, it's free to reserve. If you need to cancel that it's free to cancel, it's free to move around to modify.'",
+    "booking_confirmed": "Rep confirms: date (October 6th), time window (8:00 to 8:30), but does NOT confirm phone number, arrival window detail beyond start time, crew size, final addresses, or any notes about the tight entryway concern the customer raised."
+  },
+  "top_strength": "Chauntelle gathered comprehensive logistics details (furniture, boxes, stairs, garage items, fragile items, tight entryway) through natural, conversational probing and built a personalized estimate that reflected the customer's minimal inventory and same-complex move.",
+  "coaching_note": "Section 2 must open with 'Other than price, what are your biggest concerns about this move?' before any probing starts \u2014 this call skipped it entirely and missed the chance to surface and address the customer's tight entryway worry as a real concern rather than just a logistical note."
+}

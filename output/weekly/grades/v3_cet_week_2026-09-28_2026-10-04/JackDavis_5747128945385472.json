@@ -1,0 +1,39 @@
+{
+  "call_id": "5747128945385472",
+  "rep_name": "Jack Davis",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 6.4,
+  "datetime_ct": "2026-09-28 16:22 CT",
+  "external_number": "+19727045342",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 2,
+  "total_score": 43,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never frames the 10-15 minute time commitment or the 'quote you can depend on' value prop upfront. Jumps straight into pricing talk.",
+    "discovery_basics": "Rep asks: 'Are you in McKinney or like in that area?' (location/city), 'Friday, Saturday or like a weekend or sorry, a weekday' (moving day). Does NOT ask customer's name or confirm apartment size beyond 'one bedroom' stated by customer.",
+    "their_agenda": "Rep never asks 'Other than price, what are your biggest concerns about this move?' \u2014 goes directly into pricing and logistics probing.",
+    "estimate_anchor": "Rep gives range: 'a one bedroom apartment will generally take us anywhere from about three, anywhere from about three to maybe four hours. So in general, without getting too many details you're looking at anywhere from about $630 to about $840.' Also anchors to $525 minimum with 2.5-hour floor.",
+    "pricing_framing": "Rep states: 'There's no other fees, there's no travel fees, there's no material costs, there's no tax. There's no credit card fees. There's literally nothing else. There's a two and a half hour minimum... It's prorated fifteen minutes at a time.'",
+    "feels_fair_then_silence": "After giving estimate range, rep does NOT ask 'Does that feel fair?' Customer volunteers objection: 'Oh, okay. Yeah, that's higher than I want to pay.' No structured 'feels fair' prompt followed by silence.",
+    "on_time_guarantee": "Not mentioned anywhere in call.",
+    "damage_coverage": "Not mentioned anywhere in call.",
+    "explicit_ask": "Rep says: 'But yeah, if you would like to move forward all you gotta do is just call us back and then, you know, we'll get you set up with an official quote' \u2014 softens the ask with 'call us back' language, effectively handing off rather than directly requesting the business.",
+    "booking_confirmed": "Rep confirms truck size (26 ft) but does NOT book. No date confirmed, no phone recorded, no arrival window set, no crew size discussed, no addresses confirmed, no notes left for crew. Call ends with customer saying 'I'll call back if I want to schedule it.'"
+  },
+  "top_strength": "Jack provided a clear, detailed pricing explanation with transparency on hourly rates, minimums, and no-hidden-fees framing that directly addressed the customer's cost concerns.",
+  "coaching_note": "Skip the pricing pitch altogether until after you ask 'Other than price, what are your biggest concerns?' \u2014 you jumped to rates and logistics before understanding the customer's real agenda, which left you answering price objections with no context."
+}

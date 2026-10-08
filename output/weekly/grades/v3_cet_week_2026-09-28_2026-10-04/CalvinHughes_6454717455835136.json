@@ -1,0 +1,38 @@
+{
+  "call_id": "6454717455835136",
+  "rep_name": "Calvin Hughes",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 6.4,
+  "datetime_ct": "2026-10-02 21:15 CT",
+  "external_number": "+15124975298",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 38,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never delivered the framing: 'we have availability, this takes 10-15 minutes, you can walk away with a quote you can depend on.' Rep jumped straight into logistics.",
+    "their_agenda": "Not asked. Rep never asked 'other than price, what are your biggest concerns about this move?'",
+    "estimate_anchor": "Rep said 'you're probably gonna be looking maybe 44 to five hours' but did not frame it as a typical range for a home this size, and no personalization tied to this customer's specific move.",
+    "pricing_framing": "Rep mentioned 'all inclusive hourly rate' and '15 minute increments,' meeting part of the transparency standard, but never disclosed trip fees, overnight fees, or materials fees upfront, and did not frame the 2.5-hour minimum or 'not a guess' commitment.",
+    "feels_fair_then_silence": "Never asked 'does that feel fair?' No pause.",
+    "two_promises": "On-Time Guarantee not mentioned. No Worries Damage Coverage not mentioned.",
+    "final_concerns_check": "Rep said 'Alright perfect' but never asked a genuine version of 'what's still concerning you about this move?' Just wrapped the call.",
+    "explicit_ask": "Rep never asked 'would you like our help with your move?' The customer offered to book ('let's do that') and rep accepted, but rep did not explicitly ask for the business.",
+    "booking_confirmed": "Rep confirmed moving date (Oct 9), phone (512-497-5298), email, first address, arrival window (8:30-9:00 AM), and crew size ('book out a couple of guys'). Missing final/permanent house address (customer said they'd provide 'early next week'), and no notes left with crew about customer concerns (none were discovered)."
+  },
+  "top_strength": "Calvin captured the three-stop logistics clearly, probed for key details like floor/elevator/walking distance, and held the booking even when the customer couldn't provide complete addresses\u2014then sent a follow-up plan to gather missing info.",
+  "coaching_note": "Lead with the quid pro quo framing and wait for a yes before probing; ask their agenda and their concerns before jumping into logistics; deliver the Two Promises section; and ask the explicit close 'would you like our help with your move?' before assuming the booking is confirmed."
+}

@@ -1,0 +1,42 @@
+{
+  "call_id": "6294335844032512",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 15.7,
+  "datetime_ct": "2026-10-02 17:09 CT",
+  "external_number": "+18479463382",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 8,
+  "total_score": 78,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "So let's get you coded. We'll ask you a few questions to create a profile and give you in the right track and this would take about five to ten minutes of your time, so we can build an accurate code. You can depend on, sounds good. [Rep waited for 'Yup' before continuing]",
+    "discovery_basics": "Name: Garrison Bennett; Moving day: Sunday October 11th morning; Route: 3101 South Lamar Boulevard to 10820 south interstate 35, Austin; Size: one bedroom, ~1100 sq ft current",
+    "their_agenda": "Do you have any concerns or any important things that you wanted to answer during this call today? [Asked after availability check, but before detailed probing started\u2014after initial property type question but early in call]",
+    "logistics_details_gathered": "Floor/stories both locations (3rd floor with elevator, 2nd floor stairs); property type (apartment both); walking distances (20 yards to elevator, ~250-300 feet within building; 10-15 feet to stairs, 30 feet to door); furniture items (couch, coffee table, desk, mattress); access concerns checked; box count estimated (15-25 boxes)",
+    "estimate_anchor": "Typical one bedroom apartment would normally take two movers and one truck as between two and a half to three and a half hours...This is also a one bedroom apartment located on the second floor which stairs. So we'll send out two movers and one truck estimated time is between three to four hours. Estimated cost would be $840",
+    "pricing_framing": "We charge an already weight of 105 dollars per hour per mover and we provide 26 foot box truck with everything needed, everything is already included on the auto...In addition to that simple and easy to understand pricing...How the clock works is that the time will only start as soon as we get on site...we have a minimum of two and a half hours once you go over that it will always be prorated into fifteen minute increments",
+    "feels_fair_then_silence": "Not asked",
+    "on_time_guarantee_delivered": "We value your time. So, if you cannot make it to the time window that we arrange, we immediately start discounting money of your final bill",
+    "damage_coverage_delivered": "We have no worry damage coverage included on the ad we that you're paying us, we will provide up to 2000 dollars per Mai that is to repair, replace and reimburse for your items",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or similar closing confirmation",
+    "explicit_ask": "Would you like our help with your move? [Asked plainly, customer asked clarifying question rather than saying no, then rep asked again: I just wanted to ask if you wanted us to lock that in for you and help you out with regards to your upcoming move]",
+    "rate_lock_mentioned": "There's no deposit required, no recent occurring your spot",
+    "booking_confirmed": "Date (Sunday 11th October, 8:30-9:00 AM) and phone number confirmed via earlier contact capture; arrival window (8:30-9:00 AM) stated; crew size (2 movers, 1 truck) mentioned; addresses captured in discovery; no crew notes left about customer concerns"
+  },
+  "top_strength": "Rep gathered comprehensive logistics details (floor, walking distances, furniture, special items, box count) and delivered pricing framing with transparent fee structure, minimum, and increment details clearly.",
+  "coaching_note": "Skip the \"Does that feel fair?\" pause entirely and ask it explicitly with genuine silence before the ask\u2014this call jumped straight from estimate explanation to pricing variants without checking customer comfort, then moved to close without ever asking if concerns from Section 2 were addressed."
+}

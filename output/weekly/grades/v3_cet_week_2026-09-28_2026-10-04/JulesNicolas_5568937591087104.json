@@ -1,0 +1,42 @@
+{
+  "call_id": "5568937591087104",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 7.5,
+  "datetime_ct": "2026-10-01 19:33 CT",
+  "external_number": "+19736689979",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Jules does not frame the call with the 10-15 minute time-box and 'dependable quote' promise. He jumps to 'let me just get a few more additional information from you' without the opening framing or waiting for a yes.",
+    "their_agenda": "Jules asks 'aside from the quote in general do you have any specific concerns about your upcoming move?' \u2014 but this comes AFTER he's already asked about the moving date and address (probing has started). Then Patricia says 'No' and Jules moves on. No real two-layer follow-up on any concern because none surfaced.",
+    "estimate_anchor": "Jules provides both a typical range ('budget like a four to five hour day') and personalizes it to the customer's specific items and situation ('depends on how easy or how complicated some of the disassemble and reassembly would be'). He also anchors with the hourly rate ($202/hour for three movers) and gives a specific range ($808 to $1,010).",
+    "pricing_framing": "Jules fully covers no additional fees ('we do not have any additional fees, you know, we don't have anything like a fuel fee. No assembly reassembly fees, no hidden fees of any type at all'), the 2.5-hour minimum and 15-minute increments ('we have a minimum of two and a half hours and then after that we just prorate every fifteen minutes'). Pricing framing is complete.",
+    "feels_fair_then_silence": "Jules never asks 'Does that feel fair?' or any equivalent. Patricia volunteers 'Yeah, that sounds, that works' but Jules does not pause or invite her to voice any concern\u2014he moves directly into 'Alright, well you know what let me just give you some numbers'.",
+    "on_time_guarantee": "Jules never mentions the On-Time Guarantee or any discount terms for lateness.",
+    "damage_coverage": "Jules never mentions the No Worries Damage Coverage, the $2,000 coverage, or any damage/protection guarantee. He does mention wrapping furniture in blankets and moving pads as part of the service, but does not frame it as a formal coverage promise.",
+    "closes_the_loop": "Jules does not ask 'Does that put those to rest?' or any equivalent. The Two Promises section is not delivered at all.",
+    "final_concerns_check": "Jules does not ask 'What's still concerning you about this move?' or 'Any questions?' at the end. He moves directly from pricing into booking logistics without a final concerns check.",
+    "catch_all_asked": "Jules does not ask 'Anything coming with you we haven't talked about?' or an equivalent catch-all.",
+    "explicit_ask": "Jules never explicitly asks 'Would you like our help with your move?' or a clear direct ask. Patricia volunteers 'If I could set this up I would like to do that. Yes.' \u2014 but the rep did not make the ask; the customer initiated the close.",
+    "rate_lock_mentioned": "Jules does not mention rate-lock or any commitment that the quoted price holds.",
+    "booking_confirmed": "Jules confirms moving date (Sunday), departure address (1000 Fort Worth Avenue, unit 1315), destination gate code (7711) and house number (647), and arrival window (8:30 to 9 a.m.). He does NOT confirm phone number, does NOT confirm crew size (though 3 movers was discussed), and does NOT record what Patricia was concerned about (which was nothing, but the rep also did not note this for the crew). Partial credit \u2014 arrival window and addresses are there, but phone and crew-specific notes are missing."
+  },
+  "top_strength": "Jules gathered complete logistics detail (two apartments, multiple flights of stairs, furniture layout, all items listed) and delivered a transparent, anchored estimate with full fee disclosure and 2.5-hour minimum framing before the customer even asked.",
+  "coaching_note": "Skip the quid pro quo framing entirely and jump straight to probing, never ask for the business explicitly, and omit both Two Promises sections \u2014 this call was missing the foundational sales structure (open framing, final concerns check, explicit close, and all guarantee messaging) that turns a quote into a close."
+}

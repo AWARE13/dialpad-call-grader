@@ -1,0 +1,31 @@
+{
+  "call_id": "4631400390369280",
+  "rep_name": "Zhang Pammit",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 13.4,
+  "datetime_ct": "2026-10-03 15:58 CT",
+  "external_number": "+12147257468",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 8,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Rep asked 'Do you have any specific concerns or any important things that you wanted to enter during this call today?' but only after already asking about the move date and beginning discovery.",
+    "two_layers_deep": "Customer raised TV dismounting concern; rep acknowledged with 'Mm-hmm' and briefly stated capability ('we can be able to help you to dismount it but you cannot be able to help you to mount it on the new location') but did not probe deeper with 'tell me more about that.' Customer also mentioned a $6,000+ custom white sofa; rep acknowledged but did not follow up on concerns about its transport.",
+    "estimate_anchor": "Rep stated: 'a difficult one bedroom appointment would normally take two movers that's between two and a half to three and a half hours...estimated time is between three and a half to four and a half hours estimated cost would be $918' and personalized it to the customer's prep level and two-floor move.",
+    "explicit_ask": "Rep asked: 'Would you like me to lock that in for you?' \u2014 a clear, plain ask without a built-in out."
+  },
+  "top_strength": "Excellent logistics discovery \u2014 the rep systematically gathered property type, floor location, walking distances, elevator access, special items (TV, sofa, bed), valuables, and box count, painting a complete picture of the move with minimal gaps.",
+  "coaching_note": "Section 2 must happen before any probing begins: ask 'Other than price, what are your biggest concerns about this move?' in the opening, then genuinely follow up two layers deep on each concern raised instead of acknowledging and pivoting."
+}

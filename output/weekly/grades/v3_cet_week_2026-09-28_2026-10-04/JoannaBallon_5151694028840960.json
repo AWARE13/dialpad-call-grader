@@ -1,0 +1,40 @@
+{
+  "call_id": "5151694028840960",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 7.1,
+  "datetime_ct": "2026-10-04 17:01 CT",
+  "external_number": "+12107013639",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 70,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'Just wanna check if this is a good time take about ten to fifteen minutes.' \u2014 time-boxed ask present, but no clear promise of a dependable quote and no wait for affirmative yes before moving into probing.",
+    "discovery_basics": "Joanna confirmed: Saturday the tenth (moving day), 12945 I. Austra in San Antonio to 7997 Way Boulevard in Frisco (route), house is two story 2,800 square feet (size).",
+    "their_agenda": "Joanna: 'But before I start aside from the pricing, do you have any other concerns that you also want to discuss on this call?' \u2014 asked after already confirming the time frame and basic details, but before deep logistics probing begins.",
+    "logistics_details_gathered": "Property type (apartment), floor/stories (ground floor apartment / 2-story origin), bedrooms (3 bedrooms being left, moving items from 2,800 sqft house to apartment), rooms (living room, bedrooms identified), walking distance (parking near door fine, not a walk), special considerations (oversized items, fragile items both asked and denied), additional items (washer, dryer, refrigerator mentioned).",
+    "packing_services_offered": "Joanna: 'How about for packing do you need help with packing or are you gonna handle all the packing yourself?' \u2014 Customer declined (will do packing).",
+    "box_count_asked": "Joanna: 'Do you think you'll have more than fifty boxes to move or an estimated number?' \u2014 Customer responded 10\u201315 boxes.",
+    "estimate_anchor": "Joanna: 'Typically a two bedroom apartment or word of items. Typically that can take three and a half to five and a half hours if you're just moving locally... we're driving a truck. It can take five and a half to six hours... estimated budget of $4,685 including the transportation fee and the overnight.' \u2014 Anchored to home size (two-bedroom items) with a range (3.5\u20135.5 hrs local, 5.5\u20136 hrs with drive), personalized to the two-day split recommendation based on distance.",
+    "pricing_framing": "Joanna: '$103 per hour per mover... $206 per hour... already including... all the reps to protect your furniture... taxes, insurance credit card fees, all of that is already in the price... one time transportation fee of $1,905... overnight fee of $240... two and a half hour minimum... only charge in fifteen minute intervals... no hed fees of any type, no ster fees, no disassemble reassembly fees.' \u2014 Full fee transparency (trip fee $1,905, overnight fee $240) and commitment framing (2.5-hr minimum, 15-min increments).",
+    "on_time_guarantee": "Joanna: 'if we're un late, we provide discounts for your move.' \u2014 On-Time Guarantee mentioned but discount terms are vague ('we provide discounts') \u2014 not explicit about immediate/sliding scale discount structure.",
+    "damage_coverage": "Joanna: 'no worries damage coverage which would give you up to $2,000 coverage for any repair replacement reimbursement for any accidental damages.' \u2014 Coverage amount and scope stated, but no explicit mention of 'no deductible' or 'no fine print' framing, and no clarification that it's built into the rate.",
+    "explicit_ask": "Call ends with Joanna delivering estimate ($4,685 estimate, two-day recommendation) but never asks 'Would you like our help with your move?' or any recognizable explicit close. Call terminates without a booking request."
+  },
+  "top_strength": "Joanna conducted thorough, well-organized discovery across all three early sections (name, route, home details, logistics, parking, special items, packing needs, and box count) and delivered a fully itemized, anchored estimate with clear hourly rates, one-time fees, and service guarantees.",
+  "coaching_note": "The call ends without ever asking for the business \u2014 no explicit ask in Section 7, no confirmation of booking details, and no final concerns check in Section 6; Joanna also didn't pause after 'Does that feel fair?' to let the customer respond, and the Two Promises explanations (Guarantee and Damage Coverage) lack the specific terms clarity the rubric requires."
+}

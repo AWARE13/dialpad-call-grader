@@ -1,0 +1,34 @@
+{
+  "call_id": "6626371766099968",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 8.4,
+  "datetime_ct": "2026-09-28 16:59 CT",
+  "external_number": "+18133009438",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Not present. Rep jumps directly into 'When are you planning to do the move?' without framing the 10-15 minute time box or promise of a dependable quote.",
+    "discovery_basics": "Name (Timothy Bussen), moving day (Wednesday), route (133 Indera Crossing, Lavera TX to 2917 Bent Tree Drive), and size (2500/2250 sq ft current, 2800 sq ft destination) all obtained.",
+    "walkthrough_branch": "Home is 2800 sq ft (\u22651800 sq ft threshold). Rep correctly offers virtual walkthrough: 'we do a virtual walkthrough, so it's like a video call so we can see how much or how large the stuff that we will be moving to give you an accurate code' and successfully schedules it for 3:30 PM with confirmation and link-delivery instructions.",
+    "their_agenda": "Never asked. Rep moves straight from initial inventory description into logistics probing (property type, story count, addresses) without asking 'What are your biggest concerns about this move?'",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer.",
+    "active_listening_reflection": "N/A \u2014 no concerns were raised by the customer."
+  },
+  "top_strength": "Rep correctly identified the move as large enough for a virtual walkthrough, executed a clean routing to the specialist, and locked in a confirmed time and delivery method (text link at 3:30 PM) without abandoning the call.",
+  "coaching_note": "Before probing logistics, ask their agenda: 'Other than price, what are your biggest concerns about this move, and what do you want answers to on this call?' \u2014 this surfaces priorities that shape how the walkthrough specialist approaches the video tour."
+}

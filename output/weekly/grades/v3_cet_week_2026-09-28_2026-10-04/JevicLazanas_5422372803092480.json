@@ -1,0 +1,39 @@
+{
+  "call_id": "5422372803092480",
+  "rep_name": "Jevic Lazanas",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 18.2,
+  "datetime_ct": "2026-09-28 20:51 CT",
+  "external_number": "+15129231103",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 23,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 6,
+  "total_score": 74,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep: 'this will take about like ten minutes so that we can build you an accurate estimate. Sounds good.' Customer agrees, but rep doesn't wait for explicit affirmation before moving into agenda questions.",
+    "their_agenda": "Rep: 'What are your biggest concerns for this upcoming move and what are the most important things you want answers to on this call today?' Asked before probing started.",
+    "two_layers_deep": "Customer raises packing cost/time concern and storage unit complexity. Rep follows with: 'so technically okay, just to confirm, so aside from the apartment... you have like two additional two storage' and 'what size, what is the size of that storage?' and 'is it full or you know how full is it?' Multiple follow-up questions on both concerns.",
+    "active_listening_reflection": "No reflection. Rep does not summarize back customer's stated concerns (packing cost/time, multiple storage units) before moving into logistics probing.",
+    "estimate_anchor": "Rep: 'a typical one bedroom apartment usually takes two and a half to three and a half hours to completely move... I would estimate your move to be around...between six and a half to seven and a half hours, including the two hours allotted time for the kitchen... budget between $1,399 to $1,605.' Personalized to ground floor, multiple stops, packing service.",
+    "pricing_framing": "Rep discloses: '$206 per hour for two movers,' '$60 for packing materials,' 'no hidden fees of any type. No credit card fees, no transportation fees, no terrible fees, no disassemble reassembly fees,' '2.5 hour minimum' and '15 minute increments.' Both transparency and commitment framing present.",
+    "feels_fair_then_silence": "Rep does not ask 'Does that feel fair?' or equivalent. Moves directly to explicit ask after estimate.",
+    "on_time_guarantee_delivered": "Rep: 'the on time guarantee. So, if we can't make it in the time window that we arrange, we immediately start discounting money of your final bill.'",
+    "damage_coverage_delivered": "Rep: 'the no worries, damage coverage. So we want of course, you know, we want to have a smooth move. So we have this free evaluation coverage and it's included in the hourly rate. We provide up to $2,000 per move to repair, replace or reimburse for accidental damages.' Full delivery with no-deductible and included-in-rate framing.",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or similar. No loop-closing question after both promises delivered.",
+    "final_concerns_check": "Rep skips Section 6 entirely. After estimate and explicit ask, moves directly to booking details with no 'What's still concerning you?' or equivalent.",
+    "explicit_ask": "Rep: 'So having that said, would you like our help with your upcoming move on Friday October 9th, 2026?' Asked plainly with no built-in out."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details across three separate pickup locations (apartment, two on-site storage units, off-site storage unit) with excellent follow-up questions on sizes, fullness, access, and special items\u2014information quality that supports an accurate, personalized estimate.",
+  "coaching_note": "Add an active listening reflection in Section 2 to confirm you understood the customer's concerns before launching into logistics probing, and ask 'What's still concerning you about this move?' in Section 6 before pivoting to the close\u2014these two additions would strengthen buy-in and catch last-minute objections."
+}

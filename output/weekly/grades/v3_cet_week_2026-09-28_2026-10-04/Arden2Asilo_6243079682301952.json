@@ -1,0 +1,43 @@
+{
+  "call_id": "6243079682301952",
+  "rep_name": "Arden 2Asilo",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 8.3,
+  "datetime_ct": "2026-09-28 20:23 CT",
+  "external_number": "+13527345592",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 10,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'This is actually with regards to the move request that you put in online... I have some questions that might take around ten to fifteen minutes. Would that be fine?' \u2014 time-boxed but no explicit promise of 'a quote you can depend on' language, and customer answers 'Yes' so the wait is minimal but present.",
+    "their_agenda": "Rep asks early: 'Other than pricing of course. Well do you have any concerns or big, what are your biggest concerns about this move that you, that I need to know so I can answer them within this call, please.' Asked before probing logistics.",
+    "two_layers_deep": "Customer raises concern: 'I just need hands to take everything up to the unit... I've got everything else covered.' Rep responds with 'Mm-hmm' and 'Oh, I see so and the truck will be in lander' \u2014 acknowledges but does not ask 'tell me more about that' or dig deeper into the unload-only need or why she's doing her own packing/driving.",
+    "active_listening_reflection": "No summary reflection. Rep acknowledges ('Mm-hmm, Okay, I see') but never states back 'So what I'm hearing is you need unload-only help because you're packing and driving yourself \u2014 did I get that right?'",
+    "logistics_details_gathered": "Rep covers: truck size (15 ft), destination (second floor apartment, Leander), items (two TVs, 40\u201350 boxes), staircase access, two-bedroom, specific address. All major logistics covered.",
+    "box_count_asked": "Rep asks: 'How many total number of boxes do you think are we going to move for you?' Customer answers 40\u201350.",
+    "estimate_anchor": "Rep provides: '$192 per hour for two movers, 26 foot box truck... two and a half hour minimum to three hours maximum... $480 to $576 only.' Personalized to truck unload, second floor, staircase access.",
+    "pricing_framing": "Rep covers: '$192 per hour, everything included (gas, truck, taxes, insurance, pads, wraps, tools), 2.5-hour minimum, 15-minute increments.' Also discloses damage coverage ($2,000, zero deductible, no fine print) and on-time guarantee upfront.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' after presenting the estimate. Moves directly into Two Promises section and then into booking.",
+    "on_time_guarantee_delivered": "Rep states: 'We also have an on time guarantee. So, if the movers arrive late, you start to get discount on your final bill... the time will only start as soon as we are on site and start unloading... Then the time stops once we have finished unloading everything to the apartment.'",
+    "damage_coverage_delivered": "Rep covers: 'If anything gets damaged, gets broken, gets miss handled. You have a free evaluation coverage that provides up to $2,000 for the move... zero deductible and that's gonna be handled within three to five business days.' Fully delivered with no-deductible framing.",
+    "closes_the_loop": "Rep asks 'Do you have any question clarification regarding the moving process in general?' but does not follow up with a version of 'Does that put those [two promises] to rest?' \u2014 moves into estimate/booking without closing the loop on the two promises.",
+    "final_concerns_check": "Rep asks 'Before I send confirmation, do you have any question clarification for me so we can clear those.' This is a low-intent throwaway question, not 'What's still concerning you about this move?'",
+    "explicit_ask": "Rep asks directly: 'So would you want our help with the move to secure a booking?' \u2014 plain, no built-in out.",
+    "rate_lock_mentioned": "Rep states: 'We do not require any deposit.' This is mentioned in context of booking, not explicitly as 'your rate is locked' but implied by no deposit requirement.",
+    "booking_confirmed": "Rep confirms: date (Thursday, October 1st), arrival window (1:30 to 3:30 PM), crew size (two movers, 26 ft truck), address (117 Talon Grass Trail, Leander), phone contact from crew. Does not explicitly note crew will receive details about customer's concern (unload-only help needed), though rep does say 'They're gonna give you a call.'"
+  },
+  "top_strength": "Arden gathered full logistics details efficiently, asked the customer's main concern early before probing, and delivered both Two Promises (On-Time Guarantee and Damage Coverage) with full terms and transparency.",
+  "coaching_note": "Did not ask 'Does that feel fair?' after the estimate, skipped the active-listening reflection summarizing the customer's unload-only concern, and used a weak throwaway ('any clarification?') instead of a genuine final-concerns check\u2014these gaps left real money on the table and missed chances to build confidence."
+}

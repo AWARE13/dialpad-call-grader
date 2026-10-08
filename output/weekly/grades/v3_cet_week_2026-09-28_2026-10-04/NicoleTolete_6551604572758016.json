@@ -1,0 +1,41 @@
+{
+  "call_id": "6551604572758016",
+  "rep_name": "Nicole Tolete",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 9.8,
+  "datetime_ct": "2026-09-28 17:48 CT",
+  "external_number": "+14693437203",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 3,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "This call will just take ten to fifteen minutes then I'll be able to build you an accurate code you can depend on is now a good time?",
+    "their_agenda": "What are your biggest concerns and what are the most important things you want answers to on this call today?",
+    "two_layers_deep": "Customer explains complex storage-to-home scenario; Nicole asks about fullness of storage unit and weight of items, but does not pursue deeper follow-ups on the customer's core concern about 'how we go about that process' \u2014 one clarifying question per topic, no 'tell me more about that' pattern.",
+    "logistics_details_gathered": "Property type (one-story home, second-floor storage unit), floor access (elevator), distances (5 yards from parking to elevator, 20 yards from elevator to storage), driveway parking, additional stops all covered.",
+    "estimate_anchor": "For a typical 10x10 storage unit, it usually takes around four to five and a half hours to completely move locally in your case, since we're only moving a forty percent full 10x10 storage, in a second floor. Moving to a one story house with four and a half to five hours drive between location. I will estimate your move to take around seven and a half to eight and a half hours... It's good to budget around $3,330 to $3,534.",
+    "pricing_framing": "We charge $204 per hour for two movers and one truck. Everything is included in the hourly rate, like the fuel and truck taxes, insurance. All wrap pads and bans to protect your items... There's a one time travel fee of $1,560... an overnight fee of $240... There's no hidden fees of any type... You have us for as long as you need us for any move. We have a minimum of two and a half hours once we go over the minimum the time is prorated in fifteen minute increments.",
+    "feels_fair_then_silence": "Not asked after pricing is delivered.",
+    "on_time_guarantee_delivered": "If we cannot make it in the time window that we arrange, we immediately start discounting money of your final bill and the way the clock works is the time start as soon as we get on site and open the contract.",
+    "damage_coverage_delivered": "We have no worries damage coverage we provide up to $2,000 per move to repair replace or reimburse for any accidental damages... no credit card fees, no sterle fees, no disassemble or, or rate assembly fees, and no hidden fees of any type.",
+    "closes_the_loop": "No explicit 'Does that put those to rest?' or similar closing question after Two Promises section.",
+    "final_concerns_check": "Do you have any questions or anything for me? \u2014 throwaway form, not genuine.",
+    "explicit_ask": "Would you like our help with your move? \u2014 but immediately followed by customer saying 'I think we'll have to think about that. If you could, if you could send me the, if you can mail me the quote' and Nicole accepts without resistance, implying an easy out was built in.",
+    "rate_lock_mentioned": "Not mentioned.",
+    "booking_confirmed": "Email address confirmed; no date, phone, arrival window, crew size, or moving addresses re-confirmed for booking; no crew notes about customer concerns documented."
+  },
+  "top_strength": "Nicole gathered comprehensive logistics details (storage fullness, floor access, distance measurements, property layout) and delivered a detailed, anchored pricing estimate with full fee transparency and promise explanations.",
+  "coaching_note": "Section 2 concern follow-up was one-question shallow (ask about fullness, move on; ask about heavy items, move on) rather than two layers deep on the customer's stated core concern about 'how we go about that process' \u2014 and no reflection back at the end; Section 4 missing 'Does that feel fair?' pause; Section 6 final check was generic 'any questions' throwaway; Section 7 lacked rate-lock mention and allowed an easy email-and-think-about-it out instead of pushing for commitment."
+}

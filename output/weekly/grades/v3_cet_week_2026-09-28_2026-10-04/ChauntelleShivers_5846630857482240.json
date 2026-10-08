@@ -1,0 +1,41 @@
+{
+  "call_id": "5846630857482240",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 11.4,
+  "datetime_ct": "2026-10-01 16:34 CT",
+  "external_number": "+13462668283",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 1,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'Do you have about ten minutes to kind of walk through some details with me about your move on the eighth?' but never frames availability, the 10-15 minute time commitment, or the promise of a dependable quote in recognizable form, and does not wait for explicit yes before continuing.",
+    "their_agenda": "Asked late: 'do you have any type of mind, like, questions or concerns that I can kind of kick us off with?' but this happens after intro; however, customer immediately raises furniture reassembly concern, so timing is marginal. Rep then pivots to confirmation ('I'll confirm a couple of details') before fully probing concerns, making this asked-after-probing.",
+    "two_layers_deep": "Customer raises furniture reassembly concern. Rep acknowledges and says 'Let me just double-check to see if you would disassembled if we can reassemble it. So I'll send that over right now. What other questions do you have?' \u2014 one layer of follow-up, then a pivot. No second-layer dig into the customer's underlying worry (e.g., 'Is that something you're worried will cost extra?' or 'How important is that to your decision?'). Shallow.",
+    "active_listening_reflection": "No summary reflection. Rep acknowledges 'Okay, gotcha' but never reflects back what was heard or confirms understanding.",
+    "estimate_anchor": "No estimate provided at all. Rep moves through details, pricing framing, and fees but never states a range or anchored price.",
+    "pricing_framing": "Partial. Rep covers no stairwell fees, pay-for-time-used, 2.5-hour minimum, and no deposits (partial credit for some fee transparency and no-deposit framing), but never delivers the full 'not a guess' / 15-minute-increments commitment or anchors a typical range for this home size.",
+    "feels_fair_then_silence": "Not asked. No 'Does that feel fair?' or equivalent. Rep states pricing details and immediately asks 'Alright, any other questions I can help you with?'",
+    "on_time_guarantee_delivered": "Full. Rep says: 'our on time guarantee if for whatever reason, we don't arrive in that timeslot that we have set out for you. The money is automatically deducted off of your final bill' \u2014 covers the discount-immediately framing clearly.",
+    "damage_coverage_delivered": "Partial. Rep mentions '$2,000 for any kind of incidentals' and 'no worries damage coverage' but does not explicitly state 'no deductible' or 'no fine print' and does not confirm it is built into the rate, not an add-on.",
+    "closes_the_loop": "Not asked. Rep mentions the guarantees and coverage in a list format ('a few days before the move you were received an email...') but never asks 'Does that put those to rest?' or equivalent confirmation.",
+    "final_concerns_check": "Throwaway. 'Alright, any other questions I can help you with?' \u2014 empty, automatic no pattern, not genuine concern dig.",
+    "explicit_ask": "Never. Rep ends with 'Alright, well Bonnie, thank you for answering my call today and we do look forward to seeing you on the eighth.' This assumes the booking without ever asking 'Would you like our help with your move?' or any recognizable ask for the business.",
+    "rate_lock_mentioned": "Not mentioned. No reference to rate lock or rate protection.",
+    "booking_confirmed": "Partial. Rep confirms: moving date (the eighth), arrival window (8\u20138:30), and notates details on account, but does not explicitly confirm phone number, crew size, or articulate that notes about the customer's concerns (furniture reassembly question, stair complexity) were left for the crew. Arrival addresses (12700 Stafford Road, 2400 Montgomery Park Boulevard) are discussed but not re-confirmed as part of final booking."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details (property type, floor count, stair configuration, large-item inventory, box count, parking) that would allow an accurate estimate, and did so in a natural, conversational manner.",
+  "coaching_note": "Never provide a pricing anchor or estimate \u2014 you transitioned straight from details to fees and guarantees without stating what the move will cost, which left the customer unable to decide whether to book, and you never asked for the business at all, assuming the booking instead of closing it."
+}

@@ -1,0 +1,32 @@
+{
+  "call_id": "5501588341039104",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 6.2,
+  "datetime_ct": "2026-09-28 21:14 CT",
+  "external_number": "+18175016723",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "discovery_basics": "what date are you planning to move? [October 24th] ... what type of move are we doing? [house to house] ... can I have the pickup location address? [2310 Mansfield Lane, Cedar Park] ... what's the size of the house and how many stories and bedrooms? [2700 square feet, one story]",
+    "walkthrough_branch": "So since this is a large move, I will go ahead and endorse this to a large move specialist. So I would just like to confirm your contact number is 817-501-6723... please expect a call back within the day from our a large move specialist to provide you an accurate estimate",
+    "their_agenda": "Not asked \u2014 rep moved directly from name/date/location into logistics probing without asking about concerns or goals for the call",
+    "logistics_details_gathered": "Gathered: property type (house), stories (1 story at origin, 2 stories at destination), bedrooms (none at origin since furniture already in storage; 5 at destination), parking (yes at destination). Missing: walking distance, additional rooms, special considerations beyond the split storage situation. The split storage complicates count but was not fully explored as a logistics detail."
+  },
+  "top_strength": "Rep correctly identified the move as large (multiple stops, storage units involved) and routed it to a specialist rather than trying to quote on the spot, protecting quote accuracy.",
+  "coaching_note": "Before routing to a specialist, ask 'Other than price, what are your biggest concerns about this move?' \u2014 you skipped Their Agenda entirely, missing the chance to brief the specialist on what matters most to Andrea."
+}

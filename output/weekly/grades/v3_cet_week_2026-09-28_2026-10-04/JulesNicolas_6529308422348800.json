@@ -1,0 +1,39 @@
+{
+  "call_id": "6529308422348800",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 8.9,
+  "datetime_ct": "2026-09-29 21:33 CT",
+  "external_number": "+14693861308",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Jules: 'I just have a few additional questions for you today to get you an accurate estimate, that should take me about five to ten minutes. Is now a good time for you?' \u2014 Time-boxed but no explicit promise of a dependable quote, and no clear wait/confirmation before proceeding.",
+    "their_agenda": "Jules: 'quick question aside from the quote in general, do you have any specific concerns or any important questions you want answers to end this call today?' \u2014 Asked after the probing had already started (address confirmed first).",
+    "two_layers_deep": "Customer raises concern: 'Do you guys have like a minimum time that you need to fulfill for like a move?' Jules answers directly but does not follow up with 'tell me more' or explore underlying worry. When customer asks about video walkthrough option later ('is there any sort of like review'), Jules explains the process but doesn't dig deeper into why she's asking.",
+    "estimate_anchor": "Jules: 'you know, including the drive. I think this move will just take anywhere from four to six hours at most. So that cost of that would be anywhere from $1,800 and $48 to $2,292 that is for a Saturday move.' \u2014 Gives range anchored to home size and personalizes to drive time and specific rates.",
+    "pricing_framing": "Jules: 'the rate does include the gas, the truck taxes and insurance... a one time transportation fee of $960... And basically the way the clock works would be the time starts once we arrive at your apartment... you have a minimum of two and a half hours and then we just prorate every fifteen minute increments.' \u2014 Transparent on fees and clock mechanics upfront.",
+    "feels_fair_then_silence": "Not asked. Jules moves directly to availability: 'Well, yeah, right now we have availability for October 17th...'",
+    "on_time_guarantee": "Never mentioned.",
+    "damage_coverage": "Never mentioned.",
+    "final_concerns_check": "Not asked. Jules closes with 'if you have any questions, we're here until 5:30 PM' \u2014 generic, not a genuine 'what's still concerning you' framing.",
+    "explicit_ask": "Never asked 'Would you like our help with your move?' Customer ends with 'I would like to get like the quote so I can like review it and if everything looks good, then, then I'll book the day' \u2014 customer volunteers to review offline; Jules accepts without an explicit ask for the business."
+  },
+  "top_strength": "Jules gathered all core discovery details (name, moving day, route, size, special items) cleanly and delivered a fully transparent, anchored estimate with clear pricing structure and clock mechanics, helping the customer understand the exact cost model.",
+  "coaching_note": "Section 5 (Two Promises) and Section 6\u20137 (final concerns, explicit ask for business) were entirely skipped \u2014 add the On-Time Guarantee and No Worries Damage Coverage promises to every quote call, ask a genuine final concerns check before closing, and always ask 'Would you like our help with your move?' rather than letting the customer drift into offline review without a direct close."
+}

@@ -1,0 +1,37 @@
+{
+  "call_id": "4947378964832256",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 9.2,
+  "datetime_ct": "2026-09-29 14:22 CT",
+  "external_number": "+12149986698",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never frames the 10-15 minute time box with an explicit commitment about a dependable quote and wait for yes. Opening goes straight into discovery.",
+    "their_agenda": "Never asked. Rep moves directly into verifying move details without asking \"other than price, what are your biggest concerns about this move?\"",
+    "estimate_anchor": "Rep states hourly rate ($204) and gives range ($510-$612 for 2.5-3 hours), but does not personalize to this customer's specific concerns or move profile beyond the basic items.",
+    "feels_fair_then_silence": "Never asked. Rep delivers estimate and pricing details but does not ask \"does that feel fair?\" or create silence for customer reflection.",
+    "closes_the_loop": "Rep does not circle back to confirm the Two Promises have addressed customer concerns. No closing summary like \"Does that put those to rest?\"",
+    "final_concerns_check": "Never asked. No version of \"What's still concerning you about this move?\" appears before the close.",
+    "explicit_ask": "Rep frames booking as optional with built-in out: \"I'm gonna email this over to you and then you can just... if you could reply to the email and just say yes, let's go ahead and book it or you can give us a callback or shoot us a text message, whatever is most convenient.\" Softens the ask with multiple outs instead of plainly asking \"Would you like our help with your move?\"",
+    "booking_confirmed": "Partial. Rep confirms date (tomorrow, Sept 30), start time (2:30 PM), arrival window context, and mentions emailing quote. Does NOT confirm phone number for crew contact, crew size, final destination address detail (only mentions it in passing), or any crew notes about customer concerns."
+  },
+  "top_strength": "Rep gathered logistics details systematically (addresses, floor levels, elevator access, parking, unit numbers, items to move) and delivered clear, comprehensive pricing framing including fees, minimums, damage coverage, on-time guarantee, and no-deposit policy.",
+  "coaching_note": "Skip the quid-pro-quo framing and jump straight into probing\u2014then never circle back for their actual concerns; instead, ask \"other than price, what are your biggest concerns?\" early, reflect back what you hear, and ask \"does that feel fair?\" before moving to the close. Also remove the built-in outs when asking for the business\u2014say plainly \"Would you like our help with your move?\" and let silence do the work."
+}

@@ -1,0 +1,41 @@
+{
+  "call_id": "6084948079714304",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 9.9,
+  "datetime_ct": "2026-09-28 18:43 CT",
+  "external_number": "+18326006380",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep said 'that could take ten to fifteen minutes' and asked 'Is this a good time to talk about your move?' but did not frame a dependable quote promise and did not wait for explicit yes before launching into address confirmation.",
+    "discovery_basics": "Name (Ashley), moving day (October 4th), pickup (1640 ET C, Adjuster Boulevard, Houston 77008) and destination (5114 West Lacey garden loop, Houston 77018) confirmed; apartment type and size gathered.",
+    "their_agenda": "Rep asked 'But aside from this ma'am, do you have any other concerns about the moving process?' \u2014 but this came after substantial probing (property type, floor, distance, special items, TV size, appliances, destination details, access concerns).",
+    "two_layers_deep": "Customer raised multi-stop concern (drop-off at mother-in-law's apartment, then main destination). Rep dug in: 'are we only dropping off one couch?' and got specifics (one couch, two dressers), then confirmed full three-location sequence back to customer.",
+    "logistics_details_gathered": "Property type (1BR apartment and 2-story house), floors/stories (second floor stairs, two story destination), access (stairs only, parking/street parking), distances (parking to stairs, stairs to apt, driveway available), special items (60-inch TV), boxes (acknowledged 15\u201325 range, customer said less), additional stops (mother-in-law's first-floor apartment).",
+    "box_count_asked": "Rep offered typical range: 'Normally for a one bedroom apartment we see fifteen to 25 boxes. Do you think you would fall within that range?'",
+    "estimate_anchor": "Rep gave range: '3 hours to 4 hours' and hourly rate ($96/hour per mover, $192 total, 2.5-hour minimum), but stated estimate as '$5.76277 million' (apparent transcript error or verbal slip), not a personalized range tied to customer's specific multi-stop logistics.",
+    "pricing_framing": "Fully present: hourly rate structure ($96/mover, $192 for two movers), no hidden fees (gas, truck, taxes, insurance, wraps, pads, tools all included, no sterile/disassemble/reassemble/transportation fees), 2.5-hour minimum, 15-minute increments after minimum.",
+    "feels_fair_then_silence": "Not asked. Rep moved directly to availability: 'We actually have availability on Sunday, October 4th in the morning. A thirty to 9:00 AM is the arrival window. Would you like to reserve your schedule for this Sunday?'",
+    "on_time_guarantee": "Not mentioned.",
+    "damage_coverage": "Not mentioned.",
+    "final_concerns_check": "Not asked. Rep moved from booking confirmation directly to closing: 'So if everything is good then we're good to go. But then if you have any more questions or concern just reply back to that email.'",
+    "explicit_ask": "Never asked. Rep presented availability and asked 'Would you like to reserve your schedule for this Sunday?' (booking window question), but never asked the core close: 'Would you like our help with your move?' or equivalent.",
+    "booking_confirmed": "Partial. Confirmed date (October 4th), time window (8:30\u20139:00 AM), unit numbers (1021 and 714), and stated confirmation email will have date, time, addresses, contact info \u2014 but did not confirm phone number, crew size (stated as 2 movers but never confirmed), or crew notes about customer concerns (multi-stop, second-floor stairs access)."
+  },
+  "top_strength": "Rep thoroughly probed logistics for a multi-location move (apartment with stairs, mother-in-law drop-off, destination house) and dug two layers deep into the customer's stated concern, capturing all specifics and confirming the three-stop sequence back to the customer.",
+  "coaching_note": "Section 2 (Their Agenda) came after probing had already started, Section 4 ('Does that feel fair?') was never asked, Section 5 (Two Promises) were completely skipped, Section 6 (final concerns check) was not asked, and Section 7 never included the explicit ask for the business ('Would you like our help with your move?') \u2014 rep jumped straight to booking-window questions instead."
+}

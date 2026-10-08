@@ -1,0 +1,39 @@
+{
+  "call_id": "5418166769721344",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 10.1,
+  "datetime_ct": "2026-09-30 15:58 CT",
+  "external_number": "+18172915289",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 39,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never framed the call as 10\u201315 minutes with a dependable quote or asked for customer's agreement to proceed.",
+    "their_agenda": "Not asked. Rep went straight into logistics details from the submitted inventory.",
+    "estimate_anchor": "Rep stated: 'the hourly rate right now is a $306 and that includes everything... and then we have... the trip fee of $115.' Range given but not anchored to typical home size or personalized to customer's specific situation (20th floor, concerns about carpet/paintings).",
+    "pricing_framing": "Partial. Rep mentioned trip fee ($115) upfront and stated 'flat rate' model (not cubic yards), but never mentioned 2.5-hour minimum, 15-minute increments, or 'not a guess' framing.",
+    "feels_fair_then_silence": "Not asked. After giving the rate, customer said 'Alright, yeah. And you'll send that information to us also' and rep moved to sending estimate without pausing for feedback or asking 'Does that feel fair?'",
+    "on_time_guarantee": "Not delivered. No mention of On-Time Guarantee or any discount terms.",
+    "damage_coverage": "Partial. Rep mentioned: 'we do up to $2,000 and then of course case by case' but did not clarify no deductible, no fine print, or that it's built into the rate.",
+    "closes_the_loop": "No. Rep did not ask 'Does that put those to rest?' or similar closing question.",
+    "final_concerns_check": "Not asked. Call ended with customer saying 'I gotta go' and rep saying 'No, you're welcome. Okay, and then, oh, bye-bye.'",
+    "explicit_ask": "Never asked. Rep never said 'Would you like our help with your move?' Customer volunteered to end the call and asked for an estimate to be sent."
+  },
+  "top_strength": "Rep handled the customer's detailed special requests (carpet protection, painting wrapping, husband's cost-structure question) with patience and documented concerns in the system for the crew.",
+  "coaching_note": "This call skipped Section 1's quid pro quo framing entirely, never asked for the customer's agenda or concerns, and ended without an explicit ask for the business or booking confirmation\u2014build the discipline to follow the call card structure from opening to close, even on inbound referral calls."
+}

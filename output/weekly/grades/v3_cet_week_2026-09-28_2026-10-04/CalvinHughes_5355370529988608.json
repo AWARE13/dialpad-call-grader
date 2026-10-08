@@ -1,0 +1,36 @@
+{
+  "call_id": "5355370529988608",
+  "rep_name": "Calvin Hughes",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 6.2,
+  "datetime_ct": "2026-10-02 20:13 CT",
+  "external_number": "+18504857020",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Calvin never frames the 10\u201315 minute call structure or asks for a yes before proceeding. He jumps directly to 'what day were you looking to get moved?' after a minimal availability check.",
+    "their_agenda": "Calvin never asks 'Other than price, what are your biggest concerns about this move?' The customer volunteers that she needs storage, but Calvin doesn't probe for other concerns or worries.",
+    "estimate_anchor": "Calvin gives the hourly rate ($192/hour) and the 2.5-hour minimum total ($480) but does not anchor to a typical range for a studio move or personalize it to Kim's specific situation (storage, short timeline, father's assisted living). He also mentions the pad deposit but doesn't frame it as a typical or added cost in context.",
+    "pricing_framing": "Calvin mentions no trip fees, taxes, or credit card fees, and explains 15-minute increments and the 2.5-hour minimum. However, he does not use the 'not a guess' framing or the commitment language around those minimums.",
+    "feels_fair_then_silence": "Calvin never asks 'Does that feel fair?' or any version of it. He moves straight from pricing into storage-pad details and logistics without checking in.",
+    "explicit_ask": "Calvin never asks 'Would you like our help with your move?' or any direct ask for the business. He confirms the Monday booking and arrangement details, but never explicitly closes the sale.",
+    "booking_confirmed": "Calvin confirms date (Monday), arrival window (8:30\u20139 AM), and pickup address (8700 post oak lane). He does NOT confirm the unload address (customer says she'll send it via email), does not confirm crew size explicitly (though 2 movers + 1 truck is implied), and does not confirm phone number or notes left for crew about concerns."
+  },
+  "top_strength": "Calvin skillfully gathered detailed logistics about a complex move (assisted-living pickup, studio inventory, storage destination, elevator access, bed disassembly need) and showed genuine empathy ('No worries, yeah, definitely understand'), making Kim feel heard despite her jet lag and stress.",
+  "coaching_note": "You skipped the entire sales structure\u2014no quid pro quo, no agenda-setting, no 'Does that feel fair?', no explicit ask, and no Two Promises. You pivoted straight from availability into logistics and pricing, leaving the call feeling transactional rather than consultative; rebuild your call card habit so you hit every section in order, especially Section 2 (Their Concerns) and Section 5 (Two Promises), which build trust before and after the price."
+}

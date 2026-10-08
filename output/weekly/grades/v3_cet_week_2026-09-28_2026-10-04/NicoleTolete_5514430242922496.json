@@ -1,0 +1,31 @@
+{
+  "call_id": "5514430242922496",
+  "rep_name": "Nicole Tolete",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 8.4,
+  "datetime_ct": "2026-09-29 14:02 CT",
+  "external_number": "+18326964304",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 5,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "I'd like to ask first what are your biggest concerns and what are the most important things you want answers to on this call today?",
+    "two_layers_deep": "Customer says 'not sure if I'm gonna use movers or just run a U-Haul' and 'It would just be like my bedroom and then my desk' \u2014 Nicole responds with 'I see okay I see what you mean no worries' and immediately pivots to asking what furniture is being moved, rather than probing deeper into the U-Haul vs. mover concern or the 'not want to pay a lot of money' concern.",
+    "estimate_anchor": "For a typical 600 square footage home, it usually takes around three to four hours. To completely move locally in your case, since you're moving from a two story house to a three story house with four and a half to five hours drive between location. I will estimate your move to take around seven to eight hours... It's good to budget around $3,333 to $3,537.",
+    "explicit_ask": "Would you like our help with your move?"
+  },
+  "top_strength": "Nicole delivered the quid pro quo crisply, gathered all four discovery basics cleanly, and gave a fully detailed anchor estimate with proper pricing transparency (travel fee, overnight fee, hourly rate breakdown, minimums, per-15-minute increments) \u2014 the estimate section was strong.",
+  "coaching_note": "Never ask 'Does that feel fair?' then immediately move on without silence \u2014 Nicole skipped this critical pause entirely, jumped straight to pricing details after the estimate, and more broadly, the two concerns Samantha raised (U-Haul vs. movers, price sensitivity) were acknowledged but never dug into with follow-up questions, leaving money on the table for objection handling."
+}

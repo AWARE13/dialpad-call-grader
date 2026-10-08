@@ -1,0 +1,36 @@
+{
+  "call_id": "5464679380197376",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 9.6,
+  "datetime_ct": "2026-09-28 13:57 CT",
+  "external_number": "+18326330464",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 30,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 8,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 70,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "This should take about ten to fifteen minutes of your time to get you the most accurate code. Is this a good time to talk about your move?",
+    "their_agenda": "Before I proceed on asking you questions about the move, do you have any other concerns aside from the pricing?",
+    "estimate_anchor": "So for this move normally for a two bedroom apartment, we finished the move-in five and a half hours. So in your case we're coming from a fourth floor with elevator access and less boxes and what we normally see going to a one story house, I estimate the move to finish in four and a half hours to five and a half hours with two movers and one truck estimated cost $997 to $1,203.",
+    "pricing_framing": "We charge an hourly rate and that is $103 per hour per mover... gas and truck taxes, insurance, all the wraps and pads... we do have a travel fee of $70... we do have a minimum of two and a half hour after that minimum. The time is prorated in fifteen minute increments.",
+    "feels_fair_then_silence": "So would you like to be on the schedule for October 10th? No deposit is required. [Customer immediately responds without pause; rep does not hold silence]",
+    "explicit_ask": "So would you like to be on the schedule for October 10th? No deposit is required. [Built-in soft out: 'Maybe, sure no worries I'll just send you an email... just reply to that email if you're ready to book with us.']",
+    "booking_partial": "Confirmed date (October 10th), addresses (pickup 18111 Conterra Apt 1415, delivery 238 Saint Francis Ave), and details about the move content. Missing: phone number, arrival window, crew size explicitly confirmed."
+  },
+  "top_strength": "Jeline gathered exceptional logistics detail \u2014 property types, floor counts, walking distances, garage contents, access concerns (steps, surface type), TV size, and adjusted the estimate down when the customer clarified she'd already moved one bedroom out, showing real attentiveness to what affects pricing.",
+  "coaching_note": "Section 5 (Two Promises) and Section 6 (final concerns check) were completely skipped; when the customer asked to think it over and email back, Jeline should have delivered the On-Time Guarantee and Damage Coverage promises first, then genuinely asked what was still concerning her before accepting the defer, rather than abandoning those sections entirely."
+}

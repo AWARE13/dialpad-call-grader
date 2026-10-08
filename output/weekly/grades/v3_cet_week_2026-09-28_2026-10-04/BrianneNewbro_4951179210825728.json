@@ -1,0 +1,39 @@
+{
+  "call_id": "4951179210825728",
+  "rep_name": "Brianne Newbro",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 8.2,
+  "datetime_ct": "2026-10-02 18:40 CT",
+  "external_number": "+12102092741",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 39,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never framed the call as 10\u201315 minutes with a promise of a dependable quote or waited for explicit buy-in before proceeding.",
+    "their_agenda": "Rep asked 'do you have any specific questions you'd like or concerns you'd like answered on this call?' but only after already confirming the contact info and email. Customer raised concern about move date potentially changing, rep addressed it, but no deeper probing of any other concerns happened.",
+    "two_layers_deep": "When customer raised uncertainty about roommate's furniture and timing, rep acknowledged but did not dig deeper with follow-up questions like 'tell me more about that.' Rep pivoted quickly to estimate instead.",
+    "estimate_anchor": "Rep stated 'a typical box count for a move this size is about 25 to 35 boxes' and later said 'this move would be more of like a two and a half, three and a half hour move but let's keep it at the 44 hours and fifteen minutes.'",
+    "pricing_framing": "Rep disclosed hourly rate, fuel, taxes, insurance, pads, trip/damage coverage, and 2.5-hour minimum with 15-minute increments: 'Everything is included in the hourly rate, the fuel and trucks taxes and insurance all wrap pads... time is prorated in fifteen minute increments.'",
+    "feels_fair_silence": "Rep never asked 'Does that feel fair?' or paused for customer reaction to the estimate.",
+    "on_time_guarantee": "Rep made no mention of on-time guarantee or any discount for lateness.",
+    "damage_coverage": "Rep mentioned 'no worries damage coverage' and '$2,000 per move to repair, replace or reimburse for accidental damages' but did not emphasize 'no deductible / no fine print' or explicitly state it's built into the rate (though she did say it's 'included in the hourly rate').",
+    "closes_the_loop": "Rep did not ask 'Does that put those to rest?' or any version of confirming the two promises section landed.",
+    "final_concerns_check": "Rep asked 'any other questions?' which is a throwaway phrase, not the genuine 'What's still concerning you about this move?' required by the script.",
+    "catch_all": "Rep never asked 'Anything coming with you we haven't talked about?' or equivalent.",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' or made an explicit ask for the business. The call ended with customer saying 'I think that's all I had' and rep saying 'if you do have any questions don't hesitate to reach out' \u2014 a closing but no commitment ask."
+  },
+  "top_strength": "Rep gathered detailed logistics (furniture, box count, layout, TV, dining table specifics) and clearly disclosed pricing structure with hourly rate, 2.5-hour minimum, and 15-minute increment prorating, giving the customer confidence in how billing would work.",
+  "coaching_note": "You must ask 'Would you like our help with your move?' or equivalent to actually ask for the business \u2014 this call ended with no explicit close or booking commitment, leaving the sale on the table despite a smooth discovery and estimate."
+}

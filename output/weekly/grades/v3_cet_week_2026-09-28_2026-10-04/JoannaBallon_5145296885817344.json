@@ -1,0 +1,32 @@
+{
+  "call_id": "5145296885817344",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 6.7,
+  "datetime_ct": "2026-09-29 19:58 CT",
+  "external_number": "+13145815693",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'I'd be happy to help you out with that but I just need to ask you some questions about the move. Might take about ten to fifteen minutes if this is a good time.' \u2014 Framing present (time-boxed) but no explicit wait for a yes before moving into questions. Rep immediately pivots to 'may I please have your full name' without confirming customer is ready.",
+    "walkthrough_branch_offered": "Joanna: 'Yes sir, we got your profile here actually for a house the size we recommend doing a virtual walkthrough. So it's like a video call that way we can give you a more personalized estimate... are you available to do that?' Correctly identified house size (255 Painted Rock, San Antonio) and offered the virtual walkthrough. Customer initially hesitant ('Not at the moment, but the big thing is I wanted to just find out timeslot'), but rep re-pitched and customer confirmed willingness to schedule it after figuring out timing.",
+    "discovery_basics": "Name: Henry Ellard (obtained). Email: HOP85@aol.com (obtained). Moving day: Friday or Sunday, next week, specifically the 9th (obtained). Route: San Antonio to Leander (obtained). Size: Not numerically quantified beyond 'house this size' \u2014 no explicit square footage or room count asked. Three of four clear, one ambiguous.",
+    "their_agenda": "Rep never asked 'Other than price, what are your biggest concerns about this move, or what do you want answers to on this call?' Customer raised concerns organically (timing of move, start time, same-day vs. multi-day, overnight fees) but rep did not probe their underlying concerns or agenda using the script."
+  },
+  "top_strength": "Joanna correctly identified the customer's profile matched the 1,800+ sq ft threshold and smoothly offered the virtual walkthrough option with clear framing about why it serves the customer better, then professionally scheduled the follow-up when the customer committed to calling back.",
+  "coaching_note": "Section 2 was skipped entirely \u2014 you never asked 'Other than price, what are your biggest concerns about this move?' before diving into logistics and timeline details; that discovery question is critical even on a walkthrough-routed call to understand what matters most to the customer."
+}

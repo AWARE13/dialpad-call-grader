@@ -1,0 +1,43 @@
+{
+  "call_id": "4674400756736000",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 9.5,
+  "datetime_ct": "2026-09-30 14:09 CT",
+  "external_number": "+13036386585",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 8,
+  "total_score": 64,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says: 'This should take about five to ten minutes then we'll be able to build you an accurate code you can depend on, sounds good.' The framing is present but time-boxed to 5-10 min instead of the 10-15 min standard, and the rep does wait for a yes before continuing.",
+    "their_agenda": "Rep asks 'Do you have any concerns or any important things that you wanted to answer during this call today?' \u2014 but this comes AFTER the pod-size question, placing it after initial probing has started.",
+    "two_layers_deep": "Customer said 'No' to concerns; no concerns raised, so N/A applies.",
+    "active_listening_reflection": "No reflection offered; N/A because no concerns were raised.",
+    "box_count_asked": "Rep asks: 'And do you have to know how many boxes do we have inside the sixteen foot truck or Lo?' Customer answers 'around sixty or so.'",
+    "estimate_anchor": "Rep states: 'a typical what sixteen foot the part would normally takes two movers between two and a half hours. So, three and a half hours to completely move-in your case we are only unloading the sixteen pod... estimated time is for the minimum, which is two and a half hours estimated cost would be $520.' This anchors to a typical range and personalizes to the unload-only scenario.",
+    "pricing_framing": "Rep discloses: '$104 dollars per hour per mover,' 'no hidden fees of any type, no credit card fees, no sterle fees, no disassemble or reassembly fees,' '2.5 hour minimum,' and 'prorated in 215 minute increments.' Full transparency and commitment framing are both present.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or any equivalent. Moves straight from pricing explanation to 'The earliest that we can do for tomorrow would be at 1:00 PM, would that be okay with you?'",
+    "on_time_guarantee_delivered": "Rep says: 'we have on time guarantee we value your time. So, if you cannot make it to the time window that we arrange, we immediately start this discounting. Many of your final bill.' The discount terms are stated, though the phrasing is slightly garbled ('Many of your final bill' appears incomplete), but the core concept is conveyed.",
+    "damage_coverage_delivered": "Rep says: 'we have no worry damage coverage included on the early weight that you're paying us we will provide up to 2000 dollars per move. That is the repair, replace and reimburse for your items.' The $2,000 and no-deductible framing are missing; rep does not explicitly state 'no deductible' or 'no fine print,' only that it's built in.",
+    "closes_the_loop": "No question asked to close the Two Promises section. Rep moves directly to 'And bear with me so there's no deposit required new recent securing your spot.'",
+    "explicit_ask": "Rep asks: 'would you like our help with your move for tomorrow?' Asked plainly with no built-in out.",
+    "rate_lock_mentioned": "Rep states: 'there's no deposit required new recent securing your spot. If ever you wanted to reschedule or to cancel, then all you have to do is just simply give us a call at anytime' \u2014 this conveys no-deposit language, interpreted as rate-lock framing.",
+    "booking_confirmed": "Confirmed: move date (tomorrow, 1:00 PM), email address (JAMHARP@gmail.com), crew size (two movers), and address (9408 Emma drive). NOT confirmed: phone number for crew, arrival window specificity, or crew notes about customer concerns (though no concerns were raised to note). Partial."
+  },
+  "top_strength": "Rep gathered logistics details methodically (property type, floors, walking distance, access issues, special items, box count) and delivered a clear, anchored estimate personalized to the unload-only scenario with full pricing transparency and no hidden fees disclosed upfront.",
+  "coaching_note": "After pricing, ask 'Does that feel fair?' and hold the silence for a genuine pause; also conduct a final concerns check at the end before the ask, rather than skipping it entirely."
+}

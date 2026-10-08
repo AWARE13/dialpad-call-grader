@@ -1,0 +1,37 @@
+{
+  "call_id": "6167301307277312",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 26.5,
+  "datetime_ct": "2026-09-30 18:43 CT",
+  "external_number": "+16199667869",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never uses recognizable framing ('Great, it looks like we have availability... This will take about 10 to 15 minutes, and you can walk away with a quote you can depend on... Does that sound good to you?'). Instead rep launches directly into logistics.",
+    "their_agenda": "Never asked. Rep goes straight into move date, name, address, and inventory details without asking 'Other than price, what are your biggest concerns about this move, and what do you want answers to on this call?'",
+    "estimate_anchor": "Rep gives range ('$1,645 and 1849') and mentions typical hourly rate ($204/hr, 2.5 hour minimum, 7.5\u20138.5 hour estimate), but does not personalize to this customer's specific concerns or prep level. No mention of their stated concerns driving the estimate.",
+    "damage_coverage_delivered": "Rep says 'We have no worries, damage coverage that's included in that as well. And that does cover-up to $2,000 for any kind of incidentals.' But does not explain 'no deductible' / 'no fine print' framing or confirm it's built into the rate, not an add-on.",
+    "on_time_guarantee_delivered": "Not mentioned at all on this call.",
+    "feels_fair_then_silence": "Rep does not ask 'Does that feel fair?' after giving the estimate. Rep moves straight from estimate explanation into '2.5 hour minimum' details and fee clarifications.",
+    "explicit_ask": "Rep never asks 'Would you like our help with your move?' or any direct close. When customer says 'let me talk to my husband and see what they give me first, okay? And then, so let's not do it, I, let me, let me give you a call back,' rep responds 'Okay, no, you're good. So I'm gonna go ahead and send over this email...' \u2014 effectively accepting the non-booking without attempting the ask.",
+    "booking_confirmed": "Rep confirms email and says name is 'Shani' and will send info, but never confirms date (Oct 13), phone number, arrival window, crew size, addresses, or any crew notes about customer concerns. Call ends with customer saying they will call back, no booking made."
+  },
+  "top_strength": "Chauntelle thoroughly gathered all logistics details \u2014 property type, square footage, stories, room count, inventory (furniture, boxes, TVs, special items), parking details, and arrival property info \u2014 creating a detailed, comprehensive project file that supports accurate quoting.",
+  "coaching_note": "Section 2 (Their Concerns) was completely skipped: never ask 'Other than price, what are your biggest concerns?' \u2014 this is the second-heaviest section on the card and directly informs your personalization on estimate and close; also, Section 7 (Ask for the Business) was abandoned when the customer hesitated \u2014 use 'Would you like our help with your move?' as a plain ask, not a soft out, and hold silence for their answer."
+}

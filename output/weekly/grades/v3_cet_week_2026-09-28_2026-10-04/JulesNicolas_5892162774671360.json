@@ -1,0 +1,32 @@
+{
+  "call_id": "5892162774671360",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 6.5,
+  "datetime_ct": "2026-09-29 20:43 CT",
+  "external_number": "+14695600854",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 64,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "quid_pro_quo": "Jules: 'This should take me about like ten to fifteen minutes and then I'll get you an accurate estimate. Sounds good to you. Great.' \u2014 rushed past without waiting for explicit customer agreement.",
+    "discovery_basics": "Jules asked moving date (Oct 16/18), name (Tallita Vaz), current address (via text), and square footage (2193 sq ft current, 3008 sq ft destination). All four present.",
+    "their_agenda": "Jules: 'aside from the quote in general, do you have any specific concerns about your upcoming move?' \u2014 asked after already probing into bedrooms and home details.",
+    "two_layers_deep": "Customer raised TV concern. Jules: 'we're gonna wrap them as much as we can and we can also remove it off the wall but we just won't be able to put it back on another wall.' One statement, no 'tell me more' follow-up.",
+    "active_listening_reflection": "No summary reflection. Jules acknowledged TVs and moved directly to logistics.",
+    "logistics_details_gathered": "Covered: property type (house), stories (1 story current, 2 story destination), bedrooms (3), square footage (both homes). Missing: walking distance, additional rooms beyond bedrooms, special considerations beyond TV.",
+    "walkthrough_branch": "Jules correctly identified 2193 sq ft current home (>1800 threshold) and offered virtual walkthrough: 'for homes this size it would be best estimated if we can do a virtual walkthrough.' Customer agreed to walkthrough in one hour. Properly routed."
+  },
+  "top_strength": "Jules correctly identified the move as a walkthrough-routable situation (2,193 sq ft home) and cleanly scheduled the virtual walkthrough with a confirmed callback time.",
+  "coaching_note": "Ask the customer's main concerns before diving into logistics probing, and follow up on each concern at least twice (two layers deep) rather than acknowledging and moving on."
+}

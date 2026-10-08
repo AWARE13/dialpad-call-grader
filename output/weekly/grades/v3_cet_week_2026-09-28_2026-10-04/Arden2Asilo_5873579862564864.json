@@ -1,0 +1,29 @@
+{
+  "call_id": "5873579862564864",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 16.6,
+  "datetime_ct": "2026-09-28 14:08 CT",
+  "external_number": "+13863028082",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 8,
+  "section7_ask_for_the_business": 1,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "their_agenda": "Now other than the price. What are your biggest concerns about this move that you would want answers to within this call, sir.",
+    "two_layers_deep": "Customer: 'Timeliness would be the biggest thing' and 'I was wondering if you guys do a disassemble or like reassembly back at the new apartment.' Rep responds with a direct answer about assembly/reassembly being included and protection details, but does not ask 'tell me more about that' or probe deeper into *why* timeliness matters or what specific reassembly setup the customer needs.",
+    "estimate_anchor": "I'm estimating the move to take around four and a half to five and a half hours... I'm estimating the move to budget an overall of $1,046 to $1,540 (accounting for two movers at $190/hr + packing supplies).",
+    "explicit_ask": "The call ends with 'Is there any way you could email me this quote?' and the rep responds 'No problem sir. I'm gonna send you an email.' The rep never asks 'Would you like our help with your move?' or any recognizable version of an explicit booking ask."
+  },
+  "top_strength": "Arden thoroughly gathered logistics details across both origin and destination (two-story house, second-floor bedroom, reserved elevator, 21st-floor apartment unit, walking distance, parking access, fragile items, packing needs) and delivered both the On-Time Guarantee and No Worries Damage Coverage with full, clear framing including the $2,000 coverage, zero deductible, and that it's built into the rate.",
+  "coaching_note": "Two critical gaps: (1) After the customer raised concerns about timeliness and reassembly, Arden answered directly instead of going two layers deep to understand what 'timeliness' really meant and what reassembly setup would matter most \u2014 this left Section 2 shallow. (2) Most critically, the call ended with a quote-email request instead of an explicit ask for the business ('Would you like our help with your move?'), so no booking was attempted at all \u2014 Section 7 has zero points on the ask itself."
+}

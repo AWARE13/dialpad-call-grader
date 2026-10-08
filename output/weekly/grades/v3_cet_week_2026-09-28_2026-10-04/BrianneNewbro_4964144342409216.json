@@ -1,0 +1,42 @@
+{
+  "call_id": "4964144342409216",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 6.5,
+  "datetime_ct": "2026-09-29 17:06 CT",
+  "external_number": "+18137861309",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 5,
+  "total_score": 62,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep opens with 'You have about five to ten minute school over that' \u2014 no time-boxed framing or promise of a dependable quote, no wait for customer confirmation before continuing.",
+    "their_agenda": "Asked after probing: 'And then besides pricing, do you have any questions or concerns you have like answered on this call today?' \u2014 this comes after the rep has already confirmed the address and contact details, and after pricing probing has begun.",
+    "two_layers_deep": "Customer raises bed assembly concern. Rep responds with full explanation of what's included, then follows up: 'I think. It's the only thing that's like to be assembled, and do assembled, I think.' Rep confirms 'Yes, of course' and notes it. This represents a genuine follow-up and confirmation loop on the stated concern.",
+    "logistics_details_gathered": "Property type (apartment), floor (second floor for origin, third floor for destination), number of rooms (one bedroom both locations), walking distance (twenty feet from truck to stairs), additional rooms covered implicitly, special considerations (bed disassembly), additional stops (two locations with addresses confirmed). All seven categories addressed.",
+    "box_count_asked": "'A typical box count for move the size is about fifteen to 25 boxes. Do you feel like you would fall in that range?' Customer confirms 'probably even less, yeah.'",
+    "estimate_anchor": "Rep provides typical range anchored to home size: 'for three hours, we're looking at $716' and 'for four hour...that's all included everything and then $908.' Personalizes to this move: stairs, two locations, trip fee, three to four hour estimate based on stairs and distance.",
+    "pricing_framing": "Trip fee disclosed: 'there is a trip fee for...The first location, the second location but totally 140.' Minimum and increments explained: 'we do have a two and a half hour minimum, once we go over that minimum, the time is prorated, into fifteen minute increments.' Deposit and cancellation policy: 'there is no deposit required to get on our schedule and no cost or fees to change the date or cancel.'",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or equivalent. After pricing delivery, rep moves directly to the ask: 'Would you like us to help you with that move on Monday?' with no reflection pause.",
+    "on_time_guarantee_delivered": "'we do have our on time guarantee we value your time. So, if we can't make it in a time window that we arrange, we immediately start discounting money of your final bill' \u2014 fully covers the discount-on-lateness framing.",
+    "damage_coverage_delivered": "'We do have a free evaluation coverage included in that hourly rate that provides up to $2,000 per move to repair, replace or reimburse for accident and all damages that is on top of the 60\u00a2 per pound coverage that the state of Texas requires.' Covers amount ($2,000), no deductible/fine print framing (implied by 'included in that hourly rate'), and built into rate (explicitly stated 'included in that hourly rate').",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or similar. After the Two Promises section, rep moves directly into final time-window options and the ask.",
+    "final_concerns_check": "Rep never asks 'What's still concerning you about this move?' or a genuine equivalent. The call moves from booking attempt directly to sign-off.",
+    "explicit_ask": "'Would you like us to help you with that move on Monday?' \u2014 plainly asked, but immediately followed by 'I do have an 8:30 AM to 9:00 AM arrival time for that timeframe, or a 12:30 to 230 arrival time' which provides a soft out (customer can consider, call back, or respond to email without committing).",
+    "rate_lock_mentioned": "'there is no deposit required to get on our schedule and no cost or fees to change the date or cancel' \u2014 rate/date protection confirmed.",
+    "booking_confirmed": "Date confirmed (Monday, November 9th). Phone number confirmed (813-786-1309). Arrival window offered (8:30\u20139:00 AM or 12:30\u20132:30 PM, but not confirmed which one customer prefers). Crew size not confirmed (two movers assumed, never asked). Addresses confirmed (origin 3232 Manford Boulevard, unit 5205, Richmond, TX; destination 3502 Harvest County Drive, unit 10308, Richmond, TX). Crew notes about concerns: bed disassembly noted ('I will note that for sure'), but no summary of what to tell the crew or any field for customer's broader move worries. Rep defers to email follow-up: 'I'll go ahead and email all this over to you.' Partial confirmation \u2014 missing explicit crew-size confirmation and incomplete crew notes."
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details across both locations (floors, stairs, walking distance, furniture, box count) and personalized the estimate accurately to this customer's specific move complexity (stairs, two locations, trip fees, three to four hour range).",
+  "coaching_note": "Skip the quid pro quo framing entirely \u2014 jump straight to probing, ask their agenda *before* you start gathering details, and always ask 'Does that feel fair?' with a real pause before moving to the ask."
+}

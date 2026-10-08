@@ -1,0 +1,37 @@
+{
+  "call_id": "5347492905656320",
+  "rep_name": "Zhang Pammit",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 9.6,
+  "datetime_ct": "2026-10-03 15:12 CT",
+  "external_number": "+13343030986",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'this would take within the next five to ten minutes of your time' but does not frame the value of the quote or wait for a clear yes \u2014 launches into probing immediately after customer says 'Absolutely.'",
+    "their_agenda": "Never asked. Rep moves directly into logistics discovery after the time-box acknowledgment.",
+    "estimate_anchor": "Rep provides typical range: 'a typical 1300 square foot home would normally takes two movers that is between six to eight hours to completely move locally' and personalizes to this move: 'we're splitting your move-in to two days... on the first day, we will be sending out two movers and one truck estimated time is between seven to eight hours' with total of $3,699 including trip and overnight fees.",
+    "pricing_framing": "Trip fee $960 and overnight fee $240 disclosed upfront. Minimum 2.5 hours and 15-minute prorating mentioned: 'for any move we have a minimum of two and a half hours once to go over that it will always be prorated into fifteen minute increments.'",
+    "feels_fair_then_silence": "Never asked. Rep moves from estimate explanation directly into prep-level framing ('how well prepared you are when we get there') without checking if the price feels fair.",
+    "on_time_guarantee_delivered": "Rep states: 'we have on time guarantee we value your time. So, if you cannot make it to the time window that we arrange we immediately start discounting money of your final bill.'",
+    "damage_coverage_delivered": "Rep states: 'we have no worry damage coverage included on the R-D weigh that you're paying us. We will provide up to 2000 dollars per move. That is to repair replace and reimburse for your items.' No explicit mention of no deductible/no fine print, but coverage built into rate is clear.",
+    "explicit_ask": "Never asked. Customer says 'if I could get like an email of the quote, that would be perfect. So, I really appreciate your time.' Rep responds 'Sure, no problem. I'll send you the email quotation in case if you wanted to proceed then just feel free to let us know.' No explicit ask for the business \u2014 rep defers entirely to email follow-up."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details efficiently (property type, square footage, bedrooms, room count, parking distance, special items, valuable items, box count) and delivered clear, transparent pricing with trip fee and overnight fee upfront plus strong Two Promises framing (On-Time Guarantee and No Worries Damage Coverage).",
+  "coaching_note": "Rep must ask \"Other than price, what are your biggest concerns?\" early (Section 2) before probing logistics, and must end every call with an explicit \"Would you like our help with your move?\" ask (Section 7) \u2014 do not defer the close to email follow-up alone."
+}

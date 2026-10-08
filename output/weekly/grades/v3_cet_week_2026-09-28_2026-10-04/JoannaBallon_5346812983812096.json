@@ -1,0 +1,42 @@
+{
+  "call_id": "5346812983812096",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 9.6,
+  "datetime_ct": "2026-10-04 19:54 CT",
+  "external_number": "+12103090687",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 5,
+  "total_score": 66,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'I'm actually calling about the quotation request you submitted online just need to ask you some questions about it might take about ten to fifteen minutes if this is a good time.' [No explicit 'Does that sound good?' framing or real wait for yes before moving to their_agenda.]",
+    "their_agenda": "Joanna: 'Perfect, thank you but before I start aside from the pricing, do you have any other important concerns that you also want to discuss on this call?' [Asked early, before probing logistics.]",
+    "two_layers_deep": "Customer raises concern: 'I'm gonna have my daughter move-in with me. So I might need help with getting her bedroom furniture over from her apartment.' Joanna responds: 'I see. Okay. So, making a stop in between, okay, yeah, that should work.' No real follow-up dig \u2014 moves straight to logistics instead of 'tell me more about that' or exploring the concern depth.",
+    "active_listening_reflection": "No summary reflection offered. Joanna acknowledges ('I see. Okay') but never reflects back: 'So what I'm hearing is...'",
+    "estimate_anchor": "Joanna: 'typically a cause based on the items you've given me, I'm just categorizing it like, just like a one bedroom more items... One bedroom usually takes two and a half to three and a half hours to complete... for now I'll just quote your move more the six and a half to seven and a half hour mark which is an estimated budget of $1,440.' [Typical range + personalized to this customer's items and multiple stops.]",
+    "pricing_framing": "Joanna: 'we do charge by the hour... $96 per hour per mover... includes the two men the truck, all the reps are protect your furniture... No other fees outside of it... No hidden fees of any type... we only start the time once we arrive at the first location... we only charge in every fifteen minute intervals.' [Full framing: hourly, inclusions, no hidden fees, 2.5-hour minimum, 15-minute intervals.]",
+    "feels_fair_then_silence": "Never asked. Joanna moves directly to: 'Right now that being said would you like our help for this move on Wednesday?' \u2014 no 'Does that feel fair?' pause.",
+    "on_time_guarantee_delivered": "Joanna: 'on time guarantee if we run late, we provide discounts for your move again.' [Mentions discount but does NOT specify 'starts discounting immediately' or the discount terms clearly.]",
+    "damage_coverage_delivered": "Joanna: 'we also include our no worries, damage coverage. Which would give you up to $2,000 coverage age for any accidental damages.' [Mentions $2,000 but does NOT explicitly state 'no deductible / no fine print' or that it's 'built into the rate, not an add-on'.]",
+    "closes_the_loop": "No closing loop. Joanna does not ask 'Does that put those to rest?' or any version of confirming the Two Promises settled customer concerns.",
+    "final_concerns_check": "Joanna: 'So, anything else?' [Throwaway empty question, no genuine 'What's still concerning you about this move?' version.]",
+    "catch_all_asked": "Not asked. No 'Anything coming with you we haven't talked about?' variant.",
+    "explicit_ask": "Joanna: 'Right now that being said would you like our help for this move on Wednesday?' [Plainly asked, no softened out like 'or I can email this'.]",
+    "rate_lock_mentioned": "Not mentioned. No 'we can lock in this rate' or rate-hold language.",
+    "booking_confirmed": "Joanna: 'I'll send everything in an email so you can just respond to the email, give us a call whichever works for you.' [No date, phone, arrival window, crew size, addresses, or crew notes confirmed. Customer said 'waiting on another quote' and Joanna offered email follow-up but did not secure booking details.]"
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details early (addresses, floor plans, multiple stops, item counts, parking access) and asked Their Agenda before probing, setting up structure for discovery.",
+  "coaching_note": "After identifying the customer's concern (daughter's furniture stop), dig one layer deeper with 'tell me more' instead of pivoting straight to logistics; skip 'anything else?' and ask 'What's still concerning you about this move?' in Section 6; always confirm 'Does that feel fair?' with silence before the ask; and close booking by securing date, phone, and crew arrival details rather than leaving it as 'I'll send an email.'"
+}

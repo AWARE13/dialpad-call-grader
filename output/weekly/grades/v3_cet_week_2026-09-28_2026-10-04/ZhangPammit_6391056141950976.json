@@ -1,0 +1,33 @@
+{
+  "call_id": "6391056141950976",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 9.0,
+  "datetime_ct": "2026-10-03 18:01 CT",
+  "external_number": "+19365142204",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 81,
+  "pass": true,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'this would take within the next five to ten minutes of your time' but does not use the recognizable framing about availability, dependable quote, or wait for explicit yes before proceeding",
+    "their_agenda": "Rep asks 'What are your biggest concerns or do you have any important things that you wanted to answer during this call today?' \u2014 asked immediately, but technically before the quid-pro-quo framing is complete, so after initial setup probing has begun",
+    "two_layers_deep": "Customer raises TV packing concern; rep follows with 'Backing only for the TV. Is that correct?' Customer elaborates on all four TVs and sizes; rep continues with 'Mm-hmm' and allows customer to keep talking through artwork concern, furniture concern, sectional, fireplace cabinet, kitchen island, and dining table. Rep does not interrupt or pivot \u2014 customer drives the depth organically. Rep's minimal verbal responses allow the customer to complete each thought.",
+    "active_listening_reflection": "Rep says 'Okay, I understand' but does not reflect back the specific concerns heard (TVs, artwork, sectionals, narrow hallway access, packing help) as a summary or confirm 'Did I get all of it?' No structured reflection.",
+    "walkthrough_branch": "Home is 1735 sq ft (over 1800 threshold stated in rubric, though only marginally \u2014 rep offers virtual walkthrough: 'normally based on your home size, we do a virtual walkthrough'). Customer agrees. Rep confirms second location (1700 sq ft), then schedules walkthrough for Monday 1 PM and confirms via text link. Call properly and cleanly routes to walkthrough.",
+    "logistics_details_gathered": "Property type (one story house), square footage (1735 and 1700), bedrooms (3 and 3), parking concern (circle driveway, inclined, street parking), hallway access (narrow hallway from living room to master/guest bedrooms), box count (55\u201365 typical, customer estimates under 55). Second location parking (driveway with garage access). All seven logistics items or equivalent covered.",
+    "box_count_asked": "Yes: 'typical backs count based on your home size. Upon checking here would be 55 to 65 boxes. Do you feel that you fall within that range?'",
+    "packing_services_offered": "No. Rep did not ask a version of 'Would you like us to pack your items into boxes for you?' Customer volunteered packing concerns for TVs and artwork during Section 2, but rep never offered packing as a service in Section 3."
+  },
+  "top_strength": "Rep allowed the customer to fully articulate all concerns (TVs, artwork, furniture details, access constraints) without interruption, gathering rich detail that will inform the walkthrough, and cleanly routed the call to the virtual walkthrough scheduling when home size triggered it.",
+  "coaching_note": "In Section 1, lead with the full quid-pro-quo framing (availability, 10\u201315 minutes, dependable quote you can walk away with) and pause for a yes before moving to agenda \u2014 this call jumped straight to 'what are your concerns' without the upfront time/value anchor. Also: offer packing services explicitly in Section 3 even when the customer has already mentioned packing concerns, so they hear the full service value."
+}

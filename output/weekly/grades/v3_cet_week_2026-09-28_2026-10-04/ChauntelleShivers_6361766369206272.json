@@ -1,0 +1,38 @@
+{
+  "call_id": "6361766369206272",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 11.8,
+  "datetime_ct": "2026-10-03 17:36 CT",
+  "external_number": "+19182309391",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 8,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 28,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep jumps directly into questions without framing the 10\u201315 minute time-boxed ask or waiting for a yes: 'Did you have any just off the top of he questions or concerns that I can come and dive into before we get into things.'",
+    "their_agenda": "Never asked. Rep responds to customer's volunteered concern ('the biggest thing for us is we do have a couch...') but never asks 'what are your biggest concerns about this move' proactively.",
+    "two_layers_deep": "Rep asks 'Any other concerns, or questions?' once, then pivots. When customer volunteers multiple furniture items, rep says 'Okay' repeatedly but does not dig deeper with 'tell me more about that.' Shallow acknowledgment only.",
+    "active_listening_reflection": "No reflection summary. Rep says 'So, I do have that sectional couch. I didn't Notate that where you, we may need to take a piece up that down the stairs, the queen bed address or bookcase and then did you say anything after that?' \u2014 this is recitation, not a confirmatory reflection.",
+    "estimate_anchor": "Rep provides a range ('two and a half to three and a half hour mark') but adds 'thirty minutes' informally without clear anchor logic. Personalization is minimal \u2014 just mentions the stairwell piece and says 'we don't have a ton of things that we're moving for you all.'",
+    "pricing_framing": "Rep discloses trip fee ($75), hourly rate ($222), two and a half hour minimum, damage coverage, and on-time guarantee 'built into that.' However, the '2.5-hour-minimum / 15-minute-increments / not a guess' framing is not explicitly stated.",
+    "feels_fair_then_silence": "Never asked. Rep moves directly from pricing disclosure to 'did you have any other questions for me.'",
+    "on_time_guarantee": "Not delivered. Rep mentions 'on time guarantee' once in a list ('the on time guarantee the meet the movers feature like all of that stuff is already included in the rate') but does not explain the discount terms or 'starts discounting immediately if late.'",
+    "damage_coverage": "Partial. Rep says 'be hap to know where we damage coverage built into that as well' (garbled audio but intent clear) but does not specify '$2,000 coverage, no deductible / no fine print framing,' only that it's 'built into the rate.'",
+    "explicit_ask": "Never asked. Rep books the move reactively when customer asks 'if I want to secure it do I just reply to the email you initially sent' and customer says 'we'd like to go ahead and reserve it.' Rep never says 'Would you like our help with your move?' or an equivalent plain ask.",
+    "booking_confirmed": "Partial. Confirmed: date (Saturday the tenth), arrival window (8:00 to 830), unit numbers (4404 and 1116). Missing: phone number verification, crew size not mentioned, no notes left for the crew about the stairwell sectional concern despite it being flagged multiple times."
+  },
+  "top_strength": "Rep recovered well from an unframed opening and gathered critical logistics details about the sectional couch going down stairs, which directly impacts the move's complexity and pricing.",
+  "coaching_note": "Section 1 and 2 need restructuring: open with the quid pro quo and time-frame promise, ask 'what are your biggest concerns' proactively before diving into logistics, then reflect back all concerns with a summary confirmation before moving into details."
+}

@@ -1,0 +1,43 @@
+{
+  "call_id": "4977540523663360",
+  "rep_name": "Jevic Lazanas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 11.7,
+  "datetime_ct": "2026-09-28 22:11 CT",
+  "external_number": "+13213431343",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 3,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 0,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'let's go ahead and get you quoted. So I'll just ask you a few questions to get us on the right track and provide you an accurate estimate and this will just take about ten minutes. Sounds good.' \u2014 framing is present but rushes past without genuinely waiting for confirmation before diving into discovery.",
+    "their_agenda": "Asked as 'What are your biggest concerns and where are the most important things you want answers to on this call today?' but this comes AFTER the rep has already confirmed the move date and started probing ('So could just to confirm you're planning to move on. Oh, Saturday December 5th.').",
+    "two_layers_deep": "Customer raises concern about price ($160 elsewhere vs. $218 here). Rep acknowledges and gives a rebuttal about hidden fees, but does not dig deeper with 'tell me more about that' or explore what specifically is driving the price sensitivity.",
+    "active_listening_reflection": "Rep never summarizes what was heard. After the price concern, rep pivots immediately to deflecting with fee comparison advice rather than reflecting back the customer's actual concern.",
+    "logistics_details_gathered": "Rep covers property type (apartment/townhouse layout), floor/stories (second floor), number of rooms (two bedroom), walking distance (5\u20137 feet to truck, then stairs to door), special considerations (no safe, piano, oversized items; confirmed TV and monitor only), and destination property type (two-story house). All seven categories touched.",
+    "packing_services_offered": "Not offered. Customer volunteers 'we're planning to pack them ourselves' and rep accepts this without ever asking 'Would you like us to pack your items into boxes for you?'",
+    "box_count_asked": "Asked: 'typical, you know, two bedroom house. Usually, usually has 25 to 35 boxes. So do you feel like you will forward in that range?' Customer clarifies they're self-packing and moving boxes themselves. Rep accepts without pushing.",
+    "estimate_anchor": "Rep provides hourly rate ($218/hour for two movers), trip fee ($75), inclusions, and final estimate: 'I would estimate your move to be between two and a half to three and a half hours including the drive time already. So for that one you know, it's safe to budget around $658 to $838 for two and a half to three and a half hours.' Range is anchored to the property size and scope mentioned (partial move, big furniture only). Personalization is minimal but present (references 'couple of items' / 'partial move').",
+    "pricing_framing": "Rep discloses trip fee ($75), explicitly states 'no hidden fees of any type. No credit card fees, no stair roll fees, no disassemble, reassembly fees,' and explains the two-and-a-half-hour minimum plus fifteen-minute increment prorating. Both transparency and 'not a guess' framing are present.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or equivalent. After the estimate ($658\u2013$838), customer says 'that makes sense but yeah, let me think about it' \u2014 but rep does not explicitly ask for validation before moving on.",
+    "on_time_guarantee_delivered": "Rep states: 'finally we have the on time guarantee. So, if we can't make it in that time window that we arrange, we immediately start discounting money money of your final bill.' The core concept (discounting immediately if late) is present. Framing is clear.",
+    "damage_coverage_delivered": "Rep says: 'First is our no worries, damage coverage, our free evaluation coverage is included in the ar rate. We provide up to $2,000 per move to repair, replace or reimburse for accidental damages.' The $2,000 amount and coverage type are stated, and it's positioned as included ('included in the ar rate'). However, the rubric calls for explicit 'no deductible / no fine print' framing, which is not clearly stated here \u2014 the rep does not explicitly say 'no deductible' or 'no fine print,' just that it's included.",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or similar after presenting the Two Promises. The rep instead transitions to offering to send an email and reiterates the estimate, then moves toward closing without a genuine loop-close.",
+    "final_concerns_check": "Rep asks 'will there be anything else that I can help you with today?' \u2014 this is the empty throwaway version, not the genuine 'What's still concerning you about this move?' variant.",
+    "catch_all_asked": "Never asked. No version of 'Anything coming with you we haven't talked about?' appears in the transcript.",
+    "explicit_ask": "Rep never asks 'Would you like our help with your move?' or any direct ask for the business. Customer volunteer-states 'let me think about it and if I can plan around it, I can book I'll give you guys a call and book the date.' Rep responds 'if you decide to book with I's time just give us a callback and we'll be more than happy to assist you.' \u2014 This is a passive setup, not an explicit ask from the rep."
+  },
+  "top_strength": "Rep thoroughly gathered logistics details (property type, floor/stories, walking distance, furniture items, destination), confirmed the scope accurately, and delivered a transparent, multi-component estimate anchored to move time and inclusions.",
+  "coaching_note": "You asked the customer's biggest concerns but only after probing had already started, and when they raised the price objection, you rebutted rather than going two layers deep with follow-up questions \u2014 dig into what's really driving their concern before defending the rate."
+}

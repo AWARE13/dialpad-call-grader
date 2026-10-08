@@ -1,0 +1,40 @@
+{
+  "call_id": "6072254476886016",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 8.9,
+  "datetime_ct": "2026-10-02 22:28 CT",
+  "external_number": "+19015692634",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 3,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skips the time-boxed framing entirely. Jumps directly to 'Are we moving out of a house or an apartment?' with no upfront promise of a 10\u201315 minute call or a dependable quote, and no wait for customer agreement.",
+    "their_agenda": "Never asked. Rep launches into logistics probing ('apartment or house?') immediately without asking about concerns or what answers the customer wants on the call.",
+    "estimate_anchor": "Rep states '$218 per hour for two movers' and '$545 minimum (2.5 hours)' but does not anchor to a typical range for this home size or personalize to this customer's situation (one-bedroom, minimal items, same building move). The range is absent and personalization is absent.",
+    "pricing_framing": "Trip fee/overnight fee disclosed: absent. The 'not a guess' / 2.5-hour-minimum / 15-minute-increment framing is partially present ('minimum of two and a half hours,' 'prorate every fifteen minutes') but lacks the 'not a guess' commitment language. Fee transparency (no trip fee mentioned, though it may not apply) is not proactively disclosed.",
+    "feels_fair_then_silence": "Never asked. After giving the estimate, rep pivots immediately to 'Do you want to get your move scheduled?' with no pause for the customer to react to the price.",
+    "on_time_guarantee_delivered": "Not covered at all.",
+    "damage_coverage_delivered": "Not covered at all.",
+    "closes_the_loop": "No closing reflection on the Two Promises section \u2014 neither promise was delivered, so there is nothing to close.",
+    "final_concerns_check": "Rep asks 'Any other questions I can answer for you?' \u2014 a generic throwaway phrase, not the genuine 'What's still concerning you about this move?' that signals the rep is checking for unresolved worries.",
+    "explicit_ask": "Rep asks 'Do you want to get your move scheduled?' but immediately follows with 'Let me send over the confirmation email' and 'I'll get this scheduled for you right now,' which creates a soft out \u2014 the customer never explicitly says yes to the ask before the rep has already begun the booking process.",
+    "booking_confirmed": "Partial. Date (October 9th, 9:00\u20139:30 window), phone/email (collected), and arrival window (confirmed) are present. Crew size (not confirmed \u2014 no mention of how many movers), final addresses (collected but re-confirmed minimally), and notes for crew about customer concerns (absent \u2014 no summary of what mattered to this customer) are missing or incomplete."
+  },
+  "top_strength": "Jules quickly confirmed availability, gathered all four discovery basics (name, date, city-to-city route, property type), and secured the booking\u2014moving the call efficiently toward a confirmed move.",
+  "coaching_note": "Start every call with the quid pro quo framing (10\u201315 minutes, dependable quote, wait for yes) and deliver the Two Promises section (On-Time Guarantee and No Worries Damage Coverage) before asking for the business\u2014both are currently missing entirely and are load-bearing commitments that earn trust and close deals."
+}

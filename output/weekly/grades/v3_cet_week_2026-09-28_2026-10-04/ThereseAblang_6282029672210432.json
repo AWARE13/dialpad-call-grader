@@ -1,0 +1,39 @@
+{
+  "call_id": "6282029672210432",
+  "rep_name": "Therese Ablang",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 9.4,
+  "datetime_ct": "2026-10-02 21:53 CT",
+  "external_number": "+15129834747",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 52,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never frames the call duration, the quote promise, or asks 'does that sound good to you?' \u2014 jumps directly into confirming existing booking details.",
+    "their_agenda": "Rep never asks 'other than price, what are your biggest concerns about this move?' \u2014 moves straight to logistics verification.",
+    "estimate_anchor": "Rep gives the revised estimate ('three to four hours') and final 2.5-hour pricing ('$525') but does not anchor it to a typical range for this size move, nor personalize it to Simon's stated situation.",
+    "pricing_framing": "Rep covers 2.5-hour minimum, 15-minute increments, and hourly rate ('no additional fees of any type'). Does not explicitly mention trip fees, overnight fees, or packing materials upfront \u2014 only says 'we also do rapid pad all the furniture items.'",
+    "feels_fair_then_silence": "Rep never asks 'does that feel fair?' after quoting $525. Customer volunteers a question about the 2.5-hour minimum instead.",
+    "on_time_guarantee": "Not mentioned.",
+    "damage_coverage": "Not mentioned.",
+    "final_concerns_check": "Rep asks 'did you have any questions about the moving process or our pricing, or the estimate?' in Section 4, but does not ask a genuine final concerns check in Section 6 ('what's still concerning you about this move?').",
+    "explicit_ask": "Rep never asks 'would you like our help with your move?' Conversation ends with logistics confirmation and a closing ('you have a good afternoon').",
+    "booking_confirmed": "Rep confirms date (October 11th), phone number (verified as 'best number'), origin address (1120 Shady Lane, Apt 3219), destination (5900 West Minster Drive, 3-bed on 3rd floor), elevator access, and details about arrival window (movers will call on the way, meter mover email, courtesy call day before). Does not confirm crew size explicitly or note customer concerns for the crew."
+  },
+  "top_strength": "Therese gathered comprehensive logistics details (property types, floor counts, walking distances, furniture inventory with measurements, access constraints) in a methodical way that would support an accurate estimate.",
+  "coaching_note": "This call skipped the entire discovery/concerns phase (Section 2's 'other than price, what are your biggest concerns?'), omitted both insurance promises (On-Time Guarantee and No Worries Damage Coverage), and never asked for the business \u2014 it functioned as a confirmation call on an existing online booking rather than a sales call, and must include Section 5's Two Promises and Section 7's explicit ask to be a complete quote call."
+}

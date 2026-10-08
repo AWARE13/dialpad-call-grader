@@ -1,0 +1,40 @@
+{
+  "call_id": "5336043551498240",
+  "rep_name": "Nicole Tolete",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 6.3,
+  "datetime_ct": "2026-09-30 21:55 CT",
+  "external_number": "+12102406901",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 2,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 6,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "section1_quid_pro_quo": "MISSING \u2014 call opens directly with moving blanket deposit discussion, no time-boxed framing or promise of a dependable quote",
+    "section1_discovery": "Name (Roger) known from prior contact; moving logistics unclear \u2014 no explicit ask for day, route, or size in this call",
+    "section2_their_agenda": "NOT ASKED \u2014 rep never asked 'other than price, what are your biggest concerns?' \u2014 jumped straight into pricing",
+    "section3_logistics": "MINIMAL \u2014 customer volunteers that a pod 'doesn't look like we're gonna need one' but rep does not probe property type, floors, rooms, walking distance, special items, or additional stops",
+    "section4_estimate_anchor": "PARTIAL \u2014 rep gives range ($2,016\u2013$2,304 for 7\u20138 hours, 3 movers) but does not personalize to customer's specific concerns or move prep; earlier mention of moving blanket deposit and pod confusion introduced friction",
+    "section4_feels_fair": "NOT ASKED \u2014 no 'does that feel fair?' pause; rep moves straight from estimate into email confirmation",
+    "section5_on_time_guarantee": "NONE \u2014 not mentioned",
+    "section5_damage_coverage": "NONE \u2014 not mentioned",
+    "section6_final_concerns": "THROWAWAY \u2014 'do you have any other questions or anything for me' is the empty version, not a genuine 'what's still concerning you?'",
+    "section7_explicit_ask": "FULL \u2014 'would you like our help with your move?' (customer declined initially, but re-engaged with logistical questions)",
+    "section7_booking_confirmed": "PARTIAL \u2014 email confirmed (R Kirsten @langleybani.com), but no date locked in; customer deferred to coordinate with floor people and call back; no crew size or arrival window finalized; no notes left for crew"
+  },
+  "top_strength": "Nicole persisted through customer objections and clarified three-mover crew allocation and minimum charges when Roger raised concerns, demonstrating product knowledge and willingness to address hesitation.",
+  "coaching_note": "Start every call with the quid pro quo framing (10\u201315 minutes, dependable quote, wait for yes) and ask their agenda before any pricing \u2014 this call jumped to moving blanket deposits and estimate details with no discovery of concerns, leaving the customer uncertain and unprepared to commit."
+}

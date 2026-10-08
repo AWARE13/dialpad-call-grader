@@ -1,0 +1,31 @@
+{
+  "call_id": "5659880902139904",
+  "rep_name": "Brianne Newbro",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 5.7,
+  "datetime_ct": "2026-09-30 16:22 CT",
+  "external_number": "+15125890202",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 15,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 0,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 32,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Never asked. Rep immediately responded to the stated concern about rain/weather without first establishing what else the customer wanted answered on the call.",
+    "two_layers_deep": "Rep did follow up on the weather concern: 'Obviously, as we know in Texas it could get all the rain, we could get none of the rain. If it is like something that they need to pause for. They will take a lunch which you obviously not charged for. Also they will double wrap the furniture.' Customer then volunteered additional detail about moving bags and TVs, and rep dug in further on TV protection.",
+    "estimate_anchor": "No estimate or pricing range provided at any point in the call.",
+    "explicit_ask": "No ask for the business. Rep said 'I think we're all set' and transitioned to logistics confirmation without ever asking 'Would you like our help with your move?' The call ended with 'Have a good rest of your day.'"
+  },
+  "top_strength": "Brianne handled the customer's primary concern (weather impact on the move) thoroughly and reassuringly, covering double-wrapping, protective layouts, and parking proximity to minimize exposure \u2014 the customer explicitly acknowledged satisfaction with that answer.",
+  "coaching_note": "This was primarily a follow-up/logistics call, not a full sales call, but it was handled as one: there was no quid-pro-quo framing, no request for their agenda, no estimate or pricing discussion, no Two Promises, and crucially, no explicit ask for the business \u2014 just confirmation of existing booking details and a goodbye."
+}

@@ -1,0 +1,39 @@
+{
+  "call_id": "6443511836876800",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 10.1,
+  "datetime_ct": "2026-09-29 16:47 CT",
+  "external_number": "+14698355870",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 4,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 6,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'do you have about fifteen minutes to run through that with me?' but never frames the time-box + dependable quote promise or waits for a yes \u2014 jumps immediately into 'do you have just any type of mind, questions or concerns'",
+    "their_agenda": "Before I kinda hop in too deep do you have just any type of mind, questions or concerns that I can kick us off with here \u2014 asked before probing logistics",
+    "two_layers_deep": "Customer raises concern about flexible date ('lease ends on the fifteenth'), rep responds 'we do have a flexibility so as long as we have availability... no additional fees' then asks 'did you have any other things?' \u2014 stops after one layer, no 'tell me more about that'",
+    "estimate_anchor": "Rep gives $204/hr rate, $75 trip fee, mentions 2.5\u20133.5 hours range and calculates $585\u2013$738, but does not anchor to 'typical for a home this size' or explicitly personalize to this customer's specific factors (tight bedroom access, flexible date, minimal items)",
+    "pricing_framing": "Trip fee mentioned ($75), 2.5-hour minimum stated, but no explicit 'not a guess' framing, no 15-minute-increments commitment, and no upfront disclosure of other potential fees beyond what was mentioned",
+    "feels_fair_then_silence": "Never asked \u2014 rep moves directly to 'we do have that truck available, no deposit to book... did you want to go ahead and reserve that truck?'",
+    "on_time_guarantee_delivered": "Rep says 'we have our on time guarantee attached to that as well... if we arrive even just a moment out of the time window... then money is automatically deduct off the final deal' \u2014 mentions guarantee and automatic deduction but does not clearly state discount starts immediately or specify the discount amount/terms",
+    "damage_coverage_delivered": "Rep says 'the note where we damage coverage that does cover-up to $22,000 for any kind of incidentals' \u2014 mentions $2,000 coverage (transcribed as $22,000 but context suggests $2,000) but does not frame 'no deductible / no fine print' or confirm it's built into the rate, not an add-on",
+    "closes_the_loop": "No question asked like 'Does that put those to rest?' \u2014 rep moves from promises directly into truck availability and booking",
+    "final_concerns_check": "Rep asks 'do you have any other just additional questions or anything like that I can help you with?' \u2014 throwaway 'any questions' rather than genuine 'what's still concerning you about this move?'",
+    "catch_all_asked": "Never asked \u2014 no version of 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Rep says 'did you want to go ahead and reserve that truck?' \u2014 asked plainly without a built-in out"
+  },
+  "top_strength": "Chauntelle gathered comprehensive logistics details (property types, floor access, stairs configuration, truck parking, no additional stops, time preference) and discovered the customer's core need (help with large items only) quickly and efficiently.",
+  "coaching_note": "Chauntelle did not deliver the Two Promises section at all \u2014 no clear On-Time Guarantee terms, no damage coverage no-deductible framing, and no 'Does that put those to rest?' \u2014 and she skipped the critical 'Does that feel fair?' + silence pause before asking for the business, which left pricing unconfirmed and customer comfort unvalidated."
+}

@@ -1,0 +1,42 @@
+{
+  "call_id": "4882484002332672",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 7.8,
+  "datetime_ct": "2026-10-03 20:41 CT",
+  "external_number": "+17606505054",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 5,
+  "total_score": 63,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'I need ten to fifteen minutes of your time. So is this a good time to talk about your move?' \u2014 time-boxed ask is present, but does not frame the value of 'a quote you can depend on' and moves forward without clearly securing a yes, just proceeding on the customer's initial 'Yes ma'am' to the first greeting.",
+    "discovery_basics": "Name (Jared), moving day (October 13th), pickup and dropoff cities (San Antonio to San Antonio), square footage (750 sq ft apartment), bedrooms (1 to 3) \u2014 all four core items covered.",
+    "their_agenda": "Asked after detailed probing: 'Before I dispose with you the pricing and the estimate, do you have any concerns about the moving process.' Customer responds 'No, not right now.' \u2014 agenda came after logistics questions, not before.",
+    "logistics_details_gathered": "Property type (apartment and house), floor/stories (6th floor, 2-story house), rooms (1 bed apartment, 3 bed house), walking distance (20\u201330 ft to elevator, 25 yards on floor), additional rooms (none stated), special considerations (couch with recliners, queen mattress, elevator reserved), additional stops (none) \u2014 substantially complete.",
+    "box_count_asked": "Rep: 'Normally for a one bedroom apartment we see fifteen to 25 boxes. Do you think you would fall within that range?' Customer confirms range is fair.",
+    "estimate_anchor": "Rep provides $672\u2013$864 range anchored to 'usually for a one bedroom apartment we finish it... at three and a half hours but in your case... 6th floor with reserved elevator... Going to a two story house. I estimate at the move to finish in three and a half to four and a half hours' \u2014 both typical range and personalization present.",
+    "pricing_framing": "Rep discloses hourly rate ($192/hour for two movers), what's included (gas, truck, taxes, insurance, wraps, pads, tools), no hidden fees (no credit card, stereo, transportation fees), and 2.5-hour minimum with 15-minute increments prorated \u2014 comprehensive fee and commitment framing.",
+    "feels_fair_then_silence": "Not asked. Rep moves directly from pricing into rate-lock/deposit offer without asking 'Does that feel fair?' or pausing for customer reaction.",
+    "explicit_ask": "Rep asks 'So with that, would you like to be on the schedule for October 13th?' \u2014 a direct ask, but immediately followed by customer objection (waiting for other quotes) and rep responds by offering an out: 'you're free to call back this number' and 'I'll just send you an email... you could just reply to that email or give us a call.' The ask itself is plain, but the follow-up explicitly provides easy outs without attempting to close.",
+    "on_time_guarantee": "Never mentioned. No reference to any on-time discount guarantee.",
+    "damage_coverage": "Never mentioned. No reference to No Worries Damage Coverage or $2,000 coverage.",
+    "rate_lock_mentioned": "Rep states 'we can secure your truck for October 13th, we do not require any deposit so no risk and securing your spot' \u2014 rate/spot security and no-deposit framing present.",
+    "booking_confirmed": "Date confirmed (October 13th), pickup address confirmed (847 E Ashley, Tobin Hill, San Antonio 78212), dropoff address confirmed (2814 Dull Tour, San Antonio 78230), but no phone number re-confirmed, no arrival window time discussed, no crew size confirmed, no notes left for crew about concerns \u2014 partial confirmation only."
+  },
+  "top_strength": "Jeline gathered comprehensive logistics details methodically (floor, parking, walking distances, special items, appliances, both addresses) and anchored the estimate to the customer's specific move complexity, showing discipline in probing.",
+  "coaching_note": "Section 5 (Two Promises) was completely skipped \u2014 the On-Time Guarantee and No Worries Damage Coverage are core commitments that must be delivered before asking for the business; Section 6 (final concerns check) was also skipped, and Section 4 is missing the 'Does that feel fair?' pause that creates space for real objection handling."
+}

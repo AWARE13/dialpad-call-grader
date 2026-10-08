@@ -1,0 +1,43 @@
+{
+  "call_id": "5553553955659776",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 9.4,
+  "datetime_ct": "2026-09-28 21:51 CT",
+  "external_number": "+12147084388",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'in order from us to do a on target estimate I need to ask you a few questions that might take ten to fifteen minutes. Would that be fine for you?' \u2014 time frame is present, promise of dependable quote is missing, and rep proceeds without waiting for explicit yes, just moves on after customer says 'Oh.'",
+    "their_agenda": "Asked after logistics probing began: 'Other than the price sir William, is there any concern about the move that you'd like me to know' \u2014 but this comes after the rep has already started asking about the move request and last-minute booking reasons. Customer responds 'No, I don't think so.' so no concerns raised, which cascades N/A to two_layers_deep and active_listening_reflection.",
+    "logistics_details_gathered": "Rep covers: property type (one-bedroom apartment), floor/stories (fourth floor with elevator access), rooms (at origin, later destination confirmed as 4-bedroom house), walking distances (20 feet truck-to-elevator, ~100 feet elevator-to-apartment), additional rooms (balcony/patio/garage checked), special considerations (heavy/fragile/appliances all asked), additional stops (none mentioned). Box count also gathered: customer confirms no boxes, mainly furniture.",
+    "estimate_anchor": "Rep provides: 'typically a one bedroom apartment usually takes two movers between two and a half to three and a half hours' and personalizes to this move: 'in your case sir since we're going to be moving you from the fourth floor with elevator access, anticipating long walk from your apartment door down to the truck parking into a two story house I'm estimating the move to take only around three to four hours. So it's good to budget an overall of $6.12282 million so for three hours it's $6,124 hours $816 for the move.' [Note: pricing appears garbled in transcript, but anchor + personalization structure is present.]",
+    "pricing_framing": "Rep discloses: '$204 per hour for two movers and a 26 foot box truck, everything already included \u2014 gas, trucks, taxes, insurance, wraps, pads, tools \u2014 no hidden fees, no credit card fee, no transportation fee, no terrible fees, no disassemble/assembly fees.' Also states: 'It's a two and a half hour minimum. Once we go over the minimum the time will be in fifteen minutes increment.' Full disclosure of rate, minimum, and increment framing is present.",
+    "feels_fair_then_silence": "Not asked. Rep transitions directly from estimate to 'Alright, sir, I once again I only have one availability for tomorrow, Tuesday the team will come between 1:30 to 330 is that okay for you?' without asking 'Does that feel fair?' or similar validation and pause.",
+    "on_time_guarantee_delivered": "Rep states: 'we have an on time guarantee. Of course since we are a time based company we value your time sir. If by chance the movers arrive late from the time that we're gonna book you or the time range that I'm gonna give you. You start to get discount, the later day arrive the bigger. Your discount will be.' Covers the discount mechanism, though not explicitly framed as 'starts discounting immediately.' Qualifies as full delivery.",
+    "damage_coverage_delivered": "Rep states: 'already included in what you're going to be paying us is a free evaluation coverage which you don't have to pay anything extra that gives you up to $2,000 coverage... you don't have to worry. You can just give us a call to file a claim for it, zero deductible. It's gonna either be repaired, replaced or reimbursed within three to five business days... No, number two, our movers are not daily contracted workers.' Covers the $2,000 amount, zero deductible framing, no fine print (implied by 'no hidden fees' stated earlier), and built-in status ('already included'). Qualifies as full delivery.",
+    "closes_the_loop": "No. Rep moves from Two Promises section directly to availability window ('Alright, sir, I once again I only have one availability for tomorrow, Tuesday...') without asking a version of 'Does that put those to rest?' or confirming concerns are resolved.",
+    "final_concerns_check": "Not asked. Rep moves from booking window directly to customer request: 'Let me, can you send me like a link or something and I let me talk to my partner about this and then I will make a decision.' Rep does not ask a genuine final concerns check before or after this; instead advises on timeline and same-day booking policy.",
+    "catch_all_asked": "No. Rep never asks 'Anything coming with you we haven't talked about?' or equivalent.",
+    "explicit_ask": "Never asked. Customer initiates request to send link and discuss with partner; rep accommodates by explaining the 5:30 deadline and same-day booking policy, but rep never asks 'Would you like our help with your move?' or similar explicit ask for the business.",
+    "rate_lock_mentioned": "False. No mention of rate lock or deposit policy.",
+    "booking_confirmed": "Partial. Rep confirms: arrival window (1:30\u20133:30 PM tomorrow, Tuesday), but does not confirm: phone number, exact date in full detail, crew size, destination address (was mentioned during discovery but not re-confirmed in booking), and no notes left about customer concerns (there were none, but the mechanism was never executed)."
+  },
+  "top_strength": "Rep thoroughly gathered all seven logistics detail categories (property type, floor/stories, distances, special items, box count, parking) and delivered full transparency on pricing structure, hourly rate, inclusions, and zero-deductible damage coverage.",
+  "coaching_note": "Rep never asked for the business explicitly and failed to close the loop after Two Promises; when customer asked to discuss with partner, rep should have salvaged the call with a genuine final concerns check before ceding to follow-up\u2014instead rep pivoted immediately to deadline/policy language, leaving no opportunity to overcome objections and leaving the sale entirely to an outbound callback."
+}

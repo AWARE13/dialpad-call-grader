@@ -1,0 +1,41 @@
+{
+  "call_id": "5263065897803776",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 8.9,
+  "datetime_ct": "2026-09-28 14:42 CT",
+  "external_number": "+15719690327",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 5,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Missing entirely \u2014 no time-boxed framing or dependable quote promise before diving into probing",
+    "their_agenda": "Asked after extensive logistics probing: 'Alright and besides time and pricing, do you have any other questions or concerns you'd like answered on the call?' \u2014 customer had already described freight elevator constraint and box-moving preference",
+    "two_layers_deep": "Rep dug into the elevator timing concern: customer raised frustration with previous company's vague window (12-3pm), rep confirmed Einstein's 8:30-9am window and explained the two-hour window standard, then acknowledged 'the morning is usually pretty efficient'",
+    "active_listening_reflection": "No summary reflection offered \u2014 rep acknowledged concerns but never played back 'what I'm hearing is...' format",
+    "estimate_anchor": "Full anchor with personalization: '$192 for two movers, 126 foot box truck... usually takes between three and a half to five and a half hours. I would actually think that you fall within the range between three and four. So I looked to budget between $576 and then $768' \u2014 personalized to customer's efficiency level and box-prep plan",
+    "pricing_framing": "Full disclosure: 'We do charge an hourly rate... The way the clock works is the time starts as soon as we get on site... two and a half hour minimum once we go over that minimum the time is prorated in fifteen minute increments... zero hidden fees, there is no awesome, there's no deposit to get on the schedule and then no charges to cancel or change that date'",
+    "feels_fair_then_silence": "Asked and silence held: 'Does that all sound fair?' followed by customer response 'Yup, sounds good.' \u2014 no interruption",
+    "on_time_guarantee_delivered": "Full delivery: 'we have our on time guarantee which will help with the elevator reservations and we buy your time. So, if we can't make it in time window that we arrange, we immediately start discounting money of your final bill'",
+    "damage_coverage_delivered": "Full delivery: 'We do have our no worries image coverage. Which is our free evaluation coverage included in the hourly rate provides up to $2,000 per move to repair, replace or reimburse for accidental damages'",
+    "closes_the_loop": "Yes \u2014 asked 'Does that all sound fair?' after both promises, customer confirmed",
+    "final_concerns_check": "Not asked \u2014 rep moved directly to booking without a 'What's still concerning you?' check",
+    "explicit_ask": "Built-in out provided: 'Do you want me to go ahead and secure that spot? So you have it and then if you need to cancel, you can just go ahead and reply via email. Or you can just give us a callback?' \u2014 customer responded with 'don't reserve me for anything just yet but I'll give you a callback,' showing the out was accepted",
+    "rate_lock_mentioned": "Yes \u2014 'there is no deposit to get on the schedule and then no charges to cancel or change that date' conveys flexibility/no lock commitment",
+    "booking_confirmed": "Partial \u2014 Date (October 4th Sunday morning) and phone callback commitment confirmed, but arrival window discussed (8:30-9am), addresses confirmed (95 West Twentieth Street #368 to US Value Park), but crew size (two movers) mentioned only in estimate context, not explicitly re-confirmed at booking; no notes left about customer's elevator/timing concerns for crew"
+  },
+  "top_strength": "Rep expertly drilled into the customer's single real concern (elevator timing constraints) and provided a specific, credible solution (8:30-9am window) that directly addressed why the previous company failed \u2014 turning a potential objection into a competitive advantage.",
+  "coaching_note": "Section 1 must open with the quid pro quo framing ('This will take 10-15 minutes, you'll walk away with a quote you can depend on') and a genuine pause for yes before any probing starts \u2014 skipping this costs 5 points and risks the entire call feeling transactional instead of partnered."
+}

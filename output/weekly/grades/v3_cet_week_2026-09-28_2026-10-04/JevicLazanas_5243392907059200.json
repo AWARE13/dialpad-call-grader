@@ -1,0 +1,41 @@
+{
+  "call_id": "5243392907059200",
+  "rep_name": "Jevic Lazanas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 7.8,
+  "datetime_ct": "2026-09-30 18:12 CT",
+  "external_number": "+12146799798",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 6,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Not asked. Rep moved directly into logistics probing after basic acknowledgment.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer.",
+    "active_listening_reflection": "N/A \u2014 no concerns raised by customer.",
+    "estimate_anchor": "Rep gave minimum rate ($510 Thursday, $545 Saturday for 2.5 hours with two movers) but did not anchor to typical range for a home this size or personalize based on customer profile.",
+    "pricing_framing": "Rep disclosed hourly rate and minimum charge ($204/$218 per hour, 2.5-hour minimum). Did not frame as 'not a guess' or explain 15-minute increments.",
+    "feels_fair_then_silence": "Rep asked 'will that work for you sir?' and waited for customer response.",
+    "on_time_guarantee": "Never mentioned.",
+    "damage_coverage": "Never mentioned.",
+    "closes_the_loop": "No explicit close to Section 5.",
+    "final_concerns_check": "Asked 'will there be anything else that I can help you with today?' \u2014 a generic throwaway question, not the genuine 'What's still concerning you about this move?' variant.",
+    "catch_all_asked": "Not asked. Rep did not ask 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Never asked 'Would you like our help with your move?' Rep moved directly to scheduling and confirming the booking without an explicit close/ask.",
+    "booking_confirmed": "Date (Saturday October 3rd), arrival window (12:30 AM to 2:30 PM \u2014 note: likely meant PM, not AM), crew size (2 movers), addresses (pickup 6261 Bentley Road, drop-off 6642 Gavin Drive), and price confirmed. Phone number not confirmed on call. No notes captured about customer concerns."
+  },
+  "top_strength": "Rep successfully gathered all four discovery basics early (name, moving day, pickup/dropoff addresses, and item scope) and maintained control of the booking flow despite schedule availability constraints.",
+  "coaching_note": "Skip Section 2 entirely (Their Agenda and concern-dig), skip both promises (On-Time Guarantee and Damage Coverage), and move straight to scheduling without ever asking 'Would you like our help?' \u2014 this looks like a re-booking flow treated as order-entry rather than a sales call; for a returning customer, follow the card: ask what's concerning them about *this* move, deliver both promises, and confirm an explicit yes before finalizing."
+}

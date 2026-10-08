@@ -1,0 +1,37 @@
+{
+  "call_id": "5375636520869888",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 6.2,
+  "datetime_ct": "2026-09-28 15:17 CT",
+  "external_number": "+14086219657",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 42,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never delivers the 'we have availability / 10-15 minutes / quote you can depend on / does that sound good' framing. Jumps into probing.",
+    "their_agenda": "Not asked. Rep asks 'do you have any type of mind, concerns or questions' but customer volunteers concerns unprompted; rep does not ask the structured 'other than price, what are your biggest concerns' question.",
+    "estimate_anchor": "Rep gives '3 to 4 hours' as an estimate anchor, but does not personalize it to the customer's specific move details (short distance, minimal items, PC protection concern). Says 'probably about maybe 2.5 to 3' but frames it as a guess, not a confident anchor + personalization.",
+    "feels_fair_then_silence": "Never asks. Rep provides estimate and time frame but never asks 'does that feel fair?' or pauses for customer reaction.",
+    "on_time_guarantee": "Never mentioned.",
+    "damage_coverage": "Rep mentions 'No Worries Damage Coverage' and '$2,000 for any kind of incidentals' but does not explain no deductible / no fine print / built into rate framing. Presented vaguely as 'that is there for you in the end.'",
+    "explicit_ask": "Rep never asks 'would you like our help with your move?' or any equivalent ask for the business. Call ends with rep providing contact info and saying goodbye; no closing ask.",
+    "booking_confirmed": "Date (October 1st), time window (1:00-1:30 pm), and that customer will confirm with leasing office confirmed. Phone number not confirmed on this call; arrival window exists but customer still uncertain and will follow up. Crew size, notes for crew about PC protection concern not confirmed as booking details."
+  },
+  "top_strength": "The rep quickly identified the move as a short-distance intra-complex transfer and efficiently gathered the key furniture items (bed, nightstands, dresser, L-shaped couch, office chair, PC), demonstrating adaptability to an unusual move type.",
+  "coaching_note": "Never deliver the quid-pro-quo open framing, skip the structured 'their agenda' question entirely, fail to ask 'does that feel fair' after pricing, never attempt a closing ask for the business, and present damage coverage without the critical 'no deductible / no fine print' framing \u2014 this call reads as a partial intake with no real sales effort and no confirmed booking commitment."
+}

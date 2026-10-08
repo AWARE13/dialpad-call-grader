@@ -1,0 +1,38 @@
+{
+  "call_id": "4792370474557440",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 12.3,
+  "datetime_ct": "2026-09-29 14:33 CT",
+  "external_number": "+18082696948",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 8,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'this could take ten to fifteen minutes of your time' and 'is this a good time to talk about the move?' but does not explicitly promise 'a quote you can depend on' or wait meaningfully for affirmation before pivoting to confirmation of details.",
+    "their_agenda": "Rep asks 'But aside from the pricing, ma'am, do you have any other concerns about the moving process?' \u2014 this comes after the rep has already confirmed the date and location, so it's asked after initial probing has started.",
+    "two_layers_deep": "Customer raises concern about PC packing. Rep responds with explanation of wrapping but does not ask 'tell me more about that' or dig deeper into the concern; instead pivots to whether customer wants packing services. No genuine two-layer follow-up.",
+    "estimate_anchor": "Rep provides $206/hour rate for two movers, $576 travel fee, $150 for packing materials, 2.5-hour minimum, and gives range: '$2,374 to $2,580' \u2014 anchored and specific to this move (third-floor stair access, 8\u20139 hours estimated).",
+    "pricing_framing": "Rep discloses hourly rate, travel fee, materials fee, mentions 'no heat fees of any type,' 'minimum of two and a half hour,' and 'fifteen minute increments' \u2014 all the standard framing is present.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or equivalent. After stating the estimate, rep immediately moves into 'we can also secure your truck now' without pause for customer reaction.",
+    "on_time_guarantee_delivered": "Not mentioned at all.",
+    "damage_coverage_delivered": "Not mentioned at all.",
+    "final_concerns_check": "Rep asks 'Do you have any more questions before I let you go?' \u2014 this is a throwaway version, not the genuine 'What's still concerning you about this move?' format.",
+    "catch_all_asked": "Not asked. Rep does not ask 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Rep asks 'So with that, would you like to be on the schedule for Saturday?' \u2014 clear, direct ask without a soft out."
+  },
+  "top_strength": "Rep gathered all essential logistics details (property type, floor, distances, room count, appliances, special items) methodically and confirmed details at the end, building a complete and accurate estimate.",
+  "coaching_note": "Two Promises section (On-Time Guarantee and No Worries Damage Coverage) was completely skipped \u2014 this is a 10-point gap and a core part of the pitch; add this section every call before moving to final concerns."
+}

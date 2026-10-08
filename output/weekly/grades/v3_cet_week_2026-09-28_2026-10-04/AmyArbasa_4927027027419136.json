@@ -1,0 +1,39 @@
+{
+  "call_id": "4927027027419136",
+  "rep_name": "Amy Arbasa",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 5.8,
+  "datetime_ct": "2026-09-29 15:35 CT",
+  "external_number": "+12102969129",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skips opening framing entirely; jumps to 'I just wanna discuss with you they asked that I prepared. I already sent you a copy via email.' No time-box, no wait for yes.",
+    "discovery_basics": "Rep confirms moving day preference (Mon-Thu), acknowledges two-day move and storage component, but never explicitly asks customer name, never asks destination city, never asks home size/square footage upfront in Section 1.",
+    "their_agenda": "Not asked. Rep never asks 'Other than price, what are your biggest concerns about this move?'",
+    "estimate_anchor": "Rep gives hourly rates ($96/hr, $192/hr day one, $384/hr day two) and total estimates ($1,484 day one, $3,212 day two, $4,696 combined) but does not ground these in a typical range for a home this size or personalize to customer's concerns. No framing like 'typical for a 3-bedroom would be...'",
+    "pricing_framing": "Rep mentions travel fees ($140 each day) and that pricing is 'all inclusive' (taxes, insurance, gas, equipment), but does NOT mention trip fee structure clearly upfront, does NOT mention 2.5-hour minimum, does NOT mention 15-minute increments. Partial only.",
+    "feels_fair_then_silence": "Never asked. Rep delivers estimate and immediately asks 'Do you have any questions so far?' with no 'Does that feel fair?' or pause for customer reaction.",
+    "two_promises": "On-Time Guarantee: not mentioned. Damage Coverage: not mentioned.",
+    "explicit_ask": "Never asked. Rep says 'Whenever you're ready, if you have questions you can reach out anytime or if you're ready to book no deposit required, no rescheduling fees, no cancellation fee...' This is a soft conditional, not 'Would you like our help with your move?' No plain ask.",
+    "rate_lock_mentioned": "Rep states 'no deposit required, no rescheduling fees, no cancellation fee so it's basically is free' \u2014 rate-lock concept is implied but not explicitly framed as 'your rate is locked in.'",
+    "booking_confirmed": "Date not confirmed (customer said husband will call back, no date set). Phone number: Amy offers her number for callback. Arrival window: not confirmed. Crew size: mentioned (2 movers day 1, 4 movers day 2) but as part of pricing, not as confirmed booking detail. Addresses: already discussed but not confirmed as part of booking. Notes for crew: none left."
+  },
+  "top_strength": "Amy clearly explained the two-day breakdown and per-hour pricing structure with transparent fee disclosure ($140 travel fees), making the estimate easy to follow even though the customer deferred the decision to her husband.",
+  "coaching_note": "Skip the opening framing and never confirm the quid pro quo (time-boxed ask + promise of dependable quote + wait for yes), which is the load-bearing first line of the call \u2014 start with 'This will take about 10 to 15 minutes and you can walk away with a quote you can depend on. Does that sound good to you?' and wait for agreement before moving forward."
+}

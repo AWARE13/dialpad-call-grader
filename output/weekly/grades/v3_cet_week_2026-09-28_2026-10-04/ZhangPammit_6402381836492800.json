@@ -1,0 +1,38 @@
+{
+  "call_id": "6402381836492800",
+  "rep_name": "Zhang Pammit",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 6.5,
+  "datetime_ct": "2026-10-03 20:06 CT",
+  "external_number": "+15125176211",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 52,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never framed the 10-15 minute time box or promised a dependable quote; launched directly into 'we have saw your that you have booked move on the 30th of October... we just wanted to ask you some information'",
+    "their_agenda": "Never asked 'What are your biggest concerns about this move?' \u2014 rep went straight into logistics verification and item queries",
+    "estimate_anchor": "Rep provided estimate ('Estimated cost would be $975') and time range ('three and a half to four and a half hours') with per-hour/15-minute-increment framing ('timely based') but did not personalize to any specific concern or prep level the customer mentioned",
+    "feels_fair_then_silence": "No 'Does that feel fair?' asked after pricing; rep moved directly to 'this is scheduled in the morning as early as 8:30 AM'",
+    "on_time_guarantee": "Never mentioned on-time discount or guarantee",
+    "damage_coverage": "Never mentioned $2,000 damage coverage or No Worries Damage Coverage",
+    "final_concerns_check": "Rep said 'Alright then, thank you so much and enjoy the rest of your weekend' with no final 'What's still concerning you?' or genuine concerns check",
+    "catch_all_asked": "No 'Anything coming with you we haven't talked about?' asked before close",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' \u2014 booking was already confirmed at the start of the call ('we have saw your that you have booked move'), so rep treated it as a confirmation call only, not a sales call",
+    "booking_confirmed": "Date (Oct 30), phone (implied, customer on call), arrival window (8:30\u20139:00 AM), crew size (two movers, one truck), both addresses confirmed, and customer's concern about second-floor stairs noted for the crew"
+  },
+  "top_strength": "Rep gathered comprehensive logistics details on both locations (property type, floor/stories, rooms, walking distances, access concerns, special items) and thoroughly confirmed all destination details before hanging up.",
+  "coaching_note": "This was a confirmation call for a pre-booked move, not an inbound sales call \u2014 the rep never opened with quid pro quo, never asked for the customer's agenda or concerns, never delivered the Two Promises, and never asked for the business because the booking already existed; if this call should have been a standard 15-minute script execution, the rep needs to treat all inbound calls as sales opportunities and run the full script regardless of prior booking status."
+}

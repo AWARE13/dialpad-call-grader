@@ -1,0 +1,35 @@
+{
+  "call_id": "4716684109979648",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 14.2,
+  "datetime_ct": "2026-10-01 17:33 CT",
+  "external_number": "+15805741194",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 92,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "This should take about five to ten minutes of your time wherein we will ask you a few questions. Then we'll be able to build an accurate quote you can depend on sounds good. [No wait for explicit yes; moved directly into questions]",
+    "their_agenda": "So Mister rush, I just wanted to ask do you have any concerns or any important things that you wanted to answer during this call today? [Asked after discovery had already begun \u2014 the rep had already started collecting move details when this was asked]",
+    "discovery_basics": "when do you plan on moving? [fourteenth through seventeenth] / Are we moving a house an appointment, a storage. [five bedroom house] / current location address [2802 red sky pass, San antonio, Texas 78259] / square footage [4400 square feet, two story]",
+    "logistics_details_gathered": "Property type (house), floors (2 story), bedrooms (5), additional rooms (game room), access concerns (driveway, no narrow access), parking (driveway), destination address (172 river chase drive, new Bruns, Texas 78132), destination property details (2 story, 4 bedroom, 3000 sq ft)",
+    "packing_services": "No, it would be packing as well. / Is it packing the full house or only partial part of the house? [Partial \u2014 kitchen, three bedrooms, living room, dining room]",
+    "box_count": "so a typical back count based on your home size is 200 to 220 boxes. Do you feel that you fall within that range? [At 20220 boxes, yeah.]",
+    "walkthrough_branch": "Normally based on your home size, we do a virtual wafer in that way, we will just base it on the items that we're moving. Do you have time to complete the virtual walkthrough today? [No ma'am I don't.] / Or can you be able to send us like, a photos or videos of the items that we're moving? Or do you have any other days that you are available? [Yeah, I'll have to give you guys a call back on Monday or so to finish up]"
+  },
+  "top_strength": "Rep gathered complete logistics details (property type, stories, rooms, access, parking at both addresses, packing scope) and correctly identified the need for a virtual walkthrough based on home size, then routed the call appropriately when the customer couldn't complete it today.",
+  "coaching_note": "Move 'Their Agenda' question to the very beginning of the call \u2014 before any discovery probing starts \u2014 so concerns surface first and shape the rest of the discovery, rather than being asked after logistics collection has already begun."
+}

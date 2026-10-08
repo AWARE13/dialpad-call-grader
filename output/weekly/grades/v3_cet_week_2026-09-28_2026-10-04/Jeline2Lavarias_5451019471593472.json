@@ -1,0 +1,38 @@
+{
+  "call_id": "5451019471593472",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 12.0,
+  "datetime_ct": "2026-09-28 18:08 CT",
+  "external_number": "+19412645961",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 3,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 3,
+  "total_score": 41,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'And I just have a few quick questions to give you the accurate code and this could take ten to fifteen minutes. Is this a good time to talk about your move?' \u2014 mentions time and moves forward without clear wait for confirmation or statement about a dependable quote.",
+    "their_agenda": "Rep asks 'So, before I proceed aside from the pricing make and do you have any other concerns about the moving process?' \u2014 this is asked, but only after confirming the pickup address and property basics have already started. Customer responds 'Sure' but rep does not pursue.",
+    "two_layers_deep": "Customer says 'Sure' to concerns question but rep does not follow up with 'tell me more about that' or any probe. Rep immediately pivots to address confirmation with no exploration of what concerns exist.",
+    "active_listening_reflection": "No reflection or summary of concerns offered. Rep does not recap what was heard.",
+    "estimate_anchor": "Rep provides: 'normally if we're only moving a one bedroom apartment worth of items we finish the move-in. Three and a half hours... I estimate to move to finish in three and a half hours to four and a half... the estimated cost is $700 to $900.' Personalizes to grandfather clock and long walk distance.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or any close-the-loop question on pricing. After providing estimate, rep pivots directly to no-deposit messaging and customer asks for quote in writing.",
+    "on_time_guarantee_delivered": "Never mentioned.",
+    "damage_coverage_delivered": "Never mentioned.",
+    "explicit_ask": "Rep asks 'would you like to confirm your reservation now for the seventh' \u2014 this is positioned as a question about whether to reserve, not a direct 'Would you like our help with your move?' ask. No explicit ask for the business is made.",
+    "rate_lock_mentioned": "Rep states 'We just want you to let us know. So we can also plan ahead' and 'we will not require any deposit. So there's really no risk in secure in your spot' \u2014 deposit/no-deposit policy mentioned, satisfies the spirit of rate-lock language.",
+    "booking_confirmed": "Rep confirms: arrival window (8:30\u20139:00 AM), date (November 7th), addresses, and unit number (1726). Phone number not confirmed. Crew size (two movers) mentioned earlier but not re-confirmed at booking. No notes left for crew about sentimental grandfather clock concern."
+  },
+  "top_strength": "Jeline gathered exceptional logistics detail\u2014property type, floor/stories, walking distances measured in school-bus lengths, special item (grandfather clock) identified and probed for internal components, and personalized the estimate to account for those specifics.",
+  "coaching_note": "Section 2 (Their Concerns) must happen before probing starts: ask 'Other than price, what are your biggest concerns?' early, then probe two layers deep on each concern and reflect back; you asked late and never followed up when the customer said 'Sure,' missing the chance to surface and address real worries."
+}

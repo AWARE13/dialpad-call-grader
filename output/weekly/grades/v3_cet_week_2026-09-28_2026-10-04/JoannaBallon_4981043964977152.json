@@ -1,0 +1,38 @@
+{
+  "call_id": "4981043964977152",
+  "rep_name": "Joanna Ballon",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.0,
+  "datetime_ct": "2026-09-29 16:22 CT",
+  "external_number": "+13108487864",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 14,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 37,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skips directly into logistics questions ('Are you moving a house or an apartment?') with no time-boxed framing or promise of a dependable quote before asking for confirmation.",
+    "their_agenda": "Asked after probing has already started: 'But of course, do you have any important concerns or instructions for this move that also want to discuss on this call?' \u2014 this comes after property type, size, and availability checks.",
+    "two_layers_deep": "Customer mentions 'couple of paintings,' 'giant blue input couch upstairs,' and 'four poster bed needing disassembly.' Rep acknowledges with 'Mm-hmm' and 'Okay, got it' but never asks 'tell me more about that' or explores logistics impact. Single acknowledgment, no follow-up depth.",
+    "active_listening_reflection": "No reflection. Rep says 'Okay, got it. Thank you' but does not summarize back the concerns or ask 'Did I get all of it?'",
+    "estimate_anchor": "Rep gives hourly rate ($208/hour for two men and a truck) and mentions 'typically for a house this size...we recommend two trucks and four me' but does not anchor a total estimate range or personalize to this customer's specific move details (packing needed, disassembly, tight timeline).",
+    "pricing_framing": "Hourly rate disclosed ($208/hour, inclusive of taxes/insurance/credit card fees) but no mention of trip fee, overnight fee, 2.5-hour minimum, or 15-minute-increment commitment framing. Customer challenges pricing; rep repeats 'all inclusive' but does not reframe the value or commitment.",
+    "feels_fair_then_silence": "Never asked. Call shifts directly to customer objection ('I just did four guys for like 270') and rep does not use 'Does that feel fair?' to close the estimate or hold silence.",
+    "on_time_guarantee": "Not mentioned.",
+    "damage_coverage": "Not mentioned.",
+    "explicit_ask": "Never asked. Call ends with 'Alright, well send me a quote to my email and then I'll figure out what other alternatives there are' \u2014 customer leaves without rep asking 'Would you like our help with your move?' or any equivalent close.",
+    "booking_confirmed": "Partial. Rep has name (Michael Devella), email (michael@cloudadvisory.io), pickup address (1605 Grayford Drive, unit 1), and move date (tomorrow). Missing: phone number, arrival window, crew size confirmation, and notes left for crew about concerns (disassembly, tight timeline, packing needed)."
+  },
+  "top_strength": "Joanna gathered all four discovery basics (name, move date, route, approximate size) and probed several logistics details early, establishing a foundation for the estimate despite the tight timeline.",
+  "coaching_note": "Open with the quid pro quo framing ('10\u201315 minutes, walk away with a quote you can depend on') before any probing, and when the customer raises concerns, ask 'tell me more about that' at least twice per concern \u2014 don't just acknowledge and move on."
+}

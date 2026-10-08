@@ -1,0 +1,42 @@
+{
+  "call_id": "4701666480005120",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 11.9,
+  "datetime_ct": "2026-09-30 21:46 CT",
+  "external_number": "+15125638986",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 53,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'it would only take within the next five to seven minutes of your time so that I can build an accurate code' \u2014 frames time but never delivers the 'quote you can depend on' framing or waits for a yes before proceeding into discovery.",
+    "their_agenda": "Never asked. Rep moves straight into logistics probing (address, floor, walk distance, box count) without asking 'Other than price, what are your biggest concerns about this move?'",
+    "two_layers_deep": "N/A \u2014 customer raised a concern mid-call ('I'm still concerned that perhaps what we're requesting may be outside the scope of your services') but rep acknowledged it without digging deeper; however, this was customer-initiated, not a probing follow-up, so the Two Layers Deep item doesn't cleanly apply here.",
+    "active_listening_reflection": "N/A \u2014 no structured concern-gathering in Section 2, so no reflection opportunity.",
+    "estimate_anchor": "Full \u2014 rep anchors to typical 1-bedroom move (2\u20133.5 hours), personalizes to the specific route (one hour away, skilled nursing to assisted living, basic furniture only), and gives a range: 'Estimated cost is $1,103' with minimum $720 at 2.5 hours.",
+    "pricing_framing": "Full \u2014 rep discloses trip fee ($210) upfront, explains hourly rate ($102/hour per mover), mentions 2.5-hour minimum and 15-minute increments: 'once we go over that it will always be prorated into fifteen minute increments.'",
+    "feels_fair_then_silence": "Not asked \u2014 rep never asks 'Does that feel fair?' or solicits a gut reaction to the price before moving on.",
+    "on_time_guarantee_delivered": "Full \u2014 rep delivers: 'if you cannot make it to the time window that we arrange, we immediately start discounting money of your final bill.'",
+    "damage_coverage_delivered": "Partial \u2014 rep mentions '$2,000 per move' and 'repair, replace and reimburse' but omits the no-deductible/no-fine-print framing. Says only 'we will provide up to 2000 dollars per move' and 'that is the repair, replace and reimburse for your items.'",
+    "closes_the_loop": "False \u2014 rep launches into the two promises section but never asks a closing version of 'Does that put those to rest?' After the promises, rep pivots directly to estimate without looping back.",
+    "final_concerns_check": "Not asked \u2014 after the customer declines to book ('I just don't think at this point in time that just moving the few pieces that we need to move so quickly is $720'), rep asks only 'would you like me to send you like an estimate with regards to this or not anymore?' \u2014 transactional, not a genuine 'What's still concerning you?' check.",
+    "catch_all_asked": "False \u2014 rep does not ask 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Never \u2014 rep never asks 'Would you like our help with your move?' Instead, rep moves to sending an estimate and closes without a direct ask for the business."
+  },
+  "top_strength": "Rep gathered all four discovery basics cleanly (name, moving day, city-to-city route, approximate size) and built a personalized, anchored estimate ($720\u2013$1,103) that directly addressed the customer's emergency move context and route distance.",
+  "coaching_note": "Add Section 2's 'Other than price, what are your biggest concerns?' before diving into logistics, then circle back to those concerns in Section 6 \u2014 this call skipped the entire concern-discovery layer, and ended without ever asking for the business or confirming any booking details."
+}

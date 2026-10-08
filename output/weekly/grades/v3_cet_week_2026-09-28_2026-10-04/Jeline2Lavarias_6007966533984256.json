@@ -1,0 +1,37 @@
+{
+  "call_id": "6007966533984256",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 5.5,
+  "datetime_ct": "2026-10-03 17:54 CT",
+  "external_number": "+18177138298",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 41,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "section1_quid_pro_quo": "I just need ten to fifteen minutes of your time, is that okay? \u2014 framing is present (time-boxed) but no promise of a dependable quote, and the rep pivots immediately into a date availability problem rather than waiting for clear confirmation before probing.",
+    "their_agenda": "Never asked. Rep goes straight into date/address confirmation and logistics without asking 'other than price, what are your biggest concerns?' The customer volunteers concern about travel fee late in call but rep never asked first.",
+    "logistics_details_gathered": "Property type (apartment, though customer corrects 'not an apartment'), floor (second floor pickup, third floor dropoff), stair access (confirmed), parking distance (partially \u2014 '1520 feet' mentioned for drop-off but vague for pickup), and item type (sectional). Missing: number of rooms, additional rooms, special considerations beyond the sectional itself. About 4 of 7 logistics items.",
+    "estimate_anchor": "$750 to $847 provided with range tied to hours (2.5\u20133 hours at $194/hour) \u2014 the anchor is present and includes the travel fee breakdown ($265). Personalization: the move is sized to 'one piece furniture' and minimum hours applied.",
+    "pricing_framing": "Rep discloses travel fee ($265), hourly rate ($194), and states 'no hidden fees of any type' (no credit card fees, no disassemble/reassemble fees). Does NOT explicitly state the 2.5-hour minimum or 15-minute-increments commitment in the form the script calls for. Partial \u2014 fee transparency present, minimum framing incomplete.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or any version of it. Customer's objection ('You're charging me an additional $250...') surfaces unprompted, but rep does not ask permission to move forward after pricing.",
+    "explicit_ask": "Rep never asks 'Would you like our help with your move?' or any equivalent. The call ends with 'I'll just send everything to the email' and customer says 'I'll call you back later if I choose you guys' \u2014 rep accepts the customer's pivot to quote review elsewhere with no ask for the business.",
+    "final_concerns_check": "Not asked. When customer raises concern about travel fee late in call ('That doesn't make sense'), rep does not do a genuine final concerns check. Call trails off into quote delivery without closing that loop."
+  },
+  "top_strength": "Rep gathered detailed logistics on a complex two-apartment, multi-floor move (stairs, parking distances, item specifications) and delivered a specific, anchored price range with travel fee transparency upfront.",
+  "coaching_note": "Section 2 (Their Agenda) must be asked before any probing starts \u2014 you jumped straight into date/address without asking about concerns first, and you never recovered to ask 'What else is concerning you?' when the customer objected to the travel fee; always close with an explicit ask for the business ('Would you like our help?') rather than handing off to quote review."
+}

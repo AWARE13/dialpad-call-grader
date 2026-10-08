@@ -1,0 +1,39 @@
+{
+  "call_id": "5781798237020160",
+  "rep_name": "Jevic Lazanas",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 6.9,
+  "datetime_ct": "2026-10-02 20:30 CT",
+  "external_number": "+12103345353",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 2,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 1,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 3,
+  "total_score": 33,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Not delivered. Rep jumps directly into 'can you please verify your email address' with no time-box framing or promise of a dependable quote.",
+    "their_agenda": "Not asked. Customer brings up concerns organically ('would that increase the quote'), but rep never proactively asks 'what are your biggest concerns about this move.'",
+    "two_layers_deep": "N/A \u2014 customer raised concerns organically, but this is a follow-up call on an existing quote, not a full intake, so the n/a rule applies.",
+    "estimate_anchor": "None. The $585 minimum was already quoted in a prior call (by 'Brian'). Rep never provides or re-anchors a range for this customer's home size.",
+    "feels_fair_then_silence": "Not asked. Rep never asks 'does that feel fair' or equivalent, and no pause is held for customer reflection on pricing.",
+    "on_time_guarantee": "Not delivered. Rep never mentions the On-Time Guarantee or any discount terms.",
+    "damage_coverage": "Not delivered. Rep never mentions the No Worries Damage Coverage or $2,000 coverage.",
+    "explicit_ask": "Never asked. Rep ends with 'Alright, will there be anything else' and 'Alright, no problem. Thank you very much for choosing Einstein time' \u2014 no plain ask like 'Would you like our help with your move?' The booking was already made in the prior call.",
+    "rate_lock_mentioned": "Yes \u2014 rep states 'no deposit' and 'no upfront payment,' and clarifies payment happens after service on iPad.",
+    "booking_confirmed": "Partial \u2014 rep confirms date (Saturday October 10th), time window (12:30 PM to 2:30 PM), arrival window, and duration (2.5 hours). Phone number and addresses are not re-confirmed on this call; crew size and notes are not discussed."
+  },
+  "top_strength": "Rep expertly clarified the hourly-rate billing model and how additional items don't incur extra charges, directly addressing the customer's core concern about maximizing value within the 2.5-hour minimum.",
+  "coaching_note": "This is a follow-up/confirmation call on an existing quote, not a full intake \u2014 the rep should have recognized the context earlier and either verified the booking details cleanly or, if questions warranted, proactively re-engaged the Two Promises (On-Time Guarantee and Damage Coverage) and closed with an explicit ask to reconfirm the move; instead, the call drifted into ad-hoc Q&A without a structured frame."
+}

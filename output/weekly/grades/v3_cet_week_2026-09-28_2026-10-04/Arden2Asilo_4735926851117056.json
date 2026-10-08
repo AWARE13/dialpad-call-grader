@@ -1,0 +1,36 @@
+{
+  "call_id": "4735926851117056",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 14.9,
+  "datetime_ct": "2026-09-30 16:43 CT",
+  "external_number": "+19176235785",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 6,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "ABSENT \u2014 Rep jumps straight into probing for email without framing the call's time, value proposition, or confirming customer agreement to proceed.",
+    "their_agenda": "ABSENT \u2014 No version of 'Other than price, what are your biggest concerns?' asked at any point. The rep goes straight into logistics.",
+    "estimate_anchor": "Partial \u2014 Rep gives a range ('$700 or less' / '$900 if this is within three and a half, if this is four and a half hours') but does not personalize to customer's specific move profile until late; anchor is also confused and back-and-forth due to box count uncertainty. Quote: 'right now it's good to budget and overall of $900 if this is within three and a half, if this is four and a half hours but if it's just gonna be three and a half that's only $700 or less.'",
+    "pricing_framing": "Partial \u2014 Rep discloses hourly rate ($200/hour), minimum ($500 for 2.5 hours), and mentions 'depending on what' but does not deliver the 'not a guess' framing, 2.5-hour-minimum commitment language, or 15-minute-increment clarity. Quote: 'The minimum hour is two and a half ma'am for $200 per hour. It's $500.'",
+    "feels_fair_then_silence": "NOT ASKED \u2014 After stating the estimate, rep moves directly to 'We have availability for Saturday' without asking 'Does that feel fair?' or pausing for a response.",
+    "explicit_ask": "FULL \u2014 Rep asks 'If you're okay with this ma'am I can go ahead and lock it up and send you a confirmation email.' This is a plain ask without a built-in out.",
+    "booking_confirmed": "Partial \u2014 Rep confirms date (October 31st), arrival window (8:30-9:00 am), crew size (2 movers), and addresses were already known from the online form. However, rep does NOT confirm phone number as a contact detail on this call, and does NOT leave notes for the crew about customer concerns (liquor handling, box count uncertainty, prior crew-sizing issue). Quote: 'movers will come two movers welcome on the thirty first 8:30 to 9:00.' Later: 'you are officially on the books movers will come between 8:30 to 9:00. I'm gonna send you a confirmation email.'"
+  },
+  "top_strength": "Rep successfully handled a repeat customer with an unusual moving profile (one bedroom in a three-bedroom home) and reconciled the mismatch between online quote and actual inventory, ultimately retaining the customer and securing a booking despite pricing concerns.",
+  "coaching_note": "Open the call with a clear time-boxed framing and quid-pro-quo ask ('This will take 10\u201315 minutes and you'll walk away with a quote you can depend on\u2014does that sound good?') before diving into probing, and always ask 'Other than price, what are your biggest concerns?' early to surface real issues and drive deeper discovery."
+}

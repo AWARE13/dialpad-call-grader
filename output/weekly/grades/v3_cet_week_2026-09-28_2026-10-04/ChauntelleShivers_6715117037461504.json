@@ -1,0 +1,39 @@
+{
+  "call_id": "6715117037461504",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 6.3,
+  "datetime_ct": "2026-09-30 17:04 CT",
+  "external_number": "+12109472567",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 42,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Not delivered. Rep skips directly into verification: 'Give me just one moment, I'm pulling up your account right now' \u2014 no time-boxed framing or promise of a dependable quote or wait for a yes.",
+    "their_agenda": "Not asked. Rep launches into logistics verification without asking 'Other than price, what are your biggest concerns about this move?'",
+    "estimate_anchor": "Partial \u2014 rep gives a time range ('three to four hours') and personalizes it slightly ('it looks like a little bit of like maybe thirty or so minutes just to account for that second location'), but no explicit typical range for a one-bedroom apartment stated upfront as an anchor.",
+    "pricing_framing": "Partial \u2014 rep mentions '2.5 hour minimum' and 'you only pay for the time you use,' but does not disclose any trip fees, overnight fees, or packing material costs upfront, and does not frame as 'not a guess' or mention 15-minute increments.",
+    "feels_fair_then_silence": "Not asked. Rep never asks 'Does that feel fair?' or any equivalent. Customer says 'Perfect, then I, I'm all good to go on my end' unprompted.",
+    "on_time_guarantee": "Not delivered. No mention of On-Time Guarantee or discount terms if late.",
+    "damage_coverage": "Not delivered. No mention of No Worries Damage Coverage or $2,000 coverage.",
+    "final_concerns_check": "Throwaway \u2014 'Do you have any other, just questions concerns?' This is the empty ask that gets an automatic no, not a genuine 'What's still concerning you about this move?'",
+    "explicit_ask": "Never asked. Rep never asks 'Would you like our help with your move?' or any equivalent. Booking is confirmed but no explicit ask for the business.",
+    "booking_confirmed": "Partial \u2014 date (Nov 12), arrival window (8\u20138:30 AM), unit numbers, and access details confirmed; phone number and crew size not confirmed on this call."
+  },
+  "top_strength": "Chauntelle systematically gathered all four discovery basics (name, move date, route, size/furniture) and confirmed logistics details (unit numbers, floor levels, parking/access) with precision, catching and correcting the customer's own mistakes and documenting them clearly for the crew.",
+  "coaching_note": "This is a follow-up/verification call on an existing booking, not a sales call \u2014 the rep should have opened with the quid-pro-quo framing and either re-discovered their concerns or explicitly confirmed the original concerns are still addressed, rather than jumping straight to logistics without any discovery or pitch structure."
+}

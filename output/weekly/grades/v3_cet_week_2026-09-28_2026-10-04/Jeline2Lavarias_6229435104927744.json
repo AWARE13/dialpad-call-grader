@@ -1,0 +1,42 @@
+{
+  "call_id": "6229435104927744",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 9.2,
+  "datetime_ct": "2026-10-04 15:04 CT",
+  "external_number": "+15127813742",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 8,
+  "section7_ask_for_the_business": 2,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "None \u2014 rep opens with request acknowledgment and date confirmation but never frames the 10\u201315 minute time box + dependable quote promise + does-that-sound-good wait sequence.",
+    "discovery_basics": "Name (Amed), moving day (October 24th), pickup location (1301 Across Lane, Austin 78741), destination (1401 He Crossing Road 78681), size (1000 sq ft, 2-bedroom apartment first floor). All four present.",
+    "their_agenda": "Asked after extensive probing. Rep asks: 'Alright, before I discuss the pricing structure and the estimate, do you have any concerns about the moving process.' By this point, rep had already gathered furniture list, TV size, walking distance, parking details, and destination floor/access.",
+    "two_layers_deep": "Shallow. Customer raises a concern ('when they asked me for everything I had mentioned boxes at the time but because when I put it in my furniture they thought it was heavy furniture they thought we were moving like \u00a33,000'). Rep acknowledges with 'Mm-hmm' but does not dig deeper with 'tell me more about that' or any follow-up question \u2014 moves straight to validation and pricing discussion.",
+    "active_listening_reflection": "None \u2014 no summary reflection of the concern back to the customer. Rep says 'Yes, sir. For this move we will just be sending you two movers' but does not recap what was heard.",
+    "estimate_anchor": "Full. Rep gives a range: 'estimated cost is between $575 and $2,805' and personalizes it: 'for your move since we're only moving a few pieces of furniture here from a first floor apartment going to a second floor apartment... drive time is between thirty minutes to an hour depending on traffic. So I will only estimate you to be on the minimum of two and a half hours to three and a half hours.'",
+    "pricing_framing": "Full. Fee transparency: 'we do not have any hidden fees, no credit card fees, no terrible fees, no transportation fees.' Commitment framing: '2.5 hour minimum... time is prorated in fifteen minute increments.'",
+    "feels_fair_then_silence": "Not asked \u2014 rep never asks 'Does that feel fair?' or any variant, and does not create space for customer reaction. Moves directly to email offer: 'Can I get this emailed to me?' is customer-initiated.",
+    "on_time_guarantee_delivered": "None \u2014 not mentioned at all.",
+    "damage_coverage_delivered": "None \u2014 not mentioned at all.",
+    "closes_the_loop": "False \u2014 neither promise was delivered, so no loop to close.",
+    "final_concerns_check": "Full. Rep asks: 'Do you have any questions before I let you go?' which is a genuine final check (though not the ideal 'What's still concerning you about this move?' phrasing, it is an open-ended genuine offer for remaining concerns, not throwaway).",
+    "catch_all_asked": "False \u2014 no version of 'Anything coming with you we haven't talked about?' was asked.",
+    "explicit_ask": "Never \u2014 no recognizable 'Would you like our help with your move?' or similar ask. Customer initiates the email request, and rep pivots to discount mention and email delivery. No explicit business-closing ask from the rep.",
+    "rate_lock_mentioned": "True \u2014 'no risk and securing your spot' and discount mention ('if you are a little flexible with your date... instead of paying $230 per hour the rate will go down to $210') conveys pricing certainty, though not in the exact 'rate lock' framing."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details (furniture inventory, walking distances, floor access, parking, drive time) and provided a clear, anchored pricing range with full fee transparency and the 2.5-hour minimum framing.",
+  "coaching_note": "Section 2's critical gap: customer raised a concern about prior overestimation, but rep acknowledged it with silence instead of going two layers deep ('tell me more about that') and never reflected back what was heard \u2014 this loses the chance to build trust and qualify the customer's real pain. Also missing: the Two Promises (On-Time Guarantee and Damage Coverage) were never mentioned, and no explicit ask for the business was made before the call ended."
+}

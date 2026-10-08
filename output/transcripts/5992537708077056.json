@@ -1,0 +1,964 @@
+{
+  "call_id": "5363492360331264",
+  "lines": [
+    {
+      "content": "Thank you for calling Einstein Moving Company. This is Bree. How may I help you?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:28:14.554947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:28:14.554947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:28:14.554947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:28:14.554947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:28:14.554947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:28:14.554947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:28:14.554947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:28:15.653947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:28:17.253947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Hi Bree, my name is Jeremy. I have utilize your services before and I was looking to see if you guys have any moving availability on Saturday.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:28:18.678117",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "call_purpose",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:28:18.678117",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "ner",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:28:20.318117",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "contact_name",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:28:20.798117",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "ner",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:28:20.798117",
+      "type": "moment"
+    },
+    {
+      "content": "Let's see.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:28:31.954947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Very quick turnaround time, I apologize.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:28:32.478117",
+      "type": "transcript"
+    },
+    {
+      "content": "No, on the third.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:28:34.954947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Yes ma'am.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:28:36.678117",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup, I do have trucks available.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:28:37.954947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "And do you guys charge for whether or anything like that?",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:28:41.478117",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "question",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:28:42.078117",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:28:43.773947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Nope, not at all. I know there's a lot of weather coming in and concern, I mean, here so far, it's just been rain. I think the only time that it really causes issues, if there's like fender and lightning and if they do have to pause, they'll just take a lunch which you don't pay for and then if they do happen to need to reschedule, you'll just keep the same rate that you had when you book the move.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:28:45.154947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Okay. Okay, cause it is Sunday's and lighting, where I'm at right now by the airport. Yeah, I'm really hoping that ACL gets canceled but other than that, that's fine.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:29:06.678117",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, is it, okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:29:12.154947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:29:15.154947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Yeah, I think I keeps changing on whether it's supposed to go all weekend or not but I mean, I think as long as it's not like they don't, they rarely cancel or hold off. So and then they'll just double wrap so they pad wrap everything anyways as you know, and then they're just gonna add another level of street wrap, which you also know is included in the hourly rate so you're not paying any extra money for them to double protect the furniture from door to truck.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:29:18.154947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:29:28.773947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Okay.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:29:37.278117",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Okay, and is it I'm going to be having it moved. So this will probably be a two partner, I'm trying to get pricing right now, because I.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:29:43.278117",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "The long story short, the realtor screwed us and have not approved us for any kind of housing. So, we're essentially homeless. So, we need to put everything always one. So, we need to put things in the storage. So, I'm looking at a storage based off of Congress right now. So that would be just that move and then I guess we would hay to schedule a different move for when we found a place. But because I'm a repeat customer and I was hoping I would see what the pricing would be for that.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:29:56.478117",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:30:01.354947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Oh, super fun. Yeah.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:30:06.154947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Yeah, let me know what is a good email for you.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:30:27.154947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "It's Jeremy V-A-S-Q-U. @gmail.com.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:30:31.278117",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "contact_name",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:30:31.718117",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "ner",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:30:31.718117",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "pii",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:30:34.878117",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "email_address",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:30:37.158117",
+      "type": "moment"
+    },
+    {
+      "content": "And then what is the address that we would be picking up the furniture.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:30:49.354947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "It is 3912 black granite drive?",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:30:55.278117",
+      "type": "transcript"
+    },
+    {
+      "content": "Is that one word or 22 words? Got it.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:31:03.154947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:31:03.154947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Awesome, 22 words.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:31:04.278117",
+      "type": "transcript"
+    },
+    {
+      "content": "And then how is this the house department?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:31:10.954947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:31:11.733947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "It's a house 14 fourth house.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:31:13.278117",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and then how many square feet are we moving?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:31:15.754947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:31:18.253947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Everything will be pushed into the living room, no going into other rooms.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:31:20.478117",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:31:26.554947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "It'll be like a living rooms worth of stuff.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:31:30.678117",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "One couch, one bed food dressers like, and boxes, so like, not, not a whole lot.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:31:34.878117",
+      "type": "transcript"
+    },
+    {
+      "content": "One.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:31:41.554947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "You would you say it's almost like a one bedroom apartment move essentially?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:31:46.354947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Essentially, yeah.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:31:51.078117",
+      "type": "transcript"
+    },
+    {
+      "content": "Maybe two.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:31:53.554947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Maybe two but 11 for sure.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:31:55.278117",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Are we moving any t.v.s.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:31:59.554947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "No, TVs the heaviest items would be.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:32:03.078117",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Two standing desks.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:32:09.678117",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "And a mattress and one of the book cases is, is heavy but, or one of the books. Sorry, not book cases. One of the dressers is happy but other than that, that's it.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:32:14.478117",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and then how many boxes were you thinking.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:32:24.154947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "See.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:32:31.278117",
+      "type": "transcript"
+    },
+    {
+      "content": "Typical two bedrooms like two and ninety five thirty five.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:32:35.554947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Oh, shit. That's a lot of Wales.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:32:40.278117",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "negative_sentiment",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:32:40.278117",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "swearing",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:32:40.918117",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "ner",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:32:41.558117",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Yeah, maybe like 1520 maybe.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:32:44.478117",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:32:47.554947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Alright. Alright, and then you said that we are going to put you in a storage unit temporarily. Do you have the address for that?",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:32:53.554947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "question",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:33:01.133947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Yes. The one I'm looking at it right now is 4500 South Congress Avenue. 78745.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:33:03.078117",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "address",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:33:05.798117",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "postcode",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:33:10.278117",
+      "type": "moment"
+    },
+    {
+      "content": "That and then do you know what size storage unit you got.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:33:13.954947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "The one that I was looking at would be a large one. So it'd be like twenty by ten, yeah.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:33:23.478117",
+      "type": "transcript"
+    },
+    {
+      "content": "Ten by twenty.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:33:31.354947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "And then is it gonna be an indoor, outdoor.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:33:34.954947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:33:38.053947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "These ones look to be indoor.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:33:38.478117",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, perfect.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:33:40.354947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "And you haven't gotten the unit yet. So we don't know like what floor or anything like that.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:33:43.954947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "No ma'am. I haven't gotten it yet.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:33:48.678117",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, perfect. And then just a reminder that we do have that. I know you've used the support. So just bullet points. No, we have that no worries damage coverage. Which is a free evaluation coverage included in the hourly rate provides it to $2,000 per moved repair, replace or reimburse for accident and damages. Few days before the moves you will get that meet your mover email helping introducing them to you helping ease attention of strangers Rev at your front door. And then we do have that on time guarantee another perk that we have is and it's S. Padding, and wrapping your furniture and putting it in storage. We can actually let you. We loan those pads to you. So you'll just pay deposit per pad and then when we move you from the storage unit to wherever you're going, we just give you that deposit back.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:33:50.554947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:33:52.453947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "currency",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:34:03.773947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:34:19.613947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:34:37.453947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Okay, cool.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:34:38.478117",
+      "type": "transcript"
+    },
+    {
+      "content": "And that way like with other companies. All pad it wrap it, unwrap it when they get to storage unit. So that's obviously adding time to the move and stuff like that. Even if we do not move you from the storage unit to the new place. If you, when you return the blankets you just get that deposit back.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:34:38.554947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:34:50.093947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Okay, gotcha.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:34:52.878117",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, and then the clock works. The time starts as soon as we get online open that contract you didn't have us for as long as you need us for any move. We have a two and a half hour minimum. Once we go over that minimum the time is prorated in fifteen minute increments and then I'm gonna go ahead and estimate this move between 3:00 and four hours just because we don't know quite yet what the storage unit looks like. Cause that could be a walk elevator, things like that once we have more information, I can get you a more accurate.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:34:54.154947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "monologuing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:35:02.653947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:35:04.613947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "time",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:35:10.253947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Estimate and then we do charge that hourly rate. Everything is included in the hourly rate. Time, gas and truck taxes and insurance. All rap pads, advance and protect items. And then all tools for disassemble reassembly. And then it looks like for Saturday October 3rd. And the hourly rate is $222 for two movers 126 foot box truck. And I would like to budget between $666 and then $888.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:35:20.554947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Okay.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:35:21.678117",
+      "type": "transcript"
+    },
+    {
+      "content": "date",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:35:37.013947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "currency",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:35:39.333947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "currency",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:35:45.773947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "currency",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:35:48.613947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "So it'd be 800 out the door.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:35:52.278117",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah. Well it would be and it obviously you're only paying for the time that it takes but either $666 and then $888 would be your higher.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:35:54.154947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "currency",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:35:59.573947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "currency",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:36:01.293947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Okay. And is that with a discount with repeat customer or.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:36:04.278117",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, yeah, so unfortunately, we don't offer discounts just because our pricing is so transparent, so we don't kind of can't offer that cause we don't charge the taxes fees and then all are like, padding and wrapping is in, in like. That included. Gosh can't talk to the rains. Got me all like Cureff and then yeah, so and I do have two timeslots for that time of a move. I do have an 8:39 AM arrival and then I have a twelve between 12:30 and 230 arrival time as well.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:36:10.954947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "For sure.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:36:17.478117",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "For sure.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:36:27.678117",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Yeah.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:36:31.878117",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:36:36.573947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "time",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:36:39.133947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Okay, can I go ahead and reserve that Jeff in case and then 24 hour cancellation is that what your policy is?",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:36:42.078117",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "question",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:36:43.118117",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "ner",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:36:44.638117",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:36:46.354947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Yeah, there's actually no deposit to get on our schedule and there's no fees to cancel or change. We just ask, you know, yeah, that you do give us 24 hours that way we can you know, put someone else in that slot.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:36:50.554947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Okay, yeah we'll go ahead and reserve the 1231 just for now.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:37:01.878117",
+      "type": "transcript"
+    },
+    {
+      "content": "Awesome.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:37:03.754947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "Okay, yup, and then again like, once you get all that storage unit, if it's gonna take two and a half to three and a half hours, you obviously only pay for the time that we are there.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:37:06.754947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Okay, cool.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:37:17.478117",
+      "type": "transcript"
+    },
+    {
+      "content": "And then I'm gonna send all this over to you via email and then if you would like your excuse me if you have any questions or concerns please don't hesitate to reach out and I do apologize that you guys were putting that situation that's pretty crappy but hopefully we can make that as smooth as possible for you.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:37:18.754947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:37:19.333947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:37:19.653947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "swearing",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:37:30.573947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "For sure. I appreciate, I actually really appreciate that and no, you guys were great last time so that's you're the first person I called, so.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:37:34.878117",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "support_issue_resolved",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:37:35.918117",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "positive_sentiment",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:37:37.078117",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, awesome. Thank you so much again, let us know if you need anything you can call us or just respond to the email as well.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:37:41.554947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "action_item",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:37:45.213947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Okay, sounds good.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:37:47.478117",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. Thanks Jeremy. Uh-huh bye.",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:37:49.354947",
+      "type": "transcript",
+      "user_id": "5690585497018368"
+    },
+    {
+      "content": "ner",
+      "name": "Bri Boyce Newbro",
+      "time": "2026-10-01T17:37:49.893947",
+      "type": "moment",
+      "user_id": "5690585497018368"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDPipzQ7QkM",
+      "content": "Thank you, bye-bye.",
+      "name": "Jeremy Vasqu",
+      "time": "2026-10-01T17:37:50.478117",
+      "type": "transcript"
+    }
+  ]
+}

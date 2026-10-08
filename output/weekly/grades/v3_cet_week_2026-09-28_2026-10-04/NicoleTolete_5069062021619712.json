@@ -1,0 +1,40 @@
+{
+  "call_id": "5069062021619712",
+  "rep_name": "Nicole Tolete",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 8.0,
+  "datetime_ct": "2026-09-29 21:44 CT",
+  "external_number": "+12144352353",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 2,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 33,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Nicole never framed the call timeframe, the value of a dependable quote, or asked for permission to proceed. She jumped directly into estimate delivery: 'I have your personalized estimate ready here just a moment.'",
+    "their_agenda": "No version of 'Other than price, what are your biggest concerns?' was asked. Nicole began with the estimate immediately.",
+    "estimate_anchor": "Nicole provided an hourly rate ($306/hr), an hourly range (7\u20138 hours), and a total (approximately $2,342), but did not anchor to a typical range for homes this size or personalize to this customer's specific situation until well into the call when Paul raised his own concern about the time estimate. She then adjusted downward to 5\u20138 hours but this was reactive, not proactive framing.",
+    "pricing_framing": "Nicole disclosed the hourly rate, materials cost, 2.5-hour minimum, and 15-minute increments ('the time is per rated in fifteen minute increments'). She did not disclose trip fees, overnight fees, or use the 'not a guess' framing. She did state 'everything is included in the hourly rate' and covered truck, fuel, taxes, insurance, pads, and blankets, but the framing was incomplete.",
+    "feels_fair_then_silence": "Nicole never asked 'Does that feel fair?' or 'Does that sound okay to you?' She moved directly to 'Would you like me to get you on the schedule?'",
+    "on_time_guarantee_delivered": "Not mentioned at all.",
+    "damage_coverage_delivered": "Not mentioned at all.",
+    "closes_the_loop": "No closing of the Two Promises section occurred. Nicole never mentioned either guarantee and thus had no opportunity to ask 'Does that put those to rest?'",
+    "final_concerns_check": "At the very end, Nicole asked 'Do you have any questions or anything for me?' This is the throwaway version, not the genuine 'What's still concerning you about this move?'",
+    "explicit_ask": "Nicole never asked 'Would you like our help with your move?' or any direct close. She moved from the estimate directly to logistical details (pod size, unload pricing), then asked about email, and ended with the throwaway 'Do you have any questions?'",
+    "booking_confirmed": "Nicole obtained the customer's email (P.Alore@gmail.com) and mentioned she would send an email with the estimate. No move date was confirmed, no phone number was re-confirmed, no arrival window was set, no crew size was agreed to for the actual booking, and no notes were left with the crew about customer concerns. Only partial contact info was secured."
+  },
+  "top_strength": "Nicole handled a complex multi-part move (loading to pod, then unloading from pod to house) and pricing adjustment logic clearly, recalculating the estimate when the customer provided better information about actual packing time.",
+  "coaching_note": "This call skipped almost all of the Einstein call script: no quid pro quo framing in the open, no 'other than price' concern discovery, no pricing framing, no 'Does that feel fair?' pause, no Two Promises section at all, and no explicit close. Nicole jumped straight to estimate delivery from a prior walkthrough and never engaged the customer on their needs, concerns, or commitment \u2014 effectively a one-way quote read rather than a sales call."
+}

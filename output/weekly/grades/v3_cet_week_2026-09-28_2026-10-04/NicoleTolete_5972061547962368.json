@@ -1,0 +1,40 @@
+{
+  "call_id": "5972061547962368",
+  "rep_name": "Nicole Tolete",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 10.9,
+  "datetime_ct": "2026-09-30 15:18 CT",
+  "external_number": "+18454444309",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 30,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 4,
+  "total_score": 84,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "This call will just take around ten to fifteen minutes then I'll be able to build you an accurate code you can depend on, sounds good. [Customer: Yes]",
+    "their_agenda": "I'd like to ask first what are your biggest concerns and what are the most important things you want answers to on this call today?",
+    "logistics_details": "Property type (apartment/house), stories (single story), rooms (king bed, twin beds, dining table, desk), dressers mentioned, garage (one car), driveway confirmed, special items (piano upright, wall-mounted workout machine/tonal, fridge, freezer, wall-mounted TV, bicycles x3), furniture list gathered",
+    "packing_services": "And do you also need our help packing your small items into boxes. [Customer: No]",
+    "box_count": "for a typical two bedroom apartment we usually expect to see around 35, I'm sorry, 25 to 35 boxes to move, do you think you'll fall within that range?",
+    "estimate_anchor": "Now for a typical two bedroom apartment, it usually takes around three and a half to five and a half hours to completely move locally... I will estimate your move to take around eight to nine hours with two movers and one truck... It's good to budget around $2,747 to $2,955.",
+    "pricing_framing": "$208 per hour for two movers and one truck... Everything is included in the hourly rate, like the fuel and truck taxes, insurance, all rap, pads and bans... only two things outside of the hourly rate. First, there's a one time travel fee of $843... Second, there is an overnight fee of $240... There's no hidden fees of any type... We have a minimum of two and a half hours once we go over the minimum the time is per rated in fifteen minute increments.",
+    "on_time_guarantee": "we have on time guarantee if we cannot make it in the time window that we arrange. We immediately start discounting money of your final bill.",
+    "damage_coverage": "we have no worries. Damage coverage we provide up to $2,000 per move to repair, replace or reimburse for any accidental damages.",
+    "explicit_ask": "And would you like our help with your move? [Customer: No, I'm going to call you back to confirm. I need to check right to the other company.]",
+    "final_concerns": "Alright, you're welcome and again this is Nicole, take care and you have a great day... Do you have any questions or anything for me?"
+  },
+  "top_strength": "Comprehensive logistics probing\u2014Nicole systematically gathered property type, floor count, furniture inventory, special items (piano, workout equipment, appliances), garage details, parking accessibility, and destination house configuration, building a complete picture for accurate pricing.",
+  "coaching_note": "After the customer declined to book, Nicole sent an email but never held real silence after asking \"Would you like our help with your move?\"\u2014and later used a throwaway \"any questions?\" instead of a genuine final-concerns check; these two gaps left money on the table in both commitment moments."
+}

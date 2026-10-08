@@ -1,0 +1,37 @@
+{
+  "call_id": "5596089002795008",
+  "rep_name": "Joanna Ballon",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 8.0,
+  "datetime_ct": "2026-09-29 19:26 CT",
+  "external_number": "+13179355707",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'it might take about ten to fifteen minutes' and customer affirms 'It is,' but rep never frames a promise of a dependable quote or waits for explicit agreement before launching into probing.",
+    "their_agenda": "Not asked. Rep asks about concerns early: 'do you have any important concerns about this move aside from the pricing' but customer deflects to 'trying to get quotes today' and rep pivots immediately to logistics without pressing 'what are your biggest concerns and what do you want answers to on this call?'",
+    "estimate_anchor": "Rep gives hourly rate ($204/hr for two men and truck) and lists what's included, but does not personalize to this specific customer's move or confirm that estimate feels fair before customer objects on price.",
+    "pricing_framing": "Rep discloses trip fee ($140) and mentions no worries damage coverage and on-time guarantee, but does not explicitly frame the 'not a guess' / 2.5-hour minimum / 15-minute-increments commitment.",
+    "feels_fair_then_silence": "Not asked. After pricing, customer immediately says 'I can't afford you guys' with no pause for rep to ask 'Does that feel fair?' or hold silence.",
+    "on_time_guarantee_delivered": "Rep states: 'also on time guarantee if we run late, we provide discounts for your move' \u2014 covers discount terms in recognizable form.",
+    "damage_coverage_delivered": "Rep says: 'we also include our no worries damage coverage which would give you up to $2,000 coverage for any accidental damages' \u2014 mentions coverage and amount but does not explicitly state no deductible/no fine print framing or that it's built into the rate.",
+    "explicit_ask": "Never asked. Call ends with customer declining: 'I can't afford you guys' and rep responding 'no worries. Was there anything changes just let us know' \u2014 no 'Would you like our help with your move?' asked."
+  },
+  "top_strength": "Joanna gathered meaningful logistics details (third-floor walk-up, furniture inventory, parking access, destination floor/elevator) and disclosed the on-time guarantee discount terms clearly.",
+  "coaching_note": "Ask 'what are your biggest concerns and what do you want answers to?' early and before probing, then use the price-anchored estimate to build value \u2014 hold silence after 'Does that feel fair?' to let the customer react, rather than moving straight to features that come too late if they've already mentally checked out."
+}

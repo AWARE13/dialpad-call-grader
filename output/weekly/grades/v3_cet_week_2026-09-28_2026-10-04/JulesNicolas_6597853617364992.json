@@ -1,0 +1,37 @@
+{
+  "call_id": "6597853617364992",
+  "rep_name": "Jules Nicolas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 7.5,
+  "datetime_ct": "2026-09-29 18:30 CT",
+  "external_number": "+19728775722",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 8,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "None present. Jules jumps directly into 'I do have your estimate here with me' and begins explaining rates with no framing of time, no promise of dependability, and no ask for permission to proceed.",
+    "their_agenda": "Not asked. Jules never asks 'Other than price, what are your biggest concerns about this move?' The call launches straight into technical details.",
+    "estimate_anchor": "Jules states: '$102 per hour, per mover' and later 'on the higher end we are looking at $8,722' with crew sizes (4 guys packing, 6 guys moving) and time ranges (5-7 hours packing, 7-8 hours moving). This is anchored and personalized to their two-day split, their property size, and their stated concern about having their own boxes.",
+    "pricing_framing": "Trip fee disclosed: '$190 trip charge per truck.' Friday uplift disclosed: 'Fridays the hour, day through Friday is $111 per mover instead of $102 per mover.' Payment terms disclosed: 'you only pay for the hours actually used.' No explicit '2.5-hour minimum' or '15-minute increments' framing; no 'not a guess' commitment language.",
+    "feels_fair_then_silence": "Not asked. After the $8,722 estimate, Jules transitions directly to 'But then again you only pay for the hours actually use' with no pause or solicitation of customer buy-in.",
+    "explicit_ask": "Full. Jules: 'Great. So sorry, can you repeat that?' and then customer Tony says 'we would like to just go with you then' \u2014 effectively customer-initiated, but Jules does accept and confirm: 'Great.' Later: 'Do you want to get this move scheduled on the twenty first and the twenty second?' This is a direct ask, though initiated by customer acceptance rather than a rep-led close.",
+    "rate_lock_mentioned": "Implied. Jules does not explicitly say 'rate lock' or 'locked in,' but says 'Awesome. Alright, well yeah, thank you so much for choosing to move with us. We're gonna see you on October 22nd for packing and twenty third for moving' \u2014 the dates and rates are confirmed in the confirmation email.",
+    "booking_confirmed": "Partial. Date confirmed: October 22nd (packing) and 23rd (moving). Arrival window confirmed: '8:30 to nine.' Crew size confirmed: 4 guys packing, 6 guys moving. Addresses discussed: 'Flower Mound' and 'Grandberry' named but not formally confirmed as address strings. Phone number not confirmed on call. Notes for crew re: customer concerns (re-use boxes, etc.) not left explicitly."
+  },
+  "top_strength": "Jules managed a complex two-day packing-and-moving scenario clearly, itemized all charges transparently (hourly rate, trip fee, materials, Friday uplift), and closed the booking with specific dates and arrival windows confirmed.",
+  "coaching_note": "Start every call with the quid pro quo framing \u2014 time-box the call, promise a dependable quote, and wait for a yes \u2014 before launching into technical details; this grounds the customer and prevents the rushed-delivery feel that happened here."
+}

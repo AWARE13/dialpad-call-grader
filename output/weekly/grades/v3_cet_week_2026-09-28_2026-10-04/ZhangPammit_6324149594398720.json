@@ -1,0 +1,33 @@
+{
+  "call_id": "6324149594398720",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 10.1,
+  "datetime_ct": "2026-10-02 17:28 CT",
+  "external_number": "+19085078102",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 88,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "We'll go ahead and get you coded and walk you through how our pricing works. We'll just ask you a few information in order for us to build a perfect code you can depend on would that be okay? [Rep does not wait for explicit yes before continuing.]",
+    "their_agenda": "Do we have any concerns or any important things that you wanted to answer during this call today? [Asked after probing had already begun \u2014 rep had already asked about moving date and property type.]",
+    "discovery_basics": "When do you plan in moving [date: Sunday November 8th]; what are we moving [apartment house]; current address [1916 Bernard Street, Houston, Texas 77098]; destination address [3508 Sul Ross, Houston, Texas 77006]; box count and furniture items enumerated [couch, bed, dresser, computer table, ~10 boxes].",
+    "logistics_details_gathered": "Stories [2 at origin, 3 at destination]; bedrooms [2]; additional rooms [none]; walking distance [park in front]; access concerns [step up to front door]; special items [dining table, fragile items moving separately]; box count [approximately 10]; parking at destination [driveway].",
+    "walkthrough_branch": "Rep correctly identified that home sizes exceed 1,800 sq ft (origin 2,528 sq ft, destination 2,369 sq ft) and offered virtual walkthrough: 'Normally, based on your home size we do a virtual walkthrough. In that way, we will just base it on the items that we're moving. Do you have time to complete the virtual walkthrough today?' Customer confirmed availability at 3:30 PM, rep sent link and confirmed next steps."
+  },
+  "top_strength": "Rep methodically gathered all critical logistics details (property type, stories, bedrooms, access, parking, special items, box count) and correctly routed the call to a virtual walkthrough by identifying the 2,300+ sq ft homes, setting a specific time (3:30 PM) and explaining clearly what the walkthrough would entail.",
+  "coaching_note": "Strengthen the quid pro quo framing in Section 1 \u2014 present the time-boxed structure and dependable quote promise, then **pause and wait** for explicit customer agreement before moving forward; currently rep rushes past without confirming customer buy-in, and ask their agenda **before** launching into probing questions to establish their priorities first."
+}

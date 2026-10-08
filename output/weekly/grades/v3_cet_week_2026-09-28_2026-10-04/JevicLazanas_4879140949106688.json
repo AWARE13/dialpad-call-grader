@@ -1,0 +1,42 @@
+{
+  "call_id": "4879140949106688",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 10.2,
+  "datetime_ct": "2026-10-03 14:27 CT",
+  "external_number": "+12096834769",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 3,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 30,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep said: 'I'll just confirm the details here and ask you know, a few follow up questions to get us on the right truck and provide you an accurate estimate and this will take about ten minutes. Sounds good.' \u2014 framed time and result but did not wait for explicit yes; customer said 'Okay, that's fine' but rep moved directly into probing without true handshake.",
+    "their_agenda": "Rep asked: 'So aside from pricing, what are your biggest concerns and what are the most important things you want answers to on this call today?' \u2014 This was asked AFTER the rep had already begun pulling details from the account ('I can see here that this is from a storage to a third floor two bedroom apartment, right?'), so discovery probing preceded the agenda question.",
+    "two_layers_deep": "Customer raised no concerns \u2014 she said 'No. You all just, move-in the stuff from the storage to the apartment. I, I don't know what question I'm supposed to have with that.' No concern was raised, so no follow-up opportunity existed. N/A applies.",
+    "active_listening_reflection": "Rep did not reflect back any summary of customer's situation or needs. N/A because no concerns were raised to reflect.",
+    "logistics_details_gathered": "Rep gathered: storage size (10x20), unit type (indoor), ground floor, parking distance (20 feet), destination (3rd floor apartment), destination address, stair access, apartment location relative to stairs. Rep did NOT systematically probe for: number of rooms at destination, special items beyond washer/dryer/mattresses/beds, additional stops. Logistics probing was reactive to customer's disclosures rather than systematic.",
+    "packing_services_offered": "Not offered.",
+    "box_count_asked": "Not asked.",
+    "estimate_anchor": "Rep gave: 'at typical fifteen by ten square footage storage usually takes two movers one track between four and a half to seven hours to completely move' and then personalized to 'four and a half hours' based on distance. Anchor range was provided and personalized \u2014 partial credit because the range was stated but then immediately replaced with a single point estimate without letting customer absorb the reasoning.",
+    "pricing_framing": "Rep disclosed trip fee ($150) upfront and stated 'there are no hidden fees of any type.' Rep explained 2.5-hour minimum and 15-minute increments prorated. Both elements present.",
+    "feels_fair_then_silence": "Rep never asked 'Does that feel fair?' or any variant. After stating the estimate of 4.5 hours, customer immediately objected on price and said it won't work. No pause or validation moment occurred.",
+    "on_time_guarantee_delivered": "Rep stated: 'we have this on time guarantee. So, if we can't make it in the time window that we arrange, we immediately start discounting money of your final bill.' Discount terms clearly stated.",
+    "damage_coverage_delivered": "Rep stated: 'we provide up to $2,000 per move to repair, replace or reimburse for accidental damages' and included it at no extra cost. No explicit 'no deductible/no fine print' framing, but coverage structure and built-in nature were clear.",
+    "closes_the_loop": "Rep did not ask 'Does that put those to rest?' or equivalent. Two Promises were delivered in a monologue ('Meet Your Mover email,' 'On Time Guarantee,' 'No Worries Coverage') but no confirmation loop closed the pitch.",
+    "final_concerns_check": "Rep never asked 'What's still concerning you about this move?' or any variant. Call ended with customer objecting to price and rep saying goodbye.",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' or any direct close. When customer said the price was too high, rep said 'Okay, no worries. Thank you for your time, bye-bye for now.' \u2014 acceptance of rejection without an ask."
+  },
+  "top_strength": "Rep gathered all four discovery basics (name, moving day, city-to-city route, approximate size) and clearly explained pricing structure, fees, minimum time, and prorating terms with transparency.",
+  "coaching_note": "Rep must ask 'Their Agenda' (Section 2) BEFORE any account-based probing starts, and must follow every concern with genuine two-layer follow-up; additionally, after giving an estimate, always pause and ask 'Does that feel fair?' before proceeding, and never end a call without an explicit 'Would you like our help with your move?' ask."
+}

@@ -1,0 +1,40 @@
+{
+  "call_id": "5900048428998656",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 5.1,
+  "datetime_ct": "2026-09-28 21:01 CT",
+  "external_number": "+19154979174",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 33,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Not asked. Rep moved straight into logistics probing: 'What's the day that you're looking into moving...' and 'May I have the zip code...' without ever asking 'Other than price, what are your biggest concerns?'",
+    "two_layers_deep": "N/A \u2014 customer never raised a concern for the rep to dig into.",
+    "active_listening_reflection": "N/A \u2014 no concerns were raised, so there was nothing to reflect back.",
+    "estimate_anchor": "Partial. Rep gave a range: 'typical range for two bedroom apartment is four and a half to six and a half hours' and '$909 to $1,313,' but did not personalize it to this customer's specific move (customer mentioned only needing help with sofa, had limited appliances). The anchor was generic.",
+    "pricing_framing": "Partial. Rep disclosed 'no hidden fee, no credit card fee, transportation fee' and mentioned 'gas trucks taxes insurance' included, but did not clearly frame the 2.5-hour minimum or 15-minute increments commitment. The '2.5 hour' minimum was mentioned only when the customer asked about it directly.",
+    "feels_fair_then_silence": "Not asked. Rep never asked 'Does that feel fair?' and did not pause for the customer's reaction to the estimate. The customer immediately asked clarifying questions about the quote instead.",
+    "on_time_guarantee_delivered": "None. The On-Time Guarantee (starts discounting immediately if late) was never mentioned anywhere in the call.",
+    "damage_coverage_delivered": "Partial. Rep said 'for every move you're gonna get a $2,000 free evaluation coverage. So if anything gets damaged gets broken during the claim you can just give us a call to file a claim for their deductible.' This mentions the $2,000 coverage but includes 'deductible' at the end, which contradicts the 'no deductible' framing required and was also unclear. Rep did not say it's built into the rate (not an add-on).",
+    "closes_the_loop": "False. Rep did not ask 'Does that put those to rest?' or anything resembling that closing frame. The call drifted into clarifying questions from the customer and ended with the customer saying 'I'll call you guys back to confirm.'",
+    "final_concerns_check": "Not asked. Rep never asked 'What's still concerning you about this move?' or any genuine variant. The call ended without a final concerns check.",
+    "explicit_ask": "Never asked. Rep never said 'Would you like our help with your move?' The customer ended the call on their own with 'I'll call you guys back to confirm. Thank you.' \u2014 no explicit ask for the business was made."
+  },
+  "top_strength": "Rep quickly confirmed availability and gave a clear hourly rate and total estimate range, and was responsive to customer questions about how the pricing works and how preparation could reduce costs.",
+  "coaching_note": "This call is missing the entire Sections 2, 5, 6, and 7 framework \u2014 no discovery of concerns, no Two Promises close, no final concerns check, and no explicit ask for the business. The rep also skipped the quid-pro-quo framing entirely and never asked 'Does that feel fair?' after pricing. Rebuild the call structure against the seven-section script card before the next shift."
+}

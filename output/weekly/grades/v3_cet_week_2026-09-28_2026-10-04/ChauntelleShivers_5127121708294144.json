@@ -1,0 +1,32 @@
+{
+  "call_id": "5127121708294144",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 11.3,
+  "datetime_ct": "2026-09-29 18:13 CT",
+  "external_number": "+17275044755",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 8,
+  "section7_ask_for_the_business": 10,
+  "total_score": 78,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Not asked. Rep moved directly into probing after customer said 'No' to top-of-mind concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer that required follow-up.",
+    "estimate_anchor": "Rep provided: '$200 hourly rate...includes two movers, truck, taxes, insurance...minimum of two and a half hours...estimate range of around $500 and then we just like to do a range so $5 to 600'",
+    "explicit_ask": "Rep asked: 'Did you want to at least get the truck reserved?' Customer answered 'Yeah, yes.' Booking proceeded without an out."
+  },
+  "top_strength": "Chauntelle systematically gathered all logistics details (property type, square footage, special items, plants, access, box count, parking) with follow-up questions that clarified the customer's specific needs, building toward an accurate estimate.",
+  "coaching_note": "Section 1 is missing the quid pro quo framing entirely\u2014jump straight into probing after the customer's 'no' to concerns, without the time-boxed promise and wait for a yes; add the recognizable 'takes about 10 to 15 minutes and you can walk away with a quote you can depend on' line and pause for confirmation before moving forward."
+}

@@ -1,0 +1,635 @@
+{
+  "call_id": "6021226641530880",
+  "lines": [
+    {
+      "content": "Hello, good afternoon. This is Jeb from Einstein. How can I help you?",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:47:43.796664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:47:43.796664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:47:43.796664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:47:43.796664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:47:43.796664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:47:43.796664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:47:45.656664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:47:46.336664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:47:47.176664",
+      "type": "custom_moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Hi, my name is Kenzie savage, I just received a call from you guys.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:47:49.079218",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "contact_name",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:47:50.040218",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "ner",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:47:50.040218",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, yeah, I tried to call you Kenzie and I'm calling about your recent online moving inquiry. So yeah, let's go ahead and discuss it. Okay just wanna, yeah, I just wanna confirm you're moving from a third floor, one bedroom apartment located at 7301. South I. 35 front edge road.",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:47:53.396664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:47:53.396664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:47:55.936664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Okay.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:48:04.679218",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Yes.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:48:19.679218",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay and then do you have like any extra spaces like a storage room office garage?",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:48:20.996664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:48:22.896664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "No.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:48:28.679218",
+      "type": "transcript"
+    },
+    {
+      "content": "No. Okay, and then for the elevator is this something that you can reserve for the move?",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:48:29.996664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:48:33.336664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "I don't think so. We only have one elevator in our building. It's just right across from my door, though.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:48:37.079218",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Well that's nice. And then do you have any special consideration items such as heavier oversized pieces like a safe piano or workout equipment?",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:48:44.396664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:48:47.496664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "No.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:48:55.679218",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Any large TV or washer and dryer that we're going to move?",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:48:56.996664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Nope.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:49:02.879218",
+      "type": "transcript"
+    },
+    {
+      "content": "No, any Fred Hile or valuable items such as artwork or antiques.",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:49:03.596664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "No.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:49:10.079218",
+      "type": "transcript"
+    },
+    {
+      "content": "No. Okay, and then for the boxes, a typical one bedroom apartment usually has fifteen to 25 that you feel like you will fall within that range.",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:49:11.396664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "For what? I'm sorry, what, for the.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:49:22.679218",
+      "type": "transcript"
+    },
+    {
+      "content": "For the boxes, like, you know, pack box suspect with belongings.",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:49:24.596664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Oh, okay the most like I'll have some boxes but most of the stuff I need help moving is like my furniture, like main couches and stuff. Well, my couch I have one couch so. Yeah, I think that's fine.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:49:30.479218",
+      "type": "transcript"
+    },
+    {
+      "content": "So no boxes.",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:49:44.996664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Maybe just like a few but not like a crazy amount. I just, yeah, I need help with my bigger stuff.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:49:47.279218",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "negative_sentiment",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:49:48.240218",
+      "type": "moment"
+    },
+    {
+      "content": "With the bigger step, okay. Could you walk me through the list of the big staff?",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:49:53.396664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Mm-hmm.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:49:55.079218",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:49:55.216664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Just like my bed, and my couch and P-V. Stands, and like those type of items. But I can't just like fit in the car.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:49:58.079218",
+      "type": "transcript"
+    },
+    {
+      "content": "How about dresser table dining table?",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:50:10.196664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "I don't have a dresser yeah, I just have two like TV stands, a couch my bad and then I'll probably like have some boxes of stuff to be ready a mirror. I don't know everything exactly, yet.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:50:14.279218",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. Okay. So, but so far I have you know, the big stuff the bed frame, the mattress couch, two TV stands, anything else for the big furniture.",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:50:32.996664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "I don't think so.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:50:45.479218",
+      "type": "transcript"
+    },
+    {
+      "content": "A, okay, and then for the boxes maybe around five to ten safe to say roughly. Okay, got it, got it and then Kenzie to confirm, that's proceed uh-oh no, let me confirm first the walking distance from where the truck can park to, you know, the bottom of the elevator and then from the elevator to the apartment, how many feet would that be like overall?",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:50:47.396664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Yeah.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:50:53.879218",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "I mean, like the day of, I don't know exactly where the truck can park yet. It just depends what's available like the day. But like, the closest spot is probably like, twenty feet ourselves from the elevator and I'm only like, four feet from the elevator where my apartments located once you get up it.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:51:14.879218",
+      "type": "transcript"
+    },
+    {
+      "content": "Good, so I'll just put here, like, thirty feet, okay. So thirty feet. Alright. Now let's proceed to the drop-off location, so you're moving to a second floor, one bedroom apartment located at 3816 South Lamar Boulevard, right?",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:51:34.796664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Okay.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:51:38.279218",
+      "type": "transcript"
+    },
+    {
+      "content": "address",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:51:48.176664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "That's my address but I'm not sure what floor exactly it's on yet cause I doesn't tell me on, I just viewed like, those apartments that they have available to look at. It doesn't tell me what floor I'm on that. The second or the third. It's not the first floor.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:51:51.479218",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, okay, got it, got it. So, yeah, well that's okay, but for now I'll just put like second floor, okay.",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:52:10.196664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Mm-hmm.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:52:12.479218",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Okay.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:52:17.879218",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:52:18.096664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Alrighty, now let's go ahead and talk about the pricing and how it works.",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:52:19.196664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "So for Saturday we charge an hourly rate of $222 per hour per two movers and we provide a 26 foot box trucks with everything needed, so everything is included in this early rate, like the fuel and tracks taxes, insurance, all wrap pads and bans to protect item and being moved. All tools for this assembly and reassembly. A. Furniture and appliances, the best part is there are no hidden fees of any type, no credit card fees, no deposit, no transportation fees, no stair, well, fees, no disassemble, reassembly. Fees. Again, no hidden fees of any type. And on top of that, you will have access to the insurance or then no worries damage coverage for up to $2,000 per move to repair, replace or reimburse for accidental damages.",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:52:24.096664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:52:27.456664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:52:52.616664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:53:13.016664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "The second one is our media mover feature. So, a few days before your move you will receive an email introducing the two movers who will assist you helping ease detention of strangers arriving at your front door. Finally we have the on time guarantee. So we value your time. If we can make it in a time window that we arrange we immediately start discounting money of your final bill and speaking of time Kenzie. What do you prefer a morning schedule like you know, the earliest that we have is 8:30 to nine or an afternoon schedule.",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:53:18.596664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "time",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:53:49.416664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Probably in the afternoon.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:53:54.479218",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. So for the afternoon, we have a two hour window. Two hour arrival window. So, let's say, we will arrange the move by 2:00 PM so you know expect that the arrival window is between 1:00 PM to 3:00 PM will that work for you?",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:53:59.396664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Okay.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:54:05.879218",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:54:10.056664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "time",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:54:14.536664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:54:15.776664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Yeah, that works.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:54:17.879218",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, got it. Now for the time. The way the clock works is the time starts as soon as we get on site and open the contract, you then have us for as long as you need us for any move. We have a two and a half hour minimum and once we go over that minimum the time is prorated in fifteen minute increments. Does that all make sense?",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:54:19.796664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:54:30.536664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:54:42.336664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Yes.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:54:44.279218",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Now for your personalized estimate, a typical one bedroom apartment usually takes two and a half to three and a half hours to completely move but in your case, since you are moving from a third floor apartment with elevator access, going to a second floor, you know tentatively second floor apartment with stair access. Then I would estimate your move to be between the, you know, the said range two and a half to three and a half hours. So, it's safe to budget around $555 to $777. So, having that said, would you like our help with your upcoming move on, on Saturday, October 17th.",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:54:45.596664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Okay.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:55:17.279218",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:55:20.336664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "date",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:55:29.736664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Can I just wanted to get a quote today. I'm not sure what moving company and stuff going with yet. So I just, yeah, I wanted to see a quote and then can I just reach out to you guys if I choose to go through with you.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:55:32.279218",
+      "type": "transcript"
+    },
+    {
+      "content": "Of course, not a problem. Let me will email you all of the information we discussed so it will go over absolutely everything that we talked about, okay, and yeah, so, for now Kenzie will there be anything else that I can help you with today?",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:55:44.996664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "action_item",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:55:47.096664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Okay.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:55:54.479218",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:55:59.176664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "I don't think so.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:56:02.879218",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, well, thank you very much for your interest to Einstein. This is Jeff and have a wonderful day.",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:56:04.196664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:56:07.536664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "ner",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:56:08.616664",
+      "type": "moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "content": "Call Closing",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:56:09.416664",
+      "type": "custom_moment",
+      "user_id": "4999317649432576"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSiLWt9AgM",
+      "content": "Okay, thanks. You too. Bye.",
+      "name": "Kenzie Savage",
+      "time": "2026-10-02T21:56:10.079218",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you, bye-bye.",
+      "name": "Jevic Lazanas",
+      "time": "2026-10-02T21:56:12.596664",
+      "type": "transcript",
+      "user_id": "4999317649432576"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "call_id": "4598500514111488",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 12.5,
+  "datetime_ct": "2026-09-30 17:23 CT",
+  "external_number": "+16466435862",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'this might take ten to fifteen minutes of your time, if that's okay?' but does NOT deliver the full framing with the dependable-quote promise and does NOT wait for explicit yes \u2014 customer says 'Okay' but no real confirmation of the value exchange.",
+    "discovery_basics": "Name (Albert), moving day (November 2nd), pickup (1401 South Lamore Boulevard Austin 78704), destination (600 Weather Street, Austin 78701), size (500 sq ft, one bedroom) all confirmed.",
+    "their_agenda": "Rep asks 'before I proceed asking the questions aside from the pricing Albert, do you have any other concerns about the moving process?' \u2014 this is asked AFTER the quid_pro_quo and AFTER intro preamble, but technically before detailed logistics probing begins. Customer responds 'Nope, just pricing.' \u2014 not a strong agenda elicit, but asked early-ish.",
+    "box_count_asked": "Rep asks 'Normally for a one bedroom apartment we see fifteen to 25 boxes. Do you think you would fall within that range?' Customer provides detailed breakdown (5 medium, 5 large, etc.).",
+    "estimate_anchor": "Rep provides hourly rate ($104/mover, $208 two-mover rate), anchors to floor (high floor with reserved elevator), gives range ($936\u2013$1,144 for 4.5\u20135.5 hours), personalizes to the 59th-floor move and elevator time buffer.",
+    "pricing_framing": "Rep discloses: $104/hour per mover, all-inclusive (gas, truck, taxes, insurance, wraps, pads, tools), NO hidden fees listed explicitly, 2.5-hour minimum, prorated in 15-minute increments. Time-based framing ('even though I estimated you for a maximum of five and a half hours, if the move will only take us three hours or maybe just the minimum of two and a half then you will only be billed for that').",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or any variant to pause and gauge customer reaction before moving on. Moves directly to billing question.",
+    "two_promises": "Neither On-Time Guarantee nor No Worries Damage Coverage mentioned at all in the call.",
+    "closes_the_loop": "No closing loop attempted. Rep transitions from estimate directly to billing mechanics without a 'does that put those to rest?' check.",
+    "final_concerns_check": "Never asked. Rep goes from billing mechanics directly to 'Could you just email me the quote?'",
+    "catch_all_asked": "Not asked.",
+    "explicit_ask": "No explicit 'Would you like our help with your move?' asked. Customer initiates the close with 'Could you just email me the quote?' and rep pivots to sending the quote and offering follow-up (reply to email or call) without ever directly asking for the booking.",
+    "rate_lock_mentioned": "Not mentioned.",
+    "booking_confirmed": "No booking confirmed. Customer explicitly says he wants to compare with other companies ('I'm looking at a few people and we wanna see what the comparison is'). Rep only agrees to email the quote and says 'if ever that you have want to proceed booking with us, just reply to my email or give us a call' \u2014 but no date, phone, arrival window, crew size, or notes confirmed."
+  },
+  "top_strength": "Rep methodically gathered comprehensive logistics details (floor, elevator, furniture items, suitcases, address specifics, loading-dock layout) and delivered a fully transparent, anchored estimate with clear hourly rate, minimum, and time-based guarantee explanation.",
+  "coaching_note": "Section 5 and Section 7 were entirely skipped: the Two Promises (On-Time Guarantee and No Worries Damage Coverage) were never delivered, and the rep never asked for the business directly \u2014 instead letting the customer walk away to compare, which left substantial value on the table and no booking confirmed."
+}

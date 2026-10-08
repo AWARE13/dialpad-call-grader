@@ -1,0 +1,35 @@
+{
+  "call_id": "5612993425743872",
+  "rep_name": "Brianne Newbro",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 6.3,
+  "datetime_ct": "2026-09-28 18:34 CT",
+  "external_number": "+18303254717",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 8,
+  "total_score": 72,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'Do you have about five to ten minutes to go over that?' but never frames the time-boxed promise or waits for a yes before pivoting to perks.",
+    "their_agenda": "Rep asks 'do you have any questions or concerns you would like answered on this call besides pricing' \u2014 but this comes after already establishing the move details in the greeting, so it's mid-discovery rather than upfront.",
+    "estimate_anchor": "Rep provides hourly rate ($222 for two movers and 26-foot truck) and a typical time range (2.5 to 3.5 hours, budget $555\u2013$777) personalized to the customer's 700 sq ft one-bedroom to 450 sq ft studio move.",
+    "pricing_framing": "Rep discloses no hidden fees (no service fee, no credit card fees), mentions two and a half hour minimum, and 15-minute increment prorating. Also states 'there is no deposit required to get on our schedule. And then there's also no charges or fees to change or cancel as well.'",
+    "explicit_ask": "Rep asks 'Would you like us to help you with your move on Saturday' plainly, with no built-in out.",
+    "booking_not_confirmed": "Customer declines to book ('Can I get back to you on this?'), so rep offers callback options and two arrival windows (8:30\u20139:00 AM and 12:30\u20132:30 PM) but does not confirm a booking with date, phone, arrival window, crew size, addresses, and crew notes because the customer has not committed."
+  },
+  "top_strength": "Rep thoroughly gathered logistics details (property type, floor, rooms, walking distance, special items, destination) and delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full transparency on terms.",
+  "coaching_note": "Section 1 is missing the core quid pro quo framing\u2014the rep never time-boxes the call or promises a 'quote you can depend on' and doesn't wait for a yes; Section 6 is entirely absent (no final concerns check, no catch-all); and Section 4 skips 'Does that feel fair?' with a silence hold, which costs real closing momentum on undecided prospects."
+}

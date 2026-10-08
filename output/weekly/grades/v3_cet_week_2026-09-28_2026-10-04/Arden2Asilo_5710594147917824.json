@@ -1,0 +1,40 @@
+{
+  "call_id": "5710594147917824",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 11.6,
+  "datetime_ct": "2026-09-30 21:17 CT",
+  "external_number": "+16788955386",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 3,
+  "total_score": 72,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep said 'we need to gather more info about the move that might take around ten to fifteen minutes. Would that be fine?' but skipped the key framing about 'you can walk away with a quote you can depend on' and didn't wait for explicit yes before pivoting to no-deposit messaging.",
+    "their_agenda": "Never asked. Rep moved directly into logistics probing (property type, garage items, square footage) without first establishing customer's concerns or priorities.",
+    "estimate_anchor": "Fully present: 'typically a house your size usually takes two movers between six to eight hours' + personalized to customer's situation (two-story source, items in garage, three-story destination): 'in your case...I'm estimating the move to take around six and a half to seven and a half hours. So budget an overall of $1,004 to $1,650 for the move.'",
+    "pricing_framing": "Trip fee disclosed ($75 transportation fee explained due to distance). 2.5-hour minimum, 15-minute increments, and no hidden fees all stated: 'no hidden fee, no credit card fee, no stair will fees and no disassemble reassembly fees.' Then: 'two and a half hour minimum. Once we go over the minimum the time will be rated in fifteen minutes increment.'",
+    "feels_fair_then_silence": "Not asked. Rep transitioned directly from pricing explanation to availability check ('I still have availability one truck available for the 7th of November') without pausing to gauge customer reaction or asking 'Does that feel fair?'",
+    "on_time_guarantee": "Fully delivered with discount terms: 'if the movers don't arrive on time you start to get discount, the later they arrive, the bigger, your discount will be.'",
+    "damage_coverage": "Fully delivered with all components: '$2,000 free evaluation coverage...zero deductible. And that's gonna either be repaired, replaced or reimbursed, not immediately. But within three to five business days.'",
+    "closes_the_loop": "No closing question. Rep moved to availability/ask without confirming the two promises put concerns to rest.",
+    "final_concerns_check": "Throwaway version asked: 'Before I go over pricing structure and estimate, do you have any question any clarification regarding the moving process in general?' Customer said no, and rep moved forward. Later, a weak 'any questions' framing would have been equally empty; this was not genuine 'What's still concerning you about this move?'",
+    "explicit_ask": "Asked with built-in out: 'do you want to be on the schedule or do you want our help with the move?' Customer hesitated on booking, and rep immediately offered escape hatch: 'of course ma'am, no problem. Well, michella I don't wanna put pressure...you can just give us a call.'",
+    "booking_confirmed": "Partial. Rep did NOT confirm: date confirmed (November 7th), arrival window confirmed (8:30\u20139:00 AM), and noted that customer plans to call back. However, phone number NOT confirmed, crew size NOT confirmed, final destination address mentioned but NOT re-confirmed as booked detail, and NO notes left for crew about customer concerns. Customer declined to book, so full confirmation wasn't applicable, but partial credit stands because discovery was never completed and no callback protocol (callback number, best time to reach) was established."
+  },
+  "top_strength": "Arden gathered comprehensive logistics details (property type, floors, rooms, garage items, square footage, special items, appliances) and delivered a fully personalized estimate with clear pricing framing, fee breakdown, and both Two Promises fully covered.",
+  "coaching_note": "Ask 'Other than price, what are your biggest concerns about this move?' early in Section 2 before probing logistics \u2014 this call skipped their agenda entirely and missed an opportunity to uncover and address what actually matters to the customer, which likely would have helped close the hesitation at the ask."
+}

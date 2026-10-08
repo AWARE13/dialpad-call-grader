@@ -1,0 +1,31 @@
+{
+  "call_id": "5106706732589056",
+  "rep_name": "Brianne Newbro",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 7.3,
+  "datetime_ct": "2026-09-28 18:01 CT",
+  "external_number": "+18055012201",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 8,
+  "section7_ask_for_the_business": 1,
+  "total_score": 63,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Do you have any other questions or concerns you would like answered on this call in regards to the move today? [asked after probing already started \u2014 rep had already confirmed contact details, email, and repeat customer status]",
+    "two_layers_deep": "Customer raised concern about $850 quote vs $650 last year: Rep followed up: 'Well, that's part of you booked online too so you didn't talk to like a human... Let me see if I can pull up your last move.' Then dug into the prior move duration (3.25 hours) and rate ($200) to contextualize the difference. Customer raised mattress frame concern: Rep asked 'What size bed frame is that?' and confirmed they do that service.",
+    "estimate_anchor": "For the last move was $200... this move will be $208... I would estimate move between to take between two and a half to three and a half hours and so if we are at the minimum two and a half hour rate it'd be $520 and then if we hit the three and a half hour it would be $728. So, we are looking pretty much even if it took four hours... we're sitting in the range of what you paid last time. [Anchored to typical range for size + personalized to customer's prior experience and concern about cost increase]",
+    "explicit_ask": "No explicit ask for the business present. Rep moved directly into confirming arrival window and logistics without asking 'Would you like our help with your move?' or equivalent."
+  },
+  "top_strength": "Excellent probing for logistics detail \u2014 systematically gathered property type, floor/access, walking distances, box count, special items (sofa, mattress frame, TV size), and destination details \u2014 and skillfully contextualized the estimate against the customer's prior move to address their price concern.",
+  "coaching_note": "Section 1 missing: no quid pro quo framing (time-boxed, promise of dependable quote, real wait for yes); Section 4 missing the \"Does that feel fair?\" pause; Section 7 missing the explicit ask for the business and rate-lock mention; no active listening reflection in Section 2; no packing services offered; no catch-all item question in Section 6."
+}

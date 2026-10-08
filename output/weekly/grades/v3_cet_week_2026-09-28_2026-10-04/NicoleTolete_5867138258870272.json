@@ -1,0 +1,43 @@
+{
+  "call_id": "5867138258870272",
+  "rep_name": "Nicole Tolete",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 7.1,
+  "datetime_ct": "2026-09-29 14:51 CT",
+  "external_number": "+19562063447",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 8,
+  "total_score": 62,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Nicole never frames the 10-15 minute time commitment or explicitly promises a dependable quote; she moves directly into review of the uploaded photos without an opening framing.",
+    "their_agenda": "Nicole asks 'Before I go over with our pricing structure and your estimate, do you have any specific concern or stresser about the moving process in general?' \u2014 this is asked after she has already reviewed the photos and gathered details about the condo layout, parking distance, and beds upstairs.",
+    "two_layers_deep": "Edward says 'No' to the concern question, so no concerns are raised; N/A applies.",
+    "active_listening_reflection": "No concerns were raised, so this does not apply; N/A.",
+    "estimate_anchor": "Nicole provides both a range ('$1,222 to $1,414') and personalizes it to the specific move details ('Moving from a two story condo to a two story house with thirty minutes drive... I will estimate this move to take around six to seven hours').",
+    "pricing_framing": "Nicole discloses the trip fee ($70) and minimum (2.5 hours) upfront, and frames it as 'no hidden fees of any type' and notes time is 'prorated in fifteen minute increments.' She also covers the hourly rate ($192/hr for two movers), what's included, and that there's no deposit required.",
+    "feels_fair_then_silence": "Nicole never asks 'Does that feel fair?' or any equivalent; she moves directly from the estimate into the ask for the business.",
+    "on_time_guarantee_delivered": "Nicole fully covers the On-Time Guarantee: 'if we cannot make it in the time window that we arrange, we immediately start discounting money of your final bill.'",
+    "damage_coverage_delivered": "Nicole fully delivers: 'we provide up to $2,000 per move to repair replace or reimburse for any accidental damages' with no mention of deductible or fine print, and frames it as included.",
+    "closes_the_loop": "Nicole does not ask 'Does that put those to rest?' or any equivalent; she moves directly to asking for the business.",
+    "final_concerns_check": "Nicole asks 'do you have any questions or anything for me?' \u2014 this is a standard throwaway closing question, not a genuine 'What's still concerning you?' probe.",
+    "explicit_ask": "Nicole asks 'And would you like our help with your move for tomorrow?' with no built-in escape clause.",
+    "rate_lock_mentioned": "Nicole states 'And to secure a spot, there's no deposit required if you have to reschedule, or cancel no fees for that either' \u2014 the no-deposit/no-fees-to-reschedule framing is present.",
+    "booking_confirmed": "Nicole confirms date (tomorrow, 8:30 AM), phone number (956-206-3447), arrival window (8:30 to 9:00 AM), and customer name and email. She does NOT confirm addresses in a confirmation loop, crew size, or notes about customer concerns for the crew (though Edward's concern about moving furniture upstairs is raised by the customer and acknowledged by Nicole at the end, it is not captured in booking notes for the crew)."
+  },
+  "top_strength": "Nicole delivered a comprehensive, transparent pricing explanation with full disclosure of all fees, hourly rate structure, what's included, the two promises (On-Time Guarantee and No Worries coverage with clear terms), and secured a booking for the next morning without a wimpy ask.",
+  "coaching_note": "Open the call with the quid-pro-quo framing (10-15 minutes, dependable quote, wait for yes) before diving into photo review; ask the 'What's still concerning you?' final check in Section 6 instead of a throwaway 'any questions?'; and confirm booking details (addresses, crew size, customer concerns for the crew notes) in a clean loop before closing."
+}

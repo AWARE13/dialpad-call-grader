@@ -1,0 +1,698 @@
+{
+  "call_id": "6729926637297664",
+  "lines": [
+    {
+      "content": "Good afternoon, this is Joanna. How can I help?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:23:12.162414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:23:12.162414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:23:12.162414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:23:12.162414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:23:12.162414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:23:12.162414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:23:12.162414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:23:13.805414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:23:14.605414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Hi, hi I wanted to get a quick quote for a possible move coming up in November on the weekend of I believe it would be November 17th.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:23:16.305849",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "call_purpose",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:23:16.305849",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, no worries. I'd be happy to help you out with that in order for me to give you a more personalised estimate to need to create a profile for you. See some questions about. It may take about ten to fifteen minutes if this is a good time.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:23:28.362414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "date",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:23:28.814849",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "I believe we've made, we've used you all before. So it should be under Hansen.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:23:44.505849",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:23:49.362414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, let me try to check that just one second.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:23:51.762414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "H-A-N-S-O-N and the first name will be either Mars, M-A-R-L-I-S. Or Scott.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:23:56.505849",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "ner",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:24:00.414849",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "ner",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:24:02.494849",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, let.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:24:04.362414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Let me.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:24:07.362414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:24:11.562414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, let's see. Do you have an email or an address that I can check as well just to make sure I have the correct profile.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:24:21.762414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Yes, the email is males Hansen M-A-R-L-I-S. Hansen @sbcglobal.net.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:24:31.905849",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:24:36.762414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "email_address",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:24:37.694849",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, is it a move-in 3050 Tamron Boulevard, is that, is that right?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:24:41.562414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "address",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:24:45.245414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "No, it's the move for another address for 5417. South MoPA. Expressway.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:24:48.105849",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:24:51.762414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, got it. Thank you. Just one second.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:24:56.562414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm alright. I can't find like the last move probably that might be the, like the recent one that you have mentioned but let me just try again mm-hmm so that I can just get some details about it. But of course for this move you're just moving out of that previous address that you have mentioned. Is that right?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:25:15.162414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Mm-hmm.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:25:21.705849",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Right.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:25:26.505849",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Yes, and it is a third floor apartment, and I'm going to be moving into a house.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:25:39.705849",
+      "type": "transcript"
+    },
+    {
+      "content": "I see okay, that's perfect, thank you. Okay. Yup. So, should I just use the email that you provided the Marla Hansen @sbcglobal.net or.Sarles.Hansen.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:25:45.162414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:25:53.485414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "email_address",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:25:55.245414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "It's carles. Hansen. Yes.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:26:00.105849",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "contact_name",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:26:00.774849",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "ner",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:26:01.334849",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, got it. Thank you. And it's spelled as H-A-N-S-E-N.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:26:02.562414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "S-O-N.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:26:07.905849",
+      "type": "transcript"
+    },
+    {
+      "content": "S-O-N thank you and this is the best contact number 203-768-1398 is that right? Okay. Thank you. Just one moment here. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:26:09.762414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "phone_number",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:26:13.125414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Yes.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:26:17.505849",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Actually, could we change the email? We'll change it to my fiancee's cause he'll be moving with me.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:26:19.905849",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "question",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:26:20.974849",
+      "type": "moment"
+    },
+    {
+      "content": "Sure. Okay, no problem. May I have his email?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:26:24.162414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "His email is G. So S-O-W-E-L-L 334 @gmail.com.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:26:31.305849",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:26:33.762414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "pii",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:26:34.614849",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "email_address",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:26:40.334849",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, that's fine. Alright.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:26:42.162414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "One second.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:26:48.762414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:26:55.962414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, just one moment.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:27:19.962414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay. Yeah, it looks like that. So you the address that you gave me a while ago, the MoPA. One is your address and is he coming from the 9975. TX 29 liberty hill address?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:27:31.962414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:27:38.805414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Yes, yes he has called before as well. Yes and we're trying to figure out what the price would be for both of our moves combined. He'll be moving one week before me and then I'll be moving one week after him. So we're trying to figure out if there's like a good deal, a good price stuff like that because we will be doing a combined move under the same basically account.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:27:45.105849",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:27:48.762414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:27:54.162414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:28:04.962414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see. Okay. Yeah, cause from, since we charge by the hour basically it will just really depend on how long the move is gonna take overall. So if you guys are planning to do, you know, everything in one day, then of course the travel time in between the addresses as well will be counted on the hourly rate now it will be just the same rate for the moving itself. So, if you wanna go ahead and just do a separate move then, you know, that's better in terms of the distance because the driving in between the addresses are also counted into the times as well.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:28:07.962414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:28:33.485414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "So, just depending on how far you know, we're driving from his address or your address first and then his address as well. But of course the good thing about combining your move is just really depending on the items that you guys are moving in each places because for every move we do have a two and a half hour minimum. So if you guys think that his stuff won't you know, it's just a very minimal, won't take, you know, won't maximise a two and a half hour minimum. Then it's good that we combine it altogether in one day. But of course if his move or his items, furniture, and all that is already sufficient for the twenty and a half hour minimum. Then we can just definitely like break it down into two different moves as well. So we save those times travelling in between locations.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:28:46.362414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Okay.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:28:46.905849",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Okay.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:28:54.705849",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Right.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:29:14.505849",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:29:17.725414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Okay, and what is?",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:29:30.705849",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "And what is that rate per hour?",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:29:34.905849",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:29:35.565414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "question",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:29:35.694849",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm for the quotation that we give them. I know that you mentioned it's around the seventeenth, so, it, the rate depends on the day that you're actually doing the move. So our Fridays and Saturdays are regular rates. So, if you will do it on either a Friday or Saturday, that's gonna be to, again, this is depending cause the, his address is closer to our liberty hill branch but your address is closer to our Austin branch. So that's, there's different rates, if we're, you know, if we're doing different branches but for, let's say for example.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:29:37.362414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:30:07.885414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Right.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:30:09.105849",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "What is the range for the Austin one?",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:30:15.705849",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "ner",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:30:17.614849",
+      "type": "moment"
+    },
+    {
+      "content": "Yup, if we're going to do the Austin one on a Saturday. Let me just make sure I have it correct one second so I can like give you the rates as well in terms of depending on the date just one moment here.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:30:18.762414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:30:22.165414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, okay, one moment.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:30:40.962414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:30:44.165414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, so if you're going to do it on a Friday or a Saturday that a, that's $111 per hour per mover. So for two minutes $222 per hour but if your dates are flexible doing it from Sunday to Thursday it cheaper. So, we will be saving up about $12 per hour if we're doing it on Sunday to Thursday to $12 to $14 per hour depending on the day. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:30:48.162414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:30:52.925414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:30:54.245414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:30:56.285414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:30:56.405414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Okay, okay.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:30:56.505849",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:31:05.965414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:31:11.085414",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Okay.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:31:11.505849",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Okay. So Friday or Saturday. It's $111 per hour per mover.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:31:14.505849",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "currency",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:31:16.614849",
+      "type": "moment"
+    },
+    {
+      "content": "That's correct, yes, so, cause I tried to check like, the distance from where he is coming from to your place. So that's, you know, that's gonna take about thirty minutes to 45 minutes depending on traffic. So, if it will break down this move into two separate moves and we're already saving that time travel in between which is almost an hour already.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:31:19.362414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Okay. Okay, got it.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:31:21.105849",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgICxjpKskwgM",
+      "content": "Mm-hmm okay. Okay, thank you. Okay, got it. Okay. Alright, thank you. Bye-bye.",
+      "name": "(203) 768-1398",
+      "time": "2026-10-04T21:31:45.705849",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm so that's just the only difference. Okay no problem, bye. Alright, thank you. Bye.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:31:46.362414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-04T21:31:55.962414",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "call_id": "5159717477588992",
+  "rep_name": "Calvin Hughes",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 6.3,
+  "datetime_ct": "2026-10-01 18:20 CT",
+  "external_number": "+14096992970",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 38,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skips directly into 'Yeah, you're just looking to move a couple of things or what are we looking at?' with no time-box framing or promise of a dependable quote.",
+    "their_agenda": "Never asked. Rep launches into item listing ('Yeah, that definitely helps. Yeah, what would they be?') without asking about concerns or what answers the customer wants.",
+    "estimate_anchor": "Rep gives hourly rate ($208/hour, $520 minimum, ~$567 for this job) but does not tie it to typical range for this home size or personalize it to the customer's stated concerns\u2014just raw pricing.",
+    "damage_coverage_delivered": "Rep mentions '$2,000 per move' and 'no worries damage coverage' but frames it vaguely as 'higher evaluation' and 'go well above and beyond 60\u00a2 per pound'\u2014does not explicitly state 'no deductible / no fine print' or that it's built into the rate, not an add-on.",
+    "explicit_ask": "Rep never asks 'Would you like our help with your move?' Instead, customer initiates: 'we're definitely interested on what day can we book you all for?' The ask happens in reverse, unprompted by the rep.",
+    "final_concerns_check": "Rep asks 'any other questions while we're on the phone'\u2014empty throwaway phrasing, not the genuine 'What's still concerning you about this move?' version."
+  },
+  "top_strength": "Calvin efficiently gathered the specific items to be moved, confirmed addresses and contact details accurately, and booked the appointment with clear time windows\u2014logistics execution was clean.",
+  "coaching_note": "You skipped the entire structure of Section 1 (quid pro quo / time-box framing), never asked their concerns or agenda in Section 2, gave a quote with no real personalization or reflection, and never asked for the business\u2014the customer had to ask you; reorient every call to follow the script sections in order, starting with 'This will take 10\u201315 minutes and you can walk away with a quote you can depend on. Does that sound good?'"
+}

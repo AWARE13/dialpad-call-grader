@@ -1,0 +1,40 @@
+{
+  "call_id": "5258225125728256",
+  "rep_name": "Jules Nicolas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 7.8,
+  "datetime_ct": "2026-09-28 18:10 CT",
+  "external_number": "+18066816345",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 4,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 38,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never delivers the 10-15 minute time-box framing or promise of a dependable quote; jumps directly into checking availability and asking for information.",
+    "their_agenda": "Never asked. Rep moves straight into logistics probing ('Do you already have a date...are we moving you out of a house or an apartment') with no discovery of customer concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during the call.",
+    "active_listening_reflection": "N/A \u2014 no concerns were raised by the customer during the call.",
+    "estimate_anchor": "Rep gives a range ('four to five hour day... $824 to $1,030') but does not personalize it to this customer's specific situation (small apartment, daughter's move, limited items). States '$206 per hour for two movers' and '$103 per mover' but does not anchor to a typical range for a move this size before personalizing.",
+    "feels_fair_then_silence": "Never asked. Rep moves from the estimate directly to 'What time Friday do you have movers available?' with no pause to gauge customer reaction.",
+    "on_time_guarantee_delivered": "Not mentioned at any point.",
+    "damage_coverage_delivered": "Not mentioned at any point.",
+    "final_concerns_check": "Asked as empty throwaway: 'Great. Do you have any questions before I let you go?' \u2014 no genuine follow-up on remaining concerns.",
+    "explicit_ask": "Never asked. Rep says 'I can definitely get you scheduled right now for Friday' but never asks 'Would you like our help with your move?' The booking happens as an assumption, not a direct ask.",
+    "booking_confirmed": "Partial \u2014 date (Friday October 2nd) and arrival window (12:45-2:45 PM), crew size (two movers), and origin address (6727 Summers Drive) confirmed. Destination address NOT confirmed. Phone number NOT confirmed. No notes left for crew about customer concerns (none were gathered)."
+  },
+  "top_strength": "Jules successfully gathered the core logistics data (move date, property type, big-item list, two TVs) and locked in an appointment despite a tight availability window, keeping the customer engaged through a two-hour window push-back.",
+  "coaching_note": "Start every call with the quid pro quo framing (10-15 minutes, dependable quote, wait for yes), ask their agenda before any probing, and always deliver the Two Promises and explicit ask for the business \u2014 all three are missing here and critical to closing."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "5331361934385152",
+  "rep_name": "Jevic Lazanas",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 5.5,
+  "datetime_ct": "2026-09-28 15:01 CT",
+  "external_number": "anonymous",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 65,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Not present. Rep jumped directly into probing without framing the call duration, dependable quote promise, or waiting for a yes.",
+    "discovery_basics": "Rep asked about partial move and got items (bed, mattress, safe, refrigerator) and scope (one bedroom worth). Did not explicitly ask for moving day, city-to-city route, or approximate square footage (customer volunteered it). Name confirmed at top (Thomas Jackson).",
+    "their_agenda": "Never asked. Rep did not ask 'what are your biggest concerns about this move' or equivalent before or during the call.",
+    "walkthrough_branch": "Correctly offered and routed. Customer mentioned 'we're gonna need to do like a video just to like see everything' upfront, and rep confirmed: 'So, basically you know, I think based on what you've mentioned it's better to go ahead and do the virtual walkthrough.' Walkthrough scheduled for Friday, October 2nd at 4:00 PM with text invitation link.",
+    "final_concerns_check": "Rep asked 'do you have any other questions or clarifications?' \u2014 a throwaway closing check, not a genuine concerns probe."
+  },
+  "top_strength": "Rep correctly identified this as a large/partial move requiring a virtual walkthrough and routed it cleanly without abandoning the call or getting cut off \u2014 the walkthrough was scheduled with date, time, and delivery method confirmed.",
+  "coaching_note": "Always lead with the quid pro quo framing (10\u201315 minutes, dependable quote, wait for yes) before jumping into probing, and ask 'what are your biggest concerns about this move?' early to understand what the customer wants from the call \u2014 even on a walkthrough-routed call, these two items set the tone and build trust."
+}

@@ -1,0 +1,35 @@
+{
+  "call_id": "4851624707399680",
+  "rep_name": "Danah 2Celestial",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 5.5,
+  "datetime_ct": "2026-09-28 17:16 CT",
+  "external_number": "+15306514952",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 8,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skips straight into availability check and date confirmation with no time-boxed framing or promise of a dependable quote. No wait for customer agreement before proceeding.",
+    "their_agenda": "Never asked. Rep moves directly into logistics probing ('So first is your requested date') without soliciting customer's concerns or what they want answers to.",
+    "estimate_anchor": "Danah provides typical range for full 1200 sq ft (6-8 hours) and personalizes to this customer's partial move (2.5 hour minimum, $510-$714 for two movers).",
+    "feels_fair_then_silence": "Danah asks 'does that seem fair?' and customer responds 'Okay. Yup, that sounds good' \u2014 silence is held and respected.",
+    "explicit_ask": "Never asked. Rep moves directly to 'So I'll go ahead and lock in Saturday October 3rd for you' \u2014 assumes the sale rather than asking 'Would you like our help with your move?'",
+    "booking_confirmed": "Danah confirms date (Saturday October 3rd afternoon), arrival window (1-4 PM), crew size (two movers), and starting address (4028 Center Street). Destination address and notes about customer concerns are missing."
+  },
+  "top_strength": "Danah effectively gathered detailed inventory (two TVs, furniture list, queen bed, dresser, desk, garage items) through patient item-by-item follow-up, ensuring an accurate move estimate.",
+  "coaching_note": "Section 2 (Their Concerns) was completely skipped \u2014 start every call by asking 'Other than price, what are your biggest concerns about this move?' before diving into logistics, and Section 5 (Two Promises) was entirely missing, so the On-Time Guarantee and No Worries Damage Coverage were never mentioned."
+}

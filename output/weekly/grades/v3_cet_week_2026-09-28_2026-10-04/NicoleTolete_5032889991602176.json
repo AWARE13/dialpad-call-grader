@@ -1,0 +1,31 @@
+{
+  "call_id": "5032889991602176",
+  "rep_name": "Nicole Tolete",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 7.4,
+  "datetime_ct": "2026-09-29 17:09 CT",
+  "external_number": "+17026722271",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 8,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 10,
+  "total_score": 60,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "\"what are your biggest concerns and what are the most important things you want answers to on this call today?\" \u2014 asked before any probing started",
+    "two_layers_deep": "Customer raised two concerns (scheduling and furniture reassembly). Nicole acknowledged reassembly capability but did not ask follow-up questions like 'tell me more about the scheduling concerns' or 'what specifically about scheduling matters most to you?'",
+    "estimate_anchor": "\"For a typical fifteen by ten storage unit it usually takes around four and a half to six hours... In your case... I estimate your move to take around three to four hours with two movers and one truck, and including the travel fee. It's good the budget around $854 to $1,062.\" \u2014 anchor range provided with personalization to half-full unit and second-floor destination",
+    "explicit_ask": "\"And would you like our help with your move?\" \u2014 direct, no softening or built-in out"
+  },
+  "top_strength": "Nicole commanded logistics discovery thoroughly (property type, floor location, walking distances, storage fullness, special items, additional stops all confirmed) and delivered a personalized, anchored estimate with full pricing transparency and both Two Promises clearly explained.",
+  "coaching_note": "After customers raise concerns in Section 2, dig two layers deep with follow-ups like 'tell me more about that' rather than acknowledge and move on \u2014 Nicole didn't explore James's scheduling and reassembly concerns beyond one acknowledgment each, and also skipped the Section 4 'does that feel fair?' pause and the Section 6 genuine final concerns check."
+}

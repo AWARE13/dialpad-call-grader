@@ -1,0 +1,33 @@
+{
+  "call_id": "5906195475111936",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 5.6,
+  "datetime_ct": "2026-09-28 16:36 CT",
+  "external_number": "+17133824132",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 78,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says: 'This could take ten to fifteen minutes of your time, if that's okay?' \u2014 time-boxed, but no explicit promise of a dependable quote and no clear wait for yes before proceeding.",
+    "discovery_basics": "Name: Kathy Gaynor. Moving day: October 7th or 8th (Wednesday). Route: 5827 Badge Creek Drive, Houston 77066 to 6618 Sutton Metals Drive, Houston 77086. Approximate size: 'under 2000' \u2192 later corrected to 2000 sq ft.",
+    "their_agenda": "Asked AFTER probing started. Rep says: 'Kathy do you have any other concerns about the moving process?' \u2014 comes after pickup location has already been requested.",
+    "logistics_gathered": "Property type (house), floor/stories (one story both ends), addresses. Missing: number of rooms, walking distance, additional rooms, special considerations, additional stops.",
+    "walkthrough_branch": "Property verified at ~2000 sq ft (threshold). Rep correctly says: 'I have to transfer your call to a moving specialist so that can give you more accurate code' \u2014 appropriate routing to walkthrough specialist for a 1,800+ sq ft move. Call cleanly routed; no abandonment mid-pitch."
+  },
+  "top_strength": "Rep correctly identified the 2,000 sq ft threshold, verified it online when customer hesitated, and routed the call cleanly to a specialist for a virtual walkthrough rather than over-pricing on this intake call.",
+  "coaching_note": "Ask 'What are your biggest concerns about this move?' **before** you start asking logistics details \u2014 you asked it after you'd already collected the pickup address."
+}

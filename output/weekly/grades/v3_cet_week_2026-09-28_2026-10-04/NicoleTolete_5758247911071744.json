@@ -1,0 +1,41 @@
+{
+  "call_id": "5758247911071744",
+  "rep_name": "Nicole Tolete",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 9.0,
+  "datetime_ct": "2026-09-28 15:52 CT",
+  "external_number": "+13166802683",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 30,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 81,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "This call will just take around ten to fifteen minutes then I will be able to build you an accurate code you can depend on. Would that work?",
+    "their_agenda": "I'd like to ask first what are your biggest concerns and what are the most important things you want answers to on this call today?",
+    "two_layers_deep": "N/A \u2014 customer stated concerns directly without follow-up needed; no concerns raised that required layering",
+    "active_listening_reflection": "N/A \u2014 no concerns raised that required reflection summary",
+    "logistics_details_gathered": "Confirmed: one bedroom apartment, first floor to third floor, staircase access, no elevator, ~20 feet to door on each end, furniture/appliance list, box count, no additional stops",
+    "estimate_anchor": "for a typical one bedroom apartment it usually takes around two and a half to three and a half hours... in your case... four to four and a half hours... I will estimate this move to take around six to seven hours",
+    "pricing_framing": "$190 per hour for two movers and one truck. Everything is included... $1,161 travel fee... $240 overnight fee... no hidden fees... minimum of two and a half hours... per rated in fifteen minute increments",
+    "feels_fair_then_silence": "Not asked \u2014 rep moved directly to summary without confirmation pause",
+    "on_time_guarantee_delivered": "if we cannot make it in the time window that we arrange, we immediately start discounting money of your final bill",
+    "damage_coverage_delivered": "we have no worries damage coverage. We provide up to $2,000 per move to repair, replace or reimburse for any accidental damages",
+    "explicit_ask": "Rep did not ask 'Would you like our help with your move?' \u2014 instead moved to email confirmation and waiting for customer to call back",
+    "rate_lock_mentioned": "to secure a spot there's no deposit required if you have to reschedule or cancel, no fees for that either"
+  },
+  "top_strength": "Nicole gathered comprehensive logistics details and delivered a fully-anchored, personalized estimate with complete pricing transparency, travel fees, overnight charges, and all guarantee terms clearly explained upfront.",
+  "coaching_note": "Nicole never asked for the business explicitly \u2014 she sent the customer to email without saying 'Would you like our help with your move?' and skipped the final concerns check and catch-all, leaving the call without genuine closure or a clear next step beyond 'reply to my email.'"
+}

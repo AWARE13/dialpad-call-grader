@@ -1,0 +1,40 @@
+{
+  "call_id": "6214090106380288",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 9.9,
+  "datetime_ct": "2026-10-01 14:09 CT",
+  "external_number": "+14154180566",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 8,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 6,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says \"I was just calling in regards to your online request for a move estimate for October 30th you about five or ten minutes to go over that information\" \u2014 frames time but never frames the dependable quote promise or waits for agreement before asking 'Besides pricing today, do you have any questions or concerns' \u2014 this is probing, not the quid pro quo.",
+    "their_agenda": "Rep asks 'Besides pricing today, do you have any questions or concerns you would like answered on this call?' \u2014 asked after already confirming the phone number and email, so technically after some intake work. Customer immediately raises packing concern.",
+    "two_layers_deep": "Customer: 'I guess sort of like, what is the extent of the packing.' Rep responds with a detailed explanation of what packing includes and rates, but does not ask 'tell me more about that' or continue probing the concern \u2014 it's a one-layer acknowledge-and-answer, not a two-layer dig.",
+    "estimate_anchor": "Rep provides: 'We do charge an hourly rate... $220 for Friday, October 30th that includes two movers and 126 foot box truck... with a pack and a full pack and move, I would estimate that your move would take between six to seven hours... for six hours it looks like it would be $100,509 and that's an estimate including $189 with a supply fees... if we went to seven hours it would be $1,729.' Also personalizes: 'I went over all that... looks like the hourly rate is $220' and references the full pack decision. Both present.",
+    "pricing_framing": "Rep states: 'We do not have any hidden fees of any type' and 'you only charge for what you use' (materials transparency), mentions '2.5-hour minimum' implicitly ('no deposit required to get on our schedule. So no risk'), and 'prorated in fifteen teen minute increments.' Also says 'everything's pretty transparent, so no deposits and no charges to cancel or change the date.' Both transparency and commitment framing present.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or a recognizable equivalent. After quoting, rep asks 'Would you like us to help you with that move on Friday?' \u2014 no 'feels fair' check before the ask.",
+    "on_time_guarantee_delivered": "Rep: 'we do have our on time guarantee we value your time. So, we can't make it in time window that we arrange. We mainly start discounting money off that final bill and then the way the clock works the time starts as soon as we get onsite open that contract you then have us for as long as you need us. Once we go over that minimum the time is prorated in fifteen teen minute increments.' Covers discount terms clearly.",
+    "damage_coverage_delivered": "Rep: 'No worries. Damage coverage is their free evaluation coverage included in our hourly rate provides up to $2,000 per move to repair, replace or reimburse for accidental damages.' States $2,000 coverage and 'included in our hourly rate' (no add-on), but does not explicitly say 'no deductible' or 'no fine print' \u2014 partial.",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or a recognizable equivalent after covering the Two Promises. Instead moves directly to 'Would you like us to help you with that move?' \u2014 no closing loop.",
+    "final_concerns_check": "Rep asks 'do you have any other questions for me' \u2014 this is a throwaway/automatic-no phrasing, not the genuine 'What's still concerning you about this move?' version.",
+    "explicit_ask": "Rep: 'Would you like us to help you with that move on Friday?' \u2014 plainly asked with no softening or built-in out. Full.",
+    "rate_lock_mentioned": "Rep states 'no charges or fees to cancel or change the date if needed' but never uses the phrase 'rate lock' or explicitly guarantees the rate will not change. Not mentioned as a commitment term.",
+    "booking_confirmed": "Rep confirms: date ('Friday, October 30th'), phone number (verified at start: '415-418-0566'), arrival window ('I do have an 8:39 AM available for that date'), crew size (two movers and truck), addresses (2818 Kramer lane unit 4227 to 1120 shady lane unit 2256, second floor both). Rep does NOT confirm specific concerns or leave notes for crew about customer worries. Partial (5 of 6 items)."
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details (floor, elevator access, furniture inventory, special items like the 55-inch TV and glass desk) and delivered both major promises clearly without muddying the pitch with unnecessary detail.",
+  "coaching_note": "Skip the quid pro quo entirely and move directly into 'Besides pricing, what are your biggest concerns?' \u2014 asking it before any probing allows you to go two layers deep on what actually matters to Daniel, and then you can reflect it back at the end instead of just answering questions piecemeal."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "4954131905421312",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 15.9,
+  "datetime_ct": "2026-09-30 20:31 CT",
+  "external_number": "+14697662181",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 3,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 66,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "quid_pro_quo": "Jules: 'I just need you know a few additional information to get us on the right track. This should take me about ten to fifteen minutes and then I can get you an accurate quote. Sounds good.' \u2014 No wait for explicit yes; rep moves to name collection immediately.",
+    "their_agenda": "Jules (after asking for address): 'Aside from the quote in general, do you have any specific concerns about your upcoming about her upcoming move?' Asked after moving day and address already collected.",
+    "two_layers_deep": "Patti raises price concern ('Just the price'); Jules says 'No problem. Yeah, I got that for you' and pivots directly to logistics with no follow-up ('Can you give me the address').",
+    "active_listening_reflection": "No reflection back of concerns. Jules acknowledges but does not summarize or confirm.",
+    "walkthrough_branch": "Jules correctly offers: 'For houses the size it is best if we can do a virtual walkthrough like we're going to jump into a video call so you can walk us through the house. Do you think you have availability for that?' (2,800 sq ft triggers the 1,800+ threshold). Call routes to virtual walkthrough; no pricing delivered on this call.",
+    "packing_services_offered": "Jules: 'Do you need help packing like boxing things up or would you have everything ready to go boxed up and ready to go?'",
+    "box_count_asked": "Not asked. Rep does not ask about typical box count or overflow concerns.",
+    "logistics_details_gathered": "Property type (house), stories (two), bedrooms (four, two empty), appliances (refrigerator, washer/dryer), walking distance (not explicitly asked but address confirmed), additional rooms (office, game room noted as empty), special items (no pianos, safes, or workout equipment). Nearly all seven covered."
+  },
+  "top_strength": "Jules correctly identified a 2,800 sq ft move, offered and confirmed the virtual walkthrough, and gathered substantial logistics details (property type, stories, rooms, appliances, special items) to prepare for the walkthrough\u2014proper intake triage.",
+  "coaching_note": "Section 2: Ask 'what are your biggest concerns about this move' *before* collecting address and logistics; when Patti raised price concern, dig two layers deep with 'tell me more about that' instead of moving straight to discovery questions, then reflect back all concerns to confirm you heard them."
+}

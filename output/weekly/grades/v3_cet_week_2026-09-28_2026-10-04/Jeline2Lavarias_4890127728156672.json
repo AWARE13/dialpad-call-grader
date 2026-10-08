@@ -1,0 +1,41 @@
+{
+  "call_id": "4890127728156672",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 8.1,
+  "datetime_ct": "2026-09-29 21:10 CT",
+  "external_number": "+12148420636",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 11,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'I just need ten to fifteen minutes of your time to ask you questions so we can build you an estimate' but does not explicitly frame the promise of a dependable quote, and does not wait for a clear yes before pivoting to her next question.",
+    "their_agenda": "Rep asks 'Do you have any other concerns about the moving process?' but this occurs after already confirming the pickup address and move date, placing it after probing has begun.",
+    "two_layers_deep": "Customer raises concern about date uncertainty ('There's a chance that it might have to be the tenth on the Saturday... is that able to be changed?'). Rep acknowledges with variable pricing info but does not dig deeper with 'tell me more about that' \u2014 she pivots to a solution without exploring the underlying worry.",
+    "active_listening_reflection": "No summary reflection of the date concern or any other concern. Rep moves directly to logistics after the customer says 'No questions.'",
+    "estimate_anchor": "Rep provides typical range ('for a one bedroom apartment we see... normally we finish the move-in three and a half hours') and personalizes it to the customer's specific situation (second floor with elevator, going to three-story house, estimated 4\u20135 hours, $816\u2013$1,020).",
+    "pricing_framing": "Rep discloses hourly rate ($102/mover), crew size (two movers), trip fee ($2 minimum mentioned), and states 'No hidden fees of any type.' She also mentions 'No credit card fees, no terrible fees, no transportation fees.' However, the 2.5-hour minimum and 15-minute-increments commitment language are not clearly stated.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or any equivalent. After stating the estimate, she immediately says 'I'll just send everything to your email' without soliciting customer agreement or holding silence.",
+    "on_time_guarantee": "Not delivered. No mention of on-time discount or guarantee terms.",
+    "damage_coverage": "Not delivered. No mention of $2,000 coverage, no-deductible framing, or built-in protection.",
+    "closes_the_loop": "No closing loop on the Two Promises section \u2014 both guarantees are skipped entirely.",
+    "final_concerns_check": "Never asked. Rep moves directly to 'I'll just send everything to your email' and closes the call.",
+    "explicit_ask": "Never asked. Rep does not ask 'Would you like our help with your move?' Instead, she says 'I'll just send everything to your email since you don't have a final date yet... you can just reply to my email if ever you want to proceed booking with us.' This is a soft handoff with no direct ask for commitment.",
+    "rate_lock_mentioned": "Not mentioned.",
+    "booking_confirmed": "Partial. Rep confirms pickup address (3200 McKinney Avenue, Dallas 75204), move date range (Oct 7 or 10), destination (4111 Husi Avenue, Dallas 75219), and property details, but does not confirm phone number, arrival window, crew size specifics, or notes for the crew about customer concerns. No booking details are locked in\u2014everything is deferred to email reply."
+  },
+  "top_strength": "Excellent logistics probing: Jeline gathered all seven logistics items (property type, floors, room count, parking distances, elevator access, special furniture, and destination details) in a natural, conversational flow that gave her a complete picture for accurate pricing.",
+  "coaching_note": "You skipped the entire Two Promises section and never asked for the business directly\u2014after pricing, move immediately to 'What's still concerning you about this move?' and then close with 'Would you like our help with your move?' instead of deferring to email."
+}

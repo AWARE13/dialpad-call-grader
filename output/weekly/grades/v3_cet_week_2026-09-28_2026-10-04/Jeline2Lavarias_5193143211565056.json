@@ -1,0 +1,39 @@
+{
+  "call_id": "5193143211565056",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 11.0,
+  "datetime_ct": "2026-09-30 20:31 CT",
+  "external_number": "+12108650273",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 3,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 39,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Jeline says 'in order for me to provide you the most accurate code, I'm gonna ask you questions regarding your move and this might take ten to fifteen minutes of your time, is that okay?' \u2014 frames the time but asks for concerns immediately after instead of waiting for a yes or delivering the promise of a dependable quote before moving forward.",
+    "their_agenda": "Jeline asks 'aside from the pricing key, do you have any other concerns about the moving process?' \u2014 but this comes after she's already collected name, phone, email, and said she'd ask questions. Probing starts immediately after this acknowledgment with no real follow-up when Mackenzie raises the partial move concern.",
+    "two_layers_deep": "Mackenzie volunteers 'I'm not removing the full apartment, I'm only taking the bedroom and then the bathroom and kitchen stuff will all be in boxes but I will be leading all of the living room furniture.' Jeline responds 'Okay. Okay. Mm-hmm. Okay. Yeah. Mm-hmm yes ma'am. It does say this will only be a partial move.' \u2014 she acknowledges but does not probe deeper into why, what else this means, or confirm she fully understands the scope.",
+    "active_listening_reflection": "No reflection occurs. Jeline does not summarize back what she heard about the partial move or any other concerns.",
+    "estimate_anchor": "Jeline says 'for your move, Ken, I estimate this to finish in three hours to four hours with two movers and one truck, the estimated cost for your move is $898 to 1100' and personalizes it: 'we're coming from a second floor apartment with stairs access only but ticket thing is we're only moving few pieces of furniture moving into a first floor apartment with AC access as well. However, we have to consider the drive time in between the location that this could take one hour and 45 minutes to two and a half hours depending on the traffic especially it's on a Saturday.'",
+    "pricing_framing": "Jeline covers the travel fee ($280 one-time), no hidden fees, and the 2.5-hour minimum with 15-minute increments: 'for every move we do have a minimum of two and a half hour after that minimum the time is prorated in fifteen minute increments.' She does not use 'not a guess' language.",
+    "feels_fair_then_silence": "Jeline never asks 'does that feel fair?' or any variant. After giving the estimate, she immediately pivots to 'So would you like to be on the schedule for Saturday?'",
+    "on_time_guarantee": "Not mentioned at all.",
+    "damage_coverage": "Not mentioned at all.",
+    "explicit_ask": "Jeline asks 'So would you like to be on the schedule for Saturday? No deposit is required.' \u2014 the explicit ask is present but immediately softened with 'No deposit is required' as an easy out, and then Mackenzie responds with a question (not a yes), and Jeline never re-asks or confirms the booking.",
+    "rate_lock_mentioned": "Not mentioned.",
+    "booking_confirmed": "Jeline confirms 'our arrival window is between 8:30 AM to 9:00 AM' for Saturday (date and window). She offers to email details but does not confirm phone number, crew size, pickup/dropoff addresses, or notes for the crew. Mackenzie asks to review with her dad and calls back later \u2014 no booking is actually confirmed on this call."
+  },
+  "top_strength": "Jeline gathered comprehensive logistics details efficiently \u2014 property types, floor levels, access points, furniture list, box count, and both addresses \u2014 and delivered a personalized estimate anchored to drive time and move complexity.",
+  "coaching_note": "You skipped the Two Promises section entirely (On-Time Guarantee and No Worries Damage Coverage) and never asked 'does that feel fair?' after pricing \u2014 these are load-bearing closes that build confidence before the ask; also, when the customer raised her concern about the partial move early on, you acknowledged it once but didn't dig deeper to confirm you understood the full scope."
+}

@@ -1,0 +1,34 @@
+{
+  "call_id": "5787669416419328",
+  "rep_name": "Joanna Ballon",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 8.9,
+  "datetime_ct": "2026-09-30 19:23 CT",
+  "external_number": "+18327069873",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 4,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 35,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "No framing present. Call opens with 'Let me just double-check one moment, okay, may I please have your email address?' \u2014 no time-box, no promise, no wait for a yes.",
+    "their_agenda": "Never asked. Rep jumps directly into confirming existing quote details and packing service clarification without asking for the customer's overall concerns or what they want answers to.",
+    "estimate_anchor": "Two estimates given ($2,341 for 4-hour packing scenario, $2,700 with three movers) but no typical range for a 1-bedroom and no personalization tied to customer's specific situation beyond the packing variable. No 'this feels fair' framing.",
+    "feels_fair_then_silence": "Never asked.",
+    "explicit_ask": "Call ends with rep asking only 'Alright, thank you, thank you so much. Alright, bye.' \u2014 no explicit ask for the business, no booking taken, no confirmation of next steps beyond 'I'll leave a note on your profile.'"
+  },
+  "top_strength": "Rep effectively managed a complex, multi-variable pricing scenario (packing hours, crew size, Friday vs. Thursday rates, 3 PM entry constraint) and offered sensible solutions like adding a third mover and requesting photo documentation.",
+  "coaching_note": "This call never transitioned from inbound-quote-modification mode to a sales call \u2014 there was no opening frame, no agenda discovery, no estimate close, and no booking ask; treat callbacks on existing quotes as full sales opportunities, not just service adjustments."
+}

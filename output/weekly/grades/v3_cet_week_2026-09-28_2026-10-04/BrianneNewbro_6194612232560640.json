@@ -1,0 +1,35 @@
+{
+  "call_id": "6194612232560640",
+  "rep_name": "Brianne Newbro",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 11.6,
+  "datetime_ct": "2026-09-30 18:15 CT",
+  "external_number": "+12108757649",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 1,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never framed a time box or promise of a dependable quote before diving into logistics; jumped straight to 'What size truck are we looking at?'",
+    "their_agenda": "Never asked 'Other than price, what are your biggest concerns about this move?' \u2014 went directly to data gathering.",
+    "pricing_framing": "Rep gave hourly rate explanation with fuel/taxes/insurance/no hidden fees and mentioned 2.5-hour minimum and 15-minute increments, but no explicit 'not a guess' framing. Did not address trip fees or overnight fees. Missing upfront fee transparency.",
+    "damage_coverage_delivered": "Rep stated: 'we do even if we're unloading your truck, we have that no worries damage coverage with a free evaluation coverage included in the hourly rate provides up to $2,000 per move to repair, replace or reimburse for accidental damages' \u2014 covers $2,000 and built-in status, but does NOT explicitly state 'no deductible' or 'no fine print.'",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' Call ended with rep saying 'I'll get back to you shortly' and customer accepting callback, but no clear close or ask for the business.",
+    "booking_confirmed": "Date (thirteenth), phone number (confirmed), and address (Dogwood Lane) confirmed. Missing: arrival window, crew size, callback notes about customer concerns."
+  },
+  "top_strength": "Brianne gathered extensive logistics detail across both move locations (storage units, truck sizes, square footages, special items like safes and plants) and probed thoughtfully into specifics without being told, showing genuine curiosity about what the customer was moving.",
+  "coaching_note": "Lead with the quid pro quo framing and promise before jumping into logistics\u2014set expectations and get buy-in first; then circle back to ask 'other than price, what are your biggest concerns?' before diving into the details, so you understand what matters most to Dustin on this move."
+}

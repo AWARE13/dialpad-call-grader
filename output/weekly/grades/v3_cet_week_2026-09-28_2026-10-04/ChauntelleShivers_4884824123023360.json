@@ -1,0 +1,42 @@
+{
+  "call_id": "4884824123023360",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 7.1,
+  "datetime_ct": "2026-09-30 15:11 CT",
+  "external_number": "+14799256665",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 2,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'Do you have about fifteen minutes to kind of run through some details with me?' and 'before I do let me go ahead and verify some information' \u2014 frames time but does not deliver the full 'you can walk away with a quote you can depend on' promise or cleanly wait for a yes.",
+    "their_agenda": "Rep asks 'before I hop in too deep, do you have any just top of mind or concerns or questions that I can kind of kick us off with?' \u2014 asked before probing, but customer says 'No, not really. I just want a quote.' No concerns raised, so Two Layers Deep and Active Listening Reflection are N/A.",
+    "logistics_details_gathered": "Property type (townhome), stories (2), rooms (2 bedrooms), furniture specifics (2 beds, office desk/chairs, twin beds, dining table), parking (street parking at origin, parking lot at destination), addresses both ways \u2014 all covered.",
+    "box_count_asked": "Rep asks 'approximately how many boxes would you say you all might have?' Customer answers '5 to 10 minimum to maximum.'",
+    "estimate_anchor": "Rep gives hourly rate ($206) and range-based estimate ('2.5 to 3 hours, $515 to $618') but does NOT personalize to this customer's specific move characteristics (minimal items, partial move, already self-moved most items). Range is stated but framing is thin.",
+    "pricing_framing": "Rep mentions 'nowhere we damage coverage that's pretty standard that's already included' and 'we don't have any hidden fees or card processing fees either' \u2014 some fee transparency present. Does NOT mention trip fee, overnight fee, or the '2.5-hour minimum / 15-minute increments' commitment framing that the script calls for.",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' or equivalent. Customer volunteers 'that doesn't sound too bad right now' unprompted, but rep does not probe or confirm with the framing question.",
+    "on_time_guarantee_delivered": "Not mentioned at all.",
+    "damage_coverage_delivered": "Rep states 'nowhere we damage coverage... covers $2,000 for any kind of incidentals' and 'that's already included' \u2014 mentions coverage and inclusion but omits the critical 'no deductible / no fine print' framing and does not explain the immediate-discount terms of the On-Time Guarantee (these are separate promises but often paired in explanation).",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or equivalent. Moves directly to 'Would you be able to send me that through email?'",
+    "final_concerns_check": "Rep never asks 'What's still concerning you about this move?' or 'any questions?' at the end. Transitions straight to email send.",
+    "catch_all_asked": "Not asked ('Anything coming with you we haven't talked about?').",
+    "explicit_ask": "Rep never asks 'Would you like our help with your move?' Customer initiates the request to email the quote; rep complies but does not explicitly ask for the business. Call ends with 'let us know if anything changes... If anything changes you can text us, email us or give us a shout' \u2014 an implicit out, not a close."
+  },
+  "top_strength": "Chauntelle gathered all core logistics details methodically and confirmed both addresses and parking access, establishing a clear, accurate picture of the move before pricing.",
+  "coaching_note": "Section 7 and the Two Promises (Section 5) were largely skipped \u2014 rep must ask for the business explicitly, deliver both On-Time Guarantee and No Worries Damage Coverage fully before closing, and confirm booking details (date, phone, arrival window, crew size) before the call ends; right now the customer left with only an email promise and no commitment."
+}

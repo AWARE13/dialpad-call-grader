@@ -1,0 +1,41 @@
+{
+  "call_id": "4675318578454528",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 19.5,
+  "datetime_ct": "2026-10-03 14:08 CT",
+  "external_number": "+17274208186",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 2,
+  "section7_ask_for_the_business": 0,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep skips straight into probing (name, email, address) without framing time-box or waiting for customer confirmation. No recognizable version of 'This will take 10-15 minutes and you can walk away with a quote you can depend on \u2014 does that sound good?'",
+    "their_agenda": "Never asked. Rep jumps directly into logistics probing after a brief exchange about free estimates.",
+    "logistics_details_gathered": "Property type (townhouse), stories (2), number of rooms (1 bedroom being moved out of 5), walking distance (n/a\u2014not applicable to this move), additional rooms mentioned (garage with totes/boxes), special considerations (stairs straight, regular width; TV mounting; bed disassembly requested; packed into garage already). Also: large furniture inventory list (bed, nightstands, dresser, dining table, chairs, couch, love seat, TVs, office desks), approximate box count (20-30 vs. typical 45-55), garage items (two toolbox on wheels), stairs configuration.",
+    "box_count_asked": "Rep states: 'And then approximately now generally what we typically see as far as a box count is generally about 45 to 55 boxes. Normally you ever take for the size unit?' Customer responds approx. 20-30 boxes.",
+    "packing_services_offered": "Not offered. No version of 'Would you like us to pack your items into boxes for you?' appears in transcript.",
+    "estimate_anchor": "Rep provides range tied to home size and adjusted for move scope: '...for a unit that size it takes about six to eight hours but since we're only moving one bedroom out of here...I feel comfortable estimating this at about the four to five hour range...five to six hours would look more like 1175 to like 1375 as the range.' Also: 'Four to five hours that you would be looking more so like at 975 to the 1175 mark.' Personalized to: one-bedroom scope, customer prep level ('how well prepared you are'), and short distance. Trip fee ($175) disclosed upfront: 'the trip fee of the $175 already included in the estimate.'",
+    "pricing_framing": "Partial. Rep mentions 2.5-hour minimum: 'We have a minimum of two and a half hours.' Rep mentions time-based billing: 'you only pay for the time you use anyway.' Trip fee disclosed upfront ($175). Missing: the 15-minute-increments commitment framing and the 'not a guess' framing. No explicit statement that this is not a guess or floor estimate.",
+    "feels_fair_then_silence": "Never asked. Rep provides estimate, explains the fee structure, then moves directly to 'did you want to at least go ahead and reserve the truck' without asking 'Does that feel fair?' or any equivalent check.",
+    "explicit_ask": "Rep never asks the recognizable 'Would you like our help with your move?' Instead, rep says 'did you want to at least go ahead and reserve the truck.' Customer says he wants to shop around, and rep accepts that without re-asking for the business. Call ends without an explicit ask for the business or a booking.",
+    "two_promises": "On-Time Guarantee: not delivered. Damage Coverage (No Worries): not delivered. No mention of either promise.",
+    "final_concerns_check": "Rep asks 'what did you have any other questions that I can help with?' \u2014 a throwaway 'any questions' form, not the genuine 'What's still concerning you about this move?' version. Customer raises a question about TV mounting, rep addresses it conversationally, but does not probe deeper.",
+    "catch_all_asked": "Never asked. No version of 'Anything coming with you we haven't talked about?' appears.",
+    "booking_confirmed": "Not confirmed. Call ends with customer saying he wants to shop around. Rep offers to send an email quote but does not confirm a booking with date, phone, arrival window, crew size, addresses, or crew notes."
+  },
+  "top_strength": "Excellent logistics discovery \u2014 the rep gathered comprehensive details on property type, room count, furniture inventory, staircase configuration, garage items, and special handling needs (TV mounting, bed disassembly), giving a data-rich estimate tailored to a one-bedroom move rather than the full five-bedroom home.",
+  "coaching_note": "Section 1 is missing the critical quid-pro-quo framing entirely \u2014 jump straight into collection without time-boxing or waiting for a yes, Section 2 skips the agenda question altogether, Sections 5 and 7 both no-shows (Two Promises never delivered, explicit ask for the business never made, no booking confirmed despite a viable customer), and Section 6 uses a throwaway 'any questions' instead of a genuine concerns check."
+}

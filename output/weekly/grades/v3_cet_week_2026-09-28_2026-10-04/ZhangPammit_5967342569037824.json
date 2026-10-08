@@ -1,0 +1,38 @@
+{
+  "call_id": "5967342569037824",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 12.8,
+  "datetime_ct": "2026-10-02 20:54 CT",
+  "external_number": "+19176678172",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 5,
+  "total_score": 66,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "This should take about five to ten minutes of your time. So that you can be able to build an accurate quote you can depend on, sounds good. [Customer says 'Sure' but rep did not fully wait/pause for explicit confirmation before pivoting.]",
+    "their_agenda": "Do you have any concerns or any important things that you wanted to answer during this call today? [Asked after initial discovery framing, but customer then raised concerns which rep did follow up on.]",
+    "two_layers_deep": "Customer raised three concerns: (1) storage/second destination pricing \u2014 rep answered; (2) TV boxes / mattress bags / liquor transport \u2014 rep asked clarifying questions ('you put it inside the truck you said?') and customer clarified; (3) open tote bags with lamps \u2014 rep explained wrapping/pads approach. Rep dug into clarifications when customer was unclear.",
+    "active_listening_reflection": "[None \u2014 rep did not summarize back what was heard: 'So what I'm hearing is storage addition, mattress bag availability, liquor restrictions, and open container handling\u2014did I get all of it?']",
+    "estimate_anchor": "Typical two bedroom apartment would normally take two movers that is between three and a half hours to five and a half hours to completely move. In your case... estimated time is between 7:00 to eight hours estimated cost would be $1,910. [Anchored with typical range, personalized to three-stop move with stairs and distance.]",
+    "pricing_framing": "Trip fee of $150... everything is already included... no hidden fees of any type... minimum of two and a half hours once you go over that it will always be prorated to fifteen minute increment. [Full transparency on fees and billing structure delivered.]",
+    "feels_fair_then_silence": "[Not asked \u2014 rep moved directly from estimate to availability check without asking 'Does that feel fair?' or waiting for customer reaction.]",
+    "on_time_guarantee": "If you cannot make it to the time window that we arrange, we immediately start discounting money of your final bill. [Discount terms stated clearly.]",
+    "damage_coverage": "We have no worry, damage coverage included on the early rate... We will provide up to $2,000 per month. [Amount and 'included in rate' framing present; missing explicit 'no deductible / no fine print' language.]",
+    "explicit_ask": "Would you like me to lock that in for you? [Asked plainly, but customer replied 'Can you send me the quote and then I'll take a look at it... I'll take a look at it tonight and get back to you all tomorrow.' Rep accepted this without re-asking: 'Feel free to call us email us or text us.' \u2014 built-in out given.]",
+    "rate_lock_mentioned": "There's no deposit required, no re, and securing your spot. [No deposit / rate-lock framing present.]"
+  },
+  "top_strength": "Rep gathered comprehensive logistics details across all three stops (property type, floors, room count, distance from truck to door, access concerns, special items, box count overflow) and genuinely followed up on customer's stated concerns about storage, mattress bags, liquor transport, and open bags with clarifying questions.",
+  "coaching_note": "After delivering the estimate, skip directly to asking 'Does that feel fair?' and hold silence for the customer's reaction before moving to booking \u2014 do not move to availability/pricing framing until you've confirmed the estimate lands as reasonable."
+}

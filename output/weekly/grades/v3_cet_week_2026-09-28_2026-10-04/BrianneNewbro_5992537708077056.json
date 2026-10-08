@@ -1,0 +1,42 @@
+{
+  "call_id": "5992537708077056",
+  "rep_name": "Brianne Newbro",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 9.8,
+  "datetime_ct": "2026-10-01 17:28 CT",
+  "external_number": "+15129716522",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 60,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep jumped directly into 'Let's see' and 'Yup, I do have trucks available' with no time-box framing or promise of a dependable quote, and no wait for customer confirmation before continuing.",
+    "their_agenda": "Never asked. Rep proceeded directly to probing logistics (address, square footage, boxes, storage location) without first asking 'Other than price, what are your biggest concerns about this move?'",
+    "two_layers_deep": "Customer raised concern about weather/lightning at airport location and ACL cancellation worry. Rep acknowledged briefly ('Yeah, I think...') but did not dig deeper with follow-ups like 'tell me more about that' \u2014 just pivoted to double-wrapping assurance.",
+    "estimate_anchor": "Rep provided range: '$666 and then $888 would be your higher' and estimated '3:00 and four hours just because we don't know quite yet what the storage unit looks like.' Personalized to the storage unit logistics uncertainty.",
+    "feels_fair_then_silence": "Never asked 'Does that feel fair?' or any equivalent. After stating the estimate, rep immediately moved to discussing availability/time slots.",
+    "on_time_guarantee_delivered": "Rep mentioned 'on time guarantee another perk that we have' but did not clearly explain the discount terms (starts discounting if late). Vague reference only.",
+    "damage_coverage_delivered": "Full delivery: 'No worries damage coverage...provides it to $2,000 per moved repair, replace or reimburse for accident and damages' and framed as 'free evaluation coverage included in the hourly rate.'",
+    "closes_the_loop": "No closing summary. Rep restated the no-worries coverage and padding policies in response to customer acknowledgment but did not ask a closing version of 'Does that put those to rest?'",
+    "final_concerns_check": "Never asked 'What's still concerning you about this move?' or 'Any questions?' before closing.",
+    "catch_all_asked": "Never asked 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' Customer initiated the booking request himself: 'Can I go ahead and reserve that...' \u2014 rep reacted to the customer's ask, not the other way around.",
+    "rate_lock_mentioned": "Not mentioned. No statement about holding the quoted rate or rate-lock guarantee.",
+    "booking_confirmed": "Partial. Confirmed: arrival window (12:31), addresses (pickup and storage), and time slot. Missing: phone number confirmation for the day-of, crew size explicitly re-confirmed for booking, and notes left with crew about the customer's situation (housing crisis, ACL/weather concern)."
+  },
+  "top_strength": "Brianne gathered thorough logistics details (property type, room count, box estimate, storage unit address and specifications) and provided a clear, anchored estimate range ($666\u2013$888) with transparent hourly-rate framing that was easy for a returning customer to understand.",
+  "coaching_note": "Skip Section 1's quid-pro-quo framing entirely, never ask 'Their Concerns' upfront, jump straight to probing, skip the final-concerns check, and let the customer drive the close instead of asking for the business yourself \u2014 this call succeeded *despite* the rubric sections, not because of them; recalibrate to the actual script structure and Section 2's requirement to surface concerns before probing logistics."
+}

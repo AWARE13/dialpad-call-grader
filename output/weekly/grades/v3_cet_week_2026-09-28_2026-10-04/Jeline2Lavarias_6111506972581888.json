@@ -1,0 +1,37 @@
+{
+  "call_id": "6111506972581888",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 18.5,
+  "datetime_ct": "2026-09-29 17:43 CT",
+  "external_number": "+12109541488",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 5,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 46,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep jumps straight to 'When are you planning to move this time' with no framing of call length or quote promise before probing starts.",
+    "their_agenda": "Never asked. Rep moves directly into logistics questions ('What's the square footage') after customer explains basic situation.",
+    "estimate_anchor": "Rep gives hourly rate ($192/hr for weekday) and time estimate (3\u20134 hours) but does not personalize to this customer's specific move characteristics beyond the obvious same-complex move. Partial because anchor is present but lacks personalization layer.",
+    "pricing_framing": "Full disclosure: '\u2026$140 travel fee\u2026no hidden fees of any type, no credit card fees, no terrible fees, no disassemble or reassemble fee' and '2.5 hour minimum\u2026prorated in 15 minute increments.' Both elements present.",
+    "feels_fair_then_silence": "Never asked. Rep moves to email offer without soliciting customer reaction to the $716\u2013$908 range.",
+    "explicit_ask": "Rep never asks 'Would you like our help with your move?' Customer volunteers to call back and rep accepts it passively; no explicit close attempted.",
+    "rate_lock_mentioned": "Not mentioned.",
+    "booking_confirmed": "Partial. Email address confirmed (BA VERITT 4647 @sbcglobal.net), customer indicated willingness to call back in November, and stated preference for Monday\u2013Thursday. Phone number was captured (210-954-1488) and addresses confirmed (1431 Cable Ranch Road Apt 1011 / new unit TBD). Missing: explicit arrival window, crew size, and move-specific notes left for crew. Booking not actually confirmed\u2014customer is calling back later to reschedule."
+  },
+  "top_strength": "Rep gathered solid logistics detail (property type, floor level, room count, parking distance, furniture inventory, washer/dryer, existing boxes) and delivered complete pricing transparency with trip fee and no-hidden-fees framing upfront.",
+  "coaching_note": "Rep must ask 'Other than price, what are your biggest concerns about this move?' early (Section 2) and close with an explicit 'Would you like our help with your move?' (Section 7)\u2014do not wait for the customer to volunteer a callback; earn the booking on the call itself."
+}

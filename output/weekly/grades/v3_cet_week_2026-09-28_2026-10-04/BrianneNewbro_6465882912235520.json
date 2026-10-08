@@ -1,0 +1,41 @@
+{
+  "call_id": "6465882912235520",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 9.8,
+  "datetime_ct": "2026-09-29 18:07 CT",
+  "external_number": "+17737036691",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 18,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 6,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 3,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'You have about five to ten minutes to go over that information' but never frames the time-boxed exchange, the promise of a dependable quote, or waits for a customer yes. Jumps straight into collecting contact info.",
+    "their_agenda": "Asked late: 'And then besides pricing, do you have any questions or concerns you would like answered on this call today?' \u2014 but this comes after already confirming the date and starting to transition into logistics, not at the true open.",
+    "two_layers_deep": "Customer raises multiple concerns (wanting an estimate, wanting to know what services/truck are included, date flexibility, fragility of items). Rep asks follow-ups on nearly all: 'Do we have any special consideration items?', 'Do we have anything fragile large TV mirrors, antiques?', 'And then we have you moving to...'. Customer elaborates unprompted on items, and rep continues probing logistics rather than cutting off.",
+    "estimate_anchor": "Rep gives a range: 'typical move the size is between three and a half to five and a half hours' and personalizes lightly ('just with the elevator'). Provides specific pricing ($915 for 4 hrs, $1,125 for 5 hrs) but no upfront disclosure of trip fee structure or minimums until embedded in the quote itself.",
+    "pricing_framing": "Trip fee mentioned ('$75 trip fee back from the second location to our branch but that is included in the estimate') but no proactive disclosure of other fees, no 2.5-hour minimum framing, no 15-minute-increments commitment. Missing the 'not a guess' / commitment language.",
+    "feels_fair_then_silence": "Rep moves directly to the ask: 'I do have the 8:39 AM arrival available on Sunday October 4th would you like us to help you with that move?' No 'does that feel fair?' and no pause.",
+    "on_time_guarantee_delivered": "Rep states: 'we also do have an on time guarantee we value your time. So, we can't make it in the time window that we arrange. We immediately start discount money of your final bill.' Covers discount terms and immediacy, though phrasing is slightly awkward.",
+    "damage_coverage_delivered": "Rep mentions: 'We do have a free evaluation coverage included in our hourly rate that provides up to $2,000 for a move to repair, replace or reimburse for accidental damages.' Amount and inclusion-in-rate are clear, but does not explicitly state 'no deductible' or 'no fine print' framing.",
+    "closes_the_loop": "Rep never asks 'Does that put these to rest?' or similar confirmation. Two Promises are delivered but not closed with a loop-back question.",
+    "final_concerns_check": "Rep asks: 'And then do you have any other questions for me today?' \u2014 this is a standard throwaway 'any questions' closing, not a genuine 'what's still concerning you about this move?' style check.",
+    "catch_all_asked": "Not asked. No version of 'Anything coming with you we haven't talked about?'",
+    "explicit_ask": "Rep asks 'would you like us to help you with that move?' but immediately after offering a specific time slot. Customer response is to request the email first ('why don't you just give me the estimate, send me an estimate'), and rep does not re-ask or confirm a booking \u2014 instead pivots to follow-up contact method. This is a softened-out path, not a hard ask.",
+    "rate_lock_mentioned": "Not mentioned. No statement about rate being locked pending confirmation.",
+    "booking_confirmed": "Date (October 4th, 8:30\u20139:00 AM window), address (both locations), crew size (2 movers), phone contact (773-703-6691) mentioned or confirmed. Missing: explicit confirmation that the booking is on the calendar, crew notes about customer concerns (fragile TV, mirrors, elevator access), and customer never actually said yes \u2014 only agreed to review email and call back."
+  },
+  "top_strength": "Strong two-layers-deep probing on concerns and logistics details \u2014 rep asked follow-ups on fragility, special items, and access considerations, and let the customer fully articulate their inventory without cutting them off.",
+  "coaching_note": "Missing the foundational quid pro quo framing at the open (no time-boxed ask or dependable quote promise), and the ask for the business came wrapped in an out (email first, call back later) instead of as a clean explicit close \u2014 rebuild Section 1 and Section 7 as written."
+}

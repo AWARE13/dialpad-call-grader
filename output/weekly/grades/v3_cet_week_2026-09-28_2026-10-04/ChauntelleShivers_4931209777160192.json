@@ -1,0 +1,36 @@
+{
+  "call_id": "4931209777160192",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 7.7,
+  "datetime_ct": "2026-10-04 17:44 CT",
+  "external_number": "+14695207491",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 4,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 0,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never frames the call as 10\u201315 minutes with a dependable quote, never asks for permission to proceed.",
+    "their_agenda": "Not asked. Rep jumps directly into probing: 'What is your first and last name?' with no discovery of concerns.",
+    "estimate_anchor": "Rep gives rate ($202/hr) and rough estimate range ($500\u2013$600 with 2.5\u20133 hour minimum), but does not personalize to this customer's stated prep level or concerns \u2014 just states the number.",
+    "on_time_guarantee_delivered": "Rep mentions 'our on time guarantee' but does not explain the discount terms or what 'on time' means in this context.",
+    "damage_coverage_delivered": "Rep mentions 'nowhere we damage coverage' that 'covers up to $2,000 for incidentals' but does not state it's no-deductible, no-fine-print, or built into the rate.",
+    "explicit_ask": "Rep never asks 'Would you like our help with your move?' Instead, pivots directly to 'did you want to reserve the trucks' (framed as a question, but doesn't close with a clear ask). Customer declines ('No ma'am'), and rep accepts without re-asking.",
+    "booking_confirmed": "No booking details confirmed at all. Rep offers to send the quote but never confirms a move date, arrival window, crew size, or notes for the team."
+  },
+  "top_strength": "Rep gathered all four discovery basics (name, moving day, from/to addresses, and approximate size) cleanly and confirmed special items (washer/dryer) that would affect the estimate.",
+  "coaching_note": "Rep skipped the entire Section 2 discovery of concerns and the Section 1 quid-pro-quo framing, jumped straight to probing, never asked 'Does that feel fair?' after pricing, and never explicitly asked for the business \u2014 this call reads like a quote-only intake, not a sales call."
+}

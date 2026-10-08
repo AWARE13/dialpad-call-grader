@@ -1,0 +1,34 @@
+{
+  "call_id": "6363557449211904",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 10.0,
+  "datetime_ct": "2026-09-28 15:49 CT",
+  "external_number": "+12106728777",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "Rep never asked 'Other than price, what are your biggest concerns about this move, and what do you want answers to on this call?' \u2014 went straight into probing: 'Do you have anything oversized like a piano, workout equipment or a safe?'",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer that would require follow-up.",
+    "active_listening_reflection": "N/A \u2014 no concerns were raised; rep did not summarize or reflect back anything.",
+    "estimate_anchor": "Rep provided range: 'usually that can take four and a half to six and a half hours to complete... If the guys would be able to finish everything within four and a half hours it's $192 per hour... if it goes up to six hours that's $1,318' \u2014 but did not personalize it to anything specific about this customer's move beyond the estimated item count.",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' \u2014 moved directly to logistics and then to sending an email: 'I'll go ahead and send everything to the stuff $99 and then you can just review all the details if you have any further questions let me know, okay?'"
+  },
+  "top_strength": "Rep gathered complete discovery basics (name, moving dates Oct 12, addresses on both ends, approximate scope) early and confirmed key logistics like floor level, walking distance, and special items (TVs, grandfather clock, furniture list) with good detail capture.",
+  "coaching_note": "Rep skipped the critical Section 2 'Their Agenda' entirely and jumped into logistics probing, then never delivered the Two Promises (On-Time Guarantee and No Worries Damage Coverage) or asked for the business explicitly \u2014 the call ended with an email send-off instead of a confirmed booking."
+}

@@ -1,0 +1,36 @@
+{
+  "call_id": "5739909449293824",
+  "rep_name": "Nicole Tolete",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 12.2,
+  "datetime_ct": "2026-09-29 14:37 CT",
+  "external_number": "+12107888869",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 12,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 79,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "call_type_determination": "Nicole states early: 'I can see my colleague Dana has texted you stating that we have to do a virtual walkthrough on your move so we can provide you an accurate quote you can depend on and when are you available to do a virtual walkthrough?' The move is a two-story four-bedroom villa (roughly 4,200 sq ft previously, downsizing to 3,100 sq ft), clearly >= 1,800 sq ft, triggering the virtual walkthrough routing per Section 1.",
+    "discovery_basics": "Move date: October 13th (Alfred confirms Tuesday). Route: Same neighborhood, a few miles. Size context: Previously moved from 4,200 sq ft home, now to 3,100 sq ft. Customer name: Alfred. All four items present.",
+    "logistics_details": "Property type: two-story villa/town condo. Bedrooms: four, four and a half bath. Customer volunteers extensive detail about what's moving (master bed, bookcase, outdoor furniture, TVs, bedroom furniture) and what's not (sold grill, donated/given away items, some new furniture staying at new home). No explicit probing on walking distance, additional rooms, or special considerations, but customer volunteer information covers most coverage.",
+    "section2_absence": "Nicole never asks 'Other than price, what are your biggest concerns about this move?' or any variant. Alfred raises context (half the stuff not moving, already purged, time pressure re: funeral, flexibility on walkthrough timing) but Nicole does not probe deeper or reflect back concerns. Section 2 items are N/A because this is a walkthrough-routed call.",
+    "packing_services": "Not offered. Customer mentions 'we're doing the packing ourselves' but Nicole does not ask about packing services.",
+    "box_count": "Not asked.",
+    "pricing_discussed": "Nicole does volunteer hourly rate increase ($70\u2192$96/hr), travel fee ($140/truck), 2.5-hour minimum, 15-minute increments, included services (fuel, pads, tools, insurance), and perks (No Worries Damage Coverage up to $2,000, Meet Your Mover feature, On-Time Guarantee). This is informational context before the walkthrough, not a binding estimate. No 'does that feel fair' pause or explicit booking ask, because pricing is deferred to post-walkthrough.",
+    "walkthrough_close": "Nicole confirms: 'once you have the time and date available for us to do the virtual walkthrough you can just reply on the email... or you can also just give us a text message.' Alfred agrees to discuss with wife and respond 'probably day, tomorrow or by the end of the week, pretty flexible' and may 'even later today, if possible.' Call ends cleanly with no abandonment \u2014 Nicole: 'We'll wait for your response for your preferred time and date for us to do the virtual walkthrough' and closes warm."
+  },
+  "top_strength": "Nicole correctly identified and routed a large move (4,200 sq ft baseline, 3,100 sq ft destination) to the virtual walkthrough without breaking frame or attempting an on-call quote, and gathered substantial logistics detail through customer volunteering and active listening rather than interrupting the customer's own context-setting.",
+  "coaching_note": "Section 2's 'Other than price, what are your biggest concerns?' was never asked\u2014even on a walkthrough-routed call, discovering the customer's hidden agenda before probing would have surfaced time pressure, family coordination needs, and scope uncertainty earlier and built trust before the walkthrough."
+}

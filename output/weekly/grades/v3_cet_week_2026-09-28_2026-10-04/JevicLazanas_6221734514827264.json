@@ -1,0 +1,37 @@
+{
+  "call_id": "6221734514827264",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 9.9,
+  "datetime_ct": "2026-09-30 18:28 CT",
+  "external_number": "+18326878101",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 8,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 3,
+  "total_score": 52,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "This will just take about ten to fifteen minutes. Sounds good. [No explicit 'Does that sound good to you?' with real wait for yes; moved forward without strong confirmation pause]",
+    "their_agenda": "What are your biggest concerns and what are the most important things you want answers to on this call today.",
+    "two_layers_deep": "Customer said 'I just wanna know how much it's gonna cost to pack and move it cause I'm not packing.' Rep responded with product pitch about packing services rather than 'tell me more about that' or deeper exploration of why packing cost was the concern.",
+    "estimate_anchor": "A typical one bedroom apartment usually takes two and a half to three and a half hours to completely move. So, in your case, since you are moving from a ground floor apartment, to a two story town home with an hour of drive between locations and have requested for a full packing services, then I would estimate your move to be around 27 and a half hours... it's safe to budget around $1,719.",
+    "pricing_framing": "Trip fee of $105 and the packing cost of $189... there are no hidden fees of any type... No credit card fees, no terrible fees... two and a half hour minimum... time is prorated in fifteen minute increments.",
+    "feels_fair_then_silence": "Not asked. Rep moved directly into the explicit ask without asking 'Does that feel fair?' or similar.",
+    "on_time_guarantee": "If we can't make it in the time window that we arrange, we immediately start discounting money of your final bill.",
+    "damage_coverage": "No worries damage coverage we provide up to $2,000 per move to repair, replace or reimburse for accidental damages. Unlike others, we will charge extra for it or offer only 60\u00a2 per pound coverage [note: sentence is garbled but intent is to say we don't charge extra and offer $2k, not 60\u00a2].",
+    "explicit_ask": "Having that said, would you like our help with your upcoming move on Thursday October 1st? [Immediately followed by customer hesitation, and rep pivots to alternative scenario: 'so let's say no packing services...'] This is softened by the alternative offer.",
+    "booking_confirm_issue": "Rep obtained phone number and mentioned sending estimate via email, but did not confirm move date, crew size, arrival window, or specific booking details before call ended. Customer was not booked; instead told to 'just give us a call' to decide."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details (property type, floors, room count, walking distances, special items, drive time) and delivered full pricing framing with transparent fees, minimum, and increments upfront.",
+  "coaching_note": "Rep must ask 'Does that feel fair?' after the estimate and hold genuine silence for the customer's reaction\u2014do not skip to the ask, and do not offer an escape route (alternative packing scenario) before the customer objects; that pre-emptive pivot undermined the close."
+}

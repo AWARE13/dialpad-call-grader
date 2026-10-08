@@ -1,0 +1,35 @@
+{
+  "call_id": "5729289823887360",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 13.8,
+  "datetime_ct": "2026-09-28 21:21 CT",
+  "external_number": "+12516357620",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 7,
+  "total_score": 74,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never uses the recognizable framing about '10 to 15 minutes' + 'quote you can depend on' + waiting for a yes. Instead jumps directly into clarifying the route and move logistics without setting expectations or asking permission to proceed.",
+    "their_agenda": "Never asked. Rep moves directly into logistics probing ('let's talk about the apartment') without asking 'what are your biggest concerns about this move'.",
+    "estimate_anchor": "Typical for one bedroom is 2.5 to 3.5 hours. In your case, with fifth floor, walk distance, fragile table, and 3.5 hour drive, estimating 6.5 to 7.5 hours, so $2,808 to $3,105 for the move.",
+    "feels_fair_then_silence": "Rep never asks 'does that feel fair?' After giving the estimate, rep immediately pivots to explaining it's flexible and customer only pays for actual time consumed.",
+    "explicit_ask": "Would you like our help with the move, miss Maggie? \u2014 But customer responds 'Is it possible to get this quote emailed to me?' and rep offers that out: 'Of course, or if you want... I can put you on the books same thing... if you prefer the quotation I can also do that ma'am.' Soft exit provided before booking.",
+    "throwaway_concerns": "Before I go over pricing structure and estimate, do you have any question?' and 'Do you have any clarification regarding the moving process in general?' \u2014 These are generic yes/no questions, not the genuine 'What's still concerning you about this move?' version."
+  },
+  "top_strength": "Arden gathered exceptionally thorough logistics details\u2014elevator type, walk distances, floor level, special items, box count, destination property type\u2014and delivered both pricing promises (On-Time Guarantee and $2,000 Damage Coverage) with full clarity and no-deductible framing.",
+  "coaching_note": "Open the call with the quid pro quo framing (10\u201315 minutes, quote you can depend on, wait for yes), ask 'What are your biggest concerns about this move?' before any probing, and after pricing, ask 'Does that feel fair?' with genuine silence instead of immediately softening with flexibility talk."
+}

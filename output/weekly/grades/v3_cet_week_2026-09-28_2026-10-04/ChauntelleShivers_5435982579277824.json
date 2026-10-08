@@ -1,0 +1,38 @@
+{
+  "call_id": "5435982579277824",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 6.4,
+  "datetime_ct": "2026-09-30 15:23 CT",
+  "external_number": "+18323044809",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 10,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep jumps directly into verification and probing with no time-boxed framing or dependable-quote promise. Opens with 'Before I kinda jump in here, do you have any just top of my concerns' which is not the recognizable quid pro quo.",
+    "their_agenda": "Never asked. Rep proceeds straight to discovery and logistics probing without asking about customer's biggest concerns or what they want answers to on the call.",
+    "estimate_anchor": "Rep states: 'The estimate is, is definitely accurate. So I'll keep everything as it is. We have that minimum two and a half hours but where we have you right now is the minimum two and a half to three and a half hour.' Gives a range tied to minimums but does not personalize to this customer's specific move characteristics or concerns.",
+    "pricing_framing": "Rep mentions the 2.5-hour minimum and that customer 'will just pay for the time you use' but does not disclose trip fees, overnight fees, packing materials upfront, and does not frame the estimate as 'not a guess' or reference 15-minute increments.",
+    "feels_fair_then_silence": "Never asked. Rep moves directly from estimate into time-slot confirmation without soliciting customer buy-in or reaction.",
+    "on_time_guarantee_delivered": "Not mentioned at all.",
+    "damage_coverage_delivered": "Not mentioned at all.",
+    "final_concerns_check": "Rep asks 'Did you have any other questions for me that I can just help with or' \u2014 a hollow throwaway question, not a genuine 'What's still concerning you about this move?'",
+    "explicit_ask": "Never asked. Rep does not ask 'Would you like our help with your move?' or any recognizable close. Instead confirms logistics and contact info, then says goodbye."
+  },
+  "top_strength": "Chauntelle gathered detailed logistics information about the storage unit, furniture items, and box count, and she listened carefully to the customer's concerns about weather and adjusted the move date accordingly.",
+  "coaching_note": "The call skipped all three critical closing sections (Two Promises, final Concerns check, and the explicit Ask) \u2014 you ended with logistical details and contact info but never closed the sale or confirmed the booking itself; go back to the script and deliver the full call structure, especially the Two Promises and the explicit 'Would you like our help?' ask."
+}

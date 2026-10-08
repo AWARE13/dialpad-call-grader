@@ -1,0 +1,43 @@
+{
+  "call_id": "4867169928388608",
+  "rep_name": "Jevic Lazanas",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 16.5,
+  "datetime_ct": "2026-09-30 15:17 CT",
+  "external_number": "+16017503957",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 8,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'this will take about ten minutes. Sounds good.' but does not wait for customer confirmation before launching into 'can I have your first and last name' \u2014 rushed past.",
+    "their_agenda": "Rep asks 'what are your biggest concerns for this upcoming move and what are the most important things you want answers to on this call today?' \u2014 asked early, before logistics probing.",
+    "two_layers_deep": "Customer raises concern about wardrobe boxes. Rep says 'I can definitely discuss that with you later on' and immediately pivots to packing services rather than digging deeper. No genuine two-layer follow-up on any concern raised.",
+    "active_listening_reflection": "No summary reflection of the customer's concerns. Rep acknowledges ('I see,' 'Got it') but does not synthesize or confirm what was heard.",
+    "logistics_details_gathered": "Property type (house), floor/stories (single story pickup; first floor destination), rooms (one bedroom each), walking distance (10-15 ft pickup; 200-500 ft destination), special considerations (couch, tables, wardrobe boxes, kitchen items), additional stops (none), parking (driveway and street). All seven covered.",
+    "packing_services_offered": "Rep asks 'Would you like our help and, you know, packing the small miscellaneous items. Like kitchen items up.' \u2014 offered.",
+    "box_count_asked": "Rep asks 'a typical one bedrooms worth of items usually has $15 to 25. So, do you feel like you know, you will forward within that range?' and later 'Overall how many boxes do you think are we going to move, like fifteen to 25?' \u2014 asked.",
+    "estimate_anchor": "Rep gives range: 'two and a half to three and a half hours' and personalizes to this customer: 'since you know you are, you know moving from a one story house with one bedrooms worth of items. Going to, to a ground floor, one bedroom apartment with quite a walk from the parking to the front door.' Then cites budget: '$515 to $721.'",
+    "pricing_framing": "Rep discloses $206/hour rate, 2.5-hour minimum, 15-minute increments, and explicitly states 'no hidden fees of any type, no credit card fees, no transportation fees, no terrible fees, no disassemble, Ry, assembly fees, again, no hidden fees of anytime.' Also mentions 'no upfront payment, no deposit.'",
+    "feels_fair_then_silence": "Rep never asks 'Does that feel fair?' After stating the budget estimate, rep immediately asks 'So what are you saying would you like our help with, you know, with the upcoming move this Friday October 2nd?' \u2014 no pause for customer reaction to pricing.",
+    "on_time_guarantee_delivered": "Rep says 'we have the on time guarantee. So, if we can't make it in that time window that we arrange we immediately start discounting money of your final bill and all of that is included at no extra cost.' Full disclosure of discount terms.",
+    "damage_coverage_delivered": "Rep says 'The first one is our no worries damage coverage. It's like an insurance, we provide up to $2,000 per move to repair replace or reimburse for accidental damages.' Covers the amount and reimburse/replace framing, but does not explicitly state 'no deductible/no fine print' or that it's 'built into the rate.'",
+    "closes_the_loop": "Rep does not ask 'Does that put those to rest?' or any version of closing the loop on the two promises. Moves straight to confirming the ask.",
+    "final_concerns_check": "After booking is confirmed, rep asks 'So, yeah, will there be anything else?' This is the throwaway 'anything else' format, not a genuine 'What's still concerning you about this move?' \u2014 not asked in the required form.",
+    "catch_all_asked": "No recognizable version of 'Anything coming with you we haven't talked about?' The customer volunteers the gate code late, but rep does not proactively ask this catch-all.",
+    "explicit_ask": "Rep asks 'So what are you saying would you like our help with, you know, with the upcoming move this Friday October 2nd?' \u2014 plainly asked without a built-in out. Customer says 'Yes ma'am. Okay. Yes, sure.' \u2014 full explicit ask."
+  },
+  "top_strength": "Rep gathered all seven logistics details (property type, floors, walking distances, special items, parking) systematically and confirmed them, building a solid foundation for the estimate.",
+  "coaching_note": "Add 'Does that feel fair?' pause after the estimate, ask the genuine final concerns check ('What's still concerning you?') instead of 'anything else?', and deliver damage coverage with explicit 'no deductible/no fine print' language to fully close Section 5."
+}

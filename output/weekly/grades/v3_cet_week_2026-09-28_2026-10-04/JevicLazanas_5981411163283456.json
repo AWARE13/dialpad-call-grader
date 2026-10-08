@@ -1,0 +1,31 @@
+{
+  "call_id": "5981411163283456",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 9.4,
+  "datetime_ct": "2026-09-30 21:13 CT",
+  "external_number": "+16822172248",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 8,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 35,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "their_agenda": "What are your biggest concerns for this and what are the most aside from the pricing? What are the most important things you want answers to on this call today?",
+    "two_layers_deep": "Customer stated 'that's my biggest thing because I'm having to do a sudden move out from a job loss. I'm really trying to do the most cost effective it do it in the most cost effective way.' Rep responded with empathy ('I'm sorry to hear that') but did not follow up with 'tell me more about that' or probe deeper into the concern.",
+    "estimate_anchor": "For Saturday, October 3rd we charge an early rate of $222 per hour, per two movers... The only thing outside of the order, the rate is the trip fee of $190 since both addresses are outside of the free service zone. Rep gave hourly rate and trip fee but did not provide a total estimate range or personalize it to the customer's actual move (light furniture, minimal boxes, cost sensitivity).",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' When customer objected to price, rep pivoted to 'I'll go ahead and send you an estimate to your email' and closed without requesting the business."
+  },
+  "top_strength": "Rep gathered all four discovery basics (name, moving day, origin and destination) early and efficiently, and systematically probed logistics details including floor/stairs, walking distance, storage spaces, special items, and furniture inventory.",
+  "coaching_note": "The call collapsed when the customer objected to pricing: rep did not follow up on the stated concern about cost (which was clearly the primary driver), did not anchor the price to what's included or the customer's actual minimal furniture load, did not ask 'Does that feel fair?' to test objection, never delivered the Two Promises, and abandoned the ask without ever plainly requesting the business \u2014 a complete Section 2\u20137 breakdown once price resistance appeared."
+}

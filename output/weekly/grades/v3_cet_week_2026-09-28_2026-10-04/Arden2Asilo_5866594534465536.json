@@ -1,0 +1,33 @@
+{
+  "call_id": "5866594534465536",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 10.7,
+  "datetime_ct": "2026-09-28 17:00 CT",
+  "external_number": "+18178180772",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 10,
+  "section2_their_concerns": 23,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 8,
+  "total_score": 79,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "In order for us to give you on, on, on target estimate we need to ask you questions that might take around ten to fifteen minutes. Would that be fine? ... aside from pricing is there any other? Worries or any other concerns about this move that you'd like answers to within this call.",
+    "their_agenda": "aside from pricing is there any other? Worries or any other concerns about this move that you'd like answers to within this call.",
+    "two_layers_deep": "Okay, what else? ... That's it sir, just a grill and tubs two or three tubs nothing else. ... Alright. Thank, thank you so much for letting me know and the grill is it an ag grill or just a normal regular grill? ... It's an electric smoker on wheels.",
+    "estimate_anchor": "So typically a two bedroom apartment usually takes two movers between four and a half to six and a half hours to completely move, sir. In your case since you are on the second floor which their case access only ... I am estimating the move to take around six and a half to seven and a half hours. So it is good to budget. An overall of $1,605 for the move including the $75 transportation fee.",
+    "pricing_framing": "We charged an hourly rate of $204 per hour for two movers and we provide a 26 foot box truck with everything that's needed ... no hidden fees of any type ... The now the only thing outside the hourly rate, sir, is a one time transportation fee of $75 ... It's a two and a half hour minimum once we go over the minimum the time will be prorated in fifteen minutes.",
+    "explicit_ask": "Alright sir, I do have availability for Wednesday the 7th of October. The team will come between 8:30 to 9:00, so would you want our help with the move, no deposit required?"
+  },
+  "top_strength": "Arden expertly gathered all logistics details across both locations (property type, floors, staircase access, distances, appliances, box count) with natural follow-up questions that painted a complete picture for an accurate estimate.",
+  "coaching_note": "After the explicit ask in Section 7, the customer asked for an email instead of booking \u2014 Arden agreed but never circled back to ask a final concerns check (Section 6) or confirmed any booking details (date, phone, arrival window, addresses); the call ended with zero booking confirmation."
+}

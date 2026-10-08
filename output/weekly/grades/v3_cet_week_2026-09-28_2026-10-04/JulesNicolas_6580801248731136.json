@@ -1,0 +1,41 @@
+{
+  "call_id": "6580801248731136",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 10.0,
+  "datetime_ct": "2026-09-28 18:27 CT",
+  "external_number": "+16822400376",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 23,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 1,
+  "total_score": 57,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Jules: 'I can certainly get you an estimate right now. I just need you know additional information to get us on the right track that should take me about like ten to fifteen minutes or so and then I can get you an accurate code. Sounds good to you.' \u2014 framing present but no clear wait for affirmative response before proceeding.",
+    "their_agenda": "Jules: 'Aside from the, you know, quote in general, do you have any other concerns about your upcoming move or anything, any important questions you want answers during this call today?' \u2014 asked before probing details.",
+    "two_layers_deep": "Bret raises storage unit logistics (two-part move, 10x10 and 5x5 units down the hall). Jules responds 'Sounds good. It does. Thank you.' and then pivots to 'can you give me like the quick, a quick list of the items we're going to be moving?' \u2014 no 'tell me more' follow-up, but the concern was clarified by Bret's own elaboration. Follow-up on the storage complexity is present in the item listing that follows.",
+    "active_listening_reflection": "No summary reflection. Jules acknowledges ('Sounds good') but does not reflect back the two-part move structure or confirm all concerns were captured.",
+    "estimate_anchor": "Jules: 'for this move-in particular, this move could take anywhere from the minimum of two and a half to four hours at the most just in case the disassemble and would be a little bit complicated and so for this move, I would budget anywhere from $505 to $808' \u2014 range anchored to home size/complexity and personalized to the specific job (disassembly, multiple stops).",
+    "pricing_framing": "Jules covers hourly rate ($202/hr for 3 movers + truck), minimum (2.5 hrs), proration (15 min increments), deposit for moving blankets ($14, refundable), and that rate includes gas, truck, taxes, insurance, tools, wrapping. 'Does that make sense' checks follow pricing blocks. No explicit 'not a guess' framing or fee disclosure before the customer asks.",
+    "feels_fair_then_silence": "Not asked. Jules moves directly to booking: 'Awesome, alright, well, I will get you scheduled right now for Sunday October 4th.'",
+    "on_time_guarantee_delivered": "Never mentioned.",
+    "damage_coverage_delivered": "Never mentioned.",
+    "closes_the_loop": "No section closing the loop. Jules skips both promises entirely and moves to booking.",
+    "final_concerns_check": "Not asked. Jules transitions to scheduling: 'Awesome, alright, well, I will get you scheduled right now for Sunday October 4th.'",
+    "catch_all_asked": "Not asked.",
+    "explicit_ask": "Never asked 'Would you like our help with your move?' or equivalent. Jules assumes yes and moves directly to scheduling: 'Awesome, alright, well, I will get you scheduled right now for Sunday October 4th.'",
+    "booking_confirmed": "Partial. Date (Sunday October 4th), arrival window (8:30\u20139 AM), and confirmation email mentioned. Missing: phone number, crew size (implied 3 movers + truck from rate, but not explicitly re-confirmed), delivery address not stated on call, notes about concerns not recorded for crew."
+  },
+  "top_strength": "Jules gathered comprehensive logistics details across both pickup and storage stops, asked the customer's agenda early before probing, and followed up on the two-part move structure to clarify a complex job without oversimplifying.",
+  "coaching_note": "Skip directly from pricing into booking without asking 'Does that feel fair?' first, and skip the Two Promises section entirely \u2014 both are load-bearing parts of the call card that protect the sale and build confidence; add them back before moving to scheduling."
+}

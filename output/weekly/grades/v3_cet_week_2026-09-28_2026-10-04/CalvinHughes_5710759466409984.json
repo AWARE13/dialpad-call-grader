@@ -1,0 +1,38 @@
+{
+  "call_id": "5710759466409984",
+  "rep_name": "Calvin Hughes",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 7.4,
+  "datetime_ct": "2026-10-01 15:36 CT",
+  "external_number": "+19178810526",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 6,
+  "section4_the_estimate": 1,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 1,
+  "total_score": 38,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Not present. Calvin jumps directly into 'I just wanted to ask a couple of quick questions... are we going to be moving the Washer/Dryer and fridge' with no time-box framing or promise of a dependable quote.",
+    "their_agenda": "Not asked. Calvin never asks 'Other than price, what are your biggest concerns?' He moves straight into appliance questions and logistics.",
+    "estimate_anchor": "No estimate given. Calvin says 'we're time based and we bill in fifteen minute increments' but never anchors a price range or personalizes it to this customer's move. No dollar figure or typical-range offered.",
+    "pricing_framing": "Partial. Calvin mentions 'time based,' '15 minute increments,' and 'you only pay for the supply, packing supplies we actually use and the time over, the minimum that we actually use' \u2014 but no trip fee, overnight fee, or '2.5-hour minimum' commitment framing, and no 'not a guess' language.",
+    "feels_fair_then_silence": "Not asked. No version of 'Does that feel fair?' Calvin never seeks explicit buy-in on pricing.",
+    "on_time_guarantee_delivered": "None. No mention of On-Time Guarantee or any discount terms.",
+    "damage_coverage_delivered": "None. No mention of No Worries Damage Coverage, $2,000 coverage, or deductible language.",
+    "final_concerns_check": "Throwaway. Calvin asks 'did you have any questions or any other concerns for me at the moment?' \u2014 generic and empty, not a genuine 'What's still concerning you about this move?'",
+    "explicit_ask": "Never asked. Calvin never asks 'Would you like our help with your move?' The call ends with 'I'll send this over and have a great day' \u2014 a confirmation of next steps, not an explicit close."
+  },
+  "top_strength": "Calvin successfully gathered key logistics details (moving dates, appliances, bunk bed disassembly, no elevator at destination, third-floor walk-up, on-site vs. off-site haul) and confirmed the delivery address, showing active listening to the customer's repeated emphasis on downsizing.",
+  "coaching_note": "This call skipped the entire opening frame (quid pro quo, Section 1), never asked for the customer's agenda or concerns (Section 2), never quoted a price or delivered either of the Two Promises (Sections 4 and 5), and never closed with an explicit ask for the business (Section 7) \u2014 it functioned as a logistics-confirmation call only, not a complete sales call."
+}

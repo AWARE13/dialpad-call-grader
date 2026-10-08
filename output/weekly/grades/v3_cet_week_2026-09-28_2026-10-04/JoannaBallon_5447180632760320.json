@@ -1,0 +1,37 @@
+{
+  "call_id": "5447180632760320",
+  "rep_name": "Joanna Ballon",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 15.4,
+  "datetime_ct": "2026-09-30 14:25 CT",
+  "external_number": "+18322797006",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 30,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 97,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "We still have availabilities for that day and I might just need to, about to take about ten to fifteen minutes if you know, this is a good time just need to ask you some basic questions about the move, okay? (asked, but no explicit 'Does that sound good to you?' wait)",
+    "their_agenda": "before we start, do you have any important concerns about this move aside from the pricing that you also want to discuss on this call?",
+    "discovery_basics": "Name: John (confirmed). Moving day: October 6th (Tuesday). Route: 1935 Heather Canyon Drive, Houston, TX 77089 to 5607 Violet Ridge Drive, Richmond, TX 77469. Size: 3,200 sq ft.",
+    "walkthrough_offer": "So typically John for a house this size in order for us to give you a more personalized it just depending on the items you're moving, especially you already move a lot of the boxes yourself. We conduct a video call or like a virtual walkthrough we can see the house. What are the items we still need to move for you? Are you available to do that?",
+    "logistics_details": "Property type (house), stories (2), bedrooms (5), rooms (media room, game room, storage room, living room, dining room), special items (painting with tempered glass, china table, dresser, entertainment center with glass, fridge, combo washer/dryer, freezer, safe, portable shed, bricks), parking (confirmed at both addresses), fragile items detailed",
+    "packing_services": "Are you planning to do the packing yourself or do you need help with packing as well? Customer declined.",
+    "box_count": "So typically for a house this size, we might end up with once everything's all packed into boxes, we might end up with about 200 boxes. Are we moving around 200 boxes for you? (Customer corrected to ~35 boxes already packed.)",
+    "estimate_anchor": "Not delivered \u2014 call correctly routed to walkthrough before pricing.",
+    "explicit_ask": "Not asked \u2014 call correctly routed to walkthrough instead."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details across property type, rooms, special items, fragile goods, and parking, and correctly identified the 3,200 sq ft home as requiring a virtual walkthrough before pricing.",
+  "coaching_note": "The quid pro quo framing in Section 1 lacked the explicit 'Does that sound good to you?' confirmation pause \u2014 Joanna stated the time commitment and moved straight into the agenda question, which weakens the buy-in before discovery begins."
+}

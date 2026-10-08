@@ -1,0 +1,43 @@
+{
+  "call_id": "5723262606942208",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 10.2,
+  "datetime_ct": "2026-09-30 14:07 CT",
+  "external_number": "+14692633991",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 25,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 5,
+  "section7_ask_for_the_business": 8,
+  "total_score": 76,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep says 'Do you have about five to ten minutes to go over all of that?' but does NOT frame time-boxed ask + promise of dependable quote, and does NOT wait for explicit yes. Moves directly into discovery.",
+    "their_agenda": "Asked late: 'Besides pricing, do you have any questions or concerns you would like answered on this call while we're, while you have me?' \u2014 comes after significant probing of apartment details, floor, special items, bed size, dressers, boxes, destination address, townhome layout, couch access, etc.",
+    "logistics_details_gathered": "Property type (apartment/townhome): yes. Floor/stories (7th floor apartment, 3-story townhome): yes. Number of rooms (2 bedrooms in apt, 3 bedrooms in townhome): yes. Walking distance/access (freight elevator, street parking, driveway feasibility): yes. Additional rooms: covered implicitly. Special considerations (couch, TV sizes, mirror, desks): yes. Additional stops: N/A \u2014 single destination. Covers all seven items.",
+    "box_count_asked": "'A typical box count for a move the size about 25 to 35 boxes. Do you feel like you'd fall within that range?' \u2014 explicitly asked.",
+    "packing_services_offered": "Never offered. No mention of packing services at all.",
+    "estimate_anchor": "Gives typical range ('between three and a half to five and a half hours'), personalizes to customer ('I definitely think you would fall within that range', references preparation level and mentions early key access to help keep time down), and provides dollar anchors ($918 for 4.5 hours, $1,122 for 5.5 hours). Full anchor + personalization present.",
+    "pricing_framing": "Trip fee/overnight fee: not explicitly disclosed. Packing materials: not disclosed. But 2.5-hour minimum, 15-minute increments, hourly rate, and 'zero hidden fees, no credit card fees, no Sterba Fees, no transportation fees' all explicitly stated. Partial framing \u2014 missing trip/overnight and material fee transparency, but strong commitment language present.",
+    "feels_fair_then_silence": "Never asked. Rep goes directly from estimate ($918\u2013$1,122) and arrival time into 'Would you like us to help you on the move? Would that move on the ninth?' \u2014 no 'Does that feel fair?' checkpoint.",
+    "on_time_guarantee_delivered": "Rep delivers in opening: 'we do have our on time guarantee we value your time. So we can't, if we can't make it in the window that we arrange we at least start discounting money off that final bill.' Covers discount terms clearly. Full delivery.",
+    "damage_coverage_delivered": "Rep delivers in opening: 'no worries damage coverage. Which is our free evaluation coverage included in the hourly rate provides up to $2,000 per move to repair, replace or reimburse for accidental damages.' Covers $2,000, included in hourly rate (not add-on), but does NOT explicitly state 'no deductible / no fine print.' Partial delivery.",
+    "closes_the_loop": "Does not ask 'Does that put those to rest?' or equivalent. Moves directly to booking ask. No loop-closing.",
+    "final_concerns_check": "Asks 'Alright, and then do you have any other questions for me' near end \u2014 this is a standard throwaway 'any questions?' not a genuine 'What's still concerning you about this move?' framing.",
+    "catch_all_asked": "Not asked. No 'Anything coming with you we haven't talked about?' checkpoint.",
+    "explicit_ask": "'Would you like us to help you on the move? Would that move on the ninth?' \u2014 asked plainly, no softened out. Full ask. Customer says 'Yeah, let's do it.'"
+  },
+  "top_strength": "Brianne gathered extensive logistics details across both properties (apartment and townhome), probed thoughtfully on access issues (freight elevator, driveway fit, stair turns), and handled the special items (TVs, mirror, couch) with specific product knowledge (TV bag, padding strategy).",
+  "coaching_note": "Missing the Section 4 'Does that feel fair?' silent checkpoint entirely \u2014 after quoting $918\u2013$1,122, pause and let the customer react rather than jumping straight to booking; also offer packing services explicitly in Section 3, and deliver the Two Promises section (with damage-coverage deductible clarity and loop-close) in its proper place rather than the opening."
+}

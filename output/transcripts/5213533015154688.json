@@ -1,0 +1,1034 @@
+{
+  "call_id": "4727352741634048",
+  "lines": [
+    {
+      "content": "Good afternoon, this is Amy. How can I help you?",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:38:06.543626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:38:06.543626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:38:06.543626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:38:06.543626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:38:06.543626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:38:06.543626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:38:06.543626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:38:06.543626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:38:08.413626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:38:08.933626",
+      "type": "custom_moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Hi, Amy! My name is Jimmy. I'm just giving you a call back because I received an email about a a booking I just submitted earlier.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:38:10.239844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "call_purpose",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:38:10.239844",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "ner",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:38:10.867844",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "contact_name",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:38:11.547844",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "ner",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:38:11.547844",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, yeah, sure. Let me pull up your profile to me. Can I have your last name?",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:38:20.343626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:38:23.333626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Yes, my last name is lee, L-E.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:38:24.639844",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:38:29.343626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Jim.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:38:31.743626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Just bear with me can I think, I can see a profile here.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:38:37.143626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay. On the profile here, if you don't mind kindly confirm your email address. I wanna make sure I'm looking at the right one.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:38:44.943626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Sure, yeah, my email address, my first name jimmy.masin. Michael.ledot 1983 @gmail.com.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:38:52.839844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "email_address",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:38:58.427844",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "pii",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:38:58.427844",
+      "type": "moment"
+    },
+    {
+      "content": "Perfect. Thank you. Okay, let me see the details that I have here. You requested date is October 17th Saturday.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:39:05.943626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:39:11.813626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Mm-hmm.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:39:13.239844",
+      "type": "transcript"
+    },
+    {
+      "content": "date",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:39:15.213626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "No, I should, did Friday the sixteenth.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:39:18.639844",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, you wanted Friday the sixteenth. Okay, no worries and then we're moving you on. Oh, you have a confirmation email? Okay. Oh, okay, found it here. Oh, it looks like you filled out the form online to get a quote and then you did the instead booking. Okay, so no worries. I found the instant booking. Let's see I just wanna, I'll just confirm the details that I have here and then double-check if the online estimate is accurate as possible so we're moving you from 11001 South First Street, one bedroom apartment on the third floor. No, elevator going to 10001 South First Street. So it's like one and a half mile away, is that correct?",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:39:23.343626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Yeah, yeah, the co, the confirmation email I have is.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:39:25.839844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Mm-hmm.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:39:33.039844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Mm-hmm.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:39:37.239844",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:39:41.653626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Oh, yes, yes.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:39:43.839844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Mm-hmm.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:39:52.239844",
+      "type": "transcript"
+    },
+    {
+      "content": "address",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:39:54.253626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Mm-hmm.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:40:01.239844",
+      "type": "transcript"
+    },
+    {
+      "content": "address",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:40:04.373626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Mm-hmm.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:40:07.839844",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:40:10.743626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Yeah, it's a, it's about like a, it's five mile away. Yeah.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:40:10.839844",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. And you're also going to the third floor, no elevator. No worries on the stairs. I mean, if there's no elevator, that's totally fine. We don't charge extra, although it will add more time, you know, cause we charge by the hour here. And it's an all inclusive hourly rate. Let's talk about your inventory list a little, I just want to check if the online estimate is accurate. What are we moving for you?",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:40:14.343626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Yeah.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:40:18.039844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Mm-hmm.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:40:25.239844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Right.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:40:27.639844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Yeah.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:40:33.039844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Picture.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:40:36.639844",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:40:39.543626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Sure.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:40:39.639844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Okay. So I mean, it's a small, it's a small apartment. So I have two books shells, you know I'm gonna, I'm gonna be boxing up those books myself.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:40:42.639844",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:40:47.943626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:40:53.943626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Yeah, so those book cases are roughly you're looking at like roughly like 78 feet tall each. And then I have a, a living room, coffee table, a computer table have my living room the TV stand with my a 7070 inch bullet TV which that I'm hoping that you guys can, I'm not sure about you get a box for it or do you guys can somehow wrap or I'm not sure if that's something you guys offer.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:40:55.239844",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:41:01.743626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Oh, yeah, we don't have a box that big but we can, we will definitely wrap it. We have shin crap moving blankets even bands and of course we put it in the, in a space in the truck where it's safe from all other belongings. So, your TV is good to go. Okay, what else?",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:41:29.343626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Protection.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:41:29.439844",
+      "type": "transcript"
+    },
+    {
+      "content": "swearing",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:41:36.773626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Perfect. Perfect. Okay, perfect. So, in so that's the living room I have a, I have a customer that won't be going that will, that will, that will stay or actually I'm giving it away essentially and then that's pretty much it for the living room and then harm bedroom which is I have my king size bed like, it's like the box and the mattress and then the actual bed frame itself which will require a little bit of this disassembling just a couple of screws to have like logic. You know what I mean? And then I have also I also have another TV in my, in my bedroom, a smaller one that got 65 inch and then another TV standing and a a dresser. That's it for my clothes and that's it.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:41:44.439844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "positive_sentiment",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:41:46.839844",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:41:56.943626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "question",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:42:01.867844",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:42:07.743626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:42:11.343626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Sure. Mm-hmm no problem.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:42:14.943626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:42:26.343626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Ross, and then so two TV stands total. Okay. And do you need help packing your boxes or would you have those ready to go?",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:42:31.743626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:42:31.743626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Mm-hmm.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:42:36.639844",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:42:37.333626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "No, I actually have those ready to go. I won't need any help on packing.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:42:41.439844",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay we normally see around fifteen to 25 boxes worth of items coming out of a one bedroom apartment. Do you think you'll be in that range?",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:42:46.143626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Mm-hmm.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:42:51.639844",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:42:54.693626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Yeah, it'll probably, I'll, I'll be honest with you like depending on what I'm kind of doing cause I might just take, I might just talk to all my folks into boxes so roughly about like fifteen like I would say fifteen or less to be honest with you I mean, all the other stuff in, in my apartment, I can just move it myself like taking trips.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:42:57.039844",
+      "type": "transcript"
+    },
+    {
+      "content": "Or what's a good ballpark.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:42:57.543626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:43:10.743626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay, sounds like a plan. So you mainly need us to focus on this large pieces, the furniture. Okay, okeydokey, and then when it comes to the parking situation, can we park in front of the buildings? Are their designated spot?",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:43:13.743626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Yes, ma'am. Yeah.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:43:22.839844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Mm-hmm. Yup.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:43:30.039844",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:43:30.773626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Yes. So my current apartment so they'll be able to park the truck like right in the parking lot right in front of my apartment. It's kinda like towards the back of the, the complex itself. They'll understand once they get there. But poss to my apartment is like literally this parking lot, like right next to where my apartment is on the third floor. So there'll be, yeah, they'll be able to park just right there and in, in the, in the parking lot. I mean it's 8:30 more, I don't, I own predict that there's gonna be a whole lot of people like going and now most people probably gone for by the time.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:43:35.439844",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:43:49.743626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:43:56.943626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:44:04.143626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "time",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:44:05.627844",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:44:13.743626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "And then for the, for the new apartment, so the new apartment is going to be slightly different. I know, like the front of the building, which of the building that I'm going to be in, it's, I think it's somewhat open. They should be able to at least park there to, yeah, cause it's not really like a parking lot it's like, kinda like an open the parking lot. Like a little bit further away, so to speak. And they're, yeah.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:44:13.839844",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:44:31.743626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay, gotcha.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:44:40.143626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "I know, in front of don. I know there's a space for them to pull up to the, to the curb and they should be able to.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:44:41.439844",
+      "type": "transcript"
+    },
+    {
+      "content": "Sounds good. And how far is the walk from the parking area to your unit? He, let's say here at the current address first. Are you down the hall, long walks. What's the, like?",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:44:48.543626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "question",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:44:56.093626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "No, so like from the, from the parking lot, from the parking lot to like the actual staircase is probably, like, I don't know, 1015 feet or something twenty feet.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:44:58.839844",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, okay. Not, not bad and then for the new apartment.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:45:08.943626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Yeah, yeah, yeah.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:45:10.239844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "But for the new one that one I'm not completely sure. Like I know that the, cause I need to go, I just need to go by there to actually check, this kind of see what it looks like to be honest. I'm not, I want, I did, because I did, like I did, like a, we call it I want to check out like the unit similar to what I'm gonna be renting but it was, it was sort of like a show unit like it wasn't the exact one.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:45:13.839844",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:45:35.943626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "I see. Okay, no problem. Got it. Alright. I think I've got all the details that I need. Is there any specific concerns you'd like to share or what are you most worried about where the upcoming move so I can alert the movers aside from the price.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:45:40.743626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "So like I, yeah.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:45:41.439844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Honestly don't.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:45:55.839844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Honestly, the, well, yeah, honestly the only thing I'm really, I'm curious and concerned about it really just like, the distance from like the parking lot at the new location to, to where like, the front door of my apartment. I don't, I can't really tell them exactly what the distance is going to be, I wanna say it probably like, the EC or less, you know what I mean? To the staircase, I'm guessing that's my guess. But yeah, I, I'm probably gonna swing by there just to double-check to make sure. But I'm outside I'm really, I'm just more concerned about like, I think my, my livingroom. TV, I just hope that doesn't get damaged but it sounds to me like how to music you guys will have all that on the control.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:45:58.239844",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:46:02.343626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Right.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:46:14.343626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:46:16.743626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Okay. Mm-hmm. Mm-hmm.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:46:20.343626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Yeah.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:46:34.743626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Yes of course, of course. Well we have all the tools the wrapping and we go heavy and protecting your belonging especially the wants like you don't, you have your seventy inch TV the 65 inch TV. So we're very careful with that. You don't have to worry about it. Let's see, what else. I think we covered everything. Let me walk you through the basic pricing.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:46:39.543626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Mm-hmm, but.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:47:00.639844",
+      "type": "transcript"
+    },
+    {
+      "content": "So you requested date is Friday October 16th. We charge $222.222. That's per hour with two minutes already we will with you know, with it's all inclusive and upon checking here.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:47:02.943626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "date",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:47:05.013626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:47:07.693626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Mm-hmm.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:47:11.439844",
+      "type": "transcript"
+    },
+    {
+      "content": "This move is within our free service zone so there's no travel fee involved. You only pay for the, for the hourly rate. We do have a two and a half hour minimum. If we go beyond that minimum, we will prorate the time in every fifteen minute increments usually a one bedroom apartment we would send two movers. It will take two and a half to three and a half hours to complete. You know what, to be honest with you Jimmy your inventory is very straightforward but the major factor here would be the stairs involved third floor. To turn floor. I would like to be a bit conservative and set you know, proper expectation with you I would suggest budget for three and a half maybe up to four hours just in case needed. Although you're not Bo, by the estimate, you only pay for the actual time that you use. So the more prepared, you are, the more efficient the movers gonna be last time the move will take more money you get the same. Let's say we only use three and a half hours, that's $777 well, four hours is $888.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:47:19.013626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Mm-hmm.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:47:27.639844",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:47:30.453626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:47:47.573626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Correct.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:47:54.039844",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:47:58.493626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Sure.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:48:13.839844",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:48:22.973626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Mm-hmm.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:48:24.039844",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:48:24.373626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "currency",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:48:28.493626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "Now let's see how much it would be for the minimum. That's only 555 so at least you can you know, you have the opportunity to reduce the time by being prepared. So like, as you mentioned earlier, you'll probably just handle the boxes or if you're able to disassemble the bed in advance, that would help you save time. Of course, save a lot of money by the end of the day. Does that sound fair so far?",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:48:31.143626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Mm-hmm.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:48:54.039844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Absolutely, yes.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:48:58.239844",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, sounds good then and we don't require any deposit. So we're basically good to go here. We already have you on schedule. I will send you the final confirmation email. I've noted the inventory the details we talked about. Although I'm still missing your unit numbers and then we can wrap up the call. So unit number for the current.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:49:01.143626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "action_item",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:49:09.293626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Oh, right. Yes. Unit number for the current apartment is gonna be 1330.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:49:21.639844",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you and the new one.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:49:31.143626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "The new one is gonna be 0331 I just realized that.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:49:34.239844",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, from same number. So, 1330 going to 0331 okay, that sounds good. Is there anything else you wanted to discuss or clarify before we end the call?",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:49:38.943626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Yeah.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:49:42.639844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Yeah.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:49:46.839844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Nope, that should be it. I mean, you pretty much answered all the questions I had.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:49:56.439844",
+      "type": "transcript"
+    },
+    {
+      "content": "Amazing. The pleasure is mine. So we'll see you on Friday. October 16th it shows the morning spot, so we will arrive around 8:30 to nine in the morning at the current address and we will surely give you a call. Please, please don't hesitate to reach out if you need last minute packing questions or updates between now and then, okay?",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:50:01.743626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "date",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:50:04.453626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "time",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:50:08.293626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Mm-hmm.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:50:10.839844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "I will do. Thank you so much for your help today.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:50:21.039844",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "support_issue_resolved",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:50:21.987844",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, enjoy your weekend Jimmy. We'll see you very soon. Bye-bye.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:50:23.343626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    },
+    {
+      "content": "ner",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:50:25.013626",
+      "type": "moment",
+      "user_id": "6576174159265792"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCSp7GH-AkM",
+      "content": "Thank you, bye-bye.",
+      "name": "Jimmy Le",
+      "time": "2026-10-01T18:50:27.639844",
+      "type": "transcript"
+    },
+    {
+      "content": "Take care.",
+      "name": "Amy Arbasa",
+      "time": "2026-10-01T18:50:29.943626",
+      "type": "transcript",
+      "user_id": "6576174159265792"
+    }
+  ]
+}

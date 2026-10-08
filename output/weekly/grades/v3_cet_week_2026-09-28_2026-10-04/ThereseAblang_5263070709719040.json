@@ -1,0 +1,42 @@
+{
+  "call_id": "5263070709719040",
+  "rep_name": "Therese Ablang",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 6.1,
+  "datetime_ct": "2026-10-02 15:47 CT",
+  "external_number": "+19796657551",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 5,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 16,
+  "section4_the_estimate": 3,
+  "section5_two_promises": 0,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Rep never framed the call duration, the value of a dependable quote, or asked for customer confirmation before proceeding.",
+    "their_agenda": "Rep never asked 'What are your biggest concerns about this move?' \u2014 jumped straight into logistics probing.",
+    "logistics_details_gathered": "Property type (2-story, 900 sqft; 1-story 1400 sqft), bedrooms (2, one as office), garage items (deep freeze), driveway access (yes at both), special items (solid wood furniture, no antiques/fragile items), box count (20-30 boxes, customer confirmed).",
+    "packing_services_offered": "Not asked \u2014 rep never offered 'Would you like us to pack your items into boxes for you?'",
+    "box_count_asked": "Yes \u2014 'typically for a home this size we would usually see about twenty to thirty boxes. Do you fall within that range?' Customer confirmed yes.",
+    "estimate_anchor": "Rep gave time estimate (3 hours + 1 hour buffer) and hourly rate structure (2.5-hour minimum, 15-minute increments), but did not personalize to this customer's move or state a dollar range.",
+    "pricing_framing": "Rep disclosed 2.5-hour minimum and 15-minute increment structure. Did not disclose trip fee, overnight fee, or packing materials upfront; did not frame as 'not a guess.'",
+    "feels_fair_then_silence": "Rep never asked 'Does that feel fair?' or held silence for customer reaction.",
+    "on_time_guarantee": "Not mentioned.",
+    "damage_coverage": "Not mentioned.",
+    "final_concerns_check": "Rep never asked 'What's still concerning you about this move?' or 'Any questions?' at the end.",
+    "explicit_ask": "Rep never asked 'Would you like our help with your move?' Call ended with 'thank you for your time' and goodbyes without any booking ask.",
+    "booking_confirmed": "No booking details confirmed \u2014 no date (already on file from online booking), phone re-confirmed, no arrival window review, crew size, addresses (already on file), or crew notes about customer concerns."
+  },
+  "top_strength": "Therese gathered comprehensive logistics details efficiently \u2014 property specs, bedroom count, garage items, access, special considerations, appliances, and box count \u2014 building a clear picture of the move scope.",
+  "coaching_note": "This call skipped the entire heart of the sales process: Therese never asked 'What are your biggest concerns?', never delivered the Two Promises, never held silence after pricing, and never asked for the business \u2014 she treated it as an admin intake instead of a consultative quote call."
+}

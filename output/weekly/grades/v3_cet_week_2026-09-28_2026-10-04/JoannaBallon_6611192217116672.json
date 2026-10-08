@@ -1,0 +1,40 @@
+{
+  "call_id": "6611192217116672",
+  "rep_name": "Joanna Ballon",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 8.6,
+  "datetime_ct": "2026-09-30 19:08 CT",
+  "external_number": "+14692339150",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 7,
+  "section2_their_concerns": 16,
+  "section3_probing_for_details": 20,
+  "section4_the_estimate": 7,
+  "section5_two_promises": 8,
+  "section6_concerns_again": 3,
+  "section7_ask_for_the_business": 0,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna: 'Just need to ask you some questions about it might take about ten to fifteen minutes if this is a good time?' \u2014 no explicit promise of a dependable quote, and Molly's acknowledgment is minimal (just 'Okay. Yeah, that's good'), not a clear yes to the frame.",
+    "their_agenda": "Joanna: 'before I start, do you have any important concerns aside from the pricing that you also want to discuss on this call?' Asked before probing started, and Molly raised two concerns: pricing and move structure/logistics.",
+    "two_layers_deep": "Molly raised concern about move structure (one day vs. split days). Joanna acknowledged ('Of course, no problem. Alright, definitely I'll discuss the plan') but did not dig deeper with 'tell me more about that' or ask clarifying follow-ups. Joanna moved directly to confirming the date and logistics instead of exploring what specifically concerned Molly about the split-day scenario.",
+    "active_listening_reflection": "No summary reflection. Joanna acknowledged the concerns but never reflected back 'So what I'm hearing is...' or asked 'Did I get all of it?'",
+    "estimate_anchor": "Joanna: 'So from the time that we arrive at your apartment pack, everything up drive and unload...I'm just estimating it to take about seven to eight hours to complete...estimated budget of $3,432 including the one time transportation fee and overnight as well.' Typical range (7\u20138 hours) given and personalized to this customer's specific move (Dallas to Houston, one-bedroom, short local move plus travel time).",
+    "pricing_framing": "Joanna disclosed trip fee ($1,560), overnight fee ($240), and the hourly rate structure upfront. Also framed the 2.5-hour minimum and 15-minute increments: 'we just have a two and a half hour minimum. Once we hit the minimum, we only charge in fifteen minute intervals until the move is complete.' Fee transparency and pricing commitment framing both present.",
+    "feels_fair_then_silence": "Never asked. Joanna moved directly from the estimate explanation into features (damage coverage, Meet Your Mover, On-Time Guarantee) without pausing to ask 'Does that feel fair?' or waiting for Molly's reaction.",
+    "on_time_guarantee_delivered": "Joanna: 'lastly on time guarantee if we run late we provide discounts for your move.' The discount framing is present and clear\u2014'if we run late we provide discounts'\u2014though the specific terms (immediate discount start) are not elaborated.",
+    "damage_coverage_delivered": "Joanna: 'First is our no worries damage coverage which would give you up to $2,000 coverage for any repair, replacement reimbursement for any accidental damages. So that's already part of the service. You don't have to pay extra for that.' Full delivery: $2,000 coverage, no extra cost, built into the rate, and no-deductible framing implicit in 'already part of the service.'",
+    "closes_the_loop": "Joanna never asked 'Does that put those to rest?' or any version of closing the loop on the Two Promises. After describing the features, the call transitioned to pricing details without a closing confirmation.",
+    "explicit_ask": "Never asked. After Molly stated 'this is the highest quote that I've gotten and I'm probably not gonna move forward. Not probably I'm not going to go forward,' Joanna responded with 'Alright, mm-hmm...if anything changes then just let us know.' No 'Would you like our help with your move?' was ever asked.",
+    "rate_lock_mentioned": "Not mentioned. No discussion of rate locks or price guarantees.",
+    "booking_confirmed": "Not applicable\u2014no booking occurred. Molly declined to move forward, and Joanna did not attempt to capture booking details (date, phone, arrival window, crew size, addresses were discussed for estimate purposes only, not confirmed as booking details)."
+  },
+  "top_strength": "Joanna systematically gathered all logistics details (property type, room count, furniture specifics, packing status, box count) and delivered a fully personalized, anchored estimate with complete fee transparency and both promises (damage coverage and on-time guarantee) clearly stated.",
+  "coaching_note": "When Molly raised her second concern (move structure\u2014one day vs. split), Joanna acknowledged it but never followed up with 'tell me more about that' to understand what specifically worried her, and then failed to circle back to address that concern before pricing\u2014missed an opportunity to solve her real objection before the price became the only issue."
+}

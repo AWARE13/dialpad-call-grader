@@ -1,0 +1,33 @@
+{
+  "call_id": "5843714864095232",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 7.7,
+  "datetime_ct": "2026-09-30 14:14 CT",
+  "external_number": "+12103282477",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v3-section-map",
+  "section1_open": 3,
+  "section2_their_concerns": 22,
+  "section3_probing_for_details": 0,
+  "section4_the_estimate": 10,
+  "section5_two_promises": 10,
+  "section6_concerns_again": 10,
+  "section7_ask_for_the_business": 10,
+  "total_score": 65,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Not delivered. Rep never framed the call as 10\u201315 minutes with a dependable quote or waited for a yes.",
+    "discovery_basics": "Name (Jennifer Gamboa), pickup address (Iris back/Gamboa residence) confirmed; moving month (October) stated by customer; no city-to-city route asked, no explicit size probing.",
+    "their_agenda": "Never asked. Rep moved directly to verifying information and flagging the call as a large-house move requiring manager handoff.",
+    "walkthrough_branch": "Correctly routed. Rep identified the move as 'a large house move' requiring in-person walkthrough and transferred to manager/scheduled callback rather than attempting a quote on this call.",
+    "call_abandonment": "Rep placed call on hold to check manager availability, returned to say managers were out in field, and deferred all discussion to manager callback within 24 hours. No discovery probing happened; no concerns were raised; no estimate or promises were made."
+  },
+  "top_strength": "Rep correctly recognized the move as large and appropriately escalated to a manager for a virtual walkthrough rather than attempting a phone quote, which aligns with the script's Section 1 branching rule.",
+  "coaching_note": "Rep should have delivered the Section 1 quid pro quo framing before placing the call on hold \u2014 even on a walkthrough-routed call, that framing sets expectations and signals professionalism; instead, the rep jumped straight to verification and held without explanation."
+}
