@@ -1,0 +1,33 @@
+{
+  "call_id": "6259027947593728",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 9.3,
+  "datetime_ct": "2026-10-08 19:39 CT",
+  "external_number": "+14328477121",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 8,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 57,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics probing after quid pro quo.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer at step 2.",
+    "value_days": "Rep said 'upon checking here for October 11th we can pack and move on the twelfth, we can be able to book your stat as early as 8:30 AM to 9:00 AM' but did not present this as a cost saving or flexibility offer with a dollar figure. Later customer asked about 9th/11th option and rep checked availability but never framed it as cheaper or better value.",
+    "rate_lock_then_ask": "Rep said 'no deposit required, no risk and securing your spot' (rate lock concept) but then immediately asked 'Would you like me to lock that for you?' \u2014 the ask came first or was bundled, not cleanly separated with rate lock/no deposit as the lead-in before the plain ask."
+  },
+  "top_strength": "Rep delivered a complete and thorough logistics probing, gathering all critical details about two complex high-rise locations, floor levels, elevator access, walk distances, packing scope, and item concerns with good follow-up.",
+  "coaching_note": "Step 2 is the heaviest section on the card \u2014 the rep must ask the two-concerns question ('movers showing up on time or damage') before any probing starts, and dig two layers deep on whatever the customer names; this call skipped that entire step and moved straight into the checklist."
+}

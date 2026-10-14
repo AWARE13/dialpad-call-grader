@@ -1,0 +1,32 @@
+{
+  "call_id": "4961761036640256",
+  "rep_name": "Joanna Ballon",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 11.9,
+  "datetime_ct": "2026-10-10 19:25 CT",
+  "external_number": "+15126560937",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to customers everyday especially if you're moving an antique furniture. Usually their concerns are about damages mover is not arriving on time. Are this any of your concerns as well?",
+    "two_layers_deep": "Cynthia raised damage concern; Joanna asked 'got it' and moved immediately to logistics without probing deeper on the damage concern beyond one acknowledgment.",
+    "value_days": "Wednesday the fourteenth... we're saving at least $12 per hour if you will do it on a Wednesday, that's already for the two guys but of course, if, you know, Friday, Saturday is preferable.",
+    "rate_lock_then_ask": "Call ended with customer asking to receive email quote; no rate lock discussed, no explicit ask for the business made, no booking attempted."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics and special-items details systematically, painting a complete picture of a complex antique move with specific concerns about fragile items.",
+  "coaching_note": "Do not skip the final concerns check at step 6 \u2014 ask 'What's still concerning you about this move?' before ending, and always ask for the business explicitly with rate lock and no deposit framing before sending quotes over email."
+}

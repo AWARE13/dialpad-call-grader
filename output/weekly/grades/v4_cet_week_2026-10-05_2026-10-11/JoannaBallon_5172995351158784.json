@@ -1,0 +1,37 @@
+{
+  "call_id": "5172995351158784",
+  "rep_name": "Joanna Ballon",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 14.8,
+  "datetime_ct": "2026-10-05 19:18 CT",
+  "external_number": "+19727544350",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 84,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Joanna: 'May I have the name on the profile?' Customer: 'Debbie Willis.' Later Joanna uses it: 'Thank you so much Debbie,' 'Good Debbie' throughout.",
+    "quid_pro_quo": "Joanna: 'with this move, I just need to ask you some questions about it might take about ten to fifteen minutes if this is a good time?' \u2014 time-boxed but no promise of dependable quote and no clear wait for yes before continuing.",
+    "two_concerns_question": "Never asked. Joanna asks 'aside from the pricing, do you have any other important concerns that you also want to discuss on this call?' which is open-ended but not the two-concerns framing.",
+    "two_layers_deep": "Not applicable \u2014 customer raised scheduling availability as primary issue, not a concern in the rubric sense. No probing into underlying concerns.",
+    "promises_delivered": "Joanna mentions 'no worries damage coverage. Which would give you up to $2,000 coverage for any accidental damages' and 'on time guarantee if we run late, we provide discounts for the move.' No lead-in permission ask. One-time window; both promised but no permission structure.",
+    "concern_led_opening_and_logistics": "Joanna asks about oversized items: 'Aside from the smoker do you have any other item that's oversize like a weight of a piano workout equipment, or a safe?' Gathers two-story to one-story, square footage (3300), bedroom furniture detail, garage items, oversized heavy items (China cabinet, antique armoire, antique sewing machine), glass items, parking/loading options, boxes (about 100), packing status. Comprehensive detail gathering with concern-led framing.",
+    "packing_and_box_count": "Joanna: 'Are you planning to get help for packing boxes as well or you're planning to do the packing yourself?' Customer answers will pack everything. Joanna: 'typically for a house this size...usually a house the size we have about $150 to 200 boxes in total. Do you think you would have that many boxes?' Customer indicates ~70 by move time plus Christmas tubs; Joanna settles on 'around a hundred.'",
+    "value_days": "Call routes to walkthrough; not scored.",
+    "rate_lock_then_ask": "Call routes to walkthrough; not scored."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details through concern-led probing (oversized items, glass, parking, boxes, house configuration) and successfully routed the customer to a virtual walkthrough as the appropriate next step for a large move.",
+  "coaching_note": "Joanna must ask the primary two-concerns question (on-time vs. damage) early in step 2 and deliver both promises with explicit permission lead-in in step 3 before moving to probing \u2014 these are required on all calls including walkthrough routes."
+}

@@ -1,0 +1,31 @@
+{
+  "call_id": "5661604969226240",
+  "rep_name": "Amy Arbasa",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 9.8,
+  "datetime_ct": "2026-10-11 16:52 CT",
+  "external_number": "+17132995510",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 6,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 18,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 60,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people every day and most of them would share one or two concerns either the mover is not showing up on time or damage to their items. What about you, are either of those concern for you or do you have anything specific in mind?",
+    "two_layers_deep": "Customer raised disassemble/reassemble concern; Amy answered it directly without two-layer follow-up ('tell me more'). No second layer of probing.",
+    "value_days": "your requested date is Tuesday. It's actually one of our cheapest rate Monday to Thursday day that would be $190 per hour... you only pay for the actual time that you use",
+    "rate_lock_then_ask": "we don't require any deposits, no rebooking fees, no cancellation fees and we're booking up really fast. Would you like us to help you out with the ma? [incomplete, trails off; customer redirects to discussing with husband rather than closing]"
+  },
+  "top_strength": "Amy delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full terms and permission lead-in, and framed pricing with all three elements: the all-inclusive contrast, Cameron's no-notes line, and fee transparency with the 2.5-hour minimum in 15-minute increments.",
+  "coaching_note": "Never asked for the customer's name, and failed to ask a genuine final concerns check at step 6 (asked only about the estimate, not what's still concerning them); also did not probe two layers deep on the disassemble/reassemble concern the customer raised at step 2."
+}

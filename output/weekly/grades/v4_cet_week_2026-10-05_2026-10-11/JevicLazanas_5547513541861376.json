@@ -1,0 +1,32 @@
+{
+  "call_id": "5547513541861376",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 6.8,
+  "datetime_ct": "2026-10-11 19:03 CT",
+  "external_number": "+16306392881",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 37,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics probing after quid pro quo.",
+    "two_layers_deep": "No concerns were elicited by the rep, so no follow-up was possible.",
+    "value_days": "Rep never addressed move date flexibility or Value Days pricing.",
+    "rate_lock_then_ask": "Rep never asked for the business. When customer objected on price ('I got a quote for less than $400'), rep defended inclusions and ended call without attempting to close."
+  },
+  "top_strength": "Jevic delivered both the On-Time Guarantee and No Worries Damage Coverage clearly and completely, with full terms, and confirmed both were addressed with a direct close-the-loop question.",
+  "coaching_note": "You skipped the two-concerns question entirely and never attempted to uncover what actually mattered to Brandon about his move; when he raised price objection, you had no earlier context to anchor the value conversation and no ask to recover the opportunity."
+}

@@ -1,0 +1,31 @@
+{
+  "call_id": "6240207895830528",
+  "rep_name": "Amy Arbasa",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 12.8,
+  "datetime_ct": "2026-10-09 17:15 CT",
+  "external_number": "+18477362680",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 57,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people everyday and most of our clients have one or two concerns. Either they're worried the movers won't show up on time or they're going to damage their items. What about you and what are you most worried about for this upcoming.",
+    "two_layers_deep": "Customer raised concern about hidden fees. Amy acknowledged it briefly ('Oh, yeah, yeah, of course. I will break down the basic pricing') but did not probe deeper or ask 'tell me more about that' \u2014 moved directly to logistics questions instead.",
+    "value_days": "Amy stated 'Friday, Saturday, Sunday is one of the, or one of the highest pricing that we have versus if you want to move from Monday to Thursday' and gave hourly rates ($103 vs $96 per hour per mover), but the customer asked 'if you can send me the quote' without confirming flexibility, and Amy did not circle back with a total dollar savings figure or confirm whether the customer would shift dates.",
+    "rate_lock_then_ask": "Amy said 'we don't require any deposits, no rebooking, no cancellation fee. So if you're ready to lock the date, or if you just have questions you know where to call me' \u2014 this frames the rate lock but includes a built-in out ('or if you just have questions') rather than a direct closing ask like 'Would you like our help with your move?'"
+  },
+  "top_strength": "Amy gathered comprehensive inventory details through a structured list approach and correctly identified the crew size needed (three movers, one truck) based on the customer's specific items and concerns.",
+  "coaching_note": "Step 6 was entirely skipped \u2014 Amy never asked 'What's still concerning you about this move?' before closing, and the final ask in step 7 was softened with an escape clause instead of a plain closing question, resulting in no booking attempt on the call."
+}

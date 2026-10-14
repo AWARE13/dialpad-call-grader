@@ -1,0 +1,36 @@
+{
+  "call_id": "6215788825714688",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 5.9,
+  "datetime_ct": "2026-10-09 14:51 CT",
+  "external_number": "+17703289845",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 72,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "call_type_classification": "Rep identified 1601 sq ft home and proceeded directly to walkthroughscheduling logic: 'So based on your home size, normally we do a, a virtual walkthrough... do you have time to complete the virtual walkthrough today?'",
+    "name_asked": "Roselyn asks for Kathy at the top: 'I'm looking to speak with Kathy' but does not use the name again in the call.",
+    "quid_pro_quo": "No framing offered\u2014rep jumps directly into kickoff verification and logistics gathering without the 'availability within your timeframe / 10-15 minutes / dependable quote' frame or a yes-gate.",
+    "two_concerns_question": "Never asked. Rep moves straight to property details and logistics.",
+    "two_promises": "Neither On-Time Guarantee nor No Worries Damage Coverage mentioned at any point.",
+    "concern_led_opening": "Rep asks 'with regards to your items, do we have anything large or heavy, like safe, workout equipments, washers, dryers, TV' and explores mirrors, deep freezer, drill press, large tubs.",
+    "box_count": "Rep asks 'the typical box count based on your home size is 45 to 55 boxes. Do you feel that you fall within that range?' Customer indicates more; rep asks 'how many boxes are you removing like an estimate?' Customer says 'maybe sixty.' Packing not asked.",
+    "walkthrough_routing": "Rep confirms: 'So based on your home size, normally we do a, a virtual walkthrough. In that way we would just based on the items that we are moving, do you have time to complete the virtual walkthrough today?' Confirmed time: '10:30 today.' Rep sends link and confirms next steps cleanly."
+  },
+  "top_strength": "Rep conducted thorough logistics gathering covering parking, access, special items (freezer, drill press, mirrors), and box count, then cleanly routed to the virtual walkthrough with confirmed time and link handoff.",
+  "coaching_note": "This is a kickoff call on an already-booked move, not a full intake\u2014but rep should have asked for the customer's name early and used it throughout; more importantly, on any inbound interaction, establish the Two Promises (On-Time and Damage Protection) before deep probing, regardless of routing decision."
+}

@@ -1,0 +1,34 @@
+{
+  "call_id": "6569136168935424",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 8.6,
+  "datetime_ct": "2026-10-06 19:39 CT",
+  "external_number": "+12104103690",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 27,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moves straight into logistics and pricing without identifying the customer's primary concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer or probed by the rep.",
+    "value_days": "Not addressed. Rep proposes specific dates (Sunday 22nd, 23rd, 24th) without mentioning cheaper alternatives or asking about date flexibility.",
+    "rate_lock_then_ask": "Never asked. Rep says 'once you guys are ready to get this on schedule you can either give us a callback or respond to that email' \u2014 no explicit ask for the business, no rate lock, no deposit language."
+  },
+  "top_strength": "Jules structured the multi-day move logistics clearly, explaining the packing day, overnight hotel stay, and two-day load/drive/unload sequence in a way the customer could follow and confirm.",
+  "coaching_note": "This call skipped the two most critical steps on the v4 card: never asked about the customer's two main concerns (on-time arrival or damage), and never delivered the On-Time Guarantee or No Worries Damage Coverage promises that answer those concerns. Start every quote call by learning what matters to the customer before diving into logistics and pricing."
+}

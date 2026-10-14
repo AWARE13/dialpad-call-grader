@@ -1,0 +1,33 @@
+{
+  "call_id": "5630208014327808",
+  "rep_name": "Joanna Ballon",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 15.7,
+  "datetime_ct": "2026-10-07 20:10 CT",
+  "external_number": "+18175772907",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 37,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. No version of the two-concerns question about on-time reliability or damage protection appears in the transcript.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during step 2.",
+    "value_days": "Not addressed. The rep discussed availability constraints (Fort Worth booked, Dallas alternative) but never offered a cheaper day as a total dollar saving or asked about date flexibility to unlock a Value Day.",
+    "rate_lock_then_ask": "Never asked. The call ends with 'I'll send everything in the email' with no rate lock statement, no deposit guarantee, and no explicit ask for the business. The rep says: 'Alright, thank you so much for, of course, considering us I'll send everything in the email and yeah, just reach out if you have any other further questions, okay?'"
+  },
+  "top_strength": "Joanna thoroughly gathered logistics details across multiple units (square footage, floor level, unit count, special items) and clearly explained the hourly pricing model, transportation fees, minimum, and two-branch availability options to a complex multi-unit commercial scenario.",
+  "coaching_note": "The call never shifted into consultative selling: no two-concerns question, no promises about on-time or damage guarantees, no temperature check after pricing, and no explicit ask for the business\u2014just a closing handoff to email. This is a quote-gathering call, not a sales call; add the promise step and the final ask to turn inquiry into a booking."
+}

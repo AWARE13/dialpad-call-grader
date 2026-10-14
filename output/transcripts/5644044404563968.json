@@ -1,0 +1,621 @@
+{
+  "call_id": "5618755637125120",
+  "lines": [
+    {
+      "content": "Hello good afternoon moving this is an how can I help?",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:26:42.021299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:26:42.021299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:26:42.021299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:26:42.021299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:26:42.021299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "call_purpose_category",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:26:42.021299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:26:42.021299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:26:42.021299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:26:45.668299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "Hello. My name is William York, I scheduled a move for this Saturday October 10th and I received a call earlier today to confirm some of the details I assume and I wasn't able to take the call at the time. So, I'm calling back now.",
+      "name": "William York",
+      "time": "2026-10-06T22:26:47.513676",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "call_purpose",
+      "name": "William York",
+      "time": "2026-10-06T22:26:47.513676",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "contact_name",
+      "name": "William York",
+      "time": "2026-10-06T22:26:48.730676",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "ner",
+      "name": "William York",
+      "time": "2026-10-06T22:26:48.730676",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "date",
+      "name": "William York",
+      "time": "2026-10-06T22:26:52.650676",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, one moment, so.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:27:04.821299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "Okay. So just to make sure the first location is 2800 Barton black lane in Texas. This is a one bedroom appointment square footage is 700 and what is the unit number?",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:27:16.221299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "ner",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:27:22.508299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "2104.",
+      "name": "William York",
+      "time": "2026-10-06T22:27:30.713676",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you aside from one bedroom, do we have any additional room, like, a room, study room, garage but we're also moving items from.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:27:34.221299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "No, it's just a one bedroom and then the common area. So standard one bedroom apartment.",
+      "name": "William York",
+      "time": "2026-10-06T22:27:43.313676",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:27:52.221299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "Thank you. Give me one sec. And this is located on the second floor with stairs and the distance from where we can be able to park the truck to the door, would be fifty feet. Is that correct?",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:28:00.621299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:28:12.108299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "Yeah, I would say that's pretty accurate.",
+      "name": "William York",
+      "time": "2026-10-06T22:28:13.313676",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And regarding your items, do you have anything larger heavy, like safe piano, large workout equipments washers or dryers TV?",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:28:16.221299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "Nothing exceptionally heavy or delicate just, you know, mattress dresser that sort of stuff.",
+      "name": "William York",
+      "time": "2026-10-06T22:28:26.513676",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, give me one sec, and a typical backs count for your home size is fifteen to 25 boxes. Do you feel that you fall within that range?",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:28:35.421299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:28:43.908299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "I do. It might be a little bit less than that.",
+      "name": "William York",
+      "time": "2026-10-06T22:28:47.513676",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and let me just go ahead and put here and second destination is 5700. West gate delivered in Austin, Texas. This is a two story house square footage is 1700, and can you be able to park on the driveway or are we parking on the street?",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:28:51.021299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "address",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:28:58.868299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "ner",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:29:01.308299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:29:07.788299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "I'm sorry, I must have messed up. When I go to this, that is not the correct address of the second location.",
+      "name": "William York",
+      "time": "2026-10-06T22:29:12.113676",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, okay. What is the second location address?",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:29:21.621299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "I'm sorry give me one second I'll let me pull it up to read it to you. My apologies.",
+      "name": "William York",
+      "time": "2026-10-06T22:29:25.313676",
+      "type": "transcript"
+    },
+    {
+      "content": "Sure.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:29:29.421299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "No problem.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:29:33.621299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "The, okay, the second location, the destination location is 3310. Oakwell. Coach.",
+      "name": "William York",
+      "time": "2026-10-06T22:29:40.313676",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "It's O-A-K-W-E-L-L court San antonio, Texas. 78218.",
+      "name": "William York",
+      "time": "2026-10-06T22:29:54.113676",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "ner",
+      "name": "William York",
+      "time": "2026-10-06T22:29:58.210676",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "postcode",
+      "name": "William York",
+      "time": "2026-10-06T22:30:00.113676",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, give me one sec and is this an apartment, a house.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:30:04.821299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "Yes, this is a two bedroom apartment.",
+      "name": "William York",
+      "time": "2026-10-06T22:30:10.313676",
+      "type": "transcript"
+    },
+    {
+      "content": "Two bedroom apartment, okay.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:30:13.221299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "And what's the square footage?",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:30:18.621299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:30:19.628299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "It's roughly a thousand.",
+      "name": "William York",
+      "time": "2026-10-06T22:30:21.713676",
+      "type": "transcript"
+    },
+    {
+      "content": "1000, and what's the unit number?",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:30:24.621299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:30:25.908299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "It is, 19201.",
+      "name": "William York",
+      "time": "2026-10-06T22:30:29.513676",
+      "type": "transcript"
+    },
+    {
+      "content": "And what floor is it located on?",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:30:33.621299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:30:34.268299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "It is located on the second floor.",
+      "name": "William York",
+      "time": "2026-10-06T22:30:40.313676",
+      "type": "transcript"
+    },
+    {
+      "content": "Second floor is it with elevators?",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:30:42.621299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:30:43.908299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "I don't think so, I believe it's just stairs.",
+      "name": "William York",
+      "time": "2026-10-06T22:30:50.513676",
+      "type": "transcript"
+    },
+    {
+      "content": "Just stairs. What's the walk distance from where we can park the truck to the bottom of the stairs and from the top of the stairs going to different door.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:30:53.421299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "I think it's roughly about fifty feet. I think I'll be able to park pretty close.",
+      "name": "William York",
+      "time": "2026-10-06T22:31:02.513676",
+      "type": "transcript"
+    },
+    {
+      "content": "Fifty feet. Okay. Do we have access concerns for both of the location like, narrow pathways and hallways, deep drives that we need to be aware of?",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:31:05.421299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:31:08.421299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "Definitely not at the second location. I don't think either of them are, are particular only even. No.",
+      "name": "William York",
+      "time": "2026-10-06T22:31:18.113676",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, so let me just go ahead and have this updated then bear with me.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:31:26.421299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "Alright, so we will be.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:31:36.021299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "Sending out, give me one sec.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:31:40.221299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "Hold on.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:31:45.021299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "Bear with me, I'm trying to update the details here. Hold on.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:31:50.421299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "Okay. So we will be sending out two movers and one truck estimated time is between four and a half to five and a half hours. The estimated cost in case they end up five and a half hours, would be $1,411, but then again we're timely based, so, in case if it just end up plus the estimated time, that would be okay, you only need to pay once the job is done and only for the actual hours.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:32:08.421299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "currency",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:32:22.028299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "Okay, so that will be for the full five and a half including drive time.",
+      "name": "William York",
+      "time": "2026-10-06T22:32:37.313676",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, that's correct.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:32:42.021299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "Okay, and if it ends up being shorter at all, it might decrease the cost a little bit.",
+      "name": "William York",
+      "time": "2026-10-06T22:32:44.513676",
+      "type": "transcript"
+    },
+    {
+      "content": "That's right, we only have a minimum of two and a half hours anyway, so in case they end up minimum that would only be $745. There's a trip fee of $190 only because of the drive time. It's like an hour and a half away from the first location.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:32:51.021299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "currency",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:32:59.468299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "currency",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:33:02.188299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "Okay, and is it still scheduled for 1:00 PM on Saturday the tenth?",
+      "name": "William York",
+      "time": "2026-10-06T22:33:10.913676",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "question",
+      "name": "William York",
+      "time": "2026-10-06T22:33:12.330676",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "time",
+      "name": "William York",
+      "time": "2026-10-06T22:33:13.730676",
+      "type": "moment"
+    },
+    {
+      "content": "That's correct.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:33:15.621299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "Okay, very good.",
+      "name": "William York",
+      "time": "2026-10-06T22:33:18.113676",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "positive_sentiment",
+      "name": "William York",
+      "time": "2026-10-06T22:33:18.113676",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, do you want me to check? Oh, I'll be sending you a confirmation email with regards to this. If ever there will be changes then please let us know so, we can be able to have it updated as well.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:33:20.421299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "question",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:33:21.268299",
+      "type": "moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "Okay, sounds good.",
+      "name": "William York",
+      "time": "2026-10-06T22:33:33.713676",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, thank you so much and you have a great day. You take care.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:33:36.021299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    },
+    {
+      "content": "Call Closing",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:33:38.068299",
+      "type": "custom_moment",
+      "user_id": "6254217736404992"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIDjxOPisgkM",
+      "content": "Thank you too. Bye.",
+      "name": "William York",
+      "time": "2026-10-06T22:33:40.313676",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you, bye.",
+      "name": "Roselyn Pammit",
+      "time": "2026-10-06T22:33:42.021299",
+      "type": "transcript",
+      "user_id": "6254217736404992"
+    }
+  ]
+}

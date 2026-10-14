@@ -1,0 +1,36 @@
+{
+  "call_id": "4623803247009792",
+  "rep_name": "Joanna Ballon",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 14.0,
+  "datetime_ct": "2026-10-11 21:20 CT",
+  "external_number": "+18327033528",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 84,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Joanna says 'we still have availabilities' and mentions scheduling a virtual walkthrough, but never frames it as a time-boxed quote process or asks for explicit permission to proceed.",
+    "two_concerns_question": "Not asked at any point. Joanna moves directly into logistics probing without identifying the customer's top concerns.",
+    "promises_delivered": "Joanna mentions 'no worries damage coverage which would give you up to $2,000 coverage' and 'on time guarantee if we run late we provide discounts' but does not use a permission lead-in asking 'can I share how we work' and the context is unclear\u2014she's providing general pricing/feature info rather than specifically framing these as answers to the customer's stated concerns.",
+    "closes_the_loop": "Not asked. No 'Does that put those to rest?' or similar check.",
+    "logistics_coverage": "Full coverage: addresses (3602 Conyers Lane to 7601 West Gate Boulevard), home type (1400 sq ft, 3-bed, 1-story), rooms (3 bedrooms, no extra rooms), garage (very little), patio (small glass table), special items (small safe under 50 lbs, TVs, L-couch), parking (driveway at both ends, detailed access notes).",
+    "packing_and_box_count": "Both asked. Joanna asks 'are you also interested in packing or you're planning to pack all of the boxes yourself?' and provides typical box count: 'typically for a home this size we might end up with about 35 or 45 to 55 boxes in total.'",
+    "value_days_discussion": "Joanna explains rate structure: 'Saturdays are cheaper compared to Saturdays. But if you prefer Friday, Saturday job those are just our regular rates of $111 per hour per mover. So doing it on a Sunday is $105. So that's $6 per hour per mover difference.' Customer chooses Saturday. Joanna then says 'So if we move then it's just lower but for now let's take for this Saturday. So if we will get you guys that's $222 per hour.' The dollar amount savings are not clearly stated as a total for the customer's specific move\u2014only the hourly rate difference is emphasized.",
+    "rate_lock_and_ask": "Joanna says 'we don't take deposits at this time. Again. The payment is only upon completion' and then transitions to confirming the virtual walkthrough: 'Once we're we've conducted the virtual walkthrough. We'll just update your estimates accordingly.' The ask is for the walkthrough booking, not a direct close. Joanna does not ask 'Would you like our help with your move?' in the classic form."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details systematically (addresses, home specs, special items, parking, layout) and confirmed both packing preference and box count, laying a solid foundation for the subsequent virtual walkthrough estimate.",
+  "coaching_note": "Return to step 2 before probing: ask the two-concerns question ('Are either of those a concern for you?') to uncover what matters most to Justin, then use his answers to frame the Two Promises with a permission lead-in so the coverage feels responsive to his actual worries."
+}

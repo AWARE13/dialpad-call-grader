@@ -1,0 +1,33 @@
+{
+  "call_id": "6208089220227072",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 8.5,
+  "datetime_ct": "2026-10-07 18:35 CT",
+  "external_number": "+19405974164",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 0,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Step 2 moved directly to logistics after customer confirmed date.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised to probe deeper on.",
+    "value_days": "Rep did not address day-of-week pricing variations or offer savings for different dates. Customer asked for afternoon, rep offered windows but no value comparison.",
+    "rate_lock_then_ask": "No rate lock mentioned, no no-deposit promise, and no explicit ask for the business. Rep moved directly to time-slot selection: 'would you like to be on the schedule?' Customer booked but rep never framed rate lock or asked 'Would you like our help with your move?'"
+  },
+  "top_strength": "Jeline gathered a detailed inventory systematically, confirmed pickup and delivery addresses with property details, and locked in a booking with a specific time window, delivery method, and confirmation email follow-up.",
+  "coaching_note": "The two-concerns question must come early in step 2, before probing logistics; and the explicit ask for the business in step 7 requires rate lock and no-deposit framing first, then 'Would you like our help with your move?' \u2014 not just 'would you like to be on the schedule?' which feels like a slot selection, not a sale."
+}

@@ -1,0 +1,41 @@
+{
+  "call_id": "4729462965706752",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 9.4,
+  "datetime_ct": "2026-10-10 17:51 CT",
+  "external_number": "+15122973411",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 41,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Jevic: 'May I know who's on the line please?' Customer: 'Hi, this is Adam.' Jevic uses it: 'Adam. Hi, Adam'",
+    "quid_pro_quo_missing": "No time-boxed framing or promise of dependable quote. Jevic moves directly into confirming details and pricing without the quid pro quo setup.",
+    "two_concerns_question_missing": "Jevic never asks the two-concerns question about on-time reliability or damage to items. Jumps straight to confirming move details.",
+    "promises_missing": "No On-Time Guarantee or No Worries Damage Coverage mentioned. No permission lead-in asking 'can I share how we work.'",
+    "concern_led_opening_missing": "Jevic does not ask 'What items in this move are you most concerned about?' Gathers logistics from the form instead. Covers addresses, property type (two story townhome), destination (second floor storage unit), and services (packing) but without concern-led framing.",
+    "packing_asked": "Packing mentioned and discussed ($300 for materials). Box count never asked\u2014no mention of typical box count or special items like china or books.",
+    "pricing_framing_partial": "Mentions no hidden fees and all-inclusive rate structure. Does not mention pricing contrast with competitors' hourly rates, or Cameron's 'no need to take notes' line.",
+    "value_days_missing": "October 20th (Tuesday) is mentioned as tentative, but no Value Days discussion or day flexibility offered. No saving mentioned for alternate dates.",
+    "prep_framing_missing": "No Save Your Ass framing about preparation being the biggest factor. No 'How do you feel about that?' temperature check.",
+    "final_concerns_check_weak": "Jevic asks 'do you have questions?' which is a throwaway question, not a genuine concerns check. Does not ask 'What's still concerning you about this move?'",
+    "no_ask_for_business": "Call ends with 'will there be anything else?' and 'I'll send you an email with the estimate.' No explicit ask like 'Would you like our help with your move?' No rate lock mentioned. No booking attempted."
+  },
+  "top_strength": "Jevic successfully gathered all core logistics (two-story townhome, second floor storage unit, packing plus moving services) and provided clear, accurate pricing with two scenario options ($3,180 with full packing, $1,344 without), anchored to an hourly rate and demonstrating no hidden fees.",
+  "coaching_note": "This call skipped all five foundational moments\u2014no quid pro quo to set expectations, no two-concerns question to surface what matters, no Two Promises to address those concerns, no concern-led opening to guide probing, and no explicit ask for the business at the end; the call functions as an estimate delivery rather than a consultative sales call."
+}

@@ -1,0 +1,32 @@
+{
+  "call_id": "6148664197423104",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 13.2,
+  "datetime_ct": "2026-10-05 21:32 CT",
+  "external_number": "+12148365381",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 10,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. No two-concerns opening about on-time or damage worries.",
+    "two_layers_deep": "N/A \u2014 no concerns raised in step 2 because step 2 was skipped entirely.",
+    "value_days": "Jules: 'the cheapest days we have is Monday through Thursday. So any, anytime within those days are the cheapest which is the hour the rate that I mentioned.' Customer chose Tuesday the 13th, which is a Best Value Day (Monday-Thursday rate). Jules confirmed availability and moved to booking.",
+    "rate_lock_then_ask": "Jules: 'we do not require any deposit nor do we have any rescheduling fees in case your plans changed' and 'you'll only pay after everything is completed you're gonna pay directly to the movers.' Then: 'Do you want to get this moved scheduled?' \u2014 rate lock and no deposit stated before the ask."
+  },
+  "top_strength": "Jules delivered a clear, all-inclusive pricing framing ($306/hour, no hidden fees, 2.5-hour minimum in 15-minute increments) and anchored it with a solid personalized range ($1,530\u2013$2,142 for a 5\u20137 hour day), then successfully locked in the booking with full details confirmed.",
+  "coaching_note": "Step 2 was entirely skipped \u2014 Jules jumped straight to pricing without asking the two-concerns question or probing what matters most to Susan and her husband about this move, which cost the call 25 points and left pricing unpinned to their actual worries."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "5401505497915392",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 18.8,
+  "datetime_ct": "2026-10-08 15:18 CT",
+  "external_number": "+17134306514",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 8,
+  "total_score": 64,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep opened with 'Besides pricing, do you have any questions or concerns you would like answered on this call today?' \u2014 a throwaway open-ended ask, not the two-concerns frame.",
+    "two_layers_deep": "Customer raised no concerns at step 2, so N/A applies.",
+    "value_days": "Not addressed. Rep did not identify that October 17th (Saturday) is a premium day or offer alternative dates with dollar savings.",
+    "rate_lock_then_ask": "Rate lock and no deposit: 'there is no deposit required to get on our schedule. So there's no risk and securing your spot and then if we do need to change the date or cancel, there's no fees are charges for that either.' Then plain ask: 'would you like us to help you with that move on Saturday?' Ask came after, in correct order."
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details across all three locations (storage unit, townhome, destination house) and worked through the customer's needs methodically despite incomplete information, staying patient and resourceful.",
+  "coaching_note": "Lead with the two-concerns question before any logistics probing \u2014 it's the primary opener for step 2 and sets the tone for what actually matters to the customer, rather than opening with a generic throwaway concern ask."
+}

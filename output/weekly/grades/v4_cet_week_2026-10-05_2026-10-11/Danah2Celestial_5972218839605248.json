@@ -1,0 +1,33 @@
+{
+  "call_id": "5972218839605248",
+  "rep_name": "Danah 2Celestial",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 5.3,
+  "datetime_ct": "2026-10-08 19:14 CT",
+  "external_number": "+14703585363",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 0,
+  "step7_ask_for_the_business": 0,
+  "total_score": 34,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into probing for logistics.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during step 2.",
+    "value_days": "Rep mentioned best value days (Mondays through Thursdays at $208/hr vs Friday at $222/hr) and offered the rate difference, but this was presented hourly, not as a total dollar saving. No flexibility question asked about switching to a cheaper day.",
+    "rate_lock_then_ask": "Never asked. No rate lock mentioned, no explicit ask for the business. Call ended with customer declining the service due to the 2.5-hour minimum not fitting their budget."
+  },
+  "top_strength": "Danah clearly explained the all-inclusive pricing model, the 2.5-hour minimum, and the 15-minute increment billing structure, giving the customer a transparent and accurate estimate range of $520\u2013$728 for their one-bedroom move.",
+  "coaching_note": "This call is missing the entire foundation: no two-concerns question to uncover what matters to the customer, no promises (On-Time Guarantee or Damage Coverage) to address their concerns, no prep framing to justify the minimum, no genuine temperature check before pricing, and no attempt to ask for the business \u2014 the customer was allowed to self-select out when a coached response might have saved the deal."
+}

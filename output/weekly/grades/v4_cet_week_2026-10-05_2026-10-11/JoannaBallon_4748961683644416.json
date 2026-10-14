@@ -1,0 +1,33 @@
+{
+  "call_id": "4748961683644416",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 7.0,
+  "datetime_ct": "2026-10-07 17:05 CT",
+  "external_number": "+13166801687",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing without using the two-concerns frame.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer in step 2, so this does not apply.",
+    "value_days": "Not addressed. Rep quoted $103/hr for Saturday the 17th but never identified the day's value tier or offered alternative days with dollar savings.",
+    "rate_lock_then_ask": "Joanna: 'no deposit at this time and if you need to make any changes all you have to do is just give us a call but other than that we should be good and booked in for the seventeenth in the morning.' Rate lock mentioned before booking confirmed."
+  },
+  "top_strength": "Joanna gathered comprehensive move details efficiently\u2014floor-to-floor logistics, room inventory, oversized items, fragile goods, exact apartment numbers, and walking distance\u2014establishing a clear picture for accurate estimating without feeling like a checklist.",
+  "coaching_note": "Step 2 was skipped entirely: ask the two-concerns question (on-time, damage) before any probing starts, then go two layers deep on whatever the customer names; this creates the hook that makes everything else land better and takes only 90 seconds."
+}

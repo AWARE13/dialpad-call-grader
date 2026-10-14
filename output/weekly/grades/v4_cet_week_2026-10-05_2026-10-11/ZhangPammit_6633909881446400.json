@@ -1,0 +1,29 @@
+{
+  "call_id": "6633909881446400",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 12.8,
+  "datetime_ct": "2026-10-09 17:46 CT",
+  "external_number": "+12103166703",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 7,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "two_concerns_question": "Rep never asked this. Jumped directly into logistics probing about the first location.",
+    "two_layers_deep": "No concerns were raised by customer in step 2, so no follow-up was possible. This is not a rep failure but a structural gap.",
+    "value_days": "Rep never mentioned value days or day-of-week pricing flexibility. No dollars saved offered.",
+    "rate_lock_then_ask": "Rep said 'Upon checking here on the twenty fourth of October we can be able to book her status early as 8:30 AM to 9:00 AM wherein there's no deposit required, no risk' (rate lock mentioned), then asked 'Would you like me to lock that in for you?' \u2014 but this came BEFORE the explicit ask for the business. The sequence was: estimate, rate lock / no deposit, then conditional lock-in question rather than a plain 'Would you like our help with your move?'"
+  },
+  "top_strength": "Zhang moved smoothly from probing into a clear, anchored estimate with a specific range ($585\u2013$894), personalizing it to the customer's exact move profile (two movers, one truck, 3\u20134 hours from one third-floor apartment to another less than ten minutes away).",
+  "coaching_note": "Step 2 is the entire spine of this call\u2014never ask for logistics without first asking the two-concerns question and digging two layers deep into what the customer actually worries about; this call jumped straight to details without ever surfacing that Laura had used Einstein before or what mattered to her about this move."
+}

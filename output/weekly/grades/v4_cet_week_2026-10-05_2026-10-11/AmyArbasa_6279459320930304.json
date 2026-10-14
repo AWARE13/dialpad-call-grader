@@ -1,0 +1,30 @@
+{
+  "call_id": "6279459320930304",
+  "rep_name": "Amy Arbasa",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 7.6,
+  "datetime_ct": "2026-10-07 14:03 CT",
+  "external_number": "+19798711059",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 9,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "quid_pro_quo": "Great, it looks like we do have the availability within that day. Now next step is for us to put together an estimate let's get you quoted. I'll ask you some questions. So you know to get us on the right check this call will probably take ten to fifteen minutes and then I'll be able to provide you an estimate that you can depend on you know, instead of just a guessing number. Does that sound good to you?",
+    "two_concerns_question": "Now, before I'll let you go robin, I would like to know is there any specific concern about the move or what are you most worried about aside from the price?",
+    "two_layers_deep": "The cost, that's the main thing, that's the only thing I want. [Amy responds with acknowledgment and pivots without digging deeper]",
+    "promises_delivered": "No On-Time Guarantee or No Worries Damage Coverage mentioned at any point in the call.",
+    "final_concerns_check": "Not reached; call routes to walkthrough before pricing discussion completes."
+  },
+  "top_strength": "Amy successfully gathered key logistics (address, date, property type, drop-off location, packing preference) and cleanly transitioned to a scheduled virtual walkthrough with a specific time and follow-up reminder plan.",
+  "coaching_note": "Before routing to the walkthrough, deliver the Two Promises (On-Time Guarantee and No Worries Damage Coverage) to address Robin's stated concern about cost\u2014this lands while attention is highest and provides reassurance early."
+}

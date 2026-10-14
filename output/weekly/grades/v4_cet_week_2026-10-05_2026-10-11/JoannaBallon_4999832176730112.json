@@ -1,0 +1,31 @@
+{
+  "call_id": "4999832176730112",
+  "rep_name": "Joanna Ballon",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 10.6,
+  "datetime_ct": "2026-10-06 15:01 CT",
+  "external_number": "+15128442993",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 28,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Joanna asked 'aside from the pricing or availability, do you have any other important concerns' but this is neither the two-concerns question nor genuine concern probing.",
+    "two_layers_deep": "Customer raised concern about moving existing couch upstairs, Joanna acknowledged with 'I see. Okay, so once we get those items from the other home, once we arrive there, you just want us to move some furniture around as well' but did not probe deeper or ask follow-up questions.",
+    "value_days": "Joanna mentioned 'If we're going to do it on Sunday. Rest assured I'll send everything in an email as well' and 'If we're going to do it on Sunday, it's $210 per hour' but did not identify which value day branch applies or offer a total dollar saving for a different day. She noted 'we only have something in the afternoon but if you really prefer morning then we can do Monday as well' but did not frame this as a value option with savings.",
+    "rate_lock_then_ask": "Never asked for the business. Joanna said 'I understand. No problem. Of course, hope you, as you shop around, just check for any other fees outside of the hourly rate. Okay. Alright. Thanks so much.' This is a dismissal, not an ask. No rate lock or no-deposit statement either."
+  },
+  "top_strength": "Joanna gathered detailed logistics about both pickup and delivery locations, including driveway access, parking constraints, and gate details that would affect crew time.",
+  "coaching_note": "You never asked the core two-concerns question ('movers not showing up on time or damage to items'), never dug two layers deep when concerns surfaced, and never actually asked for the business \u2014 you let the customer shop around instead of holding the frame and asking directly."
+}

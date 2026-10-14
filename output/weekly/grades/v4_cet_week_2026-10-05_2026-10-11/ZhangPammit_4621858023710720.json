@@ -1,0 +1,38 @@
+{
+  "call_id": "4621858023710720",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 6.6,
+  "datetime_ct": "2026-10-08 13:57 CT",
+  "external_number": "+12103259231",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 72,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked": "Alexandra Almendarez: Hi, yes, this is Alexander manda, I'm returning your phone call.",
+    "name_used": "No evidence of rep using the customer's name later in the call",
+    "quid_pro_quo": "So we'll just ask you a few questions in order for us to give you a prefer code you can depend on. So would that be okay? This would take within the next five to ten minutes of your time? \u2014 framing present but no explicit availability confirmation and somewhat rushed",
+    "two_concerns_question": "Not asked at any point in the call",
+    "concern_led_opening": "Not present; rep goes directly into logistics checklist",
+    "logistics_gathered": "Property addresses, square footage, bedrooms, additional rooms (garage, loft), parking access, walking concerns (trees, narrow paths), hallways \u2014 substantial coverage but initiated without concern-led framing",
+    "box_count": "A typical number of boxes based on your home size is 140 to 180 boxes. Do you feel that you fall within that range?",
+    "packing_asked": "do you need help in packing like between the small items, interior boxes or not at all. \u2014 later clarified as packing full house or partial, with pricing for both",
+    "walkthrough_routing": "based on your home size normally we do a virtual walkthrough. In that way we will just base it on the items that we're moving, do you have time to complete the virtual walkthrough today? \u2014 Confirmed for tomorrow 10 AM with link to be sent",
+    "promises_delivery": "No mention of On-Time Guarantee or No Worries Damage Coverage at any point"
+  },
+  "top_strength": "Rep successfully gathered comprehensive logistics details across two properties (addresses, square footage, rooms, parking, access concerns) and expertly routed the call to a virtual walkthrough with confirmed date/time and promised link delivery.",
+  "coaching_note": "Step 2 must open the call: ask the two-concerns question before diving into the logistics checklist, and Step 3 must happen before probing \u2014 deliver the On-Time Guarantee and No Worries Damage Coverage promises even on walkthrough-routing calls, since they now land in step 3, not after the estimate."
+}

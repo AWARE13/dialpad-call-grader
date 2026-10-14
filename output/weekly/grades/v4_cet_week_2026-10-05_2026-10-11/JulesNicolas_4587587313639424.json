@@ -1,0 +1,34 @@
+{
+  "call_id": "4587587313639424",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 11.2,
+  "datetime_ct": "2026-10-06 22:13 CT",
+  "external_number": "+12149080760",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 39,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. No version of the two-concerns opener (on-time or damage) appears in the call.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during step 2 because step 2 never happened.",
+    "value_days": "Not addressed. Jules mentions October 21st and 22nd availability but never identifies which branch applies or offers a specific dollar saving or flexibility ask.",
+    "rate_lock_then_ask": "Never asked. No rate lock mentioned, no 'Would you like our help with your move?' or equivalent closing ask. Customer ended the call with 'I'll reply to that email if that's alright?' and Jules accepted without attempting to book."
+  },
+  "top_strength": "Jules gathered comprehensive logistics details (addresses, floor counts, box counts, furniture specifics, multiple stops) efficiently and personalized the estimate to the customer's stated prep level ('everything will be packed and ready to go').",
+  "coaching_note": "The two-concerns question (step 2) and the Two Promises (step 3) were completely skipped \u2014 these are the load-bearing moments that drive credibility early; without them, Jules moved straight to logistics. Additionally, there was no closing ask for the business at step 7, leaving the customer in evaluation mode rather than booking mode."
+}

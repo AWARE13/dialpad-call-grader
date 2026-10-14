@@ -1,0 +1,33 @@
+{
+  "call_id": "4944707850641408",
+  "rep_name": "Amy Arbasa",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 10.0,
+  "datetime_ct": "2026-10-09 16:18 CT",
+  "external_number": "+18503757333",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 11,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 7,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "I'm gonna ask you some questions to get us on the writ check and then I will prepare an estimate that you can depend on this call will probably take ten to fifteen minutes",
+    "two_concerns_question": "I always ask our client cause sometimes they would say. They're worried that the movers won't show up or that they're going to damage that are belongings. Now. What about you, what are your major concerns for the upcoming?",
+    "two_layers_deep": "Okay, well thank you so much for sharing all that and the reason I will highly alert on your profile to be extra careful with the old led TV... [no follow-up probing on washer damage concern; rep moves to alert process instead]",
+    "pricing_framing": "no take notes, I will send every detail via email... This is an all inclusive hourly rate. We have a 26 foot box truck, we'll bring moving blankets, shrink grab bends dollies the tools... This also includes taxes, insurance and the gas so it's all inclusive.",
+    "value_days": "you request a date it falls in a Tuesday and Monday to Thursday is our best value days meaning it's the cheapest so, for Tuesday October 20th the hourly rate is $192",
+    "rate_lock_then_ask": "whenever you're ready to book with us. No deposit required, no rebooking, no cancellation fee"
+  },
+  "top_strength": "Amy gathered all necessary logistics details systematically and personalized the estimate to the customer's specific move (storage unit pack levels, hardwood beds, TV handling) while framing pricing clearly as all-inclusive.",
+  "coaching_note": "Step 3 was entirely skipped\u2014the two promises (On-Time Guarantee and No Worries Damage Coverage) were never delivered, even though the customer raised two clear concerns (TV damage and washer damage history) that they directly address."
+}

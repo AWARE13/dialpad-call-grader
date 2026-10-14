@@ -1,0 +1,31 @@
+{
+  "call_id": "4633081916203008",
+  "rep_name": "Zhang Pammit",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 13.6,
+  "datetime_ct": "2026-10-06 18:13 CT",
+  "external_number": "+12483212925",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep went directly into logistics probing after the name collection, skipping the v4 primary opener about movers showing up on time or damage to items.",
+    "two_layers_deep": "Customer raised two concerns early (certificate of insurance, experience with luxury apartments) but rep acknowledged and answered both with no follow-up depth. No 'tell me more about that' silence was held.",
+    "value_days": "Not addressed. Rep never identified which day branch applied (Best Value, Standard, or Premium) or offered any day flexibility or dollar savings.",
+    "rate_lock_then_ask": "Rate lock and no deposit stated first: 'There's no deposit required, no recent securing your spot. If something comes up and change in your end, you can always reschedule or cancel with a quick call, no fees for that either that said it truly believe that we're the best move-in town would you like our help with your upcoming move?' Clear ask follows."
+  },
+  "top_strength": "Rep delivered both promises (On-Time Guarantee and No Worries Damage Coverage at $2,000) with clear terms and conditions in step 3, and gave a fully personalized estimate (5\u20136 hours, 2 movers, $1,245) anchored to the customer's actual situation (one-bedroom items, two-bedroom destination, second floor with elevator, 30 minutes away).",
+  "coaching_note": "Add the two-concerns question ('most people have one of two concerns: movers not showing up on time, or damage to their items') as your primary step 2 opener before any logistics probing, and hold silence for a real yes-or-no answer \u2014 this move unlocks the entire customer-first discovery arc that v4 is built around."
+}

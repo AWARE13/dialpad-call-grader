@@ -1,0 +1,32 @@
+{
+  "call_id": "6724958389837824",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 22.4,
+  "datetime_ct": "2026-10-09 20:01 CT",
+  "external_number": "+13464273096",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 3,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 12,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Rep pivoted after logistics probing was well underway: 'So we talk a lot of people everyday the most of them have one or two concerns either the mover is not showing up on time or damage into their items are either of those a concern for you.' Customer didn't understand, so rep restated as 'do you have any concerns about this move today that you want us to address?' \u2014 asked after full address, floor, box count, and special items gathering had already happened.",
+    "two_layers_deep": "Customer raised no substantive concern. Rep asked 'do you have any worries or concerns with regards to your mom?' and customer responded vaguely about moving 'from apartment to a New Condo Street' without naming a specific worry. Rep never dug deeper with 'tell me more about that' or held silence for elaboration.",
+    "value_days": "Rep never mentioned Value Days, cheaper day options, or date flexibility for October 15th.",
+    "rate_lock_then_ask": "Rep never asked for the business or mentioned rate lock. Call ended with rep offering to send quote via email and customer saying they would review and contact back if interested. No explicit ask like 'Would you like our help with your move?' was made."
+  },
+  "top_strength": "Rep clearly explained the all-inclusive pricing model, the On-Time Guarantee and $2,000 No Worries Damage Coverage with solid detail, and gathered comprehensive logistics data on both locations despite significant language barriers.",
+  "coaching_note": "Ask for the business explicitly \u2014 the call ended with a passive 'I'll send it over and if you're interested let us know' rather than a direct ask like 'Would you like our help with your move?' and should have included rate lock and no deposit before that ask."
+}

@@ -1,0 +1,34 @@
+{
+  "call_id": "5830264506064896",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.6,
+  "datetime_ct": "2026-10-06 15:22 CT",
+  "external_number": "+15129652142",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 65,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked": "Roselyn Pammit: Hi Vic, good morning. This is from moving.",
+    "name_used_again": "Not used again after initial greeting.",
+    "quid_pro_quo": "No quid pro quo framing present. Rep goes straight into explaining the virtual walkthrough without a time-boxed commitment or promise of a dependable quote.",
+    "two_concerns_question": "Never asked. No version of the two-concerns opener (movers showing up on time / damage to items) appears in the transcript.",
+    "step4_probing": "Rep asks about square footage, downsizing vs. additional stops, items being moved, and truck capacity. However, no concern-led opening (What items are you most concerned about?). Packing and box count are never asked.",
+    "promises": "Neither On-Time Guarantee nor No Worries Damage Coverage are mentioned anywhere in the call."
+  },
+  "top_strength": "The rep stayed calm and patient through a complex technical discussion about square footage, truck capacity, and move scope, accurately explaining why a virtual walkthrough or photo/video submission would help provide an accurate estimate.",
+  "coaching_note": "On walkthrough-routing calls, lead with the customer's name and a clear quid pro quo before jumping into logistics \u2014 and deliver the Two Promises (On-Time Guarantee and No Worries Damage Coverage) before proposing the walkthrough, so the customer knows what Einstein stands for regardless of which path you take next."
+}

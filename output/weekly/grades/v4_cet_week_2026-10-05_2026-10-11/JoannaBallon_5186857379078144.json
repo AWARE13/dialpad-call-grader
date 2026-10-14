@@ -1,0 +1,33 @@
+{
+  "call_id": "5186857379078144",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 13.6,
+  "datetime_ct": "2026-10-05 16:02 CT",
+  "external_number": "+12107304907",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NEVER ASKED. Joanna moves directly into logistics probing without asking about the customer's primary concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were elicited by Joanna in step 2, so there was nothing to probe deeply.",
+    "value_days": "Joanna: 'if your days are flexible then Wednesday and Thursday are the lowest hourly rate for the week but if you prefer doing it on Friday, Saturday then that's just our regular dates.' Later: 'Yeah right now I don't have [availability on Thursday afternoon]. If we can do the same time but here I can push it a little bit later...we can do an arrival between 2:30 and 430' on Wednesday. The lower hourly rate ($96 vs $206) is mentioned, and flexibility is offered, though not as an explicit dollar savings figure.",
+    "rate_lock_then_ask": "Joanna states 'no deposit at this time' but does not explicitly ask for the business or mention a rate lock. She offers to send the email and confirm the booking details, but there is no plain 'Would you like our help with your move?' type close. The customer simply confirms the date and agrees to receive the email."
+  },
+  "top_strength": "Joanna successfully scheduled the move, managed multiple date/time changes, confirmed all essential booking details (address, unit number, arrival window, box count), and delivered a clear, all-inclusive rate explanation with no deposit required.",
+  "coaching_note": "Never ask the two-concerns question at step 2, which is the primary opener for understanding what matters most to the customer before diving into logistics \u2014 this call jumped straight to probing without that crucial discovery, and never circled back to genuine concerns; also, step 7 needs an explicit close ('Would you like our help with your move?') and a clearer rate-lock / no-deposit framing before moving to booking confirmation."
+}

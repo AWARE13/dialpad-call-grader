@@ -1,0 +1,35 @@
+{
+  "call_id": "5663130503127040",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 6.1,
+  "datetime_ct": "2026-10-09 18:42 CT",
+  "external_number": "+12144779741",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 70,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked": "Can you give me your first and last name, please?",
+    "name_used": "Name was collected but never used again in the call.",
+    "quid_pro_quo": "This should take me about ten to fifteen minutes and then I'd be able to get you a quote. Sounds good. \u2014 time-boxed but no dependable-quote promise; also no wait for yes before moving on.",
+    "two_concerns_question": "Never asked. The rep moved directly into logistics probing.",
+    "packing_asked": "We also offer packing services. We just charge for the materials. \u2014 packing offered but no box-count question.",
+    "two_promises": "Neither On-Time Guarantee nor No Worries Damage Coverage mentioned at any point.",
+    "walkthrough_routing": "What we can do is, we can do a video call, like a virtual walkthrough, so that we can see everything that we're going to be packing and moving. Is that something you're interested in? \u2014 Clean routing to virtual walkthrough; confirmed 4:00 PM today with text link sent."
+  },
+  "top_strength": "Jules correctly identified the move as a large one (6,200 sq ft, two-story) and cleanly routed to a virtual walkthrough with confirmed next steps and a specific time, rather than attempting to quote over the phone.",
+  "coaching_note": "Before routing to the walkthrough, Jules must ask the Two Concerns question (on-time delivery and damage) and deliver both promises (On-Time Guarantee and No Worries Damage Coverage) \u2014 these come in step 3, before probing, and belong on every call including walkthroughs."
+}

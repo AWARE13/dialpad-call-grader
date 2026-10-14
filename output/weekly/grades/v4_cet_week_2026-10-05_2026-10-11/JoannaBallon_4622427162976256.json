@@ -1,0 +1,33 @@
+{
+  "call_id": "4622427162976256",
+  "rep_name": "Joanna Ballon",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 5.9,
+  "datetime_ct": "2026-10-11 19:49 CT",
+  "external_number": "+15124234496",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep jumped directly to logistics.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer at step 2.",
+    "value_days": "Rep mentioned transportation fee difference ($150 on Tuesday vs. Wednesday inclusion) but framed it as cost burden, not as a value choice with savings. No flexibility ask after presenting the figure.",
+    "rate_lock_then_ask": "Never asked. Rep proceeded directly to booking confirmation: 'Alright, so yeah, we're all good and set for this one.' No explicit ask for the business, no rate lock, no no-deposit mention."
+  },
+  "top_strength": "Joanna quickly acknowledged the customer's repeat status, handled a complex scheduling conflict (Tuesday unavailability) with transparency about the $150 travel fee, and delivered both promises (On-Time Guarantee and No Worries Damage Coverage at $2,000) within the pricing summary.",
+  "coaching_note": "The call skipped the Two Concerns question entirely and jumped to logistics probing; follow the step 2 opener before gathering details, then return to Step 6 with a genuine final concerns check before closing \u2014 the current flow ends with confirmation instead of a real ask for the business."
+}

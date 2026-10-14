@@ -1,0 +1,31 @@
+{
+  "call_id": "5750410613923840",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 10.5,
+  "datetime_ct": "2026-10-09 20:33 CT",
+  "external_number": "+17169109186",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 8,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 3,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "well, you know what many we talked to a lot of people everyday and most of them have one or two concerns either the movers not showing up on time or damage the items are either of those a concern for you",
+    "two_layers_deep": "Rep asked the concern question but when customer said 'No, this is my first time looking for a mover' the rep pivoted immediately to selling benefits rather than probing deeper into the 'no concerns' response or asking follow-up questions",
+    "value_days": "Jevic offered Saturday the 17th when customer asked, but did not frame it as a Value Day savings, did not provide a dollar amount comparison, and did not present it as a cheaper option with specific savings",
+    "rate_lock_then_ask": "Rep said 'would you like to go ahead and get on the schedule today?' but did not lead with rate lock or no deposit language first; when customer asked to email the estimate to confirm later, rep agreed without a clear explicit ask for the business at that moment"
+  },
+  "top_strength": "Jevic gathered all essential logistics details systematically (addresses, floor numbers, parking, elevator access, items, box count) and delivered a clear, anchored estimate range ($550\u2013$770) with solid pricing framing on the all-inclusive model.",
+  "coaching_note": "When the customer said they had no prior moving concerns, Jevic should have gone two layers deeper\u2014asking 'what would concern you if something went wrong?' or 'what are you most hoping will go smoothly?'\u2014instead of pivoting straight to selling; also, step 5 skipped the 'Save Your Ass' prep framing and temperature check entirely, and step 7 never delivered an explicit ask for the business before offering to email the estimate."
+}

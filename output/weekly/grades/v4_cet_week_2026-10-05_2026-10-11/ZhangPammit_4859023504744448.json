@@ -1,0 +1,33 @@
+{
+  "call_id": "4859023504744448",
+  "rep_name": "Zhang Pammit",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 10.0,
+  "datetime_ct": "2026-10-09 18:07 CT",
+  "external_number": "+14792951327",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 65,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep: 'Sure, I'm happy to help. May I please have your name?' Customer: 'My name is Haley.' Rep uses it: 'Haley, okay thank you Haley...' and 'So to start with Haley...'",
+    "quid_pro_quo": "Rep: 'It looks like that we have availability within your timeframe. The next step is to put together an estimate, I have some questions about your move specifically this would take about ten to fifteen minutes of your time. So you can walk away with the quote you can depend on, instead of just a guess. This sounds good to you.' Customer: 'Sure.'",
+    "two_concerns_question": "Not asked. Rep moved straight into logistics probing.",
+    "two_layers_deep": "No concerns were raised by customer at any point; rep never asked the two-concerns question to surface them.",
+    "promises_delivered": "Not delivered. Rep never asked permission lead-in and never mentioned On-Time Guarantee or No Worries Damage Coverage.",
+    "concern_led_opening": "Rep asked about additional items in garage and upstairs library: 'aside from five bedrooms, so we have any additional room, like, game room, study room garage that we are also moving items from.' Customer volunteered squat rack and books/bookshelves. Rep also probed access concerns: 'Do we have access concerns like narrow path base and hallways, deep drivers that we need to be aware of?'",
+    "packing_and_box_count": "Rep asked box count: 'A typical back count based on your home size is between 180 to 200 boxes. Do you feel that you fall within that range?' Customer confirmed. Rep asked about packing: 'no need help in packing. This is from point A to point B.' Customer clarified preference for partial packing (kitchen only). Rep discussed packing options and noted kitchen packing preference.",
+    "walkthrough_routing": "Rep identified 3000 sq ft home as trigger for walkthrough: 'just since you're first stop is about a 3000 square foot home or let's jump into a ten to fifteen minute virtual walkthrough. In that way, it will let us assess the inventory or the list of items that we're moving in so we can get you the most accurate quote possible.' Rep generated and texted link, confirmed receipt, instructed customer to hang up for microphone access, and confirmed they would proceed to walkthrough."
+  },
+  "top_strength": "Rep successfully identified the walkthrough trigger (3000 sq ft), gathered comprehensive logistics details (bedrooms, additional rooms, floor type, access concerns, parking options, box count, and packing preferences), and executed a clean handoff to the virtual walkthrough with confirmed link delivery and next-step instructions.",
+  "coaching_note": "Step 2 \u2014 surface concerns before diving into logistics details by asking the two-concerns question early ('most of them have one of two concerns: either the movers not showing up on time, or damage to their items'). This anchors probing to what matters to the customer instead of a checklist."
+}

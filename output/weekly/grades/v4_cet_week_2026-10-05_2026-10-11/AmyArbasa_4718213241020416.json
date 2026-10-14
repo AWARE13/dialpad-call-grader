@@ -1,0 +1,31 @@
+{
+  "call_id": "4718213241020416",
+  "rep_name": "Amy Arbasa",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 12.4,
+  "datetime_ct": "2026-10-06 22:18 CT",
+  "external_number": "+15125740889",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 15,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. The rubric requires asking about movers showing up on time or damage to items before any logistics probing. Amy jumped straight into probing without this opener.",
+    "two_layers_deep": "Customer raised breakable dishes and personal value items as concern. Amy acknowledged ('Of course, of course') but did not follow up with 'tell me more about that' or deeper probing. She pivoted immediately to insurance explanation.",
+    "value_days": "Amy said: 'Well just to be transparent we do have cheaper rates which is Monday to Thursday, in case you guys are flexible, just let me know. But let's say you want to do the Saturday. So $220 to one hour to movers' \u2014 she mentioned cheaper days and asked about flexibility, but did not state the total dollar savings amount for switching.",
+    "rate_lock_then_ask": "Amy said: 'Well Allison, I'm gonna send you the email now and if you guys decide to book with us, no deposits required although it's still three weeks away. Just let me know when you're ready cause our calendar is booking up really fast, okay?' \u2014 rate lock and no deposit were mentioned but the ask ('decide to book with us') was softened and lacked directness. No plain 'Would you like our help with your move?' closing."
+  },
+  "top_strength": "Amy gathered comprehensive logistics details (addresses, floor, elevator access, walking distance, inventory, box count) and structured the estimate clearly with transparent fees and hourly breakdown.",
+  "coaching_note": "Lead with the two-concerns question before any probing (movers on time vs. damage), then dig two layers deep on whatever the customer names \u2014 Amy skipped this entirely and missed the chance to anchor the No Worries promise to the customer's actual worry about breakables."
+}

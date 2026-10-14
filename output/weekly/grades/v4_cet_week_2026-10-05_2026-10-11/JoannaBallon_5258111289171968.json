@@ -1,0 +1,33 @@
+{
+  "call_id": "5258111289171968",
+  "rep_name": "Joanna Ballon",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 13.8,
+  "datetime_ct": "2026-10-05 16:17 CT",
+  "external_number": "+17135827878",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 10,
+  "total_score": 66,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. The rep moved directly into logistics probing without the two-concerns opener.",
+    "two_layers_deep": "The customer raised a concern about the parents' bed situation and two-bedroom layout conflict. Joanna acknowledged it and offered solutions but did not probe deeper with 'tell me more about that' or genuine two-layer follow-up.",
+    "value_days": "Friday November 20th was booked; rep stated '$102 per hour per mover' without identifying which Value Day branch applies or offering a cheaper alternative. No flexibility question asked.",
+    "rate_lock_then_ask": "No deposit at this time. The payment is only upon completion of the move... Do you have any questions or concerns as of this time? (This is the ask, though it is phrased as a question about concerns rather than the explicit 'Would you like our help with your move?' but the booking was confirmed immediately after without resistance.)"
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details with clear concern-led probing, identifying the bed-conflict complexity early and offering practical solutions that kept the customer problem-solving rather than objecting.",
+  "coaching_note": "Lead with the two-concerns question before any probing (damage/on-time reliability), and deliver both promises explicitly \u2014 On-Time Guarantee and No Worries Damage Coverage were only partially covered, and the loop-close 'Does that put those to rest?' was never asked."
+}

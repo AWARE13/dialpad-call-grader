@@ -1,0 +1,32 @@
+{
+  "call_id": "6114189895835648",
+  "rep_name": "Danah 2Celestial",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 9.3,
+  "datetime_ct": "2026-10-06 14:25 CT",
+  "external_number": "+18178187808",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 11,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 15,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "other than the price. What are your biggest concerns in any questions you want answers to on this call? [customer raised price and assembly]",
+    "two_layers_deep": "Rep asked 'any item so, say that you are the most concern about' and customer said 'No, not really.' Rep then pivoted immediately to reassurance talk without pressing deeper into the price concern or assembly needs.",
+    "value_days": "Your preferred date was October 15th, that's actually one of our discounted days Thursday. So the hourly rate for two movers is $190",
+    "rate_lock_then_ask": "we do not require a deposit. So yeah, just give us a call anytime. [No explicit ask for the business; treated as soft close with built-in out]"
+  },
+  "top_strength": "Danah gathered logistics comprehensively \u2014 addresses, floor count, walking distance, special items, box count \u2014 and correctly identified Value Days savings, anchoring the estimate with a clear range ($640 to $1,020) personalized to the customer's light box count.",
+  "coaching_note": "Step 2: when the customer raised price as a concern, Danah acknowledged it but never dug two layers deep to understand what 'pricey' really meant \u2014 affordability limit, shock at the range, competitor comparison \u2014 and Step 6: no final concerns check was asked before closing, leaving unresolved the customer's stated objection that the price was too high."
+}

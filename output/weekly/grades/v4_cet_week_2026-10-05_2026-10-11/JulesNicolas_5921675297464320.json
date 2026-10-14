@@ -1,0 +1,40 @@
+{
+  "call_id": "5921675297464320",
+  "rep_name": "Jules Nicolas",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 8.2,
+  "datetime_ct": "2026-10-05 14:59 CT",
+  "external_number": "+18137239264",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 71,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Jules: 'Hi, this is Jules from Einstein Moving Company.' Later: 'Bye, John.' Name collected at top, used at close.",
+    "quid_pro_quo": "No recognizable framing present. Rep launches into details collection without time-boxed expectation-setting or promise of a dependable quote.",
+    "two_concerns_question": "Never asked. Rep moved directly to logistics without surfacing customer's top concerns about the move.",
+    "two_layers_deep": "No concerns were raised by the customer during step 2, so this is not applicable.",
+    "active_listening_reflection": "No reflection offered. No summary of customer's priorities or concerns.",
+    "promises_delivered": "No On-Time Guarantee or No Worries Damage Coverage mentioned at any point in the call.",
+    "closes_the_loop": "No 'Does that put those to rest?' or equivalent asked.",
+    "concern_led_opening_and_logistics": "Rep asked about items in photos (refrigerator, washer/dryer, closet contents, beds), but no concern-led opening like 'What items in this move are you most concerned about?' Property type (townhome), stories (two), and moving destination (Lakeland) covered. Missing: walking distance at both ends, number of rooms beyond closets/bedrooms, additional spaces (garage, shed, study).",
+    "packing_and_box_count": "Packing asked: 'Do you need help packing like boxing things?' Box count asked: 'I just gonna review this... the boxes we would need would be anywhere from like fifty to seventy boxes.'",
+    "value_days": "Full value-days discussion present. Rep identified Saturday/Sunday as higher-cost days ($200/$92 per hour) and offered Monday\u2013Thursday at $190/hour as a cheaper alternative: 'Friday has the same hour rate with Saturday. So Friday and Saturday are the most expensive days but if we're packing on a Monday or to Thursday the hourly rate is $190.' Savings framed as hourly rate difference, not total dollar amount, and flexibility not explicitly asked.",
+    "rate_lock_then_ask": "No rate lock mentioned. No deposit policy stated. Move was booked without any explicit ask or rate commitment language.",
+    "final_concerns_check": "Not asked."
+  },
+  "top_strength": "Jules successfully navigated the customer to a virtual walkthrough decision and routed the call cleanly without abandoning the pitch, qualifying the move as a walkthrough-scheduler case per the rubric.",
+  "coaching_note": "Before routing to a walkthrough, Jules must ask the Two Concerns question (movers not showing up on time, damage to items) and deliver both promises (On-Time Guarantee and No Worries Damage Coverage) \u2014 these belong in step 3, before probing, even on walkthrough calls, per v4 sequencing."
+}

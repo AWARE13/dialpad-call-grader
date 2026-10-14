@@ -1,0 +1,34 @@
+{
+  "call_id": "6693242071195648",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 7.5,
+  "datetime_ct": "2026-10-10 16:38 CT",
+  "external_number": "+15123480050",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 5,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NOT ASKED \u2014 Rep moved directly into logistics probing without the two-concerns frame.",
+    "two_layers_deep": "N/A \u2014 No concerns were raised by customer in step 2 because the question was never asked.",
+    "value_days": "Rep identified Saturday the 17th as availability and quoted $230/hour for that day. When customer asked about Saturday availability mid-call, rep said 'Yes, we still have an available schedule on the seventeenth okay' but did NOT offer a cheaper alternative day as a total dollar saving or ask about date flexibility. Partial credit: value-day awareness but no comparative saving offered.",
+    "rate_lock_then_ask": "Rep said 'So, would you like to go ahead and get on the schedule today?' with no prior mention of rate lock or no-deposit guarantee. The ask was present but lacked the rate-lock framing that should precede it. Also, customer declined and rep did not push back or confirm details despite the soft no, suggesting weak follow-through on the ask itself."
+  },
+  "top_strength": "Excellent logistics gathering \u2014 Jevic walked through a detailed furniture list systematically (beds, dressers, desks, sectional, bar table, fridge), confirmed property details (one-story to two-story townhome, parking), and used that specificity to personalize a credible time estimate (3.5\u20134.5 hours for partial move vs. typical 6\u20138 hours).",
+  "coaching_note": "Missing the two-concerns question entirely skipped the step 2 bookend and prevented any emotional connection to the customer's actual priorities; add the two-concerns frame before any logistics probing, then use their answers (not your assumptions) to drive the promises and estimate."
+}

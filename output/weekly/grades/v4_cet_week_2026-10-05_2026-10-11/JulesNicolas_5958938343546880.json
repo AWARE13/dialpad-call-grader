@@ -1,0 +1,33 @@
+{
+  "call_id": "5958938343546880",
+  "rep_name": "Jules Nicolas",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 5.2,
+  "datetime_ct": "2026-10-07 17:31 CT",
+  "external_number": "+14106086891",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 70,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "This should take me like ten to fifteen minutes and then I'd be able to get you an accurate estimate. (time-boxed but no explicit wait for yes, proceeded directly to gathering details)",
+    "two_concerns_question": "Never asked. Customer's actual concerns (storage complication, three-week gap) were raised organically by the customer but rep did not ask the two-concerns opener.",
+    "two_layers_deep": "Customer raised storage/gap concern; rep acknowledged but did not probe deeper. No follow-up like 'tell me more about that.'",
+    "promises_delivered": "Neither On-Time Guarantee nor No Worries Damage Coverage mentioned. Rep went straight to logistics after addressing storage question.",
+    "walkthrough_routing": "You the best way to go about getting the most accurate estimate is if we can do that virtual walkthrough, like jumping on a video call for you to walk us through the house. Customer confirmed availability and rep texted a link. Clean routing to walkthrough confirmed with next steps (date, phone already captured)."
+  },
+  "top_strength": "Jules cleanly identified that a 2,750 sq ft move warranted a virtual walkthrough for accuracy and successfully routed the customer into it without abandoning the pitch.",
+  "coaching_note": "On every walkthrough call, deliver the Two Promises (On-Time Guarantee and No Worries Damage Coverage) before routing to the video walkthrough \u2014 they come in step 3, before probing, and they answer the customer's actual concerns about reliability and safety."
+}

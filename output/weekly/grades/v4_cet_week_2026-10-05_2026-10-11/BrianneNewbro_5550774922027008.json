@@ -1,0 +1,31 @@
+{
+  "call_id": "5550774922027008",
+  "rep_name": "Brianne Newbro",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 13.8,
+  "datetime_ct": "2026-10-09 14:18 CT",
+  "external_number": "+19567446961",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 10,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we are talked to several people a day most have concerns mainly about the movers not being on time or damaging items or any of those a concern for you",
+    "two_layers_deep": "Customer said 'No' to concerns; rep did not probe deeper or ask clarifying questions to understand the move better from concern perspective",
+    "value_days": "Rep offered Saturday move instead of Sunday packing scenario but did not frame it as a cost-saving Value Day opportunity or calculate total dollar savings",
+    "rate_lock_then_ask": "there is no deposit required to get on our schedule and then there's no fees or charges to change the date or cancel. Would you like us to help you with the move tomorrow?"
+  },
+  "top_strength": "Rep systematically gathered all logistics details (floor, elevator access, walking distances, special items, destination property specs, room count) and clarified packing scope before estimating, resulting in an accurate quote the customer accepted same-call.",
+  "coaching_note": "Add the Two Promises step after the concerns check: deliver the On-Time Guarantee and No Worries Damage Coverage with permission lead-in and close the loop by asking 'Does that put those to rest?' \u2014 this addresses customer concerns before moving to logistics and builds trust in your reliability claims."
+}

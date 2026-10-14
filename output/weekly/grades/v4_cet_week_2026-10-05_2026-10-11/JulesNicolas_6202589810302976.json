@@ -1,0 +1,33 @@
+{
+  "call_id": "6202589810302976",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 9.2,
+  "datetime_ct": "2026-10-05 20:19 CT",
+  "external_number": "+14698555239",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly to logistics probing.",
+    "two_layers_deep": "No concerns were raised by the customer during step 2, so n/a applies.",
+    "value_days": "Rep mentioned: 'We have cheaper rates available for Monday through Thursday. Just to give you a heads-up Friday to Sunday or tends to be a little bit more expensive.' This identifies the value day concept but does not give a total dollar saving or ask about date flexibility for the Austin move.",
+    "rate_lock_then_ask": "Rep asked 'would you like to get this moved scheduled for Thursday?' before mentioning rate lock or no deposit. Rate lock and no deposit were never mentioned at all on this call."
+  },
+  "top_strength": "Jules gathered detailed logistics early (three beds, box count, storage unit size, starting floor) and provided a clear, all-inclusive hourly rate with a specific trip charge and budgeted range ($1,299\u2013$1,707), which gave the customer confidence in the pricing.",
+  "coaching_note": "Never ask the Two Concerns question \u2014 this is the heaviest-weighted step on the card and should have opened step 2 before any logistics probing; also deliver the On-Time Guarantee and No Worries Damage Coverage promises (step 3) before the estimate, and always mention rate lock and no deposit before asking for the business (step 7)."
+}

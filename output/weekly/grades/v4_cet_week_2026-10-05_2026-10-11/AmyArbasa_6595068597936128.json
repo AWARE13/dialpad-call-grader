@@ -1,0 +1,32 @@
+{
+  "call_id": "6595068597936128",
+  "rep_name": "Amy Arbasa",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 10.9,
+  "datetime_ct": "2026-10-11 15:26 CT",
+  "external_number": "+12146959044",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 16,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 0,
+  "total_score": 72,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talk to a lot of clients everyday and most of them have one or two concerns, either they're worried that the movers won't show up on time or they're gonna get the damage... What about you, Angie? What are you most worried about?",
+    "two_layers_deep": "Amy acknowledged Angie's concerns about fitting items and damage but moved to inventory details ('if I were to compare remove, to let's say a like a one bedroom apartment') without deeper probing on the emotional weight of those concerns.",
+    "value_days": "No mention of alternative dates or Value Days pricing for Sunday November 1st. No flexibility discussion around day selection.",
+    "rate_lock_then_ask": "Amy never asked for the business. She said 'I'll just email you the quote, compare your options, look into reviews' and ended with 'if you have questions with our service you can call me back.' No rate lock, no no-deposit mention, no explicit close."
+  },
+  "top_strength": "Amy delivered both promises in full detail (On-Time Guarantee with specific dollar amounts and No Worries Damage Coverage with the $2,000 cap, no deductible language) with a permission lead-in and immediate closing loop, earning full trust early.",
+  "coaching_note": "You skipped the ask for the business entirely\u2014you gave the estimate and then sent her to shop around. Always ask 'Would you like our help with your move?' before offering to email the quote; if she books, confirm the details; if not, still honor the attempt by asking for a decision."
+}

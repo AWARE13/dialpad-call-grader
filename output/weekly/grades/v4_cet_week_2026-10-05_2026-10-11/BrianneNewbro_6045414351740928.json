@@ -1,0 +1,33 @@
+{
+  "call_id": "6045414351740928",
+  "rep_name": "Brianne Newbro",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 7.4,
+  "datetime_ct": "2026-10-09 16:08 CT",
+  "external_number": "+12547152404",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 0,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 33,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep never asked about on-time or damage concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised because the question was never asked.",
+    "value_days": "Not addressed. Rep said 'It looks like there's an 8:39 M. 9:00 M. arrival time. Does that still work for your schedule?' with no pricing or value-day discussion.",
+    "rate_lock_then_ask": "No rate lock or deposit language given. No explicit ask for the business. Rep said 'Well then, we will see you. Let's see on October 25th' \u2014 booking was confirmed but no actual ask was made, and no rate lock or no-deposit framing preceded it."
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details on inventory, addresses, unit number, property type, and special considerations (garage, safe, motorcycle) with a natural, conversational flow that kept Bobby engaged and talking.",
+  "coaching_note": "This call is missing the entire Step 2\u20137 spine: no two-concerns question to uncover what matters, no promises on reliability or damage, no estimate with pricing or anchoring, no final concerns check, and crucially no explicit ask for the business\u2014the rep confirmed a date but never asked if the customer wanted Einstein's help, which means no real close happened and no rate lock or deposit terms were positioned."
+}

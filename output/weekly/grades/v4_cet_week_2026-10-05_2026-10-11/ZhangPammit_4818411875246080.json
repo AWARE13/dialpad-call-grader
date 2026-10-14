@@ -1,0 +1,31 @@
+{
+  "call_id": "4818411875246080",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 11.3,
+  "datetime_ct": "2026-10-06 21:53 CT",
+  "external_number": "+12816507413",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Rep never asked the two-concerns question. Asked instead: 'Do you have any concerns or any important things that you wanted to answer during this call today?' \u2014 an open-ended version, not the structured two-concerns framing.",
+    "two_layers_deep": "Customer raised one concern (extra stop for washer/dryer), but rep acknowledged it and moved to logistics gathering without two layers of follow-up: 'Mm-hmm. Okay, no problem. Let me just go ahead end up put it here then give me one sec.'",
+    "value_days": "Rep never addressed value days or offered savings based on date flexibility. No mention of Best Value Day pricing branches.",
+    "rate_lock_then_ask": "Rep did not lock the rate before the ask. Said 'Would you like me to lock that in for you?' but this phrasing is ambiguous and comes without first establishing the rate lock guarantee and no-deposit promise. Customer did not actually book on the call \u2014 asked to call back to confirm. Order unclear and commitment weak."
+  },
+  "top_strength": "Rep gathered comprehensive logistics detail across all three locations (addresses, floor levels, parking distances, room counts, special items, boxes), delivering a fully personalized estimate with hour range and total dollar amount that addressed the customer's specific multi-stop move.",
+  "coaching_note": "Step 2 must start with the two-concerns question before any logistics probing; you asked open-ended instead and never went two layers deep on the extra stop concern. Step 5 needs prep framing and the temperature check ('How do you feel about that?') with silence held before the ask. Step 6 never asked for final concerns, and step 7's rate lock and no-deposit guarantee must come before the ask itself \u2014 customer will book the next time they call back only if they remember those commitments."
+}

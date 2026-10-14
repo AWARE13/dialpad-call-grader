@@ -1,0 +1,34 @@
+{
+  "call_id": "5866408681709568",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 16.4,
+  "datetime_ct": "2026-10-05 14:21 CT",
+  "external_number": "+12108871560",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 0,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 42,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing without the two-concerns opener.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer.",
+    "value_days": "Not addressed. Rep abandoned the call before reaching the estimate section.",
+    "rate_lock_then_ask": "Never asked. Rep did not ask for the business or mention rate lock or deposit policy. Instead offered to send email and accept callback: 'I'll just send everything to your email and then yeah, just give us a call anytime.'"
+  },
+  "top_strength": "Jeline gathered comprehensive logistics details across a complex multi-location move (primary residence, storage unit, partner's apartment, combined units) with clear follow-up and confirmation on square footage, floors, furniture, additional stops, and special items.",
+  "coaching_note": "The call never reached pricing or the Two Promises (step 3 should happen in the first few minutes while the customer is attentive) \u2014 Jeline pivoted directly from logistics to 'I need more time to give you the estimate,' losing the opportunity to deliver promises, frame value, and ask for the business while Sarah was still engaged."
+}

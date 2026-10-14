@@ -1,0 +1,31 @@
+{
+  "call_id": "4694808403943424",
+  "rep_name": "Amy Arbasa",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 9.7,
+  "datetime_ct": "2026-10-07 16:09 CT",
+  "external_number": "+15867419223",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 11,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 15,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "No Kelsey, sorry. Yeah Kelsey aside from the price, I would like to know what are you most worried about for this upcoming move or do you have any specific concern? \u2014 asked after probing had already begun (addresses, square footage, elevator already discussed)",
+    "two_layers_deep": "Rep acknowledges concern ('upholstered white linen bed frame') and provides packing solution but does not dig deeper with 'tell me more about that' or follow-up silence; customer mentions inventory details later but rep pivots to logistics rather than probing the concern itself",
+    "value_days": "Alright, so for your requested date, it falls on a Friday October 16th the hourly rate is $200 that is per hour with two movers. If you're flexible Kelsey we do have our best value days cheaper meaning to say, so that would be for Monday to Thursday... for reference, actually just $10 cheaper so $190 per hour from Monday to Thursday. \u2014 Savings given as total dollar difference ($10), flexibility asked, correct branch identified",
+    "rate_lock_then_ask": "if you're ready to book, we don't require any deposits, no rebooking, no cancellation fees. What do you think would you like us to hop out with this mo? \u2014 Rate lock and no deposits stated before the ask"
+  },
+  "top_strength": "Amy gathered comprehensive logistics details (elevator access, parking, walkway distance, building specifics) and delivered the estimate with clear anchors ($700 for 3.5 hours, $900 for 4.5 hours) personalized to the elevator factor, while handling Value Days correctly with a total dollar comparison.",
+  "coaching_note": "Step 2 and Step 3 were both skipped: Amy never asked the two-concerns question before probing started, and she never delivered the Two Promises (On-Time Guarantee and No Worries Damage Coverage) even though the customer named a specific damage concern about the bed frame \u2014 this was the perfect moment to build trust with both promises."
+}

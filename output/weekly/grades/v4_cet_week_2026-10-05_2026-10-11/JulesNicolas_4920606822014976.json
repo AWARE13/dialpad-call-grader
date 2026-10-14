@@ -1,0 +1,34 @@
+{
+  "call_id": "4920606822014976",
+  "rep_name": "Jules Nicolas",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 13.1,
+  "datetime_ct": "2026-10-08 14:59 CT",
+  "external_number": "+18135790538",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 8,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 52,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing after the opening quid pro quo.",
+    "two_layers_deep": "N/A \u2014 no concerns were elicited because the two-concerns question was never asked.",
+    "value_days": "Partial credit. Rep said: 'We do have cheaper rates available for Monday to Thursday and so the week of the twenty fifth.' Customer then offered Wednesday the 28th as a possible date. Rep confirmed availability but did not present the saving as a total dollar figure, did not contrast it against the customer's original preferred date (around the 25th), and did not explicitly ask about date flexibility beyond acknowledging the availability.",
+    "rate_lock_then_ask": "Weak. Rep mentioned no deposit: 'Yes sir, we do not really require any deposit nor do we need any credit card info upfront. You only pay after the move is completed and you're gonna pay directly to the movers.' But this came at the very end of the call after the estimate had been delivered, not as a lead-in to an explicit ask. There was no plain, unsoftened ask for the business. Customer initiated the next step by asking about payment, and rep responded. Rep never asked 'Would you like our help with your move?' or equivalent."
+  },
+  "top_strength": "Jules delivered a complete, transparent pricing structure early and clearly (hourly rate $190, $175 trip fee, 2.5-hour minimum, 15-minute increments, no hidden fees, drive time included), which directly addressed a customer concern about hourly billing and built confidence in the quote.",
+  "coaching_note": "Step 2 is missing entirely \u2014 Jules jumped straight from the quid pro quo into logistics probing without ever asking the two-concerns question ('most of them have one of two concerns: either movers not showing up on time, or damage to their items'), which means Two Promises (Step 3) was never delivered and the call lost the opportunity to anchor on reliability and damage protection before the estimate."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "4871013556068352",
+  "rep_name": "Joanna Ballon",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 10.7,
+  "datetime_ct": "2026-10-07 19:56 CT",
+  "external_number": "+13307768695",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NOT ASKED. Joanna asked 'aside from the pricing, do you have any other important concerns' but this is a different framing than the v4 two-concerns opener about movers showing up on time or damage.",
+    "two_layers_deep": "N/A \u2014 customer answered no concerns were raised, so no follow-up required.",
+    "value_days": "Joanna: 'The only difference it makes of course Sundays through Thursdays are our best value days so it's just a little bit lower compared to Friday, Saturday. But yeah, I'll explain that further to you later on.' She mentioned the value days and that Sunday-Thursday are cheaper, but did not ask about date flexibility or give a specific dollar saving amount.",
+    "rate_lock_then_ask": "Joanna: 'So if that's all good with you though I can definitely give you guys, I mean, put you guys on the schedule no deposit at this time. So would you like our help for this move on the thirty first?' Rate lock and no deposit mentioned first, then clear ask. Dale responded 'Sure. Absolutely. Yes. Yes, absolutely.'"
+  },
+  "top_strength": "Joanna delivered both the On-Time Guarantee and No Worries Damage Coverage fully and clearly mid-call, protecting against the customer's unstated concerns, and closed the call with a clean booking that included date, phone number, arrival window, and crew communication plan.",
+  "coaching_note": "Step 2 is the foundation: ask the v4 two-concerns question (movers showing up on time or damage to items) at the opening, and when the customer says no concerns, probe deeper with 'tell me more' rather than moving straight to logistics \u2014 the lack of stated concerns often signals they haven't thought it through yet, and two layers of listening here would uncover real worry points that let Step 3's promises land harder."
+}

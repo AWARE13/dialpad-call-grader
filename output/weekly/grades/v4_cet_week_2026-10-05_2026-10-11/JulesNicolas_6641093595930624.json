@@ -1,0 +1,36 @@
+{
+  "call_id": "6641093595930624",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 14.7,
+  "datetime_ct": "2026-10-07 20:20 CT",
+  "external_number": "+15129069053",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 76,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing without raising concerns framework.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer during step 2; step 2 framework was not deployed.",
+    "quid_pro_quo": "Rep says 'I wanna make sure for packing. You. Do you need us to box anything up...' with no time-boxed framing or commitment promise. No quid pro quo structure at all.",
+    "promises_delivered": "Rep never asked permission to share how Einstein works on reliability or damage protection. The two promises (On-Time Guarantee and No Worries Damage Coverage) were never mentioned.",
+    "pricing_framing": "Rep states '$101 per hour per mover, that hour rate includes the gas, the truck taxes and insurance' with transparency on packing materials ($450-550) and trip charge ($150), but does NOT deliver the pricing contrast (how competitors charge vs. Einstein's all-inclusive model), Cameron's no-notes line, or the not-a-guess commitment in recognizable form. Rep does say 'Don't worry' and 'I will send everything' but not with the specific framing language.",
+    "value_days": "Not addressed. No mention of day-of-week pricing tiers or flexibility savings.",
+    "rate_lock_then_ask": "Not applicable \u2014 call routes to walkthrough instead of closing.",
+    "final_concerns_check": "Not asked. Call ends with customer agreeing to look at quote and get back within 24 hours; no genuine 'what's still concerning you' check."
+  },
+  "top_strength": "Jules executed a thorough logistics probing using the Zillow property images as a concrete anchor, gathering detailed information on all special items (juke box, foosball table, shuffle board, outdoor furniture, beds, washer/dryer, garage contents) and accurately scoped the move as a two-day pack-and-move operation.",
+  "coaching_note": "This call should have deployed the Two Concerns framework in step 2 before diving into logistics, delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with permission in step 3, and explained the pricing contrast and Cameron's no-notes line in step 5 before routing to the walkthrough \u2014 all critical behaviors that still apply to walkthrough calls under v4."
+}

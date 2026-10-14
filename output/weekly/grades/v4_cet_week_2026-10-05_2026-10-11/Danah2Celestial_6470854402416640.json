@@ -1,0 +1,34 @@
+{
+  "call_id": "6470854402416640",
+  "rep_name": "Danah 2Celestial",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 6.1,
+  "datetime_ct": "2026-10-11 15:03 CT",
+  "external_number": "+12104102199",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 46,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Rep did not ask the two-concerns question at all; jumped directly into logistics probing.",
+    "two_layers_deep": "No concerns were raised by the customer, so this is N/A.",
+    "value_days": "Rep identified Monday as a best value day and provided the hourly rate ($192 for two guys), personalizing the estimate to a 2.5-hour minimum ($480 total) based on the partial move inventory. Correct branch used, total dollar figure given, and flexibility was not explicitly asked.",
+    "rate_lock_then_ask": "Rep mentioned 'we do not require a deposit to book' and offered to 'go ahead and cancel you in for tomorrow' but did not frame this as a rate lock (no mention of price protection or locking in the rate). The ask was softened with 'if you want' and the customer deferred. No hard close."
+  },
+  "top_strength": "Danah accurately gathered the partial move inventory item-by-item with good clarifying questions, and then anchored the estimate with a clear comparison (full move vs. partial move) that personalized the $480 quote to the customer's actual scope.",
+  "coaching_note": "Lead with the two-concerns question before any probing (on-time arrival and damage protection), then deliver both promises with permission; this builds trust early and makes the estimate land stronger. The rate lock and the ask need to come as a clear close, not a soft option."
+}

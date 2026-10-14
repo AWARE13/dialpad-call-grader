@@ -1,0 +1,31 @@
+{
+  "call_id": "6009613871521792",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 21.6,
+  "datetime_ct": "2026-10-10 14:10 CT",
+  "external_number": "+18322797006",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Rep never asked the two-concerns question; jumped directly into logistics probing.",
+    "two_layers_deep": "Rep acknowledged customer's concern about the china cabinet breaking ('I just need it carefully delivered over there') but did not probe deeper or reflect back.",
+    "value_days": "Rep offered one time slot (8:30\u20139:00 AM Monday) and one alternative (12:30\u20131:00 PM Monday) but never framed these as value days, pricing differences, or asked about date flexibility.",
+    "rate_lock_then_ask": "Rep stated 'there's no deposit record, no recent securing your spot' and then asked 'would you like our help with your upcoming move?' without explicitly stating rate lock, though the phrasing implies it."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details (two addresses, floor levels, access concerns, item descriptions, destination type) and delivered a clear, itemized estimate ($934 for 3.5\u20134.5 hours with two movers) that matched the actual move scope.",
+  "coaching_note": "Step 2 is missing entirely\u2014rep never asked the two-concerns question before probing, and the customer's stated concern about damage to the china cabinet was acknowledged but never explored two layers deep; add the opening question and real follow-up silence."
+}

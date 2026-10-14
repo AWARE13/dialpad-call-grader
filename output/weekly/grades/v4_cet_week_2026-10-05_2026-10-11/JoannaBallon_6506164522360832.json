@@ -1,0 +1,34 @@
+{
+  "call_id": "6506164522360832",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 6.6,
+  "datetime_ct": "2026-10-07 15:27 CT",
+  "external_number": "+15125682734",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NOT ASKED. Rep asked only 'Aside from the pricing, do you have any other important concerns that you also want to discuss on this call?' \u2014 this is open-ended, not the two-concerns framing.",
+    "two_layers_deep": "N/A \u2014 customer said 'No, just the price,' so no concerns were raised to probe.",
+    "value_days": "NOT ASKED. Rep quoted Saturday at $206/hour. No mention of whether Saturday is a Value Day, no savings offered, no date flexibility check.",
+    "rate_lock_then_ask": "Joanna asked 'So would you like our help for this move on that day?' with no rate lock or no-deposit statement beforehand. Customer deflected to email, and Joanna did not push back or reattempt the ask."
+  },
+  "top_strength": "Joanna gathered logistics details systematically (stairs, floor numbers, item list, box count, walking distance) and delivered a clear, all-inclusive pricing explanation with the No Worries damage coverage and on-time guarantee embedded in the rate.",
+  "coaching_note": "The two-concerns question was skipped entirely \u2014 Joanna asked open-ended instead of the primary v4 opener, and when the customer said 'just price,' she moved straight to probing without the step 3 promises framing that directly addresses reliability and damage concerns; also, the ask came without rate lock/no deposit language first, and was too soft when the customer requested an email quote."
+}

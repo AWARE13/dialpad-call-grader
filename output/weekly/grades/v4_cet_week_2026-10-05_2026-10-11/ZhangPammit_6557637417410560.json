@@ -1,0 +1,31 @@
+{
+  "call_id": "6557637417410560",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 9.1,
+  "datetime_ct": "2026-10-06 15:07 CT",
+  "external_number": "+13852898600",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 62,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep says 'I'm calling from bank. We have saw your code request online' and addresses customer as 'Ju Park' multiple times throughout.",
+    "quid_pro_quo": "Rep says 'this should take about five to ten minutes of your time so we can be able to give you an accurate code, is that okay?' \u2014 frames time and promise of accurate code, but does not wait for explicit yes before continuing; moves straight into 'Let me just go ahead and check the details then.'",
+    "two_concerns_question": "Never asked. Rep opens with generic 'Do we have any concerns or any important things that you wanted to answer during this call today?' which is not the two-concerns question and receives a non-answer ('I'm just trying to get an estimate').",
+    "concern_led_opening_and_logistics": "Rep does not ask 'What items in this move are you most concerned about?' Instead jumps directly into logistics checklist. Does gather: first location (1-story, 2000 sqft, 4 bedrooms, garage), distance to door (20 ft), access concerns (no), second location (2-story, 2800 sqft, 3 bedrooms + flex room), driveway access, access concerns. Packing and box count both covered (115-135 boxes for origin home).",
+    "promises_delivered": "Rep delivers On-Time Guarantee ('if you cannot make it to the time window that we arrange, we immediately start discounting money of your final bill') and No Worries Damage Coverage ('up to $2,000 per move... repair, replace and members for your items') but with no permission lead-in asking 'can I share how we work...' Also mentions Meet Your Mover feature and that there are 'no hidden fees of any type' but does not fully articulate both promises in recognizable form with all terms clear. No explicit close-the-loop question.",
+    "value_days": "Rep addresses availability but only to say 'on the twenty second itself we no longer have availability... the rate for Friday and Saturday is our standard rate. Which is $103 per hour per mover.' Does not identify which Value Days branch applies, does not offer a total dollar savings, and does not ask about date flexibility as the next step. Mentions no deposit required but does not frame it as a value proposition within value days logic."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details and both packing/box-count information efficiently, and correctly identified this as a walkthrough-scheduler move (2800 sq ft destination), routing the call appropriately to a scheduled virtual walkthrough rather than forcing a quote.",
+  "coaching_note": "Lead with the two-concerns question before any logistics probing ('most of them have one of two concerns: either the movers not showing up on time, or damage to their items. Are either of those a concern for you?'), then deliver both promises with a permission lead-in and a close-the-loop ask before pivoting to the walkthrough scheduling."
+}

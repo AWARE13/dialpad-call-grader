@@ -1,0 +1,33 @@
+{
+  "call_id": "4621814501515264",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 5.4,
+  "datetime_ct": "2026-10-05 14:46 CT",
+  "external_number": "+19567012141",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 53,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep asked 'do you have any other important concerns about this move' but this is not the two-concern framing about movers not showing up or damage.",
+    "two_layers_deep": "N/A \u2014 customer raised no concerns and said 'Nope' when asked about other concerns.",
+    "value_days": "Not addressed. Rep quoted $96/hour Wednesday rate ($192 for two movers) but never compared to other days or offered savings.",
+    "rate_lock_then_ask": "Joanna: 'Okay, now would that be, so would you like your help for this move on Wednesday we still have availability in the morning?' Customer accepted. Rate lock and no deposit not explicitly mentioned before the ask."
+  },
+  "top_strength": "Joanna smoothly handled a repeat customer scenario, recognized the prior move in the system, and delivered both the On-Time Guarantee and No Worries Damage Coverage promises during the estimate phase.",
+  "coaching_note": "Lead with the structured two-concerns question ('movers showing up on time or damage to items') before any logistics probing, and explicitly mention rate lock and no deposit before asking for the business, even when the customer seems ready to book."
+}

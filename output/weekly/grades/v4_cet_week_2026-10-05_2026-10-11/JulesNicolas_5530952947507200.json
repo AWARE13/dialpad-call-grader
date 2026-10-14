@@ -1,0 +1,33 @@
+{
+  "call_id": "5530952947507200",
+  "rep_name": "Jules Nicolas",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 8.1,
+  "datetime_ct": "2026-10-08 14:12 CT",
+  "external_number": "+12145074804",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 35,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly from availability check to probing.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer.",
+    "value_days": "Not addressed. Rep gave a single estimate range (4-6 hours, $808-$1,012) with no discussion of day-of-week pricing or date flexibility.",
+    "rate_lock_then_ask": "Never asked for the business. Rep said 'We're gonna see her on the twenty sixth' but never asked 'Would you like our help with your move?' or obtained an explicit commitment. The booking was made under the mother's name as a scheduling call, not as a sales close."
+  },
+  "top_strength": "Jules efficiently gathered logistics details (current and destination addresses, floor level, freight elevator, room count, rough inventory) and clearly explained the pricing structure including what is and isn't included in the hourly rate.",
+  "coaching_note": "This was a scheduling call, not a sales call \u2014 Jules never asked the two-concerns question, never delivered the two promises (On-Time Guarantee and No Worries Damage Coverage), never asked for the business, and never held a temperature check on the estimate. Treat this as a hand-off: when a third party is involved, still run the full card through before transfer, not just the logistics."
+}

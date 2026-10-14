@@ -1,0 +1,33 @@
+{
+  "call_id": "5097681941995520",
+  "rep_name": "Danah 2Celestial",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 7.7,
+  "datetime_ct": "2026-10-05 22:00 CT",
+  "external_number": "+15129065260",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 53,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing with 'what is your last name' after the quid pro quo.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during step 2.",
+    "value_days": "Rep mentioned 'We have our cheap rates during Mondays through Thursdays. So the hourly rate for two movers is $208 while Friday and Saturday is $222 an hour.' This identifies the value day concept but does not offer a specific dollar savings amount or ask about date flexibility given the customer's 9-13 November window.",
+    "rate_lock_then_ask": "Rep said 'We don't require a deposit to book to. So in case you need to reschedule or maybe cancel, we can do that with additional fees. Would you like our help with your move?' This mentions no deposit (partial rate-lock concept) but the phrasing is muddled ('with additional fees' contradicts 'no deposit'), and the ask comes immediately after without clear framing. Customer declined to book on call."
+  },
+  "top_strength": "Strong quid pro quo framing upfront (10-15 minutes, dependable quote) that set expectations and got a clear yes before probing began.",
+  "coaching_note": "Ask the two-concerns question before any logistics probing \u2014 James never told you what he was worried about, so you missed the chance to address his real fears and build trust before pricing."
+}

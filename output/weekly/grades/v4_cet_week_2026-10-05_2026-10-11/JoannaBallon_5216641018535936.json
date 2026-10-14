@@ -1,0 +1,33 @@
+{
+  "call_id": "5216641018535936",
+  "rep_name": "Joanna Ballon",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 6.6,
+  "datetime_ct": "2026-10-06 15:39 CT",
+  "external_number": "+15126955556",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 54,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly from availability confirmation to logistics without probing concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer in step 2.",
+    "value_days": "Not addressed. Rep quoted Friday pricing at $550\u2013660 without mentioning whether Friday is a premium day or if other days were cheaper.",
+    "rate_lock_then_ask": "Would you like or help for this move on Friday? Okay. Right now we don't have anything in the morning anymore so, we can be there between 1:00 PM and 3:00 PM in the afternoon. (Rate lock and no-deposit language absent; ask present but no preceding rate-lock framing.)"
+  },
+  "top_strength": "Joanna gathered logistics thoroughly (addresses, unit details, furniture inventory, parking access, disassembly needs) and delivered both the On-Time Guarantee and No Worries Damage Coverage, securing the booking with full confirmation details including payment method and crew communication protocol.",
+  "coaching_note": "Open with the two-concerns question (on-time arrival or damage) before diving into logistics, and use it to frame why the promises matter; this is the primary step 2 behavior and was skipped entirely here."
+}

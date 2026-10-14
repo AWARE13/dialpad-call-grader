@@ -1,0 +1,40 @@
+{
+  "call_id": "4617228453715968",
+  "rep_name": "Amy Arbasa",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 9.5,
+  "datetime_ct": "2026-10-06 18:12 CT",
+  "external_number": "+18134934110",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Amy asks 'What is your name?' (indirectly via 'I'm calling this number for Scott Mendelson') and Scott identifies himself as the assistant. Amy never uses the customer's name again in the call.",
+    "quid_pro_quo": "Amy says 'No need to take notes. I'll send everything via email once we get off the phone this will probably take around five to ten minutes, okay?' This frames the time and outcome but lacks the explicit 'dependable quote' language and doesn't wait for a clear yes before diving into logistics.",
+    "two_concerns_question": "Never asked. Amy jumps directly into logistics probing (move date, address, square footage) without asking about concerns first. She later asks 'what is cat most worried about for this upcoming' but this is not the structured two-concerns question from the card.",
+    "two_layers_deep": "Not applicable; no concerns were surfaced via the card's two-concerns question.",
+    "active_listening_reflection": "Not applicable; no concerns were formally raised.",
+    "promises_delivered": "On-Time Guarantee and No Worries Damage Coverage are never mentioned. Amy does not deliver either promise.",
+    "closes_the_loop": "No version of 'Does that put those to rest?' or 'How do you feel about that?' asked.",
+    "concern_led_opening_and_logistics": "Amy gathers: move date (Oct 15, Thursday), addresses (345 Bay Shore to 90 Columbia, Tampa), property type (3-bed condo 10th floor with elevator to 3-story townhome with elevator), square footage (1698/1700), special item (electric upright piano, weight unknown), service type (packing and move, two-day job). She probes on piano weight and asks for photos. She identifies elevator access at both ends and confirms no washer/dryer move needed. Logistics are substantially covered, though she did not ask the formal 'What items are you most concerned about?' opening.",
+    "packing_and_box_count": "Amy asks about packing services ('would you like us to pack?') indirectly by mentioning 'if you could separate the two' estimates (packing vs. moving). However, she never explicitly asks the packing question from the card. She mentions packing materials cost ($340 estimated for a house this size) but never asks a box count question or gives the 'typical box count' anchor.",
+    "value_days": "Amy does mention pricing: '$95 per hour per mover Monday to Thursday is the cheapest rate, all inclusive.' She correctly identifies the day (Thursday Oct 15) as a lower-cost option compared to other days, but does not ask about date flexibility or present the saving as a dollar total. The pricing is mentioned but not framed as a Value Days choice with explicit flexibility.",
+    "rate_lock_then_ask": "No rate lock mentioned ('your price is locked in'), no 'no deposit' mentioned, and no explicit ask for the business ('Would you like our help with your move?'). Amy ends by saying she'll send pricing info and waiting to hear about the virtual walkthrough.",
+    "booking_confirmed": "No booking occurs on this call. Amy routes the customer to a virtual walkthrough and asks them to either schedule it with her or upload videos/photos to a link. No date/time is confirmed for the walkthrough, no final details locked in."
+  },
+  "top_strength": "Amy identified the move size (1698 sq ft) quickly and correctly routed to a virtual walkthrough instead of forcing a premature estimate, which is the right decision for a large condo move.",
+  "coaching_note": "Ask the two-concerns question before diving into logistics \u2014 it should have come in the first minute to set the customer's priorities, and then probing would have followed naturally from there rather than starting cold."
+}

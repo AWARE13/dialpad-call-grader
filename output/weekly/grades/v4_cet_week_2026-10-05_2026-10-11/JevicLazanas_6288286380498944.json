@@ -1,0 +1,35 @@
+{
+  "call_id": "6288286380498944",
+  "rep_name": "Jevic Lazanas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 7.6,
+  "datetime_ct": "2026-10-09 20:52 CT",
+  "external_number": "+19728329404",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 64,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked": "And Ari, so what date are you available for the walkthrough?",
+    "name_used": "No worries rod. So, yeah, well your specialist is available tomorrow",
+    "quid_pro_quo_attempt": "it will just like, you know, last for ten to fifteen minutes, okay, so we will send you the link where you can, you know, join the virtual walk through the conference call",
+    "quid_pro_quo_issue": "No confirmation of customer agreement before proceeding; rep states the facts but does not wait for explicit yes",
+    "two_concerns_never_asked": "Rep never asks about concerns; conversation goes straight to scheduling logistics",
+    "promises_never_delivered": "No mention of On-Time Guarantee or No Worries Damage Coverage",
+    "probing_minimal": "Only date and move date discussed; no details about items, property type, addresses, or concerns gathered"
+  },
+  "top_strength": "Jevic successfully obtained the customer's name (Rod) and used it multiple times throughout the call, and confirmed the walkthrough appointment with date and time before ending the call.",
+  "coaching_note": "This call routed correctly to the walkthrough scheduler, but before scheduling, Jevic must still ask the Two-Concerns question and deliver both promises (On-Time Guarantee and No Worries Damage Coverage) per the v4 card \u2014 these now come before probing on all calls, including walkthrough routes, and before confirming next steps."
+}

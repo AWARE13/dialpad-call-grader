@@ -1,0 +1,33 @@
+{
+  "call_id": "6679681215275008",
+  "rep_name": "Joanna Ballon",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 11.1,
+  "datetime_ct": "2026-10-10 20:26 CT",
+  "external_number": "+14139232335",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 38,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. No version of the two-concern opener appears in the transcript.",
+    "two_layers_deep": "Not applicable\u2014no customer concerns were surfaced via structured probing.",
+    "value_days": "Not addressed. No mention of day-of-week pricing options or flexibility discussion.",
+    "rate_lock_then_ask": "Rep states 'We don't take deposits no worries and securing a spot' but then contradicts this by later saying 'for us to reserve you a spot, we need a $200 deposit for this job.' No explicit ask for the business; call ends with customer saying 'Okay, thank you' after being told she must pay a deposit or the move cannot be held."
+  },
+  "top_strength": "Joanna persisted through a difficult customer situation\u2014a repeat caller with past service issues and urgent same-day requests\u2014and remained calm and professional throughout multiple objections and redirects.",
+  "coaching_note": "This call skipped nearly all core steps of the rubric: no two-concerns opener, no probing for details beyond zip codes, no promises delivered, no value-days discussion, no final concerns check, and a contradictory deposit message that undercut the ask. Start every call with the two-concerns question and permission lead-in for the promises, even when the customer is demanding speed."
+}

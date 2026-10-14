@@ -1,0 +1,37 @@
+{
+  "call_id": "5467996807274496",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 6.0,
+  "datetime_ct": "2026-10-06 14:04 CT",
+  "external_number": "+14696008221",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 65,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked": "Oh, yeah of course sorry. My name is jewels.",
+    "name_used": "Never used again after being provided at the very end of the call.",
+    "quid_pro_quo": "No quid pro quo framing present. Rep jumped directly into logistics details.",
+    "two_concerns_question": "Not asked. No version of the two-concerns opener (on-time reliability, damage protection) was delivered.",
+    "promises_delivered": "Rep mentioned wrapping furniture in moving blankets and front wrap for protection, but never delivered the formal On-Time Guarantee or No Worries Damage Coverage promises with their specific terms.",
+    "concern_led_opening": "Not asked. Rep moved directly into logistics: 'Well, let me see this is the move starting in 3033 Galveston Street. Three, and you're currently in a 1900 square foot town hall with two stories.'",
+    "logistics_gathered": "Address, property type (townhome), square footage (1900), stories (2), bedrooms (3), scope (entire home with boxes and furniture) confirmed. No special items, walking distances, additional rooms, or additional stops discussed.",
+    "packing_and_box_count": "Neither asked. No packing question and no box count question.",
+    "walkthrough_routing": "Clean routing to virtual walkthrough. Rep identified 1900 sq ft triggering walkthrough protocol, offered video call option, and customer declined immediate availability but agreed to send videos tonight. Rep secured phone number, confirmed follow-up process, and set callback for tomorrow after videos are received."
+  },
+  "top_strength": "Clean walkthrough routing and follow-up process: Jules correctly identified the 1900 sq ft home as requiring a virtual walkthrough instead of a phone estimate, offered a video call, and when the customer couldn't do it immediately, pivoted to accepting uploaded videos tonight with a callback tomorrow\u2014keeping the path to the estimate clear and on track.",
+  "coaching_note": "Before routing to walkthrough, deliver the Two Promises step (On-Time Guarantee and No Worries Damage Coverage with specific terms) and ask the two-concerns question to surface what matters to this customer\u2014this positions you to address their real worries when you follow up tomorrow, not just collect videos."
+}

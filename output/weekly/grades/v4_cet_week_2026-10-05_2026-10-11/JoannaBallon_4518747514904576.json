@@ -1,0 +1,30 @@
+{
+  "call_id": "4518747514904576",
+  "rep_name": "Joanna Ballon",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 9.5,
+  "datetime_ct": "2026-10-08 17:21 CT",
+  "external_number": "+16367344675",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 64,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "name_asked_and_used": "Joanna: 'Am I speaking with brandy?' Customer: 'Yes speaking.' Joanna later: 'That's good and typically for a home this size usually once everything's all packed good to go we might end up with about $100 to a 130 boxes in total. Do you think you would fall within that range?' and continues using Brandy's name throughout.",
+    "two_concerns_question": "Not asked. Joanna asks: 'do you have any important concerns or instructions for this move that you also want to discuss on this call?' but this is open-ended and not the two-concerns framing (movers showing up on time, or damage to items).",
+    "promises_delivered": "Partial. Joanna mentions 'no worries damage coverage...up to $2,000 coverage for any accidental damages' and 'on time guarantee if we run late we provide discounts for your move' but does not frame them with permission lead-in ('Before we get into the estimating, can I share how we work...?'), does not specify the On-Time Guarantee terms clearly ($50 off first hour, $25 every half hour), and delivers them late in the call during pricing discussion rather than early as step 3 promises.",
+    "value_days": "Saturday the 24th at $109/hour vs. Sunday the 25th at $103/hour. Joanna states: '$6 per hour difference' but this is expressed hourly, not as a total dollar amount as required. Later she says 'we can actually save like at least, you know, $200 at least just the savings of about $150 to $200' giving a total range, and asks flexibility: 'if we're going to do it on a Saturday versus a Sunday job, okay?' Partial credit: total dollar savings mentioned but also confused with hourly language.",
+    "rate_lock_then_ask": "Not applicable \u2014 walkthrough_scheduler call. Step 7 is auto-credited."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details with clear structure, systematically probing rooms, furniture specifics, parking, travel distance, and box count before introducing the walkthrough, ensuring the virtual tour would be well-informed.",
+  "coaching_note": "Ask the two-concerns question (movers showing up on time, or damage to items) early in step 2 before logistics probing starts, and deliver the Two Promises (On-Time Guarantee with specific terms and No Worries Damage Coverage) in step 3 with a permission lead-in ('Before we get into the estimating, can I share how we work...?') rather than burying them in the pricing discussion."
+}

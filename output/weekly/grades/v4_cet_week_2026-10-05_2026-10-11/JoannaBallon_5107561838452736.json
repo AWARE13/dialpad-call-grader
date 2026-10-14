@@ -1,0 +1,34 @@
+{
+  "call_id": "5107561838452736",
+  "rep_name": "Joanna Ballon",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 8.3,
+  "datetime_ct": "2026-10-11 21:37 CT",
+  "external_number": "+17134272224",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 63,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Right now, you're looking at doing it on Tuesday the thirteenth. Is that correct? [pause] Perfect, thank you and of course do you have any important concerns about this move that you also want to discuss on this call maybe, movers not arriving on time damages to your items, or anything like that.",
+    "two_layers_deep": "N/A \u2014 customer answered no to concerns question.",
+    "value_days": "Rep stated: 'Yeah, actually both days are available and we only have the same rates for both days. So whichever works best for you.' No savings offered, no flexibility discussion, no Value Days framing applied.",
+    "rate_lock_then_ask": "Rep never asked for the business. Call ended with: 'Alright, thanks Sarah. I'll send that in the email too. Bye-bye.' Customer initiated close by saying 'Nope, that's it. Thank you so much.'"
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details with strong active listening (multiple clarifying questions on bedroom contents, office furniture, boxes, parking) and accurately assessed the scope as 3.5 to 5.5 hours for two-bedroom equivalent.",
+  "coaching_note": "You did not ask for the business or attempt to close the sale \u2014 the call ended with the customer saying they'd shop competitors, and you offered to email the quote without repositioning the value, rate lock, or asking for commitment."
+}

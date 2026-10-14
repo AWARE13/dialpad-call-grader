@@ -1,0 +1,33 @@
+{
+  "call_id": "6594738062139392",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 6.5,
+  "datetime_ct": "2026-10-05 15:36 CT",
+  "external_number": "+12108598961",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 39,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep never asked about the customer's concerns regarding movers showing up on time or damage to items.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer at step 2 because the question was never asked.",
+    "value_days": "Joanna said: 'So these are best validate Sunday to Thursday which is $96 per hour per mover.' She correctly identified the day as a Best Value Day (Monday/Tuesday) and quoted the Best Value rate. However, she did not offer to show the customer flexibility or savings on alternative days, which would be the full behavior.",
+    "rate_lock_then_ask": "Never asked for the business. Rep gave pricing but when the customer said 'I'm on my way to an appointment' and wanted to tell their father, Joanna simply said 'Alright, thanks Julie' with no attempt to close or secure commitment."
+  },
+  "top_strength": "Joanna gathered solid logistics details early (two-bedroom home, four-mile move, dates in November, packing on day one and move on day two) and explained the two-day packing structure clearly, which addresses a real operational concern for this move.",
+  "coaching_note": "Never ask for the customer's name without using it again in the call \u2014 you asked 'What is your name?' but then never said 'Julie' again. More critically, this call skipped the two-concerns question entirely (the primary step 2 opener), the Two Promises that answer those concerns, and any attempt to close the sale when the customer said they had to go \u2014 you need to ask for the business, lock the rate, and confirm details before saying goodbye."
+}

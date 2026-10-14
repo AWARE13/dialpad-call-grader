@@ -1,0 +1,33 @@
+{
+  "call_id": "6427021013196800",
+  "rep_name": "Brianne Newbro",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 14.9,
+  "datetime_ct": "2026-10-08 15:48 CT",
+  "external_number": "+19728327281",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 0,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "value_days"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly to logistics probing after 'Besides pricing today, do you have any questions or concerns you'd like answered on this call?' but never asked the two-concerns setup about movers showing up on time or damage.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer at step 2.",
+    "value_days": "N/A \u2014 customer booked October 24th, which is a Saturday. Rep did not discuss whether a cheaper day existed or ask about date flexibility.",
+    "rate_lock_then_ask": "Never asked. Rep said 'I have got you on the schedule for that Saturday October 24th 1230 to 230. Arrival time. I can go ahead and send everything over via email' but never mentioned rate lock, no deposit, or asked 'Would you like our help with your move?' The booking was confirmed without an explicit ask for the business."
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details across three stops, clarified confusion around addresses and drop-off locations, and ended up with a complete picture of what was being moved where \u2014 excellent detail capture for a complex two-stop move.",
+  "coaching_note": "You skipped the Two Concerns setup entirely and jumped straight into logistics probing, then never delivered the On-Time Guarantee or No Worries Damage Coverage promises; these are foundation behaviors that build trust before pricing, and both are missing here."
+}

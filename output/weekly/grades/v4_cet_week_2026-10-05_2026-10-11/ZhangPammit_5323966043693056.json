@@ -1,0 +1,32 @@
+{
+  "call_id": "5323966043693056",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 12.7,
+  "datetime_ct": "2026-10-06 14:28 CT",
+  "external_number": "+19732206081",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 28,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep opened with 'before I proceed, I just wanted to check if you have concerns or any important things' but this is a generic check-in, not the two-concerns template about movers showing up on time or damage.",
+    "two_layers_deep": "Customer raised transparency/pricing concern upfront. Rep acknowledged but moved immediately to logistics gathering without probing deeper ('tell me more about that'). No real second layer.",
+    "value_days": "Never addressed. Rep gave a flat estimate of $3,415 for 8.5 hours with no mention of day-of-week pricing or date flexibility.",
+    "rate_lock_then_ask": "Rep never asked for the business. After the customer expressed price objection ('this goes a little bit very high'), rep asked 'Do you still want me to send you the email quotation' and the call drifted to a soft close. No ask like 'Would you like our help with your move?' No rate lock or no-deposit language either."
+  },
+  "top_strength": "Rep gathered detailed logistics systematically (addresses, floor levels, walking distances, specific furniture items, box count estimate) and disclosed the all-inclusive pricing model and no-hidden-fees commitment clearly, which addressed the customer's stated transparency concern.",
+  "coaching_note": "Step 2 is missing entirely \u2014 the two-concerns question (movers on time vs. damage) never landed, so you didn't anchor to what the customer actually worries about before jumping into probing; and you never asked for the business in step 7, so even though you built a quote, there was no close and no chance to lock the rate or confirm a booking."
+}

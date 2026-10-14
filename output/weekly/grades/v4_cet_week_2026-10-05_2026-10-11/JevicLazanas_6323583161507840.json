@@ -1,0 +1,32 @@
+{
+  "call_id": "6323583161507840",
+  "rep_name": "Jevic Lazanas",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 10.6,
+  "datetime_ct": "2026-10-10 14:19 CT",
+  "external_number": "+18326595842",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 14,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 66,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people everyday and most of them have one or two concerns for move for moving. So, either the mover is not showing up on time or damage to the items are either of those a concern for you.",
+    "two_layers_deep": "Customer said his concern was disassembly/reassembly for bed frame. Rep confirmed it was included but did not ask follow-up like 'tell me more about that' or dig deeper into the concern.",
+    "value_days": "Rep offered Sunday at $210/hour vs Monday at $208/hour ($2 difference), but presented this as hourly rate comparison, not total dollar savings. Later offered Sunday afternoon slot at 1:30 PM without asking about date flexibility or framing it as a value option.",
+    "rate_lock_then_ask": "Rep asked 'would you like me to go ahead and get you on the schedule today for tomorrow?' but never stated rate lock or no deposit before the ask. Customer declined to book, preferring to call back after checking another option."
+  },
+  "top_strength": "Jevic delivered both Two Promises (On-Time Guarantee and No Worries Damage Coverage) with full clarity and specific terms, then confirmed they put the customer's concerns to rest.",
+  "coaching_note": "Step 6 must happen every call: ask a genuine 'What's still concerning you about this move?' before closing. Jevic jumped straight to 'anything else I can help with?' and missed the final bookend moment to surface objections."
+}

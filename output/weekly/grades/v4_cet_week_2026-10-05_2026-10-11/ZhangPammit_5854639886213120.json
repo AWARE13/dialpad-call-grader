@@ -1,0 +1,35 @@
+{
+  "call_id": "5854639886213120",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 6.8,
+  "datetime_ct": "2026-10-07 21:17 CT",
+  "external_number": "+17187574687",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 36,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "So next step is to you to, to get an estimate. I have some questions about your move specifically and this would take about five to ten minutes of your time. So I can, you can walk away with a code you can depend on sounds good. [Rep did not wait for explicit yes before moving forward; rushed past confirmation]",
+    "name_asked_and_used": "Can I have your name, please? / Sure Suzy. [Name collected but never used again in the call; rep addressed customer as 'you' throughout]",
+    "pricing_framing": "So we charge an early weight if that would be a Sunday. We charge an or weight of 105 dollars per hour per mover and we provide 26 foot box truck with everything needed. Everything is already included on the early weight that is the gas trucks, taxes and insurance. [Only fee transparency mentioned; no pricing contrast vs. competitors, no Cameron's no-notes line, no not-a-guess commitment; partial at best]",
+    "estimate_anchor": "Or if you're just looking for the minimum, we have a minimum of two and a half hours and for two movers that would be $675. [Range given but not personalized to this customer's specific move details or concerns; customer rejected as too expensive]",
+    "two_concerns_question": "[Not asked at any point in call; rep jumped directly to logistics questions about timing and pod details]",
+    "no_promises": "[On-Time Guarantee and No Worries Damage Coverage never mentioned; rep only discussed hourly rate, truck inclusion, and trip fees]"
+  },
+  "top_strength": "Rep quickly confirmed availability and gathered essential logistics (address, property type, pod size, date) efficiently despite customer interruption.",
+  "coaching_note": "This call failed to execute the Einstein v4 card: no two-concerns question asked, no promises delivered, no genuine quid pro quo wait, customer name collected but never used, no value days discussion, no final concerns check, and no ask for business. The entire consultative layer is missing. Focus on asking the two-concerns question before any logistics probing, and delivering the On-Time Guarantee and No Worries Damage Coverage to build trust before pricing."
+}

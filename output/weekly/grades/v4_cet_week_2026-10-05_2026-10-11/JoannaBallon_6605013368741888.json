@@ -1,0 +1,33 @@
+{
+  "call_id": "6605013368741888",
+  "rep_name": "Joanna Ballon",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 8.7,
+  "datetime_ct": "2026-10-05 15:05 CT",
+  "external_number": "+17138176518",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 16,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 7,
+  "total_score": 75,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "value_days"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep asked instead: 'aside from the pricing, do you have any other important concerns that you also want to discuss on this call?' \u2014 this is an open-ended equivalent but does not follow the v4 two-concerns structure about on-time/damage.",
+    "two_layers_deep": "N/A \u2014 no concern was raised, customer answered 'Nope' to the open-ended question.",
+    "value_days": "N/A \u2014 the move is Thursday the 22nd, which Joanna states is 'one of our lowest hourly rates for the week' at $104/hr, indicating it is already a Best Value Day with no cheaper alternative to offer.",
+    "rate_lock_then_ask": "Rate lock and no deposit mentioned after the ask: 'would you like our help for this move?' / 'Would you like to go ahead and get on the schedule for the twenty second?' followed by 'we don't take deposits at this time. The payment is only upon completion of the move' \u2014 order is reversed from the rubric sequence."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details systematically (bedrooms, furniture types, oversized items, fragile items, parking, walking distance, boxes) and covered the full detail checklist without gaps, making the estimate highly personalized and accurate.",
+  "coaching_note": "Step 2 must open with the v4 two-concerns question about on-time arrival and damage protection before any probing starts \u2014 the open-ended alternative you used skips the customer's actual pain points and misses the opportunity to deliver the Two Promises that directly answer them."
+}

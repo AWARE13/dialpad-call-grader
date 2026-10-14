@@ -1,0 +1,31 @@
+{
+  "call_id": "6519748564393984",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 9.4,
+  "datetime_ct": "2026-10-07 14:05 CT",
+  "external_number": "+12108456722",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 10,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep asked only 'do you have any concerns or any important things that you wanted to answer during this call today?' which is generic, not the two-concerns opener.",
+    "two_layers_deep": "Customer said 'No, I used you guys before' and rep accepted this with no follow-up, moving directly to logistics gathering.",
+    "value_days": "Rep offered October 30th at morning (8:30-9:00 AM) or afternoon (12:30-1:00 PM) but never asked about date flexibility or presented a cheaper day as a total dollar savings.",
+    "rate_lock_then_ask": "Rep said 'there's no deposit required. No reason securing your spot, in case if you wanted to reschedule or to cancel then all you have to do is just simply give us a call at anytime though, there's no fees for that either. Would you like her help with your upcoming move?' \u2014 rate lock/no deposit first, then explicit ask."
+  },
+  "top_strength": "Rep delivered a complete logistics probing for both locations, accurately captured all critical details (addresses, floor levels, stair-only access at destination, bedroom count, box quantity), and secured the booking with full confirmation details.",
+  "coaching_note": "Lead with the two-concerns question before any probing to anchor the call in customer priorities, and never skip the promise delivery and temperature check \u2014 the customer raised no concerns because you didn't ask for them using the right opener."
+}

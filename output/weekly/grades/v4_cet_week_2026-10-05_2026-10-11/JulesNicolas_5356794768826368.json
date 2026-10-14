@@ -1,0 +1,33 @@
+{
+  "call_id": "5356794768826368",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 8.4,
+  "datetime_ct": "2026-10-05 22:16 CT",
+  "external_number": "+19726328301",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 41,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep never asked about movers not showing on time or damage to items.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer during step 2 because the two-concerns question was never asked.",
+    "value_days": "Rep acknowledged Wednesday the 14th has availability but never mentioned comparing to cheaper days or offered any value day savings. No flexibility discussion on date choice.",
+    "rate_lock_then_ask": "Rep never mentioned rate lock or no deposit. Rep said 'if you would like to get on schedule' and customer said yes, but no explicit ask for the business or rate lock framing. No mention of holding the quoted price."
+  },
+  "top_strength": "Jules gathered detailed logistics about what items are being moved, confirmed the box count estimate with the customer, and anchored the estimate to a specific range (7-9 hours, $1,608\u2013$2,106) with personalization for elevator time on a high-floor move.",
+  "coaching_note": "You skipped the two biggest bookends of this call: the Two Concerns question (step 2) that surfaces what actually matters to Michael, and the final concerns check (step 6) before asking for the business\u2014without those, you missed the chance to address his real worries and confirm nothing was left hanging before closing."
+}

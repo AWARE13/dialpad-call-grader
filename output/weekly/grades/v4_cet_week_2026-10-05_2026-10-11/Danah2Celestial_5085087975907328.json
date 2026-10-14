@@ -1,0 +1,33 @@
+{
+  "call_id": "5085087975907328",
+  "rep_name": "Danah 2Celestial",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 6.7,
+  "datetime_ct": "2026-10-08 19:28 CT",
+  "external_number": "+19362225214",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly from quid pro quo into logistics probing.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer.",
+    "value_days": "Never addressed. Rep quoted Friday at $222/hour ($555 total) without offering Saturday, Sunday, or any other day comparison or savings.",
+    "rate_lock_then_ask": "Never asked for the business. Customer said 'I just need to call and see what else people there' and rep said 'You're welcome. Bye.' No rate lock, no deposit mention, no explicit ask like 'Would you like our help with your move?'"
+  },
+  "top_strength": "Danah gathered comprehensive logistics details (addresses, floor levels, walking distances, furniture list, room count) and confirmed the estimate anchor clearly with the two-and-a-half to three-and-a-half hour range and $555 total for this specific one-bedroom move.",
+  "coaching_note": "Step 2 (Two-Concerns Question) was completely skipped \u2014 Danah moved straight from the quid pro quo into logistics probing without ever asking 'either the movers not showing up on time, or damage to their items \u2014 are either of those a concern for you?' This is the highest-weighted step on the card and must happen before probing starts."
+}

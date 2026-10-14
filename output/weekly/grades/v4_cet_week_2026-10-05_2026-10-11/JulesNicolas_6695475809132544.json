@@ -1,0 +1,39 @@
+{
+  "call_id": "6695475809132544",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 6.9,
+  "datetime_ct": "2026-10-07 16:09 CT",
+  "external_number": "+15133107113",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 33,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Jules asked 'my name is Jules' at the very end, but never asked for the customer's name at the open, and when the customer asked for Jules's name near the close, Jules had already failed to establish the customer's identity",
+    "two_concerns_question": "Never asked. No version of the two-concerns opener or any open-ended concern discovery appeared in the call.",
+    "two_promises": "Neither the On-Time Guarantee nor No Worries Damage Coverage were mentioned. No permission lead-in. No promises delivered.",
+    "pricing_framing": "Only one element present: fee transparency on the hourly rate ($204 per hour, $51 per 15 minutes, 2.5-hour minimum). Missing the pricing contrast (competitor comparison) and Cameron's no-notes line. The not-a-guess commitment was absent.",
+    "estimate_anchor": "Jules gave a typical range tied to truck size ('2600 square foot box truck, typically 4 to 5 hours, $816 to $1,020') but did not personalize it to this customer's specific concerns or prep level. No temperature check after the number.",
+    "value_days": "Not addressed. No mention of whether December 2nd was a peak, standard, or best-value day, and no offer of savings or flexibility exploration.",
+    "prep_and_temperature_check": "No prep framing given. No 'How do you feel about that?' or equivalent pause. The rep moved straight to booking logistics.",
+    "final_concerns_check": "Not asked. Jules never said 'What's still concerning you about this move?' or any genuine version of it.",
+    "rate_lock_no_deposit_ask": "Never stated. Jules never mentioned a rate lock, no deposit policy, or asked 'Would you like our help with your move?' Instead, Jules said 'It would be best if you gave us a call back so we can have all the details when you book it online,' which is an out, not a close.",
+    "booking_confirmed": "Partial. The date (December 2nd) and zip code (75248) were confirmed, and truck size (26-foot) was discussed. Missing: customer's phone number was never asked, arrival window was never discussed, crew size was never locked (two vs. four remained conditional), and no crew notes were left about the customer's concerns (three-level townhome, stairs concern)."
+  },
+  "top_strength": "Jules clearly explained the pricing structure and was transparent about the hourly rate, 15-minute increments, 2.5-hour minimum, and how pricing scales with crew size, helping the customer understand what they would actually pay.",
+  "coaching_note": "This call skipped the core discovery framework entirely\u2014no concerns were surfaced, no two promises were delivered to address them, no temperature check on price, and no direct ask for the business; Jules needs to follow the 15-minute quote card from the open (quid pro quo) through step 2 (two concerns), step 3 (promises), and step 7 (the explicit ask before offering alternatives)."
+}

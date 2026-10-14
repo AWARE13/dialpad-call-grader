@@ -1,0 +1,33 @@
+{
+  "call_id": "5593098408468480",
+  "rep_name": "Jules Nicolas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 6.4,
+  "datetime_ct": "2026-10-06 20:22 CT",
+  "external_number": "+12259367310",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 3,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 25,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics gathering without surfacing the customer's concerns about the move.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised or probed.",
+    "value_days": "Not addressed. Rep quoted Wednesday October 28th without mentioning cheaper days or asking about date flexibility.",
+    "rate_lock_then_ask": "Not asked. Rep gave an estimate range ($926.20 to $1,120) and confirmed the appointment window (8:45-9:15) but never explicitly asked 'Would you like our help with your move?' and never mentioned rate lock or that no deposit is required."
+  },
+  "top_strength": "Jules efficiently gathered the logistics details needed (storage unit, destination address, bedroom count, floor level, prior team preference) and confirmed the appointment window clearly.",
+  "coaching_note": "This call skipped the entire discovery and promises framework: no two-concerns question, no On-Time Guarantee or Damage Coverage promises, no pricing framing with the all-inclusive contrast, and no explicit ask for the business \u2014 it ended with a soft close and assumption of the booking."
+}

@@ -1,0 +1,29 @@
+{
+  "call_id": "5855050296238080",
+  "rep_name": "Amy Arbasa",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 15.7,
+  "datetime_ct": "2026-10-11 16:18 CT",
+  "external_number": "+18136907842",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 16,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 66,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people everyday and most of them would say one or two concerns either they're worried that the movers won't show up on time or that they're going to damage their items. What about you, Hannah, would either of this be a concern to you",
+    "two_layers_deep": "Hannah raises damage concern due to third floor no elevator at destination; Amy acknowledges but pivots immediately to inventory without following up ('No worries. We will definitely, sure send movers with good Stren you know, that allows doing stairs... don't need to worry now. Well, thank you for sharing now, let's talk about the inventory')",
+    "value_days": "Amy identifies Saturday as premium ($200/hr) vs Sunday-Thursday ($190/hr), calculates savings ($50-200 range implied but never stated as total dollar figure), asks flexibility; customer declines due to work conflict and cannot do Sunday, Amy mentions Friday/Sunday still available but no explicit dollar savings offered for those days",
+    "rate_lock_then_ask": "Call ends without rate lock mention, no explicit ask for the business, customer did not book (Saturday unavailable, Friday/Sunday offered but not confirmed)"
+  },
+  "top_strength": "Amy delivered both the On-Time Guarantee and No Worries Damage Coverage promises in full detail with clear terms ($50 first hour/$25 per half hour, $2,000 coverage/no deductible) and secured permission before doing so.",
+  "coaching_note": "Step 6 and 7 were critical gaps: when the customer raised the third-floor stairs concern, Amy acknowledged but didn't dig deeper (no layer-two follow-up); and the call ended without ever asking for the business or locking in a rate\u2014the customer left without booking despite interest, because Saturday sold out mid-call and Amy never pivoted to confirm Friday or Sunday with a clear ask."
+}

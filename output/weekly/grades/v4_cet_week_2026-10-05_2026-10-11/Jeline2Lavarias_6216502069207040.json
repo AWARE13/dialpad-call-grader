@@ -1,0 +1,33 @@
+{
+  "call_id": "6216502069207040",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 7.4,
+  "datetime_ct": "2026-10-05 14:52 CT",
+  "external_number": "+15803300363",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 53,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep went straight into date flexibility and logistics probing without asking about reliability or damage concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were discovered because the two-concerns question was never asked.",
+    "value_days": "Not addressed. Rep offered October 6th as an alternative to the requested October 7th but framed it only as availability, not as a value day with dollar savings.",
+    "rate_lock_then_ask": "Rep said 'No, you will only be asked to make the payment once we completed the move' when asked about credit card hold, which is rate lock language, but then the ask was weak: 'would you like to secure your schedule for tomorrow?' \u2014 phrased as schedule-securing rather than a direct ask for the business. No explicit 'Would you like our help with your move?' or equivalent."
+  },
+  "top_strength": "Jeline gathered logistics details systematically and thoroughly, covering property type, floor plan, driveway access, special items, and furniture condition \u2014 she built a complete picture for the estimate.",
+  "coaching_note": "Step 2 is the foundation of the call: ask the two-concerns question before any probing starts ('Do you worry about movers not showing up on time or damage to your items?'), then go two layers deep on whatever Frank raises \u2014 this drives everything that follows, including the promises and the close."
+}

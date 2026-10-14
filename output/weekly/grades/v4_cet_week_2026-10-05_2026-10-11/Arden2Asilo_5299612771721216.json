@@ -1,0 +1,35 @@
+{
+  "call_id": "5299612771721216",
+  "rep_name": "Arden 2Asilo",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 8.0,
+  "datetime_ct": "2026-10-07 19:51 CT",
+  "external_number": "+12147899522",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 70,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "Well, we definitely will be able to do that but in order for us to give you an estimate, sir we might need to ask you some few questions that might take around ten to fifteen minutes. Would that be fine? [No promise of dependable quote; customer says 'Sure' so minimal wait]",
+    "two_concerns_question": "Never asked. Rep moved directly to walkthrough pitch without asking about concerns.",
+    "two_promises": "Rep never asked permission lead-in and delivered neither On-Time Guarantee nor No Worries Damage Coverage.",
+    "concern_led_opening": "Rep asked about house size and what items are moving, but never asked 'What items in this move are you most concerned about?' Logistics gathered include: square footage (4200 to 3600), bedrooms (4 to 3), stories (2 to 2), items (bedroom furniture, dining room, small contents), but no walkthrough distance, special items beyond what was volunteered, or detailed room count.",
+    "value_days": "Rep mentioned weekday vs Friday pricing difference ($7 difference per hour) when customer asked, but never framed it as Value Days with total dollar savings or asked about date flexibility in that context. Customer volunteered Friday the sixteenth; rep accepted it without offering alternatives.",
+    "rate_lock_then_ask": "Not applicable \u2014 this is a walkthrough scheduler call. No attempt to close the booking for a move date; call correctly routed to virtual walkthrough instead.",
+    "booking_confirmed": "Walkthrough scheduled for Saturday 4:30 PM; customer's name (Aaron Katz), phone (214-789-9522), email (aaronkatz2015@gmail.com), origin address (4556 Timber View Drive, Plano 75093), destination address (12672 Timber Crossing Drive, Frisco 75033) all confirmed. Link delivery method explained (text/email). No crew size or notes about concerns left for manager, but this is appropriate for a walkthrough scheduler pre-call."
+  },
+  "top_strength": "Arden correctly identified that this move (4200 sq ft) qualified for a virtual walkthrough rather than an in-home, explained the process clearly, and successfully scheduled the walkthrough with all necessary customer details confirmed.",
+  "coaching_note": "Before routing to a walkthrough, ask the two-concerns question and deliver both promises (On-Time Guarantee and No Worries Damage Coverage) \u2014 these belong in step 3 on every call, including walkthrough schedulers, and set the customer up for trust before the manager meets them."
+}

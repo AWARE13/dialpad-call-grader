@@ -1,0 +1,873 @@
+{
+  "call_id": "5192481726832640",
+  "lines": [
+    {
+      "content": "Good morning, this is Joanna. How can I help?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:01:42.873491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:01:42.873491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:01:42.873491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:01:42.873491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:01:42.873491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:01:42.873491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:01:47.159491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:01:47.719491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Yes, hello, good morning. I just sent an email to the, I believe it was the south Austin branch of Einstein and I have a, I have a need to get a quote for a small move in my area.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:01:47.973201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "call_purpose",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:01:47.973201",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "ner",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:01:53.548201",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:01:54.273491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, no worries. Let me just try to check it for you just one moment. Mm-hmm mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:02:03.273491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay. Yeah, you'll probably see it A Johnstone @gmail.com and I literally just sent it about twenty minutes ago. I think.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:02:06.573201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "email_address",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:02:10.308201",
+      "type": "moment"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:02:15.873491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Just one second.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:02:22.473491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:02:45.919491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, bear with me.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:02:47.673491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay, no, no worries.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:02:49.773201",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, so in order for us to, of course, create a more personalized estimate for you. I just need to create a profile based on the information that you have sent us. Okay, might take about ten to fifteen minutes, I'll explain the pricing and how we work as well. So right now you're planning to do this on Sunday the eleventh, is that right?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:02:53.673491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay, okay, sure.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:03:07.173201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "I would like to, yes, and, and this is actually, yeah, my wife purchased some items from a, from a home that's nearby. So really it's just, just these few items that we have yeah, I'd like to do it on Sunday if at all possible.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:03:16.773201",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:03:20.073491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm I see.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:03:25.473491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm yup, no problem. Okay. And just a quick question. How did you hear about us?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:03:31.473491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:03:37.439491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "I actually saw your truck in our neighborhood here in the hills. So, kind of, yeah, so I took note of that and yeah, I just thought I'd look you up.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:03:38.373201",
+      "type": "transcript"
+    },
+    {
+      "content": "Uh-huh, I see.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:03:43.473491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see. Alright, got it. Thank you. I think I actually know that customer. I think I book her the one from the hills but anyhow.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:03:52.473491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Uh-huh.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:03:55.173201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Oh, okay. It was over, over on tiberon actually. Yeah, there was a home right around the corner from us that yeah.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:03:59.373201",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:04:04.473491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay. That's moving out. Okay. Got it. Yeah, not sure but maybe okay. Anyhow, of course, aside from the pricing or availability, do you have any other important concerns that you also want to discuss on this call?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:04:07.399491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "I don't know, I yeah, I'm not sure if it's moving in or out, but yeah, we prefer.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:04:10.173201",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:04:23.319491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Oh, pricing actually we do have a couch, an existing couch on our first floor and I'd like to as part of the move. See if we could have the guys move it into another bedroom upstairs. So maybe if we add that in there as well just to ensure like so it'll be these items on the, on the PDF, two couches and a dining set coming in and then one couch in our living room that's existing that'll go upstairs to a bedroom up there.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:04:26.373201",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm. Mm-hmm. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:04:33.873491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:04:44.073491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:04:48.273491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:04:54.873491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see. Okay, so once we get those items from the other home, once we arrive there, you just want us to move some furniture around as well. Just those items that you've mentioned. Okay, that should work. Alright, mm-hmm, okay, no worries. Thank you. Alright, but we're, overall with those items that you've mentioned and the photos, I already check as well. I don't think we have anything over $300.500, is that right? Just in case you were able to check it online. Okay, mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:05:05.073491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Yeah. Yeah, just, just a single couch actually, yeah, and go up to the upstairs. Yeah.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:05:12.573201",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:05:30.273491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "I don't believe so. Probably, yeah, maybe I was told that the couches are kind of heavy but I wouldn't imagine that they'd be any more than \u00a3300.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:05:32.373201",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:05:39.273491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm, mm-hmm, okay, and are they all just on the ground floor? Are they coming from a two storing home going to a two story?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:05:41.673491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "currency",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:05:42.788201",
+      "type": "moment"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:05:46.239491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Yes.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:05:47.373201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Yeah, yes, they're on the ground floor and they're going to the ground floor at the destination location as well, yeah.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:05:50.973201",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Alright, thank you. So, let's see, just to make sure from what I can see here. So just we're picking up two couches from that house in Valerio lanes. So 8417 Valeria lane and then two couches, a dining table, a dining table and ten chairs and I actually saw like a photo of, is this like a.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:05:57.273491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Uh-huh.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:06:05.373201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Yes.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:06:13.173201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Uh-huh.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:06:19.173201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Oh, the, yeah, it looks like, no, that, that's not included. I don't know that it's just the, yeah, this was some sort of online photo so it really just be the dining table, yeah, and, and so I believe the, there will be eight of the chairs without the arms and then two chairs with the arms so, it's like a formal dining set, yeah.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:06:27.573201",
+      "type": "transcript"
+    },
+    {
+      "content": "I don't know, it's like Chandela are we also picking up that item?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:06:28.473491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "unsure_agent",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:06:28.473491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:06:31.239491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:06:39.273491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "So they're altogether. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:06:41.673491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm mm-hmm I see. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:06:50.073491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Got it, thank you. So that's basically, it just table chairs and the two couches, correct? Okay, no problem. Alright, so with that being said let me just explain to you how we work in our pricing as well is super simple. Oh, by the way for both homes just to confirm, do we have any issues with parking like can we park very close to the home so the doors any steep driveway low ham branches mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:06:56.073491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Yeah.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:06:58.173201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Yes, yes.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:07:01.173201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:07:10.173201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "I.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:07:20.373201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Let's see in our house. The thirteen Glen way. It's on a slight slope. The driveways on a slight slope. So the movers would have to, I don't believe they'd be able to drive the truck inside to the driveway but it's a straight shot from the street to the, to the front door. So the truck itself would have to be parked on the street and then the, much, like, a actually very similar to the house that was done here in the hills earlier that it, it's kind of that same setup.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:07:24.573201",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:07:30.873491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:07:41.673491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:07:45.273491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:07:57.273491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "And, and let me, let me check with my wife on the on the parking at the other, at the source house, cause I wasn't actually there, verifying that, just, just a moment. Hey, honey, I need to talk to you. Is I'm talking with the movers right now and the house where you were gonna pick the stuff up? Do they have a, is it going to be easy to, to get a moving truck parked and, and they would park on the street most likely.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:07:59.973201",
+      "type": "transcript"
+    },
+    {
+      "content": "Got it, alright.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:08:00.873491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm of course. That's alright. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:08:07.473491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Has a long driveway but they could drive the truck on the driveway. There shouldn't be a problem. Okay, yeah, she said they have a long driveway and it shouldn't be a problem. To park the truck on it.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:08:33.573201",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, that's good. Okay, so, we should be fine with that but of course, the only difference it makes is that just access issues, might just add a little bit more time but if first it's straightforward then we should begin. So, on how we work is that we charge by the hour for the services we offer. Mm-hmm yes, sir.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:08:44.673491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay. Uh-huh.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:08:53.973201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Oh, it's standby. You said by the hour. Yeah, yeah, my wife just indicated there's a gate with a combination but she's gonna be available to meet the movers there. So, yeah.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:08:59.973201",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup, no problem. That's fine. Okay. Yup, that should work. So, we will charge by hourly rates for the services we offer you for going. Yes sir. If we're going to do it on Sunday. Rest assured I'll send everything in an email as well, okay? If we're going to do it on Sunday, it's $210 per hour for the two men already. So it's $105 per hour per mover, so for two guys, it's $210 per hour, two men and the truck, all of the reps to protect the furniture, if with blanket pads and shrink reps. If you guys need help with this assembly, reassembly taxes, insurance, credit card fees, all of that is already in the price. The only thing outside of the hourly rate rate is just a one time travel fee of $75 but aside from that everything has already included in the rate. Okay? Now.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:09:12.873491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay, hour.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:09:16.173201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:09:22.173201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Yeah.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:09:25.173201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:09:27.573201",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:09:27.959491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:09:31.639491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:09:34.173201",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:09:35.799491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay, okay, okay.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:09:39.573201",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:09:39.919491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:09:47.373201",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:09:47.479491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay. Alright.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:09:52.173201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Oh, oh, really. $75 travel fee, huh. Okay. Mm-hmm.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:09:59.373201",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:09:59.999491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "currency",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:10:03.948201",
+      "type": "moment"
+    },
+    {
+      "content": "Yes one time and then we'll also include our no worries damage coverage which would give you guys up to $2,000 coverage for any accidental damages. So unlike our competitors usually they only have the statement data 60\u00a2 per pound per item that us we already included to $2,000 car for that mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:10:06.873491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:10:09.119491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:10:11.973201",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:10:14.719491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:10:16.773201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Yeah. Okay. But, but you guys are fully insured and bonded, right? And all that kind of good stuff.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:10:20.373201",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:10:21.879491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:10:25.079491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm we are not like literally bonded but Ross assured that of course, we take care for the, any damages, cause I know that's one of the reasons for the hills they request for like a certificate of insurance and we bring that on the day mm-hmm okay. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:10:29.673491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Or.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:10:32.973201",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:10:34.079491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay, okay.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:10:35.373201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Yeah, yeah, yeah, exactly. So you can cover your leg. It's legitimate to come in the hills then. Okay. Alright. Okay.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:10:40.173201",
+      "type": "transcript"
+    },
+    {
+      "content": "That's right. Yes, that's right. Yup and of course on time guarantee if we run late we provide discounts for the move. If you're planning to do it on Sunday, we're actually booked already for the morning. So we only have something in the afternoon but if you really prefer morning then we can do Monday as well.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:10:50.073491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:10:57.573201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:11:04.173201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "I would prefer to get this done on Sunday if you could, yeah, if I'll tell you what, I, I'm okay with the pricing. If he could slot us in for Sunday afternoon, that would be great. Okay.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:11:07.773201",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm okay, no problem. I'll just take note I'm sorry I wasn't able to complete it yet. So for any move, we have a two and a half hour minimum. Okay? Now once we go over the minimum, we only charge in fifteen minute intervals. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:11:21.873491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Okay, okay. Oh, I see. So, it's, so, so wait, you bill in a two and a half hour minimum. So that's gonna make it $500 just minimum, right? Plus, plus the fee. Oh, okay, okay. Now tell you what, if you could send me the quote in email. I'm gonna, I'm gonna check some other sources but I may come back to you, okay?",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:11:30.573201",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes, that's right.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:11:42.273491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "currency",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:11:42.628201",
+      "type": "moment"
+    },
+    {
+      "content": "That's correct. So, the minimum cost the $75.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:11:46.473491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:11:49.559491",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Uh-huh. Yup.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:11:53.673491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I understand. No problem. Of course, hope you, as you shop around, just check for any other fees outside of the hourly rate. Okay. Alright. Thanks so much. Mm-hmm bye.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-06T15:11:57.273491",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "Thank you. I will. Thank you, appreciate it. Uh-huh. Bye.",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:12:01.773201",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "positive_sentiment",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:12:05.308201",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSpq_57ggM",
+      "content": "support_issue_resolved",
+      "name": "Alex Johnstone",
+      "time": "2026-10-06T15:12:05.308201",
+      "type": "moment"
+    }
+  ]
+}

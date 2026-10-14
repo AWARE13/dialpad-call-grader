@@ -1,0 +1,33 @@
+{
+  "call_id": "6471346256388096",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 8.5,
+  "datetime_ct": "2026-10-06 17:07 CT",
+  "external_number": "+15127058893",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Rep asked 'do we have any concerns or any important things that you wanted to answer during this call today?' \u2014 this is not the two-concerns opener about movers showing up on time or damage to items; customer answered 'Nope' and rep never asked the actual card question.",
+    "two_layers_deep": "N/A \u2014 customer stated no concerns, so no follow-up was possible.",
+    "value_days": "Rep did mention Friday is $111/hour vs Tuesday-Thursday $104/hour, and gave a total dollar difference ($35 for the move), and asked which day customer preferred \u2014 partial because the correct branch identification (Friday is premium, not Best Value Day) and total dollar framing are present, but the flexibility ask was implicit in 'which day works' rather than explicit. Rep also mentioned the $20 difference per half-hour for Friday/Saturday vs Tues-Thurs, mixing hourly and total language.",
+    "rate_lock_then_ask": "Rep said 'we don't have as long as we still have availability, there's no problem there's no cost in doing that because there's no deposit required' \u2014 this is rate lock and no deposit. Then customer asked 'can I book it for Friday?' and rep confirmed the booking. The order is correct (lock/deposit first, then ask/confirmation)."
+  },
+  "top_strength": "Rep gathered all necessary logistics details (addresses, property types, parking, walking distances, box count, storage unit specifics) methodically and confirmed a booking with a clear date and no deposit required.",
+  "coaching_note": "The two-concerns question was never asked in its recognizable form \u2014 rep asked an open-ended throwaway instead \u2014 and neither promise (On-Time Guarantee or No Worries Damage Coverage) was delivered, leaving the entire step 3 unaddressed and step 2 without depth; add the card's specific two-concerns opener and deliver both promises before probing."
+}

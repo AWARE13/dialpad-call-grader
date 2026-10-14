@@ -1,0 +1,33 @@
+{
+  "call_id": "4580833834082304",
+  "rep_name": "Jules Nicolas",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 6.0,
+  "datetime_ct": "2026-10-08 22:13 CT",
+  "external_number": "+12143357432",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 68,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "I just need to know like, ten to fifteen minutes to get you an accurate quote. And then after that I can get your quote. You can depend on, does that sound good?",
+    "name_asked": "Can you give me your first and last name, please? / Sure, it's Allison, A-L-I-S-O-N.",
+    "name_never_used_again": "Rep never addresses Allison by name after initial collection.",
+    "two_concerns_question": "Never asked. Rep moves directly to logistics without exploring customer's stated concerns about the move.",
+    "walkthrough_routing": "So yeah what I'm gonna do is I will text you a link that you can join and then after that I will get you the estimate. / For how is the size it would be best if we can do a virtual walkthrough."
+  },
+  "top_strength": "Jules successfully identified that a 5,000 sq ft two-story house warranted a virtual walkthrough rather than a phone estimate, and cleanly routed Allison to the video call without abandonment.",
+  "coaching_note": "Before routing to the walkthrough, Jules must ask the two-concerns question and deliver both promises (On-Time Guarantee and No Worries Damage Coverage) \u2014 these step into the call before probing starts on v4, not after, and must happen even on walkthrough calls."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "5478661638889472",
+  "rep_name": "Jules Nicolas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 9.0,
+  "datetime_ct": "2026-10-06 13:52 CT",
+  "external_number": "+18177187127",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 43,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics probing (date, location, apartment type) without surface-level concern discovery.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer in step 2.",
+    "value_days": "Not addressed. Rep never identified which Value Day branch applied (Best, Better, or Standard) or offered any pricing flexibility based on date alternatives.",
+    "rate_lock_then_ask": "Rep asked 'Do you want to get this scheduled?' with no prior rate lock or no-deposit statement. This is a soft ask with no rate commitment language preceding it. When customer said yes, rep moved to logistics rather than explicitly securing the booking."
+  },
+  "top_strength": "Jules gathered good logistical detail (floor levels, elevator access, furniture list, box count, current and destination addresses) and provided a clear, all-inclusive pricing framing ($194/hr, no fuel fees, no disassembly charges, 2.5-hour minimum prorated quarterly), which built customer confidence.",
+  "coaching_note": "You must ask the two-concerns question early (step 2) before any logistics probing \u2014 it surfaces what actually matters to this customer and gives you the chance to deliver the On-Time Guarantee and No Worries Damage Coverage promises, which you skipped entirely on this call."
+}

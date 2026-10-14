@@ -1,0 +1,32 @@
+{
+  "call_id": "5797600276815872",
+  "rep_name": "Joanna Ballon",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 8.1,
+  "datetime_ct": "2026-10-11 18:14 CT",
+  "external_number": "+17378024471",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 3,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 5,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Since we speak with a lot of customers everyday, they usually inform us about concerns about their move, like, damages movers running late on time. Are there any of your concerns as well?",
+    "two_layers_deep": "Customer answered 'Yes' to concerns but Joanna immediately pivoted to probing (address, square footage) with no follow-up on what the concerns actually were.",
+    "value_days": "No value days discussion. Customer locked in on Friday the sixteenth; no mention of whether this is a Best Value Day or whether cheaper alternatives exist.",
+    "rate_lock_then_ask": "Joanna asked 'would you like your help for this move?' but never mentioned rate lock or no deposit. Customer deflected to email quote and Joanna accepted without re-asking."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details (addresses, floor levels, walking distances, furniture list, box count) with clear probing and actually asked packing and box count.",
+  "coaching_note": "When the customer says they have concerns, dig in to understand what those concerns actually are (two layers deep) before moving into logistics\u2014you acknowledged concerns exist but never learned what they were, so you couldn't tailor the promises to address them; also, do not accept 'send me the quote' as a no\u2014re-ask for the business with the rate lock promise and no deposit up front before offering email as an option."
+}

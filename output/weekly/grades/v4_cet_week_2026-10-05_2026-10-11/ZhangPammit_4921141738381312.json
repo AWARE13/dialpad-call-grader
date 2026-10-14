@@ -1,0 +1,31 @@
+{
+  "call_id": "4921141738381312",
+  "rep_name": "Zhang Pammit",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 11.2,
+  "datetime_ct": "2026-10-07 14:53 CT",
+  "external_number": "+14057603526",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep asked instead: 'And just to start with, do we have any concerns or any important things that you wanted to answer during this call today?' Customer answered 'Nope.' Rep never asked the two-concerns opener about late arrivals or damage.",
+    "two_layers_deep": "No concerns raised by customer, so no opportunity for two-layer follow-up.",
+    "value_days": "Rep never addressed value days or date flexibility. Customer stated 'November 2nd' and rep booked it without asking about cheaper alternatives or flexibility: 'So upon checking here we can be able to book your slot as early as 8:30 AM to 9:00 AM that would be November 2nd and November 3rd.'",
+    "rate_lock_then_ask": "Rep stated 'There's no deposit required' and 'No recent securing your spot in case if you wanted to reschedule or to cancel, then all you have to do is just simply give us a call at anytime.' Then asked: 'Okay, let's do that' \u2014 customer initiated, but rep confirmed the booking without an explicit plain ask like 'Would you like our help with your move?'"
+  },
+  "top_strength": "Roselyn gathered logistics comprehensively and delivered a detailed, personalized estimate anchored to the specific two-truck, four-mover scenario with accurate trip fees and overnight contingency.",
+  "coaching_note": "You skipped the two-concerns question entirely and never asked 'How do you feel about that?' after the estimate \u2014 these are the card's two highest-leverage moments to confirm the customer is actually ready to move forward, not just sitting with the number."
+}

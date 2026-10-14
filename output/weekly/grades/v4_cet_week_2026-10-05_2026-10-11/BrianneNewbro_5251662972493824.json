@@ -1,0 +1,33 @@
+{
+  "call_id": "5251662972493824",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 10.3,
+  "datetime_ct": "2026-10-09 17:24 CT",
+  "external_number": "+15153577353",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 46,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Rep never asked the two-concerns opener about movers not showing up on time or damage to items.",
+    "two_layers_deep": "Not applicable \u2014 no concerns were proactively raised by customer at step 2.",
+    "value_days": "Rep never addressed whether October 18th is a Value Day or offered any alternative date pricing.",
+    "rate_lock_then_ask": "Rep never explicitly asked for the business or mentioned rate lock/no deposit. Customer appears to have already booked online; rep confirmed details but did not close with a direct ask."
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details (furniture inventory, box count, building access, floor/elevator information, walking distances) and personalized the estimate downward from 5.25 hours to 3.5-4.5 hours based on what the customer actually had to move.",
+  "coaching_note": "The two-concerns question (on-time guarantee and damage protection) was never asked, and the Two Promises (On-Time Guarantee and No Worries Damage Coverage) were never delivered\u2014these are the highest-leverage early-call trust-builders and must come before probing starts; also, no explicit ask for the business or mention of rate lock/no deposit, which should close the call."
+}

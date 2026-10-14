@@ -1,0 +1,31 @@
+{
+  "call_id": "5213387616460800",
+  "rep_name": "Brianne Newbro",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 5.7,
+  "datetime_ct": "2026-10-09 14:04 CT",
+  "external_number": "+12104598075",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talked to several people a day most have concerns mainly the moves not being on time or damaged two items are any of those your concerned for this move at all.",
+    "two_layers_deep": "Customer said 'Yeah' but Brianne did not ask follow-up probing like 'tell me more about that' \u2014 she moved straight into logistics probing instead.",
+    "value_days": "No mention of value days or date flexibility options. Customer already booked for October 10th (tomorrow/Saturday) but no alternative days were offered or discussed.",
+    "rate_lock_then_ask": "There's no deposit required to get on our schedule. So there's no risk and securing your spot and there's also no fees are charges to cancel or reschedule the move. And so would you like us to help you with that move on Saturday?"
+  },
+  "top_strength": "Brianne established the two-concerns question early, gathered detailed logistics smoothly (address, property type, special items, bed sizes, box count), and delivered a clear, personalized estimate with pricing framing and an explicit ask for the business.",
+  "coaching_note": "When the customer confirmed concerns at step 2, Brianne did not probe deeper with 'tell me more about that' \u2014 she moved straight into logistics. Also missing: the Two Promises (On-Time Guarantee and No Worries Damage Coverage), a final concerns check at step 6, and value days / date flexibility discussion despite having a move booked for tomorrow."
+}

@@ -1,0 +1,34 @@
+{
+  "call_id": "4916557244047360",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 11.5,
+  "datetime_ct": "2026-10-10 14:32 CT",
+  "external_number": "+14323058829",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talk to a lot of people everyday and most of them have one or or two concerns for the move. Either the mover is not showing up on time or damage to the items are either of those a concern for you.",
+    "two_layers_deep": "Customer said no concerns raised; N/A applies.",
+    "value_days": "Rep never addressed Value Days or asked about date flexibility relative to pricing.",
+    "rate_lock_then_ask": "Jevic never asked for the business. Quoted $194/hour, customer objected to price, rep said 'we respect your decision' and offered callback, but never attempted to close or lock a rate."
+  },
+  "top_strength": "Jevic asked the two-concerns question before probing and delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full details and permission lead-in, creating early trust.",
+  "coaching_note": "When the customer objects to price, do not abandon the call\u2014anchor to a typical range for their move size, explain the value gap relative to competitors, offer Value Days savings as a dollar figure if applicable, and use the temperature check and prep framing before attempting to close; the call ended without ever asking for the business or locking a rate."
+}

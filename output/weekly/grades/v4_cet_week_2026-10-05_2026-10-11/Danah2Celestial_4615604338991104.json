@@ -1,0 +1,34 @@
+{
+  "call_id": "4615604338991104",
+  "rep_name": "Danah 2Celestial",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 9.1,
+  "datetime_ct": "2026-10-11 15:13 CT",
+  "external_number": "+12143943042",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 39,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing without asking about customer's two primary concerns (on-time movers or damage to items).",
+    "two_layers_deep": "No concerns were surfaced because the two-concerns question was never asked. N/A applies.",
+    "value_days": "Rep noted 'Friday is one of our peak days' and gave the rate but did not offer a cheaper alternative day as a total dollar amount savings, nor did she ask about date flexibility. Partial credit only for naming the day category.",
+    "rate_lock_then_ask": "Never asked. Rep ended the call with 'I'll be sending everything to your email to then finalize the estimate' and never asked for the business or mentioned rate lock/no deposit commitment."
+  },
+  "top_strength": "Danah gathered detailed logistics efficiently, asked clarifying questions about pod sizes and storage location, and delivered a personalized estimate range ($545\u2013$872) anchored to the specific job details.",
+  "coaching_note": "The call skipped the two foundational steps of the card: no quid pro quo framing at the open, no two-concerns question before probing, no promises delivered, and no ask for the business at the close \u2014 focus on leading with what matters to Jessica and closing with a clear call to action."
+}

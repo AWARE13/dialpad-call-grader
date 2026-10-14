@@ -1,0 +1,36 @@
+{
+  "call_id": "6048186467917824",
+  "rep_name": "Zhang Pammit",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 21.4,
+  "datetime_ct": "2026-10-09 19:01 CT",
+  "external_number": "+14699994435",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 76,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep asks 'Are you asked for the meeting ID?' and customer is Jaquelin Hall-AB; name used multiple times throughout walkthrough.",
+    "quid_pro_quo": "No quid pro quo framing present; rep jumps directly into walkthrough logistics.",
+    "two_concerns_question": "Never asked. Rep moves straight to 'our goal is to keep remove as easy as possible. Please let us know what are the things that we are moving.'",
+    "promises_delivered": "No On-Time Guarantee or No Worries Damage Coverage mentioned at any point in the call.",
+    "packing_and_box_count": "Rep asks about boxes: 'based on your home size normally, the total number of boxes is between 95 to 115 boxes.' Customer responds about packing: 'everything in boxes, yeah, I close it will be like a pretty much boxes.'",
+    "estimate_anchor": "Rep provides: 'estimated time is between five to six hours...total estimate that we have is $2,328' and later 'four movers and two trucks.'",
+    "value_days": "No value days discussion; customer objected to pricing and withdrew before any flexibility conversation could occur.",
+    "rate_lock_then_ask": "Rep never asks for the business. Customer self-terminates: 'Of course. Thank you. Bye.' Rep responds: 'Okay. Alright then I'll send you an email. Thank you, bye-bye.'"
+  },
+  "top_strength": "Rep successfully conducted a full virtual walkthrough inventory and gathered complete logistics details (room-by-room items, bed sizes, box estimates, garage contents, crew size and truck requirement).",
+  "coaching_note": "Two Promises (On-Time Guarantee and No Worries Damage Coverage) were never delivered during this walkthrough call\u2014they must be given early, before probing starts, regardless of call type."
+}

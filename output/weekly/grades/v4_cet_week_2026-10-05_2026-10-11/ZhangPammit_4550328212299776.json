@@ -1,0 +1,32 @@
+{
+  "call_id": "4550328212299776",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 12.8,
+  "datetime_ct": "2026-10-07 19:35 CT",
+  "external_number": "+18323098027",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 7,
+  "total_score": 46,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing (address, square footage, stairs) without ever asking about the customer's concerns regarding on-time reliability or damage protection.",
+    "two_layers_deep": "No concerns were identified in step 2, so no follow-up was possible. At step 6 no final concerns check was conducted either.",
+    "value_days": "Not addressed. Rep did not discuss whether October 16th was a premium or value day, nor offer any alternative dates or savings.",
+    "rate_lock_then_ask": "Rate lock came after the ask, not before. Rep said 'Would you like me to lock that in for you?' (the ask) before mentioning 'there's no deposit required, no recent occurring your spot' (rate lock). The ask should have come after the rate lock framing."
+  },
+  "top_strength": "Rep delivered a strong quid pro quo framing with the time commitment (10-15 minutes) and the promise of a dependable quote instead of a guess, then waited for confirmation before proceeding.",
+  "coaching_note": "Step 2 is missing entirely \u2014 the two-concerns question (on-time movers and damage to items) was never asked before launching into logistics probing, which means the customer's actual concerns were never surfaced or addressed."
+}

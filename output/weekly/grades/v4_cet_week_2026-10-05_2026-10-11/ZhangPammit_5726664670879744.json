@@ -1,0 +1,33 @@
+{
+  "call_id": "5726664670879744",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 8.3,
+  "datetime_ct": "2026-10-08 21:54 CT",
+  "external_number": "+18187933443",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 39,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep never asked about on-time reliability or damage concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer.",
+    "value_days": "Not addressed. Rep quoted $520 for 2.5 hours with two movers at 3:30 PM on a Tuesday but never discussed whether another day would be cheaper or asked about date flexibility.",
+    "rate_lock_then_ask": "Rep asked 'Would you like me to reserve the movers and the truck for you in that day?' but never mentioned rate lock, no deposit, or any protection against price changes. Customer declined to book on the call."
+  },
+  "top_strength": "Rep collected all necessary logistics details (storage unit address, floor, square footage, indoor/outdoor, arrival window) and explained the 2.5-hour minimum clearly when the customer asked about one mover.",
+  "coaching_note": "This call skipped the Two Concerns question entirely and never delivered the On-Time Guarantee or No Worries Damage Coverage promises \u2014 both of which are now step 3 and land while the customer is still attentive; without them, the rep has no answer to why the customer should choose Einstein. Follow the card: ask the two-concern question early, deliver both promises with permission, then probe. Rate lock and no deposit also need to come before the ask for the business."
+}

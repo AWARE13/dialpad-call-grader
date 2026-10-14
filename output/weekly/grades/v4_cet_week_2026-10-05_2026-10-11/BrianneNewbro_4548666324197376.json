@@ -1,0 +1,33 @@
+{
+  "call_id": "4548666324197376",
+  "rep_name": "Brianne Newbro",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 8.1,
+  "datetime_ct": "2026-10-08 16:29 CT",
+  "external_number": "+15127512270",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 53,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "name_asked_and_used": "Hi, may I speak with Kay? [...] Hi, Kay, it's Bree calling from Einstein Moving Company. [...] I have this 512-751-2270 as a good contact in excuse me, cannot talk today contact number for you like. [...] Awesome, thank you. Kay.",
+    "quid_pro_quo": "there's no deposit required to get on our schedule and then, there's also no charges or fees to change or cancel that date cause we know that things often happen with closings and moving and things like that, so that's not an issue and then, because this is actually a larger move. I will have to send it to a specialist that way you just get more of an accurate estimate. Is it okay if someone gives you a callback with that estimate?",
+    "two_concerns_question": "Not asked on this call.",
+    "two_layers_deep": "Not applicable; no concerns were elicited before routing to specialist.",
+    "promises_delivered": "Neither the On-Time Guarantee nor No Worries Damage Coverage were mentioned.",
+    "concern_led_opening": "Rep asked directly about storage unit contents and furniture items without first asking 'What items in this move are you most concerned about?' The probing was inventory-driven, not concern-driven.",
+    "packing_and_box_count": "Not asked.",
+    "walkthrough_routing": "Rep correctly identified this as a larger move (approximately 3,200 sq ft house receiving contents from multiple storage units, well over 1,800 sq ft threshold) and routed to specialist callback for virtual walkthrough instead of completing quote on this call."
+  },
+  "top_strength": "Brianne correctly identified the move as large enough to require specialist routing and cleanly transitioned to a walkthrough-scheduler model with a clear callback confirmation, protecting estimate accuracy.",
+  "coaching_note": "Before routing to the specialist, ask the two-concerns question and deliver both promises \u2014 they land early on the v4 card (steps 2 and 3) and should happen even on calls that route to walkthrough, since the customer has already shared detailed information by that point."
+}

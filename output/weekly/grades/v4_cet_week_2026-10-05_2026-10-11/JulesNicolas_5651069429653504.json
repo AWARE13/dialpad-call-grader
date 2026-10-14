@@ -1,0 +1,33 @@
+{
+  "call_id": "5651069429653504",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 8.7,
+  "datetime_ct": "2026-10-09 17:15 CT",
+  "external_number": "+12143159845",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 3,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 38,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Customer opened with 'I was trying to find out how much it will cost if you just move the furniture and appliances instead of moving all the boxes.' Jules never asked the two-concerns question about on-time reliability or damage protection.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer during step 2. Customer initiated with a specific pricing question about furniture-only moves.",
+    "value_days": "Not addressed. Jules confirmed October 30th/31st but never mentioned value days, cheaper alternatives, or date flexibility.",
+    "rate_lock_then_ask": "Never asked. Jules moved directly to 'I'll schedule you right now and send over the confirmation email' with no explicit rate lock, no deposit policy, and no plain ask for the business like 'Would you like our help with your move?'"
+  },
+  "top_strength": "Jules handled the detailed inventory walk-through methodically and completely, working through every room and item the customer wanted moved, and then problem-solved the truck capacity issue by proposing a single-truck, two-day approach prioritizing larger items.",
+  "coaching_note": "Jules never established the Two Promises or the value of Einstein's service \u2014 skip the quid pro quo framing at the top, never ask the two-concerns question, skip the on-time guarantee and damage protection promises entirely, and close without ever securing the business explicitly or confirming rate lock and no-deposit terms, making this a lost opportunity to build trust and protect the sale."
+}

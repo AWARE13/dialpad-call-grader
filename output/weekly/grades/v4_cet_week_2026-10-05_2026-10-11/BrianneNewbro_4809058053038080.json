@@ -1,0 +1,33 @@
+{
+  "call_id": "4809058053038080",
+  "rep_name": "Brianne Newbro",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 11.1,
+  "datetime_ct": "2026-10-09 14:54 CT",
+  "external_number": "+18587740959",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly to logistics after confirming availability.",
+    "two_layers_deep": "No concerns were raised by the customer to probe deeper on.",
+    "value_days": "Rep never offered a choice of days or compared pricing across day options. Customer selected Tuesday the 13th and rep confirmed it; no value-day discussion occurred.",
+    "rate_lock_then_ask": "No rate lock or deposit discussion. Rep moved directly to booking confirmation: 'Okay, done.' No explicit ask for the business was made."
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details about the move (addresses, floor level, freight elevator access, pod contents, apartment size) and anchored an accurate estimate range of $699\u2013$907 based on the specifics.",
+  "coaching_note": "This call skipped the entire consultative spine: no two-concerns question, no promises delivered, no value-day discussion, no rate-lock framing, and no explicit ask for the business \u2014 the customer booked herself after probing was done, and Brianne confirmed it reactively rather than closing the sale intentionally."
+}

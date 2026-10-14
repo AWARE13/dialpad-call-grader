@@ -1,0 +1,33 @@
+{
+  "call_id": "6200149358190592",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 9.1,
+  "datetime_ct": "2026-10-10 15:19 CT",
+  "external_number": "+15756351668",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 7,
+  "total_score": 63,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly from quid pro quo into logistics probing about the source address.",
+    "two_layers_deep": "N/A \u2014 no concerns were surfaced because the two-concerns question was never asked.",
+    "value_days": "Never addressed. Rep offered Saturday November 7th at 8:30-9:00 AM with no mention of alternative days or cost savings.",
+    "rate_lock_then_ask": "Rep said: 'We just wanted to let you know that we can be able to book your slot as early as 8:30 AM to 9:00 AM, that would be on Saturday the 7th of November. Where in, there's no deposit required, no recent scaring your spot in case if you wanted to reschedule it to cancel then all you have to do is just simply give us a call at anytime. Would you like our help with your upcoming move?' Rate lock and no deposit came first, followed by the plain ask."
+  },
+  "top_strength": "Rep delivered both the On-Time Guarantee and No Worries Damage Coverage with clear terms ($2,000 per move, no deductible, built in) and gathered logistics details thoroughly, including special items (home gym equipment, washer/dryer), property features (slanted driveway, two-story destination), and box count.",
+  "coaching_note": "The two-concerns question was never asked \u2014 rep jumped straight into logistics probing after the quid pro quo, missing the step 2 opening that surfaces what matters to the customer and sets up the promises to answer those concerns directly."
+}

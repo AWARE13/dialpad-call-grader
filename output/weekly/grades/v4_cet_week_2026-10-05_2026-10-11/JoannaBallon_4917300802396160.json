@@ -1,0 +1,38 @@
+{
+  "call_id": "4917300802396160",
+  "rep_name": "Joanna Ballon",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 7.5,
+  "datetime_ct": "2026-10-05 15:47 CT",
+  "external_number": "+17134782114",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 54,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Joanna: 'Is that your full name too or may I have your full name, patty?' and later uses it: 'Does that make sense?' and 'so since it's a one bedroom apartment' \u2014 name Patty obtained and used repeatedly throughout",
+    "quid_pro_quo": "Joanna: 'I think we missed a call from this number. Is there anything we can help you with?' and 'it might take about ten to fifteen minutes if this is a good time.' No explicit promise of dependable quote and no real wait for yes before continuing.",
+    "two_concerns_question": "Never asked. Joanna asks 'do you have any important concerns or instructions for this move that you also want to discuss on this call aside from the pricing?' but this is not the two-concerns framing about movers showing up on time or damage.",
+    "promises_delivered": "Joanna delivers damage coverage ('no worries damage coverage which would give you up to $2,000 coverage for any accidental damages') and on-time guarantee ('If we run late, we provide discounts for the move'). However, the full terms are not clearly stated: the on-time discount structure is vague ('discounts for the move'), and she does not ask permission first with the lead-in phrase from the card.",
+    "value_days": "Not addressed. The move is Saturday the 10th; no mention of whether this is a Best Value Day, no comparison to cheaper days, no total dollar savings offered.",
+    "prep_and_temperature_check": "Not present. No Save Your Ass framing about preparation being the biggest factor. No 'How do you feel about that?' temperature check with silence.",
+    "final_concerns_check": "Not asked. The call ends with Patti saying she got a cheaper quote from another company and will go with them. Joanna responds with 'I understand. Yup, same no problem. So just check out for any other fees outside of their hourly rate rate as well' but never circles back with 'What's still concerning you about this move?'",
+    "rate_lock_then_ask": "Never asked. No ask for the business at all. When Patti says she will go with the other company, Joanna accepts it without attempting to close or asking for the business."
+  },
+  "top_strength": "Joanna gathered logistics comprehensively and accurately, probing walking distances, floor locations, property type, and furniture inventory in detail to build an accurate estimate.",
+  "coaching_note": "The two-concerns question was never asked, which is the card's primary step 2 opener \u2014 this is your bookend moment to understand what the customer actually remembers, and it sets up everything that comes after. Redirect to that opening question before any probing begins."
+}

@@ -1,0 +1,35 @@
+{
+  "call_id": "4690882596216832",
+  "rep_name": "Joanna Ballon",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 10.8,
+  "datetime_ct": "2026-10-06 16:45 CT",
+  "external_number": "+15059039064",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 82,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Can you hear me? Hello... My name is Joanna and I will be assisting with your quotation today... Alright thank you so much price for calling back",
+    "quid_pro_quo": "I just need to ask you some questions about this might take about ten to fifteen minutes if that's okay?... Bryce Wade: Okay... Yup that's perfect.",
+    "two_concerns_question": "Never asked. The rep moved directly into logistics verification without asking about concerns.",
+    "concern_led_opening_and_logistics": "Rep asked about oversized items (piano, workout equipment, safe), fragile items (paintings, artworks, glass tables), TVs (4 total), garage items, patio furniture, addresses (4118 Childres Street Houston to 6809 Cedar Ridge Cody Plano), property types (townhome to house), stories (both 2-story), bedrooms (3), square footage (1956 sqft), extra rooms (patio furniture area, garage).",
+    "packing_and_box_count": "Packing asked: 'I know that you're also looking at getting quotes with packing services.' Box count asked: 'And for a home visit usually we end up with about 95 to 115 pre pack boxes. Do you think you would just fall within that range?'",
+    "rate_lock_then_ask": "Not applicable for walkthrough_scheduler call type.",
+    "walkthrough_routing": "Rep offered virtual walkthrough: 'typically for a house the size price we usually recommend doing like a virtual walkthrough so it's like a video call just to make sure that we're providing you the right estimate... are you available to do that?' Customer confirmed availability for tomorrow at 5:00 PM. Rep confirmed: 'I'll meet you there tomorrow. 5:00 PM, okay, awesome.'"
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details efficiently \u2014 addresses, property types, square footage, room count, oversized/fragile items, garage and patio items, and TVs \u2014 and cleanly routed the call to a virtual walkthrough for a move that exceeds the 1800 sq ft threshold.",
+  "coaching_note": "Step 2 (Their Concerns) was completely skipped \u2014 Joanna never asked the two-concerns question or any open-ended probe about what worries the customer, moving directly into logistics verification instead; this is the first moment to anchor to what matters to the customer and should come before probing for details."
+}

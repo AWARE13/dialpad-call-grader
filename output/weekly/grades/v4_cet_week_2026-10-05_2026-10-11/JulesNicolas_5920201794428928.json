@@ -1,0 +1,31 @@
+{
+  "call_id": "5920201794428928",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 24.3,
+  "datetime_ct": "2026-10-09 14:08 CT",
+  "external_number": "+14028028605",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 16,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 71,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talked to a lot of people everyday and most of them have, like one or two concerns or number one usually is they're worried that the movers are not gonna show up on time or not gonna show up at all apparently, and the second thing is, they're worried that they're damage their items are any of these or concerns for you?",
+    "two_layers_deep": "Customer raised concern about potential damage: 'I mean, I, you know, in my pants experience, you know, some people, you know, if it's not their furniture sometimes or they're trying to get, I mean there's, there's a balance between doing something quickly or doing something you know, safely and, and, and carefully.' Jules responded with 'Great. That's right. I totally get that.' but did not probe deeper with 'tell me more about that' or silence.",
+    "value_days": "For Monday to Thursday move, the hour rate is $102 per hour per mover. However, we are actually fully booked that Thursday shouldn't have offered but if you're more flexible, we have cheaper rates for Sunday but I think that's gonna be too late for you. / Customer chose Friday at $111/hr; rep identified Thursday as cheaper ($102/hr), offered the saving, and asked about flexibility: 'Difference.' / 'Of course. Well technically, for Monday to Thursday move, the hour rate is $102 per hour per mover.'",
+    "rate_lock_then_ask": "We do not really require any deposit nor do we need any credit card upfront. We understand that move that you know, move itself can be challenging in terms of scheduling. So we do not require any of those if you want to get on schedule. I can really get you scheduled right now... For now I, I'll go ahead and schedule, schedule that to do that move."
+  },
+  "top_strength": "Jules handled the two-concerns question properly and early, gathered comprehensive logistics details about the move inventory and property, and closed with a smooth booking confirmation including follow-up emails and crew introductions.",
+  "coaching_note": "After the customer raised damage concerns in step 2, Jules acknowledged but moved past without going two layers deep \u2014 a second probe like 'Tell me more about what you're most worried about getting damaged' would have surfaced and addressed the real anxiety; also missing is the final genuine concerns check in step 6 ('What's still concerning you?') which is one of the two moments customers actually remember."
+}

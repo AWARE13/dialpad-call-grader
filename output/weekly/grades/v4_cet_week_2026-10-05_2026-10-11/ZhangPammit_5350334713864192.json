@@ -1,0 +1,32 @@
+{
+  "call_id": "5350334713864192",
+  "rep_name": "Zhang Pammit",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 15.0,
+  "datetime_ct": "2026-10-10 15:50 CT",
+  "external_number": "+19728329404",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 10,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NOT ASKED \u2014 Rep moved directly to pricing without asking about concerns.",
+    "two_layers_deep": "N/A \u2014 No concerns elicited in step 2 discovery phase.",
+    "value_days": "Yeah, that would be Tuesday. That's one of our cheapest rate or the best rate that you've got Tuesdays, Wednesdays and Thursdays for Saturday. For example, if you wanted to move on a Saturday and Friday the rate is $109 per hour. \u2014 Rep identified the branch (Best Value Day) and mentioned pricing difference but did not offer total dollar savings or explicitly ask about date flexibility.",
+    "rate_lock_then_ask": "there's no deposit record, no risk and securing your spot. In case if you wanted to reschedule or to cancel, then all you have to do is just simply give us a call at anytime. ... Do you want me to reserve the movers and the off for you in that day? \u2014 Rate lock and no-deposit language came before the booking ask."
+  },
+  "top_strength": "Rep successfully walked the customer through a complex estimate, handled objections around price confidently by explaining the value and coverage differences, and secured a firm booking with all key details confirmed.",
+  "coaching_note": "Step 2 was skipped entirely \u2014 open the call with the two-concerns question before moving to pricing, and always dig two layers deep on whatever the customer raises so you truly understand what matters to them before quoting."
+}

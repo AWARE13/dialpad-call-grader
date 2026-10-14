@@ -1,0 +1,31 @@
+{
+  "call_id": "6545613572579328",
+  "rep_name": "Joanna Ballon",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 15.3,
+  "datetime_ct": "2026-10-06 19:25 CT",
+  "external_number": "+12545484551",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 12,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Joanna asked \"do you have any other important concerns aside from the pricing that you also want to discuss right now\" \u2014 which is open-ended, not the two-concerns framing.",
+    "two_layers_deep": "Full. Customer raised packing concern; Joanna asked follow-up questions and listened (\"Mm-hmm\") multiple times, then summarized availability constraints and offered Friday packing option. Customer later raised furniture items concern; Joanna probed (\"do we have a couch\", \"any outside furniture\"), and customer elaborated on beds, dressers, tables, bookshelves, ladder.",
+    "value_days": "Not addressed. October 10th (Saturday) was discussed as booked/afternoon-only, but no reference to whether it's a Best Value Day, cheaper alternatives offered, or date flexibility explored in that context.",
+    "rate_lock_then_ask": "Full. Joanna stated \"we don't take deposit so that, that's correct. You're right. The payment is only upon completion of the move\" (rate lock / no deposit), then asked \"Now with that being said would you like our help for this move on Saturday?\" (explicit ask, no softened-out alternative)."
+  },
+  "top_strength": "Joanna successfully gathered all critical logistics details (addresses, floor levels, walking distances, furniture inventory, box count) through natural probing that felt responsive to the customer's actual concerns, and closed the booking with full confirmations.",
+  "coaching_note": "Lead step 2 with the two-concerns question (movers showing up on time or damage to items) before any open-ended ask \u2014 this sets the agenda and makes the customer's concerns explicit so you can address them in step 3; also deliver both promises (On-Time Guarantee and No Worries Damage Coverage) with permission setup before moving into pricing."
+}

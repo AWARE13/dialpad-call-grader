@@ -1,0 +1,32 @@
+{
+  "call_id": "6004409552379904",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 12.2,
+  "datetime_ct": "2026-10-08 18:35 CT",
+  "external_number": "+16195516139",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people everyday and most of them have one or two concerns either mover is not showing up or damaging their items are either of those a concern for you",
+    "two_layers_deep": "customer said 'Yeah a little have enough stuff damage join' \u2014 rep replied with damage coverage details instead of 'tell me more about that' or probing deeper into the stated concern",
+    "value_days": "rep offered Sunday at $192/hour instead of $200, stated savings as hourly rate ($8/hour) not total dollar amount, then asked flexibility; customer declined Saturday requirement",
+    "rate_lock_then_ask": "rep never mentioned rate lock or no deposit; customer asked about quote validity ('how long is this quote available for'), rep gave vague response ('before your move date') but never circled back with a commitment; no explicit ask for business, rep pivoted to email and callback"
+  },
+  "top_strength": "Jeline gathered comprehensive logistics details across two pickup locations and the delivery address, including property type, floor access, distances, parking, and storage unit configuration \u2014 all critical for accurate estimating.",
+  "coaching_note": "You need to ask 'How do you feel about that?' after presenting the estimate and hold the silence; you also skipped the final concerns check entirely and never actually asked for the business \u2014 both are critical bookend moments that close the sale."
+}

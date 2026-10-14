@@ -1,0 +1,35 @@
+{
+  "call_id": "4642374530932736",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 6.6,
+  "datetime_ct": "2026-10-06 16:00 CT",
+  "external_number": "+15129996131",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 74,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep: 'Can I have your name, please.' Customer: 'Yes, this is Holly.' Rep later: 'And just to you make sure that we've got the re, the details correctly.'",
+    "quid_pro_quo": "Rep: 'basically we've tried to get in touch with you today to gather some details so we can build an a code and this would take within the next fifteen to five to ten minutes of your time. Would that be okay?' \u2014 frames time but does not promise a dependable quote and does not clearly establish the appointment availability.",
+    "two_concerns_question": "Never asked. Rep goes directly to logistics: 'So basically based on your home size, normally we do a virtual walk through...'",
+    "concern_led_opening": "Missing. Rep asks 'Can you be able to park on the driveway' and 'do we have access concerns' but does not open with 'What items are you most concerned about?'",
+    "packing_and_box_count": "Box count: 'typical back count based on your home size is 140 to 180 boxes. How many boxes are be moving?' Customer: 'Probably, probably twenty.' Packing: 'No need help in packing like putting the small items, interior boxes.' Customer: 'No.'",
+    "value_days": "N/A \u2014 this is a walkthrough_scheduler call; step 5 is not scored.",
+    "rate_lock_then_ask": "N/A \u2014 this is a walkthrough_scheduler call; step 7 is not scored."
+  },
+  "top_strength": "Rep efficiently gathered logistics details (addresses, property type, parking, bedroom/room count, box count, packing needs, special items) and correctly identified this as a 2,500 sq ft move requiring a virtual walkthrough rather than an immediate quote.",
+  "coaching_note": "On intake calls like this, ask the two-concerns question ('movers not showing on time, or damage to items \u2014 are either a concern for you?') before diving into logistics, and deliver the Two Promises (On-Time Guarantee and No Worries Damage Coverage) with permission and confirmation, even though the call is routing to a walkthrough \u2014 both come before probing on the v4 card and build trust early."
+}

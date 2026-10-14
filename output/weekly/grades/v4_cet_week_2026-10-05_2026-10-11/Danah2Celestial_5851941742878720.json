@@ -1,0 +1,31 @@
+{
+  "call_id": "5851941742878720",
+  "rep_name": "Danah 2Celestial",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 11.1,
+  "datetime_ct": "2026-10-06 14:55 CT",
+  "external_number": "+14793219872",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 34,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NOT ASKED. Rep asked open-ended 'do you have any concerns or any questions about the move that you won't answers to on this call other than the price' but never posed the two-concerns framing (damage/on-time guarantee).",
+    "two_layers_deep": "Customer said 'I just have a ban mattress a desk and a small table along with some clothes and several boxes. Most of which I believe will fit in the ten foot truck' \u2014 rep acknowledged with backchannels ('Mm-hmm') but never asked follow-up questions to understand concern depth.",
+    "value_days": "Rep stated 'Saturday is actually one of our peak days. So the hourly rate for two movers is $230 while Sunday. It's $210 for two movers' \u2014 identified the day branches but did not offer the saving as a total dollar amount or ask about date flexibility.",
+    "rate_lock_then_ask": "Rep said 'we don't require a deposit to book' (rate lock present) but never asked the explicit ask 'Would you like our help with your move?' Instead customer self-initiated callback with 'I'll take a look at it and hopefully call you guys back before the end of the day' and rep accepted with no attempt to close."
+  },
+  "top_strength": "Danah gathered all essential logistics details (pickup/drop-off addresses, floor level, walking distance, item list, box count) systematically and confirmed the storage unit location would be updated once finalized.",
+  "coaching_note": "Step 2 is missing entirely \u2014 ask the two-concerns question (movers showing up on time, damage to items) before any probing starts; this is the primary driver of the estimate conversation and should land in the first minute."
+}

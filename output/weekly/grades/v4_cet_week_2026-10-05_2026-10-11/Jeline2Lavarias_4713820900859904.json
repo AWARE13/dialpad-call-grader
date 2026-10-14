@@ -1,0 +1,33 @@
+{
+  "call_id": "4713820900859904",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 8.1,
+  "datetime_ct": "2026-10-05 17:29 CT",
+  "external_number": "+14252466506",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep jumped directly into logistics probing without asking about on-time or damage concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during step 2.",
+    "value_days": "Not addressed. Rep noted Saturday October 24th but never identified it as a Value Day branch or offered date flexibility savings.",
+    "rate_lock_then_ask": "Rep said 'we do not require any deposit. So if ever you wanna reschedule then you are free to do so' and asked 'would you like to be on the schedule for Saturday October 24th' but this is a very soft ask with a built-in out. No explicit 'Would you like our help with your move?' and the customer immediately deferred: 'Yeah. Okay. I got a couple of other places I want to call but I will get back to you.'"
+  },
+  "top_strength": "Jeline gathered detailed logistics comprehensively (furniture, box count, TV sizes, property layout, distances) and provided a well-anchored, personalized estimate range ($791-$997) that accounted for the specific challenges of the move.",
+  "coaching_note": "The two-concerns question (movers showing up on time, damage to items) was never asked, and the pricing framing skipped Value Days and the prep-framing temperature check entirely \u2014 together these gaps cost significant credibility and left money on the table before asking for the business."
+}

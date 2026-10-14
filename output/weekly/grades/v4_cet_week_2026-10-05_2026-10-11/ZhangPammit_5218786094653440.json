@@ -1,0 +1,32 @@
+{
+  "call_id": "5218786094653440",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 5.3,
+  "datetime_ct": "2026-10-06 14:08 CT",
+  "external_number": "+12817335750",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 60,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep said 'I'm from Einstein moving' but never used customer's name again; customer self-identified as Austin but rep only called him 'you'",
+    "quid_pro_quo": "Rep said 'this would take within the next five to ten minutes of your time. Would that be okay?' \u2014 time-boxed but no promise of a dependable quote, and no clear wait for yes before proceeding",
+    "two_concerns_question": "Never asked; rep asked 'do you have any specific concerns or important things that you wanted to answer during this call today?' which is open-ended and came after a brief pause, but the two-concerns frame (movers showing up on time, damage to items) was never deployed",
+    "concern_led_opening_and_logistics": "Rep asked about property details systematically: address, square footage, bedrooms, parking, additional rooms, access concerns (narrow pathways, deep drivers), then box count. All major logistics gathered before walkthrough routing decision.",
+    "packing_and_box_count": "Rep said 'typical back scout based on your home size is 115 to 135 boxes. Do you feel that you fall within that range?' and then 'how many boxes do you think you will have?' \u2014 both packing need and box count covered, though packing was assumed rather than directly asked as 'would you like us to pack'",
+    "value_days": "N/A \u2014 walkthrough_scheduler call, step 5 auto-credited",
+    "rate_lock_then_ask": "N/A \u2014 walkthrough_scheduler call, step 7 auto-credited"
+  },
+  "top_strength": "Rep methodically gathered all logistics details for both addresses (square footage, bedrooms, parking, access concerns, box count) before correctly routing to the virtual walkthrough.",
+  "coaching_note": "Never deployed the two-concerns frame before probing, and skipped the Two Promises entirely \u2014 both should land before the walkthrough is scheduled, not after probing starts."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "6487902027816960",
+  "rep_name": "Zhang Pammit",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 12.8,
+  "datetime_ct": "2026-10-08 16:17 CT",
+  "external_number": "+13125055473",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 64,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised in step 2 because the question was never asked.",
+    "value_days": "Rep confirmed Monday, November 9th without offering or discussing cheaper alternative days.",
+    "rate_lock_then_ask": "\"we can be able to book your slot as early as 8:30 AM to 9:00 AM wherein there's no deposit required\" followed by \"I'll reserve the movers, send the truck for you on that day\" and customer acceptance."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details efficiently and delivered a specific, personalized estimate ($2,930 for 7\u20138 hours with three movers) that matched the customer's actual needs.",
+  "coaching_note": "Never skip the two-concerns question \u2014 it's the entry point to step 2 and should be asked before any probing begins; also ask the genuine final concerns check in step 6 (\"What's still concerning you about this move?\") rather than leaving it out entirely."
+}

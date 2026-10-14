@@ -1,0 +1,33 @@
+{
+  "call_id": "5567357998374912",
+  "rep_name": "Zhang Pammit",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 12.7,
+  "datetime_ct": "2026-10-06 21:31 CT",
+  "external_number": "+14699646859",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 7,
+  "total_score": 63,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep jumped directly into logistics probing with 'so what are we moving by the way so we can check availability to begin with?'",
+    "two_layers_deep": "N/A \u2014 no concerns were elicited because the two-concerns question was never asked.",
+    "value_days": "Never addressed. Rep did not identify which value day branch applied to October 9th or offer any date flexibility savings.",
+    "rate_lock_then_ask": "Rep said 'we can go ahead and get you on the schedule, on the 9th of October as early as 8:30 AM to 9:00 AM there's no deposit required' followed by 'And would you, like or help with your upcoming move this Friday?' The rate lock and no-deposit framing came before the ask, in proper order."
+  },
+  "top_strength": "Zhang gathered comprehensive logistics details across all three locations (addresses, floor levels, access, special items, box counts) and delivered a specific, itemized estimate ($2,073 for 5\u20136 hours, three movers) anchored to the customer's actual move profile.",
+  "coaching_note": "The two-concerns question must open step 2 before any logistics probing starts \u2014 it's the only way to discover what actually matters to this customer, and skipping it means missing the entire opportunity to build trust on their real fears before pitching reliability and damage coverage."
+}

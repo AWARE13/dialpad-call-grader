@@ -1,0 +1,34 @@
+{
+  "call_id": "4962344404033536",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.7,
+  "datetime_ct": "2026-10-09 14:04 CT",
+  "external_number": "+13022564297",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 8,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 75,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked": "Hello, hi good morning this is an from Mistee moving. I'm looking to speak with Emma.",
+    "name_used_later": "Not used again after customer confirmed they were Emma",
+    "quid_pro_quo": "It looks like we have availability within your timeframe. Next step is to put together an estimate, I have some questions about your move specifically this would take about ten to fifteen minutes of your time. So you can walk away with a quote you can depend on instead of just the guest. Does that sounds good to you?",
+    "two_concerns_question": "Not asked at any point in the call",
+    "packing_and_box_count": "A typical backs count for your home size is 115 to 135 boxes. Do you feel that you fall within that range? ... Do you need help in packing like putting the small items into your boxes or your cloths kitchen was.",
+    "walkthrough_routing": "I just wanted to let you know that based on your home size, normally we do a virtual walkthrough which would take within the next ten to fifteen minutes of your time in order for us to check what are the things that we're moving and I'm getting the most accurate quote possible. Do you have time to complete the virtual walk for you today? ... We already gone ahead and send you a a link for the virtual walkthrough. Have you received it by any chance?"
+  },
+  "top_strength": "Rep cleanly identified the move size threshold (2250 sq ft origin + 2680 sq ft destination), correctly routed to virtual walkthrough, and confirmed next steps with the customer.",
+  "coaching_note": "Before routing to walkthrough, ask the two-concerns question to understand what matters most to this customer, and deliver both promises (On-Time Guarantee and No Worries Damage Coverage) so the customer enters the walkthrough with confidence in how you handle their stated concerns."
+}

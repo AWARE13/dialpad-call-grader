@@ -1,0 +1,33 @@
+{
+  "call_id": "6385876564484096",
+  "rep_name": "Jules Nicolas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 6.9,
+  "datetime_ct": "2026-10-06 21:04 CT",
+  "external_number": "+15037847008",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NEVER ASKED. The rep never asked the two-concerns opener about reliability/damage, or any open-ended equivalent.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during step 2.",
+    "value_days": "So if you're flexible and moving from Sunday to Thursday, it's gonna be about $108 cheaper... Should it take us nine hours? Like it's just gonna be $2,322 for a Sunday. [Customer declined: I think we probably will stick with Saturday.]",
+    "rate_lock_then_ask": "Yeah, no problem. So we actually do not require any deposit or do I need any like credit card info upfront... if you want I can definitely get you scheduled right now for Saturday, October 17th."
+  },
+  "top_strength": "Jules handled the rate-lock and no-deposit framing cleanly before asking for the business, and successfully booked the customer on the spot with a specific date and arrival window.",
+  "coaching_note": "The two-concerns question from step 2 was never asked, and no permission lead-in or damage/reliability promises (step 3) were delivered \u2014 those are the two heaviest-weighted moments in the call and both were skipped entirely; add the step 6 final concerns check and this call left significant discovery and reassurance on the table."
+}

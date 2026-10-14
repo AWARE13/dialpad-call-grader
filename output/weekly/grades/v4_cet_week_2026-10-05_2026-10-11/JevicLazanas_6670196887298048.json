@@ -1,0 +1,33 @@
+{
+  "call_id": "6670196887298048",
+  "rep_name": "Jevic Lazanas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 10.2,
+  "datetime_ct": "2026-10-10 17:22 CT",
+  "external_number": "+12147994145",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 5,
+  "total_score": 63,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moves directly into logistics probing after quid pro quo.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer.",
+    "value_days": "Never addressed. Rep does not identify which day branch applies or offer any savings based on date flexibility.",
+    "rate_lock_then_ask": "Rep asks 'would you like me to go ahead and get on the schedule today?' before mentioning rate lock or no deposit. The ask comes first, then booking details follow, but rate lock/no deposit terms are never stated at all."
+  },
+  "top_strength": "Jevic gathered comprehensive logistics details systematically \u2014 both pickup locations, elevator access, distances, storage unit specs, and furniture inventory \u2014 ensuring an accurate estimate foundation.",
+  "coaching_note": "Ask the two-concerns question before any probing starts ('movers not showing up on time or damage to items'), then build the promises (On-Time Guarantee and No Worries Damage Coverage) to address what the customer just named \u2014 these are missing entirely."
+}

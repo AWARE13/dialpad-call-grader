@@ -1,0 +1,33 @@
+{
+  "call_id": "5945477431599104",
+  "rep_name": "Danah 2Celestial",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 10.9,
+  "datetime_ct": "2026-10-05 21:39 CT",
+  "external_number": "+15128507780",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly from checking availability into logistics gathering without asking about concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer.",
+    "value_days": "Rep offered Wednesday at $192/hour vs Friday at $200/hour, presented as hourly rate difference rather than total dollar amount. Customer declined the cheaper day. Rep did ask about flexibility implicitly by offering the alternative.",
+    "rate_lock_then_ask": "Confirmed: 'lock in December 4th Friday' and 'no need for deposit. We don't require one' stated before asking for the move. The explicit ask was implicit in the booking confirmation rather than a direct 'Would you like our help?' but the booking was secured."
+  },
+  "top_strength": "Danah efficiently gathered logistics details (addresses, box count, storage unit size) and provided a clear, itemized estimate ($500 for 2.5 hours at $200/hour) with full fee transparency (no hidden charges, 15-minute increment billing, trip included).",
+  "coaching_note": "This call missed the two-concerns question and both promises entirely \u2014 the foundational steps that build trust before pricing. For any move, even a storage reorganization, ask 'Are either of those a concern for you?' early and deliver the On-Time Guarantee and No Worries Damage Coverage before discussing the estimate, then check 'Does that put those to rest?'"
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "4941303402766336",
+  "rep_name": "Danah 2Celestial",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 14.0,
+  "datetime_ct": "2026-10-11 17:17 CT",
+  "external_number": "+18482565407",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly from confirming inventory into pricing without asking about customer's primary concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer during step 2 since the question was never asked.",
+    "value_days": "Rep said: 'Mondays through Thursdays is our best value days. So the hourly rate is discounted... Monday if you choose to move on the one of those days the hourly rate for two movers is $204...' Customer asked about weekend rates and rep provided Friday/Saturday at $218, Sunday at $206 \u2014 all three branches mentioned with hourly rates, not total dollar amounts as the rubric requires.",
+    "rate_lock_then_ask": "Rep never explicitly stated rate lock or no-deposit guarantee before asking for business. Mentioned 'estimate doesn't have like an expiration date' regarding availability but did not use the 'would you like our help' language or any clear closing ask. Customer ended call without booking, and rep did not pursue the ask."
+  },
+  "top_strength": "Rep gathered detailed inventory methodically and provided a specific, personalized estimate range ($789\u2013$1,197) anchored to the customer's actual move profile (third-floor apartment, two-story house, fewer boxes).",
+  "coaching_note": "You skipped the two-concerns question entirely and moved straight into probing, missing the chance to understand what matters most to this customer; add the 'movers showing up on time or damage' question before logistics, then use their answer to shape the whole conversation."
+}

@@ -1,0 +1,36 @@
+{
+  "call_id": "5493411952762880",
+  "rep_name": "Jevic Lazanas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 12.4,
+  "datetime_ct": "2026-10-10 14:56 CT",
+  "external_number": "+18572052827",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep: 'Can I have your name again please.' Customer: 'Yeah, A-T-U-L.' Rep: 'So at tool. There you go.' Later used: 'Okay, so at tool sir.'",
+    "quid_pro_quo": "Not present. Rep moves directly into logistics gathering without framing availability, time commitment, or promise of dependable quote.",
+    "two_concerns_question": "Not asked. Rep does not use the two-concerns opener about on-time movers or damage protection.",
+    "promises_delivered": "Not delivered. Rep never covers On-Time Guarantee or No Worries Damage Coverage before routing to walkthrough specialist.",
+    "concern_led_opening": "Rep asks about items concerned about during form filling but does not lead with 'What items in this move are you most concerned about?' Instead, customer self-reports during online form submission.",
+    "packing_and_box_count": "Packing asked: 'Do you need help packaging and belonging?' Box count not asked.",
+    "value_days": "Rep mentions rate difference between Saturday ($109) and Sunday ($103) but this is offered at the end of the call as a factual comparison, not as Value Days framing with flexibility ask or total dollar savings.",
+    "walkthrough_routing": "Rep identifies 3100 sq ft home, correctly sizes it as large move, and routes to specialist: 'since this is a large move I need to go ahead and endorse this to a large move specialist so that you will be provided an accurate estimate.' Virtual walkthrough scheduled for tomorrow 9:00 AM with link to be sent."
+  },
+  "top_strength": "Rep correctly identified the move size threshold (3100 sq ft, growing to 4000 sq ft with storage), recognized it required specialist handling, and cleanly routed to the virtual walkthrough specialist with a confirmed time and communication plan.",
+  "coaching_note": "Before routing to walkthrough: ask the two-concerns question and deliver both promises (On-Time Guarantee and No Worries Damage Coverage) with permission lead-in\u2014these belong in step 3 before probing ends, not deferred to the specialist."
+}

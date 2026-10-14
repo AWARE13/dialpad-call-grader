@@ -1,0 +1,31 @@
+{
+  "call_id": "6110955863056384",
+  "rep_name": "Joanna Ballon",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 13.0,
+  "datetime_ct": "2026-10-08 21:33 CT",
+  "external_number": "+18326413589",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 3,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep skipped the two-concerns opener (movers showing up on time vs. damage concerns) and went straight into logistics probing after the initial quid pro quo.",
+    "two_layers_deep": "Customer did volunteer one concern early ('we just have a in a big ones where we need help with'), but rep acknowledged with no follow-up dig \u2014 moved straight into probing checklist items instead.",
+    "value_days": "Rep offered value days with both correct branch identification and total dollar figures: 'Friday, it's $220 per hour. Saturday is $230 and then Sunday is $210' and later clarified Saturday quote at $1,540 vs. Sunday at $1,470, asking 'Are your dates flexible or Saturday it's just really like the best date for you guys.' Full credit.",
+    "rate_lock_then_ask": "Rep stated 'no raise in securing a spot. So if you need to make changes later all you have to do is give us a call' and 'we don't take deposits' but then moved to scheduling without a clear ask for the business. Ended with 'But for now, I'll just click you for a Saturday job and I'll send everything in the email. But of course, any other questions you might have or if you want to go ahead and get on the schedule already whichever works for you' \u2014 rate lock present but the ask is buried and softened with an out ('whichever works for you')."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details efficiently and delivered a personalized estimate anchored to the customer's specific situation (two standing desks, walking distances, elevator proximity) with proper value-day comparison and total dollar savings.",
+  "coaching_note": "Open with the two-concerns question before any probing to surface what actually matters to this customer, then dig two layers deep on whatever they name \u2014 this call jumped straight to the checklist and missed the chance to frame your solutions against their real worries."
+}

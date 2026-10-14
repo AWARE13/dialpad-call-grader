@@ -1,0 +1,34 @@
+{
+  "call_id": "5967778071486464",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 10.0,
+  "datetime_ct": "2026-10-10 15:54 CT",
+  "external_number": "+18065351319",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 3,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 33,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep never asked about on-time delivery or damage concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer in step 2 because step 2 never happened.",
+    "value_days": "Not addressed. Rep provided estimate with no discussion of alternative days or cost savings.",
+    "rate_lock_then_ask": "Not asked. Rep said 'will there be anything else sir that I can help?' and 'have a wonderful day' with no ask for the business, no rate lock, and no confirmation of booking. The customer did not book on the call."
+  },
+  "top_strength": "Jevic excellently gathered complex logistics details \u2014 donation location, piano handling, unwrap/rewrap requirements, full 10x20 unit inventory \u2014 and clearly confirmed crew size (three movers) and next steps with the customer's full participation.",
+  "coaching_note": "This call skipped the entire consultative framework (no concerns question, no promises, no pricing context, no final concerns check) and jumped straight to inventory-gathering and a one-way estimate delivery; the 15-minute quote call structure exists to build trust and handle objections before they derail the booking \u2014 retrain on step 2 (two-concerns question before probing) and step 7 (explicit ask for the business with rate lock mentioned first)."
+}

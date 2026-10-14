@@ -1,0 +1,34 @@
+{
+  "call_id": "4544424360321024",
+  "rep_name": "Zhang Pammit",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 5.4,
+  "datetime_ct": "2026-10-08 15:19 CT",
+  "external_number": "+12018819653",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 82,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "we just wanted to ask you some information in order for us to give you a perfect quote and this will take about ten to fifteen minutes of your time. So you can walk away with the quote you can depend on instead of just a guess. Would that be okay?",
+    "two_concerns_question": "NOT ASKED \u2014 rep never asked the two-concerns opener about movers showing up on time or damage to items",
+    "two_promises": "NOT DELIVERED \u2014 rep never asked permission lead-in, never stated On-Time Guarantee or No Worries Damage Coverage",
+    "logistics_gathered": "address, apartment number, floor/elevator, walking distance from loading dock to door, box count range discussed, access concerns at destination address, both addresses and property types confirmed",
+    "packing_and_box_count": "Both asked: 'normally it is between 2025 to 35 boxes. Do you feel that you fall within that range?' and 'Is that an option to do that? ... normally we do have full packing or partial packing.'",
+    "walkthrough_routing": "Based on your home size, normally we do a virtual walkthrough. In that way we will just base it on the items that we're moving. Do you have time to complete the virtual walkthrough today?"
+  },
+  "top_strength": "Rep cleanly qualified the move as requiring a virtual walkthrough (3300 sq ft house), gathered all key logistics details, handled the packing question proactively, and successfully scheduled the walkthrough for 5:00 PM today with clear next steps.",
+  "coaching_note": "Never skip the two-concerns question (movers on time / damage protection) \u2014 it is the gateway to step 2 and must happen before any probing, even on walkthrough-scheduler calls that will route to virtual tours."
+}

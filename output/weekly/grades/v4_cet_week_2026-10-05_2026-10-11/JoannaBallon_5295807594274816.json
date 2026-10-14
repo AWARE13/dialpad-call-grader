@@ -1,0 +1,31 @@
+{
+  "call_id": "5295807594274816",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 29.4,
+  "datetime_ct": "2026-10-08 19:05 CT",
+  "external_number": "+15129344449",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 38,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Joanna never asked the two-concerns opening question about movers showing up on time or damage to items.",
+    "two_layers_deep": "Customer raised multiple concerns (freezer removal, storage rearrangement, grand piano, antique items) but Joanna acknowledged each with minimal follow-up and moved to next topic rather than probing two layers deep. Example: Customer mentions water leak damage to boxes; Joanna says 'I see, mm-hmm' and pivots to storage questions without asking tell-me-more.",
+    "value_days": "Joanna offered value days framing: 'Sundays to Thursdays are our best value days. So that's lower compared to a Friday or a Saturday' and gave the dollar difference ($96 vs $103 per hour per mover, $7 difference). She asked about availability but did not isolate a specific cheaper day for this customer or ask flexibility directly; the discussion was general rate structure.",
+    "rate_lock_then_ask": "Never asked. Joanna provided pricing estimates ($2964 for pack/move, $2500 for storage, ~$5-6k total) and email follow-up promise but never mentioned rate lock, no-deposit guarantee, or asked 'Would you like our help with your move?' The call ended with customer saying 'I'll get started with pictures' and no explicit booking ask."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details (address, square footage, stories, rooms, oversized items, parking, special items like antique furniture and grandfather clock) and identified key constraints early, building a nuanced picture of a complex multi-part move.",
+  "coaching_note": "You skipped the two-concerns question entirely and never asked for the business at the end of the call\u2014these are the two bookends of the card that matter most to customers; go back and embed both into your rhythm."
+}

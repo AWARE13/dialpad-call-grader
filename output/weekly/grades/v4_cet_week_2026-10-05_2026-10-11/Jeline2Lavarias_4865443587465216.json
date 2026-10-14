@@ -1,0 +1,33 @@
+{
+  "call_id": "4865443587465216",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 15.8,
+  "datetime_ct": "2026-10-07 21:13 CT",
+  "external_number": "+12144503567",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Rep never asked the two-concerns question. Customer raised no concerns voluntarily at step 2 \u2014 rep asked 'do you have any concerns about the moving process?' only after probing was complete, not before.",
+    "two_layers_deep": "Not applicable \u2014 no concerns were raised at step 2.",
+    "value_days": "Rep: 'So since you're flexible with the date, we're gonna move you on October 11th Sunday. You're actually taking advantage of one of the best value rate where you'll get one of the cheapest rate in a week. So instead of paying $222 your hourly rate will go to $202 with that's already for two movers and one truck.' Correctly identified the branch, gave the saving as a total dollar figure ($222 to $202), and asked for date flexibility beforehand.",
+    "rate_lock_then_ask": "Rep: 'We do not require any deposit. So you will only be asked to make the payment once we completed the move on Sunday.' Then customer says 'I think that that's gonna have to work let's go ahead and schedule that then' and rep confirms booking. The rate-lock/no-deposit statement came after the customer had already verbally agreed to book ('let's go ahead and schedule that then'), so the order is reversed."
+  },
+  "top_strength": "Jeline gathered detailed logistics across two pickup locations and one delivery address with specificity (distances, floor access, special items like washer/dryer), and correctly identified the value-day opportunity to save the customer $20/hour as a concrete dollar saving.",
+  "coaching_note": "Do not skip the two-concerns question at step 2 before probing starts \u2014 ask it early to identify what matters most to the customer, then let them talk it through two layers deep; also deliver both the On-Time Guarantee and No Worries Damage Coverage promises with their full terms before the estimate, and ask 'How do you feel about that?' to close the loop before moving to pricing."
+}

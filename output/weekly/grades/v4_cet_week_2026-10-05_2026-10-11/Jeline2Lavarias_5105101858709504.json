@@ -1,0 +1,33 @@
+{
+  "call_id": "5105101858709504",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 24.5,
+  "datetime_ct": "2026-10-06 16:17 CT",
+  "external_number": "+12144034459",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NOT ASKED. Rep skipped the primary two-concerns opener entirely and moved straight into logistics probing.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer at step 2, so there was no opportunity for two-layer follow-up.",
+    "value_days": "NOT ADDRESSED. Rep quoted Tuesday, customer asked if Wednesday was available, rep confirmed availability on Wednesday, but no savings or value-day comparison was offered. No language like 'cheaper day' or dollar savings.",
+    "rate_lock_then_ask": "We do not require any deposit so if you want to do any amendments on your schedule, if you want to reschedule or maybe cancel, you are free to do that. So with that, would you like to be on the schedule? YES. Rate lock / no deposit came before the ask. Customer accepted: Yes, I do actually."
+  },
+  "top_strength": "Jeline gathered comprehensive logistics details, asked the box-count question with a range anchor, and successfully booked the customer on the first ask without any soft out.",
+  "coaching_note": "Do not skip the two-concerns question at the opening of step 2 \u2014 this is the primary lever for understanding what matters to the customer; ask it before any probing starts, then go two layers deep on whatever they raise."
+}

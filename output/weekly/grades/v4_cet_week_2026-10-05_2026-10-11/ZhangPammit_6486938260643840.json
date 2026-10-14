@@ -1,0 +1,33 @@
+{
+  "call_id": "6486938260643840",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 15.4,
+  "datetime_ct": "2026-10-07 21:47 CT",
+  "external_number": "+12107280846",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 8,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 57,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NOT ASKED. Rep moved directly into logistics probing without asking about on-time or damage concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during step 2 because the two-concerns question was never asked.",
+    "value_days": "NOT ADDRESSED. Rep gave estimate ($1,152 for 6 hours, $576 for 3 hours) without mentioning day-of-week pricing or asking about date flexibility.",
+    "rate_lock_then_ask": "WEAK. Rep said 'We don't have deposit here we can be able to book her status early as 8:30 AM to 9:00 AM. There's no deposit required no risk and securing your spot in case if you wanted to reschedule or to cancel then all you have to do is just simply give us a call at anytime.' Then ended with 'just feel free to let us know. I'll send you the email quotation as well and just feel free to email call us or text us at anytime.' The rate lock was mentioned but the ask was softened with 'just feel free' and ended with an easy out ('email call us or text us')."
+  },
+  "top_strength": "Zhang gathered detailed logistics thoroughly \u2014 addresses, floor levels, walking distances, special items (sectional, marble dining table, 75-inch TV), and confirmed apartment sizes and locations with excellent follow-up questions to clarify the scope.",
+  "coaching_note": "Skip the two-concerns question entirely and you miss the entire foundation of the call \u2014 ask it early (before probing starts), dig two layers deep on what the customer names, and build the promises around those specific concerns rather than delivering a generic feature dump."
+}

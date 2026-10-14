@@ -1,0 +1,33 @@
+{
+  "call_id": "6662002626568192",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 5.5,
+  "datetime_ct": "2026-10-10 16:58 CT",
+  "external_number": "+19035703343",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 79,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "name_asked_and_used": "Roselyn: 'I'm looking to speak with Andrea.' Andrea: 'Yes, this is.' Then used repeatedly throughout the call.",
+    "quid_pro_quo": "Roselyn: 'this would take about ten to fifteen minutes of your time. So you can walk away with a code you can depend on instead of just having a gas. Does that sounds good to you?' Andrea: 'Yes, go ahead.'",
+    "two_concerns_question": "Roselyn: 'We talk a lot of people everyday, most of them have one or two concerns either mover is not showing up on time or damage their items are either of those a concern for you.' \u2014 Asked after logistics probing had already begun.",
+    "two_layers_deep": "Andrea raises damage concern: 'making sure nothing's damaged.' Roselyn reflects back but does not probe deeper with 'tell me more' or sustained follow-up.",
+    "active_listening_reflection": "Roselyn: 'So what I'm hearing is your concern with regards to not damaging the items. Did I get it? Okay, perfect!'",
+    "promises_delivered": "No promises about On-Time Guarantee or No Worries Damage Coverage were delivered. Routed directly to virtual walkthrough instead.",
+    "concern_led_opening_and_logistics": "Roselyn asks about additional rooms, parking, box count, packing needs, access concerns, and tree clearance. Logistics fully covered despite no explicit 'What items are you most concerned about?' opening.",
+    "packing_and_box_count": "Box count: 'typical backs count based on your home size is between $180 to $200 do you feel that you fall within that range?' Customer clarified 50 boxes. Packing: 'do you need help in packing like putting the small items into your boxes?' Customer: kitchen only."
+  },
+  "top_strength": "Rep smoothly gathered all logistics details (property specs, parking, access concerns, box count, packing needs) and cleanly routed to virtual walkthrough with a confirmed link and clear next steps.",
+  "coaching_note": "Deliver both promises (On-Time Guarantee and No Worries Damage Coverage) before routing to walkthrough \u2014 they belong in step 3 on the v4 card, after concerns are raised but before the walkthrough decision, and this customer's damage concern made them especially relevant to address."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "6164911901417472",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 8.1,
+  "datetime_ct": "2026-10-09 21:35 CT",
+  "external_number": "+12144779741",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 2,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 34,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep jumped directly to logistics and pricing.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer in step 2.",
+    "value_days": "Jules asked about date flexibility early ('Are you flexible in moving from Monday to Thursday?') but did not frame it as a value/savings opportunity with a dollar amount. When customer chose Sunday, Jules stated hourly rates ($103 and $109) but never calculated or offered the total dollar savings versus a cheaper day.",
+    "rate_lock_then_ask": "Jules asked 'Do you want to get this moved scheduled?' but never mentioned rate lock or no deposit before the ask. The ask also came with an out: 'Or do you wanna wait for the answer about the curtain?' \u2014 customer chose to wait, and Jules accepted without re-asking or committing to a follow-up close."
+  },
+  "top_strength": "Jules clearly explained the two-day split (packing day + move day), detailed crew sizes, truck inclusion, and provided itemized hour estimates with a range, making the cost structure transparent.",
+  "coaching_note": "Skip the pricing mechanics entirely at the top of the call \u2014 ask the two-concerns question first, deliver the Two Promises to address those concerns, then probe for details before pricing. You're leading with cost when you should be leading with what keeps customers up at night."
+}

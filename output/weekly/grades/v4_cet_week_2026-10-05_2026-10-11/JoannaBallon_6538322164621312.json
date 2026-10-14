@@ -1,0 +1,34 @@
+{
+  "call_id": "6538322164621312",
+  "rep_name": "Joanna Ballon",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 5.9,
+  "datetime_ct": "2026-10-10 17:16 CT",
+  "external_number": "+12147621702",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 20,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 62,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of customers about concerns on their move like, damages to their items or movers not showing up or any of this a concern of yours. (asked after email and name collection, during probing phase)",
+    "two_layers_deep": "Customer said 'Not really' to concerns; no follow-up probing occurred \u2014 n/a because no concern was raised",
+    "value_days": "Joanna mentioned Monday is 'one of our lowest hourly rate for the week, which is $102 per hour per mover' but never offered an alternative cheaper day, never framed as a total dollar saving, and never asked about date flexibility",
+    "rate_lock_then_ask": "Joanna asked 'would you like our help for this move on November 9th?' with no rate lock or no-deposit language preceding it; customer deferred ('I can think about it and get back to you') and rep pivoted to email follow-up rather than anchoring commitment"
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details efficiently\u2014moving only bedroom items, furniture list, destination floor/stairs, parking proximity, packing preferences\u2014and delivered a specific anchored range ($585\u2013$789, 2.5\u20133.5 hours) tailored to the third-floor apartment context.",
+  "coaching_note": "Step 6 was skipped entirely (no final concerns check); also step 5 never addressed value days or prep framing, and step 7's ask came without rate lock or no-deposit language, leaving the customer with no urgency anchor before they deferred to think it over."
+}

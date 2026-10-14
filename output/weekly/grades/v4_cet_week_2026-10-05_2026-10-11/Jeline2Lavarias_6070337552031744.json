@@ -1,0 +1,33 @@
+{
+  "call_id": "6070337552031744",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 11.8,
+  "datetime_ct": "2026-10-08 21:47 CT",
+  "external_number": "+18329975323",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep went directly to address confirmation without asking about concerns regarding on-time arrival or damage protection.",
+    "two_layers_deep": "N/A \u2014 no concerns were surfaced by the two-concerns question, so no follow-up opportunity existed.",
+    "value_days": "Not addressed. Rep offered Saturday October 14th without discussing whether other days might offer savings or asking about date flexibility.",
+    "rate_lock_then_ask": "We will not require you to put down any deposit. You will only be asked to make the payment once we completed the move. So, do I have your confirmation now that you want to be on the schedule?"
+  },
+  "top_strength": "Jeline gathered comprehensive logistics details (addresses, floor/elevator access, room count, furniture items, box count, special packing requests) with structured probing and confirmed all booking details accurately at the end.",
+  "coaching_note": "Jeline must add the two-concerns question immediately after the quid pro quo to surface customer concerns (on-time reliability and damage protection) before moving into logistics probing, then deliver both the On-Time Guarantee and No Worries Damage Coverage promises with permission framing."
+}

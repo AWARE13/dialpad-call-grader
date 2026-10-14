@@ -1,0 +1,33 @@
+{
+  "call_id": "5481396922785792",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 6.2,
+  "datetime_ct": "2026-10-08 16:40 CT",
+  "external_number": "+19368272750",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 37,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing after confirming the November 21st booking.",
+    "two_layers_deep": "Not applicable \u2014 no concerns were raised by the customer during step 2, as step 2 was skipped entirely.",
+    "value_days": "Not addressed. Rep did not offer alternative dates or discuss pricing by day type.",
+    "rate_lock_then_ask": "Never asked. Rep never offered a rate lock, never asked for the business, and never asked for confirmation to proceed. Customer was already booked from an auto-booking on November 21st."
+  },
+  "top_strength": "Brianne efficiently gathered logistics details (addresses, floor heights, elevator access, special items, bed size, TV, box count) and confirmed arrival window without resistance, keeping the call moving and organized.",
+  "coaching_note": "This call is a follow-up on a pre-booked auto-booking and skips the entire discovery, promises, and close sequence \u2014 you must treat every incoming call as a fresh sales opportunity and run the full 15-minute card: start with Two Concerns, deliver the On-Time Guarantee and No Worries coverage, frame pricing, give a personalized estimate, and always ask for the business and confirmation explicitly, even when a booking appears to already exist."
+}

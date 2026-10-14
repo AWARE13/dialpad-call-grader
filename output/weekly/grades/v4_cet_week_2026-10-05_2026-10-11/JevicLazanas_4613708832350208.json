@@ -1,0 +1,34 @@
+{
+  "call_id": "4613708832350208",
+  "rep_name": "Jevic Lazanas",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 11.4,
+  "datetime_ct": "2026-10-11 15:59 CT",
+  "external_number": "+15127189155",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moves directly into logistics probing without establishing customer concerns.",
+    "two_layers_deep": "Not applicable \u2014 no concerns were surfaced because the two-concerns question was never asked.",
+    "value_days": "Rep states 'for Saturday October 31st' and quotes $222/hr early rate, but never identifies this as a Value Day or offers a cheaper alternative with a total dollar saving and flexibility ask.",
+    "rate_lock_then_ask": "Rep asks 'would you like to go ahead and get on the schedule today for Saturday October 31st?' without first stating rate lock or no-deposit language. When customer declines, rep pivots to email with no ask recovery."
+  },
+  "top_strength": "Jevic gathered detailed logistics efficiently (storage unit dimensions, fullness, furniture items, addresses, property access, parking) and built a personalized estimate anchored to typical time for a 10x10 unit, accounting for the multi-stop complexity.",
+  "coaching_note": "Step 2 (Their Concerns) was completely skipped \u2014 ask the two-concerns question before any probing starts, then dig two layers deep on what the customer raises, so you can anchor the promises and estimate to what actually matters to them."
+}

@@ -1,0 +1,40 @@
+{
+  "call_id": "5534913255481344",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 9.5,
+  "datetime_ct": "2026-10-08 22:09 CT",
+  "external_number": "+19162567127",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep: 'Thank you [Itafe]. Well the main reason of this call is because we received your request...' Uses name once in opening.",
+    "quid_pro_quo": "Rep: 'I'm gonna ask you a few questions regarding this move so we can give you an estimate and this would take about ten to fifteen minutes. So, is this a good time to talk about your move?' \u2014 framing present but no dependable quote promise.",
+    "two_concerns_question": "Never asked. Rep moves directly into logistics probing after the quid pro quo.",
+    "concern_led_opening": "Rep: 'Normally for an apartment your size we see 25 to 35 boxes. Do you think you would fall within that range?' \u2014 opens with logistics, not concerns.",
+    "packing_and_box_count": "Box count asked: 'Normally for an apartment your size we see 25 to 35 boxes.' Packing not asked.",
+    "pricing_framing": "Rep: 'We charge an hourly rate which is $220 for two movers already. And everything is included to that gas and truck taxes, insurance, all the wraps and pads... No hidden fees of any type.' \u2014 pricing contrast present (all-inclusive vs. add-ons implied), no-notes line absent, fee transparency present. Two of three.",
+    "estimate_anchor": "Rep: 'For a two bedroom apartment, we finishes at five and a half hours. So, in your case... I will only estimate your move to be four and a half to five and a half hours just to give us a range. So the estimated cost is $919 to $1,210.' \u2014 personalized to customer's specific conditions (4th floor, fewer boxes, 2-story house).",
+    "value_days": "Never mentioned. No discussion of date flexibility or cheaper alternatives to Friday.",
+    "prep_and_temperature_check": "Prep framing and temperature check never delivered.",
+    "final_concerns_check": "Never asked. Rep transitions to deposit/booking without checking for remaining concerns.",
+    "rate_lock_then_ask": "Rep: 'Would you like to be on the schedule for Friday? We do not require any deposit.' \u2014 rate lock (implied by estimate) and no-deposit mentioned, but followed by immediate softening: 'I can send everything to you via email... if ever that you have decided that you want to book with us, you could just reply to that email or give us a callback.' This is a built-in out."
+  },
+  "top_strength": "Jeline gathered comprehensive logistics details (property type, floor access, furniture inventory, special items like 65-inch TVs, pickup and dropoff addresses) and personalized the estimate to the customer's specific move profile (4th-floor with elevator, fewer boxes than typical).",
+  "coaching_note": "Before moving into logistics probing, ask the two-concerns question ('most of them have one of two concerns: either the movers not showing up on time, or damage to their items. Are either of those a concern for you?') to uncover what matters most to this customer, then deliver the Two Promises (On-Time Guarantee and No Worries Damage Coverage) to address those concerns directly."
+}

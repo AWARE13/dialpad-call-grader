@@ -1,0 +1,887 @@
+{
+  "call_id": "5115365836496896",
+  "lines": [
+    {
+      "content": "Good morning this is anna. How can I help?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:05:50.321847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:05:50.321847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:05:50.321847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:05:50.321847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:05:50.321847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:05:50.321847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:05:51.881847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:05:52.801847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Hey, good morning. I was just filling out the form online for a quote and I checked the box of moving some stuff. Not all, so it said that I needed to talk to you guys to get Aquip.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:05:54.081805",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "call_purpose",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:05:54.081805",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:05:58.721847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:06:02.921847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, no worries, I'd be happy to help you out with that. May I have your full name, please.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:06:05.921847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Yup, it's Amy. Matin.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:06:11.481805",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "contact_name",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:06:12.168805",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "ner",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:06:12.168805",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you Amy. Let me just check.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:06:13.721847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:06:14.281847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Mm-hmm.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:06:16.281805",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, got it, thank you. So, I just need to ask you some questions about the, they might take about ten to fifteen minutes if this is a good time.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:06:22.121847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:06:22.121847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Yes, absolutely.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:06:30.681805",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and aside from the pricing, do you have any other important concerns that you also want to discuss on this call?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:06:31.721847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:06:35.041847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:06:38.921847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Nope.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:06:40.281805",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, so let me see here just me about this, correct? So you're planning to do this move on the twenty second which is a Thursday and the address you're coming from is 5937. Hammer mill run in Austin going to 8014. Meadow drive in Austin as well. So it's a one story home, we're currently at, going to a two story home, is that right?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:06:41.921847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Yup.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:06:52.881805",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:06:58.441847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:07:01.161847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Yes, that's correct.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:07:06.081805",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, alright. So the current one is how many bedrooms do we have here?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:07:09.521847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "I'm currently in a three bedroom.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:07:15.681805",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm is it the same with the new one or it's a little bit more rooms in there? I see. Okay. You mentioned a while ago, although it's a three bedroom home, you were just moving partial items or are this all the big items and the three bedrooms living room, dining kitchen area?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:07:18.521847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:07:19.761847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "It's a new one is four bedrooms.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:07:22.281805",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Yes my plan is all of the big items and all the small stuff. Dishes shrink its photos, whatever I'll just box those up ahead of time and kind of get them moved. So yeah couches desk begs that kind of that will be included.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:07:39.681805",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm I see. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:07:47.921847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Alright. So do we have three bedroom sets in this house or just to in an office? How does it look like in terms of your. Okay, yup okay, and then aside from the two in an office, your living room. Of course probably a dining set as well. But do you have anything in the garage bulk any patio outside furniture that we also need to move?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:07:54.521847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:07:55.641847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "We've got two in an office right now. Yup.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:08:01.281805",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "No, nothing in the garage and actually we do have a living set but no proper like dining set.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:08:15.681805",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, that should be fine. Thank you for that. But for all of the furniture we're moving, do you have anything oversized like a weight of the piano workout equipment, or a safe?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:08:22.721847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Mm-hmm.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:08:26.481805",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:08:28.401847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "No, I think the biggest thing is a sectional.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:08:34.881805",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm okay, that works. How about fragile furniture, paintings, artworks, glass tables maybe.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:08:38.321847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "I don't think so a TV if you count that but yeah, no, no art or glass or anything like that.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:08:47.481805",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm, yeah.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:08:51.521847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "That should be okay, no worries. We got your TV covered so not just your TV for all of your furniture, everything will be wrapping, blanket pads and shrink wrap so that's already part of the service. You've mentioned you're planning to do the packing yourself, so that's fine but if you end up needing help with that, we also have we also offer that service. So, on the day of the move itself, do you reckon, we're not moving any boxes at all or maybe at least a few boxes as well will be included. Probably large boxes. Do you have like an estimated number just in case?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:08:55.721847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:09:09.361847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Mm-hmm.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:09:11.481805",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Okay.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:09:16.281805",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:09:18.241847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:09:19.401847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "No, I don't think I need boxes.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:09:28.881805",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. So you're just moving all the furniture. No boxes on the day off, is that right?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:09:31.721847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Correct, yes. Also, I just remember too. I don't know if it affects things but I do have like an outdoor furniture set too. That's quite sturdy.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:09:37.281805",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, no worries. And then after, mm-hmm mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:09:38.921847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, that should be fine. As long as it's not you know, over \u00a3500 we should be good. Okay, since if we're just living got the, got, okay, great. So and then the new home, two stories for both homes. We can just park on the driveway in front of the homes itself, any issues with parking or walking the distance.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:09:47.321847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Okay.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:09:49.881805",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:09:52.121847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "No, definitely not.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:09:53.481805",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Yeah.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:10:05.481805",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Nope, no conditions. Mm-hmm.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:10:07.881805",
+      "type": "transcript"
+    },
+    {
+      "content": "That's perfect, thank you. So, how we work is that we charge by the hour for all of the services we offer if we are going to do your move on.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:10:10.121847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "The twenty second which is a Thursday, it's actually one of our lowest hourly rates for the week which is going to be $104 per hour, per mover. So for your move we just recommend you guys to help us out which is $208 per hour. What's good about our pricing, Amy, it's all inclusive rates, I can guarantee there are no other fees outside of the hourly rate. So that's for the two men and the truck, all the reps to protect your items if you need help with this assembly and reassembly taxes, insurance, credit card fees, fuel. It is already included the price. Basically all of it. Now we also include other features like our no worries, damage coverage which would give you up to $2,000 coverage for any repair, replacement reimbursement for any accidental damages also meet your mover feature. Rest assured we don't take bil contract to workers. And lastly on time guarantee if we run late we provide discounts for your move. Again, no hidden fees of any type no steri fees, no transportation fees, no credit card fees that's all in the price for the clock, the time will only start once we arrive at your current home and open the contract for you can have us for as long as you need us. Now, for any move. There's just a two and a half hour minimum. Once we get.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:10:20.121847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:10:25.881847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:10:31.961847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Mm-hmm.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:10:34.281805",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:10:35.601847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:10:40.121847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:10:45.441847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Mm-hmm.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:10:54.081805",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:11:01.241847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:11:28.641847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:11:37.921847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "We go over the minimum, we only charge in fifteen minute intervals. Does that make sense?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:11:40.121847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:11:44.521847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:11:45.961847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Yeah.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:11:46.281805",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Now, typically a has those size usually takes six to eight hours to complete. Now in your case of course it will definitely help make things quick, quick or if you're planning to move some of the smaller items yourself and how organized we are on the day as well. But for now, I'll just keep it within the same range just you know, accounting for the stairs and the drive time in between depending on traffic. So that would be an estimated range of $1,248 if it's gonna be a six hour job in, in case it goes over to eight hours to $1,664. Again you only pay for how long it takes after the minimum is meant, so, the shorter the move is gonna be than the lower the cost. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:11:47.321847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Mm-hmm.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:12:10.281805",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:12:12.241847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:12:13.641847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:12:18.801847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:12:24.281847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:12:28.401847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Mm-hmm got it.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:12:28.881805",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. Now with that being said we actually still have one truck available for the twenty second would you like our help for this move?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:12:29.921847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:12:36.161847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Sorry, what was that question?",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:12:40.281805",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "question",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:12:40.888805",
+      "type": "moment"
+    },
+    {
+      "content": "Would you like to go ahead and get on the schedule for the twenty second?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:12:41.921847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:12:41.921847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Yes, yeah I think that would be good.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:12:46.881805",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Right now the first job of the day Amy is an arrival between 8:30 AM and 9:00 AM the guys usually should for the 8:30 start. So we finished early as well but they will definitely give you a call once they're on the way. Okay, alright. So we don't take deposits at this time. The payment is only upon completion of the move and we only accept cards for payment. The guys will already have a machine with them. Okay, awesome. So, so far, do you have any questions about the move or any other instructions for me today?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:12:47.921847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:12:51.561847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "time",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:12:53.001847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "time",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:12:55.721847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:12:58.081847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Mm-hmm perfect.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:13:01.881805",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "positive_sentiment",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:13:01.881805",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:13:11.481847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Perfect. Mm-hmm.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:13:14.481805",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:13:16.521847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:13:17.881847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Yeah.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:13:18.081805",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:13:19.121847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "I guess the only question I have is I don't need to like break down the beds or anything, right? They'll kind of take care of all of that.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:13:25.281805",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:13:27.521847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Yes, ma'am. That disassemble and reassembly they already have all the tools for that. So they can just disassemble it for you and reassemble in the new place. If you want to we want us to do that for you. If you have do you have any t.v.s that are mounted or no? Okay. Yup, that's fine. Alright. So, yup, the guys will definitely help you with the beds or any other furniture that needs this assembly and reassembly as well.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:13:31.721847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Okay, perfect.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:13:35.481805",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "positive_sentiment",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:13:35.481805",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Nope, no TV mounted.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:13:48.081805",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Okay, perfect. All good then.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:13:58.881805",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "positive_sentiment",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:13:58.881805",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, okay. Alright thank you so much Amy. I'll send you a confirmation email again just let us know if you have any further questions before your move. We'll just get in touch as we get closer to the day of your mobile, okay?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:13:59.921847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:14:02.801847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:14:03.241847",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Sounds good. Thank you very much.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:14:12.081805",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "positive_sentiment",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:14:13.288805",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "support_issue_resolved",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:14:13.288805",
+      "type": "moment"
+    },
+    {
+      "content": "You're welcome. Thank you and have a good day.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:14:13.721847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDSrOe13woM",
+      "content": "Thanks, you too, bye-bye.",
+      "name": "Amy Madden",
+      "time": "2026-10-05T15:14:16.881805",
+      "type": "transcript"
+    },
+    {
+      "content": "Bye.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-05T15:14:18.521847",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    }
+  ]
+}

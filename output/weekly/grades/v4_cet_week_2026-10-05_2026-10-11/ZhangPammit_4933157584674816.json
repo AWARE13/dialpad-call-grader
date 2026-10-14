@@ -1,0 +1,40 @@
+{
+  "call_id": "4933157584674816",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 17.6,
+  "datetime_ct": "2026-10-08 20:10 CT",
+  "external_number": "+12107484788",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 87,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep does not explicitly ask the customer's name at the start, but calls the customer 'Brittany' throughout after it was provided by the intake system, indicating the name was obtained and used.",
+    "quid_pro_quo": "\"basically we just want to ask you some questions about your move. Specifically this would take about ten to fifteen minutes of your time, so you can walk away with a quote you can depend on instead of just having a gas. Does that sounds good to you?\" Customer responds: \"Yes.\"",
+    "two_concerns_question": "Rep never asked the two-concerns question about on-time delivery or damage concerns.",
+    "promises_delivered": "Rep mentions \"on time guarantee\" and \"2000 dollars coverage for any mishaps or any accidental damages\" but does not frame them with permission lead-in, does not deliver both promises in full recognizable form, and does not ask the closing question. The on-time guarantee terms are not stated, and the damage coverage is mentioned only vaguely without the full No Worries framing.",
+    "concern_led_opening_and_logistics": "Rep gathers extensive logistics details: two locations confirmed, square footage and bedrooms for both, game room and garage, parking access at both properties, walking distances, access concerns, box count range discussed and refined based on customer's smaller household, and packing service clarified. Rep does not lead with a concern-based opening (\"What items are you most concerned about?\") but systematically covers all key detail areas.",
+    "packing_and_box_count": "Packing service discussed: \"Do you need help in packing like putting the small items into your boxes.\" Box count: \"typical back count based on your home size. Upon checking here would be from 95 to 115 boxes, do you feel that you fall within that range?\" Customer clarifies to 50-75 boxes. Both elements covered.",
+    "pricing_framing": "Rep provides pricing structure (\"$103 dollars per hour per mover\" and \"26 foot box truck with everything needed\") and lists inclusions (\"gas, the trucks, taxes, and insurance all the wraps, the pads, the bond\") and trip fee ($105). However, the rep does not deliver the pricing contrast (competitors' hourly + add-ons vs. ours all-inclusive), does not use Cameron's no-notes line, and does not explicitly state the fee transparency or \"that's not a guess\" commitment before being asked.",
+    "value_days": "No discussion of value days or date flexibility options relative to cost savings.",
+    "prep_and_temperature_check": "Rep addresses preparation importance: \"The most important one is how well prepared you are when we get there. What I mean by that is we are efficient when we are moving big boxes and big furniture but we'll leave some of our efficiency when you get down to small miscellaneous items.\" However, no explicit \"How do you feel about that?\" temperature check with pause is recorded.",
+    "final_concerns_check": "No step 6 final concerns check occurs; call routes directly to walkthrough scheduling.",
+    "rate_lock_then_ask": "No booking ask occurs; call routes to virtual walkthrough instead.",
+    "booking_confirmed": "Rep confirms walkthrough routing: \"Yeah, I've already send you a link via text wherein you can upload the videos or photos. Then once we have received it then we can be able to review the photos and videos then we can get in touch with you and provide you the code.\" Follow-up contact method clarified (same number, email and voicemail). This is a clean walkthrough handoff, not a booking confirmation."
+  },
+  "top_strength": "Rep systematically gathered all key logistics details (two locations, square footage, room counts, garage, parking access, walking distances, access concerns) and refined box count based on customer's specific household size, demonstrating thoroughness in the probing phase.",
+  "coaching_note": "The two-concerns question was never asked, and the Two Promises (On-Time Guarantee and No Worries Damage Coverage) were mentioned only vaguely without permission framing or the closing loop\u2014both critical steps that should come before probing begins."
+}

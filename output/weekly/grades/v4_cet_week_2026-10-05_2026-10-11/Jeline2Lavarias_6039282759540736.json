@@ -1,0 +1,31 @@
+{
+  "call_id": "6039282759540736",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 7.1,
+  "datetime_ct": "2026-10-05 15:58 CT",
+  "external_number": "+17082756474",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 3,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 36,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "before I proceed Gared aside from the pricing, do you have any other concerns about the moving process? \u2014 asked after opening confirmation, not before probing starts",
+    "two_layers_deep": "Customer raised concern about two separate moves and possible discount. Rep acknowledged with 'Okay, I see' but did not probe deeper with 'tell me more about that' or hold silence.",
+    "value_days": "Rep mentioned Saturday rate $111/hour vs Sunday $105/hour, but expressed as hourly rate difference, not total dollar savings. No flexibility ask about changing date.",
+    "rate_lock_then_ask": "Rep never mentioned rate lock or no deposit. Never asked 'Would you like our help with your move?' \u2014 instead offered to email quote when customer asked for it."
+  },
+  "top_strength": "Jeline gathered comprehensive logistics details efficiently (floors, stairs, distances, appliances, special items, property type) and delivered a personalized estimate range ($963-$1,185) anchored to the customer's specific move profile.",
+  "coaching_note": "Critical miss: never asked for the business or mentioned rate lock / no deposit, and skipped the Two Promises (On-Time Guarantee and No Worries Damage Coverage) entirely \u2014 these should have been delivered in step 3 before probing, and the explicit ask belongs in step 7, not a passive email handoff."
+}

@@ -1,0 +1,34 @@
+{
+  "call_id": "5033448030117888",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 19.1,
+  "datetime_ct": "2026-10-06 18:41 CT",
+  "external_number": "+12105426956",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly from collecting basic move details into logistics probing without asking about concerns like on-time reliability or damage protection.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer.",
+    "value_days": "Not addressed. Rep confirmed Monday the 26th was available but never offered it as a Value Day or discussed whether other days might be cheaper. Quote was given for Monday without exploring date flexibility or savings.",
+    "rate_lock_then_ask": "Never asked. Rep ended with 'I'll go ahead and send everything to you in an email' and 'just to make sure that everything will fit in one truck' \u2014 no ask for the business, no rate lock mention, no deposit policy disclosed."
+  },
+  "top_strength": "Joanna gathered logistics comprehensively \u2014 addresses, square footage, special items (workout equipment, TVs, monitors), packing preference, parking access, and fragile items \u2014 giving her solid material for the estimate.",
+  "coaching_note": "Never ask for the concerns that drive the sale: replace the immediate logistics dive with the two-concerns question ('movers not showing up on time, or damage to items'), then deliver the On-Time Guarantee and No Worries Damage Coverage while the customer still cares, before building the estimate."
+}

@@ -1,0 +1,34 @@
+{
+  "call_id": "4539760130695168",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 12.7,
+  "datetime_ct": "2026-10-09 21:06 CT",
+  "external_number": "+17133922403",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 53,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly from quid pro quo into logistics probing.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during step 2 because the two-concerns question was never asked.",
+    "value_days": "Never addressed. Rep gave estimate for Friday October 16th but made no reference to whether this was a Best Value Day or offered any alternative date savings.",
+    "rate_lock_then_ask": "Rep never asked for the business. After providing estimate, customer requested email and asked about online booking. Rep confirmed email address and told customer to reply to email or call back, but never asked 'Would you like our help with your move?' or similar. No rate lock or deposit mention. No explicit close."
+  },
+  "top_strength": "Jevic gathered detailed logistics comprehensively, including multi-location coordination, walking distances, storage unit sizes, and itemization\u2014and personalized the estimate meaningfully to the 2,100 sq ft reference move with 7.5\u20138.5 hour range and two-truck crew.",
+  "coaching_note": "Never ask the two-concerns question (step 2), never deliver the On-Time Guarantee and No Worries Damage promises with a permission lead-in (step 3), never check for remaining concerns at step 6, and critically, never ask for the business (step 7)\u2014you talked yourself out of a close by letting the customer drive to email instead of holding the ask."
+}

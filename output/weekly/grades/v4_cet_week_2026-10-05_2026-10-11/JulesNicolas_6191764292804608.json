@@ -1,0 +1,34 @@
+{
+  "call_id": "6191764292804608",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 19.5,
+  "datetime_ct": "2026-10-07 18:21 CT",
+  "external_number": "+19038301214",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NOT ASKED. Rep moved directly to logistics without asking about on-time reliability or damage concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns raised at step 2.",
+    "value_days": "Rep mentioned 'Saturday tend to have a little bit more, more expensive hourly rate' and 'Sunday is cheaper than Saturday' but never offered the customer a dollar savings figure or asked about date flexibility. Only framed as hourly comparison, not total savings.",
+    "rate_lock_then_ask": "Rep never asked for the business. Customer asked to save the quote and speak to family. Rep offered to email details but never circled back with rate lock or explicit ask: 'Would you like our help with your move?'"
+  },
+  "top_strength": "Jules gathered exhaustive logistics detail (furniture list, addresses, property type, box count, washer/dryer consideration) with the customer's full engagement and no pressure, and personalized the estimate to the specific overnight logistics the move required.",
+  "coaching_note": "Step 2 and Step 3 were completely skipped \u2014 Jules never asked about the customer's concerns (on-time guarantee, damage protection) and never delivered the Two Promises that answer them, moving straight to logistics instead; and Step 7 was never attempted \u2014 even when the customer was ready to book, Jules offered to send an email but never asked for the business directly or confirmed the Sunday 25th booking on the call."
+}

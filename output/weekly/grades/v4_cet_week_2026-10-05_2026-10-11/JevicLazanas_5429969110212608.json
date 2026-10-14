@@ -1,0 +1,34 @@
+{
+  "call_id": "5429969110212608",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 10.4,
+  "datetime_ct": "2026-10-09 19:53 CT",
+  "external_number": "+16827069253",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics probing after the quid pro quo.",
+    "two_layers_deep": "N/A - no concerns were raised by the customer at step 2.",
+    "value_days": "Rep discussed afternoon availability (1:30\u20133:30 PM window) but never introduced the three value day branches, never identified the customer's day against them, and never offered a cheaper alternative with a total dollar saving.",
+    "rate_lock_then_ask": "Rep never asked for the business. After the customer said 'I'll just do more forward with different' (rejecting the price), rep offered to let her call back if she changed her mind. No ask, no rate lock, no booking attempt."
+  },
+  "top_strength": "Jevic delivered a clear, all-inclusive pricing frame ($222/hour, two movers, all-in with fuel, taxes, insurance, pads, tools, no hidden fees) and explained the damage coverage ($2,000, no deductible, included at no extra cost) and on-time guarantee early in the estimate section.",
+  "coaching_note": "You must ask the two-concerns question before any logistics probing \u2014 it sets the frame for the entire call and was completely missed here. Also, when a customer hesitates on price, ask for the business anyway; you have rate lock and no deposit to offer, and you cannot close without asking."
+}

@@ -1,0 +1,31 @@
+{
+  "call_id": "4875414928662528",
+  "rep_name": "Amy Arbasa",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 11.7,
+  "datetime_ct": "2026-10-09 18:44 CT",
+  "external_number": "+15127969770",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 16,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 62,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "And most of them would have one or two concerns. Other either they're worried the movers won't show up on time or they're going to damage the items. What about you, Clint, what are you most worried about for this upcoming?",
+    "two_layers_deep": "Customer raised one concern (expensive console). Amy acknowledged it and said she'd highlight it in the profile but did not ask follow-up probing questions like 'tell me more about that' to go deeper.",
+    "value_days": "No mention of Value Days, pricing contrast by day of week, or date flexibility offered.",
+    "rate_lock_then_ask": "Amy said 'we don't require any deposits for ETA' and then asked 'Would you like us to help you out with this ma'am?' but the rate lock was not clearly stated before the ask, and the ask itself was somewhat unclear and had to be repeated."
+  },
+  "top_strength": "Amy gathered all necessary logistics details systematically (storage unit, condo floors, walking distances, elevator availability, loading docks, packing needs, box counts) and confirmed them back clearly, setting up an accurate estimate.",
+  "coaching_note": "Step 6 was entirely skipped\u2014Amy moved straight from estimate to the ask without asking 'What's still concerning you about this move?' This is the second bookend moment where customers remember you, and it's a required check before closing."
+}

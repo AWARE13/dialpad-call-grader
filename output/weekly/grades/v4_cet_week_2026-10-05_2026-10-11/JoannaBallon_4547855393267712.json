@@ -1,0 +1,33 @@
+{
+  "call_id": "4547855393267712",
+  "rep_name": "Joanna Ballon",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 10.1,
+  "datetime_ct": "2026-10-07 16:21 CT",
+  "external_number": "+14693712443",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Rep never asked the two-concerns question. Customer answered 'I don't think so' when rep asked open-ended 'do you have any other imported concerns', but this was not the card's structured two-concerns opener about on-time and damage.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer at step 2.",
+    "value_days": "Rep did not address Value Days. The customer is booked for Saturday 14 Nov; no cheaper day was offered or discussed.",
+    "rate_lock_then_ask": "Rep said 'we don't take deposits no rice and securing a spot as well. So whichever works for you.' This is a weak ask embedded in conditional language ('if you're ready'). No plain 'Would you like our help with your move?' was asked. Customer then said 'let me look over the estimate and then I will give you a callback' \u2014 not a booking."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details systematically: addresses, floor levels, walking distances, furniture inventory, washer/dryer, fragile items, box count, and parking\u2014all the detail items the card requires\u2014and did it in a natural, conversational flow without feeling like a checklist.",
+  "coaching_note": "Step 2 is the card's primary insight: ask the two-concerns question (on-time + damage) before probing begins, go two layers deep on whatever the customer names, and build the Two Promises directly in response\u2014Joanna skipped the structured question entirely and delivered promises (damage coverage, on-time guarantee) later in step 5 where they land too late to answer the customer's real concerns."
+}

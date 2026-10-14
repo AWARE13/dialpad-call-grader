@@ -1,0 +1,32 @@
+{
+  "call_id": "6085847087882240",
+  "rep_name": "Danah 2Celestial",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 15.4,
+  "datetime_ct": "2026-10-06 17:32 CT",
+  "external_number": "+17135570284",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 19,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 16,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 5,
+  "total_score": 80,
+  "pass": true,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people everyday and most of them have a one or two concerns either the movers not showing up on time or damage to their items are either of those a concern for you",
+    "two_layers_deep": "So yeah, about any, any item or any furniture in the home that you're concerned about that one specific care. \u2014 Mainly the big TV flat screen. [Rep does not dig deeper on the TV; customer then volunteers the record player, but rep does not probe further after 'pretty standard, pretty normal']",
+    "value_days": "around Monday through Thursday, that's one of our best value days. The hourly rate for two movers is $190. [Rep identifies the day branch and anchors the rate; however, no flexibility question asked about whether customer could move on a different day]",
+    "rate_lock_then_ask": "we don't require a deposit to book to. So in case you need to reschedule or maybe cancel, we can do that with the additional fees you want to lock in the date. [Rate lock and no deposit mentioned, but followed by customer declining without a plain unsoftened ask for the business; rep accepts the no immediately rather than deploying 'Would you like our help with your move?']"
+  },
+  "top_strength": "Danah delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full detail, terms, and resolution times, then closed the loop cleanly with a permission lead-in.",
+  "coaching_note": "In step 2, probe deeper after the customer names specific concerns \u2014 you have the TV and the 100-year-old record player but you stopped after one follow-up; in step 5, after mentioning Monday-Thursday as Best Value Days, ask 'Would you be able to move on one of those days?' to unlock the savings; in step 7, when the customer hesitates, lead with the plain ask 'Would you like our help with your move?' before accepting the no."
+}

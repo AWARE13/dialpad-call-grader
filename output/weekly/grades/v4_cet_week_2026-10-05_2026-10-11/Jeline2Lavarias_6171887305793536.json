@@ -1,0 +1,36 @@
+{
+  "call_id": "6171887305793536",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 5.5,
+  "datetime_ct": "2026-10-08 20:06 CT",
+  "external_number": "+19417207624",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 65,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Jeline asks 'what's your first and last name?' and customer responds 'Laurie Shultis', but the rep never uses the name again in the call.",
+    "quid_pro_quo": "No time-boxed framing or promise of a dependable quote offered. Rep moves straight into data collection.",
+    "two_concerns_question": "Never asked. No version of 'most of them have one of two concerns' or open-ended equivalent appears.",
+    "promises_delivered": "Neither On-Time Guarantee nor No Worries Damage Coverage mentioned.",
+    "concern_led_opening": "No concern-led opening asked. Customer does raise a concern about I-4 traffic and hourly billing, but rep does not probe it with 'tell me more about that'.",
+    "logistics_gathered": "Address, city, square footage (1800 sq ft), number of stories (one story at both ends), and partial prep info (some items moving before movers arrive) collected. Walking distance, additional rooms, floor level details not explored.",
+    "packing_and_box_count": "Neither asked.",
+    "routing_to_walkthrough": "Rep states 'since I only handle apartment move, so for house move I have to transfer you' and confirms availability on the requested date, then places call on hold to transfer to a moving specialist. This is a clean routing to the walkthrough branch per the 1800 sq ft threshold."
+  },
+  "top_strength": "Jeline efficiently gathered all critical address and property details needed for intake, correctly identified the move as exceeding her apartment-only scope, and confirmed availability on the customer's requested date before transferring.",
+  "coaching_note": "Before transferring a house move to the specialist, establish the customer's name in the conversation by using it at least once, and deliver the Two Promises (On-Time Guarantee and No Worries Damage Coverage) since v4 scores these on walkthrough calls before probing begins."
+}

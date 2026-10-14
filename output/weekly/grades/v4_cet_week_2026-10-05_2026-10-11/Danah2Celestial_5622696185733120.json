@@ -1,0 +1,31 @@
+{
+  "call_id": "5622696185733120",
+  "rep_name": "Danah 2Celestial",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 12.7,
+  "datetime_ct": "2026-10-06 14:06 CT",
+  "external_number": "+14139232335",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 3,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 53,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Now before we get into the details of your move a new Palma other than the price obviously, do you have any biggest concerns about the move or any questions you want answers to on this call? [asked AFTER address and zip code collection, not before probing starts]",
+    "two_layers_deep": "Customer said 'No, there is no biggest concern just I just want to back on more the thought' \u2014 rep acknowledged with 'Okay, great!' but did not probe deeper or ask tell-me-more follow-up; when asked 'Any items that you have, you're most concerned about?' customer said 'No nothing else' and rep moved on immediately.",
+    "value_days": "Rep never mentioned value days, cheaper days, or date flexibility as a money-saving opportunity.",
+    "rate_lock_then_ask": "We do not require a deposit to book, so in case you have changes on your end, we can reschedule and cancel without additional fees. Do you want to lock in the date? [deposit/no-fee commitment stated first, then the ask for the business follows]"
+  },
+  "top_strength": "Danah gathered detailed logistics methodically (floor, elevator access, walking distances, square footage, box count, storage destination, special items) and delivered the core pricing transparency \u2014 hourly rate, trip fee, packing materials, no hidden fees, damage coverage, and 2.5-hour minimum \u2014 all clearly and completely.",
+  "coaching_note": "Step 2 and 6 are both missing genuine concern follow-up and checks: the two-concerns question came after probing had started, the customer's initial response was not explored two layers deep, and no final concerns check was asked at all; add those bookend moments back in and hold silence longer when the customer signals they're done."
+}

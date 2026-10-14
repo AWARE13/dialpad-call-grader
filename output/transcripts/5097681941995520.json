@@ -1,0 +1,894 @@
+{
+  "call_id": "4693061662973952",
+  "lines": [
+    {
+      "content": "Hi Stein moving this is Dana. Can I have your name?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:08.935551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:08.935551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:08.935551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:08.935551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:08.935551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:08.935551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:09.567551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:10.687551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Hey Dana, my name is James.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:01:13.154778",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "ner",
+      "name": "James Elder",
+      "time": "2026-10-05T22:01:13.273778",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "contact_name",
+      "name": "James Elder",
+      "time": "2026-10-05T22:01:13.953778",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "ner",
+      "name": "James Elder",
+      "time": "2026-10-05T22:01:13.953778",
+      "type": "moment"
+    },
+    {
+      "content": "Hi, James. How can I help you?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:14.935551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:15.447551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:16.007551",
+      "type": "custom_moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "I need to get a quote for a move coming up.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:01:17.354778",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "call_purpose",
+      "name": "James Elder",
+      "time": "2026-10-05T22:01:17.354778",
+      "type": "moment"
+    },
+    {
+      "content": "Yeah, sure. Let me check availability first. Can I have the zip code for both pickup and drop-off.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:21.535551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Sure, it's 78703 and then 78726.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:01:28.754778",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:36.535551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "And what's your preferred move date?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:40.135551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:40.807551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Like, well, depending on what the price is between the ninth and the 13th of November.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:01:43.154778",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "date",
+      "name": "James Elder",
+      "time": "2026-10-05T22:01:49.113778",
+      "type": "moment"
+    },
+    {
+      "content": "November, okay.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:50.935551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Okay.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:56.935551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Okay. Perfect. Yeah, we have a lot of availability there then James, to build you an estimate, I'm gonna need to create your profile here. Ask you some questions. Would take about ten to fifteen minutes. Then you can walk away with a quote you can depend on, sound good.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:01:59.335551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:02:03.967551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Okay. Yeah, sounds good.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:02:16.154778",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Alright. So, James, what is your last name?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:02:18.535551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:02:22.047551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:02:23.007551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Elder.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:02:25.154778",
+      "type": "transcript"
+    },
+    {
+      "content": "And is this the best phone number to call you ending in 5260.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:02:30.535551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "phone_number",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:02:33.327551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "That's right, yes.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:02:35.354778",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and what is your email address?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:02:36.535551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:02:38.367551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "It's my first name.last name so, James.elder 2011 @gmail.com.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:02:41.354778",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "email_address",
+      "name": "James Elder",
+      "time": "2026-10-05T22:02:43.433778",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "pii",
+      "name": "James Elder",
+      "time": "2026-10-05T22:02:43.433778",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:02:50.335551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Okay. So now can I have the full pickup address?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:02:56.335551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:02:58.007551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Yeah, it's 807. Blanco Street. 78703.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:03:01.154778",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "address",
+      "name": "James Elder",
+      "time": "2026-10-05T22:03:02.793778",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "postcode",
+      "name": "James Elder",
+      "time": "2026-10-05T22:03:05.354778",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Apartment 205.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:03:08.954778",
+      "type": "transcript"
+    },
+    {
+      "content": "And what is the square footage of your unit?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:03:16.135551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:03:18.007551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "It's about 700 square feet, I think.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:03:20.354778",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And how many bedroom?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:03:23.335551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "It's just one bedroom.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:03:27.554778",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and which floor is your unit on?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:03:28.735551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:03:30.887551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:03:32.407551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Sorry, what?",
+      "name": "James Elder",
+      "time": "2026-10-05T22:03:34.154778",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, which floor is your unit on?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:03:35.335551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:03:35.927551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "The first floor.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:03:38.354778",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and what is the walking distance from where we can park the truck up to your unit or your door?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:03:39.535551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:03:44.167551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "It's pretty close.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:03:49.154778",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:03:50.287551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Alright. And the items are moving for you. Do you have anything oversized or heavy like a safe or any exercise equipment?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:03:52.135551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:03:54.727551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "No, no, I don't.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:04:00.554778",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. What about valuable or fragile items, like artwork anti pieces or any collection?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:04:02.335551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "No, no, I don't.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:04:10.754778",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. And are we gonna move major appliances like fridge Washer/Dryer.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:04:12.535551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "No.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:04:19.754778",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright and then in terms of the boxes, so typically one bedroom apartment has fifteen to 25 pre pack boxes. Do you think you're gonna fall within the range?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:04:20.935551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:04:30.535551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Yeah, about that range.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:04:33.554778",
+      "type": "transcript"
+    },
+    {
+      "content": "Sorry and then would you be needing a packing of those boxes or, or the box is going to be ready to go on move team.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:04:36.535551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "I'm gonna be ready to go.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:04:44.354778",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, can I now have the full drop-off address?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:04:46.135551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:04:47.335551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Yeah, it's 7655. Branch road 627-8726.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:04:51.554778",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "phone_number",
+      "name": "James Elder",
+      "time": "2026-10-05T22:04:56.153778",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, and are you moving into? Okay.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:05:03.535551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "And I don't know the full apartment number yet. I don't know it's gonna be ground floor and I don't have the apartment number yet.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:05:05.354778",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:05:06.007551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Got it. But is it a, a one bedroom too?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:05:12.535551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:05:13.727551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Yeah.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:05:16.154778",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:05:17.335551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Okay. So, yeah, we've got everything here let me discuss how our pricing works and then your estimate and I'll send everything to your email. So you won't have to take notes. Okay.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:05:28.735551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "action_item",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:05:36.847551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Okay.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:05:40.754778",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. So, pricing is very simple. We have our cheap rates during.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:05:41.935551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:05:46.047551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Mondays through Thursdays. So the hourly rate for two movers is $208 while Friday. And Saturday is $222 an hour. So for two movers, everything's included there gas and the truck taxes and insurance. We will also wrap all of the furniture and any large items for protection and we also disassemble and reassemble the furniture, and even appliances. So that's all included there. The only thing outside of the hourly rate is a one time trip fee of $75 because your new place is outside of our free service zone that is to cover the drive from Daniel address going back to the branch and there are no hidden charges or extra charges, so there are no credit card card fees and notice assembly and reassembly fees to you.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:05:50.567551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "currency",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:05:56.167551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "currency",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:06:01.727551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Right.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:06:05.954778",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:06:26.327551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "currency",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:06:26.847551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:06:35.207551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Then we have a two and a half hour minimum for any move once we go over that. The time is prorated in fifteen minute increments an estimate. So typically moving a one bedroom apartment takes two and a half to three and a half hours with two movers. In your case pretty straightforward. So I would say your move will forward in that typical range. So two guys you're gonna be looking at around $595.03 to $803 and we are a time based company. So essentially you only pay for the actual time use on the move after the two and a half hour minimum is reach the sai fair.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:06:46.735551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:06:47.407551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:06:55.007551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "monologuing",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:07:00.647551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "currency",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:07:11.927551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Okay.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:07:27.554778",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, alright. So yeah, if you want James you can go ahead and pencil you in for any of your preferred date we don't require a deposit to book to. So in case you need to reschedule or maybe cancel, we can do that with additional fees. Would you like our help with your move?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:07:29.335551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:07:32.287551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:07:45.535551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "What I like, what was the new, I'm sorry I don't understand.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:07:48.554778",
+      "type": "transcript"
+    },
+    {
+      "content": "I'm sorry, would you like our help with your move?",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:07:51.535551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "question",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:07:52.767551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "I think I want to get a quote and, and, and look at it I was looking online and it says no fees. I thought it seems like you have a $75 fee.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:07:55.754778",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:07:59.935551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "currency",
+      "name": "James Elder",
+      "time": "2026-10-05T22:08:04.233778",
+      "type": "moment"
+    },
+    {
+      "content": "Did you enter the full address.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:08:06.535551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "No, I was just looking online. I was trying to find it again that's why I like to.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:08:10.154778",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:08:12.535551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "Oh, I see. Yeah, you have to enter the full address to for the assistant to give you an accurate pricing too.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:08:14.935551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Oh.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:08:15.554778",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Okay, sometimes she's okay. Yeah, send that over and let me take a look at it.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:08:23.354778",
+      "type": "transcript"
+    },
+    {
+      "content": "Yeah, sure. And if you have any questions or if ever you're ready to move forward James just let us know.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:08:29.935551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "content": "ner",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:08:33.727551",
+      "type": "moment",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Okay, thanks so much.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:08:35.954778",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "positive_sentiment",
+      "name": "James Elder",
+      "time": "2026-10-05T22:08:36.793778",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "support_issue_resolved",
+      "name": "James Elder",
+      "time": "2026-10-05T22:08:36.793778",
+      "type": "moment"
+    },
+    {
+      "content": "You're welcome. Have a good one.",
+      "name": "Danah 2Celestial",
+      "time": "2026-10-05T22:08:38.935551",
+      "type": "transcript",
+      "user_id": "6252316929474560"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMDS6v7V9AoM",
+      "content": "Alright, take care. Bye.",
+      "name": "James Elder",
+      "time": "2026-10-05T22:08:40.754778",
+      "type": "transcript"
+    }
+  ]
+}

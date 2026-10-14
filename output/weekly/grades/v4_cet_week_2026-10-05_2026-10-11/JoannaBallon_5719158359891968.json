@@ -1,0 +1,33 @@
+{
+  "call_id": "5719158359891968",
+  "rep_name": "Joanna Ballon",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 7.4,
+  "datetime_ct": "2026-10-08 20:46 CT",
+  "external_number": "+12144983455",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 41,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Customer's concerns were never probed with the standard two-concerns opener.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised through structured questioning.",
+    "value_days": "Rep mentioned different rates but gave hourly difference: 'Yes, sir actually it we do have different rates for a Sunday but let me check it for you just one second... So for a Saturday job it's $10,203 per hour for two rise. But if you can do it on a Sunday that's gonna be $210 per hour for two men.' Never converted to total dollar savings or asked about date flexibility; customer chose Saturday without the full Value Days pitch.",
+    "rate_lock_then_ask": "Never asked for the business. Rep confirmed booking details and said 'I'll send you a final confirmation after our call' but never said 'Would you like our help with your move?' or any version of the explicit ask. No rate lock, no deposit terms, no ask."
+  },
+  "top_strength": "Joanna gathered move logistics efficiently \u2014 addresses, floor counts, furniture inventory, box count, and walking distance \u2014 and confirmed all details before hang-up, catching clarifications like the elevator availability.",
+  "coaching_note": "This was a follow-up call on an existing quote, not a fresh sales call, which explains why the core sales steps (Two Concerns, Two Promises, temperature checks) are absent \u2014 but Joanna never asked 'Would you like our help with your move?' or gave any rate lock / deposit terms before hang-up, so the ask and booking confirmation both landed incomplete."
+}

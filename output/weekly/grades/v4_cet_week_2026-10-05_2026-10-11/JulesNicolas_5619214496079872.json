@@ -1,0 +1,33 @@
+{
+  "call_id": "5619214496079872",
+  "rep_name": "Jules Nicolas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 6.7,
+  "datetime_ct": "2026-10-09 20:51 CT",
+  "external_number": "+19152559235",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. No concern validation step present in call.",
+    "two_layers_deep": "N/A - no concerns were elicited.",
+    "value_days": "Not addressed. Rep did not discuss whether Saturday the 24th was a cheaper day or offer date flexibility options.",
+    "rate_lock_then_ask": "Rep said: 'if you want we also have available to you right now for the twenty fourth they'll start around 8:30 to nine in the morning if you'd like to get it on schedule.' Then: 'Do you want to get this moved scheduled or just a quote for now?' No rate lock or no-deposit framing before the ask."
+  },
+  "top_strength": "Jules gathered comprehensive logistics details efficiently (addresses, floor, square footage, box count, destination type) and delivered a personalized estimate range ($1,049.55 to $1,255) with clear breakdown of what's included.",
+  "coaching_note": "Before jumping to pricing, ask the two-concerns question and deliver the On-Time Guarantee and No Worries Damage Coverage promises \u2014 these answer the customer's real worries and must come in step 3, not skipped entirely."
+}

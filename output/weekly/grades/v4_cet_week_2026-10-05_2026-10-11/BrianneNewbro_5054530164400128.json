@@ -1,0 +1,33 @@
+{
+  "call_id": "5054530164400128",
+  "rep_name": "Brianne Newbro",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 5.8,
+  "datetime_ct": "2026-10-09 15:59 CT",
+  "external_number": "+13104985905",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 2,
+  "step7_ask_for_the_business": 0,
+  "total_score": 41,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep went straight into logistics probing after confirming packing status.",
+    "two_layers_deep": "N/A \u2014 no concerns were elicited because the two-concerns question was never asked.",
+    "value_days": "Never addressed. Rep gave a time range (2.5 to 3.5 hours, system showed 3) but made no mention of value days or date flexibility.",
+    "rate_lock_then_ask": "Never asked for the business. Rep ended with 'I'm gonna email all this information over to you and then good luck with your move' \u2014 no rate lock, no deposit clarification, no explicit ask for the move. Customer volunteered move dates but rep did not confirm booking details or ask for their business."
+  },
+  "top_strength": "Brianne gathered all required logistics details thoroughly (addresses, square footage, rooms, storage items, furniture specifics, parking access, bed size, box count estimate) in a methodical, comfortable way that kept the customer engaged.",
+  "coaching_note": "You skipped the two most critical steps for closing business: never asked the two-concerns question (step 2), and never asked for the business or mentioned rate lock/no deposit (step 7). Add those two steps and you move from a no-close information call to a real sales call."
+}

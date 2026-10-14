@@ -1,0 +1,29 @@
+{
+  "call_id": "5308310445400064",
+  "rep_name": "Amy Arbasa",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 47.6,
+  "datetime_ct": "2026-10-08 19:20 CT",
+  "external_number": "+12145295845",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 17,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 75,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Amy moved directly into probing about the move details without asking the two-concerns question ('movers not showing up on time, or damage to their items').",
+    "two_layers_deep": "Brandon raised mirrors and adjustable bed as concerns. Amy asked follow-up: 'which floor is it on?' for storage, then 'How many boxes should we expect apartment plus the storage?' showing multi-layer follow-up. Brandon also raised couch damage concern later and Amy followed with acknowledgment.",
+    "value_days": "Amy: 'And it's actually cheaper if you want to do it in a Monday to Thursday. Cause we have our best value days comparing to moving from Friday to Sunday. So let's say we do this on a Thursday, the hourly rate is $208. But since you're moving to merchants it's outside of our fer. Free service one, we have a one time travel fee amounting to $768.' Also offered Friday as alternative with 'ten trucks available' vs one on Thursday, and gave dollar totals: 'six to seven hours just to be safe and that would be 66 hours is $20.16202 million including the travel fee, while seven hours is $2,224 including the travel fee.'",
+    "rate_lock_then_ask": "Amy: 'If you say yes, now I'll put you on schedule and I'll send you the confirmation email. So the last spot is yours.' Also earlier: 'we don't require any deposits and no cancellation fees.' Then the ask: 'lock it in.' and 'We will see you on the fifteenth for this day, morning.'"
+  },
+  "top_strength": "Amy expertly gathered rich detail about the move (storage unit location, multiple furniture concerns, special handling needs, parking logistics) through natural follow-up questions and probing, and successfully booked the customer despite initial uncertainty about the move date.",
+  "coaching_note": "Amy never asked the two-concerns question ('movers not showing up on time, or damage to their items') that is the primary opener for step 2\u2014she moved straight into logistics probing, and while she captured concerns organically, the card's designed sequence was skipped; additionally, she delivered only one of the two promises (No Worries Damage Coverage near the end) and never delivered or mentioned the On-Time Guarantee at all, so the permission lead-in and both promises were not fully completed."
+}

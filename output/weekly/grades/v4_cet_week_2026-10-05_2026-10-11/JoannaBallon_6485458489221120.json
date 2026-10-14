@@ -1,0 +1,34 @@
+{
+  "call_id": "6485458489221120",
+  "rep_name": "Joanna Ballon",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 9.8,
+  "datetime_ct": "2026-10-08 22:00 CT",
+  "external_number": "+15712135466",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 5,
+  "total_score": 63,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep skips this step entirely and moves straight to storage specifics.",
+    "two_layers_deep": "N/A \u2014 no concerns raised via the two-concerns question; customer only volunteered move reason upfront ('looking to move from one storage that's gotten very expensive to a cheaper one').",
+    "value_days": "Joanna: 'Typically Wednesdays are actually one of our best value days. So it has the lowest hourly rate for the week which is $104 per hour, per mover.' Correctly identified Wednesday Oct 14 as a Best Value Day, stated the hourly rate clearly ($104/mover), and totaled the estimate at $2,022. No explicit flexibility question asked.",
+    "rate_lock_then_ask": "Joanna: 'So if you need to make changes later all you have to do is let us know ahead of time.' Rate lock mentioned (no deposits, no re-booking fee), but no explicit ask for the business follows. Customer clarifies 'I'm just getting information today, I'm not booking,' and Joanna accepts without attempting the ask. The softened version 'just let us know' preceded any real close attempt."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details and property specifics (10x20 storage, second-floor pickup, ground-floor delivery, elevator access, oversized items including freezer and exercise cage) and built a detailed, anchored estimate ($2,022 for 7\u20139 hours) tied to the customer's actual move profile.",
+  "coaching_note": "Ask the two-concerns question before probing logistics \u2014 this is the primary step 2 opener on the v4 card and it did not happen here, which means you missed the chance to center the entire estimate on what matters to Michelle instead of on the checklist."
+}

@@ -1,0 +1,31 @@
+{
+  "call_id": "6464304986759168",
+  "rep_name": "Zhang Pammit",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 8.7,
+  "datetime_ct": "2026-10-08 18:58 CT",
+  "external_number": "+19189066059",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 8,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. The rep jumped directly into logistics after the quid pro quo.",
+    "two_layers_deep": "No concerns were probed at step 2. At step 6, customer answered 'I'm good' with no concerns raised.",
+    "value_days": "Not addressed. Rep offered 8:30 AM to 9:00 AM on the 17th (Saturday) but did not offer a cheaper day or ask about date flexibility.",
+    "rate_lock_then_ask": "Rep stated: 'There's no deposit record, no risk and securing your spot in case if you wanted to reschedule or to cancel then all you have to do is just simply give us a call at anytime. Would you like me to reserve the movers for you on that day?' Rate lock and no-deposit framing came before the ask."
+  },
+  "top_strength": "Zhang delivered a complete, clear pricing explanation with all major fees transparent (hourly rate, trip fee, minimum, increments) and both damage coverage and on-time guarantee mentioned, giving the customer confidence in the number.",
+  "coaching_note": "Step 2 was skipped entirely \u2014 ask the two-concerns question (movers showing up on time, damage to items) before any probing starts, dig two layers deep on whatever concerns emerge, and reflect them back. This is the heaviest section on the card and the moment the customer actually remembers."
+}

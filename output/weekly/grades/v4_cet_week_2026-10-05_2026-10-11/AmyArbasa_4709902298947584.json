@@ -1,0 +1,31 @@
+{
+  "call_id": "4709902298947584",
+  "rep_name": "Amy Arbasa",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 15.1,
+  "datetime_ct": "2026-10-08 22:17 CT",
+  "external_number": "+17706768203",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 9,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 53,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we know we speak to a lot of clients everyday and most of them have one or two concerns aside from the price or for setting up the of furniture. Is there any other specific concerns what are you most worried about for the upcoming move?",
+    "two_layers_deep": "Customer raised expensive TVs and gaming computer concern; Amy acknowledged but did not probe deeper with follow-ups like 'tell me more about that' or silence to encourage elaboration.",
+    "value_days": "Amy discussed Saturday packing at $230/hr and Sunday moving at $105/hr but never offered the Sunday price as a total dollar savings or asked about date flexibility.",
+    "rate_lock_then_ask": "no deposits required, no rebooking, no cancellation fees. Would you like us to help out with? [customer agrees]"
+  },
+  "top_strength": "Amy leveraged the prior move history expertly\u2014pulling last year's data to inform crew size, timing estimates, and personal concern handling, which built trust and specificity.",
+  "coaching_note": "Skip the two-concerns question entirely if you're going to probe proactively first; Amy asked it after logistics and concerns were already emerging, weakening its impact as a discovery opener\u2014and never deliver the two promises (On-Time Guarantee and No Worries Damage Coverage) that directly answer the damage concern Steve raised."
+}

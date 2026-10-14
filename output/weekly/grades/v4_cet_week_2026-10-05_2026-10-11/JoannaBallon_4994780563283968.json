@@ -1,0 +1,34 @@
+{
+  "call_id": "4994780563283968",
+  "rep_name": "Joanna Ballon",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 10.9,
+  "datetime_ct": "2026-10-07 16:06 CT",
+  "external_number": "+14329785932",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 55,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Customer said 'I don't think so. I think mostly just questions around pricing' and Joanna moved directly into probing without the two-concerns opener.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer at step 2.",
+    "value_days": "Joanna said 'If you're planning to move your, to your, move on a Saturday, it's $111 per hour per mover. So for two minutes, $222 per hour, of course if your dates are flexible, Sundays, Thursdays are lowest hourly rate for the week, but of course whichever works for you now.' This identified the cheaper days and asked about flexibility, though the savings were stated hourly ($111 vs $222 per mover), not as a total dollar amount.",
+    "rate_lock_then_ask": "Never asked. Joanna never stated rate lock or no deposit, and never asked 'Would you like our help with your move?' or any plain ask for the business. The call ended with 'Just let us know if you have any other further questions or concerns' \u2014 a throwaway close with no close attempt."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details efficiently \u2014 special items (electric piano, king bed frame), floor/elevator access, walking distances, box count \u2014 and confirmed them clearly, building a solid estimate foundation.",
+  "coaching_note": "The call lacks the two core bookends of the v4 card: step 2 never asked the two-concerns question to surface what actually matters to Eric, and step 7 never asked for the business at all; add both and you transform a quote delivery into a consultative close."
+}

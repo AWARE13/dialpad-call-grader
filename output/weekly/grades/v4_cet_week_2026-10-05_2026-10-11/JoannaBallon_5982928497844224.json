@@ -1,0 +1,31 @@
+{
+  "call_id": "5982928497844224",
+  "rep_name": "Joanna Ballon",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 11.5,
+  "datetime_ct": "2026-10-06 21:36 CT",
+  "external_number": "+14235578310",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 3,
+  "total_score": 32,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. The rep opened with 'Do you have any important concerns that you also want to discuss on this call?' which is a throwaway version, not the two-concerns opener.",
+    "two_layers_deep": "Absent. When the customer said 'my mattress' as a concern, Joanna did not probe deeper with 'tell me more about that' \u2014 she moved to logistics immediately.",
+    "value_days": "Not mentioned. The customer booked Saturday October 17th with no discussion of whether this is a Best Value Day or if cheaper alternatives exist.",
+    "rate_lock_then_ask": "No rate lock stated. Joanna gave the pricing ($100/hr per mover, $200/hr for two) and estimate range ($500\u2013$700) but never said the rate is locked in or that there is no deposit required. The call ended without an explicit ask ('Would you like our help with your move?'). The customer confirmed details but never accepted the booking offer; they simply asked follow-up questions and the rep answered them."
+  },
+  "top_strength": "Joanna efficiently gathered all essential move logistics (apartment layout, destination, item inventory, special items, box count, packing plan) and delivered a clear pricing anchor with all-inclusive framing in a single continuous narrative.",
+  "coaching_note": "Step 2 is completely missing: never ask the two-concerns question before probing, and when a concern is raised (mattress), always go two layers deep with 'tell me more about that' instead of pivoting to logistics. Step 7 also needs work: state the rate lock and no-deposit commitment before asking for the business, and ask the explicit closing question 'Would you like our help with your move?' rather than letting the call end on follow-up details."
+}

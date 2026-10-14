@@ -1,0 +1,34 @@
+{
+  "call_id": "5506630419259392",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 10.3,
+  "datetime_ct": "2026-10-11 16:28 CT",
+  "external_number": "+12818968584",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 52,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep jumped directly into logistics probing with 'So just wanna confirm you, yeah, you're moving on Thursday October 29th is that correct?'",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer",
+    "value_days": "Rep mentioned Saturday ($230/hr) and Sunday ($210/hr) rates in response to customer's direct question about weekend pricing, but did not proactively offer Value Days as a total dollar saving or ask about date flexibility.",
+    "rate_lock_then_ask": "Rep asked 'would you like to go ahead and get on the schedule today?' with no prior mention of rate lock or no-deposit commitment. Customer declined and rep pivoted to email follow-up."
+  },
+  "top_strength": "Jevic delivered both promises (On-Time Guarantee and No Worries Damage Coverage) fully and in recognizable form with clear terms ($50 first hour, $25 half-hour after; $2,000 per move, no deductible, built-in).",
+  "coaching_note": "The two-concerns question must be asked before any logistics probing begins \u2014 it is the primary opener for step 2 and sets the frame for the entire call, but here it was skipped entirely, missing the chance to understand what William actually worried about."
+}

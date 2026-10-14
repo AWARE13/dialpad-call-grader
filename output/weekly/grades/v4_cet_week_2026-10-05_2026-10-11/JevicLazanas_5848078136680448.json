@@ -1,0 +1,31 @@
+{
+  "call_id": "5848078136680448",
+  "rep_name": "Jevic Lazanas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 10.5,
+  "datetime_ct": "2026-10-09 21:27 CT",
+  "external_number": "+12155655372",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 25,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moves directly into logistics probing without asking about specific concerns like on-time reliability or damage protection.",
+    "two_layers_deep": "No concerns were raised by the customer, so no follow-up depth was possible.",
+    "value_days": "Not addressed. Rep quoted a fixed date (October 19th) without discussing whether cheaper days existed or asking about date flexibility.",
+    "rate_lock_then_ask": "Never asked. Rep provided estimate ($1,617) and said 'I'll go ahead and send you an email for the quote after this call and will there be anything else?' \u2014 no rate lock mentioned, no deposit confirmation, no explicit ask for the business."
+  },
+  "top_strength": "Jevic gathered sufficient logistics details (apartment size, floor, walk distance, furniture inventory, storage location) to produce a reasonable estimate and clearly explained the pricing model, hourly rate, minimum, and included services.",
+  "coaching_note": "This call skipped the entire Step 2 (Two Concerns question and layering), Step 3 (both promises), Step 5 (pricing framing elements like the pricing contrast and no-notes line), Step 6 (final concerns check), and Step 7 (rate lock, no deposit, and explicit ask for the business) \u2014 it treated this like a brief information call rather than a sales call, and ended without ever asking for the move."
+}

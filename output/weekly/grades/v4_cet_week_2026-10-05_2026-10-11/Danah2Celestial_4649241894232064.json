@@ -1,0 +1,33 @@
+{
+  "call_id": "4649241894232064",
+  "rep_name": "Danah 2Celestial",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 6.6,
+  "datetime_ct": "2026-10-05 16:08 CT",
+  "external_number": "+15127099940",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing without addressing customer's concerns about the move.",
+    "two_layers_deep": "N/A \u2014 no concerns were elicited by rep.",
+    "value_days": "Wednesday is one of our discounted days. So the hourly rate for two movers is $190.190, everything's included gas and the truck taxes and insurance. [Rep identified the discount day and gave hourly rate; no total dollar amount saving offered and no date flexibility asked.]",
+    "rate_lock_then_ask": "Never asked. Rep moved straight to booking confirmation without any rate lock statement, no-deposit mention, or explicit ask for the business. Booked by saying 'we can go ahead and cancel you in' but never framed the rate lock or asked 'Would you like our help with your move?'"
+  },
+  "top_strength": "Danah efficiently gathered complex multi-stop logistics (storage unit pickup, home bedroom move, delivery address) and clarified item counts, showing good listening to the customer's life context (moving after getting married).",
+  "coaching_note": "You skipped the two biggest structural moments: never ask the two-concerns question at the top of step 2, and never deliver the On-Time Guarantee and No Worries Damage Coverage promises in step 3, both of which directly answer why the customer should trust you \u2014 add those before probing next call."
+}

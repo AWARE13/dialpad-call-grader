@@ -1,0 +1,32 @@
+{
+  "call_id": "5836008217419776",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 17.2,
+  "datetime_ct": "2026-10-07 19:56 CT",
+  "external_number": "+18329228961",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 9,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 15,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 62,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talked to a lot of people everyday. So the most of them have one or two concerns either the mover is not showing up on time or damage their items or either of those wrong concern for you. [Asked after logistics probing had already begun]",
+    "two_layers_deep": "Customer raises on-time concern; rep responds 'Oh, okay, no worries. So let me just go ahead and bid it here then.' No follow-up on the concern itself.",
+    "value_days": "Or if you have flexibility twenty fifth and 26 is with the cheaper rate, wherein, that is cheaper for $48 dollars because the rate is only $96 per hour per, for compared to Friday and Saturday, where in the rate is $102. [Correct branch identified, savings given as total dollar figure ($48), flexibility asked]",
+    "rate_lock_then_ask": "Yeah, so in case if you do have flexibility we still have availability from Saturday the twenty fourth until the twenty sixth we can be able to book your slot as early as 8:30 AM to 9:00 AM where and there's no deposit record, no recent securing your spot in case if you wanted to reschedule or to cancel then all you have to do is just simply give us a call at anytime, there's no fees for that either. [Rate lock and no deposit mentioned, but then customer pivots to shopping rates and rep does not ask for the business \u2014 instead sends email and lets customer decide]"
+  },
+  "top_strength": "Excellent logistics gathering with complete walkthrough of both properties, clear pricing breakdown with trip fee transparency, and proper value days calculation with specific dollar savings offered.",
+  "coaching_note": "Step 2: ask the two-concerns question before starting logistics probing, and when a concern is raised (on-time), dig deeper with follow-up rather than moving past it; Step 6: always ask a genuine final concerns check before closing; Step 7: after mentioning rate lock and no deposit, ask directly 'Would you like our help with your move?' rather than pivoting to email shopping."
+}

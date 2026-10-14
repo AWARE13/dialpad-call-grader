@@ -1,0 +1,35 @@
+{
+  "call_id": "6069627550212096",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 17.3,
+  "datetime_ct": "2026-10-10 20:52 CT",
+  "external_number": "+12102693655",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 92,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "most of our customers, some of our customers rather are concerns about damages to their items or movers not arriving on time. Are this any of your concerns as well",
+    "two_layers_deep": "n/a \u2014 customer had no real concerns; answered 'No, because the last time I moved I use times'",
+    "value_days": "n/a \u2014 walkthrough_scheduler routing",
+    "rate_lock_then_ask": "n/a \u2014 walkthrough_scheduler routing",
+    "promises_delivered": "we still include our no worries damage coverage which would give you up to $2,000 coverage for any accidental damages... and on time guarantee if we run late, we provide discounts for your move",
+    "closes_the_loop": "not asked after promises",
+    "routing_to_walkthrough": "we can do a virtual Walker lists like a video call or just send us photos of everything select to pack and move. So we can just adjust the estimate... Yeah, sure, sure, I can send you a link in a few minutes... I'll send it to you in a few minutes"
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details efficiently and cleanly routed the call to a virtual walkthrough when uncertainty about items and packing scope made an in-call estimate unreliable.",
+  "coaching_note": "After delivering the two promises (damage coverage and on-time guarantee), ask 'Does that put those to rest?' to close the loop before moving forward \u2014 this step 3 behavior is graded on walkthrough calls and was skipped here."
+}

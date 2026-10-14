@@ -1,0 +1,31 @@
+{
+  "call_id": "5942036587651072",
+  "rep_name": "Zhang Pammit",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 16.1,
+  "datetime_ct": "2026-10-10 21:26 CT",
+  "external_number": "+14696704594",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 3,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 14,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 63,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "So, we're talked to a lot of people everyday and most of them have one or two concerns. Either the mover is not showing up on time or damage on to their items, or either of those. A concern for you.",
+    "two_layers_deep": "Customer said 'Uh-oh yeah but not that much' and rep immediately moved to promises without follow-up.",
+    "value_days": "No value days discussion; customer booked Saturday Nov 7 and no cheaper alternative day was offered.",
+    "rate_lock_then_ask": "No we, you don't need to put any deposit. We don't have any upfront fees. So if ever you wanted to book the slot then we can reserve it... You only need to pay once the job is done and only for the actual hours. [Then:] Okay, let's schedule then to November 7th."
+  },
+  "top_strength": "Rep delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full terms and fee transparency before estimating, establishing trust and addressing concerns early.",
+  "coaching_note": "When the customer raises a concern in step 2, go two layers deep with follow-up questions before moving on\u2014'not that much' signals hesitation that deserved deeper exploration before pivoting to promises."
+}

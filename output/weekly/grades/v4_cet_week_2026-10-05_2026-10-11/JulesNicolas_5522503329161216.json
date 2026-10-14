@@ -1,0 +1,33 @@
+{
+  "call_id": "5522503329161216",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 7.0,
+  "datetime_ct": "2026-10-07 14:46 CT",
+  "external_number": "+19035199097",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 39,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly to logistics after opening.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer in step 2.",
+    "value_days": "Never addressed. Rep gave estimate range of $838.56 to $1,056 with no mention of cheaper days or date flexibility.",
+    "rate_lock_then_ask": "Never asked. Rep confirmed arrival window and logistics details but never said 'Would you like our help with your move?' or any equivalent ask for the business. Rate lock was not mentioned. Customer volunteered booking confirmation ('she's scheduled an 8:45') but rep never explicitly asked for it."
+  },
+  "top_strength": "Jules gathered detailed logistics thoroughly \u2014 addresses, floor levels, elevator access, item inventory including TVs and book count, and proactively quoted an accurate time range and price with transparency on fees and minimums.",
+  "coaching_note": "This call skipped the two core bookend moments (step 2's two-concerns question and step 6's genuine final concerns check), never delivered the two promises, never addressed value days, and critically never asked for the business in step 7 \u2014 the customer volunteered a date but Jules never explicitly closed with 'Would you like our help with your move?' These are load-bearing steps; without them the call reads as intake-only, not sales."
+}

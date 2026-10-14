@@ -1,0 +1,35 @@
+{
+  "call_id": "5817564539428864",
+  "rep_name": "Zhang Pammit",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 16.9,
+  "datetime_ct": "2026-10-06 19:29 CT",
+  "external_number": "+19403954518",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 84,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep asks 'Can I have your name please?' and later says 'Trey' multiple times when explaining details and pricing.",
+    "quid_pro_quo": "Rep says 'This would take within the next five to ten minutes of your time. Would that be okay?' but no explicit commitment to a dependable quote or waiting for yes before continuing.",
+    "two_concerns_question": "Never asked. Rep moves directly into logistics probing without asking about on-time delivery or damage concerns.",
+    "concern_led_opening_and_logistics": "Rep gathers all major details: townhome vs house, square footage (2100 to 3000), stories, bedrooms (2 to 4), garage contents, access concerns (stairs), parking at both locations (20-second walk), and addresses.",
+    "packing_and_box_count": "Rep asks 'A typical box count based on your home size is 115 to 135 boxes. Do you feel that you fall within that range?' and later clarifies 'If you were moving some boxes, yeah, maybe twenty.' Also confirms 'no help packing' \u2014 point A to point B only.",
+    "value_days": "Rep confirms move date is Sunday 11th but never addresses value days or alternative day savings.",
+    "rate_lock_then_ask": "Rep mentions 'there's no deposit required, no rest and secure in your spot' but then asks 'Would you like our help with your move and reserve the movers in the meantime or you just want to wait for the photos that you or the videos that you, that we are uploading?' \u2014 this gives an out before committing."
+  },
+  "top_strength": "Zhang systematically gathered all necessary logistics details (both addresses, square footages, stories, room counts, access concerns, parking distances, and box counts) with clarity and confirmed understanding.",
+  "coaching_note": "Ask the Two Concerns question (on-time delivery, damage protection) before probing logistics \u2014 it sets the customer's priorities and frames why the promises matter; right now you skip this entirely and go straight to a checklist."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "5575256799223808",
+  "rep_name": "Jevic Lazanas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 13.5,
+  "datetime_ct": "2026-10-11 18:21 CT",
+  "external_number": "+18173078786",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly from profile creation into logistics probing.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer in step 2 because step 2 was never initiated.",
+    "value_days": "Rep never addressed value days or day-of-week pricing flexibility. Only date mentioned was October 26th Monday, which the customer selected; no alternative days offered.",
+    "rate_lock_then_ask": "Rep stated 'No, not at all, no deposit, no upfront payment' in response to customer's direct question about deposit, but never delivered a proactive rate lock promise or a plain ask for the business. The booking happened via customer's own initiative ('I would like to go ahead and book you guys')."
+  },
+  "top_strength": "Jevic gathered comprehensive logistics details efficiently and accurately, covering special items, property types, floor plans, garage storage, access concerns, furniture inventory, box count estimates, and destination property configuration.",
+  "coaching_note": "Jevic must deliver the Two Concerns question and both promises (On-Time Guarantee and No Worries Damage Coverage) early in the call before moving to probing \u2014 these steps are load-bearing and were completely skipped here, and he also needs to proactively frame the rate lock and ask for the business rather than waiting for the customer to volunteer a booking."
+}

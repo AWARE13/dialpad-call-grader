@@ -1,0 +1,31 @@
+{
+  "call_id": "4744382604681216",
+  "rep_name": "Zhang Pammit",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 14.7,
+  "datetime_ct": "2026-10-06 20:14 CT",
+  "external_number": "+18176086456",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 6,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 55,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Rep never asked the two-concerns question. Instead opened step 2 with 'before we proceed, do we have any concerns or any important things that you wanted to answer during this call today' \u2014 a generic open-ended version.",
+    "two_layers_deep": "Customer raised two-stop concern ('extra furniture going to storage unit, two stops'). Rep acknowledged with 'Mm-hmm' and 'Yeah, no problem' but never probed deeper with 'tell me more about that' or follow-up questions. Moved directly to logistics gathering.",
+    "value_days": "No mention of day of week options, pricing by day, or date flexibility. Customer picked Saturday 10th October and rep confirmed availability without any value-day discussion.",
+    "rate_lock_then_ask": "Rep said 'we upon checking here we can be able to book your slot as early as 8:30 AM to 9:00 AM, that would be Saturday the 10th of October, wherein there's no deposit required. No recent securing your spot. If something comes up or things changes in your end, then you can always reschedule or cancel with a quick call, no fees for that either. And would you like our help with your upcoming move this Saturday?' \u2014 rate lock and no deposit stated first, then plain ask."
+  },
+  "top_strength": "Rep gathered all necessary logistics details methodically and delivered a clear, anchored estimate with both minimum and full-range pricing ($515 to $824), personalized to the customer's specific move profile (fourth floor pickup, two stops, glass tables, three to four hour estimate).",
+  "coaching_note": "Step 2 is the foundation of the entire call \u2014 use the two-concerns question ('most people have one of two concerns: movers not showing up on time, or damage to their items') before any probing starts, and when the customer raises a concern, go two layers deep with genuine follow-up rather than acknowledging and moving on."
+}

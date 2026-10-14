@@ -1,0 +1,34 @@
+{
+  "call_id": "4628513297833984",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 6.0,
+  "datetime_ct": "2026-10-09 16:39 CT",
+  "external_number": "+15127692055",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 41,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. The call jumps directly from basic logistics into probing details.",
+    "two_layers_deep": "N/A \u2014 no concerns raised because the two-concerns question was never asked.",
+    "value_days": "Never addressed. Bri mentions a move 'about fifteen minutes down the road' but never explores date flexibility or Value Days pricing options.",
+    "rate_lock_then_ask": "Never asked. After giving the $575 quote, Bri says 'do you have any other questions or concerns you'd like answered while you have me on the line' \u2014 no ask for the business, no rate lock, no no-deposit mention. The customer asks for a quote to be sent and then hangs up without booking."
+  },
+  "top_strength": "Bri gathered logistics details methodically (both addresses, apartment floor, garage access, bed size, box count) and gave a clear, all-inclusive pricing explanation with the 2.5-hour minimum and 15-minute increment structure.",
+  "coaching_note": "The two-concerns question is the entry point to step 2 and was never asked \u2014 start every call with 'We talk to a lot of people every day, and most of them have one of two concerns: either the movers not showing up on time, or damage to their items. Are either of those a concern for you?' before moving into probing details."
+}

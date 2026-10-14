@@ -1,0 +1,33 @@
+{
+  "call_id": "5028197776531456",
+  "rep_name": "Danah 2Celestial",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 6.3,
+  "datetime_ct": "2026-10-05 19:23 CT",
+  "external_number": "+19073601092",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 41,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing without establishing concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer.",
+    "value_days": "Not addressed. Rep gave a price range ($666\u2013$1,110) with no mention of day-of-week pricing flexibility or Value Days.",
+    "rate_lock_then_ask": "Rep asked 'Does that feel fair?' but never asked for the business explicitly. No rate lock mentioned. Move was already booked online; rep confirmed existing booking instead of closing a new one."
+  },
+  "top_strength": "Danah systematically gathered detailed logistics (property type, bedroom count, garage status, special items, appliances, box count, destination details, floor/elevator) with clear, methodical probing.",
+  "coaching_note": "This call skipped the entire Two Concerns step\u2014no opening question, no promises, no permission lead-in\u2014and jumped straight to verifying a pre-booked move; add the Two Concerns and Two Promises steps even when a customer has already booked online, and close with an explicit ask like 'Would you like our help with your move?' rather than 'Does that feel fair?'"
+}

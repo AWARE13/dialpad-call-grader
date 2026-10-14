@@ -1,0 +1,31 @@
+{
+  "call_id": "6225242417831936",
+  "rep_name": "Amy Arbasa",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 13.3,
+  "datetime_ct": "2026-10-09 16:01 CT",
+  "external_number": "+12104217072",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 15,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 64,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talk a lot of people everyday and most of them have one or two concerns either they're worried that the movers won't show up on time or that their items will be damaged. Now. Would either of those concern you or do you have any other specific concerns?",
+    "two_layers_deep": "Amy asks about movers not showing up, Natalie confirms it's a concern, then Amy responds with communication reassurance but does not ask a second probing question like 'tell me more about that' \u2014 she pivots immediately to offering solutions instead of going deeper into the concern.",
+    "value_days": "Now Friday, Saturday, Sunday it's a bit higher compared to our best value days which is Monday to Thursday. Just to give you a reference if you want to move from Monday to Thursday, the hourly rate is $192. That's per hour with two movers. If you want to do the Friday, Saturday that's $206 an hour... do you want to stick with the Friday date?",
+    "rate_lock_then_ask": "We don't require any deposits, no rebooking fees, no cancellation fees. What do you think would you like us to hop up with this move? \u2014 The rate lock is mentioned but then the ask is softened with 'What do you think would you like us to hop up' rather than a plain direct ask, and the customer responds with hesitation 'Let me think about it' instead of booking."
+  },
+  "top_strength": "Amy delivered a comprehensive inventory deep-dive, capturing all special items and logistics in detail, which ensures the estimate will be accurate and the crew is well-prepared.",
+  "coaching_note": "Step 2 needs a real second layer: when Natalie raised the concern about movers not showing up, Amy jumped to a solution instead of asking 'Tell me more about that' or 'What happened?' \u2014 layer deeper before pivoting to your answer, and also reflect concerns back as a summary (Step 2, Active Listening) before moving forward."
+}

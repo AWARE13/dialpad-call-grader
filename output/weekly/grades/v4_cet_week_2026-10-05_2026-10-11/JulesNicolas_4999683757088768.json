@@ -1,0 +1,33 @@
+{
+  "call_id": "4999683757088768",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 9.0,
+  "datetime_ct": "2026-10-05 21:01 CT",
+  "external_number": "+14694687723",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 37,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics and pricing without raising the two-concern opening.",
+    "two_layers_deep": "N/A \u2014 no concerns were probed by the rep using the two-concerns question.",
+    "value_days": "Never addressed. Rep quoted Friday at $218/hr without discussing day-of-week pricing or flexibility.",
+    "rate_lock_then_ask": "Not present. Rep scheduled the move and confirmed details without any explicit rate-lock promise or clear close ('Would you like our help with your move?'). Rep said: 'Alright, well, I'll get this scheduled for you right away for Friday... I'll get this scheduled and sent over the confirmation email.'"
+  },
+  "top_strength": "Jules recovered smoothly from a customer database lookup confusion, clarified the pickup and delivery addresses, and gathered enough detail about the job (queen bed, storage unit dimensions, floor location, elevator protection needs) to price accurately.",
+  "coaching_note": "This call skipped the entire discovery process \u2014 no two-concerns question, no probing for concerns, no Two Promises about reliability or damage coverage, no rate lock, and no explicit ask for the business; the booking happened by default with no clear commitment step, which leaves the customer with no confidence anchor and the company exposed to cancellation."
+}

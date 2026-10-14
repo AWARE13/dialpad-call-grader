@@ -1,0 +1,33 @@
+{
+  "call_id": "5566907433132032",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 21.4,
+  "datetime_ct": "2026-10-10 14:39 CT",
+  "external_number": "+17186009597",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 12,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 8,
+  "total_score": 68,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly to probing without asking about customer's two primary concerns (reliability/on-time delivery, damage protection).",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during step 2 because the two-concerns question was never asked.",
+    "value_days": "Not addressed. Rep quoted the 28th without checking if it was a peak day and without offering alternative dates for savings.",
+    "rate_lock_then_ask": "Rate lock mentioned: 'We can be able to book your slot...there's no deposit record, no rest and securing your spot.' Ask: 'Would you like me to lock that in for you.' Order is correct (rate lock before ask), and ask is reasonably plain."
+  },
+  "top_strength": "Rep delivered both Two Promises (No Worries Damage Coverage at $2,000 and On-Time Guarantee with specific discount tiers) clearly and in full during step 3, establishing credibility early before gathering details.",
+  "coaching_note": "Never skip the two-concerns question (step 2) \u2014 it's the primary opener for this step and anchors the entire call to what matters to the customer; without it, you're selling features instead of solving problems, and you have no concerns to dig two layers deep on."
+}

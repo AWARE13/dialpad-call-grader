@@ -1,0 +1,35 @@
+{
+  "call_id": "4585116528844800",
+  "rep_name": "Amy Arbasa",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 10.4,
+  "datetime_ct": "2026-10-09 18:18 CT",
+  "external_number": "+17374310836",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 60,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Can I have your name so I can address you properly... KJ sure looks like we do have opening tomorrow.",
+    "quid_pro_quo": "Let's get you quoted. I'll create a profile for you. First, I'll ask you some questions to get us on the right track and then I'll prepare an estimate that you can depend on you don't have to take notes. I'll send everything via email. Sounds good. \u2014 No explicit wait for confirmation after framing.",
+    "two_concerns_question": "I would like to know aside from the price, cause I always ask our clients sometimes they would tell me they have one or two concerns. Either there word the movers won't show up on time or you know, getting an item damage. What about you, what are you most worried about for the upcoming?",
+    "two_layers_deep": "KJ states: I'm more worried about the tomorrow, I kinda am on-call tomorrow I shouldn't have any jobs at work and I work in area so I'm just more concerned on my get a call while the movie movers are but that's it. Amy responds: Okay, no problem. Once we put you on schedule I'll send you the confirmation email right away \u2014 no second layer dig.",
+    "promises_delivered": "No On-Time Guarantee or No Worries Damage Coverage mentioned at all.",
+    "final_concerns_check": "Amy moves directly to booking confirmation: Amazing. Okay, let me put you on schedule. What's your new unit number? \u2014 No genuine concerns check asked at the end.",
+    "value_days": "Saturday pricing given ($230/hr) but no mention of whether this is a Best Value Day, no comparison to other days, no savings offered.",
+    "rate_lock_then_ask": "We don't require any deposits as well. And if you need to reschedule no additional fees. What do you think would you like us to help you out tomorrow? \u2014 Rate lock and no deposit stated before the ask."
+  },
+  "top_strength": "Amy gathered complete logistics details (both addresses, floor count, elevator status, inventory, walking distance, box count) with a systematic concern-led approach and confirmed all booking details at the end.",
+  "coaching_note": "Step 3 Two Promises (On-Time Guarantee and No Worries Damage Coverage) was completely skipped \u2014 this is the most load-bearing gap, as it directly answers the concern KJ raised about being on-call; add the permission lead-in and both promises before moving into probing."
+}

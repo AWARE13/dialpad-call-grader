@@ -1,0 +1,34 @@
+{
+  "call_id": "5176683272642560",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 6.0,
+  "datetime_ct": "2026-10-05 16:29 CT",
+  "external_number": "+17139060486",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 0,
+  "total_score": 42,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Jeline never asked the two-concerns opening about on-time reliability or damage concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer in step 2 context.",
+    "value_days": "Not addressed. No discussion of day-of-week pricing or flexibility.",
+    "rate_lock_then_ask": "Never asked for the business. Jeline presented pricing ($95/hr per mover, $190/hr total, $210 travel fee, 2.5 hr minimum) and when the customer objected to the travel fee and minimum for an in-unit move, Jeline said 'I'm sorry if there's a travel fee but yeah, thank you for considering us for your move tomorrow' and ended the call without attempting to resolve the objection or close."
+  },
+  "top_strength": "Jeline gathered detailed logistics efficiently \u2014 property type, floor access, distances, furniture inventory including bed sizes and TV dimensions, and special items \u2014 covering most detail items without a concern-led opening.",
+  "coaching_note": "The call lost the customer at pricing because Jeline never delivered the Two Promises (On-Time Guarantee and Damage Coverage) to address move concerns, never attempted to resolve the travel fee objection, and ended without asking for the business or finding a path forward."
+}

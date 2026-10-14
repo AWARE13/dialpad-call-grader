@@ -1,0 +1,31 @@
+{
+  "call_id": "5194873375596544",
+  "rep_name": "Joanna Ballon",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 6.5,
+  "datetime_ct": "2026-10-07 15:07 CT",
+  "external_number": "+18179835709",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 32,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly to logistics verification without probing for customer concerns.",
+    "two_layers_deep": "Not asked. When customer mentioned partial move from a townhouse ('I'm moving just like my stuff'), rep acknowledged with 'mm-hmm' but did not follow up with 'tell me more about that' or any deeper exploration.",
+    "value_days": "Not addressed. Rep quoted Wednesday at $94/hour without discussing whether customer had date flexibility or whether a different day offered savings.",
+    "rate_lock_then_ask": "Never asked for the business. Rep provided estimate of $1,142, customer said 'that sounds good,' but rep never asked 'Would you like our help with your move?' or explicitly closed the sale. Proceeded directly to collecting unit numbers and sending confirmation."
+  },
+  "top_strength": "Joanna systematically gathered all required logistics details (addresses, property type, floor levels, walking distances, special items, packing needs, box count) to construct an accurate estimate and confirmed the customer's name and details multiple times throughout the call.",
+  "coaching_note": "This call skipped the two most critical steps in the card: never asked about the customer's concerns at the outset, and never asked for the business at the end \u2014 both gaps that cost points on the bookends and leave money on the table even when the customer agrees the estimate 'sounds good.'"
+}

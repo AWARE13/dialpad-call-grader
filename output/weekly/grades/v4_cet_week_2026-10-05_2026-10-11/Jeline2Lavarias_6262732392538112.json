@@ -1,0 +1,31 @@
+{
+  "call_id": "6262732392538112",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 11.9,
+  "datetime_ct": "2026-10-05 14:06 CT",
+  "external_number": "+12105482552",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 6,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Jeline went directly into \"Before I proceed and asking details about the move aside from the pricing, Emily. Do you have any other concerns about the moving process?\" This is an open-ended alternative, not the two-concerns format.",
+    "two_layers_deep": "Jeline asked once about the refrigerator concern (clarified the logistics) but did not dig deeper with follow-up like \"tell me more about that\" or sustained silence. Customer volunteered most detail unprompted.",
+    "value_days": "Never addressed. No mention of day-of-week pricing, Best Value Days, or date flexibility savings.",
+    "rate_lock_then_ask": "Jeline mentioned no deposit upfront (\"We do not require any deposit. You will only be asked to make the payment once we completed the move\") and then asked \"So with that Emily would you like to be on the schedule tomorrow?\" but did not mention rate lock at all, and phrased the ask as a soft question without conviction rather than a direct close. Customer did not commit; she said she would call back after consulting her mom."
+  },
+  "top_strength": "Jeline gathered comprehensive logistics details (addresses, square footage, rooms, special items, appliances, furniture list, parking) and stayed organized through a complex multi-item move with two refrigerators.",
+  "coaching_note": "Step 2 is the heaviest step on the card \u2014 use the two-concerns framing about movers not showing up on time and damage to items, then dig two layers deep on each concern the customer raises before moving to logistics. You skipped this entirely and it cost 25 points."
+}

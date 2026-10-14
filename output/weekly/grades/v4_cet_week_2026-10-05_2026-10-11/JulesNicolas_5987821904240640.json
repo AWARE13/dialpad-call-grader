@@ -1,0 +1,33 @@
+{
+  "call_id": "5987821904240640",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 7.3,
+  "datetime_ct": "2026-10-05 14:25 CT",
+  "external_number": "+18307343130",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 43,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. No recognition of customer's stated concerns about moving prep/timing.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by rep structure; customer volunteered deadline pressure but rep never explored it.",
+    "value_days": "Sunday morning is actually a little bit cheaper than Saturday \u2014 offered as savings comparison but no dollar amount given and no explicit flexibility ask.",
+    "rate_lock_then_ask": "Never asked for the business. Rep moved directly to confirmation: 'I'll get you scheduled right now' without an explicit ask like 'Would you like our help with your move?'"
+  },
+  "top_strength": "Jules gathered comprehensive logistics details efficiently, including box count, big items, and both addresses with unit numbers, showing good command of probing structure.",
+  "coaching_note": "The call skipped the two core promises (On-Time Guarantee and No Worries Damage Coverage) entirely and moved straight to confirmation without ever asking for the business \u2014 these are non-negotiable steps that build trust and close the sale."
+}

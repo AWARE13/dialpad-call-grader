@@ -1,0 +1,33 @@
+{
+  "call_id": "6315438599610368",
+  "rep_name": "Amy Arbasa",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 9.0,
+  "datetime_ct": "2026-10-05 18:14 CT",
+  "external_number": "+12102969129",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 7,
+  "step7_ask_for_the_business": 10,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep jumped directly into date availability and logistics without surfacing customer's core concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were formally surfaced through the rubric's two-concerns question, though Victoria's frustration about closing-date uncertainty and logistics emerged organically in her opening monologue and was never probed beyond acknowledgment.",
+    "value_days": "Amy said: 'Actually, the weekend like specifically Friday and Saturday is a bit higher. So let me just check the difference. How much it would be... Initially we quoted you for a Monday, Tuesday. So the estimated total for that Monday, Tuesday would be around $4,696 now if we do a Saturday, Sunday it would be around $4,794, so only $98 more.' The saving was given as a total dollar figure ($98) and the customer accepted, confirming date flexibility was explored.",
+    "rate_lock_then_ask": "Amy said: 'We don't require any deposits. Would you like us to help you out with this move October 31st for the storage November 1st for the house.' The rate-lock (no deposit) was explicitly stated before the ask for business."
+  },
+  "top_strength": "Amy secured the booking with clear confirmation of both dates (Oct 31 storage, Nov 1 house move), communicated the no-deposit policy upfront, and handled the customer's visible stress about closing delays with empathy and reassurance.",
+  "coaching_note": "Step 2 \u2014 Surface Victoria's core concerns explicitly using the two-concerns question before any logistics probing; her frustration about closing uncertainty and the tight November 14 deadline should have been named, validated with two-layer follow-up, and tied to the On-Time Guarantee and damage coverage promises in Step 3, which were never delivered at all."
+}

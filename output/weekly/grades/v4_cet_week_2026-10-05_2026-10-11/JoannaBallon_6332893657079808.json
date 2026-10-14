@@ -1,0 +1,33 @@
+{
+  "call_id": "6332893657079808",
+  "rep_name": "Joanna Ballon",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 6.7,
+  "datetime_ct": "2026-10-06 15:57 CT",
+  "external_number": "+18325175526",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Customer mentioned bunk bed and boxes; Joanna asked 'aside from the pricing, do you have any other imported concerns' but this is not the two-concerns script about on-time guarantee and damage protection.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer in response to Joanna's generic concerns check.",
+    "value_days": "Not addressed. Joanna quoted $510 minimum for Saturday the 10th but never identified the day as Best Value or cheaper, never offered a savings comparison, never asked about date flexibility.",
+    "rate_lock_then_ask": "Never asked. Joanna gave the estimate ($510 minimum), mentioned no rate lock, no deposit language, and ended with 'you can just respond to the email' \u2014 a built-in out, not a direct ask for the business."
+  },
+  "top_strength": "Joanna gathered logistics details methodically (addresses, property type, floors, elevator access, furniture and box count) and delivered a clear, itemized estimate with hourly rate, minimum, and included services all transparent.",
+  "coaching_note": "Ask the two-concerns question before any probing (damage and on-time reliability), then deliver both promises with permission language and close the loop \u2014 this earns trust early; separately, end with a direct ask for the business backed by rate-lock language, never hand off to email as a soft out."
+}

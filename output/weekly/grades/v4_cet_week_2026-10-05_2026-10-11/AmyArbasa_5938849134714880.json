@@ -1,0 +1,31 @@
+{
+  "call_id": "5938849134714880",
+  "rep_name": "Amy Arbasa",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 8.6,
+  "datetime_ct": "2026-10-11 15:12 CT",
+  "external_number": "+18179010008",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 16,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 65,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talk to a lot of people everyday and you know, most of them would have one or two concerns. Either the rod, that the movers won't show up on time or that they're going to damage their items. How about you Andy would either of this concern to you",
+    "two_layers_deep": "Customer raised damage concern about full body mirror and on-time concern; Amy acknowledged with 'Right, Yeah, For sure' and briefly mentioned on-time guarantee, but did not probe deeper with 'tell me more about that' or genuine follow-up questions to understand the customer's specific worries",
+    "value_days": "Sundays our second cheapest day, $210 an hour the cheapest would be Monday to Thursday. But it's only a little difference $208 per hour, so just $2 difference. Yeah. Yeah. He would probably just save $6 to $10 if we do the minimum to three hour estimate for that day. (Saving given as hourly difference first, then converted to total; customer was already on second-cheapest day, not worst day, limiting flexibility appeal)",
+    "rate_lock_then_ask": "no deposit required, no rebooking, no cancellation fees (rate lock mentioned) but no explicit ask for the business; customer simply said 'just send over the quote and I'll see I'll make like a decision right in the next couple of days' and Amy accepted without asking 'Would you like our help with your move?'"
+  },
+  "top_strength": "Amy asked the two-concerns question early and built the on-time guarantee framing directly into the morning-slot recommendation, anchoring the customer's choice to Einstein's reliability promise.",
+  "coaching_note": "Step 6 is entirely missing \u2014 Amy never asked a final concerns check before ending the call, which was the designed moment to surface any remaining objections and confirm the customer was ready to book, not just 'think about it.'"
+}

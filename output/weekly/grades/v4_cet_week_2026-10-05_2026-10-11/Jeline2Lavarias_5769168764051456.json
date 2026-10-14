@@ -1,0 +1,36 @@
+{
+  "call_id": "5769168764051456",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 11.2,
+  "datetime_ct": "2026-10-06 17:04 CT",
+  "external_number": "+13125503800",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 84,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Am I speaking with a Abraham? ... Abraham: You are. ... Jeline: Hello, I'm actually calling because we received your request for an estimate for your move",
+    "quid_pro_quo": "this might take ten to fifteen minutes of your time. So, is this a good time to talk about your move? ... Yes, let's do that. [No framing of dependable quote or waiting for genuine agreement to proceed into the estimate process]",
+    "two_concerns_question": "Not asked. No mention of concerns about movers showing up on time or damage to items.",
+    "promises_delivered": "Rep mentions damage concern: 'I really don't want any of my things damaged' and 'we provide training for them.' But no On-Time Guarantee or No Worries Damage Coverage promises delivered. No permission lead-in before sharing how Einstein works on reliability or damage protection.",
+    "closes_the_loop": "Not asked. No 'Does that put those to rest?' or equivalent.",
+    "concern_led_opening_and_logistics": "Rep gathers pickup address, square footage, bedroom count, den (office), 5th floor with elevator, parking distance (~50 feet), furniture inventory (bed, dressers, sofa, chairs, shelves, desk, office chair, tables, speakers, plants), electronics (vinyl player, TV, lamps, air filters, computer), and asks about collections, workout equipment, appliances. Comprehensive logistics coverage.",
+    "packing_and_box_count": "Box count: 'Normally for an apartment your size we see 25 to 35 boxes. Do you think you would fall within that range?' Packing: 'would you be needing the full packing services? Where we pack everything for you and put everything into boxes or just a partial.' Both asked.",
+    "walkthrough_routing": "Rep recognizes packing complexity requires visual assessment: 'So, in order for us to give you like the most accurate code for this, for the packing, I actually have to see how much stuff we will be packing for you by any chance sir, are you available to do a virtual walkthrough? It's like a video call so I can see this stuff.' Customer agrees. Rep confirms next steps: 'Alright, well just give it two to three minutes. I'll just prepare the link. So once you receive the link, I'll send that via text message, just click on that and then let's do the video call.'"
+  },
+  "top_strength": "Jeline gathered comprehensive logistics details through patient listening and follow-up questions, getting full furniture inventory, electronics, special concerns (framed art, plants), and packing preferences without rushing, then correctly identified the need for a virtual walkthrough to scope the packing accurately.",
+  "coaching_note": "Before routing to the walkthrough, ask the Two Concerns question (damage and on-time reliability) and deliver both promises with permission lead-in and confirmation, so the customer knows exactly how Einstein works before disconnecting \u2014 Step 3 happens before probing on v4, not after."
+}

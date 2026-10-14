@@ -1,0 +1,34 @@
+{
+  "call_id": "5867368801935360",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 7.2,
+  "datetime_ct": "2026-10-07 14:20 CT",
+  "external_number": "+12142121568",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 2,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 33,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. The call opens with pricing and logistics, not customer concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during the call.",
+    "value_days": "Jules mentions Saturday is more expensive than Sunday and offers a dollar amount difference ($120 difference between five-hour and seven-hour estimates on Saturday vs Sunday), but does not ask about date flexibility or whether the customer would prefer the cheaper day. Jules says 'I would suggest to Saturdays get booked up pretty quickly. So I would just book Saturday first' \u2014 responding to customer's scheduling question, not proactively offering the cheaper day value.",
+    "rate_lock_then_ask": "Never asked. Call ends with 'I'll send everything over in an email and yeah, whenever you're ready to get this move scheduled, you can either give us a callback or respond to that email.' No rate lock mentioned, no explicit ask for the business, customer leaves to think it over."
+  },
+  "top_strength": "Jules provided a clear, anchored estimate range ($1,620 to $2,238 for 5\u20137 hours) and personalized it to the customer's box count and crew size, giving the customer a concrete number to work with.",
+  "coaching_note": "Start with the two-concerns question before any pricing or logistics \u2014 it surfaces what matters to the customer and lets you earn trust on those points before presenting the estimate, which will make the price land much better than leading with hourly rates."
+}

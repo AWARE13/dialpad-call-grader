@@ -1,0 +1,33 @@
+{
+  "call_id": "4510195136110592",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 11.5,
+  "datetime_ct": "2026-10-09 17:07 CT",
+  "external_number": "+12025995636",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep jumped straight into pulling up the move details without the two-concerns opener.",
+    "two_layers_deep": "No concerns were surfaced because the two-concerns question was never asked, so N/A.",
+    "value_days": "Never mentioned. Rep offered a single time slot (Friday 23rd, 8:30-9:00 AM) with no mention of cheaper days or date flexibility.",
+    "rate_lock_then_ask": "Rep said 'we can be able to book your slot as early as 8:30 AM to 9:00 AM, that would be Friday the 23rd of October, wherein there's no deposit required, no recent occur in your spot. So, in case, if you wanted to.' This mentions no deposit but does not explicitly lock the rate, and the ask is soft (built-in out: 'in case if you wanted to'). Customer then asked for email instead of booking."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details (addresses, floor/elevator access, square footage, room count, parking, special items, box count) and disclosed both the hourly rate structure ($103/mover) and the trip fee ($70) with transparency about why the fee applied.",
+  "coaching_note": "Never asked the two-concerns question, which is the primary entry point for step 2 and sets up everything that follows\u2014probing felt like a checklist rather than customer-centered. The call needs the concern-led opening early, and step 7 needs an explicit 'Would you like our help with your move?' ask before the email handoff."
+}

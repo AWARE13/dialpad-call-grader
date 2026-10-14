@@ -1,0 +1,33 @@
+{
+  "call_id": "6564177117487104",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 9.3,
+  "datetime_ct": "2026-10-05 21:58 CT",
+  "external_number": "+14698059769",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 41,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. No version of the two-concerns question appears in the transcript.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer in step 2.",
+    "value_days": "Not addressed. Jules never identified which value day branch applied (Best Value Day, Better Value Day, or Standard Day) or offered any date flexibility savings.",
+    "rate_lock_then_ask": "Never asked. Jules moved directly to scheduling: 'Alright well, I'll definitely get you scheduled right now either for Wednesday or Thursday, which one would work better for you?' No rate lock mention, no deposit language, no 'Would you like our help with your move?' ask."
+  },
+  "top_strength": "Jules gathered detailed logistics efficiently \u2014 addresses, furniture items, packing materials, wardrobe boxes, box count \u2014 and delivered a personalized range estimate ($816\u2013$1,224 plus materials) anchored to the customer's actual move profile.",
+  "coaching_note": "Never ask the two-concerns question, never deliver the On-Time Guarantee and No Worries Damage Coverage promises, never check for final concerns, and never explicitly ask for the business \u2014 the card requires all four, and skipping them leaves money and trust on the table."
+}

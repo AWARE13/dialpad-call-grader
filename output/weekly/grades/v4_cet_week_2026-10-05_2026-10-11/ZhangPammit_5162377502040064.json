@@ -1,0 +1,33 @@
+{
+  "call_id": "5162377502040064",
+  "rep_name": "Zhang Pammit",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 11.3,
+  "datetime_ct": "2026-10-07 16:23 CT",
+  "external_number": "+19729796672",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 10,
+  "total_score": 68,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Rep never asked the two-concerns question. Customer volunteered 'No' to general concerns early, but rep did not use the structured opener about movers showing up on time or damage to items.",
+    "two_layers_deep": "Customer said 'No' to concerns question, so no concerns to probe. N/A applies.",
+    "value_days": "Rep never addressed Value Days or offered any alternative dates as a cost savings. Only presented Nov 2 or 3 and took Nov 2 without exploring date flexibility or pricing tiers.",
+    "rate_lock_then_ask": "There's no deposit required. No rest securing your spot... Would you like, how would you like to lock that in for you. [Rate lock and no deposit clearly stated before implicit ask, though the ask phrasing is slightly awkward ('Would you like, how would you like to lock that in') it is sufficiently clear.]"
+  },
+  "top_strength": "Rep gathered comprehensive logistics details efficiently (property types, square footage, bedrooms, garage, walkway access, special items, box count, both addresses) and delivered a clear, itemized estimate with hourly rate, trip fee, and total cost ($1,863 for 8-9 hours with two movers).",
+  "coaching_note": "Rep skipped the two-concerns question entirely\u2014the primary driver of step 2\u2014and never offered Value Days or date flexibility to explore potential savings, missing two key revenue and satisfaction moments in the estimate phase."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "4937801568395264",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 9.1,
+  "datetime_ct": "2026-10-08 16:43 CT",
+  "external_number": "+15122947423",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 52,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Rep never asked the two-concerns question. No mention of movers not showing up or damage concerns before moving into logistics.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer in step 2 since the question was never asked.",
+    "value_days": "Rep discussed October 12 availability in morning (8:30-9:00 AM) or afternoon (2:00-2:30 PM) slots but did not identify the day's value tier, did not offer a dollar savings, and did not ask about date flexibility.",
+    "rate_lock_then_ask": "Rep asked 'Would you like our help on your upcoming move on the 12th of October' and when customer declined, pivoted to 'Would you like me to lock that in for you?' The rate lock and no-deposit information came later: 'We don't have deposit required. No recent securing your spot. Yes, you only need to pay once the job is done is own and only for the actual hours.' The ask came before the rate lock and no-deposit framing, and was softened/unclear on first attempt."
+  },
+  "top_strength": "Excellent logistics gathering and detail coverage \u2014 the rep methodically confirmed unit number, floor/elevator access, walk distances, previous move history, item count, and destination property type, creating a foundation for accurate pricing.",
+  "coaching_note": "Step 2 is missing entirely: never ask the two-concerns question before probing, leaving the entire 'bookend one' moment to establish what matters to Betty and skipping the permission lead-in that sets up the promises in step 3."
+}

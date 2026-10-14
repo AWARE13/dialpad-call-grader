@@ -1,0 +1,31 @@
+{
+  "call_id": "5149387815952384",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 12.3,
+  "datetime_ct": "2026-10-05 15:16 CT",
+  "external_number": "+17323576394",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 24,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved straight from collecting items into logistics probing without the two-concerns opener.",
+    "two_layers_deep": "Not applicable\u2014no concerns were surfaced because the two-concerns question was never asked.",
+    "value_days": "Rep did mention cheaper weekday rates ('we do have cheaper rates available for a weekday. Move anywhere from Monday to Thursday') and asked about flexibility ('are you flexible or does it have to be Friday and Saturday?'), but the saving was presented as an hourly rate difference ($204 vs $218 per hour) rather than as a total dollar amount. Card requires 'total dollar amount, never an hourly difference.' Also, the move fell on Friday-Saturday (not a Best Value Day), so this should have been fully executed.",
+    "rate_lock_then_ask": "Never asked. Rep ended the call with 'I'll send everything over in an email and once you guys are ready to get this scheduled or if you have any questions feel free to give us a call back.' No rate lock mentioned, no explicit ask for the business, and no attempt to book."
+  },
+  "top_strength": "Jules gathered detailed item inventory thoroughly and provided a clear, itemized estimate with transparent fee breakdown ($3,345 total including $1,056 transportation fee, hourly rates, and minimum billing).",
+  "coaching_note": "Never ask the two-concerns question or deliver the Two Promises (On-Time Guarantee and No Worries Damage Coverage), and end every call with an explicit ask for the business preceded by rate lock and no-deposit framing\u2014this call skipped all three critical steps and relied on email follow-up instead of closing."
+}

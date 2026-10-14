@@ -1,0 +1,35 @@
+{
+  "call_id": "4900484824735744",
+  "rep_name": "Zhang Pammit",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 7.7,
+  "datetime_ct": "2026-10-07 16:48 CT",
+  "external_number": "+19727688655",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 79,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep says 'I'm looking to speak with Raymond' and 'Hi, Raymond' \u2014 name obtained and used once",
+    "quid_pro_quo": "Rep says 'This would take within the next five to ten minutes of your time. Would that be okay?' but no promise of dependable quote or full framing; customer says 'Yeah, that's fine' and rep proceeds without waiting for explicit yes",
+    "two_concerns_question": "Never asked. No version of the two-concerns opener about movers showing up on time or damage protection appears in the transcript",
+    "promises_delivered": "Neither On-Time Guarantee nor No Worries Damage Coverage mentioned anywhere in the call",
+    "concern_led_opening_and_logistics": "Rep does not open with 'What items are you most concerned about?' but instead moves directly into logistics gathering: addresses, square footage, bedrooms, garage status, parking options, walking distance, access concerns, and box count. All major logistics items covered across both properties",
+    "packing_and_box_count": "Box count: 'A typical backs count based on your home size is 115 to 135 boxes. Do you feel that you fall within that range?' Customer responds about their own packing level. Packing: Customer volunteers 'I'm packing everything myself' and rep confirms 'No need help in packing'",
+    "walkthrough_routing": "Rep says 'Normally based on your home size, we do a virtual walkthrough. In that way, we will just base it on the items that we're moving. Do you have time to complete the virtual walk through today?' Customer agrees, and rep sends a link and confirms the handoff: 'I just need to end the call and just click on the link. I'm already there.'"
+  },
+  "top_strength": "Zhang gathered comprehensive logistics details across both properties (addresses, square footage, bedrooms, garage, parking, walking distances, access concerns) and correctly identified that the 3,900 sq ft destination required a virtual walkthrough rather than pricing over the phone.",
+  "coaching_note": "Step 2 and Step 3 were completely skipped \u2014 the two-concerns question and both promises (On-Time Guarantee and No Worries Damage Coverage) were never surfaced before routing to the walkthrough, and these are graded behaviors on walkthrough calls since promises now come before probing on the v4 card."
+}

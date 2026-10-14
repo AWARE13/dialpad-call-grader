@@ -1,0 +1,33 @@
+{
+  "call_id": "6385050850729984",
+  "rep_name": "Zhang Pammit",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 13.3,
+  "datetime_ct": "2026-10-06 22:04 CT",
+  "external_number": "+15044841592",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 3,
+  "total_score": 68,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics probing after quid pro quo.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer at step 2 because the two-concerns question was never asked.",
+    "value_days": "Never addressed. Rep offered only one time slot option (morning 8:30-9:00 AM or afternoon 1:00-2:00 PM on November 1st) with no mention of cheaper alternative days.",
+    "rate_lock_then_ask": "Rep said: 'So we have morning early as 8:30 AM to 9:00 AM...there's no deposit required, no recent securing your spot.' Then asked: 'Would you like her help with your upcoming move?' Customer asked for clarification, rep rephrased as 'Would you like me to lock that in for you and reserve the movers send the truck for you on that day?' \u2014 the ask is present but softened by preceding slot confirmation, and comes after the rate lock framing rather than the direct 'would you like our help' phrasing."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details across all major categories (addresses, floor/stairs, walking distances, special items, box count, packing needs) using a smooth, organized flow that felt natural rather than checklist-driven.",
+  "coaching_note": "The two-concerns question at step 2 is the missing cornerstone of this call \u2014 skipping it meant the rep never understood what Faithe actually cared about, so the promises landed generic rather than responsive to her real worries."
+}

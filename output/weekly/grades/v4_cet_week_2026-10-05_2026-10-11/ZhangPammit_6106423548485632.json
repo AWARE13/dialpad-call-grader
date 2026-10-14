@@ -1,0 +1,37 @@
+{
+  "call_id": "6106423548485632",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 5.4,
+  "datetime_ct": "2026-10-08 19:18 CT",
+  "external_number": "+13149522659",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 77,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "it looks like that we have availability within your timeframe. The next step is to put together an estimate. I just have some questions about your move specifically. This would take within the next ten to fifteen minutes of your time. So you can walk away with a quote you can depend on instead of just a guess. Does that sounds good to you?",
+    "two_concerns_question": "NOT ASKED \u2014 Rep moved directly into logistics probing (first location address, bedrooms, garage, driveway) without asking about concerns.",
+    "two_layers_deep": "N/A \u2014 No concerns were raised by the customer at any point before routing to walkthrough.",
+    "active_listening_reflection": "N/A \u2014 No concerns were raised.",
+    "promises_delivered": "NOT DELIVERED \u2014 Rep never asked permission to share how Einstein works on reliability/timeliness or damage protection. No On-Time Guarantee or No Worries Damage Coverage mentioned.",
+    "closes_the_loop": "NOT ASKED \u2014 No 'Does that put those to rest?' or equivalent.",
+    "concern_led_opening": "NOT PRESENT \u2014 Rep opened with standard logistics questions (address, bedrooms, garage, parking) rather than 'What items in this move are you most concerned about?'",
+    "packing_and_box_count": "BOTH ASKED \u2014 Rep stated 'typical backs count based on your home size is 115 to 125 boxes. Do you feel that you fall within that range?' and later asked 'do you think how many bags are we expecting like 506030.'",
+    "walkthrough_routing": "CLEAN \u2014 Rep correctly identified home is over 1800 sq ft (2100 first location, 2900 second), offered virtual walkthrough as the next step, confirmed customer availability on Tuesday 9:00 AM, and scheduled next steps with confirmation of email and text link."
+  },
+  "top_strength": "Rep cleanly identified the move as oversized and correctly routed to the virtual walkthrough rather than attempting an over-the-phone estimate, with a confirmed scheduling window and clear next steps.",
+  "coaching_note": "Step 2 and Step 3 were skipped entirely \u2014 rep moved into logistics probing without first asking the two-concerns question or delivering the Two Promises (On-Time Guarantee and No Worries Damage Coverage). Even on walkthrough calls, these early steps establish trust and address the customer's actual concerns before details."
+}

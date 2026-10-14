@@ -1,0 +1,35 @@
+{
+  "call_id": "5871479389724672",
+  "rep_name": "Joanna Ballon",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 8.8,
+  "datetime_ct": "2026-10-06 13:40 CT",
+  "external_number": "+12073323279",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 10,
+  "total_score": 60,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Joanna jumps straight into logistics ('Do you have any other furniture for office study garage balcony') after the customer says 'it's pretty straightforward move.'",
+    "two_layers_deep": "No concerns were raised by the customer in step 2, so this is n/a.",
+    "value_days": "Rep does not address Value Days. Customer is on Friday 23 October. No mention of cheaper day alternatives or date flexibility.",
+    "rate_lock_then_ask": "Joanna says 'We don't take deposits at this time. The payment is only upon completion of the move' (rate lock / no deposit), then asks 'Do you have any questions or would you like for help for this move on that Friday?' (the ask, but not perfectly plain\u2014it's bundled with a logistics question).",
+    "promises_delivered": "Joanna delivers On-Time Guarantee ('if we're un late, we provide discounts for your move') and No Worries Damage Coverage ('No worries, damage coverage which would give you up to $2,000 coverage'), but no permission lead-in asking 'Can I share how we work...?' Both are delivered mid-pricing explanation rather than as a focused promise block with a close-the-loop check.",
+    "estimate_anchor": "Joanna gives a typical range: 'typically a one bedroom apartment usually takes two and a half to three and a half hours' and personalizes it: 'but for now I'll just call you more on the three to four hour mark' based on stairs and walking distance. Estimate given as '$58,088'."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details (furniture inventory, box count, walking distances at both ends, floor/stairs, room count) and confirmed all booking details cleanly including unit numbers, arrival window, and move date.",
+  "coaching_note": "Start step 2 with the two-concerns question before any probing\u2014'either movers not showing up on time or damage to items, are either of those a concern?'\u2014to anchor the call on what matters to the customer, not the checklist."
+}
