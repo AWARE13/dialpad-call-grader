@@ -1,0 +1,31 @@
+{
+  "call_id": "5040563127361536",
+  "rep_name": "Nicole Tolete",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 10.7,
+  "datetime_ct": "2026-10-15 19:46 CT",
+  "external_number": "+12567632331",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. The rep moved directly into logistics probing without asking the two-concerns opener.",
+    "two_layers_deep": "Customer raised multiple concerns (mixed load with other customers, apartment complex parking and elevator constraints, old people complex). Nicole followed up on the mixed load concern: 'we actually have a lot of trucks. We have nine trucks available and we will book you on our one truck. Only focusing on you.' She also engaged deeply on the parking and facility concerns, asking clarifying questions about door access, driveway blocking, and timing.",
+    "value_days": "Customer selected Thursday December 17th. Nicole confirmed this is a workable day and gave time-based anchor for the move: 'we have to start at the earliest time we have which is 8:30 AM to 9:00 AM' and estimated completion 'around 6:30 PM.' No mention of cheaper alternative days or date flexibility offered.",
+    "rate_lock_then_ask": "Customer asked about deposit first: 'Do you need a deposit right now.' Nicole responded 'No, no deposit required. The only time we take payment is once the moving is done, so we will take it at the new townhome.' Then asked to schedule: 'So would you like me to put you on the schedule for Thursday? December 17th? Awesome.' The rate lock / no deposit was present but came in response to customer's question, not proactively, and the ask was already in motion."
+  },
+  "top_strength": "Nicole gathered comprehensive logistics details through natural conversation flow, uncovered and directly addressed the customer's critical past-trauma concern about mixed loads with an immediate, specific reassurance about dedicated truck assignment.",
+  "coaching_note": "Lead step 2 with the two-concerns question before any probing begins\u2014the customer's damage and reliability anxiety were there all along and should have been surfaced and addressed with the Two Promises framework before diving into logistics."
+}

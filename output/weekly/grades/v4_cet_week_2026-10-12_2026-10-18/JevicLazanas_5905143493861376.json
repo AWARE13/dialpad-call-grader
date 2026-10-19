@@ -1,0 +1,31 @@
+{
+  "call_id": "5905143493861376",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 11.0,
+  "datetime_ct": "2026-10-13 15:19 CT",
+  "external_number": "+15167766627",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 12,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 62,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "you know we talked to a lot of we talked to a lot of people and most of them have one or two concerns for the move. Either the mover is not showing up on time or damage to their, to their items are either of those a concern for you.",
+    "two_layers_deep": "Customer raised washer/dryer/fridge concern. Rep acknowledged and pivoted directly to damage coverage promise without asking 'tell me more' or probing deeper into the stated concern.",
+    "value_days": "No mention of different days, pricing tiers, or date flexibility. No Value Days discussion.",
+    "rate_lock_then_ask": "Rep asked 'would you like me to go ahead and get on the schedule today?' with no rate lock or no-deposit language preceding the ask. The ask was softened by the procedural framing rather than preceded by reassurance about rate and deposit."
+  },
+  "top_strength": "Jevic delivered both promises in full (On-Time Guarantee with specific discounts and No Worries Damage Coverage with terms), closed the loop, and built a personalized estimate anchored to the customer's specific logistics (3-story pickup, 2-story destination, special appliance handling).",
+  "coaching_note": "After the customer raised their main concern about careful handling of appliances, dig deeper with 'tell me more about that' before pivoting to the solution \u2014 you acknowledged the concern but went straight to the promise without understanding what specifically worried them about the move."
+}

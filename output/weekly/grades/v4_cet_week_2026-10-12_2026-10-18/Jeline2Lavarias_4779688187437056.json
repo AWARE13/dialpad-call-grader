@@ -1,0 +1,40 @@
+{
+  "call_id": "4779688187437056",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 9.3,
+  "datetime_ct": "2026-10-12 16:26 CT",
+  "external_number": "+19406129710",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 3,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep asks 'Am I speaking with Willa Taylor?' at open and uses name multiple times throughout: 'So let me confirm all the details that you've entered online'",
+    "quid_pro_quo": "Rep says 'this would take ten to fifteen minutes. Does that sound good to you?' \u2014 time-boxed but no explicit promise of a dependable quote; customer gives quick yes without real pause",
+    "two_concerns_question": "Not asked. Rep moves directly into logistics probing without asking the two-concerns question about on-time reliability or damage protection.",
+    "packing_and_box_count": "Rep asks 'normally for a one bedroom apartment, we see fifteen to 25 boxes do you think you would fall within that range?' and earlier asks about packing indirectly via 'everything will be ready to go' but does not explicitly ask 'would you like us to pack your items into boxes for you?'",
+    "pricing_framing": "Rep states 'we charge an hourly rate and that is $208 per hour for two movers already and everything is included to that gas and truck taxes, insurance. All the wraps and pads... no hidden fees of any type' \u2014 this covers fee transparency and all-inclusive framing (one of three). Missing: pricing contrast (competitors' hourly with add-ons vs. ours all-inclusive), Cameron's no-notes line, and explicit not-a-guess commitment.",
+    "estimate_anchor": "Rep gives range: 'I will estimate your move to be on the minimum of two and a half to three and a half hours. So, the estimated cost for your move is between $520.2728' and personalizes to 'first floor to a second floor apartment with stair access only' \u2014 anchor and personalization both present.",
+    "value_days": "Rep says 'we can definitely move you on the fourteenth so Wednesday' when original date (thirteenth) had no availability. Offers alternative but does not identify branch (Best Value Day vs. other), does not offer saving as a total dollar amount, and does not explicitly ask about date flexibility.",
+    "prep_and_temperature_check": "Rep does not frame preparation as the biggest factor in move duration. No Save Your Ass framing. No temperature check with 'How do you feel about that?' or equivalent pause.",
+    "final_concerns_check": "Rep asks 'Do you have any questions before I let you go?' \u2014 this is a throwaway; it asks for questions, not concerns.",
+    "rate_lock_then_ask": "Rep says 'we do not require any deposit. So no risk and securing your spot. So with that, would you like to be on the schedule for Wednesday?' \u2014 rate lock is not mentioned. No deposit is mentioned, then the ask follows, but rate lock is missing and the ask is softened slightly by the conditional 'if you wish to' framing.",
+    "booking_confirmed": "Customer says 'Yes. I do need to talk to, to like my dad and stuff first because you know, but definitely probably like Wednesday, Thursday, Friday, for sure around that time.' Rep then says 'I'll just send everything to your email here so you can see the pricing breakdown' but does not confirm date, phone, arrival window, crew size, addresses, or crew notes. Booking is conditional, not confirmed."
+  },
+  "top_strength": "Jeline gathered comprehensive logistics details (addresses, floor count, walking distances, furniture list, special items) in an organized way, and provided clear all-inclusive pricing with no hidden fees.",
+  "coaching_note": "The biggest miss: never ask the two-concerns question (on-time reliability and damage protection) or deliver the Two Promises (On-Time Guarantee and No Worries Damage Coverage). These are load-bearing steps that build trust; skipping them leaves the customer with no reassurance on what matters most to them."
+}

@@ -1,0 +1,31 @@
+{
+  "call_id": "6666970381197312",
+  "rep_name": "Nicole Tolete",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 13.3,
+  "datetime_ct": "2026-10-13 17:17 CT",
+  "external_number": "+17138233340",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 10,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "value_days"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Nicole moved directly into logistics probing after the quid pro quo without asking the primary two-concerns opener.",
+    "two_layers_deep": "Not present. No concerns were raised by the customer during probing, so this does not apply.",
+    "value_days": "N/A \u2014 customer is on Wednesday November 4th, which has the same rate as Tuesday the 3rd ('we have the same rate for both days, Tuesday and Wednesday'). No cheaper day exists to offer.",
+    "rate_lock_then_ask": "Nicole said: 'And to secure a spot there's no deposit record if you have to reschedule or cancel, no fees for that either. And would you like me to get you on the schedule?' Rate lock (no deposit, no fees) mentioned first, then plain ask."
+  },
+  "top_strength": "Nicole gathered comprehensive logistics details with a natural flow, covered packing and box count clearly, delivered the on-time guarantee and no-worries damage coverage, anchored the estimate to the customer's specific move profile (one story to two story, 25-minute drive), and closed with a clean booking including all confirmation details.",
+  "coaching_note": "Open step 2 with the two-concerns question ('most people worry about movers not showing up on time or damage to their items \u2014 are either of those a concern for you?') before diving into logistics probing, and close step 5 with the temperature check ('How do you feel about that?') with genuine silence held."
+}

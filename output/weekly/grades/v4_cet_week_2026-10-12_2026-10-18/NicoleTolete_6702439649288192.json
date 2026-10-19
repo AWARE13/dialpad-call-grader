@@ -1,0 +1,33 @@
+{
+  "call_id": "6702439649288192",
+  "rep_name": "Nicole Tolete",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 14.1,
+  "datetime_ct": "2026-10-16 15:33 CT",
+  "external_number": "+16143099237",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 16,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 85,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "I see how we actually talked to a lot of people everyday and most of them have one of two concerns either the movers not showing up on time or damage to their items are either of those a concern for you.",
+    "two_layers_deep": "Customer said 'No, no, I'm good.' No concerns raised, so N/A applies.",
+    "value_days": "If you will be booking on Friday and Saturday, we charge $200 per hour... And if you are moving for Sunday, it's $196 per hour and then the cheapest days are Monday to Thursday, which is $192 per hour... [Rep gave exact dollar difference across days and flexibility already established at open]",
+    "rate_lock_then_ask": "To secure a spot, there's no deposit required if you have to reschedule or cancel no fees for that either. And would you like me to get you on the schedule?"
+  },
+  "top_strength": "Nicole delivered both promises (No Worries Damage Coverage at $2,000 and On-Time Guarantee with specific discount structure) clearly and comprehensively, and gathered detailed logistics probing before building the estimate.",
+  "coaching_note": "Step 6 was entirely skipped \u2014 Nicole never asked a final concerns check with language like 'What's still concerning you about this move?' before attempting to close, which left the customer's hesitation unaddressed and is why they ended in a soft 'let me think about it' rather than a booking."
+}

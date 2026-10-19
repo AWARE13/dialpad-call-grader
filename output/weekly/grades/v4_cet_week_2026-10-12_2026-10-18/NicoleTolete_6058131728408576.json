@@ -1,0 +1,31 @@
+{
+  "call_id": "6058131728408576",
+  "rep_name": "Nicole Tolete",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 12.1,
+  "datetime_ct": "2026-10-15 21:53 CT",
+  "external_number": "+19162238990",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 0,
+  "step7_ask_for_the_business": 10,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Nicole moved directly into logistics probing after the quid pro quo without surfacing the two standard concerns (on-time arrival and damage protection).",
+    "two_layers_deep": "No concerns raised by the customer during step 2, so no opportunity for two-layer follow-up. The customer volunteered a concern later (price seems high vs. prior move) but Nicole did not dig two layers deep\u2014she offered to send an email quote and moved to close.",
+    "value_days": "Not addressed. Nicole quoted a specific date (December 1st) without discussing whether cheaper days existed or offering flexibility on pricing for alternate dates.",
+    "rate_lock_then_ask": "Rate lock and no deposit mentioned before the ask. 'To secure a spot, there's no deposit required if you have to reschedule or cancel, no fees for that either.' Then: 'I'll be glad to send you an email for our quote with the three movers and one truck, and if you ever decide to proceed with us, you can just reply to my email or call us back.' The phrasing 'if you ever decide' is softened and offers an out (email reply instead of booking), but the rate lock logic is sound."
+  },
+  "top_strength": "Nicole delivered thorough, well-organized logistics gathering and covered all major detail categories (property type, stories, square footage, heavy items, valuables, parking, additional stops), creating an accurate basis for estimation.",
+  "coaching_note": "Step 2 is the biggest gap: Nicole never asked the two-concerns question before probing, which means she missed the opportunity to anchor the whole call around what actually matters to Jonathan (reliability and safety) and never built the promises that directly answer those concerns. That question needs to be asked first and early."
+}

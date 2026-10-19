@@ -1,0 +1,34 @@
+{
+  "call_id": "5265558692732928",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 18.5,
+  "datetime_ct": "2026-10-16 20:57 CT",
+  "external_number": "+17706586542",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 46,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics confirmation.",
+    "two_layers_deep": "No concerns were surfaced by the rep, so this is N/A.",
+    "value_days": "Rep offered hourly rates for different days ($220 Friday, $230 Saturday, $210 Sunday, $208 weekdays) and stated the difference as '$22 per hour for Saturday versus the weekdays.' The customer was offered the choice but the savings was given as hourly rate, not a total dollar amount. Rep said 'Saturday is okay' without asking about flexibility or confirming the choice.",
+    "rate_lock_then_ask": "Rep asked 'would you like to go ahead and get on the schedule today for the two, you know, for the November 14th end of December 6th?' but customer declined. No rate lock or no-deposit statement was made before or after the ask. The ask itself was softened by the customer's response that she was 'just calling to get some quotes.'"
+  },
+  "top_strength": "Jevic gathered all the logistics details methodically and confirmed two separate moves with all necessary addresses and floor information, ensuring accuracy for the estimate.",
+  "coaching_note": "Open with the two-concerns question before diving into logistics probing \u2014 this step is missing entirely and is the heaviest single item on the card \u2014 and deliver both promises (On-Time Guarantee and No Worries Damage Coverage) before estimating, paired with a permission lead-in."
+}

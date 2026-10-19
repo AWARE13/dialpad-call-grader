@@ -1,0 +1,33 @@
+{
+  "call_id": "6680868555628544",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 6.6,
+  "datetime_ct": "2026-10-12 14:02 CT",
+  "external_number": "+18302753128",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talked to a lot of people everyday and most of them have one or two concerns either the mover is not showing up on time or damage their items, or either of those a concern for you.",
+    "two_layers_deep": "Customer said no to concerns, so N/A per rubric.",
+    "value_days": "No mention of value days or date flexibility beyond scheduling the customer's stated preference of October 24th.",
+    "rate_lock_then_ask": "Would you like to go ahead and get on the schedule today for Saturday October 24th? \u2014 ask present but no rate lock or no-deposit language before it, and the phrasing includes a soft built-in path forward without explicit business-close framing."
+  },
+  "top_strength": "Jevic gathered comprehensive logistics details systematically (property types, square footages, garage, walking distances, item inventory) and delivered a personalized estimate range anchored to the move's specific constraints (two-story destination, 30-minute drive, four items).",
+  "coaching_note": "Skip the Two Promises step entirely \u2014 On-Time Guarantee and No Worries Damage Coverage were never mentioned, which leaves the customer's stated concerns unaddressed by Einstein's differentiation; also add a genuine Step 6 concerns check (What's still concerning you?) before closing, and always mention rate lock and no deposit before asking for the business."
+}

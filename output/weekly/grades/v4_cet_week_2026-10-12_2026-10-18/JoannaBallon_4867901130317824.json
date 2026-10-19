@@ -1,0 +1,31 @@
+{
+  "call_id": "4867901130317824",
+  "rep_name": "Joanna Ballon",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 10.6,
+  "datetime_ct": "2026-10-15 21:58 CT",
+  "external_number": "+15126761591",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 66,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Joanna moved directly from logistics probing to pricing without asking the two-concerns opener.",
+    "two_layers_deep": "Customer raised concern about father being upset/combative if on-site. Joanna followed: 'Alright. I see. I see. Okay, no problem. Mm-hmm I understand. Okay, that's totally fine but just in case of course patients is really like what we need right now for this job just in case but if it's not there then we'll just you know, do it as well as, as we can so we can get you guys settled as well.'",
+    "value_days": "Joanna mentioned Friday $111/hour (implied premium) but never offered an alternative cheaper day or asked about date flexibility. No Value Days framing.",
+    "rate_lock_then_ask": "Joanna: 'Okay, alright and I'll go ahead and send you a confirmation email after our call. We're all set. We don't take deposits. The payment is only upon completion of the move and we only accept cards for payment, okay?' This establishes no deposit/rate lock, then: 'Okay, no problem. I'll let them know it's 512-676-1591' moving into booking confirmation without an explicit 'Would you like our help with your move?' ask, though booking was clearly accepted."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details (addresses, unit numbers, walking distance, furniture list, box count, special concerns) and delivered both the On-Time Guarantee and No Worries Damage Coverage promises clearly before pricing.",
+  "coaching_note": "Never ask the two-concerns question (the primary opener for step 2), jumping instead from step 1 to logistics probing \u2014 this skips the customer's biggest worries before you've earned permission to talk about how you handle them, and misses the card's most important discovery moment."
+}

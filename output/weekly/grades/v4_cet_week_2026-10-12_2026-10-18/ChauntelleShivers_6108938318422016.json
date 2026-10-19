@@ -1,0 +1,33 @@
+{
+  "call_id": "6108938318422016",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 9.9,
+  "datetime_ct": "2026-10-16 14:58 CT",
+  "external_number": "+12139524215",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Customer raised a concern about the process (\"they're gonna wait for me to tell them where to put those things\"), but Chauny never asked the opening two-concerns question at any point.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by rep probing; customer volunteered one logistical question which was answered but not explored deeper.",
+    "value_days": "Not addressed. Rep confirms Wednesday October 28th 8:30 AM but never discusses whether this is a Best Value Day or offers any savings for date flexibility.",
+    "rate_lock_then_ask": "Never asked. Rep books the move and sends confirmation but never mentions rate lock, no deposit, or asks 'Would you like our help with your move?' The booking was confirmed by the customer's request to 'block it now' but the rep never formally asked for the business."
+  },
+  "top_strength": "Chauny gathered detailed logistics efficiently (addresses, parking, item inventory, box count) and confirmed the booking with clear details (date, time, crew names, arrival window, addresses, parking access).",
+  "coaching_note": "You skipped the two-concerns question entirely \u2014 that's the primary opener for step 2 and sets up everything that follows. Also missing: no pricing framing (no contrast with hourly competitors, no 'no need to take notes' line, no fee transparency), no value-days offer, no 'How do you feel about that?' temperature check, and no formal ask for the business before booking was confirmed by the customer."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "5457892411744256",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 20.0,
+  "datetime_ct": "2026-10-16 16:17 CT",
+  "external_number": "+12142443303",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 66,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "You talked to a lot people everyday, they do have some concerns from like, previous move drive is not arriving on time you know, items getting damaged. They need of those concerns of yours or do you have any I can address?",
+    "two_layers_deep": "Customer said 'No, I don't think so' \u2014 no concerns raised, so N/A applies.",
+    "value_days": "We have availability at our other branch on Saturday October 24th however there is a trip fee that of $115 because that light has, you know, was taken... You have any flexibility in your day? [Trip fee mentioned, flexibility asked, but saving never given as a total dollar figure before asking about flexibility]",
+    "rate_lock_then_ask": "No, ma'am, you don't pay for anything until after the move is done. So we don't do any upfront costs. [No deposit mentioned, but no rate lock statement at all. No plain ask follows. The booking happened because customer implicitly accepted, not because rep asked 'Would you like our help with your move?']"
+  },
+  "top_strength": "Chauntelle gathered comprehensive logistical detail (three addresses, property types, floor layouts, access issues, all large items) efficiently and personalized the estimate range to the customer's actual move scope.",
+  "coaching_note": "Never skip the Two Promises permission lead-in and close-the-loop check\u2014you delivered On-Time Guarantee and No Worries Damage only partway through the estimate, and Step 6 final concerns check was never asked, leaving two major bookend moments incomplete."
+}

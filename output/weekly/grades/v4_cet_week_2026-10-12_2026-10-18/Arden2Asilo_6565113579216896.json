@@ -1,0 +1,33 @@
+{
+  "call_id": "6565113579216896",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 10.1,
+  "datetime_ct": "2026-10-14 14:14 CT",
+  "external_number": "+15416783114",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep jumped directly into logistics probing after opening.",
+    "two_layers_deep": "No concerns raised by customer, so N/A.",
+    "value_days": "Rep mentioned the 24th October Saturday but never offered a cheaper alternative day or asked about date flexibility. No value days discussion.",
+    "rate_lock_then_ask": "Rep never asked for the business. Customer said 'if I wanna move forward I'll give you a callback' and rep responded with 'No problem sir. Thank you so much' and agreed to email. No rate lock, no explicit ask, no booking attempt."
+  },
+  "top_strength": "Arden gathered detailed logistics comprehensively and asked probing questions about special items (art pieces, TV, garage contents) that would affect the estimate.",
+  "coaching_note": "The two-concerns question must open step 2 before any probing begins \u2014 ask it early to understand what matters to the customer. Then at the end, actually ask for the business with rate lock and no deposit before offering to email, rather than letting the customer walk away without a close attempt."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "5378200918859776",
+  "rep_name": "Jules Nicolas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 8.6,
+  "datetime_ct": "2026-10-13 20:07 CT",
+  "external_number": "+16823513352",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly from step 1 into logistics probing with no two-concerns discovery.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer at step 2.",
+    "value_days": "Not addressed. Rep gave only a single price range ($485\u2013$679) with no mention of cheaper days or date flexibility.",
+    "rate_lock_then_ask": "Rep stated 'we do not require any deposit or do we need any credit card information if you want to get this move scheduled?' but this is rate lock / no deposit phrasing without a plain ask for the business. Customer then asked to call back, and rep did not reassert the ask before accepting the callback."
+  },
+  "top_strength": "Jules gathered comprehensive logistics details (address, floor, walking distance, furniture list, box count, new address, floor level) and confirmed everything clearly, creating a solid move profile.",
+  "coaching_note": "Step 2 is missing entirely \u2014 no two-concerns question was asked before probing started, and Step 3's two promises (On-Time Guarantee and No Worries Damage Coverage) were never delivered despite being the highest-impact trust-builder on the card; add those to your opening so the customer hears them before they worry."
+}

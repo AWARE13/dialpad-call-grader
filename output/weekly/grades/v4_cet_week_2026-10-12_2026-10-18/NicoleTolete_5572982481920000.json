@@ -1,0 +1,33 @@
+{
+  "call_id": "5572982481920000",
+  "rep_name": "Nicole Tolete",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 5.9,
+  "datetime_ct": "2026-10-15 14:51 CT",
+  "external_number": "+18654569395",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 10,
+  "total_score": 66,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NOT ASKED. No attempt to surface time-on-arrival or damage concerns before moving into details.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer during step 2.",
+    "value_days": "NOT ADDRESSED. Rep provided estimate without mentioning that Monday Oct 26 is a peak day or asking about date flexibility for savings.",
+    "rate_lock_then_ask": "\"And to make sure we have correct details here your full name is per gantry email address...\" followed by \"do you have any questions or anything for me before I let you go?\" \u2014 rate lock and no deposit were mentioned in step 5 (\"time is per rated in fifteen minute increments\") and insurance included ($2,000 coverage), but the booking ask was implicit in the confirmation of details rather than an explicit \"Would you like our help with your move?\" The customer did book, so the commitment was secured, but the ask structure was weak."
+  },
+  "top_strength": "Nicole gathered all necessary logistics details methodically (two-story to one-story, square footage, special items, box count, parking, drive time, appliances) without customer pushback, establishing a complete and accurate foundation for the estimate.",
+  "coaching_note": "Step 2 was skipped entirely \u2014 the rep never asked the two-concerns question (time-on-arrival and damage) that should open this section and frame the promises that follow. This is the bookend that the customer remembers, and jumping straight to logistics probing left money and trust on the table."
+}

@@ -1,0 +1,40 @@
+{
+  "call_id": "6292573992558592",
+  "rep_name": "Nicole Tolete",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 6.5,
+  "datetime_ct": "2026-10-12 22:29 CT",
+  "external_number": "+15126533554",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 72,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Nicole: 'Hi, this is Nicole from Einstein moving, am I speaking with Katie?' Katie: 'Yes, yes.' [Later used: 'Are you ready to book, Katie?']",
+    "quid_pro_quo": "Not present. Rep moved directly into logistics without the time-boxed framing and dependable quote promise.",
+    "two_concerns_question": "Never asked. Rep jumped straight into probing about the storage unit and property details.",
+    "two_layers_deep": "Not applicable \u2014 no concerns were raised by the customer during step 2.",
+    "active_listening_reflection": "Not applicable \u2014 no concerns were raised to reflect back.",
+    "promises_delivered": "Neither On-Time Guarantee nor No Worries Damage Coverage were mentioned.",
+    "closes_the_loop": "No version of 'Does that put those to rest?' was asked.",
+    "concern_led_opening_and_logistics": "Rep opened with 'I can see here we're going to pickup items first from a storage unit' and systematically gathered: storage unit address/fullness, special items (none), appliance check, both property addresses and square footage (2000 sq ft), parking/driveway access at both locations, and garage details. All major logistics covered without a stated concern-led opening.",
+    "packing_and_box_count": "Neither packing acceptance nor box count was asked.",
+    "value_days": "Not reached \u2014 call routed cleanly to walkthrough before pricing discussion.",
+    "rate_lock_then_ask": "Not reached \u2014 call routed cleanly to walkthrough before ask.",
+    "virtual_walkthrough_routing": "Rep correctly identified 2000 sq ft as requiring walkthrough: 'usually we send out four movers and two trucks for a 2000 square footage home but we can do a virtual walkthrough, it's like a video call on your preferred time and date.' Customer agreed. Walkthrough scheduled for 6:00 PM same day via secure link sent by text. Clean handoff with confirmed date (October 17th) and time."
+  },
+  "top_strength": "Nicole cleanly and systematically gathered all logistics details (two addresses, square footage, storage contents, parking/access, special items) without meandering, and correctly routed a 2000 sq ft move to the virtual walkthrough process with confirmed date, time, and link delivery.",
+  "coaching_note": "The quid pro quo framing (time-boxed offer + dependable quote promise) and the two-concerns question both disappeared entirely \u2014 they should land before probing even begins, and especially before step 4 detail collection on a call that will route to a walkthrough."
+}

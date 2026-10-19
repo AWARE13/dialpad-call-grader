@@ -1,0 +1,41 @@
+{
+  "call_id": "6510440902074368",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 5.1,
+  "datetime_ct": "2026-10-13 18:24 CT",
+  "external_number": "+12149806140",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 72,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "I can certainly get you an estimate. I just need to ask a few additional questions and this should take me about ten to fifteen minutes and then I'd be able to get you a quote. You can depend on sounds good. [Framing present but grammatically incomplete; no clear anchor to dependable quote; waits for yes]",
+    "two_concerns_question": "Never asked. Rep did not use the two-concerns opener about movers showing up on time or damage to items.",
+    "two_layers_deep": "Not applicable \u2014 no concerns were raised by the customer during step 2.",
+    "active_listening_reflection": "Not applicable \u2014 no concerns were raised by the customer.",
+    "promises_delivered": "Never mentioned. Rep did not deliver On-Time Guarantee or No Worries Damage Coverage.",
+    "concern_led_opening": "Rep jumped into logistics gathering (address, square footage, story count) without first asking 'What items in this move are you most concerned about?' or equivalent.",
+    "packing_and_box_count": "Customer volunteered packing: 'other than that, I will pack everything into the boxes.' Rep acknowledged but never asked 'Would you like us to pack your items into boxes for you?' or used a box-count question. One item covered by customer volunteering, not by rep asking.",
+    "pricing_framing": "Not scored \u2014 walkthrough scheduler call.",
+    "estimate_anchor": "Not scored \u2014 walkthrough scheduler call.",
+    "value_days": "Not scored \u2014 walkthrough scheduler call.",
+    "prep_and_temperature_check": "Not scored \u2014 walkthrough scheduler call.",
+    "rate_lock_then_ask": "Not scored \u2014 walkthrough scheduler call.",
+    "booking_confirmed": "Not scored \u2014 walkthrough scheduler call."
+  },
+  "top_strength": "Jules correctly identified this as a 2500\u21924000 sq ft move (large enough to warrant a virtual walkthrough) and cleanly routed the customer to the walkthrough process with a concrete next step: send a video upload link, receive the video, call with an accurate estimate.",
+  "coaching_note": "On walkthrough calls, deliver the Two Promises (On-Time Guarantee and No Worries Damage Coverage) before routing to the walkthrough\u2014they answer the customer's concerns and build confidence in the process, and per v4 they land in step 3 before probing, not after."
+}

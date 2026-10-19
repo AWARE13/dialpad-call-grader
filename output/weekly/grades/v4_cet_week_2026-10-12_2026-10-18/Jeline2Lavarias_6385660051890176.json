@@ -1,0 +1,33 @@
+{
+  "call_id": "6385660051890176",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 13.6,
+  "datetime_ct": "2026-10-12 16:07 CT",
+  "external_number": "+16149757351",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Customer said 'No, I've moved quite a bit so' when rep asked if there were any questions or concerns, but rep never asked the specific two-concerns question about movers not showing up on time or damage to items.",
+    "two_layers_deep": "Not applicable \u2014 no concerns were raised for follow-up.",
+    "value_days": "Never addressed. No mention of different days or pricing flexibility based on the date chosen (October 19th Monday).",
+    "rate_lock_then_ask": "Rep said 'So, should I put you now on the schedule for October 19th Monday?' and customer agreed to book. Rate lock and no deposit were mentioned earlier ('No heat and fees of any type. No credit card fees, no terrible fees...') though not explicitly framed as rate lock language. The ask for business was embedded in the scheduling confirmation rather than as a distinct sales ask."
+  },
+  "top_strength": "Jeline gathered comprehensive logistics details (floor, elevator access, box count, furniture inventory, both pickup and dropoff locations with distance/accessibility considerations) and delivered a personalized, anchored estimate range ($624-$832 for 3-4 hours) that the customer understood and accepted.",
+  "coaching_note": "Step 2 is entirely missing \u2014 the two-concerns question was never asked, so the rep never discovered or validated what actually matters to this customer before jumping into probing and pricing; add this discovery conversation early, before logistics."
+}

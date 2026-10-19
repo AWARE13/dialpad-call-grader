@@ -1,0 +1,34 @@
+{
+  "call_id": "6002296761393152",
+  "rep_name": "Jules Nicolas",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 5.3,
+  "datetime_ct": "2026-10-13 17:13 CT",
+  "external_number": "+17139920211",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 36,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly from probing logistics into pricing.",
+    "two_layers_deep": "Not applicable \u2014 no concerns were raised because the two-concerns question was never asked.",
+    "value_days": "Not addressed. Rep quoted $190/hour for Tuesday October 27th with a $70 trip fee but made no mention of cheaper days or date flexibility.",
+    "rate_lock_then_ask": "Never asked for the business. Rep provided pricing ($640 for three hours plus trip fee) and customer said 'I'm gonna get another quote, it's a little bit pricey,' and rep replied 'No problem... feel free to give us a callback.' No ask, no rate lock, no close."
+  },
+  "top_strength": "Jules gathered essential logistics details efficiently (move date, origin/destination addresses, property type, floor level, move scope) and stayed calm when the customer declined to provide an email.",
+  "coaching_note": "The two-concerns question must come early in step 2 before any probing starts \u2014 it frames the entire conversation and gives the customer a chance to surface what actually matters to them. Without it, you miss the chance to address their real fears and build trust before pricing."
+}

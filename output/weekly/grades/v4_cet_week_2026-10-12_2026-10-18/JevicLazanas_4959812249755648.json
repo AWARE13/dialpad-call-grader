@@ -1,0 +1,33 @@
+{
+  "call_id": "4959812249755648",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 15.7,
+  "datetime_ct": "2026-10-13 22:02 CT",
+  "external_number": "+17132484629",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing without asking about top two concerns (movers showing up on time or damage to items).",
+    "two_layers_deep": "N/A \u2014 customer concern about damage was raised organically mid-call ('I'm concerned about the ability for the furniture to be moved out of my property without causing any damage'), but rep answered it directly rather than probing deeper with follow-up questions.",
+    "value_days": "Not addressed. Rep quoted Monday-Thursday at $190/hr and Friday-Saturday at $204/hr but never offered a cheaper day or asked about date flexibility, even though customer said 'I don't have a date just yet' and 'approximately the next two weeks.'",
+    "rate_lock_then_ask": "Never asked for the business. Rep ended call with 'thank you very much for your interest with Einstein and you have a wonderful day' \u2014 no rate lock guarantee mentioned, no deposit policy stated, and no explicit ask for the move."
+  },
+  "top_strength": "Rep successfully gathered comprehensive logistics details (both addresses, distance, drive time, furniture inventory with specifics) and delivered the No Worries Damage Coverage promise clearly, which directly addressed the customer's stated concern about wall and baseboard damage.",
+  "coaching_note": "Never ask for the business \u2014 the call ended with gratitude and interest expressed but no booking attempt, rate lock guarantee, or confirmation of next steps; add the Two Concerns question at the top of step 2 before any probing begins, and follow up at least twice on concerns raised rather than answering and pivoting."
+}

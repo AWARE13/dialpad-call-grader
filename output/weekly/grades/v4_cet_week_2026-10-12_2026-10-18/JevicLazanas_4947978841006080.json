@@ -1,0 +1,33 @@
+{
+  "call_id": "4947978841006080",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 7.2,
+  "datetime_ct": "2026-10-15 14:55 CT",
+  "external_number": "+19293515895",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 37,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep never asked about movers showing up on time or damage concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were surfaced by the rep's questioning.",
+    "value_days": "Not addressed. Rep never asked about date flexibility or offered a cheaper day option.",
+    "rate_lock_then_ask": "Never asked for the business. Rep said 'I'll send you an email confirmation' and 'Will there be anything else that I can help you with today?' \u2014 no explicit ask to book, no rate lock, no commitment language."
+  },
+  "top_strength": "Jevic gathered detailed logistics methodically: floor levels, elevator reservation, special items, box count, walking distances, and exact addresses \u2014 creating a solid foundation for an accurate estimate.",
+  "coaching_note": "This call is missing the core sales architecture: no two-concerns question to anchor the customer's fears, no Two Promises to address reliability and damage, no value-days offer, no genuine temperature check after pricing, and critically, no ask for the business \u2014 the customer booked before this call and Jevic confirmed details but never tried to close, leaving 40+ points of sales behavior on the table."
+}

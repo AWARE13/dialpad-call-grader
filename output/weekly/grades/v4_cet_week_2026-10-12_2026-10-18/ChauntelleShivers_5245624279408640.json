@@ -1,0 +1,31 @@
+{
+  "call_id": "5245624279408640",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 12.2,
+  "datetime_ct": "2026-10-14 16:03 CT",
+  "external_number": "+17273104560",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 8,
+  "total_score": 42,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NOT ASKED. Rep never asked the two-concerns opener or any genuine concerns discovery.",
+    "two_layers_deep": "NOT APPLICABLE. No customer concerns were surfaced in step 2.",
+    "value_days": "NOT ADDRESSED. Rep said 'We do have a truck available for Thursday October 15th for tomorrow and we actually have one left. Which is it has, we have two available times. We have morning and afternoon' but never identified which value day branch the customer was on or offered a cheaper alternative with dollar savings.",
+    "rate_lock_then_ask": "FULL. Rep said 'We don't have any upfront costs either, so it is free to reserve the truck. It's also free to cancel the truck' (rate lock / no deposit), then asked 'did you want to at least go ahead and reserve the truck and then if anything changes you could always email us or you could always text us or call us and say, I won't need it but completely up to you.' The ask came after the rate lock framing."
+  },
+  "top_strength": "Chauntelle successfully gathered comprehensive logistics details (addresses, floor levels, all furniture items, TV sizes, box count), confirmed the booking with partial details, and delivered an anchored estimate range ($640\u2013$830) that felt personalized to the customer's minimal belongings and minimum-hour scenario.",
+  "coaching_note": "Step 2 is missing entirely\u2014never ask the two-concerns question or any concerns discovery before diving into logistics probing; this is the single biggest gap and costs 25 points. Additionally, step 5 never covers Value Days (cheaper day offerings with dollar savings), prep framing, or the temperature check ('How do you feel about that?'), and step 3's Two Promises close-the-loop question ('Does that put those to rest?') was skipped."
+}

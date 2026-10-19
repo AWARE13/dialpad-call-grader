@@ -1,0 +1,32 @@
+{
+  "call_id": "4940886369411072",
+  "rep_name": "Nicole Tolete",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 9.7,
+  "datetime_ct": "2026-10-16 21:38 CT",
+  "external_number": "+15125175778",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 8,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 4,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we actually talked to a lot of people everyday and most of them have one of two concerns if the movers not showing up on time or damage to the items, or either of those concern for you",
+    "two_layers_deep": "Customer raised price comparison and no specific moving date; Nicole acknowledged with 'I see what you mean' but did not probe deeper into the stated concerns before pivoting to promises",
+    "value_days": "Never raised; customer rejected pricing before estimate was personalized or date flexibility explored",
+    "rate_lock_then_ask": "No rate lock mentioned, no explicit ask for the business; customer initiated the close by announcing price rejection"
+  },
+  "top_strength": "Nicole delivered both the On-Time Guarantee and No Worries Damage Coverage fully and with clear terms ($50/$25 increments, $2,000 per move, 46-day resolution average) in direct response to the customer's opening concerns.",
+  "coaching_note": "When a customer raises a concern in step 2, dig two layers deep with follow-up questions before moving to promises \u2014 Nicole heard the price-comparison concern and moved straight to the promises without asking 'tell me more about that' or understanding what was driving the comparison."
+}

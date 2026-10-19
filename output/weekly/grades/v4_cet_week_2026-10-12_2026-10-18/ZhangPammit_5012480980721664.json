@@ -1,0 +1,36 @@
+{
+  "call_id": "5012480980721664",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 6.7,
+  "datetime_ct": "2026-10-13 15:03 CT",
+  "external_number": "+15129632974",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 8,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 80,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "This is an from minds moving and looking to speak with Heather. Hi! I'm actually just calling because we have saw your quote request online so basically we just wanted to ask you some information in order for us to give you a quote that you can depend on instead of a just the gas. Do you have a time? This would take about ten to fifteen minutes of your time. Would that be okay?",
+    "name_asked": "looking to speak with Heather",
+    "name_never_used_again": "Customer identified as 'Heather' at opening but rep never uses her name after that point in the call",
+    "two_concerns_question": "Never asked. Rep jumps directly into piano special handling and probing questions.",
+    "concern_led_opening": "Rep asks about piano (special consideration raised by the customer from the intake form) and then works through logistics: 'is it piano?', addresses, property type (one story), bedrooms, additional spaces (garage, yard items), parking accessibility, driveway access, and box count range",
+    "packing_and_box_count": "Do you need help in packing like fitting the small items center your boxes. / And with regards to the number of your boxes normally based on your home size, that would take between 95 to 135 boxes. Do you feel that you fall within that range?",
+    "promises_not_delivered": "No mention of On-Time Guarantee, No Worries Damage Coverage, or any permission lead-in asking to share how Einstein works on reliability or damage protection",
+    "walkthrough_routing": "Alright, then no worries. So normally based on your home Stas we do a a virtual walkthrough and that way we would just base it on the items that we're moving. Do you have time to complete the virtual offer you today? / Okay, so just to make sure you're currently in the first location in 3202. In highland terrace. / Okay, perfect so I'll just create the link so we can jump over into a virtual walkthrough"
+  },
+  "top_strength": "Rep executed a clean walkthrough routing with full logistics gathering, special considerations noted (piano, four bedrooms, yard items, parking/access constraints), packing and box count both addressed, and a seamless transition to the virtual walkthrough platform with next steps confirmed.",
+  "coaching_note": "On this walkthrough-routed call, Two Promises (On-Time Guarantee and No Worries Damage Coverage) were completely skipped \u2014 they must be delivered during step 3 before probing begins, even on walkthrough calls, and the Two-Concerns question should precede the logistics deep-dive in step 4 to establish what the customer actually cares about."
+}

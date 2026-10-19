@@ -1,0 +1,33 @@
+{
+  "call_id": "4601061701361664",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 12.9,
+  "datetime_ct": "2026-10-13 13:47 CT",
+  "external_number": "+12149090120",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 5,
+  "total_score": 63,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NEVER ASKED. The rep moved directly from quid pro quo into logistics probing with no concern discovery.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised during step 2 because the two-concerns question was never asked.",
+    "value_days": "NEVER ADDRESSED. The rep did not discuss whether Wednesday October 14th was a Best Value Day or offer any date flexibility/savings alternative.",
+    "rate_lock_then_ask": "Weak order and no rate lock mentioned. Rep asked 'Would you like me to go ahead and get you on the schedule today?' with no mention of rate lock or no-deposit guarantee before the ask. The ask also came with an easy out built in ('well then we have an available scheduled tomorrow. Would you like me to go ahead and get you on the schedule today?') rather than a plain 'Would you like our help with your move?'"
+  },
+  "top_strength": "Jevic delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full terms, including the $50/$25 discount structure and $2,000 coverage with no deductible, and confirmed understanding with 'Does that put those to rest?'",
+  "coaching_note": "Never skip the two-concerns question \u2014 it is the primary opener for step 2 and must come before any probing. Without it, you miss the opportunity to understand what actually matters to this customer and to anchor your entire estimate to their fears, not your checklist."
+}

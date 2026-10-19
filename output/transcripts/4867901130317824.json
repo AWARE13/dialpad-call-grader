@@ -1,0 +1,1041 @@
+{
+  "call_id": "6655170132615168",
+  "lines": [
+    {
+      "content": "Good afternoon ma'am, this is Joanna, how can I help?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:58:26.112318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:58:26.112318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:58:26.112318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:58:26.112318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:58:26.112318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:58:26.112318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:58:27.649318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:58:28.409318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Hi Joanna, I am trying to see if I can locate a mover who can assist us with the move like tomorrow.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T21:58:29.718180",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "call_purpose",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T21:58:29.718180",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "ner",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T21:58:30.498180",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, let's try to check-in terms of the, the PLA, the addresses are going to and coming from may I have your name please? Just so Josh, back.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:58:39.312318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Sure, my name. Sure my name is Margaret stark.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T21:58:49.518180",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:58:49.889318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "contact_name",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T21:58:52.258180",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "ner",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T21:58:52.258180",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, thanks, Margaret. And what's the zip code where you're coming from?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:58:53.712318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:58:54.889318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:58:55.449318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "It let me explain the situation. We are moving my elderly father from one apartment in an assisted in, in an independent living building to another apartment. In the exact same building that's in assisted living. It's all one floor so it's the same address, there's two different apartment numbers and it's eleven.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T21:58:57.918180",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:59:12.912318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I got you. No problem. Mm-hmm go ahead.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:59:17.112318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "It's 11300. Farah lane.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T21:59:20.718180",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "ner",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T21:59:23.138180",
+      "type": "moment"
+    },
+    {
+      "content": "Is it Sara with an S. Or F. Sorry, Sarah. Yup, okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:59:26.712318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:59:27.769318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "F, as in Frank, yeah like fare yeah. Farah, faucet Aera.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T21:59:29.718180",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "ner",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T21:59:30.898180",
+      "type": "moment"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:59:31.129318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Gotcha. No problem. Thank you. I got it. Yeah. If we're just moving within the same complex, is it just like a one bedroom worth of items?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:59:34.512318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "ner",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T21:59:34.518180",
+      "type": "moment"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:59:43.209318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Yes, we're moving him from a one bedroom to a studio. So we will be moving, basically, we're just going to be moving essentials immediately.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T21:59:45.918180",
+      "type": "transcript"
+    },
+    {
+      "content": "I see.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:59:50.112318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:59:53.769318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Uh-huh yes ma'am. Okay, that works. We still have availability tomorrow. It's already in the afternoon. Like not right now. The earliest we can do it is an arrival between 11:00 PM and 3:00 PM. So between those times, are you guys available to do that just in case. Okay, so, I just need to ask you some questions about it Margaret, so, I can give you a more personalized estimate based on the items you're moving for you guys, okay? It might take about ten minutes if that's okay?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:59:56.712318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:59:57.689318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:00:02.329318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "time",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:00:06.769318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "time",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:00:07.889318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Okay, yes, yes.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:00:10.518180",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:00:10.769318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:00:18.249318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:00:18.649318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:00:23.249318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "It is, okay, I am expecting a phone call from his hospital. He's in the hospital right now. So I, if I have to hang up and call you back, I know you're running out of time but I made it too.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:00:26.718180",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:00:30.912318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Oh, okay. Yes, it's okay, I don't mind if ever we'll be here until 5:30 anyway. So, if it, if not, then maybe just an email would, would work as well. But hopefully we'll be able to get that out. What is your, what's your email so I can, you know, plug it in.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:00:33.312318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:00:38.929318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "time",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:00:43.849318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Okay.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:00:45.318180",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Yeah, it's Stark party of four and that's just the numeral four. You don't need to spell it out @gmail.com.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:00:52.518180",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:00:57.312318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm. Yup.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:00:59.712318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "email_address",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:01:03.858180",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm, got it thank you. Alright, and let's see gave me the address as well. That's perfect and which floor is his current apartment.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:01:03.912318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Mm-hmm.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:01:08.118180",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "I'm sorry. What was the question?",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:01:18.918180",
+      "type": "transcript"
+    },
+    {
+      "content": "Which floor are we coming from?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:01:20.112318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:01:20.112318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Oh, it's. Everything is on one level. It's only one story building.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:01:23.118180",
+      "type": "transcript"
+    },
+    {
+      "content": "Oh, I see. Okay. And in terms of the items we're moving for him, what's the like the biggest item. Do we have anything more than \u00a330,500 that you can think of mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:01:26.712318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:01:34.929318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Oh, gosh. No, no, so he has full-size bed and bed frame but it's not hip, it's, the bed frame isn't, isn't massive he has two dressers, a high boy and a regular dresser. He has a recliner, a chair.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:01:36.318180",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm, yes, ma'am.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:01:44.112318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:01:48.312318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm, yes, ma'am.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:01:51.912318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:01:57.312318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "And a desk.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:02:00.318180",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:02:02.712318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "The, he has a couple of book cases which are very flimsy. There. Nothing, nothing major. I'm trying to think. Oh, he has a, a television and, and he does have a really big heavy entertainment center, but we will probably not move that. We will probably put the TV on top of the dresser.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:02:04.518180",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:02:09.912318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:02:15.912318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:02:23.112318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see. Okay, that's alright, just in case you change your mind that's okay too as long it's not over \u00a3500, we should be good. Okay, and then mm-hmm just an estimate would be fine same floor, same building just in walking distance. Do you think it's about 23 school buses in distance from where he's moving from and going to one is about forty feet it's a little bit longer.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:02:26.112318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:02:31.769318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "No, it's not.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:02:33.318180",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Oh, no, it's long. It the building has six wings, he's in wing one, he's moving into wings six. So it'll need to be like, put it in the truck drive it, he's in the front of the, of the facility, literally moving to the back of the facility. So, it's about as the crow flies, half a football field but to get there, you're going to have to drive around from the front to the back. Yeah.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:02:50.118180",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:02:56.712318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:03:00.312318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Uh-huh. Oh, I see.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:03:05.712318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:03:12.312318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Gotcha. Okay, no problem that works. Inboxes just an estimate would be fine. Do you think we just have about fifteen to 25 boxes that we also need to move for him?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:03:17.712318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:03:25.609318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Yeah, I think so. We're not gonna move everything this round so we're not gonna box everything up right now, it's mostly just going to be closed and linens. Yeah.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:03:30.918180",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, alright, no worries. Mm-hmm the bigger essential. Mm-hmm understood, okay, for now just put it within that range if it's less than that, that's totally fine. Okay, now do you have any specific concerns for this move that you also want us to take note of for the guys to see any instructions.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:03:35.712318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Okay.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:03:51.918180",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "The, my only thought is we're trying to discharge my father from the hospital to another facility and get him moved. But if we can't do that if he's on, if he's on site he might be very, he might be upset and combative.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:04:06.918180",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "negative_sentiment",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:04:06.918180",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:04:17.712318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Yes ma'am.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:04:22.512318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:04:30.912318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "We will be on site too but unfortunately he can't care from himself. He doesn't have a choice. So the facility, the facility has said if he doesn't move to the assisted living, he's going to have to move out. So he's not going to be in a good friend of mine. We're trying everything we can to make sure he's not going to be on site.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:04:32.718180",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:04:36.312318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:04:42.312318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see. Okay, no problem. Mm-hmm I understand. Okay, that's totally fine but just in case of course patients is really like what we need right now for this job just in case but if it's not there then we'll just you know, do it as well as, as we can so we can get you guys settled as well. Okay, now if we're going to do it tomorrow we charge an hourly rate of $104 per hour per oh, sorry if it's tomorrow Friday, it's $111 per hour per mover. So for two minutes, $222 per hour but that's all inclusive rates, like everything we need is already in that price. The two men, the truck wraps.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:04:54.912318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "I don't have a guarantee of that right now.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:04:56.118180",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Thank you.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:05:15.318180",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:05:21.809318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:05:26.529318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:05:30.169318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:05:32.609318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Items, if you need help with this assembly, reassembly taxes, insurance, cre card fees. Basically everything, you don't have to pay anything outside of it and we include our no damage coverage which would give you guys up to $2,000 coverage for any accidental damages. Also rest assured we don't take daily contractor workers and lastly on time guarantee if we run late, we provide discounts for you. Move again. No hidden fees of any type, no credit card fees, no transportation fees, that's all in the price. We only start the time Margaret once we arrive there and open the contract for you can have us for as long as you need us. And for any move we just have a two and a half hour minimum. If we go over we only charge in fifteen minute and I walls and since we're just moving within the same.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:05:39.649318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:05:53.729318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:05:54.809318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:06:07.249318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:06:15.409318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:06:22.089318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:06:24.569318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Plex, without one bedroom worth of items usually takes two and a half to three and a half hours to complete for now. I'll just put you in the middle if the guy should be able to finish everything within two and a half hours, that's $555. If it goes to three hours, that's gonna be $666. So, just depending on how long it's gonna take again, the shorter that we will over the cost. Okay?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:06:32.712318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:06:39.809318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:06:44.249318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:06:47.689318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Understood.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:06:50.718180",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Okay.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:06:55.518180",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm if that works out for you guys again I can put you in the afternoon, which is an arrival between 1:00 PM and 3:00 PM. So, it means the guys can be there between those times.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:06:56.712318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Got it.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:06:57.918180",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:07:03.289318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Okay, okay.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:07:07.518180",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, alright and I'll go ahead and send you a confirmation email after our call. We're all set. We don't take deposits. The payment is only upon completion of the move and we only accept cards for payment, okay?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:07:09.312318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:07:11.289318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Okay. Okay, where will I meet them because the facility has a gate code to drive the truck in. So do they want me to, they can call me and I can meet them in the front lobby or I could meet them through the and let them through the gauge. I, they'll need this phone number and they'll need to.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:07:20.718180",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:07:24.312318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm, yes, ma'am.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:07:30.312318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "issue_unresolved",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:07:34.738180",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "action_item",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:07:35.698180",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:07:35.712318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:07:37.769318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Yup, yup. They will call you once they're on the way. But I can also give them the code already so they can enter. But if it the facility requires for you to open it for them, then they will just have to call you then if that's the case.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:07:39.912318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:07:53.169318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "They'll need to call me.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:07:56.118180",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, no problem. I'll let them know it's 512-676-1591. Is that right?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:07:58.512318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "phone_number",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:08:01.129318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "That's correct. Thank you.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:08:04.518180",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, no problem. And may I have the unit numbers? Do you have the unit numbers as well? But I know that it's from one to six. Okay. What's the unit number where we're coming from? Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:08:06.312318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:08:10.449318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Yes.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:08:11.718180",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Yes, we're moving, you're coming from unit 112.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:08:14.718180",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:08:14.729318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:08:20.112318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Two unit 618.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:08:21.318180",
+      "type": "transcript"
+    },
+    {
+      "content": "618 okay, got it. Alright, I'll go ahead and add those all those information in the email. I'll be sending you shortly again this is all good as confirmed for tomorrow afternoon Friday the sixteenth okay?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:08:24.312318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Fantastic. Thank you and your name.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:08:38.118180",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright, it's Joanna but anyone here should be able to assist you. Yeah, just in case I'm not available. You're welcome, Margaret. Okay, we'll see you tomorrow. Yes ma'am, thank you. Bye-bye.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:08:39.912318",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:08:41.809318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "Joanna, thank you. I okay, thank you so much. Have a good evening. Okay, bye-bye.",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:08:42.318180",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCyre6JvQkM",
+      "content": "ner",
+      "name": "Margaret Stark",
+      "time": "2026-10-15T22:08:42.318180",
+      "type": "moment"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T22:08:48.329318",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    }
+  ]
+}

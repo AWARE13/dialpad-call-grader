@@ -1,0 +1,33 @@
+{
+  "call_id": "4931874643025920",
+  "rep_name": "Amy Arbasa",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 7.9,
+  "datetime_ct": "2026-10-14 20:06 CT",
+  "external_number": "+15127503477",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 62,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "And most of them would mention one or two concerns either they're really that the movers won't show up on time or their items will get damaged. What about you Travis would either if this be a concern to you or do you have anything specific in mind?",
+    "two_layers_deep": "Customer said 'No, no real concerns' \u2014 no follow-up needed, N/A.",
+    "value_days": "No mention of value days, flexible pricing on different days, or any day-of-week discount discussion.",
+    "rate_lock_then_ask": "No deposit required if you're ready to lock this now we do have the morning available... would you like us to help you out with this new for Friday? [Rate lock mentioned but phrasing is unclear; ask is present but softened by offering alternative ETA]"
+  },
+  "top_strength": "Amy expertly gathered detailed inventory and logistics on a return customer, anchored the estimate to both time range and personalized factors (drive time, third floor, stairs), and locked the booking with a clear morning ETA.",
+  "coaching_note": "Skip the Two Promises step entirely (On-Time Guarantee and No Worries Damage Coverage were never delivered) \u2014 this is the biggest miss on the call; also add a genuine final concerns check in step 6 before closing, and ask a plain ask for the business without the built-in alternative of the afternoon window."
+}

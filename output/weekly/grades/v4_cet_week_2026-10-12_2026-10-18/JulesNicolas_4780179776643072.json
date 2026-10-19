@@ -1,0 +1,33 @@
+{
+  "call_id": "4780179776643072",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 6.0,
+  "datetime_ct": "2026-10-12 21:04 CT",
+  "external_number": "+19407278145",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 35,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep never probed for concerns about movers not showing up on time or damage to items.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during discovery.",
+    "value_days": "Not addressed. Rep did not identify the day of the week (Thursday, Nov 5) as part of any value/pricing tier or offer flexibility.",
+    "rate_lock_then_ask": "Never asked. Rep provided estimate ($1,210) and availability window (8:30-9am) but never explicitly asked 'Would you like our help with your move?' or mentioned rate lock and no deposit before attempting to close."
+  },
+  "top_strength": "Jules built strong rapport by acknowledging the customer's prior positive experience, confirming specific mover names (Nick and Ian), and making a proactive note to request them\u2014showing genuine attentiveness to what mattered to the customer.",
+  "coaching_note": "This is a repeat customer in a familiar scenario, which worked against structure: Jules skipped the two-concerns discovery question entirely, delivered no promises about on-time guarantee or damage coverage, never asked 'How do you feel about that?' after pricing, and never explicitly asked for the business\u2014instead drifting into scheduling logistics without a closing ask."
+}

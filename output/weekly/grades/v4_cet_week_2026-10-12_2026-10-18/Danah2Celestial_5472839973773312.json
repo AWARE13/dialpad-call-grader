@@ -1,0 +1,34 @@
+{
+  "call_id": "5472839973773312",
+  "rep_name": "Danah 2Celestial",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 5.4,
+  "datetime_ct": "2026-10-12 18:46 CT",
+  "external_number": "+15125898689",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep jumped directly into special item questions (piano type) without establishing primary concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were established via the two-concerns question.",
+    "value_days": "Danah: 'So Wednesday is one of our best value days so the hourly rate for two movers is $208.' Flexibility asked: 'This Wednesday the fourteenth?' and customer considers 'next Wednesday' \u2014 saving presented as all-in $520 for 2.5 hours.",
+    "rate_lock_then_ask": "Never asked. Rep quoted $520 but never mentioned rate lock, no deposit guarantee, or asked 'Would you like our help with your move?' The call ended with customer saying 'I'll call you' \u2014 no booking attempt."
+  },
+  "top_strength": "Danah delivered a clear, all-inclusive pricing anchor ($520 for 2.5 hours with two movers) and correctly identified the day as a Best Value Day, presenting the full scope upfront without hidden fees.",
+  "coaching_note": "Danah skipped the two-concerns question entirely and never attempted to close the business \u2014 the call ended with the customer deferring without a rate lock offer or explicit ask, which means no chance to move the lead toward booking."
+}

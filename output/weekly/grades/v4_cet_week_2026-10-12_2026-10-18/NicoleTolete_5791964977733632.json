@@ -1,0 +1,31 @@
+{
+  "call_id": "5791964977733632",
+  "rep_name": "Nicole Tolete",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 15.8,
+  "datetime_ct": "2026-10-12 14:31 CT",
+  "external_number": "+15125082949",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 11,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "before I go over with our pricing structure and your estimate, do you have any specific concern or stresser about the moving process in general? (asked after substantial probing)",
+    "two_layers_deep": "Monica raised doorway/wall protection concern; Nicole acknowledged with reassurance ('we will be putting some pads on your walls') but did not ask follow-up to understand depth; Monica then raised additional concern about rugs but Nicole moved forward without deepening either",
+    "value_days": "No mention of Thursday October 15th being cheaper or more expensive than other days; no flexibility offered",
+    "rate_lock_then_ask": "Rate lock mentioned ('no deposit required if you have to reschedule or cancel no fees') but then immediately asked 'would you like our help with your move?' without clear separation; no formal rate lock statement; customer did not book on call, only asked to discuss with husband"
+  },
+  "top_strength": "Nicole gathered comprehensive logistics details early and naturally, covering addresses, property type, garage items, special pieces, rugs, bed details, and box counts without feeling checklist-driven.",
+  "coaching_note": "Step 2 two-concerns question came after probing was already underway and Nicole did not dig two layers deep on either concern raised (doorway protection or rug movement); additionally, no final concerns check at step 6 and no genuine effort to close the estimate with the prep/temperature check before asking for the business."
+}

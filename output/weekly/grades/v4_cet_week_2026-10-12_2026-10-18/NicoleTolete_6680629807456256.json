@@ -1,0 +1,33 @@
+{
+  "call_id": "6680629807456256",
+  "rep_name": "Nicole Tolete",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 10.7,
+  "datetime_ct": "2026-10-12 19:54 CT",
+  "external_number": "+17136706040",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics probing without addressing concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns elicited in step 2.",
+    "value_days": "Never addressed. Rep offered only two fixed time slots (8:30 AM or 1:30 PM) with no mention of cheaper days or date flexibility.",
+    "rate_lock_then_ask": "Rate lock and no deposit mentioned: 'to secure a spot, there's no deposit required if you have to reschedule or cancel, no fees for that either.' Then ask for business: 'would you like me to get you on the schedule?' Customer accepted: 'Yeah, can we do the 1:30 PM?'"
+  },
+  "top_strength": "Nicole delivered a clear, comprehensive pricing explanation that included all-inclusive framing, damage coverage, on-time guarantee, and the 2.5-hour minimum with 15-minute increments \u2014 and she anchored the estimate well ($612\u2013$816 for 3\u20134 hours) tailored to the customer's partial move.",
+  "coaching_note": "Step 2 (Their Concerns) was skipped entirely \u2014 Nicole moved straight to logistics without ever asking the two-concerns question or any genuine concern opener, which cost the call its ability to understand what actually mattered to Holt and to build trust through reflection before selling."
+}

@@ -1,0 +1,39 @@
+{
+  "call_id": "6749875197485056",
+  "rep_name": "Nicole Tolete",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 12.0,
+  "datetime_ct": "2026-10-16 19:28 CT",
+  "external_number": "+18178890819",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 2,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 68,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Nicole: 'Am I speaking with Donna?' and later 'this is Nicole' \u2014 customer name used at open only, not carried through call",
+    "quid_pro_quo": "No time-boxed framing or dependable-quote promise at open. Rep launched directly into walkthrough pitch without the quid pro quo frame.",
+    "two_concerns_question": "Never asked. Rep moved to walkthrough scheduling without probing for customer's top two concerns (movers not showing, damage to items).",
+    "two_layers_deep": "Not applicable \u2014 no concerns raised by customer during probing.",
+    "active_listening_reflection": "Not applicable \u2014 no concerns raised for rep to reflect back.",
+    "promises_delivered": "Partial. Rep delivered No Worries Damage Coverage ('$2,000 per move to repair, replace or reimburse for any accidental damages') but did not mention On-Time Guarantee. No permission lead-in asked before delivery.",
+    "closes_the_loop": "Not asked. No version of 'Does that put those to rest?' or 'How do you feel about that?'",
+    "concern_led_opening_and_logistics": "Minimal. Rep asked about downsizing and packing service but never opened with 'What items in this move are you most concerned about?' Details gathered were reactive (packing only, downsizing size, move dates) rather than concern-driven.",
+    "packing_and_box_count": "One. Rep asked about packing service ('Packing your small items into boxes, is that right?') but never asked box count or typical range for a home this size.",
+    "rate_lock_then_ask": "Rep mentioned '2.5-hour minimum' and 'no deposit required' and rescheduling with no fees, but the explicit business ask ('Would you like our help with your move?') was never posed. The call ends with walkthrough confirmation only.",
+    "booking_confirmed": "Walkthrough scheduled: Monday October 19th at 2:30 PM, secure link sent via text and email, packing and move dates negotiated (Monday Oct 26 packing, Tuesday Oct 27 move, later contingent on handyman's dog door installation). No final booking confirmation on a move date was locked before close."
+  },
+  "top_strength": "Nicole cleanly routed the call to the virtual walkthrough, explained the process clearly, secured a specific date and time, confirmed receipt of the link, and set proper expectations for the next interaction.",
+  "coaching_note": "On walkthrough-routing calls, still ask the two-concerns question before scheduling \u2014 it frames why the walkthrough matters and surfaces what to look for on the video call. Nicole skipped this and moved straight to logistics, missing the chance to make the walkthrough feel purposeful to the customer."
+}

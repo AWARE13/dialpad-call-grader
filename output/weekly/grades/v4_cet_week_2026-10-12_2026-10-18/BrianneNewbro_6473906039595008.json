@@ -1,0 +1,31 @@
+{
+  "call_id": "6473906039595008",
+  "rep_name": "Brianne Newbro",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 6.7,
+  "datetime_ct": "2026-10-14 15:42 CT",
+  "external_number": "+19018492683",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 7,
+  "total_score": 53,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "And then will most of our customers have two concerns when moving, the first one being the movers being on time and the second damage to their items were being moved or any of these a concern for you?",
+    "two_layers_deep": "Customer said 'No, those aren't the super high concerns.' Rep responded with 'Okay. Do you have any other concerns or questions you'd like, answered about the move?' \u2014 one follow-up only, no real layering.",
+    "value_days": "No mention of value days, day flexibility, or pricing comparison across different days.",
+    "rate_lock_then_ask": "Now there is no deposit required to get on our schedule so there's no risk and securing your spot, and then if you do need to change the date or cancel the move there are no charges or fees for that. Would you like us to help you with the move on Saturday, October 24th."
+  },
+  "top_strength": "Rep confidently gathered all necessary logistics details (items, addresses, unit numbers, layout) in a natural conversation flow and delivered a clear, itemized estimate with hourly rate and inclusive pricing framing.",
+  "coaching_note": "Two critical gaps: rep never delivered the Two Promises (On-Time Guarantee and No Worries Damage Coverage) despite the customer naming moving concerns, and never circled back at the end to ask a genuine final-concerns check before the ask \u2014 both are load-bearing steps that build trust and catch last-minute objections."
+}

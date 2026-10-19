@@ -1,0 +1,33 @@
+{
+  "call_id": "4650167813578752",
+  "rep_name": "Nicole Tolete",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 7.9,
+  "datetime_ct": "2026-10-15 16:34 CT",
+  "external_number": "+12542058108",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Nicole moved straight into logistics probing without asking about the customer's primary concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were surfaced because the two-concerns question was never asked.",
+    "value_days": "Never addressed. Nicole provided a fixed estimate of $763-$981 for Saturday October 24th at 8:30 AM without exploring whether other days might offer savings.",
+    "rate_lock_then_ask": "Never asked for the business. Nicole confirmed details and said 'I'll be sending you a confirmation email shortly' but never asked 'Would you like our help with your move?' and never mentioned rate lock or no deposit."
+  },
+  "top_strength": "Nicole gathered logistics details thoroughly and systematically\u2014addresses, floor levels, elevator access, walking distances, special items, and box count\u2014building an accurate foundation for the estimate.",
+  "coaching_note": "Nicole skipped the two-concerns question entirely and never asked for the business; she also omitted both promises (On-Time Guarantee and No Worries Damage Coverage), value days exploration, and the prep framing that ties the estimate to preparation\u2014these are the four biggest gaps in this call."
+}

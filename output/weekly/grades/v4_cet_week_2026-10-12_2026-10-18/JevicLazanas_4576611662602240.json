@@ -1,0 +1,32 @@
+{
+  "call_id": "4576611662602240",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 29.7,
+  "datetime_ct": "2026-10-16 14:37 CT",
+  "external_number": "+18133007645",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 16,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 82,
+  "pass": true,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "most of them have one of two concerns. Either the movers not showing up on time or damage to their items. Are either of those a concern for you?",
+    "two_layers_deep": "Customer said 'especially damage my head' and mentioned concern about fifteen minutes. Rep asked 'Have you experienced that in the past?' but did not probe deeper after the 'No, no, really' response. No second layer follow-up on the time concern the customer mentioned.",
+    "value_days": "You've selected Friday, October 30th and the early rate is $100, but if you consider, since you said you're flexible, if you consider you know a move anytime, you know, from Monday to Thursday. The rate is $95, so $5 difference. Then asked about flexibility.",
+    "rate_lock_then_ask": "when you book your rate is locked in, it's like buying a ticket to a game even if demand goes up, your price is set, and what's even better he don't have to put down a deposit. So how does that sound? Would you like our help with your move?"
+  },
+  "top_strength": "Jevic gathered comprehensive logistics details with excellent concern-led probing, walked through furniture methodically, personalized the estimate to the customer's specific items (leather chairs, artwork, seventeenth floor), and delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full terms and transparency.",
+  "coaching_note": "Step 2: when the customer raised concerns about damage and timing, dig two layers deep instead of accepting one-word answers \u2014 ask 'tell me more about that' on the timing concern he mentioned and stay silent; Step 6: before closing, always ask a genuine final concerns check ('What's still concerning you about this move?') rather than jumping straight to rate lock and the ask."
+}

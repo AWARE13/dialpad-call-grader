@@ -1,0 +1,33 @@
+{
+  "call_id": "6747305896878080",
+  "rep_name": "Nicole Tolete",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 6.4,
+  "datetime_ct": "2026-10-15 14:42 CT",
+  "external_number": "+12816873886",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics probing.",
+    "two_layers_deep": "N/A \u2014 no concerns were elicited because the two-concerns question was never asked.",
+    "value_days": "Never addressed. Rep did not discuss date flexibility or cheaper day options despite the customer being scheduled for Friday October 23rd.",
+    "rate_lock_then_ask": "Never asked. Rep provided estimate ($852\u2013$1,074) and explained billing, but never asked for the business. Moved straight to confirming details and closing with 'do you have any questions.'"
+  },
+  "top_strength": "Nicole gathered detailed logistics efficiently\u2014addresses, property types, floor counts, garage/driveway access, and special items (the two 60-inch TVs)\u2014and confirmed all booking details at the end with full accuracy.",
+  "coaching_note": "The two-concerns question is the lynchpin of step 2; without it, the call skips the entire listening phase and goes straight to checklist probing. Nicole also never asked for the business (step 7), which means no closing ask and no rate lock mention\u2014the customer was walked through an estimate but never invited to book."
+}

@@ -1,0 +1,31 @@
+{
+  "call_id": "4764767896772608",
+  "rep_name": "Danah 2Celestial",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 12.5,
+  "datetime_ct": "2026-10-18 17:45 CT",
+  "external_number": "+13615502757",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 5,
+  "total_score": 86,
+  "pass": true,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We reach out to a lot of people and yeah, they typically have those two concerns. I'm not showing up on time or damaging their items. So are either of those a concern for you.",
+    "two_layers_deep": "Rep: 'Can you tell me more about that. Any items that you were very particular about or any past experience.' Customer: 'I'd be concerned regarding like the TV and then I do have a pull out couch so that being damaged.' Rep follows: 'Mm-hmm got it. So yeah, what I'm hearing is the TV and your pull out couch not being damaged.'",
+    "value_days": "Your requested date is Saturday November 14th, that is one of our peak days, so the hourly rate for two guys is $204. [Rep identifies it as a peak day but does not offer a cheaper alternative day or ask about date flexibility.]",
+    "rate_lock_then_ask": "Rep first asks 'Do you want to go ahead and reserve that date or if you want to like decide for now.' Customer declines to book. Only then does rep say 'We can actually go ahead and lock in the date for you. We don't require a deposit to book.' The ask preceded the rate lock messaging."
+  },
+  "top_strength": "Danah delivered both the On-Time Guarantee and No Worries Damage Coverage with complete, accurate terms ($2,000 per move, no deductible, no fine print, built into rate) right after validating the customer's stated concerns, and followed with a proper close-the-loop question.",
+  "coaching_note": "Reverse the order in step 7 \u2014 always mention rate lock and no-deposit policy before asking for the business, so the customer hears the easy yes first; also, Value Days should name the specific cheaper day available and the total dollar savings, then ask about date flexibility before accepting the peak-day booking."
+}

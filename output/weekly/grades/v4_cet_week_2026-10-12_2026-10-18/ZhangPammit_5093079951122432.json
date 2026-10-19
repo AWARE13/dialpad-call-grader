@@ -1,0 +1,32 @@
+{
+  "call_id": "5093079951122432",
+  "rep_name": "Zhang Pammit",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 18.8,
+  "datetime_ct": "2026-10-13 20:13 CT",
+  "external_number": "+15128183710",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 14,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 82,
+  "pass": true,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talked a lot of people everyday and the most of them have either one or two concerns either they move not showing up on time or damage to their items are either of those a concern for you.",
+    "two_layers_deep": "Customer raised damage and estimate accuracy concerns. Rep probed: 'Oh, okay, I am. Oh, okay. So the Cy. Oh, I perfectly understand.' Then asked confirmation: 'So, what I'm hearing is your concern regarding the damage before the double estimate extra money and the accuracy of the quote that was provided to you before. Did I get it?' Customer confirmed.",
+    "value_days": "No mention of value days, cheaper days, or date flexibility alternatives. Customer stated October 22nd availability was already confirmed at start, and rep did not revisit or offer alternatives.",
+    "rate_lock_then_ask": "Rep mentioned 'no deposit required, no risk and securing your spot' but never asked explicitly 'Would you like our help with your move?' Instead, customer ended the call herself: 'I'm gonna get those other two estimates moving estimates and I will get back with you.' No explicit ask for the business was made."
+  },
+  "top_strength": "Zhang delivered a thorough, concern-led probing phase with full logistics detail gathering and both promises clearly explained with specific terms ($50 off first hour, $25 per half-hour; $2,000 no-deductible coverage), creating genuine customer confidence in the move.",
+  "coaching_note": "Step 6 (final concerns check) and Step 7 (explicit ask for business) were both skipped entirely\u2014the customer volunteered to shop around and end the call, but Zhang never asked 'What's still concerning you about this move?' or 'Would you like our help with your move?', missing both bookend moments and the close."
+}

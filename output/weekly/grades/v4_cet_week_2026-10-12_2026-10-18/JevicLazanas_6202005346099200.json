@@ -1,0 +1,39 @@
+{
+  "call_id": "6202005346099200",
+  "rep_name": "Jevic Lazanas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 16.4,
+  "datetime_ct": "2026-10-12 21:09 CT",
+  "external_number": "+12142136288",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics after opening.",
+    "two_layers_deep": "N/A \u2014 no concerns surfaced in step 2.",
+    "value_days": "Never addressed. Rep confirmed Wednesday October 28th availability but made no mention of cheaper alternative days.",
+    "rate_lock_then_ask": "Rep asked 'would you like your help with your upcoming move on Wednesday October 28th?' with no prior mention of rate lock or no deposit. Customer said 'yeah' but rep never framed the rate lock commitment before the ask.",
+    "no_worries_damage_coverage": "In rare location that if an item gets damaged then automatically this will kick in up to $2,000 per move to repair, replace or reimburse.",
+    "on_time_guarantee": "If we can't make it in the time window that we arrange we immediately start discounting money of your final bill $50 for the first hour. And then for every thirty minutes that's gonna be an additional $25 off.",
+    "pricing_contrast_missing": "Rep stated hourly rate $204 and trip fee $1,680 but never framed the contrast against competitors' hourly-with-add-ons model.",
+    "no_notes_line_missing": "Rep never said 'no need to take notes, I'll send all of it over'.",
+    "prep_framing_missing": "Rep never delivered the Save Your Ass framing about preparation being the biggest factor in move duration.",
+    "temperature_check_missing": "Rep never asked 'How do you feel about that?' or held silence for a response."
+  },
+  "top_strength": "Jevic gathered detailed logistics efficiently (origin, destination, floor levels, walk distances, storage fullness, unit size estimation) and delivered a personalized estimate grounded in the specific move parameters.",
+  "coaching_note": "Jevic skipped the entire Step 2 discovery of customer concerns and moved straight to logistics; this meant the promises in Step 3 were delivered without permission, the estimate lacked concern-led framing, and Step 6 final concerns check was never asked\u2014these gaps removed the two bookend moments (steps 2 and 6) that the rubric identifies as what customers actually remember."
+}

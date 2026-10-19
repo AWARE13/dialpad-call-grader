@@ -1,0 +1,33 @@
+{
+  "call_id": "6490913350918144",
+  "rep_name": "Brianne Newbro",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 10.4,
+  "datetime_ct": "2026-10-12 16:09 CT",
+  "external_number": "+16173067282",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 3,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. The rep moved directly into probing without asking about the two primary concerns (on-time reliability or damage).",
+    "two_layers_deep": "N/A \u2014 no concerns were explicitly raised by the customer in step 2 structure.",
+    "value_days": "Not addressed. Rep gave 12:30\u20132:30 PM slot but never compared it to cheaper alternative days or asked about date flexibility to save money.",
+    "rate_lock_then_ask": "Rate lock mentioned ('no deposit required to get on our schedule and no charges or fees if you needed to change the date or cancel') but no explicit ask for the business. Customer self-booked via email confirmation process rather than being asked directly."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details (furniture, boxes, room count, floor situation, parking concerns) and provided a personalized, anchored price range ($646\u2013$838 for 3\u20134 hours) that directly addressed the customer's frustration with the online estimate being too high.",
+  "coaching_note": "The two-concerns question ('movers showing up on time, or damage to items') must be asked before any probing begins\u2014it's the foundation that makes everything else land; also add an explicit ask for the business ('Would you like our help with your move?') rather than relying on the email confirmation to close."
+}

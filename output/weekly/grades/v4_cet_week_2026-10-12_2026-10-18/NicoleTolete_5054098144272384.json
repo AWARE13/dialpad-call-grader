@@ -1,0 +1,33 @@
+{
+  "call_id": "5054098144272384",
+  "rep_name": "Nicole Tolete",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 10.2,
+  "datetime_ct": "2026-10-12 16:27 CT",
+  "external_number": "+19894006768",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 54,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Nicole never asked the two-concerns question or any open-ended equivalent. She moved directly into logistics probing after confirming availability.",
+    "two_layers_deep": "Customer raised no concerns during step 2, so this is N/A. Nicole actually asked 'do you have any specific concern or stresser about the moving process in general?' very late (after probing), customer said no, and Nicole never went deeper.",
+    "value_days": "No mention of Value Days, day flexibility, or cheaper alternative days. Nicole presented one estimate path without offering the saving on a different day.",
+    "rate_lock_then_ask": "Nicole said 'To secure a spot, there's no deposit required if you have to reschedule, or cancel no fees for that either. And would you like our help with your move?' The rate lock / no deposit came before the ask, but the ask itself was not plain \u2014 the customer immediately responded with 'I am right now just collecting quotes' and Nicole accepted this without pushing back or confirming booking details. The ask was present but soft."
+  },
+  "top_strength": "Nicole gathered detailed logistics comprehensively (addresses, floor levels, distances using the school bus reference, box count, packing needs, special items) and delivered both promises\u2014On-Time Guarantee and No Worries Damage Coverage\u2014with clear terms ($2,000 coverage, no deductible) unprompted.",
+  "coaching_note": "Ask the two-concerns question early (step 2, before probing starts), dig two layers deep on what the customer names, and then close step 6 with a genuine concerns check ('What's still concerning you?') rather than skipping it entirely; a soft ask in step 7 without confirmation of booking details leaves money on the table."
+}

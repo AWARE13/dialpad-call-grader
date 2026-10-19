@@ -1,0 +1,29 @@
+{
+  "call_id": "6471653671084032",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 10.9,
+  "datetime_ct": "2026-10-14 21:20 CT",
+  "external_number": "+14698555239",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 3,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 3,
+  "total_score": 21,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into storage unit details without using the two-concerns framing.",
+    "two_layers_deep": "No concerns were probed at step 2, so no layers-deep follow-up occurred.",
+    "value_days": "Rep stated 'we're already fully booked on the twenty fourth but we do have availability the next day, the twenty fifth' \u2014 acknowledged a date constraint but never offered value-days savings as a dollar amount or asked about flexibility.",
+    "rate_lock_then_ask": "Rep asked 'do you want to get this moved scheduled?' without any prior mention of rate lock or no-deposit promise. The ask came before any rate protection framing."
+  },
+  "top_strength": "Jules managed a complex multi-stop move with storage units and special items, gathered detailed logistics (storage sizes, piano, treadmill, printer specs), and identified the 800-pound printer limitation quickly \u2014 showing good product knowledge and problem-solving.",
+  "coaching_note": "This call skipped the entire step 2 discovery framework (two-concerns question, active listening reflection) and step 3 promises, jumping straight into logistics \u2014 build the habit of opening with concerns and delivering On-Time Guarantee and No Worries Coverage before diving into details, and use value days with a dollar-amount save rather than just stating availability."
+}

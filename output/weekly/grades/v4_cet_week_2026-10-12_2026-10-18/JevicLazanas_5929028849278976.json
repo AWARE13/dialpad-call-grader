@@ -1,0 +1,33 @@
+{
+  "call_id": "5929028849278976",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 11.1,
+  "datetime_ct": "2026-10-16 16:37 CT",
+  "external_number": "+18082827332",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 3,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics probing after quid pro quo.",
+    "two_layers_deep": "Not applicable \u2014 no concerns were raised by the customer.",
+    "value_days": "Never addressed. Rep provided a single time window (9:00\u20139:30 AM Friday November 13th) with no mention of value days or date flexibility.",
+    "rate_lock_then_ask": "Rep asked 'would you like our help with your move on Friday November 13th' but never mentioned rate lock or no deposit before the ask. The ask itself was plain and direct, but the rate lock framing was absent entirely."
+  },
+  "top_strength": "Jevic gathered all critical logistics details systematically \u2014 storage unit location and contents, apartment size, furniture inventory, floor access, walking distances \u2014 building a thorough picture for the estimate without confusion.",
+  "coaching_note": "Never ask the two-concerns question, which is the card's primary opener for step 2; jump straight into the ask at step 7 without mentioning rate lock or no deposit first; and skip the entire step 5 temperature check ('How do you feel about that?') after the estimate, leaving the customer's actual reaction unknown."
+}

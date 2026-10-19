@@ -1,0 +1,33 @@
+{
+  "call_id": "4937541095301120",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 17.8,
+  "datetime_ct": "2026-10-12 15:13 CT",
+  "external_number": "+12146216096",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 10,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep opened with 'Before I kinda hop in here, I just wanna make sure that I kinda address just any kind of concerns or questions that you might have right off the top. Do you have any of those questions or concerns?' \u2014 this is a throwaway open-ended version, not the two-concerns question about movers showing up on time or damage to items.",
+    "two_layers_deep": "Customer raised multiple concerns (washer/dryer stacking, appliance swapping, narrow passages, access issues) but rep acknowledged with 'Okay' and 'No not at all' without probing deeper. Only one follow-up occurred: 'Give me a sec' while checking on the stacking question via message, which is not the same as two-layer probing on the customer's stated concerns.",
+    "value_days": "Not addressed. Rep quoted Monday October 19th at $202/hour without offering alternative days or discussing whether a cheaper day was available.",
+    "rate_lock_then_ask": "Rate lock and no deposit mentioned first: 'it is free to reserve so there's no deposit due with us there's also no cancellation fee' followed by plain ask: 'Did you want to at least go ahead and reserve that truck.' Then customer said 'Absolutely.'"
+  },
+  "top_strength": "Chauntelle gathered exceptionally detailed logistics information about both locations (staircases, landings, parking, driveway obstructions, garage layout, hallway widths, door access) and systematically documented special service requirements (washer/dryer stacking, appliance reconnection) with impressive precision.",
+  "coaching_note": "Ask the two-concerns question early (movers not showing on time, or damage to items) before probing logistics, then dig two layers deep on whatever concerns the customer names, rather than moving quickly through acknowledgment into the checklist."
+}

@@ -1,0 +1,32 @@
+{
+  "call_id": "6453916307595264",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 14.8,
+  "datetime_ct": "2026-10-17 17:33 CT",
+  "external_number": "+18328601377",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 8,
+  "step2_their_concerns": 19,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 12,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "So I just wanted to let you know that we talked to a lot of people everyday and most of them have one or two concerns either movers are not showing up on time or damage to their items, are either of those concern for you.",
+    "two_layers_deep": "Okay, so from what I'm hearing is that you're both concerns with damaging the item and showing up on time. Did they get all of that. [Rep stops after one follow-up; no 'tell me more' or deeper probe]",
+    "value_days": "No value days discussion. Rep mentions Monday availability but does not frame it as a pricing comparison or offer a cheaper day.",
+    "rate_lock_then_ask": "Never asked. Customer rejected the estimate on grounds it seemed too high relative to drive time, and rep did not attempt to lock rate, overcome objection, or ask for the business. Call ended with customer declining."
+  },
+  "top_strength": "Rep delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full terms and disclosed all pricing components clearly, including trip fee, hourly rate, truck contents, and 15-minute billing increments.",
+  "coaching_note": "When the customer raises an objection to the estimate (six-hour time window felt high), probe deeper into their concern rather than defending the math\u2014then circle back to lock the rate and ask for the business before the call ends; you lost this deal without ever trying to close it."
+}

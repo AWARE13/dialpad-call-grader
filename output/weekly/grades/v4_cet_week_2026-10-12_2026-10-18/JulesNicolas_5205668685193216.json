@@ -1,0 +1,33 @@
+{
+  "call_id": "5205668685193216",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 6.6,
+  "datetime_ct": "2026-10-13 21:30 CT",
+  "external_number": "+14696786939",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 2,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 35,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. The rep never asked about on-time reliability or damage concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised because the two-concerns question was never asked.",
+    "value_days": "Not addressed. The rep mentions 'we do have that available date for December' but never discusses whether cheaper days exist or offers date flexibility as a savings mechanism.",
+    "rate_lock_then_ask": "Partial: 'We do not require any deposit nor do we have any rescheduling fees' (rate lock + no deposit mentioned), but no explicit ask for the business. The rep says 'whenever you're ready to get this moved scheduled, you can either give us a callback or you can also respond back to that email' \u2014 this is a built-in out, not a direct 'Would you like our help with your move?'"
+  },
+  "top_strength": "Jules delivered a clear, itemized pricing breakdown with specific dollar amounts ($102/hr, $190 transportation, $300\u2013$400 packing, $9,280 total) and explained what is and isn't included, which builds confidence in transparency.",
+  "coaching_note": "This call skipped the entire discovery backbone: no two-concerns question, no two promises (On-Time Guarantee and No Worries Damage), no final concerns check, and no direct ask for the business \u2014 you moved straight to estimate details without establishing what the customer actually cares about or what you'll guarantee."
+}

@@ -1,0 +1,34 @@
+{
+  "call_id": "6469600827711488",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 6.6,
+  "datetime_ct": "2026-10-15 15:18 CT",
+  "external_number": "+18322449735",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 2,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 0,
+  "total_score": 52,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved straight to logistics probing after contact confirmation.",
+    "two_layers_deep": "N/A \u2014 no concerns raised because two_concerns_question was never asked.",
+    "value_days": "Not addressed. No pricing discussion of day-of-week savings or flexibility offered.",
+    "rate_lock_then_ask": "Not asked. Rep never asked for the business or mentioned rate lock. Call ended with 'I'll send this email over' and 'if you do happen to think of something don't hesitate to reach out.'"
+  },
+  "top_strength": "Brianne delivered both promises \u2014 On-Time Guarantee and No Worries Damage Coverage \u2014 with clear, complete terms ($50 first hour, $25 per half hour; $2,000 no deductible, built in) and did a thorough job gathering logistics details including special items, unit numbers, floor info, TV sizes, and box count.",
+  "coaching_note": "This call skipped the entire discovery phase: no two-concerns question, no probing of what the customer actually worried about, no estimate anchor or pricing frame, no temperature check, and critically, no ask for the business \u2014 the call ended by sending an email instead of closing for the booking."
+}

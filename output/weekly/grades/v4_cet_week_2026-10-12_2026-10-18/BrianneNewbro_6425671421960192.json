@@ -1,0 +1,34 @@
+{
+  "call_id": "6425671421960192",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.3,
+  "datetime_ct": "2026-10-12 18:43 CT",
+  "external_number": "+15124508432",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into probing about previous move history and logistics.",
+    "two_layers_deep": "Customer raised concerns about piano weight and computer monitor packing, but rep acknowledged without digging deeper.",
+    "value_days": "Not addressed. No mention of day-of-week pricing or flexibility.",
+    "rate_lock_then_ask": "Never asked for the business. Rep ended with 'I'm gonna send this over' and 'If you do have any questions or concerns about the move before the date. Please don't hesitate to reach out.' No explicit close, no rate lock mention, no deposit statement, no 'Would you like our help with your move?'"
+  },
+  "top_strength": "Brianne efficiently gathered comprehensive logistics details (both addresses, floor counts, walking distances, special items, bed/furniture specifics) in a natural conversational flow with an existing customer, showing strong rapport and product knowledge.",
+  "coaching_note": "This was a repeat customer with an existing booking, so the call skipped the core sales steps \u2014 but on any new customer intake, you must ask the Two Concerns question before probing, deliver both promises (On-Time Guarantee and No Worries Damage Coverage) with permission, and close with an explicit ask for the business backed by rate lock and no-deposit framing, not an email-followup handoff."
+}

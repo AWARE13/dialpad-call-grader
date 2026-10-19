@@ -1,0 +1,31 @@
+{
+  "call_id": "6155305598361600",
+  "rep_name": "Jevic Lazanas",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 11.2,
+  "datetime_ct": "2026-10-15 22:09 CT",
+  "external_number": "+12106072067",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 27,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep jumped directly into inventory cataloging without surfacing customer concerns.",
+    "two_layers_deep": "No concerns were raised or explored. Rep moved straight to itemization.",
+    "value_days": "Rep mentioned Monday November 2nd and Sunday as options but never framed as value days or offered dollar savings for date flexibility. No Value Days structure at all.",
+    "rate_lock_then_ask": "Rep said 'would you like our help with your upcoming move on November 2nd Monday, November 2nd no deposit or you know, no upfront payment necessary' then immediately pivoted to 'So would you like to go ahead and get on the schedule today' \u2014 the ask came first, rate lock/no deposit came first, but customer hesitated and rep did not close it, instead offering to email the quote. This is a weak close with a built-in out ('I can send you an email')."
+  },
+  "top_strength": "Jevic gathered comprehensive inventory details methodically, moving through rooms and categories systematically to build an accurate picture of the move (two bedrooms, seven bookshelves, dining furniture, beds, nightstands, lamps, mirrors, and more).",
+  "coaching_note": "Start every call with the Two Concerns question before any probing \u2014 this call jumped straight into inventory cataloging without ever asking what mattered most to Damon, which meant no foundation for the promises, no personalization of the estimate, and no prep framing; also, the ask at the end had a built-in escape hatch ('I can send you an email') instead of holding for a yes or no on booking today."
+}

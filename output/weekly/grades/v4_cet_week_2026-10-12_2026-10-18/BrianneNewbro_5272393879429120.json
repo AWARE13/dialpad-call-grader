@@ -1,0 +1,29 @@
+{
+  "call_id": "5272393879429120",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 12.5,
+  "datetime_ct": "2026-10-13 14:42 CT",
+  "external_number": "+17274585391",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 10,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "two_concerns_question": "Julia most of our customers have two concerns when they're calling in about their move. One, the movers not being on time or to damage their to their items. Are any of these a concern for you?",
+    "two_layers_deep": "Damage of course, but I was reading the views and I saw the reviews online... I do have two shelves that are like looser items. [Rep responds:] We include the disassemble in our hourly rate, so there's no extra charge for that or reassembly at the next location. [No second layer probing on why damage concerns her or what specifically about loose items.]",
+    "value_days": "So for Sunday October 18th looks like that's one of our value days it's $192 for the two movers, one truck and then for the two and a half hours I would look to budget between $480 if we did hit the three and a half would be $672",
+    "rate_lock_then_ask": "there's no deposit required to get on our schedule and there's no fees or charges to change the date are cancel. Would you like us to help you with that"
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details (storage unit layout, parking, destination property type, furniture items, box count) without derailing the call, and successfully confirmed a booking with full details including arrival window and unit number.",
+  "coaching_note": "After the customer named damage as a concern, probe deeper (\"tell me more about that\" / silence) to understand what specifically worries her, rather than pivoting immediately to the damage coverage feature \u2014 two layers deep means waiting for the customer to signal they're done, not moving to your next point."
+}

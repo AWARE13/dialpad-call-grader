@@ -1,0 +1,29 @@
+{
+  "call_id": "6233582736285696",
+  "rep_name": "Nicole Tolete",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 16.3,
+  "datetime_ct": "2026-10-15 17:11 CT",
+  "external_number": "+18136062955",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 6,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 0,
+  "step7_ask_for_the_business": 0,
+  "total_score": 34,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Nicole jumped directly into logistics after quid pro quo without asking the two-concerns opener.",
+    "two_layers_deep": "Natalie raised 'I just hope nothing breaks or it gets stolen.' Nicole acknowledged with damage coverage but did not probe deeper or ask follow-up questions.",
+    "value_days": "Not addressed. Nicole did not discuss date flexibility or savings for moving on a different day, despite the customer saying 'anytime, really, pretty much any day in the next 33 weeks.'",
+    "rate_lock_then_ask": "Never asked. Nicole never asked 'Would you like our help with your move?' and when the customer objected to price ('that's more pricier than I expected'), Nicole ended the call without attempting to close: 'I see. But if you ever need us in the future you can always give us a call back. And I really appreciate you considering Einstein moving.'"
+  },
+  "top_strength": "Nicole gathered comprehensive logistics details methodically (three addresses, property types, floors, parking, distances, storage dimensions, unit number) and explained the pricing structure and perks clearly without hidden fees.",
+  "coaching_note": "Ask the two-concerns question before probing (most of your logistics questions came after the customer's only stated concern), probe at least two layers deep on concerns raised, address value days when the customer has date flexibility, and close with an explicit ask for the business even if the customer raises price objections\u2014don't exit the call without attempting to overcome the objection."
+}

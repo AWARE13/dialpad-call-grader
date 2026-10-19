@@ -1,0 +1,32 @@
+{
+  "call_id": "6071169579786240",
+  "rep_name": "Jules Nicolas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 6.1,
+  "datetime_ct": "2026-10-14 20:53 CT",
+  "external_number": "+19722175091",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 9,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 32,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Jules: 'You know, I wanted to let you know. So we, you know, we talked to a lot of people. You know, every day, usually most of them have one or two concerns usually to worry that the movers are not gonna show up on time or is that they're gonna damage their items, are any of these concern for you?' [Asked after probing for items and destination had already begun]",
+    "two_layers_deep": "Customer: 'So up on time.' Jules: 'Do you have any particular concerns about your upcoming move-in. General.' [Single follow-up, no real two-layer dig; customer offers 'I just want one of my stuff' and 'I've been sick' but Jules does not probe deeper]",
+    "value_days": "[Not addressed at all in the call]",
+    "rate_lock_then_ask": "[Jules never asked for the business or mentioned rate lock; call ended with customer saying 'Alright, bye-bye' after Jules said 'Thank you so much.']"
+  },
+  "top_strength": "Jules gathered the key logistics early and asked about packing help, showing some structure despite a disorganized flow.",
+  "coaching_note": "The two biggest gaps: never deliver the On-Time Guarantee and No Worries Damage Coverage promises (step 3 is entirely missing), and never ask for the business (step 7 is abandoned)\u2014this call ended without an ask or any attempt to book."
+}

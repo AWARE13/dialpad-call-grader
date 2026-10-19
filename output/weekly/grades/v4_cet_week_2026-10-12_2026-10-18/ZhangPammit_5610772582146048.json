@@ -1,0 +1,31 @@
+{
+  "call_id": "5610772582146048",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 11.0,
+  "datetime_ct": "2026-10-15 20:17 CT",
+  "external_number": "+15128485125",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 9,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 12,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "So I just wanted to let you know that we talked to a lot of people everyday and most of them have one or two concerns either the movers are not showing up on time or damage to their items, or either of those a concern for you.",
+    "two_layers_deep": "Customer said 'Yes but you guys are professional. So I assume that's not gonna happen.' Rep responded 'Oh, thank you so much. So, I just wanted to let you know as well on how we normally work...' \u2014 immediate pivot to promises without any follow-up like 'tell me more about that' or probing deeper into the concern.",
+    "value_days": "No mention of the customer's requested date (November 9th) falling into a pricing tier or whether a cheaper day was available. Rep offered to book the walkthrough slot but never addressed whether the move date itself had value pricing options.",
+    "rate_lock_then_ask": "Rep said 'Would you like me to lock that in for you?' after the customer declined the walkthrough, but never explicitly stated rate lock language (no mention that the quote is locked in, no deposit required) before asking for the business. The ask itself is also softened immediately with 'Would you like me to send you email quotation by any chance?' giving an out."
+  },
+  "top_strength": "Roselyn delivered both promises (On-Time Guarantee with specific dollar amounts and No Worries Damage Coverage at $2,000) clearly and confidently, and gathered comprehensive logistics details including property type, rooms, garage status, parking, and box count estimates.",
+  "coaching_note": "You asked the two-concerns question after already gathering logistics details rather than before probing started, and when the customer named a concern about movers and reliability, you pivoted immediately to the promises without digging deeper with 'tell me more about that' or a pause \u2014 you missed the opportunity to understand what specifically worried her about on-time arrival or damage risk."
+}

@@ -1,0 +1,32 @@
+{
+  "call_id": "5885040188497920",
+  "rep_name": "Joanna Ballon",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 18.9,
+  "datetime_ct": "2026-10-18 17:12 CT",
+  "external_number": "+18475047202",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talk to a lot of customers everyday. Some of their concerns about moving is either movers not arriving on time or damages to their items or any of this or concerns as well.",
+    "two_layers_deep": "Rep says 'Tell me more about it. Any experience in the past late movers that happened before.' Customer answers briefly about past experience, but rep does not push deeper with follow-up silence or second probe.",
+    "value_days": "No mention of different days or pricing tiers. Customer mentions Friday the 13th and Saturday the 6th as options, but rep never frames one as cheaper or offers a dollar saving.",
+    "rate_lock_then_ask": "Rate lock and no deposit mentioned ('We actually don't take any deposits so there's no risk of securing a spot'), but no explicit ask for the business. Rep says 'I'll send everything to you in an email' and 'once you're ready to go ahead with the booking, just let us know ahead of time' \u2014 no plain 'Would you like our help with your move?' or equivalent."
+  },
+  "top_strength": "Joanna gathered logistics comprehensively and sensitively, working through parking, stairs, floor protection, packing scope, and furniture placement with genuine concern for Christine's home and priorities.",
+  "coaching_note": "End the call with an explicit ask for the business \u2014 'Would you like our help with your move?' \u2014 rather than leaving the decision to the customer to initiate after receiving the email quote."
+}

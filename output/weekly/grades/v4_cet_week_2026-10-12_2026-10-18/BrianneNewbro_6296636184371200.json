@@ -1,0 +1,39 @@
+{
+  "call_id": "6296636184371200",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 6.6,
+  "datetime_ct": "2026-10-12 15:08 CT",
+  "external_number": "+18327227846",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep: 'what is your first name?' Customer: 'Leslie.' Rep later: 'Leslie, thank you so much for holding'",
+    "quid_pro_quo": "No framing offered. Rep immediately pivots to specialist: 'I'm gonna go ahead and get the basic information and then I'm going to get you in contact with the specialist who does larger moves.'",
+    "two_concerns_question": "Never asked. Rep moves directly into logistics gathering.",
+    "concern_led_opening": "No concern-led opening. Rep asks directly about property details: 'What size house or is it a house apartment?'",
+    "logistics_gathered": "Addresses collected (loading and delivery), square footage (2589 and 3662), number of stories (two stories each), bedrooms (four each), moving date (Friday the 16th). No special items, no walking distances, no additional rooms/spaces covered.",
+    "packing_and_box_count": "Neither asked.",
+    "promises_delivered": "No promises given. Rep does not deliver On-Time Guarantee or No Worries Damage Coverage.",
+    "closes_the_loop": "No close-loop question asked.",
+    "value_days": "Not reached; call routed to walkthrough before estimate.",
+    "rate_lock_then_ask": "Not reached; call routed to walkthrough before closing.",
+    "walkthrough_routing": "Rep confirms: 'Yes, yeah, they'll do, yeah, they'll do a virtual walkthrough with the size of the home for sure.' Clean handoff arranged for specialist callback."
+  },
+  "top_strength": "Rep successfully identified the move as large enough (2589 sq ft house expanding to 3662 sq ft) and correctly routed to the specialist with a virtual walkthrough without abandoning the pitch.",
+  "coaching_note": "Before routing to walkthrough, deliver the Two Promises (On-Time Guarantee and No Worries Damage Coverage) inside step 3, even on larger moves \u2014 the card moved promises to step 3 specifically so they land while the customer is still on the call, and before probing on walkthrough calls is where this happens."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "4715661329473536",
+  "rep_name": "Jevic Lazanas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 7.3,
+  "datetime_ct": "2026-10-16 15:48 CT",
+  "external_number": "+19723390074",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 3,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing without the two-concerns opener.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during step 2.",
+    "value_days": "Rep said 'we have one truck left' on the 18th and 'between 8:30 AM to 9:00 AM' but never identified which Value Day branch applied, never offered a dollar saving, and never asked about date flexibility beyond the immediate conflict.",
+    "rate_lock_then_ask": "Rep asked 'would you like or help with your upcoming move this Sunday October 18th?' with no rate lock or no-deposit commitment stated beforehand. The ask came first and was slightly softened."
+  },
+  "top_strength": "Jevic gathered detailed logistics systematically \u2014 two storage units, dimensions, fullness, furniture count, destination address \u2014 and anchored the estimate well ($824\u2013$1,030 for 4\u20135 hours), giving the customer a clear, personalized number to sit with.",
+  "coaching_note": "Never skip the two-concerns question \u2014 this call had no opener to surface what mattered to Jeff, and the Two Promises (On-Time Guarantee and No Worries Damage Coverage) were not delivered at all, missing the chance to answer his real fears and earn trust before pricing."
+}

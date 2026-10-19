@@ -1,0 +1,33 @@
+{
+  "call_id": "6169715144433664",
+  "rep_name": "Arden 2Asilo",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 8.3,
+  "datetime_ct": "2026-10-13 14:59 CT",
+  "external_number": "+12139524215",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talked to a lot of people everyday and most of them have one or two concerns either the movers are not showing up on time or their items are damaged are either of those a concern for you.",
+    "two_layers_deep": "N/A \u2014 customer said 'No' to both concerns, no follow-up needed.",
+    "value_days": "Rep acknowledged Sunday 18th but never discussed Value Days pricing branches, savings as a dollar amount, or date flexibility beyond the immediate booking.",
+    "rate_lock_then_ask": "We still have availability for Sunday 18th of October. I can put you on the schedule for no deposit required as early as 8:30 to 9:00. Would you want our help with the move?"
+  },
+  "top_strength": "Arden delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full terms and specificity, and used the customer's name throughout the call.",
+  "coaching_note": "Step 5 is underdeveloped: the rep never framed the pricing contrast against competitors, never delivered Cameron's no-notes line, never gave Save Your Ass prep framing with a temperature check, and never addressed Value Days even though Sunday is not a Best Value Day."
+}

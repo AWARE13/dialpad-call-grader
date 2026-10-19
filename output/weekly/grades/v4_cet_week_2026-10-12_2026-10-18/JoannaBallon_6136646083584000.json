@@ -1,0 +1,32 @@
+{
+  "call_id": "6136646083584000",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 6.5,
+  "datetime_ct": "2026-10-18 15:17 CT",
+  "external_number": "+12105199482",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 12,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people everyday and most of them have one or two concerns. Either the mover is not showing up on time or damages to their items are any of this you're concerned as well.",
+    "two_layers_deep": "Rep says 'Mm-hmm. Mm-hmm.' and acknowledges 'no worries. I'll go ahead and check them out for you' but does not ask 'tell me more about that' or probe deeper into the concern about tables.",
+    "value_days": "Friday the 23rd is confirmed as the move date; no alternative days offered, no savings discussed, no flexibility question asked about date options.",
+    "rate_lock_then_ask": "if that works for you guys, I still have availabilities on Friday. So would you like our help for this move?"
+  },
+  "top_strength": "Joanna delivered the complete two-promise framing (On-Time Guarantee and No Worries Damage Coverage with full terms) seamlessly into the pricing conversation, and gathered comprehensive logistics details across both locations including property type, walking distances, parking, and special items.",
+  "coaching_note": "After the customer names a concern (tables being damaged), ask 'tell me more about that' and hold silence instead of moving immediately to reassurance \u2014 two layers deep is what unlocks the real worry, and you stopped at the surface."
+}

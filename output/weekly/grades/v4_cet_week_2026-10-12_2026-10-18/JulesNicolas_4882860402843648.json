@@ -1,0 +1,31 @@
+{
+  "call_id": "4882860402843648",
+  "rep_name": "Jules Nicolas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 13.3,
+  "datetime_ct": "2026-10-14 18:29 CT",
+  "external_number": "+18473376108",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 16,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 4,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 4,
+  "total_score": 54,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people everyday and most of them have you know, one or two concerns. Usually they're either worried that delivers are gonna show up late or you know, the mover their movers are going to damage their items are any of these concern for you?",
+    "two_layers_deep": "Jules acknowledged Jennifer's concerns (damage and lateness) but did not follow up with 'tell me more about that' or deep probing. He moved into the promises almost immediately.",
+    "value_days": "Jules mentioned Friday $103, Sunday $97, Saturday $103 but never framed this as a saving or asked about date flexibility in terms of total dollar amount. He said 'we have availability on both days, Saturday and Sunday' but did not identify the value day branch or offer a specific savings figure.",
+    "rate_lock_then_ask": "Jules mentioned 'we do not really require any deposit or do we need any credit card payment upfront' but never followed with a clear ask for the business. He offered to schedule ('If you want, we can get you scheduled') but Jennifer declined on the call, saying she needed to think it over."
+  },
+  "top_strength": "Jules delivered both promises (On-Time Guarantee with specific discount amounts and No Worries Damage Coverage with $2,000 coverage, no deductible, and 4-6 day claims resolution) clearly and with permission, building trust early.",
+  "coaching_note": "Step 6 is missing entirely\u2014Jules never asked 'What's still concerning you about this move?' before closing, which leaves unspoken objections on the table; also, the ask in step 7 was soft and indirect ('If you want, we can get you scheduled') rather than a plain 'Would you like our help with your move?' that invites a yes-or-no decision."
+}

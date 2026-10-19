@@ -1,0 +1,31 @@
+{
+  "call_id": "4746517729288192",
+  "rep_name": "Joanna Ballon",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 7.1,
+  "datetime_ct": "2026-10-15 19:23 CT",
+  "external_number": "+15125746626",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 8,
+  "total_score": 52,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talk to different customers everyday. Some of their concerns are either movers not showing up on time or damages to their items or any of this or concerns as well.",
+    "two_layers_deep": "Customer said 'I'm not particularly worried about that I guess' \u2014 Joanna acknowledged with 'Mm-hmm' but did not probe deeper with follow-up questions.",
+    "value_days": "No mention of Value Days, day flexibility, or cheaper alternatives.",
+    "rate_lock_then_ask": "There's no deposit needed for this move. The payment is only upon completion of the move... if that's all good with you I can definitely put you on the schedule."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details efficiently (two addresses, floor count, walking distances, furniture list, box count) and delivered a clear, anchored estimate with transparent pricing and all-inclusive framing.",
+  "coaching_note": "Step 2 requires two layers of follow-up: when Zoe said she wasn't worried, Joanna should have probed deeper (\"tell me more about that\") rather than moving immediately to reassurance; and Step 5 needs the prep framing and temperature check (\"How do you feel about that?\") before asking about booking."
+}

@@ -1,0 +1,31 @@
+{
+  "call_id": "4684113087602688",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 14.9,
+  "datetime_ct": "2026-10-15 15:48 CT",
+  "external_number": "+14693254421",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 16,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 16,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "before we head into that Audi we actually talked to a lot of people everyday and most of them have one or two concerns either the movers are not showing up on time, or their items get damaged are either of those a concern for you for this month.",
+    "two_layers_deep": "Customer stated: 'I definitely don't want my item damage, man timing is not so much the issue, but I do want them to be, you know, I don't want to be total at 8:00 and they show up at ten.' Rep responded: 'Mm-hmm. Of course, don't worry. I got you. I hear you and we'll definitely make sure of that.' No second layer probe asking 'tell me more about that' or silent follow-up.",
+    "value_days": "Friday, we have availability Saturday, we don't, Sunday, we have Saturday, Friday and Saturday. Our value days so those are a little bit expensive it's like to like save around $12. So I highly recommend Sunday the rate on Friday. Saturday is $218 per hour on Sunday it's $206 and on Monday it's $204. If I was willing to move on Monday, I'd say roughly see there's some difference of $16 an hour.",
+    "rate_lock_then_ask": "don't worry we don't require any deposit to secure booking for Friday or for tomorrow. You only pay after the actual move is done, okay? [followed by] Alright. No problem sir. So once again Friday tomorrow between 8:30 to 9:00, okay? So I'm gonna go ahead and schedule you in."
+  },
+  "top_strength": "Arden delivered both promises (On-Time Guarantee with specific dollar amounts and No Worries Damage Coverage with $2,000 coverage details) clearly and in full early in the call, establishing trust before diving into logistics.",
+  "coaching_note": "Step 2's two-layer probing was cut short\u2014when OD mentioned timing concerns, Arden acknowledged but never asked 'tell me more about that' with silence, missing the opportunity to uncover deeper specifics that might have strengthened the estimate; Step 6 was completely skipped, so no final concerns check happened before the ask, leaving money and risk on the table."
+}

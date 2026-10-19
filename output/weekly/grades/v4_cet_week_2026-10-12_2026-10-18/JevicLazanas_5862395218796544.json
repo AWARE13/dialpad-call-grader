@@ -1,0 +1,34 @@
+{
+  "call_id": "5862395218796544",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 5.3,
+  "datetime_ct": "2026-10-12 15:14 CT",
+  "external_number": "+12144987048",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 3,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 25,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into details collection without surfacing concerns.",
+    "two_layers_deep": "No concerns were raised by the customer, so n/a.",
+    "value_days": "Never addressed. Rep quoted October 27 deadline but did not mention Value Days or date flexibility for pricing.",
+    "rate_lock_then_ask": "Rep never asked for the business. Call ended with 'No problem ma'am, will there be anything else?' after providing estimate. No rate lock, no confirmation of booking, no explicit ask."
+  },
+  "top_strength": "Jevic quickly gathered the essential logistics (origin/destination zip codes, moving date, item description and approximate weight) and provided a concrete estimate range ($2,000\u2013$2,208) in a short timeframe.",
+  "coaching_note": "This call skipped the entire Einstein framework: no quid pro quo framing, no two-concerns question, no promises, no value days discussion, and crucially, no ask for the business\u2014rep ended by saying goodbye instead of closing for a date."
+}

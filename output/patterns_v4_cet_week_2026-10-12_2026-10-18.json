@@ -1,0 +1,71 @@
+{
+  "rubric_version": "v4-simplified",
+  "week_start": "2026-10-12",
+  "week_end": "2026-10-18",
+  "total_calls_pulled": 372,
+  "total_graded": 321,
+  "total_skipped": 44,
+  "total_failed": 7,
+  "company_avg_score": 58.0,
+  "company_median_score": 58,
+  "pass_rate_pct": 9.0,
+  "per_rep_avg_score": {
+    "Zhang Pammit": 70.2,
+    "Danah 2Celestial": 62.6,
+    "Joanna Ballon": 61.7,
+    "Jeline 2Lavarias": 61.4,
+    "Nicole Tolete": 60.4,
+    "Amy Arbasa": 59.9,
+    "Arden 2Asilo": 57.9,
+    "Jevic Lazanas": 54.9,
+    "Brianne Newbro": 54.5,
+    "Chauntelle Shivers": 51.2,
+    "Jules Nicolas": 45.9
+  },
+  "per_step_avg_score": {
+    "step1_open": 6.01,
+    "step2_their_concerns": 16.05,
+    "step3_two_promises": 4.6,
+    "step4_probing_for_details": 11.0,
+    "step5_the_estimate": 10.87,
+    "step6_concerns_again": 4.76,
+    "step7_ask_for_the_business": 4.76
+  },
+  "failed_calls": [
+    {
+      "call_id": "6559630030053376",
+      "rep_name": "Jules Nicolas",
+      "error": "\"Unrecognized value 'partial' for pricing_framing (not in ['all_three', 'two', 'one', 'none'] and not an n/a-shaped string)\""
+    },
+    {
+      "call_id": "6608357801369600",
+      "rep_name": "Jules Nicolas",
+      "error": "\"Unrecognized value 'partial' for pricing_framing (not in ['all_three', 'two', 'one', 'none'] and not an n/a-shaped string)\""
+    },
+    {
+      "call_id": "5676590303059968",
+      "rep_name": "Arden 2Asilo",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "call_id": "6451363249430528",
+      "rep_name": "Chauntelle Shivers",
+      "error": "\"Unrecognized value 'partial' for pricing_framing (not in ['all_three', 'two', 'one', 'none'] and not an n/a-shaped string)\""
+    },
+    {
+      "call_id": "5365236281155584",
+      "rep_name": "Nicole Tolete",
+      "error": "\"Unrecognized value 'partial' for pricing_framing (not in ['all_three', 'two', 'one', 'none'] and not an n/a-shaped string)\""
+    },
+    {
+      "call_id": "5891168601415680",
+      "rep_name": "Nicole Tolete",
+      "error": "\"Unrecognized value 'partial' for rate_lock_then_ask (not in ['full', 'wrong_order', 'weak', 'never'] and not an n/a-shaped string)\""
+    },
+    {
+      "call_id": "4939633730035712",
+      "rep_name": "Jevic Lazanas",
+      "error": "Expecting ',' delimiter: line 40 column 379 (char 2021)"
+    }
+  ]
+}

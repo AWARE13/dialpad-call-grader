@@ -1,0 +1,33 @@
+{
+  "call_id": "6037503132606464",
+  "rep_name": "Jules Nicolas",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 7.1,
+  "datetime_ct": "2026-10-12 22:13 CT",
+  "external_number": "+19034236740",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 2,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 38,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep launches directly into pricing structure.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by rep.",
+    "value_days": "Rep mentions Monday-Thursday cheaper than Friday-Saturday and asks flexibility: 'are you flexible with your move, can you move on like a, a different day?' Then gives hourly difference ($101 vs $105) instead of total dollar amount. Later mentions specific dates (Thursday 12th/13th or Wednesday 11th/12th) but no total savings figure is stated.",
+    "rate_lock_then_ask": "Never asked. Rep never mentions rate lock, no deposit policy, or explicit ask for the business. Call ends with 'you can give us a callback or respond to that email.'"
+  },
+  "top_strength": "Jules delivered a clear, detailed estimate with multiple service options (packing only, moving only, full packing + moving) and specific pricing anchors ($5,617 weekday / $5,825 weekend for full service; $2,828 for move-only), making the quote concrete and dependable.",
+  "coaching_note": "This is a callback estimate delivery, not a full intake call, but Jules skipped the two-concerns question entirely, never asked for the business with an explicit ask, and presented hourly rate differences for value days instead of total dollar savings\u2014missing three critical step 7 and step 5 behaviors that close sales."
+}

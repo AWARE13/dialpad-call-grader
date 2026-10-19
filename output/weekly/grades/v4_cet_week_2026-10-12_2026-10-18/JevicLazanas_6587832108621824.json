@@ -1,0 +1,33 @@
+{
+  "call_id": "6587832108621824",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 11.8,
+  "datetime_ct": "2026-10-15 15:42 CT",
+  "external_number": "+15127971726",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 14,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 66,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly from step 1 into probing logistics without establishing customer's top concerns via the two-concerns frame.",
+    "two_layers_deep": "N/A \u2014 no concerns were explicitly raised during step 2 because the two-concerns question was never asked.",
+    "value_days": "Rep offered afternoon slot (1:30 PM, 12:30\u20132:30 PM window) and asked about preference (morning vs afternoon), but did not present this as a value/pricing optimization. No pricing contrast between different days, no total dollar savings mentioned. Rep asked 'Do you prefer a morning or an afternoon schedule?' and when customer said afternoon was better due to night work, rep confirmed 1:30 PM without framing it as a Value Day choice or savings opportunity.",
+    "rate_lock_then_ask": "Rep never asked for the business at all. Call ended with 'So, will there be anything else that I can help you with today Kelly?' followed by confirmation of email and goodbye. No explicit ask like 'Would you like our help with your move?' No rate lock or deposit promise. Booking was already in the system (customer booked online), so rep confirmed details but did not close or ask for commitment."
+  },
+  "top_strength": "Jevic built strong rapport, asked detailed logistics questions systematically, and delivered both promises (On-Time Guarantee and No Worries Damage Coverage) clearly and completely with a permission lead-in.",
+  "coaching_note": "You skipped the two-concerns question entirely \u2014 ask it early in every call before logistics probing, and dig two layers deep on whatever the customer names. You also never asked for the business; always close with an explicit ask like 'Would you like our help with your move?' even when the customer booked online, and mention rate lock and no deposit before that ask."
+}

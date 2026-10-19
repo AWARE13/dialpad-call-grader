@@ -1,0 +1,33 @@
+{
+  "call_id": "5827034044211200",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.9,
+  "datetime_ct": "2026-10-13 17:32 CT",
+  "external_number": "+17133037485",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep jumps directly into confirming logistics details.",
+    "two_layers_deep": "No concerns probed at step 2. Customer's cost concern emerged naturally at step 5 ('I was hoping to get closer to $1,000') but rep did not dig two layers deep into it.",
+    "value_days": "Rep mentions Sunday is $20/hour cheaper than Saturday ('the rate for Sunday is cheaper compared to Saturday like $20 difference per hour') but frames the saving as an hourly difference, not a total dollar amount. No explicit flexibility ask. Quote: 'And another gate use is the rate for Sunday is cheaper compared to Saturday like $20 difference per hour.'",
+    "rate_lock_then_ask": "No rate lock or no-deposit guarantee mentioned. Rep says 'if you're ready to proceed, then you can just give us a callback' \u2014 which is a built-in out. No plain ask for the business. Quote: 'So, yeah. But you know, I'll go ahead and send you an email for this estimate, and if you're ready to proceed, then you can just give us a callback.'"
+  },
+  "top_strength": "Rep gathered substantial logistics detail (home size, bedroom count, furniture inventory, special items, distance, box estimates) and delivered two personalized estimates (6\u20137 hours at $1,276\u2013$1,670, then refined to 5\u20136 hours at $1,050\u2013$1,260) anchored to the customer's specific move profile.",
+  "coaching_note": "You skipped the two-concerns question entirely, never delivered the On-Time Guarantee or No Worries Damage Coverage promises, did not ask for the business directly, and framed the Value Days saving as an hourly difference instead of a total dollar amount \u2014 each of these is a core v4 behavior that must land on every call."
+}

@@ -1,0 +1,32 @@
+{
+  "call_id": "6615334438871040",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 5.4,
+  "datetime_ct": "2026-10-13 19:42 CT",
+  "external_number": "+19134262554",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. No version of 'movers not showing up on time or damage to items' appears in the transcript.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during step 2.",
+    "value_days": "Rep offered Thursday at $204 vs Friday at $218 but presented it hourly ('$204 per person' confusion, then clarified as per-two-movers rate). Then gave the total difference: 'for six hours on a Friday it's gonna be $1,308 for Thursday, it's $1,224 so kinda like less than $100 difference.' Customer declined the cheaper day. No explicit flexibility ask \u2014 rep pivoted to 'we do have that available for Friday.'",
+    "rate_lock_then_ask": "Rate lock and no deposit mentioned first: 'we do not have any cancellation fees, actually we do not require any deposit, nor do we need any, like, credit card info upfront.' Then asks plainly: 'if you guys would like to get this moved scheduled' \u2014 not framed as 'Would you like our help with your move?' but functionally the same ask, unsoftened."
+  },
+  "top_strength": "Jules delivered the no-deposit and rate-lock commitment clearly before closing, giving the customer an easy yes, and then booked the move without a built-in out.",
+  "coaching_note": "Step 2 \u2014 the two-concerns question was never asked, and no probing for the customer's actual concerns happened before jumping into estimate and pricing details; add the concerns check as the opening move to understand what matters to Emily before leading with hourly rates."
+}

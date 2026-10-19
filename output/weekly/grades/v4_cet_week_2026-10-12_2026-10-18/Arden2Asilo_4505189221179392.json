@@ -1,0 +1,32 @@
+{
+  "call_id": "4505189221179392",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 8.2,
+  "datetime_ct": "2026-10-15 14:31 CT",
+  "external_number": "+17135914100",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 16,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Before we proceed on that we talked to a lot of people and most of them have one or two concerns either the movers are not showing up on time or the damage or there's going to be damaged. So there are items are any of this your concern?",
+    "two_layers_deep": "Customer raised damage concern and light furniture concern; rep acknowledged with 'Mm-hmm I see, well, you don't have to worry, ma'am, we got you on that' and pivoted immediately to promises without probing deeper into what damage scenarios worried her or what preparation steps she'd taken.",
+    "value_days": "No mention of day selection, pricing variation by day, or date flexibility offered.",
+    "rate_lock_then_ask": "Rep closed with 'I'm gonna go ahead and send you your confirmation email' and 'Thank you ma'am for the time' with no rate-lock language, no deposit statement, and no explicit ask for the business."
+  },
+  "top_strength": "Arden delivered both promises (On-Time Guarantee with correct terms and No Worries Damage Coverage at $2,000 with no deductible) fully and clearly, addressing the customer's primary concern about damage.",
+  "coaching_note": "You never asked for the business or mentioned rate lock / no deposit; the call ended with a transactional close. Go back to step 7 and practice the explicit ask: 'Would you like our help with your move?' followed by booking confirmation if she says yes."
+}

@@ -1,0 +1,34 @@
+{
+  "call_id": "5663780441464832",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 16.8,
+  "datetime_ct": "2026-10-13 17:43 CT",
+  "external_number": "+14697330498",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 54,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics probing without asking about concerns like reliability or damage.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer at step 2.",
+    "value_days": "Rep did not address value days, cheaper day options, or date flexibility. Only asked 'You looking to move on a weekday, a weekend?' without follow-through on pricing differences.",
+    "rate_lock_then_ask": "Rep said 'I'll send everything over an email' and 'If you can give us a call of course or you can also reply to the email' but never explicitly asked for the business. No rate lock or no-deposit language. Rep treated this as a quote-send call rather than a close attempt."
+  },
+  "top_strength": "Jules gathered comprehensive logistics details efficiently \u2014 square footage, layout, bedroom count, item inventory (bed types, appliances, dressers, couch), box count, destination addresses and unit sizes \u2014 establishing a clear picture for accurate pricing.",
+  "coaching_note": "This call skipped the two critical steps that close sales: never asked about customer concerns (step 2) or delivered the On-Time Guarantee and Damage Coverage promises (step 3), and abandoned the ask entirely \u2014 you handled this as a quote-send call, not a sales call. Restart with the two-concerns question right after the quid pro quo, deliver both promises before probing, and end with an explicit ask for the business rather than defaulting to email."
+}

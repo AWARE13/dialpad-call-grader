@@ -1,0 +1,31 @@
+{
+  "call_id": "5390776916549632",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 12.8,
+  "datetime_ct": "2026-10-15 15:00 CT",
+  "external_number": "+13614020416",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 0,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 33,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "I talked to a lot of people everyday so they have a couple of concerns you know drivers not arriving on time, things getting damaged. Any of these concerns of yours",
+    "two_layers_deep": "Customer answered 'No' to both concerns; rep accepted without follow-up probing.",
+    "value_days": "Rep checked availability for Sunday but never offered it as a cost savings or discussed Value Days pricing structure. Customer ultimately stayed on Monday.",
+    "rate_lock_then_ask": "Rep stated the On-Time Guarantee and No Worries Damage Coverage but never mentioned rate lock, no deposit, or asked 'Would you like our help with your move?' The call ends with customer confirming email recheck rather than explicit booking ask."
+  },
+  "top_strength": "Chauntelle gathered detailed logistics thoroughly, including the two-apartment destination complication, and documented special handling notes (bed frame, desks) clearly for the crew.",
+  "coaching_note": "This call skipped the entire pricing and estimate step (step 5) and never asked for the business explicitly (step 7)\u2014quotes and commitments were never stated, so there is no sale to confirm despite good detail work earlier."
+}

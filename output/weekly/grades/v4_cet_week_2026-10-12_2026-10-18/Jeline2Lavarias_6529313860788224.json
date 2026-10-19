@@ -1,0 +1,41 @@
+{
+  "call_id": "6529313860788224",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 9.1,
+  "datetime_ct": "2026-10-13 17:18 CT",
+  "external_number": "+15126996396",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 39,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep: 'just to confirm your move date, October 16th Friday' and 'Let me just pull up your profile here Matthew' \u2014 name obtained from inbound caller ID and used throughout.",
+    "quid_pro_quo": "No framing present. Rep proceeds directly into profile confirmation with no time-boxed offer or promise of a dependable quote.",
+    "two_concerns_question": "Never asked. Rep moves straight into logistics probing without asking about movers showing up on time or damage to items.",
+    "concern_led_opening_and_logistics": "Rep gathers pickup address, property type (two-story townhome), bedroom count (three), parking (driveway, tight). Asks about special items (workout equipment, piano, safe, valuables, appliances) and storage unit details. However, does not open with 'What items are you most concerned about?' \u2014 goes directly to the checklist.",
+    "packing_and_box_count": "Box count asked: 'normally for a 1400 square feet that we see about 45 to 55 boxes. Do you think you would fall within that range?' Customer confirms ~10 boxes. Packing not asked \u2014 no 'Would you like us to pack your items into boxes for you?'",
+    "pricing_framing": "Fee transparency only: 'we do have a travel fee of $75 but that's only a one time fee' and 'no hidden fees of any type.' Missing pricing contrast (hourly vs. all-inclusive comparison), Cameron's no-notes line, and the not-a-guess commitment. Pricing framing is incomplete.",
+    "estimate_anchor": "Rep provides range and personalization: 'I'm actually thinking that this could only finish between five hours to six hours' and 'So the estimated cost is between $1,175 to $1,395.' Anchored to prior move history and inventory.",
+    "value_days": "Never mentioned. No discussion of day-of-week pricing or flexibility.",
+    "prep_and_temperature_check": "Not present. No Save Your Ass framing about preparation being the biggest factor, and no 'How do you feel about that?' with silence.",
+    "final_concerns_check": "Not asked. Rep says 'Do you have any questions before I let you go?' \u2014 this is a throwaway questions-check, not a concerns-check.",
+    "rate_lock_then_ask": "Never asked for the business. No mention of rate lock, no deposit commitment, no 'Would you like our help with your move?' \u2014 call ends with a quote email offer."
+  },
+  "top_strength": "Jeline gathered logistics comprehensively and built a personalized estimate range anchored to the customer's prior move history, showing attentiveness to context.",
+  "coaching_note": "This call skipped the core value-building steps: no two-concerns question to surface what matters, no Two Promises to address reliability and damage, no rate-lock or explicit ask for the business \u2014 the rep quoted and sent an email instead of closing."
+}

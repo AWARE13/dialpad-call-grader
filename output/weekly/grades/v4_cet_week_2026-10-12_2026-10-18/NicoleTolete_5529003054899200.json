@@ -1,0 +1,38 @@
+{
+  "call_id": "5529003054899200",
+  "rep_name": "Nicole Tolete",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 12.9,
+  "datetime_ct": "2026-10-12 16:07 CT",
+  "external_number": "+19794509045",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 10,
+  "total_score": 72,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NOT ASKED. Rep skipped this entirely after the quid pro quo and moved straight to contact info and logistics probing.",
+    "two_layers_deep": "N/A - no concerns were raised because the two-concerns question was never asked.",
+    "value_days": "NOT ADDRESSED. Rep gave the estimate ($555-$777) for Friday October 30th with no mention of value days or cheaper alternative days.",
+    "rate_lock_then_ask": "Nicole: 'to secure a spot there's no deposit required if you have to reschedule or cancel no fees for that either and would you like our help with your move?' \u2014 Rate lock and no deposit mentioned before the ask.",
+    "promises_delivered": "Nicole delivered the No Worries Damage Coverage ($2,000 per move to repair, replace or reimburse for any accidental damages) and mentioned the On-Time Guarantee (if we cannot make it in the time window we immediately start discounting money of your final bill), but the On-Time Guarantee terms were incomplete \u2014 she did not specify the $50 off first hour then $25 every half hour structure. No permission lead-in asking before sharing these.",
+    "estimate_anchor": "Nicole: 'I estimate your move to take just within our minimum two and a half to three and a half hours with two movers and one truck, and it's good to budget around $555 to $777.' This gives a range anchored to the customer's specific move (first floor storage to 21st floor apartment with reserved elevator), but includes no personalization to concerns or prep level.",
+    "pricing_framing": "Nicole explained the hourly rate ($222/hour for two movers and one truck) and listed inclusions (fuel, truck, taxes, insurance, wraps, bands, tools). She mentioned no hidden fees and the 2.5-hour minimum in 15-minute increments. However, she did not contrast this against competitor hourly models with add-ons, did not use Cameron's no-notes line, and addressed fee transparency reactively (in response to customer questions) rather than proactively upfront.",
+    "prep_and_temperature_check": "NOT PRESENT. Nicole never framed preparation as the biggest factor in move duration, and never asked 'How do you feel about that?' or any temperature check with silence."
+  },
+  "top_strength": "Nicole executed thorough logistics probing, gathering all necessary details about both locations, floor levels, elevator access, distances, item inventory, and special considerations (arcade machine, mirror, couch) without missing material information.",
+  "coaching_note": "The two-concerns question must come first in step 2, before any logistics probing \u2014 it sets the entire call frame and drives all follow-up. Skipping it leaves the customer's real concerns unheard and unaddressed, and the promises in step 3 land with no context."
+}

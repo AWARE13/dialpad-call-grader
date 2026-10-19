@@ -1,0 +1,34 @@
+{
+  "call_id": "5961068367880192",
+  "rep_name": "Brianne Newbro",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 9.5,
+  "datetime_ct": "2026-10-12 17:26 CT",
+  "external_number": "+17133042536",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 10,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NEVER ASKED \u2014 rep opened directly with logistical questions about the prior move and the extra stop",
+    "two_layers_deep": "NOT APPLICABLE \u2014 no concerns were raised by the customer in step 2 because step 2 never happened",
+    "value_days": "NEVER ADDRESSED \u2014 rep gave a range (3-4 hours at $576-$768) but never mentioned cheaper days or asked about date flexibility beyond the customer's own uncertainty",
+    "rate_lock_then_ask": "For the size of a move again there's no deposit required to get on our schedule. And like I said earlier, there's no charges or fees to cancel or change the date if you need to. [Then:] I've got you on the schedule for that. And then I'm gonna go ahead and send you a confirmation email, it'll go over everything we discussed",
+    "pricing_framing_partial": "no need to take notes. I will send everything over via email [Cameron's no-notes line present; but missing pricing contrast and fee transparency upfront]",
+    "no_quid_pro_quo": "Rep did not frame the call with time-boxed ask + promise of dependable quote at the open; jumped straight into logistics after a soft 'do you have a few moments'"
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details in logical order (prior move, special items, addresses, property type, room count, parking/access challenges, box count, extra stop) and confirmed multiple pieces of information, making the estimate accurate and actionable.",
+  "coaching_note": "Step 2 is completely missing \u2014 never asked the two-concerns question or any open-ended probe for what matters most to Alex about this move; this skips the step that should have surfaced her concerns about the access challenges and the extra stop, and meant the rest of the call had no foundation in her actual worry."
+}

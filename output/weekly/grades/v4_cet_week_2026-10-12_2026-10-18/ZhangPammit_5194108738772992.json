@@ -1,0 +1,31 @@
+{
+  "call_id": "5194108738772992",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 21.5,
+  "datetime_ct": "2026-10-13 16:39 CT",
+  "external_number": "+12108549625",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 10,
+  "total_score": 78,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "I just wanted to let you know that we talked to a lot of people everyday and most of them have one or two concerns either the movers are not showing up on time or damage to their items are either of those or concern for you.",
+    "two_layers_deep": "Customer raised damage concern; rep reflected it back ('What I'm hearing is that you're more on concern with regards to the damage of the items') but did not ask a second layer follow-up like 'tell me more about that' before pivoting to the promises.",
+    "value_days": "No mention of value days, cheaper days, or date flexibility relative to pricing. Customer already booked Saturday; rep did not explore whether a different day would cost less.",
+    "rate_lock_then_ask": "There's no deposit required no risk and securing your spot in case if you wanted to reschedule or to cancel then there's no fees for that either... Would you like me to lock that in for you for both of the dates?"
+  },
+  "top_strength": "Rep delivered both promises in full (On-Time Guarantee with specific dollar amounts and No Worries Damage Coverage with $2,000 cap and no deductible) and gathered comprehensive logistics details across three locations with floor counts, access concerns, and item specifics.",
+  "coaching_note": "After the customer names a concern in step 2, pause and go two layers deep with 'tell me more about that' before moving to the promises\u2014a single reflection and pivot skips the critical discovery that builds trust and shapes the solution."
+}

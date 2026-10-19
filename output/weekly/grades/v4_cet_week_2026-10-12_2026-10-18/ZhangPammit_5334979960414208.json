@@ -1,0 +1,32 @@
+{
+  "call_id": "5334979960414208",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 11.0,
+  "datetime_ct": "2026-10-16 18:27 CT",
+  "external_number": "+13615372496",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 16,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "So we talked to a lot of people everyday and most of them have one or two concerns either the movers are not showing up on time or damage to their items or either of those a concern for you.",
+    "two_layers_deep": "Customer: 'No, well damage on my items, I guess. But no, not really.' Rep: 'Okay. Really. Okay. So from what I'm hearing, is that, it's not really a concern but of course, you don't want to damage your items, is that right?' \u2014 Rep stopped after one follow-up instead of digging deeper with 'tell me more about that.'",
+    "value_days": "Rep never asked about date flexibility or offered alternative days at lower cost. Saturday November 14th was accepted without exploring whether moving on a different day could save money.",
+    "rate_lock_then_ask": "Rep gave pricing explanation and estimate ($1,110 for 5 hours), then said 'I'll send you a the code so in case if you are interested, then just feel free to let us know.' Never explicitly asked 'Would you like our help with your move?' and never mentioned rate lock or no deposit policy."
+  },
+  "top_strength": "Rep collected comprehensive logistics details (both addresses, floor levels, access, no heavy items, box count) and delivered a clear hourly rate structure with transparent all-inclusive pricing and 15-minute increment prorating.",
+  "coaching_note": "You ended the call without asking for the business \u2014 rep never said 'Would you like our help with your move?' and never mentioned rate lock or deposit terms, leaving the close entirely to the customer to initiate follow-up."
+}

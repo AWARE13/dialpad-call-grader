@@ -1,0 +1,31 @@
+{
+  "call_id": "6417102299504640",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 14.6,
+  "datetime_ct": "2026-10-12 16:27 CT",
+  "external_number": "+18327663038",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep skipped the primary opener and jumped straight into logistics from the customer's volunteered concern about the bed reassembly.",
+    "two_layers_deep": "Rep asked multiple follow-up questions on the bed concern: 'And what was his name again?' 'Yeah, what kind of bed is it?' Dug into details about the king bed with headboard and drawers, the screws, and the need for Elias to be present or available via FaceTime. Shows genuine probing depth.",
+    "value_days": "Rep mentioned: 'Our value days are Monday through Thursday and that's usually like the $19,192 rate.' Then gave Monday rate as $192 vs Friday's $204. But the saving was given as an hourly rate difference ($12/hr), not a total dollar amount. Asked about date flexibility: 'Do you have flexibility in your dates at all?' Partial execution.",
+    "rate_lock_then_ask": "No rate lock mentioned. No deposit mentioned. No explicit ask for the business ('Would you like our help with your move?'). Rep booked the customer on Monday but never asked for the business; the booking was conditional on finding Elias and came from rep initiative, not from a close."
+  },
+  "top_strength": "Brianne went two layers deep on the customer's bed-assembly concern, gathering specific details (Elias Tobar, king bed with drawers, screws available, FaceTime option) and promised branch manager follow-up, showing genuine service recovery instinct.",
+  "coaching_note": "You skipped the two-concerns question entirely and never delivered the Two Promises (On-Time Guarantee and No Worries Damage Coverage), both of which belong early in a repeat customer's call; you also never asked the explicit closing question 'Would you like our help with your move?' before taking the booking."
+}

@@ -1,0 +1,32 @@
+{
+  "call_id": "5813196525707264",
+  "rep_name": "Joanna Ballon",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 13.9,
+  "datetime_ct": "2026-10-18 19:32 CT",
+  "external_number": "+15012583307",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talk to a lot of customers everyday and some of their concerns are movers not arriving on time or damages to their Adams or any of these or concerns as well.",
+    "two_layers_deep": "Customer says timing is most important and wants to leave early. Rep responds: 'Okay' and 'I see. I understand sir. You're driving the truck.' No follow-up ask for more detail or silence held.",
+    "value_days": "No mention of Value Days, day-of-week pricing, or date flexibility at any point.",
+    "rate_lock_then_ask": "Rep never mentions rate lock, deposits, or asks for the business. Call ends with 'I'll send it to your email shortly' and no explicit ask for booking."
+  },
+  "top_strength": "Joanna successfully gathered the customer's name and used it, established a two-concerns opener early, and disclosed pricing structure with transparency (hourly rate, all-inclusive fees, $2,000 damage coverage, 2.5-hour minimum in 15-minute increments).",
+  "coaching_note": "After the customer named timing as a concern, Joanna acknowledged but did not dig deeper with follow-up questions\u2014she moved to logistics instead of going two layers deep on what 'timing' meant to him; and critically, she never asked for the business or mentioned rate lock, leaving the call unasked-for and the customer unbooked despite having a quote."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "5559027590012928",
+  "rep_name": "Jules Nicolas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 7.2,
+  "datetime_ct": "2026-10-13 21:50 CT",
+  "external_number": "+16183341499",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 41,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Customer mentioned divorce context ('going through divorce') but Jules never probed concerns systematically.",
+    "two_layers_deep": "No follow-up on the divorce concern or any other customer concern raised.",
+    "value_days": "Jules quoted 8:30-9:00 AM start but never offered Value Days or asked about date flexibility for cheaper alternatives.",
+    "rate_lock_then_ask": "No rate lock, no deposit statement. Jules moved straight to scheduling with 'I'll get this scheduled we're going to be arriving around 8:30 to nine in the morning tomorrow' and never asked 'Would you like our help with your move?' Kurt booked because he needed the service urgently, not because Jules asked for it."
+  },
+  "top_strength": "Jules quickly confirmed availability, gathered all essential logistics (addresses, furniture inventory, wardrobe box count, fragile items, story count), and delivered a concrete estimate with materials cost range, enabling an immediate booking on a time-sensitive move.",
+  "coaching_note": "Jules skipped the entire discovery bookend (step 2's two-concerns question and the need to understand what actually worries this customer) and went straight to logistics, missing the chance to connect the promises (on-time guarantee, damage coverage) to what matters most to Kurt, especially given the emotional context of the divorce."
+}

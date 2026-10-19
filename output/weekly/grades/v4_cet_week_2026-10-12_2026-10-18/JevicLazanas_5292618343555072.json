@@ -1,0 +1,36 @@
+{
+  "call_id": "5292618343555072",
+  "rep_name": "Jevic Lazanas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 9.1,
+  "datetime_ct": "2026-10-13 16:23 CT",
+  "external_number": "+19729559440",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 65,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked": "Well, let me go ahead and check for that but may I know who I'm speaking with please.",
+    "name_used_only_once": "Can I have your, can I have your email address, Jen? [using informal variant, never used again]",
+    "quid_pro_quo": "None present",
+    "two_concerns_question": "Not asked at any point",
+    "promises_delivered": "No On-Time Guarantee or No Worries Damage Coverage mentioned",
+    "concern_led_opening": "Not present; rep moved directly to demographics (date, address, size) without asking about items of concern",
+    "packing_and_box_count": "Neither asked",
+    "walkthrough_routing": "Rep confirms: 'I'm searching for an available person to do the walkthrough right now' and schedules the walkthrough for later; call ends with 'we'll get in touch with you very soon sir' regarding the virtual walkthrough appointment"
+  },
+  "top_strength": "Rep efficiently gathered all necessary address and property details (4100 sq ft, 4 bedrooms, 1 story, both origin and destination info) to set up the virtual walkthrough and created the customer profile while holding the line.",
+  "coaching_note": "On a 4100 sq ft move that routes to walkthrough, use the first few minutes to ask about the customer's concerns and deliver both promises (On-Time Guarantee and No Worries Damage Coverage) before routing to the walkthrough scheduler \u2014 the Two Promises step happens before probing on the v4 card and still scores on walkthrough calls."
+}

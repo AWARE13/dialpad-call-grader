@@ -1,0 +1,33 @@
+{
+  "call_id": "4744703965437952",
+  "rep_name": "Nicole Tolete",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 11.3,
+  "datetime_ct": "2026-10-16 16:56 CT",
+  "external_number": "+18322591052",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 10,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. The call jumps directly into logistics after confirming availability and mentioning the minimum.",
+    "two_layers_deep": "N/A \u2014 no concerns were surfaced because the two-concerns question was never asked.",
+    "value_days": "Not addressed. Nicole quoted Tuesday 1:30 PM without offering any comparison to other days or framing it as a value day.",
+    "rate_lock_then_ask": "Nicole said 'There's no deposit if you have to reschedule or cancel, no fees for that, either' and then asked 'will that work for you?' \u2014 this is the rate lock (no deposit) followed by confirmation, though not an explicit 'Would you like our help' ask. Later she says 'Okay, awesome, let me go ahead and create a approval for you' which functions as the close."
+  },
+  "top_strength": "Nicole gathered all the logistics details (addresses, floor count, elevator access, item count, box estimate, bed disassembly need, walking distances) thoroughly and confirmed every booking detail at the end, securing a full confirmation with name, email, phone, and addresses.",
+  "coaching_note": "The two-concerns question was skipped entirely \u2014 you moved straight into quoting without understanding what matters most to Laura. Adding that question early would have surfaced her real priorities before pricing, and gave you the opportunity to anchor the On-Time Guarantee and No Worries Damage Coverage to her specific concerns."
+}

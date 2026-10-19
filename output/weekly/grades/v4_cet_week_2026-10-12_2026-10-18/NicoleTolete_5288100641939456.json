@@ -1,0 +1,32 @@
+{
+  "call_id": "5288100641939456",
+  "rep_name": "Nicole Tolete",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 18.1,
+  "datetime_ct": "2026-10-13 15:09 CT",
+  "external_number": "+15126533554",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 2,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 33,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep never asked about concerns like movers showing up on time or damage to items.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer at step 2.",
+    "value_days": "Not addressed. No mention of cheaper days or date flexibility pricing.",
+    "rate_lock_then_ask": "Never asked for the business. Rep confirmed the booking details but never asked 'Would you like our help with your move?' The ask was passive: the customer simply accepted the Saturday October 17th date that rep suggested, and no explicit close was made."
+  },
+  "top_strength": "Nicole used the customer's name (Katie) throughout the call and demonstrated strong patience and empathy when managing a complex multi-stop, multi-truck logistics problem, ultimately securing the booking.",
+  "coaching_note": "This call skipped the entire sales framework (no concerns check, no promises, no probing for details, no pricing framing, no temperature check, no explicit close) because Nicole treated it as a logistics problem-solve rather than a quote call \u2014 but since a quote was provided and a booking made, the framework steps should have been integrated to establish value and confidence before the complex logistics discussion."
+}

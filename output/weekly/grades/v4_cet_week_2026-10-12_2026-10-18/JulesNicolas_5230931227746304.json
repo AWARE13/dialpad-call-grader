@@ -1,0 +1,33 @@
+{
+  "call_id": "5230931227746304",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 7.2,
+  "datetime_ct": "2026-10-15 20:48 CT",
+  "external_number": "+12145048155",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Customer raised concerns about bed breakdown and tool availability early ('do your people break down like the bed and then put it back together'), but Jules never asked the two-concerns framing.",
+    "two_layers_deep": "N/A \u2014 no concerns were deliberately elicited by rep; customer volunteered concern about prior company and tools.",
+    "value_days": "Not addressed. Jules quoted Saturday afternoon without exploring date flexibility or offering a cheaper day alternative.",
+    "rate_lock_then_ask": "Rate lock not mentioned, but the ask was clean: 'if you want I can certainly get you scheduled right now for Saturday. Do you want to get on schedule?' Customer booked immediately."
+  },
+  "top_strength": "Jules confirmed all critical booking details (both addresses, floor/elevator info, item list, arrival window, phone contact protocol) and secured the booking with a clear, unsoftened ask.",
+  "coaching_note": "Jules jumped straight to pricing and booking without ever asking the two-concerns question, running probing, or delivering the Two Promises (On-Time Guarantee and No Worries Damage Coverage) \u2014 the card's first three steps that set up trust before the estimate."
+}

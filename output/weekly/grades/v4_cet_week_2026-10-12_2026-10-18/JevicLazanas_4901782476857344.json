@@ -1,0 +1,36 @@
+{
+  "call_id": "4901782476857344",
+  "rep_name": "Jevic Lazanas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 5.3,
+  "datetime_ct": "2026-10-13 20:16 CT",
+  "external_number": "+14696786939",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 2,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked": "may I know who am I'm speaking with please",
+    "name_used": "Alrighty, so just to confirm, your good callback number is, 469-678-6939. Alright, thank you very much and Ross, is that it?",
+    "quid_pro_quo": "none present",
+    "two_concerns_question": "not asked",
+    "promises_delivered": "none \u2014 no On-Time Guarantee or No Worries Damage Coverage mentioned",
+    "packing_mentioned": "So, yeah, we can definitely, you know, help you with the packing services as well",
+    "concern_led_opening": "not asked; rep moved straight to walkthrough routing",
+    "walkthrough_routing": "for the type of move you have we need to conduct a virtual walkthrough. So, may I know on when will you be available for a virtual walkthrough? Are you available today?"
+  },
+  "top_strength": "Rep successfully identified the move as requiring a virtual walkthrough and cleanly routed to scheduling it without pricing discussion, confirming time availability and next steps.",
+  "coaching_note": "Before routing to walkthrough, ask the two-concerns question and deliver both promises (On-Time Guarantee and No Worries Damage Coverage) \u2014 these belong in step 3, before probing, and should land even on walkthrough calls."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "5897353511608320",
+  "rep_name": "Arden 2Asilo",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.7,
+  "datetime_ct": "2026-10-15 14:06 CT",
+  "external_number": "+18475332509",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics probing after asking for name and move date.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer at any point.",
+    "value_days": "Never addressed. Rep did not identify the day as a Best/Good/Standard Value Day or offer date flexibility savings.",
+    "rate_lock_then_ask": "Rep stated 'I still have availability for Saturday 24th of October. I still have two trucks available, no deposit required.' but then said 'would you like to be set on the books?' \u2014 softened into an out ('I'm gonna send the estimate to my husband first and then I'll call back') rather than a plain ask for the business."
+  },
+  "top_strength": "Arden gathered comprehensive logistics details (addresses, property types, floors, room counts, special items like safe and garage contents, parking) and asked both packing willingness and box count before giving the estimate.",
+  "coaching_note": "The Two Concerns question (step 2) was never asked, and the call went straight into logistics probing \u2014 this is the primary miss on the v4 card and the bookend moment to anchor the entire conversation around what matters to the customer."
+}

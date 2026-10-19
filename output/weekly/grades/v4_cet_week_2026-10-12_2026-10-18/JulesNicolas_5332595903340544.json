@@ -1,0 +1,33 @@
+{
+  "call_id": "5332595903340544",
+  "rep_name": "Jules Nicolas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 6.9,
+  "datetime_ct": "2026-10-12 20:12 CT",
+  "external_number": "+18179089233",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 0,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 4,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 34,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep jumps directly to pricing without exploring customer concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer because the two-concerns question was never asked.",
+    "value_days": "Never addressed. Rep offered Friday/Saturday packing-move split but did not identify the day's value tier or offer a cheaper alternative day with dollar savings.",
+    "rate_lock_then_ask": "Rate lock mentioned: 'we do not require any deposit nor do we have any rescheduling fees'. But the ask for the business was never explicitly given \u2014 rep said 'whenever you're ready to get it scheduled let us know' and customer responded 'I'll do that. Okay let me give you a callback once I designed,' ending in 'Sounds no problem. I'll send everything over in an email.' Rep accepted a callback instead of closing on the call."
+  },
+  "top_strength": "Jules delivered detailed pricing transparency, breaking down hourly rates ($103/hr), material costs ($250\u2013$350 for boxes), trip fees ($115), and crew sizes (2 for packing, 4+2 trucks for moving), with clear itemization of what is and is not included.",
+  "coaching_note": "Open with the customer's name and use it; ask the two-concerns question before pricing; deliver the two promises (On-Time Guarantee and No Worries Damage Coverage) early to build trust; and close with an explicit, unsoftened ask for the business rather than accepting a callback."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "4748348578635776",
+  "rep_name": "Nicole Tolete",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 18.1,
+  "datetime_ct": "2026-10-13 15:57 CT",
+  "external_number": "+14802425572",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 7,
+  "step7_ask_for_the_business": 2,
+  "total_score": 65,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly to logistics probing after the quid pro quo.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer in step 2.",
+    "value_days": "Rep identified that Sunday (Nov 8) costs $196/hr and Saturday costs $200/hr, offering specific hourly rates but did not frame as a total dollar savings or ask explicitly about date flexibility. Customer voluntarily mentioned Sunday availability; rep did not proactively offer it as a value play.",
+    "rate_lock_then_ask": "Rep said 'To secure a spot, there's no deposit required. If you have to reschedule or cancel no fees for that either. And would you like me to get you on the schedule?' This includes rate lock + no deposit but the ask is vague ('get you on the schedule') and the customer did not book. Later the rep only sent an email and asked the customer to call back \u2014 no clear close."
+  },
+  "top_strength": "Nicole gathered comprehensive logistics details methodically (both addresses, floor levels, elevator access, proximity to stairs, parking, furniture specifics, box count) and delivered both core promises (On-Time Guarantee and No Worries Damage Coverage at $2,000 with no deductible) clearly within the first half of the call.",
+  "coaching_note": "Step 2 is missing entirely \u2014 Nicole never asked the Adam Boyd two-concerns question ('movers not showing up on time or damage to their items') before diving into probing, which means she lost the chance to listen and reflect back what the customer actually cared about; additionally, she never asked 'How do you feel about that?' after the estimate, did not close the ask loop with a plain 'Would you like our help with your move?', and ended by asking the customer to call back rather than booking on the call itself."
+}

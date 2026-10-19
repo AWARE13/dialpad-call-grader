@@ -1,0 +1,33 @@
+{
+  "call_id": "5449241825419264",
+  "rep_name": "Nicole Tolete",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 6.7,
+  "datetime_ct": "2026-10-13 21:45 CT",
+  "external_number": "+15129625817",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 0,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 37,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep launched straight into pricing without first establishing customer's top concerns (on-time arrival, damage protection, etc.).",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during the call.",
+    "value_days": "Rep identified the pricing difference between Friday ($555 minimum) and Monday-Thursday ($520 minimum), and offered the lower rate as a total dollar amount ($35 savings). Asked about flexibility: 'let me call her and see if we can do it tomorrow and see is there, and if we can't do it tomorrow and then Friday would be more than 500 and.' Flexibility was discussed but awkwardly.",
+    "rate_lock_then_ask": "Rate lock mentioned passively ('no deposit record if you have to reschedule or cancel, no fees for that either') but no explicit rate lock guarantee. No clear ask for the business \u2014 call ended with 'I'll call you back' without Nicole asking 'Would you like our help with your move?' or equivalent."
+  },
+  "top_strength": "Nicole clearly explained the pricing structure (hourly rate, minimum, what's included, $2,000 damage coverage) and surfaced the Value Days savings opportunity as a total dollar figure before the customer could decide on a date.",
+  "coaching_note": "Start every call by getting the customer's name and establishing their top concerns using the two-concerns question ('movers showing up on time or damage to items') before jumping into pricing \u2014 this grounds the entire conversation in what actually matters to them."
+}

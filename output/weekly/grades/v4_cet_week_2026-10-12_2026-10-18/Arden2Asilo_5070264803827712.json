@@ -1,0 +1,33 @@
+{
+  "call_id": "5070264803827712",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 6.2,
+  "datetime_ct": "2026-10-12 15:55 CT",
+  "external_number": "+14698796380",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 7,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into pricing structure with no concern discovery.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised because the two-concerns question was never asked.",
+    "value_days": "Not addressed. Rep discussed the move spanning two days (Oct 26 with overnight stay) but never offered date flexibility or identified whether Oct 26 was a cheaper day than alternatives.",
+    "rate_lock_then_ask": "Rate lock: 'no deposit required sir. You only pay after everything is done.' Ask: 'Alright, so, sir I will be booking you for 8:30 to 9:00' \u2014 but customer rejected: 'Yeah, I wouldn't, I wouldn't book me. I'm still looking around at other places so, I'll call you back if I wanna, if I want to go with you guys.'"
+  },
+  "top_strength": "Arden delivered both damage coverage ($2,000, zero deductible, no fine print) and on-time guarantee ($50 off if late, $25 per half hour after) in clear, product-focused language during the estimate section.",
+  "coaching_note": "The call skipped the entire discovery process (steps 2 and 4) \u2014 no concerns were ever surfaced, no logistics were probed, and no packing or box count was discussed; start every call with the two-concerns question before moving to pricing, and gather details about the move itself."
+}

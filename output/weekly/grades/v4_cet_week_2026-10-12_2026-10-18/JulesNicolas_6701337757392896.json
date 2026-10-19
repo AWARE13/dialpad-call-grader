@@ -1,0 +1,33 @@
+{
+  "call_id": "6701337757392896",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 12.1,
+  "datetime_ct": "2026-10-12 17:30 CT",
+  "external_number": "+12144508127",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 3,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into probing without the two-concerns opener.",
+    "two_layers_deep": "No concerns were raised by the customer to follow up on, so N/A.",
+    "value_days": "Rep offered Wednesday, then when customer declined Wednesday, pivoted to Tuesday/tomorrow without mentioning savings or asking about date flexibility. Partial: offered a different day but no pricing contrast or explicit flexibility ask.",
+    "rate_lock_then_ask": "Rep said 'would you like to get this moved scheduled?' which is softened by the preceding context and never mentions rate lock or no deposit. Customer said yes but rep did not give clear rate lock / no deposit framing before the ask."
+  },
+  "top_strength": "Jules gathered detailed logistics (items, addresses, property specs, packing needs, box counts) and provided a specific, anchored estimate ($1,947 for 7-9 hours including trip fee and packing material range).",
+  "coaching_note": "Never ask the two-concerns question (movers showing up late, damage to items), never deliver the two promises (On-Time Guarantee and No Worries Damage Coverage), and never hold a genuine final concerns check \u2014 these are the three biggest gaps, and they cost ~45 points on the v4 card."
+}

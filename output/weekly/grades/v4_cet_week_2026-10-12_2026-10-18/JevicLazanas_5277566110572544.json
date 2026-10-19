@@ -1,0 +1,38 @@
+{
+  "call_id": "5277566110572544",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 7.1,
+  "datetime_ct": "2026-10-13 18:25 CT",
+  "external_number": "+14792365743",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 39,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing without identifying customer's two primary concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised or probed.",
+    "value_days": "Not addressed. No mention of day-of-week pricing, Value Days concept, or date flexibility beyond the customer's stated November timeframe.",
+    "rate_lock_then_ask": "Never asked for the business. Rep said 'I'll go ahead and send you an email and just reply for confirmation, okay?' \u2014 a handoff to email with no explicit ask and no rate lock or no-deposit statement.",
+    "quid_pro_quo": "Absent. No time-boxed framing or promise of a dependable quote before probing began.",
+    "promises": "Neither On-Time Guarantee nor No Worries Damage Coverage mentioned.",
+    "pricing_framing": "Only fee transparency: 'we charge you an hourly rate, no hidden fees' and '$204 per hour' and trip fee of $105. Missing the pricing contrast (competitors' hourly + add-ons vs. all-inclusive), Cameron's no-notes line, and the not-a-guess commitment.",
+    "final_concerns_check": "Not asked. Rep moved straight to sending email without asking 'What's still concerning you about this move?'"
+  },
+  "top_strength": "Rep gathered detailed logistics information (floor, elevator, walking distance, special items, box count, drive time, destination property type) with reasonable follow-up probing and confirmed key details accurately.",
+  "coaching_note": "Start every call with the quid pro quo framing (time-boxed promise + dependable quote), then ask the two-concerns question before any probing, and deliver both promises (On-Time Guarantee and No Worries Damage Coverage) while permission is still there \u2014 all three are missing from this call and are load-bearing for credibility and close rate."
+}

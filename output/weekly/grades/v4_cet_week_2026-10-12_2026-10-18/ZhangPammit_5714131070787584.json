@@ -1,0 +1,33 @@
+{
+  "call_id": "5714131070787584",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 12.7,
+  "datetime_ct": "2026-10-15 17:39 CT",
+  "external_number": "+15123486931",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talked to a lot of people everyday and most of them have one or two concerns. Either the movers are not showing up on time or damage to their items are either of those a concern for you.",
+    "two_layers_deep": "Customer said 'No' to both concerns, so no follow-up was needed or possible. This is N/A.",
+    "value_days": "Rep never addressed Value Days, day of week flexibility, or cheaper alternatives for Thursday the 29th.",
+    "rate_lock_then_ask": "And there's no deposit required no risk and securing your spot in case if you wanted to reschedule or to cancel then all you have to do is just simply give us a call at anytime. Would you like me to lock that in for you?"
+  },
+  "top_strength": "Rep delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full detail, terms, and clarity, and gathered comprehensive logistics details with a concern-led opening.",
+  "coaching_note": "Step 6 final concerns check was completely skipped\u2014rep moved straight to summary and goodbye without asking 'What's still concerning you about this move?' or a catch-all question, and Step 5's Save Your Ass prep framing and temperature check ('How do you feel about that?') were never delivered."
+}

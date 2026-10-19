@@ -1,0 +1,31 @@
+{
+  "call_id": "5479951242141696",
+  "rep_name": "Jules Nicolas",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 16.4,
+  "datetime_ct": "2026-10-15 14:23 CT",
+  "external_number": "+15125777411",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 70,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "you know what we talked to a lot of people everyday and most of them have one or two concerns usually, they're either worried that the movers are, you know, not gonna show up on time or the movers are gonna damage the items or any of these are concern for you",
+    "two_layers_deep": "tell me more about the issue with, with the mirror. So you mentioned, you want to, you know, wrap that you're gonna be you're wrapping that as well... So yeah, what I'm hearing is you had the mirror broken before and, and you're planning on wrapping that up",
+    "value_days": "We're gonna arrive around 8:30 to nine in the morning. Would that work for you? / Saturdays have a little bit is an, kind of like a more expensive hourly rate so the hour, the rate for Saturday is $230 instead of $208 for a weekday",
+    "rate_lock_then_ask": "I'll get you scheduled right now for Tuesday. We're gonna arrive around 8:30 to nine in the morning. Would that work for you?"
+  },
+  "top_strength": "Jules gathered a detailed, concern-led inventory and delivered a solid two-layer follow-up on the customer's primary concern (mirror damage), correctly summarizing what he heard and offering a concrete solution.",
+  "coaching_note": "Step 3 (Two Promises) was incomplete\u2014only damage protection was addressed; the On-Time Guarantee was never mentioned\u2014and the loop-close question was skipped entirely; Step 5 skipped the prep framing and temperature check, and the value days saving was mentioned as an hourly rate instead of a total dollar amount; Step 6 had no final concerns check; and Step 7 had no explicit booking ask or rate-lock framing before the arrival-time proposal."
+}

@@ -1,0 +1,34 @@
+{
+  "call_id": "4806146356191232",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 14.6,
+  "datetime_ct": "2026-10-14 13:52 CT",
+  "external_number": "+15622215588",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly to logistics probing without asking about concerns like on-time arrival or damage protection.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during step 2, because step 2 was never conducted.",
+    "value_days": "Never addressed. Rep did not identify which day tier the November 7 move falls into or offer any pricing flexibility based on date selection.",
+    "rate_lock_then_ask": "Rep never asked for the business. After quoting $3,520 and the customer said 'that's gonna be way out of budget,' rep said 'No problem sir. Thank you' and ended the call without attempting any close or asking if the customer wanted to book."
+  },
+  "top_strength": "Arden gathered comprehensive logistics details methodically \u2014 addresses, unit numbers, parking accessibility, itemization, box count, packing preference, and recognized the out-of-state routing issue to adjust the estimate accordingly.",
+  "coaching_note": "The two-concerns question (step 2) was never asked, bypassing the card's primary discovery moment entirely; additionally, no ask for the business was made when the customer declined the price, leaving money on the table and no path to continuation."
+}

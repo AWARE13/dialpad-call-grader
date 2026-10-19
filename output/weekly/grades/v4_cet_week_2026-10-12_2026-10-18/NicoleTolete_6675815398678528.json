@@ -1,0 +1,33 @@
+{
+  "call_id": "6675815398678528",
+  "rep_name": "Nicole Tolete",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 11.4,
+  "datetime_ct": "2026-10-16 19:03 CT",
+  "external_number": "+14752390370",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 2,
+  "total_score": 60,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Nicole never asked the two-concerns question. Customer stated 'No, not really' when Nicole asked 'do you have any specific concern or stresser about the moving process in general?' \u2014 an open-ended throwaway, not the prescribed two concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer.",
+    "value_days": "Nicole offered 'Sunday at twenty fifth' after the customer suggested 'twenty first or let me see the weekends' but never offered the savings as a dollar amount or asked about date flexibility. No value days framing applied.",
+    "rate_lock_then_ask": "Nicole said 'to secure a spot, there's no deposit record. If you have to reschedule or cancel no fees for that either. And would you like me to get you on the schedule?' \u2014 rate lock/no deposit came first, but the ask was softened immediately with 'if you're ready to book you, can just give us a, or you can reply to my email, or give us a callback' before the customer answered. The out was built in."
+  },
+  "top_strength": "Nicole gathered comprehensive logistics details (addresses, floors, parking options, furniture/item specifics, box count, TV size and box status) efficiently and systematically, and delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with clear terms.",
+  "coaching_note": "Ask the two-concerns question as written before moving into logistics probing \u2014 the customer never surfaced what they actually worry about, and Nicole moved straight into her checklist. This cost both bookends of step 2 and the entire value-days conversation in step 5."
+}

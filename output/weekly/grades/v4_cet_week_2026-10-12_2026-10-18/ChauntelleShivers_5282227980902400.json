@@ -1,0 +1,33 @@
+{
+  "call_id": "5282227980902400",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 9.9,
+  "datetime_ct": "2026-10-16 15:34 CT",
+  "external_number": "+12025496818",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing without asking about concerns like on-time reliability or damage protection.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer during step 2.",
+    "value_days": "Rep offered Saturday, January 9th but never mentioned whether this was a value day, never offered an alternative cheaper day, and never asked about date flexibility to save money.",
+    "rate_lock_then_ask": "Rep said 'It is free to reserve the truck. It's also free to cancel the truck. If you need to move the date that's free as well. So we don't have any additional fees here. You actually don't pay for anything until after the move is completed. So did you want to at least go ahead and reserve the truck.' This includes rate lock language but frames the ask weakly as 'at least go ahead and reserve' rather than a direct 'Would you like our help with your move?' and the customer deflects to call back later."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details efficiently, covering addresses, unit numbers, floor access, parking challenges at both locations, furniture list, and packing needs with clear follow-up probing.",
+  "coaching_note": "You skipped the two-concerns question entirely\u2014ask it early to anchor the customer's real worries (on-time, damage) before moving into logistics, then deliver the two promises before the estimate."
+}

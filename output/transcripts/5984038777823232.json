@@ -1,0 +1,887 @@
+{
+  "call_id": "4710086919102464",
+  "lines": [
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:25:46.365907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Yeah.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:25:46.366330",
+      "type": "transcript"
+    },
+    {
+      "content": "Good afternoon, this is Joanna. How can I help?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:25:52.324907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:25:52.324907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:25:52.324907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:25:52.324907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:25:52.324907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:25:54.004907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:25:54.644907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Yes ma'am. I was calling to see if I can get an estimate on just on moving.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:25:55.366330",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "call_purpose",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:25:55.366330",
+      "type": "moment"
+    },
+    {
+      "content": "Of course, I'd be happy to help you out with that. If I may ask, may I have your name this address spoke.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:26:03.724907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "My name is Laina L-O-R-E-N-A.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:26:10.966330",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "ner",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:26:12.137330",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you, Laura. And when are you planning to do this room?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:26:15.124907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:26:15.564907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:26:16.524907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "This Saturday.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:26:18.766330",
+      "type": "transcript"
+    },
+    {
+      "content": "This Saturday which is the seventeenth. Okay, are you moving from a house, an apartment just to confirm within city mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:26:20.524907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "From an department. Yes, an apartment from a Tennessee.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:26:28.366330",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "ner",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:26:32.497330",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, got it. Thank you. In order for us to give you a more proper estimate, just need to ask some questions about them. It might take about ten to fifteen minutes if this is a good time. Okay, thank you. And Lorea may I also have your last name and your email?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:26:33.724907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Okay, yes, yes ma'am.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:26:43.366330",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "My last name is ova. My phone is my first.my last name.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:26:49.966330",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:26:55.924907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "@rocketmail.com.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:26:58.966330",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "email_address",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:26:58.966330",
+      "type": "moment"
+    },
+    {
+      "content": "Thank you. Just to confirm, the last name. Is Cordova with the V-C-O-R-D-O-V-A. Is that right? Okay. At rocket mail. Okay, perfect.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:27:01.924907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Correct, yes.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:27:07.966330",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you, one moment. Let's see. See here.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:27:13.324907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "One second.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:27:23.524907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Just bear with me it shows loading.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:27:26.524907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Let's see.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:27:34.924907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:27:37.204907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay. Yeah. I think I have a profile set up for you already. So it's the move from 3702 South Second Street 24414 Prem lane in fugere is that right? Okay, that works. Thank you and of course, Lorena, we speak with a lot of customers everyday and some of their concerns are either, movers not arriving on time or damages to their items or any of this or concerns as well.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:27:42.124907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:27:42.124907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Mm-hmm, yes.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:27:45.766330",
+      "type": "transcript"
+    },
+    {
+      "content": "address",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:27:48.004907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "postcode",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:27:50.164907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:27:51.084907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Correct, correct. Yes ma'am.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:27:52.966330",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:27:56.764907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:28:01.204907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Mm-hmm.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:28:01.966330",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:28:05.524907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Not necessarily.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:28:11.566330",
+      "type": "transcript"
+    },
+    {
+      "content": "I understand. Okay, but of course as we, as we go through the, the quotation I'm giving you. I'm gonna explain what are the other inclusions in terms of the services we offer. Okay? Now your apartment is a one bedroom, it's just on the ground floor and then you're moving to a storage, a 5x10 storage, which is on the ground floor as well. Is that correct?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:28:15.124907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Okay, okay.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:28:26.566330",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Okay.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:28:34.366330",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:28:36.364907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Correct.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:28:37.366330",
+      "type": "transcript"
+    },
+    {
+      "content": "That's perfect. Thank you and where the items we're moving for you. Is it just like, the typical bedroom, living room. Do you have a dining set as well outside furniture, extra office study garage we also need to move.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:28:38.524907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "No, it, it's actually, it should be an easy move. If it's like a, like a team of two people that show up, we, they can probably get that because it's the studio, it's 500 square feet, there is no dining room. There is no patio. Technically it's just two pieces of furniture that I need help moving into the storage. So it's a quick move. We could probably get that done all under an hour, probably.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:28:49.366330",
+      "type": "transcript"
+    },
+    {
+      "content": "I see.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:29:02.524907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I see. Okay, no worries. Thank you. So that's fine especially, it's just going ground to ground as our weight limit is about 500 pounds so I don't think we have anything more than that, so that should be fine and then you're good with packing, everything is all packed good to go or do you need help with packing as well?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:29:19.924907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Mm-hmm.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:29:22.366330",
+      "type": "transcript"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:29:22.644907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Mm-hmm.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:29:33.166330",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:29:36.124907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "No, packing it should all be good to go just to move the boxes.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:29:37.366330",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:29:42.004907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Thank you. And right now we're looking at $1,525 boxes in total.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:29:42.124907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:29:44.124907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Less than 25 boxes.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:29:46.966330",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. Okay, for now I just put twenty but if it's less than that, that's totally fine too. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:29:50.524907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Sounds good. Mm-hmm.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:29:55.966330",
+      "type": "transcript"
+    },
+    {
+      "content": "Thank you. Alright, so and how we work on our pricing as well. Lorena is was charged by the hour further services we offer. If we're going to do your move on Saturday it's $230 per hour for two men and a truck. That's all inclusive rates, like everything we need is already in that price taxes, insurance, credit card fees wrap to protect her. Adam. So, if you need help with this assembly, that's already part of the service too and we also include our no worries, damage coverage. Which would give you $2,000 coverage for any repair replacement reimbursement for any accidental damages. Also rest assured we don't take daily contract the workers we send you their names ahead of time and we have an on time guarantee we.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:29:57.124907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:30:01.004907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Mm-hmm.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:30:04.366330",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:30:06.804907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:30:19.484907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:30:24.484907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:30:29.084907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Mm-hmm.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:30:34.366330",
+      "type": "transcript"
+    },
+    {
+      "content": "Value your time. So we run late. We provide discounts for your move again. No hidden fees of any type. No credit card fees, no transportation fees, no disassemble fees. That's all inclusive of the price. If your dates are flexible, we can actually save it to $12 per hour. If you wanted, I mean, $20 per hour if you want to do it on a Sunday. But if Saturday is like the best day then definitely we still have availability for that day as well in the afternoon. Okay, now we for every move we just have a two and a half hour minimum. If we go over the minimum, we only charge and fifteen minute intervals and we only start the time once we arrive there and open the contract for you.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:30:42.124907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:30:49.964907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:31:00.004907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:31:02.644907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Okay.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:31:16.966330",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and of course, we stop the clock already once we have everything unloaded at the storage as well. So, if based on the information you've given me the number just estimating this move to be completed within the minimum. So, that's gonna be two and a half hours minimum cost of $575 if we do it on Saturday, and be saving about $50 if you're doing it on a Sunday, whichever works for you.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:31:24.724907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Mm-hmm.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:31:40.966330",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:31:42.324907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:31:46.644907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "I see. And you said, I'm sorry could you repeat the estimate amount.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:31:50.566330",
+      "type": "transcript"
+    },
+    {
+      "content": "Yup, it's 575 for Saturday and 525 for Sunday. So that's for two and a half hours, which is the minimum.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:31:55.324907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Alright.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:31:57.766330",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Yes, 2025.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:32:03.166330",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "And it's just another quick question cause I know that on the website, I put in the storage address if I did want to add one extra stop that's literally five minutes away from the storage. Does that add more to the amount?",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:32:14.566330",
+      "type": "transcript"
+    },
+    {
+      "content": "Yes ma'am.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:32:17.524907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Yes ma'am.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:32:22.924907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:32:26.524907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm, bye.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:32:28.924907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "question",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:32:29.657330",
+      "type": "moment"
+    },
+    {
+      "content": "The, it might add time, it just really depends on how long it's gonna take. So, if we go over the twenty and a half hours, we only charge in every fifteen minutes. So, just ask how long the move is gonna take is everything you have to pay if the guys would still be able to do it within the two and a half hours and that's everything you have to pay. If we, if that takes additional time then we just charge you based on how long it's gonna take as well in fifteen minutes in Charles, after the minimum.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:32:32.524907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:32:39.484907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:32:42.084907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:32:46.084907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Mm-hmm.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:32:55.366330",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:32:59.604907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "God, cause I feel like most of the time it will be spent driving to the other side of town versus the actual labor.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:33:02.566330",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:33:05.524907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "I agree, that's right. That's right. It depends on traffic as well. Yeah, I actually noticed cause like if we're driving like a car usually takes 3035 minutes. Put this as a truck usually takes more time so we can just a lot a little time for that as well if just in case, let's say for example this will take three hours. That's 575 to 690 so basically just depending on additional time after the minimum in fifteen minutes increments.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:33:09.124907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Right.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:33:12.457330",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Mm-hmm.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:33:18.766330",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Alright.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:33:21.766330",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Alright.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:33:27.766330",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Right.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:33:30.766330",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "I see. Okay. No, no, no. Okay, and what is the latest I can give you a yes, put me down for Saturday.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:33:40.366330",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:33:41.524907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:33:47.284907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm yeah, tomorrow as long as it's a day, at least a day before and but of course the availabilities are always changing. So this is depending on our availability as well right now. If we're doing it on Saturday, I have an arrival between, it looks like 1:00 PM and 3:00 PM in the afternoon already, we're already booked in the afternoon, but if you want to do a morning job then Sunday would be our best bet as well.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:33:51.724907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Tomorrow.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:33:55.366330",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Okay.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:33:57.766330",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Uh-huh.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:34:00.766330",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:34:09.204907",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Sunday. Okay, sounds good, and I can just give you a callback, correct? Do I need to speak to anybody in specific for the specific for this cause I want to keep this quote.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:34:19.966330",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:34:21.124907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Yes.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:34:24.724907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Yes anyone can assist you here once you call back or you can simply respond to the email that I'll be sending you as well after our call. So, whichever works for you that should be fun email or call but yeah, just give your email address and we'll be able to pull up the profile I created for you.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:34:28.924907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Okay, sounds good. I will move this over and then I'll give you guys a callback to see when I can book it.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:34:48.166330",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:34:52.924907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "action_item",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:34:54.257330",
+      "type": "moment"
+    },
+    {
+      "content": "Yup, sure. No problem. Yeah, but before now, as I mentioned, just in case you have that additional stuff I just quoted for two and a half three hours again at the end of the day you only pay for how long it's gonna take after the minimum. Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:34:57.124907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Gotcha. Yes, ma'am. Mm-hmm.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:35:09.766330",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. Thank you so much. Lorena just let us know if you're ready to go ahead with the booking. Have a good day. Mm-hmm bye.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-15T21:35:10.924907",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgMCy9buIrQkM",
+      "content": "Thank you. Yes ma'am. You too, bye-bye.",
+      "name": "Lorena Cordova",
+      "time": "2026-10-15T21:35:14.566330",
+      "type": "transcript"
+    }
+  ]
+}

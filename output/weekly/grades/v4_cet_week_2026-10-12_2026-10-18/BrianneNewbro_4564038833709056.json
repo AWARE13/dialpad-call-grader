@@ -1,0 +1,32 @@
+{
+  "call_id": "4564038833709056",
+  "rep_name": "Brianne Newbro",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 11.9,
+  "datetime_ct": "2026-10-16 18:44 CT",
+  "external_number": "+15126768989",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We do talk to several people a day and most customers have two concerns. One, the mover showing up on time or not on time for that matter and then damage to their items while being moved or any of those are concern for you today.",
+    "two_layers_deep": "Customer said 'I would see damage, it's about it.' Rep responded with damage coverage explanation but never asked a follow-up question like 'tell me more about that' to dig deeper into the concern.",
+    "value_days": "Rep said 'We do have our value days during the week. So hourly rates a bit cheaper during the week' and mentioned Monday at $208 vs Sunday at $210, but did not offer the saving as a total dollar amount or ask about date flexibility.",
+    "rate_lock_then_ask": "Rep never mentioned rate lock or a no-deposit guarantee, and never asked 'Would you like our help with your move?' The call ended with the rep saying she would reach out to her manager for a callback on a multi-stop move scenario."
+  },
+  "top_strength": "Brianne delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full detail and clarity early in the call, and gathered comprehensive logistics details despite the call's complexity with a roommate's move factored in mid-call.",
+  "coaching_note": "Step 2 required two layers deep on the damage concern the customer raised\u2014instead of explaining coverage, ask 'tell me more about that' and listen; Step 5 needed the Save Your Ass prep framing and 'How do you feel about that?' temperature check, which were completely absent; Step 7 never arrived because the call routed to a manager callback rather than asking for the business."
+}

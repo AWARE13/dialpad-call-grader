@@ -1,0 +1,34 @@
+{
+  "call_id": "5047099023204352",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 15.7,
+  "datetime_ct": "2026-10-16 16:03 CT",
+  "external_number": "+12103558907",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 7,
+  "total_score": 72,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "I just wanted to let you know that we talked to a lot of customers everyday and most of them have one or two concerns. Either the movers are not showing up on time or damage to their items or either of those or concern for you.",
+    "two_layers_deep": "Customer raised no concerns (said 'no, not really' to both), so this is N/A per rubric.",
+    "value_days": "No mention of day-of-week pricing, cheaper alternatives, or flexibility conversation.",
+    "rate_lock_then_ask": "Rep said 'We can be able to book your start as early as eight AM, eight AM to 8:30 where and there's no deposit record, no in your spot' but never asked 'Would you like our help with your move?' \u2014 rate lock/no deposit came first, but the explicit ask was never made. Customer said they wanted to get other quotes and call back, ending the call."
+  },
+  "top_strength": "Rep delivered both promises (On-Time Guarantee with specific dollar amounts and No Worries Damage Coverage with $2,000 coverage, no deductible, built into rate) in full recognizable form early in the call.",
+  "coaching_note": "Close the loop after the Two Promises step by asking 'Does that put those to rest?' \u2014 and ask the explicit close-to-business question 'Would you like our help with your move?' instead of letting the customer hang up on a 'call you back' without ever requesting their business."
+}

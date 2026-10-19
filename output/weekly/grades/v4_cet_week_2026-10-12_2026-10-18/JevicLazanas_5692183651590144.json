@@ -1,0 +1,33 @@
+{
+  "call_id": "5692183651590144",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 6.0,
+  "datetime_ct": "2026-10-12 17:41 CT",
+  "external_number": "+17708271039",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 3,
+  "step6_concerns_again": 0,
+  "step7_ask_for_the_business": 0,
+  "total_score": 22,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. No version of the two-concerns question appears anywhere in the call.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during step 2.",
+    "value_days": "Not addressed. The rep quoted a rate for October 23rd but never offered alternative dates or Value Days savings.",
+    "rate_lock_then_ask": "Never asked. The rep quoted $555, the customer objected to price and said 'that won't be the company for us,' and the rep thanked them and ended the call without any rate lock statement or ask for the business."
+  },
+  "top_strength": "Jevic confirmed availability on the requested date (October 23rd) early and efficiently, keeping the call moving.",
+  "coaching_note": "This call was lost at the first objection because the rep gave a price without the framing, promises, or value conversation that allows customers to understand why our rate is what it is \u2014 and critically, never asked for the business when the customer pushed back, just accepted the no and ended the call."
+}

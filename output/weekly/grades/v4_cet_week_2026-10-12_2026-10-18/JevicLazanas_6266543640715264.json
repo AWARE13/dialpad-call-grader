@@ -1,0 +1,31 @@
+{
+  "call_id": "6266543640715264",
+  "rep_name": "Jevic Lazanas",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 16.3,
+  "datetime_ct": "2026-10-15 21:52 CT",
+  "external_number": "+12106072067",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 57,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people everyday and most of them have one of two concerns either the movers is not showing up or you know, the damage items or damage their items or either of those a concern for you",
+    "two_layers_deep": "Jevic asked the two-concerns question but when Damon said 'Not necessarily, no, they better show up that you have good rating so they should show up,' Jevic moved immediately to 'what are you most hoping you know will go smoothly' instead of probing deeper on the damage concern or time concern. When Damon raised price as a concern ('The price is kind of high to me'), Jevic offered partial packing as a solution but did not dig further with 'tell me more about that' or genuine follow-up.",
+    "value_days": "No value days analysis offered. Jevic mentioned Nov 1-3 availability window but never identified which branch (Value, Standard, Peak) applied to Nov 2nd or discussed whether moving on a different day would save money.",
+    "rate_lock_then_ask": "Never asked for the business. Jevic collected contact details (email, address, unit numbers, furniture inventory) but at the end of the transcript the call trails off mid-inventory discussion ('How many bookshelves?' 'I thought she has.') with no explicit ask for the business, no rate lock mention, no confirmation of commitment."
+  },
+  "top_strength": "Jevic delivered both promises (On-Time Guarantee with specific discounting terms and No Worries Damage Coverage with $2,000 limit and no deductible) early and clearly, and gathered detailed logistics including special items, floor-to-floor distances, and furniture inventory with strong concern-led probing.",
+  "coaching_note": "The call ended without asking for the business or confirming a booking; Jevic collected details but never closed: add an explicit rate-lock plus plain ask for their help with the move, and stop the inventory walkthrough to complete the ask before the customer runs out of time."
+}

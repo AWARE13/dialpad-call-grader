@@ -1,0 +1,34 @@
+{
+  "call_id": "6240505453912064",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 5.7,
+  "datetime_ct": "2026-10-14 14:44 CT",
+  "external_number": "+12145433270",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked": "Well, I can definitely help you with that and may I know who am I'm speaking with, please. / Jim. Okay. Thank you Jim.",
+    "quid_pro_quo": "basically I'll be you know just asking you a couple of questions about your move. So we can provide you with the most accurate estimate and this will take about ten to fifteen minutes. So you can you know walk away with a quote you can depend on, okay.",
+    "two_concerns_question": "NOT ASKED - rep proceeds directly to logistics without raising the two standard concerns (on-time guarantee, damage protection)",
+    "concern_led_opening": "NOT ASKED - rep asks for move size and dates first, then transitions to walkthrough routing without concern-led probing",
+    "promises_delivered": "NONE - rep never mentions on-time guarantee or no-worries damage coverage despite collecting full customer profile",
+    "walkthrough_routing": "Yeah. Oh, yeah, I use, okay, I'm able to see it on the internet. It's like green with a lot of trees, right? It's very nice. Awesome, okay, so yeah and then Jim since we need to conduct a virtual walkthrough for the type of move you have. When will you be available to do it?"
+  },
+  "top_strength": "Rep obtained the customer's name, used it throughout the call, and clearly articulated the time commitment and value proposition in the quid pro quo.",
+  "coaching_note": "On walkthrough-routing calls >=1800 sqft, deliver both promises (On-Time Guarantee and No Worries Damage Coverage) before routing to the specialist\u2014the v4 card places Two Promises in step 3, before probing, so it still applies even when the call will hand off to a large-move specialist."
+}

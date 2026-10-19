@@ -1,0 +1,39 @@
+{
+  "call_id": "5308218472177664",
+  "rep_name": "Nicole Tolete",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 10.1,
+  "datetime_ct": "2026-10-16 15:48 CT",
+  "external_number": "+12108639587",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Nicole: 'Am I speaking with Sylvia?' / 'Thank you so much for calling us back Sylvia' / 'Take care and you have a great day, Sylvia.'",
+    "quid_pro_quo": "Nicole: 'it's just like a video call on your preferred time and date. It will take around ten to fifteen minutes virtual walkthrough' but no clear promise of a dependable quote and rushed into routing discussion; no wait for genuine yes",
+    "two_concerns_question": "Never asked. Sylvia volunteers her concerns (tight deadline, specific load size) but Nicole never asks the two-concerns opener.",
+    "pricing_framing": "Nicole discloses hourly rate ($206), travel fee ($210), and states 'there's no hidden fees of any type' and 'Everything is included in the hourly rate like the fuel and truck taxes, insurance.' Mentions no-need-to-take-notes / send-in-email line ('I will go ahead and send you an email for this code'). Missing: the pricing contrast (competitors' hourly + add-ons vs. all-inclusive framing). Two of three present.",
+    "estimate_anchor": "Nicole provides range: 'I will estimate this move to take just around two and a half to three and a half hours with two movers and one truck. And including the travel fee. It's good to budget around $725 to $931.' Personalized to one-story-to-one-story, 20-minute drive, specific item count.",
+    "value_days": "Never addressed. October 30th availability offered (1:30 PM window) but no mention of whether cheaper days exist or date flexibility offered as a cost-saving strategy.",
+    "prep_and_temperature_check": "No Save Your Ass framing about preparation being the biggest factor. No 'How do you feel about that?' temperature check. Nicole moves directly to booking.",
+    "final_concerns_check": "Not asked. Nicole says 'and would you like me to get you on the schedule?' with no genuine final-concerns check for remaining worries.",
+    "rate_lock_then_ask": "Rate lock and no-deposit language appear ('to secure a spot there's no deposit record if you have to reschedule or cancel, no fees for that either') BUT the ask never comes. Nicole asks 'would you like me to get you on the schedule?' (weak/indirect) and when Silvia says she needs to compare quotes, Nicole pivots to sending an email and the call ends without a direct, plain ask ('Would you like our help with your move?'). Also the rate-lock language comes *after* the weak ask, not before.",
+    "booking_confirmed": "No booking confirmed. Silvia explicitly says she wants to compare quotes and will call back in a couple hours. Nicole sends email but takes no booking."
+  },
+  "top_strength": "Nicole gathered detailed logistics efficiently (item count, mattress count, gym equipment, box estimate, crew size, distance, both addresses) and anchored a personalized price range ($725\u2013$931) that matched the specific job parameters.",
+  "coaching_note": "Never asked the two-concerns question and missed the final concerns check entirely\u2014the two bookend moments where the customer actually remembers your offer. Also never asked for the business with a plain, direct close; the call ended with Nicole offering to email instead of asking Sylvia to book now."
+}

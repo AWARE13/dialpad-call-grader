@@ -1,0 +1,33 @@
+{
+  "call_id": "5460545852186624",
+  "rep_name": "Brianne Newbro",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 9.2,
+  "datetime_ct": "2026-10-14 17:17 CT",
+  "external_number": "+15128507481",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 55,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "I know most of our customers have usually two concerns when moving the first, the movers being on time or to damage their items when being moved are any of those a concern with moving with us?",
+    "two_layers_deep": "N/A \u2014 customer immediately stated no concerns and offered strong praise instead.",
+    "value_days": "Right and then for the four hours, I would like to budget at $863 and that's for the $192, an hourly rate two movers $192 for Saturday... and then Monday is $192... Let's do Monday. That'll work.",
+    "rate_lock_then_ask": "Never asked. Rep moved directly to email send and generic close: 'And then I will send everything over via email. And then do you have any questions or concerns for me?'"
+  },
+  "top_strength": "Brianne asked the two-concerns question early and before any probing, set a realistic time and scope estimate that matched the customer's own assessment, and handled the value-day pricing comparison by showing the actual dollar savings ($8/hour) and confirming the customer's preference.",
+  "coaching_note": "Step 3 (Two Promises) and Step 7 (Ask for the Business) were completely skipped \u2014 no on-time guarantee or damage coverage was stated despite the customer's prior experience, and no explicit ask for the move was ever made; the call ended with a generic 'any questions?' and a vague email send, leaving zero commitment on the table."
+}

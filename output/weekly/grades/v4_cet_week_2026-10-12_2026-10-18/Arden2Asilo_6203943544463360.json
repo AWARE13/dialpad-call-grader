@@ -1,0 +1,33 @@
+{
+  "call_id": "6203943544463360",
+  "rep_name": "Arden 2Asilo",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 7.5,
+  "datetime_ct": "2026-10-15 14:44 CT",
+  "external_number": "+19044035526",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 37,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics gathering with no two-concerns opener.",
+    "two_layers_deep": "Customer mentioned breakfast table and chairs during estimate discussion: 'There is, there is, there is a table a little breakfast table, and chairs and a, a glass top for it, that's in there.' Rep acknowledged with one clarification question only: 'Okay, I'm also gonna add that last up so breakfast and chair and glass up, correct?' No two-layer follow-up.",
+    "value_days": "Not addressed. Rep confirmed Friday the 23rd availability (8:30-9:00 AM window) but never offered or discussed Value Days pricing or date flexibility.",
+    "rate_lock_then_ask": "Neither rate lock nor no-deposit commitment mentioned. Rep moved directly to booking without any rate protection language. No explicit ask for the business \u2014 instead moved straight to 'You're officially on the books.'"
+  },
+  "top_strength": "Arden gathered logistics details methodically and confirmed the customer's previous account to save time, showing efficiency and customer recognition.",
+  "coaching_note": "You skipped the entire discovery bookend (two-concerns question and Two Promises about reliability and damage protection) and jumped straight into logistics \u2014 this left the customer's actual concerns unaddressed and removed your biggest trust-building moment before pricing."
+}

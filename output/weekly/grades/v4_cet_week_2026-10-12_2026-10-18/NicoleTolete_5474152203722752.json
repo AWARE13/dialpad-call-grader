@@ -1,0 +1,35 @@
+{
+  "call_id": "5474152203722752",
+  "rep_name": "Nicole Tolete",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 5.0,
+  "datetime_ct": "2026-10-12 20:36 CT",
+  "external_number": "+12814508020",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Nicole Cruz: 'Hi, this is Nicole from Einstein Moving Company. Am I speaking with Peter?' / Peter Prutzman: 'Yes ma'am.' ... Nicole Cruz: 'I'll talk to you again tomorrow afternoon.'",
+    "quid_pro_quo": "Nicole Cruz: 'Usually for the size of your home with 2200 square footage we send out four movers and two truck but we can do a virtual walkthrough, it's just like a video call on your preferred time and date.' \u2014 frames the walkthrough but does not establish the '10-15 minute call' framing or the 'dependable quote vs. guess' promise before accepting the walkthrough.",
+    "two_concerns_question": "Not asked. Nicole jumps directly to logistics and pricing without asking the two-concerns question.",
+    "promises_delivered": "Nicole Cruz: 'We also have extra perks included that our customers read them first, we have no worries damage coverage. We provide up to $2,000 per move to repair, replace or reimburse for any accidental damages... and finally, we have on time guarantee if we cannot make it and the time window that we arrange, we immediately start discounting money of your final bill.' \u2014 On-Time Guarantee and No Worries Damage Coverage both mentioned, but no permission lead-in ('Can I share how we work...?') and neither promise is fully detailed with terms (On-Time Guarantee lacks the discount schedule: $50 off first hour, $25 per half hour).",
+    "closes_the_loop": "Nicole Cruz does not ask 'Does that put those to rest?' or equivalent after delivering the promises.",
+    "concern_led_opening_and_logistics": "No concern-led opening ('What items in this move are you most concerned about?'). Nicole opens with square footage and moves directly to the walkthrough pitch. No probing for special considerations, floor/stories, room count, walking distances, or additional stops.",
+    "value_days": "Not applicable for a walkthrough-scheduler call; steps 5-7 are auto-credited."
+  },
+  "top_strength": "Nicole cleanly routed the call to the virtual walkthrough format, recognized the 2,200 sq ft threshold, and confirmed the logistics (date, time, secure link delivery) crisply to set up the next appointment.",
+  "coaching_note": "On walkthrough-scheduler calls, run the Two-Concerns question and dig two layers deep before pivoting to the walkthrough pitch \u2014 that's where you learn what Peter actually worries about, and you're missing the chance to position the promises against his fears."
+}

@@ -1,0 +1,34 @@
+{
+  "call_id": "5866738699509760",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 8.8,
+  "datetime_ct": "2026-10-14 20:02 CT",
+  "external_number": "+15047224745",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 12,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 63,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NOT ASKED. Rep moved directly into logistics probing without ever asking the two-concerns question about on-time reliability or damage protection.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer in step 2, so this item does not apply.",
+    "value_days": "NOT ADDRESSED. Rep never identified that the customer selected Sunday, October 25th, or discussed whether a cheaper day (Friday/Saturday) existed. No flexibility question asked.",
+    "rate_lock_then_ask": "NEITHER PRESENT. Rep stated the estimate ($1,034.50) and minimum billing terms, but never said 'rate lock' or 'no deposit' language, and never asked 'Would you like our help with your move?' or any equivalent close. Rep ended with logistical details (arrival window, crew callback) instead of asking for the business."
+  },
+  "top_strength": "Rep delivered both promises (On-Time Guarantee with specific discount amounts and No Worries Damage Coverage with $2,000 limit, no deductible) cleanly and confirmed they put concerns to rest.",
+  "coaching_note": "Skip the direct probing handoff: ask the two-concerns question before diving into logistics, then after estimates, hold the temperature check silence on 'How do you feel about that?' instead of moving straight to logistics. Most critically, close with an explicit ask for the business ('Would you like our help with your move?') preceded by rate lock and no-deposit language \u2014 you took the estimate but never asked Zachary to book."
+}

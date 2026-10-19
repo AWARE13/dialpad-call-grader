@@ -1,0 +1,31 @@
+{
+  "call_id": "4842718151614464",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 10.9,
+  "datetime_ct": "2026-10-15 14:02 CT",
+  "external_number": "+13202008966",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 2,
+  "total_score": 57,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "I mean obviously I talked to a lot of people everyday and they expressed about one or two concerns movers not arriving on time or damaged items in previous moves any of these concern or do you have any other concerns?",
+    "two_layers_deep": "Customer said 'arriving on time, just I am in like a tight schedule. So I just kinda like, want to do it earlier the better I guess.' Rep responded with 'Gotcha, okay. No, absolutely, completely understand that' and immediately pivoted to the on-time guarantee without asking follow-up questions or letting the customer elaborate.",
+    "value_days": "No mention of whether December 7th is a Best Value Day, no mention of alternative days, no discussion of day-based pricing flexibility.",
+    "rate_lock_then_ask": "Rep said 'It is free to reserve the truck. It is also free to cancel so there's no risk there and then if you do need to reschedule it we don't have the for that either. So we do have availability on this particular day. Would you like to go ahead and reserve that truck?' This mentions flexibility but does not lead with rate lock or no-deposit assurance, and the ask comes without clarity about what committing means."
+  },
+  "top_strength": "Chauntelle systematically gathered all logistics details (addresses, floor levels, elevator access, unit numbers, large items, box count, parking/access at both locations) in a well-organized probing section that would support an accurate estimate.",
+  "coaching_note": "Step 2 needs a genuine second layer of follow-up when the customer says 'arriving on time' is critical due to schedule pressure \u2014 ask 'tell me more about that tight schedule' and pause for the full picture before moving on; and Step 6's final concerns check was asked as a throwaway ('Did you have any other questions?') instead of the genuine framing 'What's still concerning you about this move?'"
+}

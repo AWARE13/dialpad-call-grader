@@ -1,0 +1,33 @@
+{
+  "call_id": "4944186615570432",
+  "rep_name": "Zhang Pammit",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 13.4,
+  "datetime_ct": "2026-10-17 21:24 CT",
+  "external_number": "+12109902015",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 52,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep jumps directly to logistics probing after quid pro quo.",
+    "two_layers_deep": "N/A \u2014 no concerns were elicited because the two-concerns question was never asked.",
+    "value_days": "Never addressed. Rep does not identify that the customer is booking for Tuesday (which may be a Value Day) or offer any date flexibility savings.",
+    "rate_lock_then_ask": "Rep mentions 'no deposit required, no risk and securing your spot' but does not use explicit rate lock language. The ask is embedded in the customer's own statement ('Let's go ahead and do that for Tuesday at 9:00 AM') rather than a clear 'Would you like our help with your move?' The rep says 'Sure' and 'we'll go ahead and book it for us please' but this is reactive, not an initiated ask."
+  },
+  "top_strength": "Rep successfully gathered all essential logistics details (both addresses, property types, parking, item list, room count, distance) and delivered a clear, detailed estimate with a personalized range ($620\u2013$908) that included the trip fee and all-inclusive pricing explanation.",
+  "coaching_note": "Lead with the two-concerns question before any probing to uncover what actually matters to this customer; the customer signaled pressure (timeline sensitivity, risk of calling someone else) that the rep never addressed or built trust against."
+}

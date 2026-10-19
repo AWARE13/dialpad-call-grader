@@ -1,0 +1,32 @@
+{
+  "call_id": "5714881937186816",
+  "rep_name": "Amy Arbasa",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 25.5,
+  "datetime_ct": "2026-10-14 16:43 CT",
+  "external_number": "+19174768448",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 18,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 81,
+  "pass": true,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talk to a lot of people everyday and most of them have one or two concerns either they're worried that the movers won't show up on time or they're going to damage their items. What about you soon, would either of those a concern to you or do you have anything specific that you're most worried about?",
+    "two_layers_deep": "Customer raised bulky leather sofa concern; Amy asked follow-up: 'You're getting new furniture for the new house I see.' Then customer elaborated: 'I have a big letter so far, I've had it for twenty years and it's really good for another. Many years. I don't want to get rid of it...' Amy responded with reflective acknowledgments allowing customer to continue and clarify the specific door-fit concern.",
+    "value_days": "Friday and Saturday are the highest rate. I would suggest Sunday to Thursday it's a bit cheaper... Can we do what's what Sunday? Sunday is November 1st... Yeah, sure. We still have Sunday available as we speak right now... it's actually cheaper and less traffic on, on Sunday. So that's a good idea.",
+    "rate_lock_then_ask": "We don't require any deposits, no rebooking fee. So whenever you're ready or if you, if you have questions you can call me back at this number... Okay, no worries and you don't what, we don't require any deposits, no rebooking fee."
+  },
+  "top_strength": "Amy asked the two-concerns question early, then executed exceptional two-layer follow-up by allowing Salman to fully articulate his concerns about the bulky sofa, its size, the door fit, and handling\u2014then reflected back all of it accurately, which built genuine trust.",
+  "coaching_note": "Amy never asked a genuine final concerns check ('What's still concerning you about this move?') at step 6 and never asked for the business explicitly at step 7\u2014the call ended with 'Send me the estimate, I will get back to you' from the customer, meaning Amy did not drive the close."
+}

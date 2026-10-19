@@ -1,0 +1,31 @@
+{
+  "call_id": "4894501163016192",
+  "rep_name": "Zhang Pammit",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 10.6,
+  "datetime_ct": "2026-10-15 14:00 CT",
+  "external_number": "+15129996898",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 8,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 10,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "So we talked to a lot of people everyday and most of them have one or two concerns either the movers are not showing up on time or damage their items or either of those a concern for you.",
+    "two_layers_deep": "Trevor raised damage concern; rep reflected it back but did not probe deeper with 'tell me more' or sustained silence to draw out the fuller picture.",
+    "value_days": "Rep mentions availability 'tomorrow and also on Saturday' with specific time slots but never frames this as a Value Days comparison or offers a total dollar saving for choosing an alternative day.",
+    "rate_lock_then_ask": "Wherein there's no deposit required. No recent occurring your spot. In case if you wanted to reschedule or to cancel, then all you have to do is just simply give us a call at anytime. Would you like me to lock that in for you?"
+  },
+  "top_strength": "Zhang gathered all required logistics details efficiently, probed on special items and box count accurately, delivered both promises clearly with full damage and on-time terms, and locked in the booking with rate lock and no-deposit framing before the ask.",
+  "coaching_note": "Two key gaps: step 2 needs to probe deeper after a concern is named (tell me more about that damage concern, then hold silence), and step 5 is missing both the Value Days dollar-savings offer and the prep-framing temperature check (How do you feel about that?)."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "6232218538909696",
+  "rep_name": "Jules Nicolas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.1,
+  "datetime_ct": "2026-10-14 19:03 CT",
+  "external_number": "+15126657897",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 34,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly from name collection into reviewing prior move details.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer in step 2.",
+    "value_days": "Rep mentioned Thursday vs Friday pricing ($97/hr vs $103/hr) but did not identify which day was a Best Value Day, offer a total dollar saving, or ask about date flexibility. Customer was already booked for Thursday-Friday split.",
+    "rate_lock_then_ask": "Rep asked 'Do you want me to get this move scheduled for you?' with no preceding rate lock or no-deposit statement. The ask was soft and transactional, not preceded by a clear commitment statement."
+  },
+  "top_strength": "Jules efficiently retrieved the customer's prior move history and details, then seamlessly adapted the same two-day split structure for the new move, reducing the need to re-probe from scratch.",
+  "coaching_note": "The call skipped the entire step 2 discovery framework \u2014 no two-concerns question, no probing for what the customer actually cares about this time, and no step 3 promises to address reliability or damage concerns. This was repeat-customer efficiency at the expense of the rubric's conversation structure."
+}

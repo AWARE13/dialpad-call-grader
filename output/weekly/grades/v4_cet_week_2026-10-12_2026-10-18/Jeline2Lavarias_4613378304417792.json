@@ -1,0 +1,32 @@
+{
+  "call_id": "4613378304417792",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 14.3,
+  "datetime_ct": "2026-10-12 14:58 CT",
+  "external_number": "+18179446495",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 0,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 41,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Well let me share with you that we talked to a lot of people everyday and most of them have one or two concerns either the movers are not showing up on time or the movers will damage their items are either of those a concern for you.",
+    "two_layers_deep": "Customer said 'Of course' in response to concerns question, but rep never asked 'tell me more' or any follow-up to understand what specifically concerned Donna. Rep moved directly to delivering promises.",
+    "value_days": "No value days discussion occurred. Rep stated the move would be complex due to multiple stops and offered to send estimate via email instead of providing pricing on the call.",
+    "rate_lock_then_ask": "No ask for the business was ever made. Rep pivoted to email delivery and ended the call without attempting to book the move."
+  },
+  "top_strength": "Jeline asked the two-concerns question early and in recognizable form before any logistics probing, and she gathered comprehensive details about all three locations with clear confirmations of the multi-stop logistics.",
+  "coaching_note": "You pivoted to email after gathering details instead of staying on the call to provide pricing and make the ask \u2014 even for complex multi-stop moves, the v4 card expects you to give an estimate, handle concerns again, and ask for the business before you hang up."
+}

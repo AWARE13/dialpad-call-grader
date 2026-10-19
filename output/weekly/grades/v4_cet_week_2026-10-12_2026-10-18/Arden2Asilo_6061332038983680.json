@@ -1,0 +1,34 @@
+{
+  "call_id": "6061332038983680",
+  "rep_name": "Arden 2Asilo",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 13.3,
+  "datetime_ct": "2026-10-12 14:54 CT",
+  "external_number": "+18134828998",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 3,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 35,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing without asking the two-concerns opener about movers showing up on time or damage to items.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer in step 2 because the question was never asked.",
+    "value_days": "Not addressed. Rep quoted $510\u2013$612 for Thursday 2:30\u20134:30 PM but never discussed whether a cheaper day was available or asked about date flexibility.",
+    "rate_lock_then_ask": "Never asked. Rep gave an estimate but did not mention rate lock, no deposit policy, or ask for the business. Call ended with customer objecting to the price ($330 vs. $510\u2013$612) and confusion about which company was being called."
+  },
+  "top_strength": "Arden gathered detailed logistics (unit number, floor, elevator access, parking distance, destination property, item inventory) and clarified the customer's firm Thursday deadline when initially told Thursday was unavailable, showing persistence and responsiveness to the customer's stated need.",
+  "coaching_note": "The call abandoned the v4 card entirely after step 1: no two-concerns question, no promises, no pricing framing, no temperature check, no final concerns, and no ask for the business \u2014 it ended with the customer rejecting the estimate based on price confusion from a prior company, with no closing opportunity given."
+}

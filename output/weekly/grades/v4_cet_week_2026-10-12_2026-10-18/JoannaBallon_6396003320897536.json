@@ -1,0 +1,32 @@
+{
+  "call_id": "6396003320897536",
+  "rep_name": "Joanna Ballon",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 10.3,
+  "datetime_ct": "2026-10-18 19:47 CT",
+  "external_number": "+12253015794",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 13,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 62,
+  "pass": false,
+  "na_fallbacks_used": [
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talked to a lot of customers everyday. Some of their concerns about moving our movers not arriving on time or damages to their Adams. Are any of this, or concerns as well?",
+    "two_layers_deep": "Customer said no to the two concerns offered; Joanna pivoted immediately to logistics without pressing deeper on the packing/unpacking service interest the customer raised.",
+    "value_days": "We can actually save up to probably you know $10,150 if you're doing it on Sunday to Thursday. But if Saturday really is the best time, especially work wise, then, we should be okay too.",
+    "rate_lock_then_ask": "No deposit payment on payment is only upon completion of the move. If you're ready to go ahead with the booking, just respond to the email, give us a call, whichever works. (Softened ask with built-in outs; no explicit rate lock statement; customer deferred decision to email review.)"
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details efficiently\u2014addresses, property types, room counts, furniture specifics, fragile items, parking\u2014and asked both packing and box count questions, setting up an accurate estimate.",
+  "coaching_note": "Step 6 was entirely skipped: Joanna never asked a genuine final concerns check before closing, which means she missed the customer's stated interest in packing/unpacking tradeoffs and lost the chance to confirm any remaining concerns before asking for the booking."
+}

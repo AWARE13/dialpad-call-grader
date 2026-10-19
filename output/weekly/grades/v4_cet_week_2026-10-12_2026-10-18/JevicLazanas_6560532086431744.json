@@ -1,0 +1,35 @@
+{
+  "call_id": "6560532086431744",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 9.0,
+  "datetime_ct": "2026-10-12 16:47 CT",
+  "external_number": "+16467052261",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 75,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "this will take about ten to fifteen minutes and you can walk away with a quote you can depend on instead of just a guest. So, does that sound good? [but customer asked to repeat, rep restarts without waiting for a clear yes]",
+    "two_concerns_question": "never asked \u2014 rep moves directly to logistics probing",
+    "promises_delivered": "No Worries Damage Coverage mentioned ($2,000 per move, no deductible, built in) in response to customer question about insurance, but On-Time Guarantee never mentioned; no permission lead-in for either promise",
+    "concern_led_opening_and_logistics": "Rep asks about move location, property type, square footage, stories, bedrooms, parking, and destination details, but never asks 'What items in this move are you most concerned about?' Opens on logistics checklist, not customer concern. Also missing: walking distance, additional rooms, special items.",
+    "packing_and_box_count": "neither packing question nor box count asked",
+    "value_days": "Rep does mention pricing difference (Friday/Saturday higher, Monday-Thursday same, Sunday mid-range) and customer selects Monday-Thursday, then changes to Tuesday the 27th, but no dollar amount savings offered and no true Value Days framework applied",
+    "rate_lock_then_ask": "Move is routed to large-move specialist before any ask for business"
+  },
+  "top_strength": "Jevic gathered complete logistics details efficiently (size, bedrooms, stories, parking, both addresses, property type) and correctly identified the move as large, routing it to a specialist rather than attempting to quote a 4000\u21929600 sq ft move himself.",
+  "coaching_note": "On walkthrough-routing calls, the Two Concerns question must come before logistics probing \u2014 it sets the frame for why the specialist is calling back, and on this call it was skipped entirely, leaving the customer's actual worries unstated and unaddressed until insurance was asked about late in the call."
+}

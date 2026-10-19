@@ -1,0 +1,35 @@
+{
+  "call_id": "4969025172709376",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 17.4,
+  "datetime_ct": "2026-10-13 15:19 CT",
+  "external_number": "+18173121448",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Jules asks 'Can you give me your first and last name, please?' and customer answers 'Reg Lane' but Jules never uses the name again in the call \u2014 never says 'Greg' or 'Reg' after that initial collection.",
+    "quid_pro_quo": "Jules says 'This should be about ten to fifteen minutes and then I'd be able to get you an accurate quote you can depend on. Sounds good.' This frames time and dependable quote but there is no clear wait for customer yes before moving into questions \u2014 the customer says 'Mm-hmm' and 'Okay' but Jules moves to name collection immediately.",
+    "two_concerns_question": "Never asked. Jules jumps directly into logistics probing: 'are we only moving within the Dallas area?' with no opener about on-time delivery or damage concerns.",
+    "value_days": "Jules mentions Thursday has cheaper rate: 'Thursday has actually the cheaper rate if you prefer that' and later says 'Well, well technically, we already do not require any deposit nor do we have any rescheduling fees.' But the dollar savings is never quantified, and Jules does not explicitly ask about date flexibility in terms of moving to a cheaper day \u2014 instead pivots to asking which day the customer prefers without framing it as a value opportunity.",
+    "rate_lock_then_ask": "Jules says 'we already do not require any deposit nor do we have any rescheduling fees' (rate lock / no deposit) and then asks 'Do you wanna do Thursday right now or Friday?' and 'Okay. No problem. We'll, let's schedule you for Thursday right now' \u2014 the ask comes second and is direct, though not as cleanly stated as 'Would you like our help with your move?' The order is correct and the ask is unsoftened.",
+    "booking_confirmed": "Jules confirms 'We'll, let's schedule you for Thursday right now' and customer says 'Okay. Sounds like a plan' but Jules never explicitly confirms date, phone, arrival window, crew size, or destination address \u2014 those details are left incomplete despite the long address discussion earlier. Jules says 'I'll get you scheduled right now send over the confirmation email' but does not read back or confirm specifics on the call."
+  },
+  "top_strength": "Jules gathered detailed logistics thoroughly, asking about special items, property type, floor, room count, and walking distances, and handled a complex multi-address situation (current house to Presbyterian Village terrace building) with patience and clarity.",
+  "coaching_note": "Step 2's two-concerns question was never asked, skipping the single most load-bearing discovery in the call \u2014 jump straight into logistics probing without first surfacing what actually matters to this customer, and you miss the chance to frame the promises that address those concerns."
+}

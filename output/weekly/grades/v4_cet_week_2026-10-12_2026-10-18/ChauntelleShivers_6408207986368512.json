@@ -1,0 +1,33 @@
+{
+  "call_id": "6408207986368512",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 17.4,
+  "datetime_ct": "2026-10-15 15:48 CT",
+  "external_number": "+19012167162",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep never asks about on-time delivery or damage concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer during step 2 since the question was never asked.",
+    "value_days": "Rep does not address whether October 19th is a Best Value Day or offer any cheaper alternative dates.",
+    "rate_lock_then_ask": "Rep says 'we don't have any kind of deposit, you don't pay for anything until after the move is completed' (rate lock mentioned) but never asks 'Would you like our help with your move?' or equivalent. The booking is confirmed because customer has an existing scheduled move, but there is no explicit close or affirmative ask for the business. Rep ends with general questions and transitions to confirmation email."
+  },
+  "top_strength": "Chauntelle gathered comprehensive logistics details (both addresses, floor/stairs, parking, large furniture list, box count) and explained packing options clearly without rushing, giving the customer real clarity on what the service includes.",
+  "coaching_note": "You skipped the two-concerns question entirely \u2014 that is the card's primary opener for step 2 and builds trust before pricing. Add it early, and you'll set the foundation for everything that follows."
+}

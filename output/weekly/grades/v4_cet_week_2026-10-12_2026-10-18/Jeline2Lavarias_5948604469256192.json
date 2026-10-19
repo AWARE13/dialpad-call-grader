@@ -1,0 +1,32 @@
+{
+  "call_id": "5948604469256192",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.0,
+  "datetime_ct": "2026-10-13 14:02 CT",
+  "external_number": "+17064554569",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NOT ASKED. The rep never opened with the two-concerns question about movers showing up on time or damage to items.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during the discovery phase.",
+    "value_days": "N/A \u2014 the call routed to walkthrough and never reached pricing discussion.",
+    "rate_lock_then_ask": "N/A \u2014 the call routed to walkthrough and never reached the ask."
+  },
+  "top_strength": "Jeline quickly identified the move's scope constraints (small load, 2 hours max, 1,800+ sqft property) and correctly routed to a virtual walkthrough instead of attempting an inaccurate phone quote.",
+  "coaching_note": "Never skip the two-concerns question in step 2\u2014ask it before any logistics probing, even on small moves or walkthrough-bound calls, to establish what actually matters to this customer."
+}

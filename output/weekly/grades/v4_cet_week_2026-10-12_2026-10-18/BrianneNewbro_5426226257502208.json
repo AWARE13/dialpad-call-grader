@@ -1,0 +1,32 @@
+{
+  "call_id": "5426226257502208",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 10.6,
+  "datetime_ct": "2026-10-12 15:42 CT",
+  "external_number": "+15126303110",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 46,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "List for customers have two concerns one movers not being on time or two damage to their items when being moved are any of those a concern for you?",
+    "two_layers_deep": "Customer immediately declined concerns (No, ma'am right now we're just trying to get pricing) and rep pivoted without digging",
+    "value_days": "Yeah, let me check see if that's we do have our value days which are cheaper Monday through Thursday so if we did like just say the eighteenth it's $208",
+    "rate_lock_then_ask": "There is no deposit required to get on our schedule as well. So, no risk and sur in that spot and then there's no fees or charges to change or cancel just so you know, I know you're shopping around. [No explicit ask for the business was made]"
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details and delivered a personalized estimate anchored to the move size and travel distance, creating a credible quote that landed near competitors' pricing.",
+  "coaching_note": "Step 3 (Two Promises) was entirely skipped \u2014 the On-Time Guarantee and No Worries Damage Coverage were never mentioned, and more critically, Step 7 never included an explicit ask for the business (\"Would you like our help with your move?\"), leaving the customer with pricing only and no clear path to booking."
+}

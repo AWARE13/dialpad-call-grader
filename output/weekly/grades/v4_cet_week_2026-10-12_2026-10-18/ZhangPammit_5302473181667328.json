@@ -1,0 +1,33 @@
+{
+  "call_id": "5302473181667328",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 8.1,
+  "datetime_ct": "2026-10-16 18:05 CT",
+  "external_number": "+13373779799",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 3,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 35,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep went directly into logistics probing without asking about on-time or damage concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer at any point.",
+    "value_days": "Never addressed. Rep gave a single estimate of $988 for 4.5 hours with no mention of day-of-week pricing variations or flexibility.",
+    "rate_lock_then_ask": "Never occurred. Rep said 'Alright, thank you so much and have a great day' with no rate lock, no explicit booking request, and no ask for the business. No confirmation of commitment to book."
+  },
+  "top_strength": "Rep gathered detailed logistics systematically \u2014 floor level, elevator access, parking distance, special items, box count, and wardrobe box needs \u2014 and handled a complex scheduling constraint (freight dock reservation window) without dropping the call.",
+  "coaching_note": "This call skipped the entire heart of the Einstein model: never asked the two-concerns question, never delivered the On-Time Guarantee or No Worries Damage Coverage promises, never framed pricing to create contrast, never checked concerns again at the end, and never explicitly asked for the business \u2014 it ended with a polite goodbye instead of a close, leaving the booking status unclear."
+}

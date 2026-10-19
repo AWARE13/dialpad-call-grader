@@ -1,0 +1,33 @@
+{
+  "call_id": "6494837095047168",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 5.7,
+  "datetime_ct": "2026-10-18 17:16 CT",
+  "external_number": "+18328514092",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 52,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep jumped directly to logistics without asking about top concerns (on-time performance, damage protection).",
+    "two_layers_deep": "N/A \u2014 no concerns were surfaced because the two-concerns question was never asked.",
+    "value_days": "Not addressed. Rep quoted $1,125 for October 25th without offering any cheaper alternative dates or framing the value proposition.",
+    "rate_lock_then_ask": "Rep mentioned 'no deposit or any upfront fees' but never asked 'Would you like our help with your move?' or any plain closing ask. Conversation ended with logistics confirmation only."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details methodically (addresses, floor access, walking distances, appliances, box count, packing preference) and built an accurate estimate from those specifics.",
+  "coaching_note": "This was a callback to verify an existing booking, not a sales call \u2014 but if it had been a full sales intake, the rep skipped the entire discovery spine (two-concerns question, both promises, temperature check, final concerns bookend, and closing ask), reducing it to a logistics-only call."
+}

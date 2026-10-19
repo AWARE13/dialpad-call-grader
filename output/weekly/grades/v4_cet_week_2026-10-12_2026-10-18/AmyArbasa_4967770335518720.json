@@ -1,0 +1,32 @@
+{
+  "call_id": "4967770335518720",
+  "rep_name": "Amy Arbasa",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 6.5,
+  "datetime_ct": "2026-10-14 20:24 CT",
+  "external_number": "+19365243882",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people everyday and most of them would share that they have one or two concerns either the word, the movers won't show up on time or they're gonna get their items damaged. What about Unli, would either of this be a concern to you or do you have anything specific in mind?",
+    "two_layers_deep": "Customer raised on-time concern; Amy acknowledged it but immediately pivoted to offering date flexibility and moving into promises without probing deeper ('Yeah, they have to be here on you know, they'd have to be here on time.' \u2192 Amy: 'Let me check November 2nd.' No follow-up dig into the concern itself.)",
+    "value_days": "Amy offered November 2nd as an alternative to November 3rd but did not identify it as a Value Day, did not state any dollar savings, and did not explicitly ask about date flexibility tied to pricing.",
+    "rate_lock_then_ask": "Amy never asked for the business. Call ended with customer saying 'no, I'll find someone closer' after Amy disclosed the $385 per-truck travel fee. No rate lock or deposit language was presented, no ask for business was made."
+  },
+  "top_strength": "Amy delivered both promises (On-Time Guarantee and No Worries Damage Coverage) in full, clear language with specific terms ($50 off first hour, $25 per half hour; $2,000 coverage, no deductible, four to six days claim resolution) and confirmed closure with 'What do you think about that?'",
+  "coaching_note": "When the customer raises a concern early, dig into it with a second open question before moving to solutions \u2014 Amy heard the on-time concern but immediately switched to date logistics and promises rather than asking 'Tell me more about that' first, which would have surfaced the real driver behind the concern and strengthened the pitch before pricing."
+}

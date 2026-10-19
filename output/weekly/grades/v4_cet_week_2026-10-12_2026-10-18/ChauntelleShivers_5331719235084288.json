@@ -1,0 +1,33 @@
+{
+  "call_id": "5331719235084288",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 31.3,
+  "datetime_ct": "2026-10-12 15:35 CT",
+  "external_number": "+12142201835",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 8,
+  "total_score": 63,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NOT ASKED \u2014 rep never asked about concerns related to movers showing up on time or damage to items.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer in step 2.",
+    "value_days": "NOT ADDRESSED \u2014 rep did not discuss cheaper alternative days or ask about date flexibility.",
+    "rate_lock_then_ask": "Rate lock: 'There's no deposit due if you need to cancel the move. If you need to move the move to a different date, we don't have fees for that either. So like, if when, either way you don't pay for anything until after the move is a hundred percent completed.' Ask: 'Alright, you got it.' Customer: 'Alright. Well that sounds good to me. Let's just go ahead and book it then.' Rep did not use plain ask language like 'Would you like our help with your move?' \u2014 the customer volunteered to book."
+  },
+  "top_strength": "Chauntelle gathered comprehensive and detailed logistics information across both locations, including room configuration, furniture details, special items like electric fireplaces, box counts, and access concerns\u2014establishing a solid foundation for an accurate estimate.",
+  "coaching_note": "Skip the quid pro quo framing at open and move directly into probing without establishing the 10-15 minute time commitment and the promise of a dependable quote instead of a guess; also never use the two-concerns question to surface what matters most to the customer before diving into details."
+}

@@ -1,0 +1,37 @@
+{
+  "call_id": "5746907906088960",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 5.0,
+  "datetime_ct": "2026-10-13 14:54 CT",
+  "external_number": "+18473376108",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Jennifer Riley identifies herself; rep uses her name throughout: 'No need to clean it. Okay, it's alright.' and 'So one today.' and confirms details with 'So 2600 square footage house two stories, right?'",
+    "quid_pro_quo": "Rep states 'we need to have a virtual walkthrough or a conference call so we can provide you an accurate estimate' and jumps directly to scheduling: 'So when is the best time to conduct this virtual walkthrough?' No framing of time commitment, no promise of a dependable quote, no wait for customer agreement before proceeding.",
+    "two_concerns_question": "Never asked. Rep pivots immediately to walkthrough scheduling without surface-level concern discovery.",
+    "promises_delivered": "Neither On-Time Guarantee nor No Worries Damage Coverage mentioned at any point in the call.",
+    "closes_the_loop": "No version of 'Does that put those to rest?' asked.",
+    "concern_led_opening_and_logistics": "Rep gathers some logistics (square footage corrected to 2600, two stories, three bedrooms, four beds, three couches/living rooms) but with no concern-led opening. Gathering is reactive to customer volunteering info, not proactive. No coverage of special items, addresses, property type at origin/destination, floor count nuance, walking distance, additional rooms like study/garage/shed.",
+    "packing_and_box_count": "Neither packing nor box count asked.",
+    "rate_lock_then_ask": "N/A \u2014 walkthrough scheduler call, no pricing discussed.",
+    "booking_confirmed": "Walkthrough booked: 1:15 PM today or Thursday (customer option), link to be sent via text, forwarded to 'juel' to arrange. Partial confirmation of time and delivery method, but no traditional booking details (move date, addresses, crew size, phone confirmation) because the walkthrough itself is the next step, not the move."
+  },
+  "top_strength": "Rep successfully routed the call to the walkthrough-scheduler track by identifying house size and immediately offering the virtual walkthrough as the appropriate next step, then cleanly confirmed the appointment time and handoff mechanism.",
+  "coaching_note": "On walkthrough-scheduler calls, still ask the two-concerns question and deliver the Two Promises (reliability and damage protection) before ending the call \u2014 they belong in step 3, before the probing that happens at the walkthrough, and doing so strengthens the customer's trust and addresses objections before they surface at the video call."
+}

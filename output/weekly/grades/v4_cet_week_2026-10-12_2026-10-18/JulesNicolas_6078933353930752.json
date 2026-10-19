@@ -1,0 +1,32 @@
+{
+  "call_id": "6078933353930752",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 7.9,
+  "datetime_ct": "2026-10-15 14:45 CT",
+  "external_number": "+14696677068",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 0,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 23,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. The two-concerns opener about on-time reliability and damage protection was completely absent.",
+    "two_layers_deep": "Customer raised concern about past experience with inefficient movers ('took off for lunch and then we got charged for all of it'). Rep acknowledged briefly but did not probe deeper with 'tell me more about that' or similar follow-up.",
+    "value_days": "Not addressed. No mention of whether October 25th is a Best Value Day or if cheaper alternatives exist.",
+    "rate_lock_then_ask": "Neither rate lock nor explicit ask for business ever made. Call ended with 'feel free to let us know' \u2014 a soft defer, not a close. No mention of rate protection or deposit terms."
+  },
+  "top_strength": "Jules effectively gathered operational details (apartment layout, inventory, special requests like bed assembly and furniture wrapping) and responded helpfully to the customer's packing concern by explaining the hourly rate applied to packing time.",
+  "coaching_note": "This was a confirmation/adjustment call, not a full sales call, but it completely skipped the Two Concerns question, Two Promises (especially on-time reliability given the customer's stated past concern about crew efficiency and lunch breaks), value-days pricing optimization, and any explicit ask\u2014leaving all the deal-closing work undone and no rate lock in place."
+}

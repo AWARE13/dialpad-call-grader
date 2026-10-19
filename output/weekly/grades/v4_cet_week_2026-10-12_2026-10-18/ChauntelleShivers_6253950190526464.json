@@ -1,0 +1,33 @@
+{
+  "call_id": "6253950190526464",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 7.4,
+  "datetime_ct": "2026-10-13 14:40 CT",
+  "external_number": "+18178455322",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 42,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing without the two-concerns opener.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer.",
+    "value_days": "Rep mentioned availability on the 16th instead of the requested 15th but did not frame it as a savings opportunity or give a dollar amount comparison. Partial: 'We do have availability the day after so the six the sixteenth.' No dollar savings offered, no flexibility question about date.",
+    "rate_lock_then_ask": "Weak. Rep mentioned 'no deposit that's due at the time of booking' but never asked for the business explicitly. Customer said 'Let me talk with my dad' and rep moved to email without closing: 'Okay, and then I'm gonna go ahead and email this over to you just so you have it, and then there is no deposit that's due at the time of, you know, booking either.' No plain ask like 'Would you like our help with your move?'"
+  },
+  "top_strength": "Chauntelle gathered detailed logistics early\u2014beds, sectional, sofa, box count, pod size\u2014and captured the customer's name and confirmed it, setting up for a quote.",
+  "coaching_note": "Chauntelle must ask the two-concerns question before any probing, then deliver both promises (On-Time Guarantee and No Worries Damage Coverage) with permission before estimating; she also skipped the explicit ask for the business at close, allowing the customer to leave without a clear next step."
+}

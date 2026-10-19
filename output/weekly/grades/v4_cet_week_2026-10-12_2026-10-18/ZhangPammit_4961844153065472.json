@@ -1,0 +1,31 @@
+{
+  "call_id": "4961844153065472",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.6,
+  "datetime_ct": "2026-10-14 21:40 CT",
+  "external_number": "+15127913667",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 16,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 8,
+  "total_score": 65,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talk to a lot of people everyday and most of them have one or two concerns either the movers are not showing up on time, or damage their items are either of those or concern for you",
+    "two_layers_deep": "Customer said 'No' to both concerns; rep never probed deeper or asked follow-up questions to understand underlying worries",
+    "value_days": "No mention of value days, day-of-week pricing comparison, or date flexibility savings",
+    "rate_lock_then_ask": "there's no deposit required, no risk in securing your spot in case if you wanted to reschedule or to cancel... Would you like me to lock that in for you?"
+  },
+  "top_strength": "Rep delivered both promises in full detail (On-Time Guarantee with specific dollar amounts and No Worries Damage Coverage with coverage limits and claim timeline) and anchored the estimate well with a realistic range tied to the customer's specific move profile.",
+  "coaching_note": "Step 2 stopped short: when the customer gave a 'No' to both concerns, the rep should have probed deeper ('tell me more about what you're most concerned about on this move') rather than pivoting immediately to the promises \u2014 this is the heaviest-weighted section and requires two layers on whatever the customer does surface."
+}

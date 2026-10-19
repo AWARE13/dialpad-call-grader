@@ -1,0 +1,31 @@
+{
+  "call_id": "4944226260131840",
+  "rep_name": "Joanna Ballon",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 14.3,
+  "datetime_ct": "2026-10-18 15:31 CT",
+  "external_number": "+16083202212",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 54,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Since we talked to a lot of customers everyday, some of their concerns are movers not routing on time or damages to their Adams. Are this any of your concerns as well?",
+    "two_layers_deep": "Customer raised timing concern; Joanna acknowledged but did not ask follow-up probes like 'tell me more about that' \u2014 she moved into solution mode instead of layering deeper.",
+    "value_days": "If we are moving on Wednesday or Thursday, it's $104 per hour per mover. So for two men it's $208 per hour. If it's gonna be on Friday, it's $220 per hour. So, just depending when you will do the move. The rate will change. ... Wednesday and Thursday is $208.",
+    "rate_lock_then_ask": "Now with that being said would you like our help for this move on Wednesday? [Customer says not sure yet, needs to confirm with companies.] I understand. Mm-hmm so we, I just wanna make sure I got that correct. Do you want us to put you on the schedule again, if you need to reschedule, just let us know ahead of time. [No rate lock or deposit mention before the ask, and the ask itself was softened into an out.]"
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details systematically (truck location, pickup address, destination address, parking situation, truck size, large items, box count, walking distance) and did so efficiently without derailing the call.",
+  "coaching_note": "Step 2 needs a second layer: when the customer raised timing concerns, Joanna should have asked 'tell me more about that' and held silence instead of pivoting immediately into reassurance and promises \u2014 the customer's concern stayed unfully explored. Step 7: introduce rate lock and no deposit *before* asking for the business, and use a clean ask without an escape route."
+}

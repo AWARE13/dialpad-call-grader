@@ -1,0 +1,33 @@
+{
+  "call_id": "5931087331893248",
+  "rep_name": "Nicole Tolete",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 6.0,
+  "datetime_ct": "2026-10-12 19:18 CT",
+  "external_number": "+12063902029",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 3,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep skipped directly to probing logistics after greeting.",
+    "two_layers_deep": "Customer said 'No, not really' when asked about concerns \u2014 no concerns raised, so N/A.",
+    "value_days": "Not addressed. No mention of day-of-week pricing or flexibility.",
+    "rate_lock_then_ask": "Rep said 'And secure a spot, there's no deposit required if you have to reschedule or cancel, no fees for that either. And would you like me to get you on the schedule?' \u2014 rate lock mentioned but the ask is softened by the customer's objection ('I'm still getting some quotes') and rep accepted it without pushing."
+  },
+  "top_strength": "Nicole delivered a comprehensive, clear pricing breakdown with all inclusions and the three customer perks (No Worries Damage Coverage, Meet Your Mover, On-Time Guarantee) stated in full, and provided a personalized estimate range ($624\u2013$832 for 3\u20134 hours) grounded in the specific job details.",
+  "coaching_note": "Ask the two-concerns question before any probing \u2014 it's the card's primary opener for step 2 and comes before logistics details \u2014 and follow up with genuine depth on whatever the customer names, rather than accepting a quick 'No, not really' and moving on."
+}

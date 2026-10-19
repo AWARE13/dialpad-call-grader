@@ -1,0 +1,35 @@
+{
+  "call_id": "5220785109901312",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 5.5,
+  "datetime_ct": "2026-10-18 16:37 CT",
+  "external_number": "+17373096348",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_handling": "Rep asked for name at top ('I'm looking to speak with DC'), customer provided Roselyn Pammit, but rep never used customer name again in the call after that point.",
+    "quid_pro_quo": "No framing of time investment, dependability promise, or explicit agreement before probing. Rep jumped directly into 'just to make sure we have the correct details' as a kickoff call retroactively.",
+    "two_concerns_question": "Never asked. Rep went straight into logistics checklist without surfacing customer concerns.",
+    "two_promises": "On-Time Guarantee and No Worries Damage Coverage were never mentioned.",
+    "concern_led_opening": "Rep did not ask 'What items in this move are you most concerned about?' Instead went directly to address confirmation and logistics.",
+    "packing_and_box_count": "Box count asked: 'typical back count based on your home size is 75 to 95 boxes. Do you feel that you fall within that range?' Packing asked: 'Do you need help in packing?'",
+    "walkthrough_routing": "Rep correctly identified 1800 sq ft home size qualifies for virtual walkthrough: 'normally based on your home size, we do a virtual walkthrough.' Confirmed customer could do it today, created FaceTime link, and routed cleanly to walkthrough with proper handoff."
+  },
+  "top_strength": "Rep correctly identified the move size threshold for virtual walkthrough routing and executed a clean handoff with link creation and confirmation.",
+  "coaching_note": "This is a kickoff call, not an initial sales call, but it still skipped Two Promises and any discovery of customer concerns\u2014neither should be deferred even on callbacks."
+}

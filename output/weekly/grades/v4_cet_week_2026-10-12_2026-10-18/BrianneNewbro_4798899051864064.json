@@ -1,0 +1,34 @@
+{
+  "call_id": "4798899051864064",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 5.4,
+  "datetime_ct": "2026-10-13 16:25 CT",
+  "external_number": "+18052351557",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly from confirming date flexibility into logistics probing.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer at step 2 because the question was never asked.",
+    "value_days": "Not addressed. Rep confirmed Monday the 19th but never mentioned pricing differences by day or asked about date flexibility for savings.",
+    "rate_lock_then_ask": "Never asked for the business. Customer said 'I have a more competitive quote elsewhere' and hung up. Rep said 'Okay, not a problem. Thank you so much for your time.' with no attempt to lock rate, remove deposit concerns, or ask for the move."
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details efficiently \u2014 addresses, floor levels, elevator access, walking distances, furniture inventory, and box count \u2014 establishing a solid foundation for the estimate.",
+  "coaching_note": "The two-concerns question must come before probing; without it, you miss the customer's actual worries and have no way to address them with the two promises \u2014 which were never delivered at all on this call. The customer objected on price with no relationship built, and there was no attempt to ask for the business or lock the rate."
+}

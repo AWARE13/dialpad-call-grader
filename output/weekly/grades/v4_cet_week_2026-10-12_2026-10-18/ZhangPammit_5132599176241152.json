@@ -1,0 +1,33 @@
+{
+  "call_id": "5132599176241152",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 14.9,
+  "datetime_ct": "2026-10-15 18:51 CT",
+  "external_number": "+14704694864",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 8,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people everyday and most of them have one or two concerns. Either the movers are not showing up on time or damage to their items or either of those or concern for you.",
+    "two_layers_deep": "Customer declined to engage on concerns, stating she had already done research and was aware of coverage; rep pivoted to confirmation rather than probing deeper.",
+    "value_days": "Rep made no mention of value days, cheaper days, or date flexibility relative to pricing.",
+    "rate_lock_then_ask": "Rep said 'when you call us they will know that if you just provide your name then they can be able to pull it up with the same information as well' but did not explicitly state rate lock, no deposit, or ask for the business as a clear yes/no decision before offering to email."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details (addresses, floor levels, parking distances, item specifics) without meandering and delivered both promises (on-time guarantee with dollar terms and $2,000 damage coverage) clearly early in the call.",
+  "coaching_note": "Step 6 and Step 7 were both skipped: rep never circled back to ask what was still concerning the customer about the move, and never asked for the business with a plain yes/no ('Would you like our help?'); instead she offered to email the quote and let the customer call back, which is a built-in out that avoids the close."
+}

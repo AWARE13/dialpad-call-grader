@@ -1,0 +1,34 @@
+{
+  "call_id": "6545745623425024",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 14.3,
+  "datetime_ct": "2026-10-15 17:17 CT",
+  "external_number": "+12817938100",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 0,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 63,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people everyday and most of them have one of two concerns either the mover is not showing up on time or damage to their items, or either of those a concern for you",
+    "two_layers_deep": "Customer raised no concerns, so N/A \u2014 she said 'No' to both and 'we've never had a problem'",
+    "value_days": "Rep never addressed value days, pricing, date flexibility, or any estimate at all",
+    "rate_lock_then_ask": "Call ended with 'expect a call back from me after an hour' \u2014 no pricing presented, no rate lock offered, no ask for the business"
+  },
+  "top_strength": "Jevic delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with clear terms, closed the loop with a confirmation, and gathered comprehensive logistics details including special items, furniture inventory, packing needs, and both addresses.",
+  "coaching_note": "The call ended without providing any estimate, pricing anchor, value days discussion, or explicit ask for the business \u2014 Jevic collected information and promised a callback in an hour, which means step 5 and 7 were entirely skipped and step 6 was never attempted."
+}

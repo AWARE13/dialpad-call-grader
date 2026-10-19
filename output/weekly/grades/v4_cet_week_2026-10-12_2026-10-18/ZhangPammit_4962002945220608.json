@@ -1,0 +1,32 @@
+{
+  "call_id": "4962002945220608",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.9,
+  "datetime_ct": "2026-10-17 18:50 CT",
+  "external_number": "+16096363812",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 76,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly from probing to scheduling the walkthrough.",
+    "two_layers_deep": "N/A \u2014 no concerns raised at step 2.",
+    "value_days": "N/A \u2014 call is walkthrough_scheduler type.",
+    "rate_lock_then_ask": "N/A \u2014 call is walkthrough_scheduler type."
+  },
+  "top_strength": "Zhang gathered comprehensive logistics details across both addresses (bedrooms, square footage, parking, access, box count, packing needs) and correctly identified the move as appropriate for a virtual walkthrough rather than attempting to quote sight-unseen.",
+  "coaching_note": "Before routing to a walkthrough, Zhang should have asked the two-concerns question and delivered the two promises (On-Time Guarantee and No Worries Damage Coverage) \u2014 the v4 card places these in step 3, before probing, specifically so they land on every call type."
+}

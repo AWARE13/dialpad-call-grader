@@ -1,0 +1,34 @@
+{
+  "call_id": "6587901778108416",
+  "rep_name": "Jules Nicolas",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 9.6,
+  "datetime_ct": "2026-10-13 17:29 CT",
+  "external_number": "+16362120891",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 54,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics probing without surfacing the customer's concerns about reliability or damage.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during step 2, because the two-concerns question was never asked.",
+    "value_days": "Never addressed. Rep quoted availability on Oct 24th but did not identify which Value Day branch applied or offer any savings alternative.",
+    "rate_lock_then_ask": "Rep stated 'we still do not require any deposit so you, whenever you're ready to get it scheduled. Feel free to just let us know.' This mentions no deposit but never asks for the business \u2014 the customer was left to decide on their own ('I will review everything I'm kind of getting a couple of quotes around town but I will let you know once I get decision')."
+  },
+  "top_strength": "Jules gathered comprehensive logistics details efficiently \u2014 addresses, floor counts, elevator access, existing inventory from prior move, square footage, special items (mechanical couch), and both packing options with clear pricing ranges.",
+  "coaching_note": "Step 2 (the two-concerns question) was entirely skipped, so the rep never surfaced what actually matters to Katie; this is the single biggest miss on the card. Also missing: the Two Promises (On-Time Guarantee and No Worries Damage), the value days analysis, the prep framing (Save Your Ass), and an actual ask for the business \u2014 all of which cost this call significantly."
+}

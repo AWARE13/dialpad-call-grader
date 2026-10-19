@@ -1,0 +1,31 @@
+{
+  "call_id": "5975649865736192",
+  "rep_name": "Jules Nicolas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 19.5,
+  "datetime_ct": "2026-10-13 14:07 CT",
+  "external_number": "+18172012870",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 12,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. The rep never asked the standard two-concerns opener about movers showing up on time or damage to items.",
+    "two_layers_deep": "Travis raises damage concerns and the rep digs deep: 'So how do you handle that?' Travis follows up with Texas 60\u00a2 per pound question, and Jules responds with blanket wrapping, shrink wrap, and $2,000 No Worries coverage explanation. Further follow-up on disassembly/reassembly: 'we can help you with any disassemble or reassembly for the furniture.'",
+    "value_days": "Jules identifies the cheaper day (Sunday at $97/hr vs Friday at $111/hr) and gives total dollar savings: 'if you're flexible on a Sunday it's actually gonna be about for eight hours it's gonna be $3,254 so, like $500 almost a $500 difference.' Customer accepts and switches to Sunday.",
+    "rate_lock_then_ask": "No rate lock or no-deposit language mentioned before or after the ask. Jules says 'Awesome, alright, well I'll get you sorted out right now' and mentions sending a confirmation email, but never explicitly asked 'Would you like our help with your move?' or said no rate lock/no deposit language."
+  },
+  "top_strength": "Jules expertly handled the customer's detailed probing on damage coverage and prep procedures, going two layers deep on the customer's core concerns about protection and billing, and successfully pivoted the customer to a lower-cost day by expressing the savings as a clear $500 total dollar figure.",
+  "coaching_note": "Add the two-concerns question early in step 2 to surface what matters most to this customer before diving into logistics, and always confirm the ask explicitly ('Would you like our help with your move?') with rate-lock and no-deposit framing before booking details."
+}

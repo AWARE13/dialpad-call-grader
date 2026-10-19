@@ -1,0 +1,34 @@
+{
+  "call_id": "6722600716509184",
+  "rep_name": "Nicole Tolete",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 10.5,
+  "datetime_ct": "2026-10-15 22:26 CT",
+  "external_number": "+19453668220",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 16,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 5,
+  "total_score": 79,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Nicole moved directly from gathering details into pricing without using the two-concerns question from the card.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised during step 2 (customer said 'No, not really. Everything is replaceable').",
+    "value_days": "Nicole said 'Yeah, we can definitely do this coming Sunday or Monday. And Monday is actually much cheaper than Sunday' and then later corrected herself: 'Yes, sorry, I would like to correct myself. It actually costs cheaper on Sunday then Monday. Do you prefer moving on Sunday or Monday?' She identified the cheaper day (Sunday) and offered it. The customer chose Sunday ('Sunday is fine too the earlier the better').",
+    "rate_lock_then_ask": "Nicole stated 'to secure a spot there's no deposit required. If you have to reschedule or cancel no fees for that either. And would you like me to get you on the schedule?' The rate lock was not mentioned. The ask came immediately after the no-deposit statement, but there was no rate lock to precede it, and the ask itself included a built-in out: the customer replied 'Can you send me that information cause I gotta make one more call... if you could just send me the quote and if I go with you guys, I'll just give you a callback' and Nicole accepted without pushing back."
+  },
+  "top_strength": "Nicole gathered comprehensive logistics details with a complete concern-led opening and followed through on all probing items including special items, addresses, floor level, storage rooms, appliances, boxes, valuables, and parking distance.",
+  "coaching_note": "Never skip the two-concerns question \u2014 it is the primary opener for step 2 and should land before any probing. When a customer declines to book on the call, do not accept without making a genuine second ask; sending a quote and waiting for a callback is different from asking for the business."
+}

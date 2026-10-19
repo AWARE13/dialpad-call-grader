@@ -1,0 +1,33 @@
+{
+  "call_id": "5134982681763840",
+  "rep_name": "Zhang Pammit",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 13.2,
+  "datetime_ct": "2026-10-15 18:08 CT",
+  "external_number": "+15072810667",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NOT ASKED \u2014 rep moved directly into probing without asking about on-time or damage concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer in step 2 context.",
+    "value_days": "So our best, well our best value days is that's Tuesdays, Wednesdays Thursdays including Monday and Sunday is cheaper compared to Friday and Saturday. So the rate is $100 if that's Friday and Saturday but for Sunday and Monday until Thursday it's only $96 per hour per mover. / That was $4 an hour that's fine we'll do Friday. \u2014 Rep identified Best Value Days, quoted the savings as a total dollar difference ($4/hour \u00d7 hours = ~$18-20 total), asked about flexibility implicitly by offering the option, but customer declined and stayed with Friday.",
+    "rate_lock_then_ask": "no deposit report no recent securing your spot. In case if you wanted to reschedule or to cancel then all you have to do is just simply give us a call at anytime. Would you like me to reserve the movers for you on tomorrow? / Yes, yes, please. \u2014 Rep mentioned no deposit, rate lock implicit in reservation, then asked plainly for the business with a clear yes received."
+  },
+  "top_strength": "Zhang expertly gathered all required logistics details (addresses, property type, floors, elevator, long walk, square footage, storage unit specs) and delivered a personalized estimate range ($500\u2013$900) that directly addressed the customer's specific move complexity.",
+  "coaching_note": "Open with the two-concerns question (on-time guarantee and damage protection) before launching into logistics probing \u2014 this step is the anchoring moment that frames the entire call and shows you understand what matters to the customer, and you skipped it entirely."
+}

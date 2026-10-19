@@ -1,0 +1,34 @@
+{
+  "call_id": "6511643056709632",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 5.6,
+  "datetime_ct": "2026-10-13 19:22 CT",
+  "external_number": "+19134262554",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 8,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 71,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked": "Can I have your first and last name please... It's Emily. Last name G-O-R-A-C-K-E.",
+    "name_used": "Jules never uses Emily's name again after collecting it",
+    "quid_pro_quo": "This should take me about ten to fifteen minutes and then I'd be able to get you a quote you can depend on okay, great.",
+    "two_concerns_question": "Never asked",
+    "promises_delivered": "Neither On-Time Guarantee nor No Worries Damage Coverage mentioned",
+    "walkthrough_trigger": "Well, you know, what typically for homes this size it is best estimated if we can do a virtual walkthrough like we're going to jump into a video call and then you can walk us through the house. Is that something you have availability for?"
+  },
+  "top_strength": "Jules correctly identified that the 2400 sq ft two-story home warrants a virtual walkthrough and cleanly routed to it, securing the customer's availability and confirming details (address, move date, square footage, bedrooms, new address) before handing off.",
+  "coaching_note": "Jules never asked the two-concerns question (reliability/damage) or delivered the Two Promises (On-Time Guarantee and No Worries Damage Coverage) that should land before probing\u2014these need to happen in the first 2-3 minutes on every call, including walkthrough-scheduler calls, because Step 3 now scores on all call types."
+}

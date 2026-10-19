@@ -1,0 +1,31 @@
+{
+  "call_id": "5924778991722496",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 9.2,
+  "datetime_ct": "2026-10-15 14:38 CT",
+  "external_number": "+15129215236",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "I do talk to a lot of people everyday and they do express a couple of concerns like movers not arriving on time items getting damage, any concerns that you would like me to address right off the top.",
+    "two_layers_deep": "Customer said 'I think saw most of them on the website. I think it kinda handled unless the concerns with that department. Is there any like a Max? I guess payment or like, time you'd say.' Rep acknowledged but asked about minimum instead of going deeper into customer's actual concern about payment/time.",
+    "value_days": "No mention of value days, pricing contrast, or date flexibility for cost savings.",
+    "rate_lock_then_ask": "Rep never asked for the business. Call ended with 'I'm gonna send you another email. Do you have any other question that I can answer for you?' followed by logistical follow-up questions, then 'Any other questions?' and closure without an explicit ask to book or confirm the move."
+  },
+  "top_strength": "Chauntelle gathered comprehensive logistics details efficiently\u2014addresses, floor levels, parking conditions, furniture inventory, box count, unit numbers, and arrival window\u2014all organized and noted for the crew.",
+  "coaching_note": "You never asked for the business or confirmed the booking explicitly; the call ended with follow-up questions about TV packing instead of closing with a clear ask and confirmation. Also skip the pricing framing entirely (contrast, no-notes line, fee transparency) and never ask 'How do you feel about that?' after presenting the estimate."
+}

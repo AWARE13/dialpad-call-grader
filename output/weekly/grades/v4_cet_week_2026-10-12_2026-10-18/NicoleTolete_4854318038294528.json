@@ -1,0 +1,33 @@
+{
+  "call_id": "4854318038294528",
+  "rep_name": "Nicole Tolete",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 14.8,
+  "datetime_ct": "2026-10-13 16:19 CT",
+  "external_number": "+12103727860",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 71,
+  "pass": false,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "name_asked_and_used": "Can you please provide your first and last name again? Deborah, D-E-B-R-A Christison C-H-R-I-S T-E-N-S-E-N. [Later used:] Okay, thank you so much.",
+    "quid_pro_quo": "This call will just take about ten to fifteen minutes and you can walk away with a quote you can depend on does that sound good to you? Of course, thank you.",
+    "two_concerns_question": "Not asked. No version of the two-concerns opener about on-time arrival or damage was used.",
+    "promises_delivered": "No worries damage coverage, we provide up to $2,000 per move to repair replace or reimburse for any accidental damages... and finally we have on time guarantee. If we cannot make it and the time window that we arrange we immediately start discounting money of your final bill...",
+    "concern_led_opening": "Are we moving anything heavy like work out appointment safe Ari, piano or anything that's like \u00a3300 or more? [followed by logistics gathering on addresses, floors, parking, square footage, etc.]",
+    "packing_and_box_count": "Do you also need our help to pack your small items into boxes like your cloths kitchen items? [customer declined]. Only packing was asked; box count was not asked.",
+    "value_days": "N/A \u2014 walkthrough_scheduler call, step 5 not scored",
+    "rate_lock_then_ask": "N/A \u2014 walkthrough_scheduler call, step 7 not scored"
+  },
+  "top_strength": "Nicole established a clear, confident quid pro quo with time-boxing and a dependable-quote promise, and thoroughly gathered all essential logistics details (addresses, floors, property type, special items) before pivoting to the walkthrough.",
+  "coaching_note": "Lead with the two-concerns question (on-time arrival or damage) before diving into logistics probing \u2014 this grounds the conversation in what matters to the customer and creates the opening for Step 3's promises to land with purpose."
+}

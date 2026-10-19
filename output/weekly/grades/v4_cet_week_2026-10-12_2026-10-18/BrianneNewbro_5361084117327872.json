@@ -1,0 +1,32 @@
+{
+  "call_id": "5361084117327872",
+  "rep_name": "Brianne Newbro",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 6.1,
+  "datetime_ct": "2026-10-16 15:36 CT",
+  "external_number": "+17162624627",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 0,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep proceeded directly to logistics probing without asking about concerns regarding movers arriving on time or damage to items.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer at step 2.",
+    "value_days": "Not addressed. Rep did not identify the day chosen as a Value Day branch or offer any savings opportunity based on date flexibility.",
+    "rate_lock_then_ask": "Never asked for the business. Rep confirmed arrival window and said 'I'm gonna send this email over. If you do have any questions or concerns before the twenty seventh please don't hesitate to reach out' \u2014 a closing statement, not a commitment ask or rate lock."
+  },
+  "top_strength": "Brianne gathered logistics details systematically and thoroughly \u2014 addresses, unit numbers, special items, fragile glass coffee table, elevator access \u2014 and confirmed the arrival window with the customer.",
+  "coaching_note": "This call skipped the two core framework steps (two-concerns question and both promises about reliability and damage protection), never asked for the business explicitly, and gave away the pricing framing benefit (only one of three elements: no-notes line was mentioned, but pricing contrast and fee transparency with the 2.5-hour minimum were absent or buried late). Start every call with the two-concerns opener and deliver the promises before probing."
+}

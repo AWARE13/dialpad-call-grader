@@ -1,0 +1,33 @@
+{
+  "call_id": "6668455724752896",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 19.0,
+  "datetime_ct": "2026-10-15 18:11 CT",
+  "external_number": "+17273423211",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. The rep never asked about the customer's concerns regarding movers showing up on time or damage to items.",
+    "two_layers_deep": "N/A \u2014 no concerns were surfaced by the rep's questioning.",
+    "value_days": "Not addressed. The rep quoted availability for Sunday October 18th afternoon and Thursday October 29th afternoon but never discussed whether either was a Best Value Day or offered any savings comparison.",
+    "rate_lock_then_ask": "Chauntelle: 'So just so you know, like, there's no upfront costs with us either. So even when you call back and you decide like, okay, let's go ahead and reserve it, nothing is due until after the move is completed so you can make changes and move stuff around, if you need to cancel it, we don't have any fees for those things.' Then: 'Okay, Sunday October 18th and then I do have a first location...' and proceeds to book without an explicit 'Would you like our help with your move?' ask, though booking was secured."
+  },
+  "top_strength": "Chauntelle handled a complex multi-destination move logistics scenario with clarity, asking detailed questions about load sequencing, floor levels, and elevator access, then confirmed all three pickup/drop-off points and the specific items moving to each location.",
+  "coaching_note": "Step 2 was skipped entirely \u2014 the rep never asked the two-concerns question or any equivalent open-ended probe to surface what mattered most to the customer before diving into logistics and pricing, missing the chance to connect the estimate to their actual fears."
+}

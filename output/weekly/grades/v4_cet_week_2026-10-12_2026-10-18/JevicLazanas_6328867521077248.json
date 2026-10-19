@@ -1,0 +1,33 @@
+{
+  "call_id": "6328867521077248",
+  "rep_name": "Jevic Lazanas",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 6.9,
+  "datetime_ct": "2026-10-16 13:49 CT",
+  "external_number": "+14095020607",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 42,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing without using the two-concerns opener.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer in step 2.",
+    "value_days": "Not addressed. Rep gave a range (3-4 hours at $222/hr with $150 trip fee = $816-$1,038) but never identified the day-of-week branch or offered a cheaper day.",
+    "rate_lock_then_ask": "Weak. Rep asked 'would you like me to go ahead and secure this or you know, get you on the schedule for tomorrow?' \u2014 soft ask with an out built in ('or... get you on the schedule'). No rate lock or no-deposit mention before the ask. Customer said yes, but the framing was not the v4 card structure."
+  },
+  "top_strength": "Jevic effectively managed a repeat customer by referencing the prior move, confirming logistics details methodically, and securing the booking with confidence despite a soft ask structure.",
+  "coaching_note": "This is a repeat-customer call and the card steps are designed for new leads \u2014 Jevic skipped the Two Concerns question (step 2), both promises (step 3), and the value-days branch (step 5) entirely. On the next first-time call, lead with the two-concerns question before probing, deliver the On-Time Guarantee and No Worries Damage Coverage, and always check if a cheaper day saves money before asking about date flexibility."
+}

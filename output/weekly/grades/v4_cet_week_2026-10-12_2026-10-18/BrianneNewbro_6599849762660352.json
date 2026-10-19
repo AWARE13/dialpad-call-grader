@@ -1,0 +1,31 @@
+{
+  "call_id": "6599849762660352",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 9.6,
+  "datetime_ct": "2026-10-15 15:52 CT",
+  "external_number": "+18324656352",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 2,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 41,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "most of our customers do have two concerns when moving the movers being on time or damage to their items, when being moved are any of those are concerned for you with this move today?",
+    "two_layers_deep": "Brianne acknowledged damage concern but moved immediately into the No Worries Damage Coverage pitch without asking 'tell me more about that' or exploring the customer's prior experience with her sub damage.",
+    "value_days": "Never mentioned or discussed.",
+    "rate_lock_then_ask": "Never asked for the business; call ended with 'I'm gonna send this email to you' and 'we'll see you on the twenty first' \u2014 booking was already in the system from online intake, no explicit ask or rate lock presented."
+  },
+  "top_strength": "Brianne built exceptional rapport and went deep on logistics with genuine concern-led probing (special items, fragile goods, parking constraints, lift gate accommodation), and delivered the No Worries Damage Coverage promise with full terms and claims timeline.",
+  "coaching_note": "This call skipped the entire estimate step (no pricing anchor, no value days, no prep framing, no 'how do you feel about that' temperature check) and never asked for the business explicitly \u2014 the booking was already in the system, so Brianne treated this as a confirmation call rather than a sales call, which left 30 points of the rubric unscored and failed to lock in the commitment with rate-lock language."
+}

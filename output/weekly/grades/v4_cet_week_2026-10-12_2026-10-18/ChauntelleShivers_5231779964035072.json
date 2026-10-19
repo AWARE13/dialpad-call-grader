@@ -1,0 +1,31 @@
+{
+  "call_id": "5231779964035072",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.6,
+  "datetime_ct": "2026-10-13 16:50 CT",
+  "external_number": "+15126639631",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 3,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 42,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep jumped directly into confirming logistics without asking the primary concern opener.",
+    "two_layers_deep": "Customer raised concern about assumptions re: disassembly and packing. Rep acknowledged: 'That is correct. Yes, at no additional charge. Correct.' and 'Yes, so assumptions are correct. So yeah, we'll take care of all of the wrapping, padding protect and everything before they move it onto the truck.' Rep then probed further on furniture: 'what those look like for us' and followed up with China cabinet question: 'The China Cay, does it have glass on it or is it just wood?'",
+    "value_days": "Not addressed. No mention of alternative dates, day-of-week pricing strategy, or cost savings for flexibility.",
+    "rate_lock_then_ask": "Never asked for the business. Call ends with confirmation of email delivery and contact info but no explicit ask: 'So if you do need anything, please reach out to us.' This is not a booking attempt."
+  },
+  "top_strength": "Rep gathered comprehensive logistics details methodically\u2014addresses, square footage, all furniture pieces with care notes (glass china cabinet, multiple couches, dining tables, queen beds), parking situation at both locations, and box count placeholder\u2014creating a solid foundation for an accurate estimate.",
+  "coaching_note": "This call is missing the entire estimate conversation (pricing framing, anchored number, value days, prep framing, temperature check) and never asks for the business; rep confirmed details already in the system but did not sell\u2014add the explicit two-concerns question early, deliver the estimate with personalization, and close with a direct ask before sending the confirmation email."
+}

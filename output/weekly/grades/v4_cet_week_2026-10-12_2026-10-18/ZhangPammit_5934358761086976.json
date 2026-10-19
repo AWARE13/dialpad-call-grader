@@ -1,0 +1,31 @@
+{
+  "call_id": "5934358761086976",
+  "rep_name": "Zhang Pammit",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 17.6,
+  "datetime_ct": "2026-10-18 15:55 CT",
+  "external_number": "+18608343758",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 8,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 14,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 10,
+  "total_score": 74,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "So I just wanted to let you know that we talked to a lot of people everyday. Most of them have one or two concerns either their movers are not showing up on time or damage to their, its or either of those a concern for you.",
+    "two_layers_deep": "Customer said 'Yeah' and 'Oh, why you're asking this because I have not seen them yet' but rep pivoted to 'In general, is it the first time that you will be moving?' rather than deeper exploration of the concern. No follow-up silence or 'tell me more' probe on the damage or timeliness concerns raised.",
+    "value_days": "No mention of value days, cheaper days, or date flexibility pricing. Rep gave single estimate for Nov 7, customer wanted 12pm, rep accommodated to 9am without any discussion of cost savings on alternate days.",
+    "rate_lock_then_ask": "Upon checking here on the 7th of November we can be able to book her slot as early as 8:30 AM to 9:00 AM we're in there's no deposit record, no risk and securing your spot in case if you wanted to reschedule or to cancel then all you have to do is just simply give us a call at anytime. Would you like me to lock that in for you?"
+  },
+  "top_strength": "Zhang delivered both promises (On-Time Guarantee with specific dollar amounts and No Worries Damage Coverage up to $2,000) with clear, complete terms early in the call, and successfully booked the customer with full details confirmed.",
+  "coaching_note": "When a customer raises a concern in step 2, pause and dig deeper with 'tell me more about that' and silence rather than pivoting to logistics\u2014you acknowledged their uncertainty about movers and first-time jitters but never explored what specifically worried them, leaving the Two Layers Deep uncovered."
+}

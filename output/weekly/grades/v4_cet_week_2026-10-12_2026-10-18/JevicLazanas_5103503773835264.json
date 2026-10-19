@@ -1,0 +1,34 @@
+{
+  "call_id": "5103503773835264",
+  "rep_name": "Jevic Lazanas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 10.0,
+  "datetime_ct": "2026-10-12 19:36 CT",
+  "external_number": "+14694694472",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Rep never asked the two-concerns question. Customer concern about dresser difficulty was raised organically ('it's just a hard for one person to get it downstairs') but rep did not probe with a structured concerns framework.",
+    "two_layers_deep": "Not applicable \u2014 no concerns surfaced via the rubric's required opening question.",
+    "value_days": "Rep mentioned Thursday afternoon availability (3:30 PM) but never discussed value days, pricing differences by day, or date flexibility in those terms. No dollar savings offered.",
+    "rate_lock_then_ask": "Rep never asked 'Would you like our help with your move?' Never offered rate lock or no-deposit guarantee. Call ended with 'give us a callback so we can lock in the schedule' \u2014 customer did not book, rep did not ask for the business."
+  },
+  "top_strength": "Excellent logistics gathering \u2014 Jevic methodically confirmed addresses, property types, floor layouts, parking access, and item details with enough precision to produce an accurate estimate range.",
+  "coaching_note": "You skipped the entire Two Concerns framework (step 2) and both promises (step 3), jumping straight into logistics. Without uncovering what the customer actually feared about the move, you missed the chance to close those concerns and build trust before pricing \u2014 and you never asked for the business at the end. Rebuild your call flow: concerns first, promises second, then logistics, then estimate with prep framing, then ask."
+}

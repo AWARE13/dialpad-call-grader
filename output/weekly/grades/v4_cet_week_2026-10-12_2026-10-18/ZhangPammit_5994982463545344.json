@@ -1,0 +1,31 @@
+{
+  "call_id": "5994982463545344",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 25.8,
+  "datetime_ct": "2026-10-14 18:51 CT",
+  "external_number": "+14093702263",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 16,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 79,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "So we talked to a lot of people everyday and most of have, most of them have like one or two concerns either the movers are not showing up on time or damage to their items, or either of those to concern for you.",
+    "two_layers_deep": "Jim raised two concerns: timelines/reliability and damage to nice items. Rep followed with: 'Mm-hmm' acknowledgments and allowed Jim to expand on the family downsizing context and specific fragile items (curio cabinet, dresser, etc.), then reflected: 'So, from what I'm hearing, is that we're more concerns of damaging the item. Did I get it correct?'",
+    "value_days": "Rep mentioned: 'every week, this, we have Vali best valida days or our best valida days is every Tuesday to Thursday' but did not provide a total dollar savings comparison or ask for date flexibility when Jim declined (citing his fianc\u00e9e's work schedule and family obligations).",
+    "rate_lock_then_ask": "Rep stated rate lock and no deposit: 'on Saturday, we can be able to book her slot as early as 8:30 AM to 9:00 AM where and there's no deposit record, no risk and securing your spot.' Then asked: 'Would you like me to lock that in for you?' but this was softened by Jim's response ('Let me make a couple of more calls') and rep pivoted to 'I'll send you the email quotation' instead of restating the ask."
+  },
+  "top_strength": "Zhang delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full terms clearly stated early, and went two layers deep on concerns\u2014allowing the customer to fully explain the context of his fianc\u00e9e's family downsizing and the high-value nature of the items being moved.",
+  "coaching_note": "Step 6 (final concerns check) was never asked\u2014the call jumped directly to the ask after the estimate; add 'What's still concerning you about this move?' before attempting to close, and soften the rate-lock offer by leading with the ask itself before email follow-up."
+}

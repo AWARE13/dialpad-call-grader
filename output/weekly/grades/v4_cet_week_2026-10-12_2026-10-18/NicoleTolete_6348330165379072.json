@@ -1,0 +1,36 @@
+{
+  "call_id": "6348330165379072",
+  "rep_name": "Nicole Tolete",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 5.8,
+  "datetime_ct": "2026-10-16 14:39 CT",
+  "external_number": "+15125774649",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 38,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "NOT ASKED \u2014 no version of the two-concerns question about movers showing up on time or damage appears in the call.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer to probe deeply on.",
+    "value_days": "NOT ADDRESSED \u2014 no mention of value days, cheaper days, or date flexibility.",
+    "rate_lock_then_ask": "NEVER ASKED \u2014 Nicole never explicitly asked for the business. The call moves to booking details (confirmation of contact info, arrival window, crew size, addresses) but does not include a clear ask like 'Would you like our help with your move?' or 'Would you like to book this with us?' The booking appears pre-confirmed in Nicole's system rather than asked for on this call.",
+    "quid_pro_quo": "MISSING \u2014 Nicole launches immediately into estimate details without framing the call's time commitment, availability confirmation, or the value proposition of a dependable quote. No version of 'This will take about 10 to 15 minutes and you can walk away with a quote you can depend on' appears.",
+    "two_promises_full": "PARTIAL \u2014 Nicole delivers the damage coverage promise in detail ('up to $2,000 per move to repair, replace or reimburse for any accidental damages... insurance included... wrapping, moving blankets, pads on walls and floors') but never mentions the On-Time Guarantee. No permission lead-in is used. No 'Does that put those to rest?' close.",
+    "final_concerns": "THROWAWAY \u2014 'any other questions or anything for me before I let you go George' is a questions ask, not a concerns ask. The rubric explicitly states: 'Any questions?' gets an automatic no."
+  },
+  "top_strength": "Nicole delivered the damage coverage promise clearly and in detail, explaining the $2,000 coverage, wrapping protocol, and assembly/reassembly at no extra charge \u2014 building confidence on a key customer concern.",
+  "coaching_note": "Open with the two-concerns question ('movers showing up on time or damage to items') before any estimate discussion, and close step 2 by asking 'Are either of those a concern for you?' to surface what matters to this customer before pricing."
+}

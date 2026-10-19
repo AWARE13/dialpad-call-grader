@@ -1,0 +1,33 @@
+{
+  "call_id": "6116456560107520",
+  "rep_name": "Danah 2Celestial",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 6.7,
+  "datetime_ct": "2026-10-12 16:26 CT",
+  "external_number": "+14084763173",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. No version of the concern-opener about movers showing up on time or damage to items appeared in the call.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during step 2 exploration.",
+    "value_days": "Danah: 'So Sunday is one of our value days so the hourly rate for two movers is $192, everything's included gas and truck.' Savings identified as $192/hour rate (value day pricing stated), but not explicitly offered as a total dollar savings or flexibility asked.",
+    "rate_lock_then_ask": "Danah: 'Alright, perfect. Yeah. So I'll go ahead and send... I'm not gonna log in any for now and I'll send the estimate pricing everything to your email that any questions or if you're ready to move forward just give us a call.' No explicit rate lock stated. No deposit mentioned until after the ask. The ask itself ('if you're ready to move forward just give us a call') is softened with a built-in out (email option)."
+  },
+  "top_strength": "Danah gathered detailed logistics about what was being moved, packed, and stored, creating a clear picture of a complex intra-home move with kitchen packing.",
+  "coaching_note": "The two-concerns question was never asked, and the call skipped the Two Promises entirely \u2014 those are the two heaviest bookends in the card and they're worth 35 combined points; front-load them early and deliver them with permission before moving into probing."
+}

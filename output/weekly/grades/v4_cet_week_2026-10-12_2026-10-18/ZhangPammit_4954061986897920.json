@@ -1,0 +1,32 @@
+{
+  "call_id": "4954061986897920",
+  "rep_name": "Zhang Pammit",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 12.3,
+  "datetime_ct": "2026-10-16 21:57 CT",
+  "external_number": "+15124660405",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 8,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 12,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 60,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talk to a lot of people everyday and most of them have one or two concerns either the movers are not showing up on time or damage to their items are either of those a concern for you.",
+    "two_layers_deep": "Customer raised concern about expensive items and handling taxed items. Rep acknowledged ('I see. Oh.') but did not ask follow-up questions or probe deeper; instead moved immediately to 'it's actually good to hear that you don't have any concerns' and changed topics.",
+    "value_days": "No mention of Value Days, day-of-week pricing, or date flexibility anywhere in the call.",
+    "rate_lock_then_ask": "Rep never asked for the business. After providing the $7,154 estimate, customer said 'There's vent companies in Ali that 2000' and 'That's all I need to know.' Rep responded 'Would you like me to send you the email quotation' (passive request for follow-up, not a close). Customer declined: 'Yeah, no, you're good. Thank you man.' No rate lock mentioned, no explicit ask for the move, no booking attempt."
+  },
+  "top_strength": "Rep delivered both promises (On-Time Guarantee and No Worries Damage Coverage) clearly with full terms, and gathered all necessary logistics details including addresses, square footage, room count, garage, and access concerns before moving to estimate.",
+  "coaching_note": "You asked for the two-concerns question early and well, but when the customer actually raised a concern about expensive, delicate items, you acknowledged it and then skipped the second layer of probing\u2014asking 'tell me more about that' would have deepened the conversation and made the promises land harder; additionally, you gave the estimate but never asked for the business, and when the customer didn't buy, you offered to email instead of asking directly 'Would you like our help with your move?'"
+}

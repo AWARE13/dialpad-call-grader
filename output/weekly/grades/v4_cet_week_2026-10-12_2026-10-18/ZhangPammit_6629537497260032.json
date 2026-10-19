@@ -1,0 +1,31 @@
+{
+  "call_id": "6629537497260032",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 6.9,
+  "datetime_ct": "2026-10-13 14:25 CT",
+  "external_number": "+13253200886",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 8,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 53,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talk a lot of people everyday and most of them have one or two questions. Either the movers not showing up on time or damage your items or either of those a concern for you.",
+    "two_layers_deep": "Customer said 'No, I don't think so we're pretty flexible' and rep pivoted without digging deeper. When customer mentioned 'other pieces of furniture' rep acknowledged briefly ('That can be moved? Okay.') but never asked follow-up.",
+    "value_days": "Every Tuesdays Wednesdays and Thursdays where in the rate is cheaper compared to Friday and Saturday... So the rate for Monday is only $104 compared to $115 per hour. So in case you end up to and a half that's, is only $520... it is much cheaper for almost $55 compared to a Saturday move.",
+    "rate_lock_then_ask": "There's no deposit required. No recent occurring your spot and if ever, there will be changes then all you have to do is just simply give us a call \u2014 no explicit 'Would you like our help with your move?' ask presented; call ended with rep sending quote and customer saying she'd check with husband."
+  },
+  "top_strength": "Rep delivered both promises (On-Time Guarantee and No Worries Damage Coverage) clearly and comprehensively, with specific dollar amounts and terms, and gathered comprehensive logistics details including floor level, elevator status, parking access, and walking distances.",
+  "coaching_note": "Never asked 'How do you feel about that?' temperature check after the estimate, never returned to concerns at the end of the call, and never made an explicit ask for the business ('Would you like our help with your move?') \u2014 the call ended by simply offering to email the quote instead of closing for a commitment."
+}

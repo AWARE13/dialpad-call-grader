@@ -1,0 +1,32 @@
+{
+  "call_id": "5828538864017408",
+  "rep_name": "Nicole Tolete",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 12.7,
+  "datetime_ct": "2026-10-12 17:34 CT",
+  "external_number": "+12145355567",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 81,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Nicole moved directly into logistics and profile verification without asking the two-concerns opener.",
+    "two_layers_deep": "N/A - no concerns were raised by the customer.",
+    "value_days": "N/A - walkthrough_scheduler call type.",
+    "rate_lock_then_ask": "N/A - walkthrough_scheduler call type."
+  },
+  "top_strength": "Nicole expertly leveraged the customer's prior move history with Einstein to skip the walkthrough entirely, confidently providing an estimate (7.5\u20138.5 hours, $2,340\u2013$2,652) based on identical items and documentation, which is exactly the card's intended shortcut for repeat customers with no changes.",
+  "coaching_note": "Step 2 was skipped entirely \u2014 Nicole never asked the two-concerns question before probing, and only Step 3's No Worries Damage Coverage was mentioned (missing the On-Time Guarantee and permission lead-in); on future walkthrough-routing calls, ask the two-concerns question early to surface what matters most to the customer before routing to the walkthrough."
+}

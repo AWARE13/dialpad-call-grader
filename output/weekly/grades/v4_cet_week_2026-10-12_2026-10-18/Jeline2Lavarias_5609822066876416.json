@@ -1,0 +1,43 @@
+{
+  "call_id": "5609822066876416",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 7.5,
+  "datetime_ct": "2026-10-13 13:52 CT",
+  "external_number": "+13462251418",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Jeline: 'am I speaking with Rachel?' \u2014 used again as 'Rachel' at estimate and close",
+    "quid_pro_quo": "Jeline: 'this might take ten to fifteen minutes' and 'I'm gonna ask you questions regarding the move' \u2014 framing present but no explicit 'dependable quote' promise or clear wait for yes before continuing",
+    "two_concerns_question": "Never asked. Jeline moved directly to 'do you have any concerns about the moving process?' \u2014 not the two-concerns script",
+    "two_layers_deep": "Customer raised no concern, so n/a",
+    "concern_led_opening": "Jeline asked 'Are there anything heavy like equipment, safe or a piano?' and 'Anything valuable?' \u2014 but did not open with 'What items are you most concerned about?' \u2014 logistics gathered but not concern-led",
+    "packing_and_box_count": "Jeline asked 'do you have an estimated number of boxes' \u2014 box count covered. Packing service (would you like us to pack?) was never asked",
+    "promises_delivered": "No On-Time Guarantee or No Worries Damage Coverage mentioned at all",
+    "pricing_framing": "Jeline stated '$208 per hour...everything is included, gas and truck taxes, insurance, all the wraps and pads' and 'no hidden fees of any type' (fee transparency + not-a-guess commitment present). Cameron's no-notes line and pricing contrast (hourly vs all-inclusive framing) were absent",
+    "estimate_anchor": "Jeline gave '$520 for two movers' as the minimum, and later '$555' for Friday \u2014 anchored but not personalized to this customer's specific concerns or prep level",
+    "value_days": "Jeline mentioned 'regular rate for Friday' and noted pricing difference ($520 to $555) but did not identify the day branch, did not offer the saving as a total dollar amount in a value-day frame, and did not ask about date flexibility \u2014 partial attempt only",
+    "prep_and_temperature_check": "No Save Your Ass framing about preparation being the biggest factor in move duration. No 'How do you feel about that?' temperature check with silence",
+    "final_concerns_check": "Never asked. Jeline went straight to scheduling logistics without asking 'What's still concerning you about this move?'",
+    "rate_lock_then_ask": "Jeline stated 'we do not require any deposit you will only be asked to make the payment once we completed the move' (rate lock present, no deposit present) but then asked 'would you like to be on the schedule' \u2014 the ask is present but softened and muddled by the scheduling conversation that follows. Not a clean, plain 'Would you like our help with your move?'",
+    "booking_confirmed": "Date (tomorrow/Friday afternoon) and address (1600 Barton Springs Road, Austin) confirmed. Phone number, arrival window, and crew size were never confirmed. Notes for crew about concerns were not left"
+  },
+  "top_strength": "Jeline gathered logistics systematically (address, floor, elevator, special items, box count) and stayed organized through a complex scenario where the customer needed unloading-only service rather than a full move.",
+  "coaching_note": "Step 2 (two-concerns question) and Step 3 (both promises with lead-in) were skipped entirely \u2014 these are the bookend discovery moments that set up trust and positioning; starting with them before probing is critical to the v4 card flow."
+}

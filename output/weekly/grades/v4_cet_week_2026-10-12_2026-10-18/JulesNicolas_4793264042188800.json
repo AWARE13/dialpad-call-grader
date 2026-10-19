@@ -1,0 +1,34 @@
+{
+  "call_id": "4793264042188800",
+  "rep_name": "Jules Nicolas",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 5.0,
+  "datetime_ct": "2026-10-12 15:28 CT",
+  "external_number": "+15415491699",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 39,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep jumped directly to logistics without probing for customer concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during the call.",
+    "value_days": "Rep mentioned 'Wednesday, Thursday that's gonna be the cheaper day, the hour rate is $190 per hour' but did not offer the saving as a total dollar amount, did not clarify whether customer was already on a Best Value Day, and did not ask about date flexibility.",
+    "rate_lock_then_ask": "Never asked. Rep provided quote ($4340) but never stated rate lock guarantee, never mentioned no deposit policy, and never asked 'Would you like our help with your move?' The call ended with 'Feel free to ask for me' with the customer saying they will 'give that some thought.'"
+  },
+  "top_strength": "Jules gathered sufficient logistics details (addresses, move dates, bedroom count, furniture/packing status) and provided a clear, itemized estimate ($4340 with trip charge breakdown) without overselling.",
+  "coaching_note": "This call skipped the entire discovery framework: no two-concerns question, no promises about on-time guarantee or damage coverage, no temperature check on the estimate, and no explicit ask for the business \u2014 it ended as a ballpark inquiry instead of a sales conversation."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "5982922761609216",
+  "rep_name": "Amy Arbasa",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 5.2,
+  "datetime_ct": "2026-10-18 18:16 CT",
+  "external_number": "+15056811753",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 55,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "And most of them would mentioned that they have one or two concerns. Either the movers not showing up on time or damaging their items. What about you?",
+    "two_layers_deep": "Customer said no concern (I've always worked with pretty good movers) \u2014 no follow-up attempted, so n/a applies.",
+    "value_days": "If you want to do Friday, Saturday, the hourly rate is $222 and if you want to do Sunday, it's $210 and then the cheapest would be Monday to Thursday, which is $208. The Saturday. The Friday, Saturday would be the cheapest. So you get to save, like $12. \u2014 Amy stated value days but quoted hourly difference ($12/hour, not total dollar savings for the move); customer questioned the savings logic and Amy did not clarify or confirm flexibility.",
+    "rate_lock_then_ask": "Never asked \u2014 Amy pivoted to email delivery and did not ask for the business or offer rate lock/no deposit."
+  },
+  "top_strength": "Amy asked the two-concerns question cleanly before probing and gathered detailed logistics about the move (inventory, floor, walking distance, parking) efficiently.",
+  "coaching_note": "Step 5 and 7 were incomplete: Amy never delivered the Two Promises (On-Time Guarantee and No Worries Damage Coverage), never framed pricing contrast or gave a personalized estimate range, never held silence after the temperature check, and never asked for the business \u2014 instead pivoting to email and letting the customer shop competitors without a rate lock or booking attempt."
+}

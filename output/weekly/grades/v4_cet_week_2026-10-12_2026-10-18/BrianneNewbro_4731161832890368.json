@@ -1,0 +1,32 @@
+{
+  "call_id": "4731161832890368",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 11.0,
+  "datetime_ct": "2026-10-16 14:51 CT",
+  "external_number": "+17146886845",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talked to a lot of people everyday and most of them have one of two concerns either the mover is not showing up on time or damage to their items when being moved or either of those a concern for you.",
+    "two_layers_deep": "Diana raised picture frame damage concern, Brianne acknowledged it and pivoted directly to the promises without probing deeper ('tell me more about that'). Also mentioned bike near end but no follow-up dig.",
+    "value_days": "No mention of Monday being a pricing bracket or offer of alternative days. Rate stated as $208/hr for Monday November 23rd with no value-day context.",
+    "rate_lock_then_ask": "Brianne offered no deposit and rate lock ('there's no deposit required to get on our schedule. So no risk and secure in your spot') but then asked 'Would you like us to help you with that move on Monday the twenty third?' Diana responded 'Would I be able to get back to you cause I'm still getting quotes' and rep accepted without re-asking or closing."
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details with a genuine concern-led opening ('special considerations'), asked about packing and box count clearly, and delivered both damage and on-time promises with specific terms ($2,000 coverage, $50/$25 discount structure).",
+  "coaching_note": "Step 6 final concerns check was entirely skipped \u2014 Brianne moved directly to the close without asking 'What's still concerning you about this move?' or equivalent, and did not attempt to book when Diana hesitated, missing a critical moment to clarify objections and ask again."
+}

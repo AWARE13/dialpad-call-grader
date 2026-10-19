@@ -1,0 +1,32 @@
+{
+  "call_id": "5139954488090624",
+  "rep_name": "Nicole Tolete",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 10.5,
+  "datetime_ct": "2026-10-16 18:22 CT",
+  "external_number": "+18328854637",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 52,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. The rep never uses the card's two-concerns framing about movers not showing up on time or damage to items. The customer volunteered a concern about subcontractors and reliability, but Nicole did not ask the structured question.",
+    "two_layers_deep": "Customer raised concern about subcontractors and no-show crew. Nicole dug in: 'Uh-huh. Okay.' and then reflected back the concern and addressed it deeply with details about vetting, training, and the mover introduction email. The customer was satisfied and moved on.",
+    "active_listening_reflection": "Not explicitly reflected. Nicole acknowledged the concern ('Oh, yeah, yeah, they're all drug tested fully trained our movers') and provided detail, but did not use a summary reflection like 'So what I'm hearing is...' to confirm she understood all of it.",
+    "value_days": "Not addressed. Nicole quoted weekday ($190/hr) vs. weekend ($204/hr) as a rate difference but never framed it as Value Days or offered a total dollar saving or asked about date flexibility. The customer said 'last week of November' with no specific day.",
+    "rate_lock_then_ask": "Rate lock and no deposit mentioned ('if you will be booking with us there's no deposit. If you have to reschedule or cancel no fees for that either') but no explicit ask for the business follows. Instead the rep asks 'Does everything makes sense so far?' and then waits for the customer to volunteer that he wants to get quotes from others. The customer then initiates the close by asking for email, not Nicole."
+  },
+  "top_strength": "Nicole delivered both damage coverage and mover reliability assurances deeply and credibly in response to the customer's unprompted concern, and she gathered logistics details efficiently to produce an accurate range estimate ($1,598\u2013$1,788 weekday / $1,600\u2013$1,800 weekend) with a clear travel fee and no hidden charges disclosed.",
+  "coaching_note": "Ask the two-concerns question early as the card specifies, skip the final-concerns check entirely (it was never asked), and close with an explicit ask for the business ('Would you like our help with your move?') before the customer has to initiate the next step themselves."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "6242062379556864",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 15.3,
+  "datetime_ct": "2026-10-14 14:36 CT",
+  "external_number": "+18178465004",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 60,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep never asked about concerns like on-time arrival or damage to items before moving into logistics.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer at step 2.",
+    "value_days": "Rep said 'I was able to save you about $80 here' but never specified which day was cheaper, never gave the savings as a total dollar figure in context of a date flexibility question. The mention was isolated, not framed as value days.",
+    "rate_lock_then_ask": "Rep mentioned 'It is free to reserve the truck. It is free to cancel the truck' but never asked 'Would you like our help with your move?' Instead, rep went straight to time slot selection: 'So what timeslot would work best for you?' \u2014 implying acceptance without an explicit ask."
+  },
+  "top_strength": "Chauntelle gathered all essential logistics efficiently \u2014 addresses, furniture inventory, floor levels, square footage, box count, and unit numbers \u2014 and built a complete, accurate estimate with clear pricing breakdown and all-inclusive language.",
+  "coaching_note": "The two-concerns question is the foundation of step 2 and was never asked \u2014 ask Dana what concerns her most about this move before diving into logistics, then use her answers to frame why your promises matter to her specifically."
+}

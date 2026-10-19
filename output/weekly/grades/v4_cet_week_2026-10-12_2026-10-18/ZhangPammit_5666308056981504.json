@@ -1,0 +1,32 @@
+{
+  "call_id": "5666308056981504",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 14.0,
+  "datetime_ct": "2026-10-17 21:05 CT",
+  "external_number": "+18324669647",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 19,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 18,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 78,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talked to a lot of people everyday and most of them have one or two concerns either the movers are not showing up on time or damage to their items, are there are either of those are concerned for you?",
+    "two_layers_deep": "So, from what I'm hearing, is your concern about damaging the items did that, did I get it that they get it by any chance? [CJ confirms, but rep does not probe deeper with 'tell me more' or silence]",
+    "value_days": "So, if you're flexible our best value days is every Tuesdays, Wednesdays and Thursdays we're in, it is cheaper for $7 per hour. It's only $104. So, if we move it, for example, on Thursday the rate is there's a difference of $56.",
+    "rate_lock_then_ask": "In case if you wanted to reschedule or to cancel then all you have to do is just simply give us a call at anytime. Would you like me to lock that in for you? [Rate lock mentioned, but the ask is softened when customer hesitates\u2014rep then pivots to sending quote without re-asking]"
+  },
+  "top_strength": "Rep delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full terms early in the call, built strong rapport, and gathered all necessary logistics details methodically before pricing.",
+  "coaching_note": "When the customer asks for time to think instead of booking, re-ask for the business directly rather than pivoting to 'I'll send you a quote'\u2014the softened ask and immediate pivot cost the close."
+}

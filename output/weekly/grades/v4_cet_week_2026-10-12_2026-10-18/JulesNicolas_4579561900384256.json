@@ -1,0 +1,33 @@
+{
+  "call_id": "4579561900384256",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 13.6,
+  "datetime_ct": "2026-10-13 13:46 CT",
+  "external_number": "+12145322625",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 20,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 74,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "So you would say is we talked to a lot of people everyday. So most of them have one or two concerns about their priming move. Usually number one, the word, they're worried that like the movers are not gonna show up one time, or they worried that they're gonna damage their items or any fees or concern for you.",
+    "two_layers_deep": "Customer raised no concerns (said 'No'), so N/A applies.",
+    "value_days": "Monday is actually one of the cheapest days we have. So the hour, the rate for Monday is $204... per hour for two movers and one truck.",
+    "rate_lock_then_ask": "We do not really require any deposit nor do we have any rescheduling fees... let's go ahead and do that. [Booking proceeded without explicit ask phrasing]"
+  },
+  "top_strength": "Jules gathered all logistics details systematically and delivered both the On-Time Guarantee and No Worries Damage Coverage in full, recognizable form.",
+  "coaching_note": "Step 6 final concerns check was skipped entirely\u2014ask 'What's still concerning you about this move?' before closing, and hold the temperature check in step 5 with silence after the prep framing."
+}

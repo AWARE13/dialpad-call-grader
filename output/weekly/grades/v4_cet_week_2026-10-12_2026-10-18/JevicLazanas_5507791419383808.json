@@ -1,0 +1,37 @@
+{
+  "call_id": "5507791419383808",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 11.3,
+  "datetime_ct": "2026-10-12 15:27 CT",
+  "external_number": "+18176301920",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 2,
+  "step7_ask_for_the_business": 0,
+  "total_score": 41,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_not_used": "Rep asks 'whom I'm speaking with' and 'Ty Thompson' confirms name, but rep then calls him 'Tasha' multiple times and never uses 'Ty' again",
+    "quid_pro_quo_partial": "Rep says 'the next step is to put together an estimate and I just have some questions about your move specifically and this will just take about ten minutes. So you can walk away with a quote you can depend on.' \u2014 time-boxed and promise present, but no explicit wait signal observed",
+    "two_concerns_question_not_asked": "No version of 'movers showing up on time or damage to items' question asked at step 2",
+    "pricing_framing_one": "Only trip fee transparency mentioned ('there is a one time trip fee or transportation fee of $150'). No pricing contrast, no Cameron's no-notes line, no Save Your Ass framing present",
+    "estimate_anchor_full": "Rep gives range: 'For the type of move you have, I would estimate it to be between two and a half to three and a half hours. So it's safe to budget around $660 to $864' with some personalization to 1-bed apartment",
+    "value_days_none": "Saturday November 21st selected; no mention of Value Days or cheaper day alternatives",
+    "prep_and_temperature_check_none": "No Save Your Ass framing about prep; no 'How do you feel about that?' asked",
+    "final_concerns_check_throwaway": "Rep asks 'will there be anything else?' which is administrative, not a genuine 'what's still concerning you' check",
+    "rate_lock_then_ask_never": "No rate lock mentioned, no explicit ask for business. Call ends with customer declining to proceed due to trip fee objection; rep offers to send quote if customer changes mind but never asks 'Would you like our help with your move?'"
+  },
+  "top_strength": "Rep gathered detailed logistics probing (floor, elevator access, unit number, square footage, walking distances, inventory list including box count) in a methodical way that would support accurate estimating.",
+  "coaching_note": "The call never entered the Two Promises step at all\u2014the rep jumped straight from quid pro quo into logistics probing, skipping the reliability and damage coverage promises that should have answered the customer's unstated concerns; additionally, no two-concerns question was asked to surface what mattered to this customer before diving into details."
+}

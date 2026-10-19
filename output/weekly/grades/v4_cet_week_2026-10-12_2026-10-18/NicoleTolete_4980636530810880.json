@@ -1,0 +1,33 @@
+{
+  "call_id": "4980636530810880",
+  "rep_name": "Nicole Tolete",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 10.7,
+  "datetime_ct": "2026-10-15 15:25 CT",
+  "external_number": "+18139667992",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 10,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly to logistics probing without the two-concerns opener about movers showing up on time or damage to items.",
+    "two_layers_deep": "Customer raised no concerns at step 2, so N/A applies.",
+    "value_days": "Rep did not address value days or cheaper day options. No mention of which branch (Best Value, Standard, or Premium) the Thursday 2 PM slot represents, and no flexibility question about alternative dates.",
+    "rate_lock_then_ask": "Rep stated: 'to secure a spot, there's no deposit required if you have to reschedule or cancel, no fees for that either. And would you like me to get you on the schedule?' Rate lock/no deposit mentioned first, then plain ask follows."
+  },
+  "top_strength": "Nicole delivered both promises (No Worries damage coverage up to $2,000 and On-Time Guarantee with the discount structure) unprompted during the pricing walk-through, showing strong product knowledge and customer protection positioning.",
+  "coaching_note": "Step 2 must open with the two-concerns question (movers not showing up on time, or damage to items) before any logistics probing begins\u2014this is the primary opener on the v4 card and was completely skipped here, missing the chance to anchor the entire call on what matters to Jen."
+}

@@ -1,0 +1,34 @@
+{
+  "call_id": "5465776239452160",
+  "rep_name": "Jevic Lazanas",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 13.2,
+  "datetime_ct": "2026-10-15 14:36 CT",
+  "external_number": "+17347551203",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly from quid pro quo into logistics probing without the two-concerns opener.",
+    "two_layers_deep": "n/a \u2014 no concerns were raised by the customer in step 2.",
+    "value_days": "Rep identified availability issue: 'for south Austin it's already fully booked' and offered Thursday or Tuesday as alternatives. However, no dollar savings were presented, and the conversation was cut short when the customer declined flexibility. Partial: the rep recognized value alternatives but did not frame them as specific dollar savings.",
+    "rate_lock_then_ask": "Rep never asked for the business. When availability problem surfaced, rep pivoted to email confirmation without making an explicit ask. No rate lock or deposit discussion occurred."
+  },
+  "top_strength": "Jevic delivered both promises (On-Time Guarantee and No Worries Damage Coverage) in full, recognizable form with clear terms and no missing details, and gathered comprehensive logistics probing across special considerations, addresses, property type, floor count, walking distances, and box counts.",
+  "coaching_note": "The rep must ask the two-concerns question before any logistics probing starts; must hold for a genuine yes on the quid pro quo; must always ask for the business explicitly before pivoting away; and must close the loop on the promises with 'Does that put those to rest?' or equivalent."
+}

@@ -1,0 +1,950 @@
+{
+  "call_id": "6727447631142912",
+  "lines": [
+    {
+      "content": "Hi, this is Jules. How can I help you today?",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:29:18.151179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:29:18.151179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:29:18.151179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:29:18.151179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:29:18.151179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:29:18.151179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:29:18.151179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ner",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:29:20.030179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Call Opening",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:29:20.630179",
+      "type": "custom_moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Hi, yes, this is Katie Barram. I will be moving and two weeks from now on October 24th and I was hoping to get a quote for my move.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:29:22.786455",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "call_purpose",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:29:22.786455",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "contact_name",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:29:24.200455",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "ner",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:29:24.200455",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "date",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:29:27.560455",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:29:30.750179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "No problem. I can certainly get you a quote right now. Let me see October 24th right.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:29:31.351179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "date",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:29:35.350179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Yes.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:29:37.186455",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Are we moving out of a house or an apartment?",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:29:39.151179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "question",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:29:41.070179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "From one apartment to another.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:29:43.786455",
+      "type": "transcript"
+    },
+    {
+      "content": "Got it. Okay, great. We do have available on the twenty fourth I can certainly get a profile started for you so of course I just need a few additional information to get you an accurate quote. This should take me about ten to fifteen minutes and then I'd be able to get you a quote you can depend on does that sound good?",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:29:48.151179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Okay.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:30:01.786455",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:30:08.230179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Yup, that sounds good.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:30:09.586455",
+      "type": "transcript"
+    },
+    {
+      "content": "Awesome. Hey, I'm sorry, you said Katie be from arch? Got it. Okay.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:30:10.951179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ner",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:30:13.910179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Yes, Katie Bartram yup. I actually I might have a profile with you all already. I use you all to move into my current place.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:30:15.586455",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "positive_sentiment",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:30:15.586455",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "ner",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:30:16.200455",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, okay.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:30:25.351179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Oh, got it. Okay, let me find that. Can I have your email address please?",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:30:27.751179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "question",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:30:29.430179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Yes. Oh. Let's see. I don't actually know which one I used. We can check two emails. Is one of them is going to be KB as in boy, M. As in mom, IZ as in zebra, Z. As in zebra, OU, 17 @gmail.com and if it's not that one I can give you another email.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:30:31.186455",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "pii",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:30:45.680455",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "email_address",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:30:46.320455",
+      "type": "moment"
+    },
+    {
+      "content": "Got it. Okay, let me see.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:30:51.751179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Yeah, it's not this one.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:30:56.551179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Okay, then let's try KM as in mom B as in boy, A-R-T. As in Tom, RAM as in Mary, 93 @gmail.com so KM Bartram. 93.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:30:58.786455",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "pii",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:31:08.960455",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "email_address",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:31:09.920455",
+      "type": "moment"
+    },
+    {
+      "content": "That's the one, okay.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:31:13.351179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Perfect.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:31:14.986455",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "positive_sentiment",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:31:14.986455",
+      "type": "moment"
+    },
+    {
+      "content": "Sorry, is Katie K-A-T-Y or T-I-E?",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:31:25.951179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "ner",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:31:27.030179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "T-Y.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:31:29.986455",
+      "type": "transcript"
+    },
+    {
+      "content": "T-Y got it.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:31:31.951179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Yup.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:31:32.986455",
+      "type": "transcript"
+    },
+    {
+      "content": "And are you, oh, I don't have the address for that or you're currently in 1000 East Fifth Street.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:31:34.951179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "address",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:31:39.470179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "That is correct, yes.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:31:41.386455",
+      "type": "transcript"
+    },
+    {
+      "content": "Awesome. Okay, let me just update everything.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:31:43.351179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Unit 534 right.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:31:52.351179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Yup, that's correct.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:31:55.786455",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. And, and a one bedroom apartment on the fifth floor with an elevator.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:31:58.351179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Yes.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:32:04.786455",
+      "type": "transcript"
+    },
+    {
+      "content": "Awesome. Do you happen to know what's the square footage of that apartment?",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:32:06.151179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "question",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:32:07.230179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "With what I'm sorry.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:32:10.186455",
+      "type": "transcript"
+    },
+    {
+      "content": "I'm sorry. Do you know the square footage, like the square feet?",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:32:12.151179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "question",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:32:12.830179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Of my current apartment.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:32:15.586455",
+      "type": "transcript"
+    },
+    {
+      "content": "Uh-huh.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:32:16.951179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Five, sorry, 730.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:32:18.586455",
+      "type": "transcript"
+    },
+    {
+      "content": "7:30 great.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:32:21.151179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "time",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:32:21.151179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "And about the items that we're going to be moving aside from the ones we moved last time. Looks like we have an in inventory from that move. Have, do you have anything anything new maybe like, you know, anything oversized or heavy like a safe piano workout equipment?",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:32:24.151179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "No, I would say the biggest heaviest thing is just going to be my bed. I have a bed frame and then a king size mattress.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:32:41.986455",
+      "type": "transcript"
+    },
+    {
+      "content": "Got it.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:32:49.951179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "And then your last move there is a dresser a night stand bookshelf a couch kitchen table with four chairs, patio chairs with small table TV stand TV coffee table, bar stools and death chair.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:32:55.351179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Yes.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:33:03.586455",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Yes, and I actually yes, I will have the desk chair. My couch is going to be different it's now a mechanical couch or an automatic couch. So it separates into two segments that will be a little bit heavier but you can separate it.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:33:11.386455",
+      "type": "transcript"
+    },
+    {
+      "content": "Sounds good. Okay, and let me see.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:33:22.951179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "As far, as boxes go usually for you know, apartments the size BC, around fifteen to 25 boxes to be moved, you think you're going to be around that range.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:33:34.951179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Okay. Yes, I would say so, I wouldn't imagine it would be more than fifteen.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:33:45.586455",
+      "type": "transcript"
+    },
+    {
+      "content": "Sounds good. Do you need help packing or would you have everything boxed up and ready?",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:33:51.151179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "question",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:33:52.470179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Can I get a quote for both? I honestly haven't decided, I'm thinking I'll pack it myself, but I would like to see the cost difference.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:33:56.386455",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "question",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:33:56.386455",
+      "type": "moment"
+    },
+    {
+      "content": "Alright.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:34:00.151179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Oh, no problem. Okay, and let me see.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:34:03.151179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Perfect.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:34:04.786455",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "positive_sentiment",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:34:04.786455",
+      "type": "moment"
+    },
+    {
+      "content": "Can you give me the address removing everything too?",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:34:09.151179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "question",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:34:09.151179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Yes, it's 415 Colorado apartment 3014 so 3014 Austin, Texas. 78701.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:34:11.986455",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "ner",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:34:20.386455",
+      "type": "moment"
+    },
+    {
+      "content": "Got it and is this another one bedroom apartment?",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:34:24.151179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Yes.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:34:28.186455",
+      "type": "transcript"
+    },
+    {
+      "content": "Alright. Just for documentation. Do you know the square footage of that apartment?",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:34:30.151179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "question",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:34:31.750179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "844.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:34:34.186455",
+      "type": "transcript"
+    },
+    {
+      "content": "Got it and what florist is on?",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:34:36.151179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Thirtieth, and they do have high-speed elevators. There is a loading doc, that goes directly into those elevators.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:34:39.586455",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:34:41.551179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Sounds good. Do you think we can reserve the elevator in both buildings or just your the next one?",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:34:46.351179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "question",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:34:47.510179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "I haven't reserved already in the one I'm moving into. I'm assuming the timing if we need to change that time. I can but I can see if we can reserve the one for this current building. I have not asked them yet but that's a good idea.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:34:52.786455",
+      "type": "transcript"
+    },
+    {
+      "content": "Sounds good. Okay. Alrighty, well, you know what, this is, exactly what I need to get you the estimate. So let me quickly go over how the pricing goes. Basically, we just, you know, still charge by the hour. The hour rate is $222 per hour for two movers and one truck. That is the same hour rate for packing. We just, we just try to charge the same hour rate for it. And that hour rate includes absolutely everything to the gas. The truck taxes and insurance. We will also bring our own tools if you need help with any disassemble or reassembly. After furniture and.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:35:06.151179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Okay.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:35:17.986455",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:35:23.390179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:35:28.790179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Okay.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:35:34.786455",
+      "type": "transcript"
+    },
+    {
+      "content": "We will. Of course. Also wrap up all the furniture and moving blankets, insurance wrap. So really the only thing you'd see outside of the hour the rate would be the cost for the packing materials. Like all the boxes bubble wrap, packing, paper and all that should you decide to have us due to packing. But we only charge you depending on how much we actually use for the packing materials, but usually for a one bedroom apartment packing with real could cost anywhere from like $150.90 to $190. And again it just depends on how much we actually use and.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:35:52.951179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:35:57.870179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "currency",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:36:21.590179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Okay, perfect. And then is that something that if I so I actually have a bunch of boxes already? It's more just the active packing today, could they use my box through it? Is it, is it boxes that you all by?",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:36:26.986455",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "positive_sentiment",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:36:26.986455",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "question",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:36:28.560455",
+      "type": "moment"
+    },
+    {
+      "content": "Okay, uh-huh, oh, definitely. Oh, not at all. So if you have leftover boxes since you started packing, we're going to utilize everything you have first and then move on to hours in case we run out. But, yeah, we can, we're going to utilize everything awesome and let me see. So I'm gonna give you a few numbers.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:36:33.151179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Got it. Okay, awesome.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:36:49.186455",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "positive_sentiment",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:36:49.186455",
+      "type": "moment"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:36:55.470179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "For the move alone, for example, you're not gonna need our help packing for the move since we're coming from the fifth floor to you the thirtieth at four and there's a bunch of elevators involved which usually adds a little time to the move. If they're especially if they're not reserved, I would budget for the move itself, I would budget a four to five hour day. So that would cost anywhere from $888.10 to 1110. Should, should you need help packing. It would add, definitely add time to the move. If we need health packing, we're looking at maybe at eight to nine hour day depending on, on how much you need us to pack. So off chance you need us pack. I mean, if you need us pack if you need our help packing and it actually took us, you know, nine hours the cost is $1,999 of $98 but basically, yeah, you only pay for the hours used for the move and packing.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:36:58.950179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "monologuing",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:37:13.110179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "currency",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:37:24.270179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "currency",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:37:48.150179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "currency",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:37:50.710179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Okay, perfect and then you'll send all of this and an email as well, right?",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:37:56.386455",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "positive_sentiment",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:37:56.386455",
+      "type": "moment"
+    },
+    {
+      "content": "Oh, yeah, definitely. I'll send everything over in an email and well, I wanted to let you know right now. We do have availability on October 24th that can start around 8:30 to nine in the morning, if you'd like to get on schedule.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:37:59.551179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "date",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:38:07.750179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "time",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:38:10.150179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Okay, perfect! I will review everything I'm kind of getting a couple of quotes around town but I will let you know once I get decision.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:38:13.786455",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "positive_sentiment",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:38:13.786455",
+      "type": "moment"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:38:21.030179",
+      "type": "moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Sounds good. Yeah, well I'll send everything over in an email and when you're ready to get this moved scheduled, you can either give us a callback or respond to that email, so I'm not sure if you remember, but we still do not require any deposit so you, whenever you're ready to get it scheduled. Feel free to just let us know.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:38:21.751179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Oh.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:38:26.386455",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "Okay, that's perfect thank you so much I appreciate it.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:38:36.586455",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "positive_sentiment",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:38:37.360455",
+      "type": "moment"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "support_issue_resolved",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:38:37.920455",
+      "type": "moment"
+    },
+    {
+      "content": "My pleasure. I hope you have a great day.",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:38:39.751179",
+      "type": "transcript",
+      "user_id": "4886812291923968"
+    },
+    {
+      "content": "Call Closing",
+      "name": "Jules Nicolas",
+      "time": "2026-10-13T17:38:40.870179",
+      "type": "custom_moment",
+      "user_id": "4886812291923968"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgIC00YjfrAoM",
+      "content": "You as well. Thank you. Bye-bye.",
+      "name": "Katy Bartram",
+      "time": "2026-10-13T17:38:41.386455",
+      "type": "transcript"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "5101836670115840",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 13.9,
+  "datetime_ct": "2026-10-16 15:25 CT",
+  "external_number": "+14232768973",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 3,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep jumped directly into logistics probing without asking about the customer's primary concerns regarding movers showing up on time or damage to items.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during the call.",
+    "value_days": "Not addressed. Rep did not discuss whether cheaper days were available or ask about date flexibility; the customer's Wednesday October 21st slot was simply locked in.",
+    "rate_lock_then_ask": "Rep said 'would you like to go ahead and lock in the date?' but never explicitly asked 'Would you like our help with your move?' or for the business. The ask was implicit in confirming the date and then sending confirmation emails. Rate lock was mentioned vaguely as 'you only pay for the time we actually use' but no explicit rate lock promise or no-deposit commitment was stated before attempting the close."
+  },
+  "top_strength": "Jevic gathered comprehensive logistics details, asked both packing and box count questions, and delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full terms clearly stated.",
+  "coaching_note": "Open with the two-concerns question before any probing, and explicitly ask 'Would you like our help with your move?' as a plain, unsoftened close \u2014 never assume the booking is secured by date confirmation alone."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "4506799313821696",
+  "rep_name": "Nicole Tolete",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 14.2,
+  "datetime_ct": "2026-10-14 20:43 CT",
+  "external_number": "+19723027624",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 2,
+  "total_score": 55,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep proceeded directly into Zillow photo review without establishing what concerns the customer had about the move.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised because two-concerns question was never asked.",
+    "value_days": "Not addressed. Rep never asked about move date flexibility or offered alternative days with pricing savings.",
+    "rate_lock_then_ask": "Rep said 'And to secure a spot there's no deposit record, if you have to reschedule or cancel, no fees for that either' followed by 'And keep in mind this is just an estimate, we are a time based company so you will be charged for the total time consumed by the end of the move and would you like to get you on the schedule?' The rate lock is mentioned but not explicitly framed as locked-in. The ask ('would you like to get you on the schedule?') is soft and was never directly answered \u2014 the customer deferred by asking to receive the email first, and Nicole accepted that without re-asking."
+  },
+  "top_strength": "Nicole executed a thorough, methodical Zillow walkthrough that captured nearly all logistics details (special items, room counts, furniture to move, disassembly/reassembly, approximate box count), positioning herself as organized and detail-oriented.",
+  "coaching_note": "Step 2 \u2014 the two-concerns question is the critical opening that drives everything else. Without it, you skip the chance to understand what matters to this customer and to deliver the promises that solve it; start every call by asking 'most people have one of two concerns: movers not showing up on time, or damage to their items \u2014 are either of those a concern for you?' before diving into Zillow or logistics."
+}

@@ -1,0 +1,34 @@
+{
+  "call_id": "6460753943764992",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 22.6,
+  "datetime_ct": "2026-10-14 18:38 CT",
+  "external_number": "+15126335632",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 0,
+  "total_score": 75,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talked to a lot of people everyday and most of them have one of two concerns so either the mover is not showing up on time or damage to their items or either of those a concern for you.",
+    "two_layers_deep": "Customer raised no concerns; N/A.",
+    "value_days": "No mention of day-of-week pricing or cheaper alternatives. Rep estimated 7-8 hours for Friday the 23rd with no value day discussion.",
+    "rate_lock_then_ask": "Rep never offered rate lock, no deposit mention, and never asked for the business. Customer was offered to call around and the rep said she would email the quote. No explicit ask for booking on this call."
+  },
+  "top_strength": "Jeline gathered exhaustive, well-organized details across both addresses, access patterns, furniture inventory, and special items, creating a solid foundation for an accurate estimate with multiple options (2-mover vs 3-mover scenarios).",
+  "coaching_note": "Never asked for the business: after presenting the estimate, the rep accepted the customer's request to shop around and left it as \"reply to the email if you want to book,\" skipping the rate-lock framing and explicit ask that close the sale on the call."
+}

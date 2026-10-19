@@ -1,0 +1,31 @@
+{
+  "call_id": "4707935700426752",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 14.1,
+  "datetime_ct": "2026-10-12 14:03 CT",
+  "external_number": "+15122309205",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 22,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 5,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "most of our customers have two concerns when they're booking a move. One, being that they movers are not gonna arrive on time or two, damage to their items, or any of those are concern for you.",
+    "two_layers_deep": "Customer raised budget/time concerns ('milked', overtime, flat fee preference). Rep acknowledged ('Absolutely! And I do apologize that happened to you') and pivoted to damage and time guarantees without asking clarifying follow-up like 'tell me more about that' before moving to solutions.",
+    "value_days": "Saturday December 19th is not identified as Best Value or not. Rep states '$222 and that's for two movers and 126 foot box truck' for that specific day but does not offer an alternative cheaper day or ask about date flexibility.",
+    "rate_lock_then_ask": "Rep says 'And then there is no deposit required to get on our schedule and then there's no fees to change or cancel as well' (rate lock/no deposit), then customer immediately says 'Well let's go ahead and do it then' \u2014 the ask was never explicitly made; customer volunteered to book before being asked 'Would you like our help with your move?'"
+  },
+  "top_strength": "Brianne delivered both promises (On-Time Guarantee with specific discount structure and $2,000 No Worries Damage Coverage) in full, recognizable form, directly addressing Jordan's core concerns about prior bad experiences.",
+  "coaching_note": "Step 5 is missing the pricing contrast (competitors' hourly model vs. your all-inclusive model) \u2014 you stated the hourly rate but didn't frame why Einstein's model is different \u2014 and Step 7 never included an explicit ask for the business; the customer volunteered to book, which left no moment to confirm they understood the rate lock before they said yes."
+}

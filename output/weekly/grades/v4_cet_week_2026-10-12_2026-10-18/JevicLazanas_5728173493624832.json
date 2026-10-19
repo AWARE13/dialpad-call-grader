@@ -1,0 +1,33 @@
+{
+  "call_id": "5728173493624832",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 11.3,
+  "datetime_ct": "2026-10-13 14:59 CT",
+  "external_number": "+15128396177",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 3,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep jumped directly into logistics probing without surface-level two-concern opener.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer in step 2 because the question was never asked.",
+    "value_days": "Rep offered Sunday October 18th as cheaper alternative to Monday October 19th but never explicitly stated the dollar savings or asked about date flexibility in the standard Value Days format. Customer raised construction timeline need, rep offered Sunday but framed as availability check, not as a savings opportunity.",
+    "rate_lock_then_ask": "Rep said 'would you like me to go ahead and get you on the schedule today for Sunday October 18th?' but customer declined to book on the call, instead asking for a couple hours to discuss with husband. No rate lock or no-deposit framing preceded the ask."
+  },
+  "top_strength": "Jevic gathered detailed logistics methodically and confirmed all moving details (addresses, floor levels, elevator availability, furniture items, box counts) before providing the estimate, ensuring accuracy.",
+  "coaching_note": "Step 2's two-concerns question is the foundation of the entire call \u2014 ask it first, before any probing starts, so you understand what matters to the customer and can anchor your promises to their actual concerns; skipping it means losing the bookend moment that drives retention."
+}

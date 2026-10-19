@@ -1,0 +1,32 @@
+{
+  "call_id": "6426278430023680",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 13.1,
+  "datetime_ct": "2026-10-12 14:01 CT",
+  "external_number": "+15159430180",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 31,
+  "pass": false,
+  "na_fallbacks_used": [
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Before we proceed other than the price, is there any concern that you'd like me to know so that I can take note of so we'll be able to answer that within this call. [Customer: No.]",
+    "two_layers_deep": "Customer said no concerns; rep did not probe deeper on the immediate logistics concerns that emerged later (TV mounting, box count confusion). No genuine two-layer follow-up.",
+    "value_days": "Rep never mentioned Value Days, cheaper day options, or date flexibility in savings terms. Gave arrival window but no pricing contrast by day.",
+    "rate_lock_then_ask": "Rep offered no deposit and mentioned rate lock implicitly ('no deposit required and you only be after the actual move is done') but never delivered an explicit ask for the business. Customer initiated the booking: 'let's go ahead and book it.' Rep confirmed but did not ask."
+  },
+  "top_strength": "Arden gathered most logistics details systematically (floor count, special items like TV, box count attempt, parking, destination layout) and probed walking distance at both ends.",
+  "coaching_note": "Step 2 and 3 were skipped almost entirely \u2014 no Two Promises delivered on reliability or damage, no permission-based framing, and no genuine two-layer probing when the customer raised a concern about TV mounting; Step 5 had no pricing contrast, no Save Your Ass framing, and no temperature check ('How do you feel about that?'); and Step 6/7 never asked for final concerns or explicitly asked for the business \u2014 the customer booked themselves."
+}

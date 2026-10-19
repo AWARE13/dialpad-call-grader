@@ -1,0 +1,33 @@
+{
+  "call_id": "4749366544605184",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 12.3,
+  "datetime_ct": "2026-10-14 15:57 CT",
+  "external_number": "+18326030012",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep skipped directly to logistics probing.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer at step 2 because step 2 never happened.",
+    "value_days": "Not addressed. Rep never asked about date flexibility or offered cheaper alternatives.",
+    "rate_lock_then_ask": "Never asked. Rep confirmed the 8:30-9:00 AM arrival time and discussed the 2.5-hour minimum, but never offered a rate lock, mentioned no deposit, or asked 'Would you like our help with your move?' Rep ended with 'we will see you' and confirmed the date."
+  },
+  "top_strength": "Brianne gathered thorough logistics details with a concern-led opening, probed all the relevant items (elevator access, walking distances, furniture protection needs, special considerations), and identified the customer's wife's particular concerns about wrapping furniture and protecting beds, then adapted her service recommendations to address those specifics.",
+  "coaching_note": "The call is missing the two foundational steps that close deals: never asked the two-concerns question at step 2, and never asked for the business at step 7 \u2014 the customer booked via the system, but Brianne never made an explicit ask or confirmed the rate lock / no deposit, which means Omar left without the psychological closure and security the card is designed to deliver."
+}

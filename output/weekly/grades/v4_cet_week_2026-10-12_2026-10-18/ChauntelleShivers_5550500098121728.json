@@ -1,0 +1,40 @@
+{
+  "call_id": "5550500098121728",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 15.3,
+  "datetime_ct": "2026-10-15 17:13 CT",
+  "external_number": "+19402937556",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep asks 'could you just verify your first and last name?' and customer responds 'It's gonna be I-M-A-D... Last name jaba, J-E-B-B-E-H.' Rep then uses name when saying 'Okay, just wanted to make sure that was correct.'",
+    "quid_pro_quo": "No quid pro quo framing offered. Rep moves directly into verification and data collection without establishing time frame or value promise.",
+    "two_concerns_question": "Never asked. Rep proceeds directly to logistics confirmation.",
+    "two_layers_deep": "No concerns were raised by customer, so N/A per rubric.",
+    "active_listening_reflection": "No concerns raised, so no reflection opportunity. N/A per rubric.",
+    "promises_delivered": "Neither On-Time Guarantee nor No Worries Damage Coverage mentioned at any point in the call.",
+    "closes_the_loop": "No closing loop question asked after promises (because no promises were made).",
+    "concern_led_opening_and_logistics": "Rep gathers addresses (4617 bending oak trail in Plano, destination 908 Allen central drive in Allen, Texas to storage unit) and house size (2300 square feet) but does not ask concern-led opening. Does not probe for special items, floor/stories, number of rooms, walking distance, or additional spaces.",
+    "packing_and_box_count": "Neither packing nor box count asked.",
+    "value_days": "Not applicable \u2014 call routes to walkthrough scheduler before estimate is discussed.",
+    "rate_lock_then_ask": "Not applicable \u2014 call routes to walkthrough scheduler before ask.",
+    "booking_confirmed": "Call ends with rep saying 'give me just one moment, let me go ahead and get you over to a specialist' \u2014 no booking confirmed, call transferred to specialist. Per rubric, N/A because customer did not book on this call and walkthrough_scheduler calls do not score steps 5-7."
+  },
+  "top_strength": "Rep successfully obtained and verified customer name (Imad Jebbeh), confirmed key logistics details (addresses, square footage, moving date), and correctly identified the move size (2,300 sq ft) as requiring escalation to a specialist rather than completing pricing on the intake call.",
+  "coaching_note": "For future intake calls on moves approaching or exceeding 1,800 sq ft, deliver the Two Promises (On-Time Guarantee and No Worries Damage Coverage) before transferring to the specialist \u2014 the v4 card places promises in step 3, before probing, and they should land even on walkthrough-scheduler calls."
+}

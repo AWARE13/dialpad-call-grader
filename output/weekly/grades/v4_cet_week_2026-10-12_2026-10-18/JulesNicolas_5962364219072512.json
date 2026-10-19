@@ -1,0 +1,33 @@
+{
+  "call_id": "5962364219072512",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 6.8,
+  "datetime_ct": "2026-10-13 18:49 CT",
+  "external_number": "+12149806140",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 0,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 2,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 33,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep jumped directly into pricing comparison without establishing customer concerns.",
+    "two_layers_deep": "No concerns were probed; rep asked about specific items (piano, washer/dryer) as transactional questions only, not to understand underlying concerns.",
+    "value_days": "Rep mentioned hourly rates differ by day of week ($109 Fri/Sat, $103 Sun, $102 Mon-Thu) and asked about flexibility, but did not frame as a dollar savings opportunity or ask whether customer wanted to move to a cheaper day. Customer stated preference for Friday; no offer of savings amount made.",
+    "rate_lock_then_ask": "Rep stated 'you only pay at the end of the move. We do not require any deposit or do we need any credit card upfront' but never asked for the business explicitly. Rep ended with 'whenever you're ready to get this scheduled, you can either give me a callback or respond to that email' \u2014 a soft pivot to email follow-up, not a direct ask."
+  },
+  "top_strength": "Jules delivered a clear, detailed pricing explanation with strong fee transparency, including the 2.5-hour minimum, 15-minute increments, transport fee, and all-inclusive hourly rate components, which builds confidence in the estimate.",
+  "coaching_note": "Never ask for the customer's name, never probe their actual concerns before pricing, and never explicitly ask 'Would you like our help with your move?' \u2014 this call skipped the entire first three minutes of the Einstein process and ended with an email redirect instead of a genuine close."
+}

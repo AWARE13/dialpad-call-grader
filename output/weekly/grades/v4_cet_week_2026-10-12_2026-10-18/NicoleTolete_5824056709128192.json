@@ -1,0 +1,33 @@
+{
+  "call_id": "5824056709128192",
+  "rep_name": "Nicole Tolete",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 8.7,
+  "datetime_ct": "2026-10-13 22:01 CT",
+  "external_number": "+14694504185",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 53,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Nicole jumped to probing after the initial setup without asking about concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer at step 2.",
+    "value_days": "Nicole: 'Okay. Yeah. Weekday is one of our cheapest days that's a really good choice. And every weekday, we charge $208 per hour for two movers and one truck.' She identified the weekday as a Value Day and quoted the hourly rate, but did not offer a specific dollar savings comparison or ask about date flexibility.",
+    "rate_lock_then_ask": "Nicole: 'And to secure a spot there's no deposit record if you have to reschedule or cancel, no fees for that either. And would you like me to get you on the schedule?' She mentioned no deposit but did not explicitly state rate lock before asking. The ask was softened by the customer's response ('I'm just gonna confirm this with my wife') and Nicole did not push for commitment \u2014 she accepted a callback."
+  },
+  "top_strength": "Nicole gathered complete logistics details (addresses, floor plans, property types, parking, item list, box count) methodically and personalized the estimate accurately to the move profile.",
+  "coaching_note": "Step 2 is missing entirely \u2014 ask the two-concerns question ('either the movers not showing up on time, or damage to their items') before any probing, wait for the answer, and follow up two layers deep if concerns emerge. This is the heaviest single step and sets up everything that follows."
+}

@@ -1,0 +1,32 @@
+{
+  "call_id": "4935017332252672",
+  "rep_name": "Nicole Tolete",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 16.2,
+  "datetime_ct": "2026-10-12 13:47 CT",
+  "external_number": "+13468373077",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 16,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "value_days",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep skipped the two-concerns question entirely and moved to logistics probing after quid pro quo.",
+    "two_layers_deep": "Not applicable \u2014 no concerns were raised by the customer in step 2. The rep asked 'do you have any specific concern or stresser about the moving process in general?' but the customer responded only with a logistical question about timing, not a stated concern.",
+    "value_days": "Not addressed. The call does not reference whether October 30th is a Best Value Day or offer any alternative date savings.",
+    "rate_lock_then_ask": "Nicole: 'to secure a spot, there's no deposit required if you have to reschedule or cancel no fees for that either. And would you like me to get you on the schedule?' Customer: 'Yes, please.' Rate lock (no deposit) stated first, then plain ask without built-in out."
+  },
+  "top_strength": "Nicole delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full, clear terms ($2,000 coverage, discount structure, no deductible, all included) unprompted and well before the estimate, anchoring trust early.",
+  "coaching_note": "Step 2 is missing entirely \u2014 the two-concerns question ('movers showing up on time or damage to items') was never asked, skipping the card's primary opener for customer concerns and losing the chance to surface what actually matters to Anisha before moving to logistics."
+}

@@ -1,0 +1,34 @@
+{
+  "call_id": "5253688799830016",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.1,
+  "datetime_ct": "2026-10-15 21:30 CT",
+  "external_number": "+13472248064",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 37,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics probing about distance and stairs.",
+    "two_layers_deep": "No concerns raised by customer, so N/A.",
+    "value_days": "Not addressed. Rep never asked about date flexibility or offered alternative days at different price points.",
+    "rate_lock_then_ask": "Never asked for the business. Customer requested quote via email, rep confirmed email address and said 'will there be anything else I can help you with today?' \u2014 transactional close with no rate lock, no deposit mention, and no direct ask for the move."
+  },
+  "top_strength": "Rep gathered detailed logistics about the intra-building move and correctly identified the short walking distances and elevator proximity, which directly shaped the 7.5-hour estimate.",
+  "coaching_note": "The call skipped step 2 (the two-concerns question) entirely and jumped straight into logistics probing. This is the single biggest structure gap \u2014 without understanding what matters to the customer first, the rep is flying blind. Before gathering details, ask: 'We talk to a lot of people every day, and most of them have one of two concerns: either the movers not showing up on time, or damage to their items. Are either of those a concern for you?'"
+}

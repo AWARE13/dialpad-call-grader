@@ -1,0 +1,36 @@
+{
+  "call_id": "5320208378798080",
+  "rep_name": "Amy Arbasa",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 7.3,
+  "datetime_ct": "2026-10-12 18:52 CT",
+  "external_number": "+15104351868",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 19,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 2,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 46,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Amy: 'My name is Amy' and 'talk to you later. Thanks deli.' \u2014 name asked at open and used at close",
+    "quid_pro_quo": "Amy: 'Usually yeah usually be five to ten minutes so let's get you quoted. I'll start with some with some questions to get us on the right track. You don't have to take notes. I'll send every detail via email once we get off the phone. Does that sound good?' \u2014 time-boxed and email promise present, but no explicit 'dependable quote' language and customer response is minimal",
+    "two_concerns_question": "Amy: 'I would love to know DeLee, cause you know we talked to a lot of people everyday and most of them have one or two concerns either they're worried the movers won't show up on time or they're going to damage to their items. Would either of those a concern to you.' \u2014 textbook two-concerns question asked early",
+    "two_layers_deep": "Dileep: 'Yeah, both of them are concerned that's why I am kind of calling you because yeah, I kind of came through like a lot of reviews, I mean, last time also I checked it was expensive than the other one but like, I took a chance because I needed to be like, how it should be.' Amy: 'Well, thank you for the, for considering us again this time and yes I can assure you will receive the same quality the same service that you had last time.' \u2014 customer gave one response explaining both concerns (prior expense, quality assurance) and rep acknowledged but did not follow up with 'tell me more' or second layer",
+    "active_listening_reflection": "Amy: 'So what I have, what I heard is we you have one queen size I kia bed one full-size bed dining table with glass stop four dining chairs, TV stand office desk or computer desk two bookcases, two shoe cabinets. Two plans and of course the boxes that I got the right.' Dileep: 'Yeah, on the of it's not full-size bed. The smaller one.' \u2014 rep reflected back inventory summary and confirmed, though there was a small correction needed",
+    "promises_delivered": "No mention of On-Time Guarantee or No Worries Damage Coverage anywhere in the call",
+    "value_days": "No mention of Value Days, pricing branches, or date flexibility anywhere in the call",
+    "rate_lock_then_ask": "Call ended abruptly when customer said 'Hey, I have another call and I had to kind of jump on to that.' Amy responded 'Oh, yeah sure. Go ahead. I'll just email you the estimate' with no attempt to close, no rate lock, no ask for business"
+  },
+  "top_strength": "Amy asked the two-concerns question early and cleanly before any logistics probing, and gathered comprehensive inventory and logistics details with a structured walkthrough that included the box count expectation.",
+  "coaching_note": "The call was interrupted by the customer, but Amy never made it to the estimate itself, never delivered the two promises (On-Time Guarantee and No Worries Damage Coverage) that directly answer the concerns the customer named, and never attempted to close or ask for the business \u2014 she needs to prioritize getting to the promises immediately after the two-concerns question, before the long probing section."
+}

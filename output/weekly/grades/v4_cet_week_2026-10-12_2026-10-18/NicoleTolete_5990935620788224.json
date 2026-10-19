@@ -1,0 +1,37 @@
+{
+  "call_id": "5990935620788224",
+  "rep_name": "Nicole Tolete",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 5.2,
+  "datetime_ct": "2026-10-12 20:57 CT",
+  "external_number": "+13128885878",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 66,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Hugh Gibbons: 'Yeah, looking for a quote, please. Nicole.' and Nicole repeats 'Nicole' confirming the name is hers; customer's name Hugh never explicitly asked or used by Nicole",
+    "quid_pro_quo": "No framing offered. Nicole moves straight to availability check without time-boxing or stating the value of the call.",
+    "two_concerns_question": "Never asked. Nicole goes directly to logistics (date, square footage, walkthrough) without probing for customer's top concerns.",
+    "promises_delivered": "On-Time Guarantee mentioned in full detail ('if we cannot make it in the time window that we arrange. We immediately start discounting money of your final bill'). No Worries Damage Coverage mentioned ('we provide up to $2,000 per move to repair, replace or reimburse for any accidental damages'). Meet Your Mover also mentioned but not a core promise. No permission lead-in asked before delivering promises.",
+    "closes_the_loop": "No 'Does that put those to rest?' or equivalent asked after promises.",
+    "concern_led_opening_and_logistics": "No concern-led opening asked ('What items are you most concerned about?'). Logistics gathered include square footage (2000 sqft), property type (townhome), date flexibility shown, but no probing into specific items, addresses, floors, walking distance, additional rooms/storage, or special considerations.",
+    "packing_and_box_count": "Neither packing nor box count asked.",
+    "value_days": "Not applicable \u2014 call is walkthrough_scheduler routed and steps 5-7 do not apply.",
+    "rate_lock_then_ask": "Not applicable \u2014 call is walkthrough_scheduler routed and steps 5-7 do not apply."
+  },
+  "top_strength": "Nicole cleanly identified that a 2000 sq ft move required a virtual walkthrough before pricing and routed the customer there with confirmed details (date, time, secure link via text and email), avoiding an incomplete quote on a move that needed proper assessment.",
+  "coaching_note": "Before routing to the walkthrough, ask the customer's top concern about the move (using the two-concerns question or concern-led opening) and deliver both promises with a permission lead-in \u2014 these happen in steps 2 and 3 on the v4 card and should land before probing, even on walkthrough calls."
+}

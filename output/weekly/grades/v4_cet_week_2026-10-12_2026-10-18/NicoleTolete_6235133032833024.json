@@ -1,0 +1,35 @@
+{
+  "call_id": "6235133032833024",
+  "rep_name": "Nicole Tolete",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 12.7,
+  "datetime_ct": "2026-10-12 20:17 CT",
+  "external_number": "+19147159166",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 90,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Nicole: 'What is your first name so I can address you properly?' / Tasheye: 'Fe.' / Nicole: 'Tasha, thank you and when are you planning to move'",
+    "quid_pro_quo": "Nicole: 'Next step is to put together an estimate, I just have some questions about your move specifically this call will just take about ten to fifteen minutes and you can walk away with the quote you can depend on instead of just a guess. Does that sound good to you?' / Tasheye: 'Sounds okay.'",
+    "two_concerns_question": "Not asked. Nicole moved directly to logistics probing without the two-concerns opener.",
+    "promises_delivered": "Nicole: 'we have no worries damage coverage, we provide up to $2,000 per move to repair, replace or reimburse for any accidental damages' and 'we have on time guarantee. If we cannot make it in the time window that we arrange. We immediately start discounting money of your final bill'",
+    "concern_led_opening": "Nicole: 'before I go over with our pricing structure and your estimate, do you have any specific concern or stresser about the moving process in general?' / Tasheye provided concerns about setup vs breakdown needs",
+    "walkthrough_routing": "Nicole: 'since you're moving from a large home which is at 2900 square footage home we usually send out six movers and three trucks but we can do a virtual walkthrough... it's just like a video call on your preferred time and date so we can see your items and we can identify how many movers and how many trucks you will be needing for the move. Are you comfortable doing virtual walkthroughs'",
+    "estimate_pivot": "Nicole provided an estimate ($1,090 to $1,294) but the call was routed to virtual walkthrough due to size and complexity, which is appropriate for the 2,900 sq ft home."
+  },
+  "top_strength": "Nicole executed an excellent logistics discovery, gathering floor count, room details, item specifics, box count, driveway access, and addresses with clear confirmation, and she delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with transparency on coverage amounts.",
+  "coaching_note": "Critical miss: Nicole never asked the two-concerns question that opens step 2, moving straight into logistics probing instead; this is the primary opener on the rubric and her omission cost meaningful discovery depth on what actually matters to Tasheye before jumping to solutions."
+}

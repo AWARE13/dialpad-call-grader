@@ -1,0 +1,32 @@
+{
+  "call_id": "4773151461122048",
+  "rep_name": "Amy Arbasa",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 11.4,
+  "datetime_ct": "2026-10-13 19:40 CT",
+  "external_number": "+15129756763",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "You know, a month, I usually ask this to all our clients cause you know, we talked to a lot of people everyday and most of them would mention one concern or two either they're worried that the movers won't show up on time or their items get damaged. What about you, would either of those be a concern to you or do you have any specific concerns about this upcoming move?",
+    "two_layers_deep": "Amy asked 'Damages. Okay.' then immediately pivoted to the promise without asking 'tell me more about that' or probing deeper into what damage concerns existed.",
+    "value_days": "No mention of Value Days, date flexibility, or alternative pricing based on day of week selection.",
+    "rate_lock_then_ask": "Amy never asked for the business. She said 'Can you send me like an email with the full like, quote details?' and then ended with 'I would suggest shop around some more so you can compare your options' \u2014 which is a built-in out, not a rate lock followed by a plain ask to book."
+  },
+  "top_strength": "Amy delivered both promises (On-Time Guarantee and No Worries Damage Coverage) in full, recognizable form with clear terms, and built trust early by addressing the customer's stated concern about damage.",
+  "coaching_note": "Amy never asked for the business \u2014 she ended the call by encouraging the customer to shop around, losing the opportunity to close; she also skipped the entire Step 6 final concerns check (asked only 'Is there anything else you want to tackle questions clarifications' which the rubric flags as a throwaway) and never probed deeper into the damage concern after it was named, staying at one layer instead of going two layers deep."
+}

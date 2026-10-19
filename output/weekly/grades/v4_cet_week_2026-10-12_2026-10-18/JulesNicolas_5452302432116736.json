@@ -1,0 +1,31 @@
+{
+  "call_id": "5452302432116736",
+  "rep_name": "Jules Nicolas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 23.1,
+  "datetime_ct": "2026-10-15 21:08 CT",
+  "external_number": "+17132085417",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talk to a lot of people, you know, everyday and one of them, most of them usually have one or two concerns. Number one usually is the worry that the movers are not gonna show up on time or that they're worried that the movers are going damage their items are any of these a big concern for you?",
+    "two_layers_deep": "Customer answered directly: 'They are but I have like thoroughly vetted you guys online we've had, we've had stuff broken we've had stuff stolen from our moves before so I know you all charging Arman leg and I am more than happy to pay that.' Rep did not ask a follow-up layer like 'tell me more about that' or probe deeper into the concern.",
+    "value_days": "We do have availability rate that we can either do the apartment on Monday, the thirtieth and then move December 1st from storage. Or any day works best. Any day along those beach would work best right now... So, for example, we do Saturday the hour rate for Saturday is gonna be $115 per hour instead of $104 and for Sunday it's gonna be just a little cheaper instead of $100 it's just gonna be $105 per hour per mover. So, like, on the higher end, honestly, on the higher end, for Saturday and Sunday, it's gonna be $4,945 on the higher end. [Rep identified weekday as cheaper option, provided total dollar amounts for each day, and customer confirmed flexibility.]",
+    "rate_lock_then_ask": "We do not require any deposit nor do we have any rescheduling fees. So, in case your plans change as long as we have available with you on your dates we can easily reschedule you. No problem at all. [Then confirmed booking:] Let's can we get the twenty eighth for the apartment move?... And then the fifth for the storage."
+  },
+  "top_strength": "Jules masterfully gathered all logistics details, provided a personalized two-move estimate with accurate day-of-week pricing comparisons, and closed the sale by securing commitment on both move dates without requiring a deposit.",
+  "coaching_note": "After the customer raised concerns about theft and damage from previous moves, Jules never asked a second follow-up layer ('tell me more about that') to understand the depth of the concern \u2014 he pivoted instead to praising the company's reputation, missing the opportunity to reinforce the Two Promises (On-Time Guarantee and No Worries Damage Coverage) that directly addressed what the customer said mattered most."
+}

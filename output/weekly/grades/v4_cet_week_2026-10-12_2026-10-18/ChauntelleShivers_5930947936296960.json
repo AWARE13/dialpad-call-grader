@@ -1,0 +1,33 @@
+{
+  "call_id": "5930947936296960",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 8.1,
+  "datetime_ct": "2026-10-17 17:38 CT",
+  "external_number": "+14436917051",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep never asked about damage or on-time concerns before diving into logistics.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during the call.",
+    "value_days": "Not addressed. Rep did not identify the day's Value Days branch or offer any flexibility on date to save money. Customer already selected Oct 24 (afternoon/morning preference given but no mention of pricing advantage on alternate dates).",
+    "rate_lock_then_ask": "Rep stated 'We don't require like upfront deposit. You don't pay for anything until after the move is complete. It's free to reserve the truck' (rate lock component), but then when customer asked to email the quote first, rep agreed without asking explicitly for the business. The ask came implicitly, if at all, after the customer requested the email."
+  },
+  "top_strength": "Chauntelle gathered detailed logistics information methodically\u2014addresses, parking, unit number, furniture inventory with follow-ups on the couch and bed frame\u2014and provided a clear, anchored estimate range ($570\u2013$770) with trip fees disclosed upfront.",
+  "coaching_note": "This call skipped the Two Concerns question entirely (step 2) and never circled back to check for remaining concerns at the end (step 6), missing the two moments the customer actually remembers; add the two-concerns opener early and always ask 'What's still concerning you about this move?' before closing."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "5619400263376896",
+  "rep_name": "Nicole Tolete",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 18.3,
+  "datetime_ct": "2026-10-12 16:52 CT",
+  "external_number": "+12103834574",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 10,
+  "total_score": 71,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Nicole asked 'do you have any specific concern or stresser about the moving process in general?' after probing, not the two-concerns opener before probing started.",
+    "two_layers_deep": "N/A \u2014 customer raised no concern at step 2.",
+    "value_days": "Never addressed. Nicole quoted the customer for Monday October 26th without identifying the value branch or offering alternative days at lower cost.",
+    "rate_lock_then_ask": "Nicole said 'And to secure a spot, there's no deposit record if you have to reschedule or cancel no fees for that either. And would you like me to get you on the schedule.' Rate lock and no-deposit mentioned before the ask for the business."
+  },
+  "top_strength": "Nicole gathered comprehensive logistics details (addresses, floor levels, elevator access, walking distances at both ends, room count, item descriptions, box count) and delivered a personalized estimate ($908\u2013$1,100) anchored to the customer's specific move profile (third-floor apartment, basement storage, long walks).",
+  "coaching_note": "Ask the two-concerns question early, before any probing starts \u2014 'most of them have one of two concerns: either the movers not showing up on time, or damage to their items' \u2014 so you can address what actually matters to the customer rather than moving straight into logistics."
+}

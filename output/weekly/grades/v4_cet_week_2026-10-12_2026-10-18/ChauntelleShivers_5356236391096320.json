@@ -1,0 +1,31 @@
+{
+  "call_id": "5356236391096320",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 11.1,
+  "datetime_ct": "2026-10-17 17:25 CT",
+  "external_number": "+19035909638",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 0,
+  "total_score": 37,
+  "pass": false,
+  "na_fallbacks_used": [
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep never used the two-concerns opener about movers showing up on time or damage to items.",
+    "two_layers_deep": "No concerns were probed deeply. When customer raised budget concerns and husband's health situation, rep acknowledged but did not ask follow-up questions to explore deeper.",
+    "value_days": "Not addressed. Rep gave estimate but never mentioned cheaper days or asked about date flexibility.",
+    "rate_lock_then_ask": "Never asked. Rep said 'remember that this does include everything' but never mentioned rate lock, no deposit, or asked for the business with 'Would you like our help with your move?' Customer volunteered 'I'm checking around a few more places' and rep accepted without attempting a close."
+  },
+  "top_strength": "Chauntelle gathered all necessary logistics details methodically (addresses, square footage, large items, box count, access points, bed details, arrival window) and provided a personalized estimate range ($650\u2013$840) anchored to the customer's specific situation.",
+  "coaching_note": "Chauntelle skipped the two-concerns question entirely, never delivered the On-Time Guarantee or No Worries Damage Coverage promises, did not attempt to close the sale, and failed to address value days or ask for the business\u2014the five highest-impact moments on the call."
+}

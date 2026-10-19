@@ -1,0 +1,31 @@
+{
+  "call_id": "5404321655857152",
+  "rep_name": "Danah 2Celestial",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 11.8,
+  "datetime_ct": "2026-10-12 15:29 CT",
+  "external_number": "+18323413838",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 16,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 14,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 65,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people everyday and most of them have one of two concerns either the movers not showing up on time or movers damaging their items, are either of those concern for you",
+    "two_layers_deep": "Eric raised both concerns (timing and damage) but Danah acknowledged with 'Got it. Yeah' and immediately pivoted to the Two Promises permission lead-in instead of probing deeper with follow-up questions like 'tell me more about that'",
+    "value_days": "Saturday was identified as a weekday rate ($204/hr for two movers) but no cheaper day option was offered or explored; no flexibility about date was asked",
+    "rate_lock_then_ask": "Danah stated 'we do not require a deposit to book' but never asked an explicit closing question like 'Would you like our help with your move?' Instead Eric was left to volunteer 'just send me the quote, let me talk it over with my other half'"
+  },
+  "top_strength": "Danah delivered both the On-Time Guarantee and No Worries Damage Coverage clearly and completely, with specific terms ($50 off first hour, $25 per half-hour; $2,000 per move, no deductible, no fine print), and closed the loop with 'Does that put those to rest?'",
+  "coaching_note": "After Eric raised both timing and damage concerns in step 2, go two layers deep with follow-up questions ('tell me more about that') before moving to the promises\u2014shallow acknowledgment leaves concerns unresolved, and in step 7 ask an explicit closing question ('Would you like our help with your move?') rather than waiting for the customer to volunteer interest."
+}

@@ -1,0 +1,34 @@
+{
+  "call_id": "6624847109857280",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 7.1,
+  "datetime_ct": "2026-10-15 18:38 CT",
+  "external_number": "+13322050125",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 65,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked": "What is the first and last name? ... First name is S-Y-Z-A. Pisa and last name is K-H-A-N.",
+    "name_never_used_again": "Customer name collected but never used after collection throughout remainder of call.",
+    "quid_pro_quo_absent": "No time-boxed framing of the call, no promise of a dependable quote, no wait for customer confirmation before proceeding.",
+    "two_concerns_question_absent": "Rep never asks about shipper's top two concerns (on-time reliability, damage to items).",
+    "logistics_gathering": "Rep asks about square footage (2500, 3600), move date (Oct 21), story count (1-story, 2-story), and ending address but does not ask about special items, walking distances, number of rooms, or additional areas.",
+    "packing_and_box_count_absent": "Rep never asks if customer wants packing service or estimates box count."
+  },
+  "top_strength": "Chauntelle efficiently gathered basic logistics (square footage, story count, addresses, move date) and confirmed availability without wasting time.",
+  "coaching_note": "This call routes to walkthrough scheduler correctly given the 2500\u20133600 sqft size, but the rep never delivered the Two Promises (On-Time Guarantee and No Worries Damage Coverage), never asked about customer concerns, and never used the customer's name after collection \u2014 all three are required even on walkthrough calls because they establish trust before the handoff."
+}

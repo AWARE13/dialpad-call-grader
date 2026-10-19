@@ -1,0 +1,38 @@
+{
+  "call_id": "6253552220282880",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 12.8,
+  "datetime_ct": "2026-10-15 19:44 CT",
+  "external_number": "+17578140940",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 77,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "I just wanted to let you know that we talked to a lot of people everyday. And most of them have one or two concerns either the movers are not showing up on time or damage to their items are either of those a concern for you.",
+    "two_layers_deep": "Customer said 'No, not really' \u2014 no concerns raised, so N/A.",
+    "promises_delivered": "On time guarantee: 'if we're late, we start discounting money of your final bill. So on the first hour that we within make it to the agreed upon arrival window, we take a $50 off right away and then $25 more every half an hour after that.' Damage coverage: 'Lower damage coverage, so retreat your furniture like it's our own everything gets batted before it leaves the room... in case there will be any mishaps, or if ever something gets damaged or Noy damage coverage kicks in up to 2000 dollars per move that is to repair, replace and reimburse for items that's already included on the already weight that you're paying us.'",
+    "closes_the_loop": "Rep did not ask 'Does that put those to rest?' or equivalent after delivering the promises.",
+    "concern_led_opening": "Rep did not use a concern-led opening before probing details. Jumped directly into logistics: 'So I just wanted to make sure that we've got it correctly. The first location is 1927 Scott Street...'",
+    "value_days": "Rep offered one time window (8:30 AM to 9:00 AM on November 1st) but did not identify which of three branches (Best Value Day / Value Day / Standard) this falls into, did not offer an alternative cheaper day with dollar savings, and did not ask about date flexibility.",
+    "prep_and_temperature_check": "Rep gave prep framing: 'in case if you still have extra time just to prepare, but in the small items into your boxes yourself that would really help to keep the time down in efficiency up obviously the last time you take the less money end up spending by the end of the day.' But no temperature check ('How do you feel about that?') was asked, and no silence was held.",
+    "rate_lock_then_ask": "Rep mentioned no deposit: 'there's no deposit required. No risk your spot in case if you wanted to reschedule or to cancel then all you have to simply give us a call at anytime.' But the ask was softened with a built-in out: 'Would you like me to lock that in for you?' followed immediately by the customer saying 'No, I'm still getting a quote' \u2014 the rep accepted this without a plain, unsoftened second ask."
+  },
+  "top_strength": "Rep delivered both promises (On-Time Guarantee and No Worries Damage Coverage) in full recognizable form with concrete terms, and gathered comprehensive logistics details early.",
+  "coaching_note": "Add the temperature check 'How do you feel about that?' after the prep framing, and after a customer says no to the initial ask, ask a plain second version of the closing question ('Would you like our help with your move?') without a built-in escape route like emailing the quote over."
+}

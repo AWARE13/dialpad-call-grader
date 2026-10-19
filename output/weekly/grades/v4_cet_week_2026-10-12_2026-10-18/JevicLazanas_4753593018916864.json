@@ -1,0 +1,32 @@
+{
+  "call_id": "4753593018916864",
+  "rep_name": "Jevic Lazanas",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 12.8,
+  "datetime_ct": "2026-10-13 21:15 CT",
+  "external_number": "+12143549136",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 3,
+  "total_score": 66,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into confirming existing profile details and probing.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer in step 2.",
+    "value_days": "Never addressed. Rep did not discuss whether Tuesday 27th was a Value Day or offer any cheaper alternatives.",
+    "rate_lock_then_ask": "Rep asked 'Would you like to get on the schedule today?' with no mention of rate lock or no-deposit commitment before the ask. Later confirms booking with start time and mover email, but the rate-lock assurance was never given."
+  },
+  "top_strength": "Jevic gathered comprehensive move details systematically, confirmed both packing and box count, delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full terms, and personalized the estimate to the customer's fifth-floor walk distance.",
+  "coaching_note": "Add the two-concerns question early in step 2 before any probing starts \u2014 this is the foundation of the call \u2014 and use the genuine final concerns check in step 6 ('What's still concerning you?'), not the throwaway 'Will there be anything else?' which guarantees a no."
+}

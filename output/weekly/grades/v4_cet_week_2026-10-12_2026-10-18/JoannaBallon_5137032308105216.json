@@ -1,0 +1,38 @@
+{
+  "call_id": "5137032308105216",
+  "rep_name": "Joanna Ballon",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 15.0,
+  "datetime_ct": "2026-10-18 16:15 CT",
+  "external_number": "+12143947137",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 87,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Joanna: 'Hi, Al, good morning it's Joanna from Einstein moving' and later 'It's Joanna, sir, yes, sir' / Al: 'Joanna. Okay, thanks, Joanna.' \u2014 name used at close",
+    "quid_pro_quo": "Joanna: 'this might take about ten to fifteen minutes if this is a good time' \u2014 time frame given, but no explicit promise of a dependable quote or real wait for yes before proceeding into existing address confirmation",
+    "two_concerns_question": "Never asked. Joanna moved directly into logistics confirmation without asking the two-concerns opener",
+    "promises_delivered": "Joanna: 'we still include our no worries, damage coverage, providing you to $2,000 coverage for any accidental, damages' and 'on time guarantee if we run late, we provide discounts for your move' \u2014 both promises present in recognizable form, though no permission lead-in asking before delivery",
+    "closes_the_loop": "Not asked. No version of 'Does that put those to rest?' or similar loop-closer",
+    "concern_led_opening_and_logistics": "Joanna led with logistics details (addresses, date, partial vs full move, packing needs) and gathered: special items (china cabinets, safe, antiques like old writing desk and beverage cart), property types (two-story source, one-story destination), rooms (3 bedrooms, study, 2 living areas, dining room), walking distance (double doors at source, single door at destination, easy street parking), additional stops (garage for donations), additional rooms/spaces (garage, study with books). All major detail items covered",
+    "packing_and_box_count": "Joanna: 'do you still need help packing like putting your stuff into boxes' (packing asked) and 'in terms of boxes, once everything's packed, do you think we'll have more than a hundred boxes in total?' (box count asked with typical range anchor of ~40, adjusted from customer's estimate of 30-35)",
+    "value_days": "Joanna mentioned 'Wednesday the twenty first' and $102/hour rate but never addressed Value Days, cheaper day options, or date flexibility savings",
+    "rate_lock_then_ask": "Joanna stated '$102 per hour per mover' and 'you don't pay extra for the truck. So you just pay for the hourly rate' but never explicitly asked for the business or mentioned rate lock. Called back to check availability instead of closing",
+    "walkthrough_routing": "Joanna: 'since of course this time we're moving a house of course the house is bigger than you know, just a typical smaller homes usually we conduct a virtual walkthrough for us to give you a more precise estimate this time.' Customer declined video walkthrough but offered phone walkthrough. Call ended with clear intent to call back after manager consultation on crew availability and scheduling \u2014 clean routing to next step"
+  },
+  "top_strength": "Joanna gathered comprehensive logistics and special-item details across all relevant categories (rooms, fragile items, donations, packing needs, access points, crew preferences) with excellent follow-up probing on what Al volunteered.",
+  "coaching_note": "Step 2 \u2014 the two-concerns question was never asked at all; this is the primary discovery opener on the v4 card and needs to land before any logistics probing starts, which would have uncovered Al's priorities and shaped the rest of the call."
+}

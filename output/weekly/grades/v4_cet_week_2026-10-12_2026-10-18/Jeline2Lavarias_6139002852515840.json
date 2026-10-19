@@ -1,0 +1,34 @@
+{
+  "call_id": "6139002852515840",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 13.0,
+  "datetime_ct": "2026-10-13 14:44 CT",
+  "external_number": "+15129171546",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 72,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "quid_pro_quo": "So let's use the south Austin branch here so let me just confirm all the details that you've entered online Mike, so we can give you the most accurate code and this might take ten to fifteen minutes so is this a good time to talk about your moving?",
+    "two_concerns_question": "Not asked. Rep did not ask about on-time arrival or damage concerns before moving to probing.",
+    "concern_led_opening": "Missing concern-led framing. Rep moved directly into logistics (address, floor, distance, appliances) without asking 'What items in this move are you most concerned about?'",
+    "packing_and_box_count": "Packing asked: 'do full packing and no packing' discussed. Box count asked: 'normally sir for a one bedroom apartment we see fifteen to 25 boxes. Do you think you would fall within that range?' Customer confirmed yes.",
+    "promises_delivered": "Neither On-Time Guarantee nor No Worries Damage Coverage mentioned at any point in the call.",
+    "walkthrough_routing": "Virtual walkthrough offered and accepted: 'Are you available to do a virtual walkthrough? So it's like a video call so I can see the stuff we will be moving and the things that we will pack as well.' Customer agreed and agreed to send pictures."
+  },
+  "top_strength": "Rep successfully gathered thorough logistics details (two addresses, floor levels, walking distances, equipment and valuables, box count estimate) and clearly routed the customer to a virtual walkthrough with photo upload, which is the correct handling for this size move.",
+  "coaching_note": "On walkthrough-routing calls, Step 3 Two Promises still must be delivered before probing begins; add the permission lead-in and deliver both the On-Time Guarantee and No Worries Damage Coverage before gathering logistics details, and eliminate the Step 2 gap by asking the two-concerns question first to anchor the conversation on what matters to this customer."
+}

@@ -1,0 +1,31 @@
+{
+  "call_id": "5164283831558144",
+  "rep_name": "Nicole Tolete",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 5.8,
+  "datetime_ct": "2026-10-13 21:36 CT",
+  "external_number": "+15123504584",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 4,
+  "total_score": 34,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics and special items probing without establishing customer concerns first.",
+    "two_layers_deep": "Not applicable \u2014 no concerns were surfaced by the customer during the call.",
+    "value_days": "Never addressed. No mention of different day options or pricing savings.",
+    "rate_lock_then_ask": "Rep mentioned 'to secure a spot there's no deposit required' but then asked 'would you like me to get you on the schedule?' without a rate lock statement. When customer declined to book, rep simply offered to email the quote without reasserting the ask or clarifying the no-deposit/rate-lock position."
+  },
+  "top_strength": "Nicole clearly explained the all-inclusive pricing model, travel fee, damage coverage, meet-your-mover feature, and on-time guarantee with specific dollar amounts and terms, giving Samantha a comprehensive understanding of what Einstein offers.",
+  "coaching_note": "Skip the feature recitation and start with the two-concerns question before probing \u2014 this moves the conversation from what you do to what matters to the customer, and creates the opening for Two Promises to land when it will actually resonate."
+}

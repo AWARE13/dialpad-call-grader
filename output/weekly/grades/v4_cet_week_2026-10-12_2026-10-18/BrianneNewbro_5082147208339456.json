@@ -1,0 +1,33 @@
+{
+  "call_id": "5082147208339456",
+  "rep_name": "Brianne Newbro",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 12.2,
+  "datetime_ct": "2026-10-12 14:20 CT",
+  "external_number": "+17023588493",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 64,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Elizabeth most of our customers have two concerns. One, the movers not being on time or two damage to their property and items when being moved, or any of these a concern for you.",
+    "two_layers_deep": "Customer said 'No I think they'll do a good job' \u2014 no concerns raised, so N/A.",
+    "value_days": "Never addressed. Rep did not discuss cheaper days or date flexibility savings.",
+    "rate_lock_then_ask": "Rep never asked for the business. Instead: 'I'm gonna send this email right now and then if you do have any questions or concerns, please don't hesitate to reach out to us.' This is a soft hand-off with no explicit ask."
+  },
+  "top_strength": "Brianne delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full terms, and gathered comprehensive logistics details before quoting, giving a personalized range based on actual move size.",
+  "coaching_note": "You must ask for the business explicitly (\"Would you like our help with your move?\") before sending the email \u2014 the customer booked via the system but you never closed the loop with a direct ask, and you skipped the rate lock/no deposit framing that makes saying yes easy."
+}

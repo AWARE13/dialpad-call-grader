@@ -1,0 +1,31 @@
+{
+  "call_id": "5910689984847872",
+  "rep_name": "Nicole Tolete",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 10.5,
+  "datetime_ct": "2026-10-16 21:59 CT",
+  "external_number": "+14698295942",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 12,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 74,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we actually talked to a lot of people everyday and most of them have one of two concerns either the movers is not showing up on time or damage to the items are either of those the concern for you.",
+    "two_layers_deep": "Damage as a, tell me more about it. Did you had a damage item before on your previous move? [Customer: No, I just I'm just right about it online. I just want my furniture to be taken care of.] [Nicole pauses briefly then moves on without deeper follow-up]",
+    "value_days": "No value days offered or discussed. Customer selected Sunday November 1st and Nicole confirmed availability without offering alternative cheaper days.",
+    "rate_lock_then_ask": "to secure a spot, there's no deposit record if you have to reschedule or cancel no fees for that either. And would you like me to get you on the schedule?"
+  },
+  "top_strength": "Nicole expertly delivered both promises (On-Time Guarantee with specific $50/$25 discounting, and No Worries Damage Coverage with $2,000 coverage, no deductible, built-in) with permission lead-in and close-the-loop confirmation, directly addressing the customer's stated concern about damage.",
+  "coaching_note": "After the customer raised damage as a concern, Nicole asked only one follow-up question before moving to the permission lead-in; a second layer of probing (e.g., 'tell me more about what specifically worries you' or silence to let them elaborate) would have deepened her understanding and strengthened the promises delivery."
+}

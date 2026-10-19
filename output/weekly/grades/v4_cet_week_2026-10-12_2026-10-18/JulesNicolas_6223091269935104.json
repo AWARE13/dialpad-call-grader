@@ -1,0 +1,33 @@
+{
+  "call_id": "6223091269935104",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 7.4,
+  "datetime_ct": "2026-10-12 16:20 CT",
+  "external_number": "+12147082157",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 35,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep never opens with the two-concerns question about movers showing up on time or damage to items.",
+    "two_layers_deep": "N/A \u2014 no concerns were elicited because the two-concerns question was never asked.",
+    "value_days": "Not addressed. Rep offers November 25th but does not identify it as a pricing tier or offer savings on an alternative day.",
+    "rate_lock_then_ask": "Rate lock and no-deposit mentioned: 'we do not actually require any deposit or do we have any rescheduling fees or any cancellation fees'. Ask present: 'do you want me to get this scheduled now?' Order is correct \u2014 rate lock/no deposit came first."
+  },
+  "top_strength": "Jules successfully closed the sale and booked the customer by offering two truck/crew options at different price points, removing budget friction when the customer expressed hesitation about the $3,086 option.",
+  "coaching_note": "This call skipped the entire discovery and promises foundation: never ask the two-concerns question, never deliver the On-Time Guarantee or No Worries Damage Coverage, and jump straight into pricing and logistics. Rebuild by opening step 2 with the two-concerns question before any probing, then deliver both promises in step 3 before estimating."
+}

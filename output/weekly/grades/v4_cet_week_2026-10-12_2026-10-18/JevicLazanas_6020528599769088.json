@@ -1,0 +1,31 @@
+{
+  "call_id": "6020528599769088",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 17.8,
+  "datetime_ct": "2026-10-12 17:06 CT",
+  "external_number": "+12247278236",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 9,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 16,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 7,
+  "total_score": 77,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people everyday and most of them have one or two concerns either the movers not showing up on time or damage to the items or either of those concern for you, have you experienced that before?",
+    "two_layers_deep": "Customer stated 'No, this is the first time I'm going for the practice and movers because this is the first time I'm moving out of the apartment.' Rep acknowledged with 'Hi. Okay, we'll make sure that it's going to be.' and then pivoted to promises without deeper follow-up.",
+    "value_days": "the Saturday rate is $230 per hour for two movers but on Sunday it's $210 per hour per two movers. So if you have flexibility you can select Sunday",
+    "rate_lock_then_ask": "Rep asked for the booking before mentioning rate lock or no deposit: 'would you like me to go ahead and get you on the schedule today?' Later confirmed the booking, but the rate lock commitment and no-deposit assurance were never explicitly stated before the ask."
+  },
+  "top_strength": "Jevic gathered all required logistics details methodically and delivered both promises (On-Time Guarantee and No Worries Damage Coverage) in full recognizable form with clear terms and dollar amounts, then confirmed customer understanding.",
+  "coaching_note": "Step 6 needs genuine follow-up on the concerns raised\u2014when the customer shared this was their first move, dig deeper with 'Tell me more about that' and silence rather than pivoting immediately; also, rate lock and no-deposit assurance must come before asking for the business, not after booking is already confirmed."
+}

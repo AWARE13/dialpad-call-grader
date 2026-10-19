@@ -1,0 +1,33 @@
+{
+  "call_id": "5111381897289728",
+  "rep_name": "Brianne Newbro",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 10.0,
+  "datetime_ct": "2026-10-13 16:41 CT",
+  "external_number": "+13464316253",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 3,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics probing without the two-concerns opener about movers showing up on time or damage to items.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer in step 2.",
+    "value_days": "Not addressed. Rep did not discuss whether October 25th is a Best Value Day or offer savings for date flexibility.",
+    "rate_lock_then_ask": "Rep mentioned 'no deposit' and '24 hour notice' policy but never asked 'Would you like our help with your move?' \u2014 booking was confirmed by the customer's existing online reservation, not by an explicit sales ask. Weak because the ask was missing entirely."
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details in a conversational, concern-led flow \u2014 special items, bed size, TV size, walking distances, parking, arrival window \u2014 and confirmed everything back to the customer for accuracy.",
+  "coaching_note": "Add the two-concerns question (movers on time, damage to items) at the top of step 2 before any probing, and deliver both the On-Time Guarantee and No Worries Damage Coverage promises with a permission lead-in \u2014 this call skipped both the step 2 and step 3 blocks entirely, which are the rep's chance to connect the customer's real fears to how Einstein solves them."
+}

@@ -1,0 +1,32 @@
+{
+  "call_id": "4622049306517504",
+  "rep_name": "Brianne Newbro",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 8.6,
+  "datetime_ct": "2026-10-12 15:57 CT",
+  "external_number": "+15125079426",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 3,
+  "step6_concerns_again": 2,
+  "step7_ask_for_the_business": 0,
+  "total_score": 34,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics gathering.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer in step 2.",
+    "value_days": "Not addressed. Rep offered two arrival windows (8:30\u20139:00 AM or 12:30\u20132:30 PM) but no mention of cheaper days or date flexibility or value pricing.",
+    "rate_lock_then_ask": "Never asked. Rep provided estimate ($520\u2013$728 range) and customer selected time slot, but rep never asked for the business explicitly or mentioned rate lock and no deposit."
+  },
+  "top_strength": "Brianne gathered detailed logistics efficiently, confirmed the name and used it, and got a full booking with multiple contact points and crew notes about the voucher.",
+  "coaching_note": "This call skipped the two core sales steps \u2014 the two-concerns question (step 2) and the two promises (step 3) \u2014 jumping straight into an operational intake, and never asked for the business explicitly or offered any pricing framing or temperature check before booking."
+}

@@ -1,0 +1,31 @@
+{
+  "call_id": "4921222608232448",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 9.4,
+  "datetime_ct": "2026-10-16 18:12 CT",
+  "external_number": "+19782909185",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 12,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 54,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people everyday about their move and most of them have one of two concerns either the mover is not showing up on time or damage to their items, or either of those a concern for you",
+    "two_layers_deep": "Customer answered no concerns raised; rep did not probe deeper on the 'good to know' response",
+    "value_days": "No mention of Value Days or date flexibility/alternate dates",
+    "rate_lock_then_ask": "Would you like our help with your upcoming move on Saturday January 2nd \u2014 asked directly but no rate lock or no-deposit statement before the ask"
+  },
+  "top_strength": "Jevic delivered both promises (On-Time Guarantee with specific discount amounts and No Worries Damage Coverage with $2,000 limit and 4-6 day claims timeline) clearly and without the permission lead-in, and provided comprehensive pricing framing including the trip fee and the all-inclusive rate structure.",
+  "coaching_note": "Step 2: when the customer says 'I have not experienced that before,' that is a deflection, not an absence of concerns \u2014 probe deeper with 'tell me more about that' or 'what would your ideal move look like?' instead of pivoting to profile-building; Step 6: ask 'What's still concerning you about this move?' before closing; Step 7: state the rate lock and no-deposit promise before asking for the business, and pause after the ask instead of offering to email as an alternative."
+}

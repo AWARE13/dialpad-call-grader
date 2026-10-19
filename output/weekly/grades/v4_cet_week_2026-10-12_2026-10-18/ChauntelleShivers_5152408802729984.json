@@ -1,0 +1,31 @@
+{
+  "call_id": "5152408802729984",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 6.7,
+  "datetime_ct": "2026-10-16 15:17 CT",
+  "external_number": "+16467640270",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 35,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "I talked to a lot of people everyday would just they're just simple concerns either like movers that rabbit on time or items getting damaged or any of those concerns with yours or do you have any others that I can address?",
+    "two_layers_deep": "Customer said 'Not really yet, it's not now' and rep accepted this with 'Okay, you got it' and moved on immediately without probing deeper.",
+    "value_days": "No mention of value days, cheaper days, or date flexibility beyond confirming Friday November 13th availability.",
+    "rate_lock_then_ask": "Rep said 'It is free to reserve the truck. It's also free to cancel the truck if anything changes did you want to at least go ahead and get that booked' \u2014 free cancellation is present but the ask was soft and embedded with an out ('if anything changes'). Customer declined to book and rep accepted without pressing or clarifying rate lock status."
+  },
+  "top_strength": "Chauntelle gathered logistics efficiently and gave a clear, anchored estimate range ($1,497\u2013$1,715 for 6\u20137 hours) with full transparency on hourly rate, what's included, and how time is billed.",
+  "coaching_note": "Step 2 had the two-concerns question but zero follow-up depth when the customer hesitated \u2014 'Not really yet, it's not now' needed a 'tell me more about that' to uncover what was actually behind that pause; Step 3 was completely skipped (no On-Time Guarantee or Damage Coverage promises delivered); and Step 6 was never asked, so you never went back to surface concerns that might have surfaced after the estimate was stated."
+}

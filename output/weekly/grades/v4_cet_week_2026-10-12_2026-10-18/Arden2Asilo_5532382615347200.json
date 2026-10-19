@@ -1,0 +1,33 @@
+{
+  "call_id": "5532382615347200",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 15.4,
+  "datetime_ct": "2026-10-12 16:22 CT",
+  "external_number": "+17143515897",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 14,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 75,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Rep asked 'aside from the pricing, are there any concerns that you'd like me to take note of' but this is not the rubric's primary two-concerns question about movers showing up on time or damage to items. Customer answered 'I don't think so.' No genuine two-concerns opening was given.",
+    "two_layers_deep": "Customer raised no concerns at the step 2 check, so this is N/A by the rubric.",
+    "value_days": "Rep never addressed Value Days or offered a cheaper alternative day. Saturday 17th was presented as the only available slot: 'on Saturday 17th of October I still have one truck remaining, ma'am. I can schedule you for 8:30 to 9:00.'",
+    "rate_lock_then_ask": "Rep stated 'No deposit required. Always remember you only pay after the actual move is done. If you want, you want our help with this move ma'am.' Then customer said 'Yes, that'd be great.' Rate lock (no deposit, pay after move) was mentioned before the explicit ask."
+  },
+  "top_strength": "Arden gathered comprehensive logistics detail with a concern-led opening ('let's talk about the items that we're going to be moving that might require extra time and care'), asked both packing and box count, delivered both promises (On-Time Guarantee and No Worries Damage Coverage with full terms), and closed the sale with rate lock and no deposit framing before the ask.",
+  "coaching_note": "Step 2 is the rubric's heaviest bookend\u2014replace the open-ended concerns opener with the primary two-concerns question about movers showing up on time or damage to items, then go two layers deep on whatever the customer raises; also skip Step 6 before the ask by asking a genuine final concerns check ('What's still concerning you about this move?') rather than moving straight to booking confirmation."
+}

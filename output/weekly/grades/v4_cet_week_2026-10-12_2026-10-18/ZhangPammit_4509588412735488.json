@@ -1,0 +1,43 @@
+{
+  "call_id": "4509588412735488",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 9.9,
+  "datetime_ct": "2026-10-16 22:28 CT",
+  "external_number": "+18179096766",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep says 'Hi Jake!' after customer introduces himself and uses the name multiple times throughout",
+    "quid_pro_quo": "Rep says 'This would only take within the next ten to fifteen minutes of your time so I can build an accurate code. Would that be okay with you?' \u2014 time-boxed but promise of dependable quote is absent; customer gives a yes but it's somewhat unclear due to audio quality",
+    "two_concerns_question": "Never asked. No version of the two-concerns framing about on-time arrival or damage appears anywhere in the call",
+    "promises_delivered": "No On-Time Guarantee or No Worries Damage Coverage mentioned at any point",
+    "concern_led_opening": "Missing. Rep jumps directly into logistics ('is the elevator reserved') without asking 'What items in this move are you most concerned about?'",
+    "logistics_gathered": "Addresses obtained (600 Guadalupe to 1800 South Lamar), property type (one bedroom apartment), floor/elevator situation, walking distance clarified, special items asked about (safe, piano, equipment) \u2014 but customer states only moving one mattress, so most detail buckets don't apply",
+    "packing_and_box_count": "Packing question about mattress wrapping comes up late and organically ('The movers when we bring like, so anything else, maybe they wrap the mattress') but never formally asked; no box count question since move is minimal",
+    "pricing_framing": "Rep mentions minimum of 2.5 hours at $520 and that billing goes to 15-minute increments ('it will always be prorated to fifteen minute increments') \u2014 this covers fee transparency and not-a-guess elements, but no pricing contrast (competitors' hourly vs all-inclusive), no 'no need to take notes' line, and no clear three-part framing",
+    "estimate_anchor": "Rep gives '$520 minimum' and personalizes slightly by explaining it applies even though customer is moving one item, but no typical range for a home this size is offered and no real pause held after the number",
+    "value_days": "Never addressed. No mention of cheaper days, date flexibility, or Value Days framework",
+    "prep_and_temperature_check": "Not present. No Save Your Ass framing about prep being the biggest factor, no 'How do you feel about that?' temperature check",
+    "final_concerns_check": "Not asked. Call moves straight to booking confirmation without a genuine 'What's still concerning you about this move?' check",
+    "rate_lock_and_ask": "Rep says 'there's no deposit required, no recent securing your spot' and then 'Would you like me to lock that in for you?' \u2014 rate lock and no deposit clearly stated before the ask, and the ask is plain and direct without a built-in out",
+    "booking_confirmed": "Date (October 22nd, later adjusted to 2:00 PM window), time window (1:00 PM to 2:00 PM per customer preference, later 2:00 PM with 1:00\u20133:00 PM window), addresses confirmed, and confirmation email promised; crew size and detailed notes about customer concerns are missing"
+  },
+  "top_strength": "The rep successfully booked the move and confirmed the key details (date, time window, addresses) with clear, direct language, and correctly laid out no-deposit rate-locking before asking for the business.",
+  "coaching_note": "This call skipped the two foundational steps of Einstein's process: never asked the two-concerns question (step 2) or delivered the two key promises about on-time guarantee and damage protection (step 3), which means the customer left with no differentiation from competitors and no answer to their unstated concerns about reliability."
+}

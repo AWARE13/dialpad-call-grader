@@ -1,0 +1,36 @@
+{
+  "call_id": "4773650524577792",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 7.7,
+  "datetime_ct": "2026-10-14 20:29 CT",
+  "external_number": "+12149347057",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 36,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Customer's concerns about cost vs. competitors were reactive, not proactive.",
+    "two_layers_deep": "No concerns were formally elicited, so N/A applies.",
+    "value_days": "Not mentioned at all. No discussion of move date flexibility or value pricing.",
+    "rate_lock_then_ask": "No rate lock offered. No explicit ask for the business. Call ended with rep saying 'Of course. Thank you so much.' and customer saying goodbye.",
+    "quid_pro_quo": "Rep said 'I just need you know, maybe ten to fifteen minutes to get additional information and then I'd be able to get you an accurate quote you can depend on, sounds good.' Time-boxed ask present, promise of dependable quote present, but no real wait for confirmation\u2014customer simply says 'Sure, sure thing' and rep moves forward.",
+    "name_asked_and_used": "Rep asked 'Can I have your first and last name?' Customer provided 'Clinton Thomas.' Name never used again in the call."
+  },
+  "top_strength": "Jules gathered detailed item inventory and property details systematically, allowing an accurate estimate to be calculated.",
+  "coaching_note": "Never ask the two-concerns question, never deliver the Two Promises (On-Time Guarantee and No Worries Damage Coverage), never offer a rate lock or explicitly ask for the business\u2014this call abandoned the core card structure entirely and ended when the customer pushed back on price."
+}

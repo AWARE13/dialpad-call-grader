@@ -1,0 +1,31 @@
+{
+  "call_id": "6497935645515776",
+  "rep_name": "Zhang Pammit",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 11.2,
+  "datetime_ct": "2026-10-18 15:41 CT",
+  "external_number": "+15612608720",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 19,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 10,
+  "total_score": 81,
+  "pass": true,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talked to a lot of people everyday and most of them have one or two concerns. Either the movers are not showing up on time or damage to their items are either of those a concern for you.",
+    "two_layers_deep": "Rep asked 'I see. So from what I'm hearing, is that you've moved in the past and your bed was damaged. Did I get all of it?' but did not ask a follow-up probe like 'tell me more about that' to go deeper. Customer said 'Yeah' and rep moved on.",
+    "value_days": "Rep did not discuss whether the customer's move date (tomorrow, described as 'for tomorrow') was a premium or discount day, or offer alternative dates for savings.",
+    "rate_lock_then_ask": "Tomorrow we can be able to book her slot as early as 8:30 AM to 9:00 AM there's no deposit required. No reason securing your spot... Would you like me to lock that in for you?"
+  },
+  "top_strength": "Delivered both promises (On-Time Guarantee with full discount structure and No Worries Damage Coverage up to $2,000 with no deductible) in complete, recognizable form before diving into probing.",
+  "coaching_note": "Step 2's two-layers-deep follow-up was too shallow \u2014 after the customer mentioned bed frame damage, the rep summarized but never asked 'tell me more about that' or probed into what would prevent it from happening again; the step 6 final concerns check also needs the catch-all question 'Anything coming with you we haven't talked about?' to fully close the loop."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "5700764318867456",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 11.6,
+  "datetime_ct": "2026-10-14 18:16 CT",
+  "external_number": "+15127511870",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 3,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Well, before I proceed, let me just share with you that we talked to a lot of people everyday and those if them have one of two concerns either the mover is not showing up on time or damage to their items are either of those a concern of you.",
+    "two_layers_deep": "Customer declined concerns upfront (N/A\u2014no concerns raised to follow up on)",
+    "value_days": "Rep asked about packing date preference but never framed as a Value Days choice or mentioned pricing differences for different days",
+    "rate_lock_then_ask": "Rep stated no deposit required but never asked for the business explicitly; instead offered to email the quote and let the customer reply to proceed"
+  },
+  "top_strength": "Jeline expertly gathered all the logistics details needed for an accurate estimate (addresses, floor levels, walking distances, appliance sizes, special items) and delivered both the On-Time Guarantee and No Worries Damage Coverage clearly upfront.",
+  "coaching_note": "Step 7 never happened\u2014Jeline never actually asked for the business ('Would you like our help with your move?'), instead pivoting directly to emailing the quote and waiting for a reply, which leaves the sale hanging and allows the customer to shop around without commitment."
+}

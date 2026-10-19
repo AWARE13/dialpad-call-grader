@@ -1,0 +1,33 @@
+{
+  "call_id": "5452569863036928",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 5.4,
+  "datetime_ct": "2026-10-14 14:43 CT",
+  "external_number": "+12144505264",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 2,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 36,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into address collection and logistics probing.",
+    "two_layers_deep": "N/A \u2014 no concerns were elicited.",
+    "value_days": "Not addressed. Rep confirmed October 25th but never discussed whether that day had pricing options or flexibility.",
+    "rate_lock_then_ask": "Never asked for the business. Rep said 'I'm gonna send you over this information' but did not ask 'Would you like our help with your move?' or similar close. No rate lock or deposit language."
+  },
+  "top_strength": "Brianne efficiently gathered all necessary logistics details (addresses, unit number, parking, furniture inventory, TV size consideration) in a conversational, organized manner that kept the customer engaged.",
+  "coaching_note": "This call skipped nearly the entire Einstein sales process: no quid pro quo framing, no two-concerns question, no promises on reliability or damage protection, no estimate or pricing anchor, no genuine final concerns check, and critically, no ask for the business \u2014 she confirmed an existing booking but never attempted to close or re-confirm the sale."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "5244642560614400",
+  "rep_name": "Nicole Tolete",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 9.6,
+  "datetime_ct": "2026-10-13 21:25 CT",
+  "external_number": "+15127626123",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 60,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Nicole never asked the two-concerns question about movers showing up on time or damage to items.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer in step 2.",
+    "value_days": "Not addressed. Nicole offered only two time slots (8:30 AM or 1:30 PM) without discussing value days or asking about date flexibility.",
+    "rate_lock_then_ask": "Nicole: 'And to secure a spot, there's no deposit record if you have to reschedule or cancel no fees for that either. And would you like me to get you on the schedule?' Frances: 'Yes please.' Rate lock and no deposit clearly stated before the ask."
+  },
+  "top_strength": "Nicole delivered both core promises (No Worries Damage Coverage with $2,000 and On-Time Guarantee with discount structure) clearly and completely, and closed the booking with full detail confirmation including arrival window, phone, addresses, and crew notes.",
+  "coaching_note": "Nicole skipped the two-concerns question entirely and never asked about concerns at step 2 or step 6, missing the opportunity to understand what Frances actually worried about and to bookend the call with genuine concern discovery."
+}

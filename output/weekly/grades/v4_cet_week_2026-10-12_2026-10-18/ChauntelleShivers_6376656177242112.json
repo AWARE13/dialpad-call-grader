@@ -1,0 +1,32 @@
+{
+  "call_id": "6376656177242112",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 9.6,
+  "datetime_ct": "2026-10-13 17:03 CT",
+  "external_number": "+12146367731",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into concern follow-up when customer raised TVs and Asem rig without asking the two-concerns framing.",
+    "two_layers_deep": "Rep asked follow-up on TV protection ('What size t.v.s are they?') and on the Asem rig with detail questions ('it's almost like, if I heard you correctly, it's like a C. with like glass and wheels'). Customer brought up concerns organically and rep dug in both times.",
+    "value_days": "Not mentioned at all. No discussion of move date flexibility or cheaper alternatives to November 7th.",
+    "rate_lock_then_ask": "Neither rate lock nor explicit ask for business ever made. Call ends with rep confirming email sent and offering to help if needed, but no ask like 'Would you like our help with your move?' and no mention of rate lock or no deposit."
+  },
+  "top_strength": "Chauntelle gathered logistics comprehensively and personalized the conversation around the customer's specific concerns about the TVs and Asem rig, even creating a photo-upload system to document the equipment.",
+  "coaching_note": "You need to ask the two-concerns framing question early (before probing starts), deliver both promises with their terms, and close the call with an explicit ask for the business\u2014without a built-in out\u2014along with rate lock and no deposit messaging."
+}

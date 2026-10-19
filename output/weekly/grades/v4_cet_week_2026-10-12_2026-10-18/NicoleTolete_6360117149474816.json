@@ -1,0 +1,32 @@
+{
+  "call_id": "6360117149474816",
+  "rep_name": "Nicole Tolete",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 19.6,
+  "datetime_ct": "2026-10-16 22:12 CT",
+  "external_number": "+18325357656",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 16,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 66,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talk to a lot of people everyday and both of them have one of two concerns either the movers not showing up on time or damage to their items, or either of those a concern for you.",
+    "two_layers_deep": "Can you tell me more about that? Did you had a bad experience before? [Customer says no] Oh, I'm glad to hear that. [Moves directly to promises, no second probe on the concern.]",
+    "value_days": "No mention of value days, date flexibility, or cheaper day options made.",
+    "rate_lock_then_ask": "Nicole never asked for the business. The call ended with the customer declining due to price and Nicole saying she understood if he proceeded with a competitor."
+  },
+  "top_strength": "Nicole delivered both promises (On-Time Guarantee and No Worries Damage Coverage) in full detail with clear terms, and gathered nearly all required logistics details systematically through a concern-led opening.",
+  "coaching_note": "This call stalled at the objection and never recovered: Nicole did not attempt to reframe value, explore date flexibility via Value Days, or ask for the business before the customer rejected the price\u2014she conceded and closed without trying to book."
+}

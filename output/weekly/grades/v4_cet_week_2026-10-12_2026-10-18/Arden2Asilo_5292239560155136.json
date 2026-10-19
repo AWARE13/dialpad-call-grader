@@ -1,0 +1,33 @@
+{
+  "call_id": "5292239560155136",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 21.8,
+  "datetime_ct": "2026-10-12 14:23 CT",
+  "external_number": "+14695868945",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 20,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 14,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 70,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "other than the price, are there any biggest concerns or any concern that you'd like us, like me to take note of so, I can answer them within this call? [Customer responds: nothing I can think of right now]",
+    "two_layers_deep": "n/a \u2014 customer raised no concerns at step 2",
+    "value_days": "Currently, I still have availability for Thursday 29th of October the team will come between 8:30 to 9:00. [No mention of alternative days, savings, or date flexibility offered]",
+    "rate_lock_then_ask": "We do not require any deposit and just in case you would need rescheduling or updates or changes with the booking that's also gonna be free of cost. So do you want me to put you on the books? [Rate lock mentioned but no explicit 'rate lock' language; deposit mentioned but customer did not actually book on this call]"
+  },
+  "top_strength": "Arden gathered comprehensive logistics details across two properties and a storage unit, asked both packing and box count questions, and delivered both the On-Time Guarantee and No Worries Damage Coverage promises with clear terms.",
+  "coaching_note": "Step 6 was skipped entirely \u2014 Arden never asked a final concerns check ('What's still concerning you about this move?') before moving to close, and the ask came weak ('Do you want me to put you on the books?') with no rate-lock language or genuine pause; the customer left without booking because she wanted other quotes first."
+}

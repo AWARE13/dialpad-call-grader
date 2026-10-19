@@ -1,0 +1,31 @@
+{
+  "call_id": "5890035235463168",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 11.7,
+  "datetime_ct": "2026-10-18 15:47 CT",
+  "external_number": "+12102027737",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Well, since we talked to a lot of customers everyday, some of their concerns are either movers not arriving on time or damages to their items. Are there any of your concerns as well?",
+    "two_layers_deep": "Customer says both concerns, rep responds: 'can you tell me more about it? Like, if there's any items that you're very particular rough that you also want to take notes for this move.' Customer answers that nothing is fragile or high value, just hopes nothing gets damaged. Rep does not probe deeper or ask follow-up.",
+    "value_days": "No value days discussion. Rep states 'we're going to do your move on a Monday. That's gonna be $96 per hour' but never discusses whether a different day would be cheaper or offers date flexibility.",
+    "rate_lock_then_ask": "Rep says 'so with that being said would you like our help for this Pee on the second' (unclear phrasing, appears to be 'for this move on the second'). No rate lock or no-deposit mention precedes the ask. Customer does not commit, instead asks if adding items changes price."
+  },
+  "top_strength": "Joanna gathered detailed logistics comprehensively\u2014floor levels, walking distances, room-by-room inventory, box count, and destination details\u2014establishing a solid foundation for accurate pricing.",
+  "coaching_note": "Step 6 critical miss: never asked 'What's still concerning you about this move?' before ending the call, and skipped the rate lock + no-deposit statement before asking for the business, weakening the close and leaving objection-handling unfinished."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "5921094165635072",
+  "rep_name": "Nicole Tolete",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 14.6,
+  "datetime_ct": "2026-10-16 15:05 CT",
+  "external_number": "+17347470960",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 10,
+  "total_score": 81,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep went directly to logistics probing: 'are we moving items from additional spaces like from a balcony study room or storage room?' without first asking the two-concerns opener.",
+    "two_layers_deep": "N/A \u2014 customer never raised a concern at step 2. When asked 'do you have any specific concern or stresser about the moving process in general?' customer answered 'Not really.'",
+    "value_days": "Rep identified Saturday as most expensive at $222/hr, Sunday at $202/hr, and Monday\u2013Thursday at $204/hr. Rep offered Sunday November 15th as the cheaper option and asked 'Well, Sunday November 15th work for you?' Customer agreed. Rep then showed updated estimate range: '$707 to $909' vs. the original '$777 to $999.'",
+    "rate_lock_then_ask": "Rep stated 'to secure a spot there's no deposit record if you have to reschedule or cancel no fees for that either' before asking 'And would you like me to get you on the schedule?' This is rate lock (the no-deposit language) before the ask."
+  },
+  "top_strength": "Nicole expertly gathered all logistics details with a clear, methodical walkthrough of room count, box count, special items, building access, and parking \u2014 she caught critical details like the freight elevator and loading dock at the destination that materially affect the estimate.",
+  "coaching_note": "Ask the two-concerns question ('most people have one of two concerns: either movers not showing up on time, or damage to their items') before diving into logistics probing \u2014 it anchors the rest of the call to what the customer actually cares about, and it's the opening move in step 2, not a throwaway after probing is already underway."
+}

@@ -1,0 +1,40 @@
+{
+  "call_id": "5670345506594816",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 14.3,
+  "datetime_ct": "2026-10-15 20:50 CT",
+  "external_number": "+15126273068",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep: 'may I know whom I'm speaking with?' Customer: 'Gal' ... Rep uses 'Gail' repeatedly throughout the call",
+    "quid_pro_quo": "No quid pro quo framing detected. Rep launches into logistics probing immediately after name collection.",
+    "two_concerns_question": "Never asked. Rep goes straight into date, location, and logistics questions.",
+    "two_layers_deep": "Not applicable \u2014 no concerns were raised by customer in step 2 context.",
+    "active_listening_reflection": "Not applicable \u2014 no concerns raised to reflect.",
+    "promises_delivered": "No promises (On-Time Guarantee or No Worries Damage Coverage) mentioned at any point in the call.",
+    "closes_the_loop": "No permission lead-in and no 'does that put those to rest' close.",
+    "concern_led_opening": "Rep asks 'what do you all charge per hour' and discusses packing/moving rates, but does not ask 'what items are you most concerned about' or similar concern-led framing. Logistics probing begins without concern anchoring.",
+    "packing_and_box_count": "Packing asked: 'So, yeah, packing services are charged at the same early rate...' Box count never asked.",
+    "value_days": "Rep identifies Monday October 26th as 'our best value day' and provides the $208 rate, but does not offer a cheaper alternative day or ask about date flexibility, which is appropriate since customer is already on a Best Value Day.",
+    "rate_lock_then_ask": "Never reached. Call routes to walkthrough scheduler before pricing discussion completes.",
+    "walkthrough_routing": "Rep states: 'for a large move there will be a virtual walkthrough, okay, so it's like a FaceTime for a conference call' and confirms callback from specialist. Customer says 'No, I won't be available today but I certainly would like to talk to them today if I could.' Rep confirms callback within the day from 512-746-8436."
+  },
+  "top_strength": "The rep successfully identified the move as requiring a virtual walkthrough due to size (3,000 sq ft), cleanly routed to specialist callback with proper next-step confirmation, and gathered core logistics details (date, origin/destination, square footage, stories, parking, bed assembly).",
+  "coaching_note": "Before routing to walkthrough, ask the two-concerns question and deliver both promises \u2014 they belong early in the conversation, not after probing, and walkthrough calls still grade step 3 on v4."
+}

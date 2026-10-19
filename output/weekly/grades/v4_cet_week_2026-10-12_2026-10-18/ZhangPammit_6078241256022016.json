@@ -1,0 +1,32 @@
+{
+  "call_id": "6078241256022016",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 10.5,
+  "datetime_ct": "2026-10-18 16:20 CT",
+  "external_number": "+12817961699",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 16,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 60,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to you a lot of people everyday and most of them have one or two concerns. Either the movers are not showing up on time or damage their items are any of those a concern for you.",
+    "two_layers_deep": "Rep asked about damage concern, customer explained (wrapping items, scratches), but rep did not probe deeper with 'tell me more' or sustained silence to draw out more detail.",
+    "value_days": "Rep said Wednesday is $95/hour and Friday is $102/hour ($7 higher), which is hourly framing, not total dollar savings. No flexibility question asked \u2014 rep just confirmed availability.",
+    "rate_lock_then_ask": "Rep never offered rate lock, never mentioned no deposit, and never asked 'Would you like our help with your move?' Customer objected to pricing and call ended with rep saying 'No problem. Thank you so much as well.'"
+  },
+  "top_strength": "Rep delivered both Two Promises (On-Time Guarantee and No Worries Damage Coverage) with full terms and confirmed understanding before moving to pricing.",
+  "coaching_note": "Call ended when customer objected to minimum cost; rep should have addressed the concern, reframed value, and asked for the business rather than accepting the no and hanging up \u2014 this was a recoverable objection, not a dead deal."
+}

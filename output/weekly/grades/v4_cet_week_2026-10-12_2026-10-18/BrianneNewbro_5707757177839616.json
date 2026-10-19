@@ -1,0 +1,31 @@
+{
+  "call_id": "5707757177839616",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 11.5,
+  "datetime_ct": "2026-10-12 14:55 CT",
+  "external_number": "+15129033299",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 20,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 12,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 10,
+  "total_score": 83,
+  "pass": true,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Jeffrey, most of our customers have one or two concerns about moves and that's usually one, the movers not being on time or two, damage to their items are any of those a concern for you on this move?",
+    "two_layers_deep": "Okay, absolutely. And then what kind of piano are we moving? [...] And we're just moving that from first flori to first floor. [Customer: It. So it's on the first floor currently, but we might want it on the second floor in the new house.] How many, how much does that way you would think?",
+    "value_days": "Rep did not address value days or offer any alternate date savings.",
+    "rate_lock_then_ask": "and there's no deposit required to get on our schedule so there is no risk and securing your spot and there's also no charges or fee to change the date or cancel. Would you like us to help you with that move on Saturday or sorry, Friday."
+  },
+  "top_strength": "Brianne asked the two-concerns question cleanly before probing, then dug two layers deep on the piano concern by asking what kind of piano it was and following up on weight and placement, gathering genuine details rather than moving on.",
+  "coaching_note": "Skip the active listening reflection at step 2 (summarizing what you heard back to confirm) and the prep framing at step 5 (the Save Your Ass line about preparation being the biggest factor), both of which were missing on this call."
+}

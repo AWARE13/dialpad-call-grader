@@ -1,0 +1,34 @@
+{
+  "call_id": "6641228484222976",
+  "rep_name": "Joanna Ballon",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 13.2,
+  "datetime_ct": "2026-10-15 15:21 CT",
+  "external_number": "+12817986955",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 74,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "of course, we talked to a lot of customers everyday. Some of their concerns are like, movers not arriving on time or damages to any items or this any of your concerns or do you have any other concerns as well?",
+    "two_layers_deep": "Customer said 'I don't know we have too much concern with that' \u2014 rep acknowledged but did not probe deeper with 'tell me more about that' or similar follow-up.",
+    "value_days": "Fridays and Saturdays are $100 or $222 per hour for two men while the, Sunday to Thursday is a $208 per hour for two mens so that's $14 per hour difference ... If we, it ended up not doing it on the thirtieth then we moved it to the second then the price would be a little bit lower for the second.",
+    "rate_lock_then_ask": "We don't take us no rest and securing a spot as well ... once you're ready to go ahead with the booking. [No explicit rate lock stated; no deposit mentioned; ask is indirect ('give us a call once you're ready') rather than a plain 'Would you like our help with your move?']"
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details systematically\u2014addresses, floor levels, elevator access, walking distances, furniture specifics, and box count\u2014before moving to pricing, and delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with clear terms early in the call.",
+  "coaching_note": "Step 7 needs a direct, unsoftened ask ('Would you like our help with your move?') preceded by explicit rate-lock and no-deposit language; also missing Step 6 entirely\u2014return to genuine final concerns check ('What's still concerning you about this move?') before closing."
+}

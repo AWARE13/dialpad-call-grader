@@ -1,0 +1,34 @@
+{
+  "call_id": "5984038777823232",
+  "rep_name": "Joanna Ballon",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 9.6,
+  "datetime_ct": "2026-10-15 21:25 CT",
+  "external_number": "+17373464455",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 68,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Lorena, we speak with a lot of customers everyday and some of their concerns are either, movers not arriving on time or damages to their items or any of this or concerns as well.",
+    "two_layers_deep": "Customer raised no concerns \u2014 N/A.",
+    "value_days": "If your dates are flexible, we can actually save it to $12 per hour. If you wanted, I mean, $20 per hour if you want to do it on a Sunday. But if Saturday is like the best day then definitely we still have availability for that day as well in the afternoon.",
+    "rate_lock_then_ask": "Thank you so much. Lorena just let us know if you're ready to go ahead with the booking. Have a good day."
+  },
+  "top_strength": "Joanna used the customer's name throughout the call, asked the two-concerns question before probing, covered both packing and box count, and offered a clear value-day savings comparison with a dollar amount.",
+  "coaching_note": "Step 7 ask was weak and lacked the rate-lock and no-deposit framing before asking for the business; also no final concerns check was performed at step 6, and the Two Promises were delivered without the permission lead-in and without closing the loop on both."
+}

@@ -1,0 +1,31 @@
+{
+  "call_id": "5830349813489664",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 9.9,
+  "datetime_ct": "2026-10-12 20:51 CT",
+  "external_number": "+19723455548",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 31,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Jules moved directly into logistics probing without the standard two-concerns opener.",
+    "two_layers_deep": "No concerns were raised by the customer, so no follow-up was possible or required.",
+    "value_days": "Not addressed. Jules quoted a specific time window (8:30-9am morning, 12pm-2pm afternoon) but never explored whether the customer was on a Best Value Day or offered dollar savings for alternative dates.",
+    "rate_lock_then_ask": "Jules said 'Do you want me to get this moved scheduled for you?' but made no mention of rate lock or no-deposit guarantee before the ask."
+  },
+  "top_strength": "Jules delivered a clear, all-inclusive pricing framing ($222/hour for two movers and one truck, no hidden fees, tools and blankets included) and confirmed the quote via email without requiring the customer to take notes.",
+  "coaching_note": "Jules never asked the two-concerns question (on-time guarantee and damage protection) or delivered the two promises\u2014these are the backbone of step 3 and should come before diving into logistics; also, Value Days (identifying cheaper move dates and offering dollar savings) was completely skipped, and the final concerns check in step 6 was never asked."
+}

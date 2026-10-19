@@ -1,0 +1,31 @@
+{
+  "call_id": "5322392600354816",
+  "rep_name": "Brianne Newbro",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 7.4,
+  "datetime_ct": "2026-10-13 14:56 CT",
+  "external_number": "+15126266124",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 10,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "for our customers have two concerns when they're moving one, the movers not being on time or two, damage to their items when being moved or any of those a concern for you.",
+    "two_layers_deep": "Rep asks about TV size and wrapping, but when customer mentions 'simple big furniture' and only delicate item is TV, rep pivots to logistics instead of deeper probing on the furniture concern. No 'tell me more about that' or silence held.",
+    "value_days": "we do have our value days which are usually Monday through Thursday. So those tenant be a bit cheaper than our Saturday, Friday, Saturday rate. No dollar amount given for the savings, no flexibility question asked about changing dates.",
+    "rate_lock_then_ask": "there is no deposit required to get on our schedule and there's no fee our charges to change the date or cancel the move. For this type of move... Would you like us to help you with that move on Saturday?"
+  },
+  "top_strength": "Brianne gathered detailed logistics efficiently (addresses, floor levels, furniture inventory, box count, parking distances) and obtained a firm booking with specific arrival time window and confirmation email protocol.",
+  "coaching_note": "Step 2 needs genuine two-layer follow-up \u2014 when the customer named furniture concerns, dig deeper with 'tell me more about that' and silence rather than pivoting to logistics; and Step 5 is missing the Save Your Ass prep framing and temperature check ('How do you feel about that?') entirely, which leaves the estimate sitting without confirming the customer's comfort."
+}

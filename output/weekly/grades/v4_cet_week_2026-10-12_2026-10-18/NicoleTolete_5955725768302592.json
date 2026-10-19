@@ -1,0 +1,38 @@
+{
+  "call_id": "5955725768302592",
+  "rep_name": "Nicole Tolete",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 6.3,
+  "datetime_ct": "2026-10-14 14:27 CT",
+  "external_number": "+12145878136",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 66,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Nicole Cruz: 'Am I speaking with karat manor?' Kerith Menter: 'Yes, you are.' Later: 'Alright, and once again this is Nicole, I'll talk to you again on Friday at 1:00 PM'",
+    "quid_pro_quo": "No quid pro quo framing with time-box and promise of dependable quote. Rep proceeded directly to walkthrough routing without the step 1 framing.",
+    "two_concerns_question": "Never asked. Rep moved directly into walkthrough scheduling without probing concerns.",
+    "promises_delivered": "On-Time Guarantee mentioned: 'if we cannot make it in the time window that we arrange, we immediately start discounting money of your final bill'. No Worries Damage Coverage mentioned: 'up to $2,000 per move to repair, replace or reimburse for any accidental damages'. However, no permission lead-in asking 'can I share how we work' \u2014 promises were delivered within pricing explanation but not framed as the answer to customer concerns.",
+    "closes_the_loop": "No version of 'Does that put those to rest?' or 'How do you feel about that?' asked after the promises.",
+    "concern_led_opening_and_logistics": "No concern-led opening. Only logistics captured were: move date (Thursday October 29th), home size (2100 sq ft), one story, packing service requested. No special items, walking distances, room counts, or additional considerations probed beyond the customer's mention of paintings at step 6.",
+    "packing_and_box_count": "Neither asked. Packing service was already on the intake form; rep did not ask if customer wanted packing or probe box count.",
+    "value_days": "Not applicable \u2014 walkthrough_scheduler call type, steps 5\u20137 auto-credited.",
+    "rate_lock_then_ask": "Not applicable \u2014 walkthrough_scheduler call type, steps 5\u20137 auto-credited.",
+    "walkthrough_routing": "Clean routing to virtual walkthrough. Rep identified 1800+ sq ft threshold (2100 sq ft), correctly diagnosed the need for walkthrough, confirmed availability (Friday Oct 16 at 1 PM), sent secure link via text, and prepared customer for next steps. Walkthrough was confirmed and next steps were clear."
+  },
+  "top_strength": "Nicole correctly identified the 1800+ sq ft threshold and cleanly routed the customer to a virtual walkthrough without abandoning the pitch, confirming both the date/time and the secure link delivery to move forward.",
+  "coaching_note": "Step 2 and 3 were skipped entirely: never ask the two-concerns question or deliver the Two Promises with a permission lead-in and close, even on walkthrough calls\u2014these belong in steps 2 and 3 before any pricing discussion and help the customer trust the process before scheduling the next step."
+}

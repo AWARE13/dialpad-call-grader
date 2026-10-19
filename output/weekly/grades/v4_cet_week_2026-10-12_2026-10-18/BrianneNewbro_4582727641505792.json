@@ -1,0 +1,31 @@
+{
+  "call_id": "4582727641505792",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 14.4,
+  "datetime_ct": "2026-10-15 14:19 CT",
+  "external_number": "+13315758732",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "most of our customers Monica, have two concerns when moving the first, the movers being on time and second damage to their items when being moved are any of those are for you today?",
+    "two_layers_deep": "Monica answered 'Yeah, I guess, okay' and the rep moved immediately into Two Promises without any follow-up like 'tell me more about that' or probing deeper into either concern.",
+    "value_days": "if we are flexible we do have value rates during the week. So, we have a little bit cheaper rates Monday through Thursday... The Saturday, we have 2:30 and then Monday through Thursday looks like that goes down to 2:08... Let's look. 2:20 and I do have a Friday. That Friday available. \u2014 Rep identified the three branches (Sat/Fri at $230-$220, Mon-Thu at $208), offered the savings as dollar amounts ($22-$50 savings), and asked about flexibility.",
+    "rate_lock_then_ask": "there's no deposit required to get on our schedule and there's no charges or fees to cancel or change dates on that reservation... And then would you like to get on the scheduled today or I can send all this over via email? \u2014 Rate lock mentioned first but the ask is immediately softened with 'or I can send all this over via email,' giving the customer a built-in out."
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details systematically and accurately, covering special items, multiple locations, property types, parking access, and storage constraints with natural follow-ups that showed strong listening.",
+  "coaching_note": "Step 2 concerns need genuine two-layer follow-up \u2014 when Monica said 'Yeah, I guess, okay' to your concerns question, that required 'tell me more about that' and silence to understand which concern mattered most, not an immediate pivot to promises."
+}

@@ -1,0 +1,32 @@
+{
+  "call_id": "5680581074264064",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 11.4,
+  "datetime_ct": "2026-10-12 14:48 CT",
+  "external_number": "+19858593187",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 31,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Jevic moved directly into logistics probing (storage unit size, fullness, floor level, walking distance) without the two-concerns opener.",
+    "two_layers_deep": "No concerns were raised by the customer, so no follow-up was needed or attempted.",
+    "value_days": "Jevic asked: 'Good question actually the move is Thursday October 22nd right and that's considered a best value day already.' When the customer corrected to Wednesday the 21st, he said 'same rate from Monday to Thursday $104 per hour per mover.' He confirmed the cheaper day (Wednesday already selected) but did not offer a dollar-amount saving or ask about date flexibility since it was already selected.",
+    "rate_lock_then_ask": "Never asked for the business. The call ended with Jevic saying 'and I'll go ahead and send it to you after this call but do you have any other questions or anything for me' and the customer replied 'That's it.' No rate lock, no deposit mention, no explicit ask like 'Would you like our help with your move?'"
+  },
+  "top_strength": "Jevic gathered comprehensive logistics details (storage unit size, fullness, floor, walking distance, destination property specs, special items) and provided a clear, personalized estimate range anchored to the customer's specific move profile.",
+  "coaching_note": "Never ask for the business. Jevic collected all the details, priced the move, and ended with 'do you have any other questions?' \u2014 a throwaway close that handed the customer permission to leave without booking. He also skipped the two-concerns opener entirely and omitted both the On-Time Guarantee and No Worries Damage Coverage promises that build trust early."
+}

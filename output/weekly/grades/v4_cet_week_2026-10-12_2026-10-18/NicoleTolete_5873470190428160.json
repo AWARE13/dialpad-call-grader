@@ -1,0 +1,31 @@
+{
+  "call_id": "5873470190428160",
+  "rep_name": "Nicole Tolete",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 11.3,
+  "datetime_ct": "2026-10-13 14:20 CT",
+  "external_number": "+17377032384",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 0,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 39,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Customer volunteered a concern (not wanting to move themselves after moving five months ago) but rep never asked the structured two-concerns question.",
+    "two_layers_deep": "No follow-up depth. When customer said 'No, we just don't wanna move again, we don't wanna move it ourselves,' Nicole pivoted immediately to pricing without probing further.",
+    "value_days": "No value days mentioned. Saturday was confirmed as available but no discussion of pricing differences by day or date flexibility.",
+    "rate_lock_then_ask": "Rate lock and no deposit mentioned ('to secure a spot, there's no deposit required') but the ask itself was weak and indirect: 'And would you like me to get you on the schedule?' with no affirmative response captured before customer objected on price."
+  },
+  "top_strength": "Nicole established strong rapport, collected detailed logistics systematically (property type, square footage, room count, appliances, TVs, parking access, box count), and delivered a clear all-inclusive pricing framing with confidence and no hidden fees disclosure.",
+  "coaching_note": "Never asked the two-concerns question at the start of step 2, missing the opportunity to surface and validate what actually mattered to this customer before pivoting to pricing; when price objection came, there was no step 6 final concerns check or salvage attempt, so the call ended without addressing whether the estimate itself was the barrier or whether the customer needed help seeing value."
+}

@@ -1,0 +1,32 @@
+{
+  "call_id": "4656654489264128",
+  "rep_name": "Amy Arbasa",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 13.2,
+  "datetime_ct": "2026-10-15 17:47 CT",
+  "external_number": "+12482168763",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 16,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 5,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "So before I ask you about the inventory, I would like to know first cause we talked to a lot of people everyday Nadi and most of them would share that they have one or two concerns either they're worried that the movers won't show up on time or cost damage to their items are either of this a concern for you?",
+    "two_layers_deep": "For, yeah, damage to my item. / Of course. Well, that's also a concern when, whenever, you know, whenever I'm moving. [No real follow-up with 'tell me more' or probing silence]",
+    "value_days": "Now for Saturday, October 24th is a Saturday. The hourly rate is higher compared to weekdays or Sunday to Thursday is our cheapest just to give you an idea. But if you want to move on a Saturday that would be $222 per hour with two movers compared to a Sunday it's only $202. Would that make a difference to you? Are you flexible? / So you get to save $20, if you want to do a Sunday $20 per hour.",
+    "rate_lock_then_ask": "For sure I'll send it to your email Nadia McDonald 0618 @gmail.com by the way Naja we don't require any deposits. Yes ma'am go ahead. [No explicit ask for the business; call ends without a booking attempt]"
+  },
+  "top_strength": "Amy gathered all logistics details thoroughly and delivered both On-Time Guarantee and No Worries Damage Coverage promises in full, with accurate terms ($2,000 coverage, $50 first hour + $25 per half hour, no deductible).",
+  "coaching_note": "Never end a sales call without explicitly asking for the business \u2014 'Would you like our help with your move?' \u2014 before offering to email; Amy mentioned no deposits but never closed the loop with a direct ask, leaving money on the table."
+}

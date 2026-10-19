@@ -1,0 +1,31 @@
+{
+  "call_id": "6350087708778496",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 12.9,
+  "datetime_ct": "2026-10-14 22:23 CT",
+  "external_number": "+18327129132",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 16,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people everyday and most of them have one or two concerns either the movers are not showing up on time or damage to their items are either of those a concern for you",
+    "two_layers_deep": "Rep asked 'so from what I'm hearing is that is more your concern about damaging the furniture did I get' but no second layer follow-up like 'tell me more about that' \u2014 moved directly to the promises instead of probing deeper on the damage concern",
+    "value_days": "No mention of whether Friday the 16th is a Best Value Day, cheaper alternative days, or any date flexibility discussion",
+    "rate_lock_then_ask": "Rep never asked for the business. Offered to send email quote and said customer could call back, but no explicit ask like 'Would you like our help with your move?' and no rate lock or no-deposit mention"
+  },
+  "top_strength": "Zhang delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full clarity on terms ($50 off first hour, $25 per half hour late; $2,000 coverage, no deductible, no fine print, included in rate), and confirmed closure with 'does that put those to rest?'",
+  "coaching_note": "Never asked for the business or mentioned rate lock/no deposit \u2014 the call ended with the customer saying they'd call back tomorrow, but Zhang had no close attempt; also missing the second layer of probing on the damage concern and no final concerns check before the customer left."
+}

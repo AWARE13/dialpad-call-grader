@@ -1,0 +1,34 @@
+{
+  "call_id": "6168799615950848",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 16.8,
+  "datetime_ct": "2026-10-14 15:01 CT",
+  "external_number": "+19293745475",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Carol most of our customers have two concerns when moving. The first one, the movers being on time and the second one is damaged to their items when being moved, are any of these a concern for you with moving out of that pod?",
+    "two_layers_deep": "Customer responded 'No, not a lot' \u2014 rep did not probe deeper; marked n/a because no concern was raised",
+    "value_days": "Rep mentioned hourly rate for Saturday ($220) and Monday ($208), identified the $40 saving, but gave it as a dollar figure and asked flexibility: 'You're looking at saving like $40 if you...' However, the value days framing (which day is cheaper, systematic branch identification) was incomplete \u2014 rep jumped to pricing without explicitly naming the three-day branches.",
+    "rate_lock_then_ask": "Rep said 'And then there's no deposit required to get on our schedule so no risk and securing your spot' but never delivered an explicit rate lock statement or a plain ask for the business. At the end, rep said 'If you do decide to get on our schedule you can go ahead and give me a call back' \u2014 this is a built-in out, not a direct ask. Customer never booked on the call."
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details with a smooth, natural flow, covering all major items (special items, addresses, floor count, walking distances, beds, dressers, boxes, elevator type, reservation capability) without the customer feeling rushed.",
+  "coaching_note": "Deliver both promises (On-Time Guarantee and No Worries Damage Coverage) with the permission lead-in before moving into probing, and end with a genuine final concerns check and a direct ask for the business without a built-in out."
+}

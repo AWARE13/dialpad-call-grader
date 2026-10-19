@@ -1,0 +1,32 @@
+{
+  "call_id": "5979421637648384",
+  "rep_name": "Joanna Ballon",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 13.5,
+  "datetime_ct": "2026-10-15 19:32 CT",
+  "external_number": "+12104168690",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 2,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "So, of course, we talked to a lot of customers everyday. Some of their concerns are damages to their items or movers not coming on time or this, any of your concerns as well?",
+    "two_layers_deep": "Customer raised on-time concern; Joanna responded 'I understand. Okay, no worries. Of course if we set up a date for you, we can definitely, we rest assured that you will, will be there' \u2014 acknowledged but no follow-up probe or 'tell me more' to deepen.",
+    "value_days": "So there's a price difference if we're doing it from Sunday to Thursday, usually it is a difference of about $14 per hour, $12 to $14 per hour around that. Okay, but yeah, I'll put you on a Saturday so if you adjust it will just go lower as well. \u2014 saving stated as hourly rate, not total dollar figure; no flexibility ask.",
+    "rate_lock_then_ask": "Call ended with 'Yes sir, I can email it. Yes sir, I do. Yes sir, thank you so much Bryan no problem. I'll send you an email after our call okay with this information.' \u2014 no rate lock, no explicit ask for the business, customer did not book."
+  },
+  "top_strength": "Joanna gathered comprehensive logistics details across special items, addresses, property type, floors, parking, walking distances, and the storage stop, establishing a clear picture for the estimate.",
+  "coaching_note": "Step 2: when the customer named his on-time concern, probe deeper with 'Tell me more about that' instead of jumping to reassurance; Step 5: state Value Days savings as a total dollar amount (e.g., '$168 cheaper') not an hourly difference, and ask if he'd consider shifting dates; Step 7: deliver rate lock and no-deposit commitment, then ask directly 'Would you like our help with your move?' before routing to email."
+}

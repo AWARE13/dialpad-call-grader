@@ -1,0 +1,31 @@
+{
+  "call_id": "5968265795641344",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 18.9,
+  "datetime_ct": "2026-10-15 17:33 CT",
+  "external_number": "+12146736997",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "I talked to a lot of people delivery and then I do hear you know a couple of kind of concerns movers not arriving on time damaged items any of those experience she might be concerned about or any others.",
+    "two_layers_deep": "Customer said 'broken things come with the territory' and asked about financial compensation. Rep answered immediately with damage coverage details instead of asking 'tell me more about that' and going deeper.",
+    "value_days": "So we have $45 so. New cost range would be about $500 to 600 on this day. So what, this is gonna be one of our value days which is great and then we do have so our earliest arrival window that we have right now is gonna be 12:00 to 1230.",
+    "rate_lock_then_ask": "Rep says 'It is free to reserve the truck. We don't require any upfront calls, there's no deposit' but then customer immediately asks 'Could I go ahead and put a reservation on the 1st of November please?' \u2014 the ask for business came from the customer, not the rep asking for it plainly."
+  },
+  "top_strength": "Chauntelle gathered comprehensive logistics details with a clear concern-led opening, covered both packing and box count, anchored the estimate with a personalized range, and identified and applied the value day savings correctly as a total dollar figure ($45 reduction).",
+  "coaching_note": "Go two layers deep on concerns: when Michael mentioned damage, ask 'tell me more about that' and hold silence instead of immediately providing the damage coverage answer, so you understand his real worry before you solve it."
+}

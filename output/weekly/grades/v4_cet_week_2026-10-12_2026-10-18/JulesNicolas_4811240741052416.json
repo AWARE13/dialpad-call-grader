@@ -1,0 +1,33 @@
+{
+  "call_id": "4811240741052416",
+  "rep_name": "Jules Nicolas",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 9.1,
+  "datetime_ct": "2026-10-13 22:03 CT",
+  "external_number": "+12147707537",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 39,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep never asked about the customer's biggest concerns beyond logistics.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised during step 2 because the question was never asked.",
+    "value_days": "Rep said: 'So the hour rate is also cheaper for a Friday, Saturday move. The hour rate is a little bit expensive but now by a lot. So basically, the hour the rate for Saturday is $109 per hour per mover compared to $101 for a weekday.' This is hourly framing, not a total dollar savings offer, and no flexibility question was asked about alternate dates.",
+    "rate_lock_then_ask": "Rep never mentioned rate lock or no deposit. Rep moved directly to scheduling with: 'Alright, well, I can get this scheduled for you right now for Saturday October 24th starting around 8:30 to nine in the morning.' No explicit ask for the business."
+  },
+  "top_strength": "Jules handled a prior customer relationship well, verified details against the existing account, and provided a clean estimate range ($1,962\u2013$3,289) with appropriate crew sizing and moving blanket credit applied.",
+  "coaching_note": "Jules must ask the two-concerns question early in step 2 to uncover what matters to the customer, deliver both promises (On-Time Guarantee and No Worries Damage Coverage) in step 3, and ask for the business explicitly in step 7 with rate lock and no deposit framing before scheduling."
+}

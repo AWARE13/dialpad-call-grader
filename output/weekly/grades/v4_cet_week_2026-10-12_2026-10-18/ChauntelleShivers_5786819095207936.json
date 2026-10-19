@@ -1,0 +1,34 @@
+{
+  "call_id": "5786819095207936",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 17.4,
+  "datetime_ct": "2026-10-12 16:22 CT",
+  "external_number": "+19194540225",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 20,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 73,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "value_days",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "I talked to a lot of people everyday about some you know, different things movers that arriving on time items getting damaged. [Customer says no]",
+    "two_layers_deep": "Customer raised no concerns, so N/A.",
+    "value_days": "Saturday November 7th is not identified as Best Value Day, but rep never offered a cheaper alternative day or asked about flexibility.",
+    "rate_lock_then_ask": "We don't have any deposit that are due. The track is free to reserve, it's also free to cancel, it's also free to move the date around so you don't pay for anything with us until after the move is completed... would you like to come and reserve that truck?"
+  },
+  "top_strength": "Chauntelle gathered comprehensive logistics details with clear probing structure, confirmed all major items, addressed disassembly/reassembly and TV mounting specifics, and delivered both On-Time Guarantee and No Worries Damage Coverage promises with full dollar amounts and terms.",
+  "coaching_note": "Add the quid pro quo framing (time-boxed agenda + dependable quote promise with a pause for yes) at the opening, confirm the estimate with 'How do you feel about that?' and hold the silence, and ask a genuine final concerns check ('What's still concerning you?') before closing."
+}

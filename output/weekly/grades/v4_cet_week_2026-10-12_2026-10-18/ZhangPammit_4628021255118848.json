@@ -1,0 +1,31 @@
+{
+  "call_id": "4628021255118848",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 13.0,
+  "datetime_ct": "2026-10-17 19:51 CT",
+  "external_number": "+15126507272",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 8,
+  "step2_their_concerns": 10,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talked to a lot of people everyday and most of them have one or two concerns either the movers are not showing up on time, and damage to their items are either of those concern for you.",
+    "two_layers_deep": "Customer said 'Yes' to both concerns but rep acknowledged without follow-up probing; moved directly to Two Promises frame with 'So, from what I'm hearing is that both is actually your concerns as well.'",
+    "value_days": "Never addressed; no mention of alternative dates or day-of-week pricing.",
+    "rate_lock_then_ask": "Rep mentioned 'no deposit required, no risk and securing your spot' but never asked 'Would you like our help with your move?' \u2014 instead ended with availability window question and let customer drive the close."
+  },
+  "top_strength": "Rep delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full terms and clarity, and gathered comprehensive logistics details with a concern-led opening.",
+  "coaching_note": "After the customer confirms concerns exist, probe at least one layer deeper to understand what specifically worries them, rather than pivoting immediately to the promises frame \u2014 this makes the promises land harder and the estimate more credible."
+}

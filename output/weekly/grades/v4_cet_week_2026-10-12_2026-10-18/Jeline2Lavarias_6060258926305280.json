@@ -1,0 +1,34 @@
+{
+  "call_id": "6060258926305280",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 17.0,
+  "datetime_ct": "2026-10-12 17:05 CT",
+  "external_number": "+13168419113",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 5,
+  "total_score": 70,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Before I proceed, I just like to let you know that we talked to a lot of people everyday. And most of them have one or two concerns either the movers not showing up on time or they might die, they might damage their items, are any of those a concern for you.",
+    "two_layers_deep": "Customer said 'Yeah' to the concerns question but rep never followed up with 'tell me more about that' \u2014 instead moved directly to delivering the promises.",
+    "value_days": "No mention of value days, cheaper days, or date flexibility. Customer booked November 20th (Friday) with no discussion of whether another day might be cheaper.",
+    "rate_lock_then_ask": "Rep said 'we do not require any deposit so no risk and securing your spot' and 'would you like to be on the schedule for November 20th?' but the customer deflected ('let me wait and I'll give you a callback') and rep did not re-ask or clarify the rate lock explicitly before the ask."
+  },
+  "top_strength": "Jeline delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with clear terms early in the call, and gathered comprehensive logistics details including walking distances, floor levels, furniture inventory, and box count.",
+  "coaching_note": "After the customer raised concerns in step 2, dig at least two layers deep ('tell me more about that') before moving to the promises \u2014 the customer said 'Yeah' to concerns but you never learned what specifically worried them; also omit value days entirely (no mention of whether Friday is cheaper than another available day) and strengthen the close by explicitly stating the rate lock before asking for the booking."
+}

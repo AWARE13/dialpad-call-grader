@@ -1,0 +1,32 @@
+{
+  "call_id": "6008426562625536",
+  "rep_name": "Joanna Ballon",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 6.2,
+  "datetime_ct": "2026-10-18 19:12 CT",
+  "external_number": "+15402394627",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 54,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "since we talked to a lot of different customers everyday some of their concerns are movers not arriving on time or damages to their items. Are any of these or concerns as well?",
+    "two_layers_deep": "Customer deflected the concern question ('I assume it shouldn't be a concern of mine. It would be a concern of you all') and Joanna did not probe deeper or follow up with 'tell me more about that'\u2014she moved directly to the promises instead.",
+    "value_days": "if we're going to do it on Tuesday, it's actually our lowest hourly rate for the week which is $104 per hour, per mover. And we recommend two guys for your move. So that's $208 per hour. [Identifies lowest rate day, states saving relative to other days; no explicit dollar-amount savings offered or date flexibility asked because the customer is already on the best value day.]",
+    "rate_lock_then_ask": "Never asked. Call ends with 'I'll still send you the quotation just in case if anything changes, just let us know, okay?' \u2014 no rate lock, no explicit ask for the business, no booking attempt."
+  },
+  "top_strength": "Joanna collected comprehensive logistics details (addresses, floor numbers, parking, item list, packing needs) in a systematic, conversational way that set up an accurate estimate.",
+  "coaching_note": "Step 6 and 7 were skipped entirely\u2014there was no final concerns check after pricing, no rate lock statement, and no explicit ask for the business. When a customer says they'll shop around, the next move is to reinforce the rate lock and close with a clear ask, not to end the call."
+}

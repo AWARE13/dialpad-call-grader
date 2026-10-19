@@ -1,0 +1,34 @@
+{
+  "call_id": "5848024904146944",
+  "rep_name": "Danah 2Celestial",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 9.0,
+  "datetime_ct": "2026-10-12 18:55 CT",
+  "external_number": "+12064730782",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 51,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep: 'Can I have your name?' / Customer: 'Eduardo' / Rep later: 'Alright, so Edward, do you want to go ahead and pencil Thursday'",
+    "two_concerns_question": "Not asked. Rep moved directly from email collection into date/crew preferences without asking the two-concerns opener.",
+    "promises_delivered": "None. Rep never mentioned On-Time Guarantee or No Worries Damage Coverage at any point in the call.",
+    "value_days": "Rep offered Thursday at $208 vs Saturday at $222, explicitly stating 'Friday and Saturday is one of our peak days.' Customer chose Thursday based on availability and time windows. Full value-day comparison with pricing alternatives given.",
+    "rate_lock_then_ask": "Rep said 'Alright, so you're all set there for Thursday. I'll send the confirmation email then. Any questions, any changes Eduardo just give us a call anytime, okay.' This is a rate lock (confirmation sent, price set at $208) followed by an implicit ask that was already accepted when customer chose the date and time window."
+  },
+  "top_strength": "Danah expertly handled a repeat customer scenario by efficiently pulling prior move data, confirming details, and securing the booking with a clear Thursday afternoon time slot while managing the customer's crew preference gracefully.",
+  "coaching_note": "This call skipped the entire step 2 (two-concerns question and discovery depth) and step 3 (both promises) \u2014 the two bookends that own customer confidence \u2014 jumping straight into logistics; the rep also never asked about packing or box count, and gave no prep framing before the estimate, which leaves the customer walking away without knowing what drives move time or what Einstein's damage/reliability commitments actually are."
+}

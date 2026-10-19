@@ -1,0 +1,34 @@
+{
+  "call_id": "4704129138860032",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 19.9,
+  "datetime_ct": "2026-10-13 15:51 CT",
+  "external_number": "+18176293670",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 18,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 89,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "value_days",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "So we talk a lot of people everyday and most of them have one or two concerns. Either the mover is not showing up on time or damage to their items are either of those or concern for you.",
+    "two_layers_deep": "Customer raised no concerns: 'No for like they shouldn't be concerned for us.' \u2014 N/A.",
+    "value_days": "N/A \u2014 customer is already on Friday (the requested day); no cheaper alternative day to offer.",
+    "rate_lock_then_ask": "And we'll send you a, there's no deposit record, no resur, securing your spot, in case if you wanted to reschedule or to cancel, then, all you have to do is just simply give us a call at anytime. Would you like, would you like me to lock that in for you?"
+  },
+  "top_strength": "Zhang handled a complex, constraint-heavy move (elevator reservation 3\u20137 PM, two-part delivery) by gathering all logistics details upfront, then re-working the timeline in real time to fit the customer's needs, and landed the booking with a clear rate lock and no-deposit framing.",
+  "coaching_note": "Step 6 was completely skipped \u2014 after confirming the booking, the rep never asked a genuine final-concerns check ('What's still concerning you about this move?') before hanging up, missing the second critical bookend moment where customers actually remember the conversation."
+}

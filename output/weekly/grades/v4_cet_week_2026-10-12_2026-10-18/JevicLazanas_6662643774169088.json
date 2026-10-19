@@ -1,0 +1,32 @@
+{
+  "call_id": "6662643774169088",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 10.2,
+  "datetime_ct": "2026-10-16 21:40 CT",
+  "external_number": "+18176481769",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Well basically based on experience and you know, we talked to a lot of people everyday. So you know, I'm just asking if you have one of the two concerns either the movers not showing up on time or damage their items, or either of those a concern for you.",
+    "two_layers_deep": "Have you experienced that in the past from your? [Customer answers 'No, I've been lucky so far.' \u2014 Rep acknowledges: 'Alright, well that's great to hear at least.' No second layer of probing; pivots immediately to promises instead of 'Tell me more about what damage concerns you specifically.']",
+    "value_days": "Not mentioned. Customer selected Friday October 30th; rep never asked about date flexibility or presented a cheaper alternative.",
+    "rate_lock_then_ask": "Rep says 'So, yup, yup then would you like to go ahead and get on the schedule today for Friday October 30th?' \u2014 This is the ask, but no rate lock or 'no deposit' language precedes it. Customer declines with 'Not right now, I was just looking for the quote right now.'"
+  },
+  "top_strength": "Jevic delivered both the On-Time Guarantee and No Worries Damage Coverage promises clearly and in full detail before attempting to close, building confidence early.",
+  "coaching_note": "When the customer names a concern (damage), dig deeper with follow-up questions instead of moving straight to the promises \u2014 understand what specifically worries them before presenting solutions, then check for final concerns before asking for the business."
+}

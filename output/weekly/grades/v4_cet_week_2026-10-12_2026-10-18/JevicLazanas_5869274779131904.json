@@ -1,0 +1,34 @@
+{
+  "call_id": "5869274779131904",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 7.4,
+  "datetime_ct": "2026-10-13 15:39 CT",
+  "external_number": "+12143361781",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 0,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 42,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics probing after initial greeting.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer in step 2.",
+    "value_days": "Never addressed. Rep stated 'there will be like a trip fee' but never discussed pricing structure, value days, or date flexibility.",
+    "rate_lock_then_ask": "Never asked. Rep said 'I have to go ahead and check this first with our support and then you know call you back to discuss and also send you an email' but never asked for the business or offered rate lock. Customer was asked to wait for a callback instead of being asked to book."
+  },
+  "top_strength": "Jevic gathered comprehensive logistics details methodically \u2014 special items (gun safe, two pianos), storage unit specifics, furniture inventory, box count range, driving distance, and property layout \u2014 demonstrating strong probing execution.",
+  "coaching_note": "This call abandoned the Einstein card entirely after step 1: no two-concerns question, no promises, no pricing framing, no temperature check, and critically, no ask for the business \u2014 the customer was left waiting for a callback rather than being offered a rate lock and asked to book now."
+}

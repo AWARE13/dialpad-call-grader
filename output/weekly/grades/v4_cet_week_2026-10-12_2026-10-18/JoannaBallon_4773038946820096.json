@@ -1,0 +1,33 @@
+{
+  "call_id": "4773038946820096",
+  "rep_name": "Joanna Ballon",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 7.1,
+  "datetime_ct": "2026-10-18 17:56 CT",
+  "external_number": "+14699648936",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved straight to logistics probing without the standard two-concerns opener.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during step 2.",
+    "value_days": "Never addressed. Rep did not identify the day of week (Tuesday) as a Value Day branch or offer any pricing alternative based on date flexibility.",
+    "rate_lock_then_ask": "Rep never explicitly asked 'Would you like our help with your move?' or any direct close. Booking was confirmed through logistics details (arrival window, apartment numbers) but there was no explicit sales ask or rate lock statement before that confirmation."
+  },
+  "top_strength": "Joanna gathered logistics comprehensively and systematically \u2014 addresses, square footage, floor placement, walking distances, furniture inventory, box count, special considerations, and parking distances \u2014 without missing major detail categories.",
+  "coaching_note": "Skip the logistics checklist and start with the two-concerns question before any probing; you also need to deliver the rate lock and ask explicitly for the business ('Would you like our help with your move?') rather than assuming a yes after quoting the estimate."
+}

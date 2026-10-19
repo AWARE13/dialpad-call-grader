@@ -1,0 +1,32 @@
+{
+  "call_id": "4646098701164544",
+  "rep_name": "Joanna Ballon",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 7.6,
+  "datetime_ct": "2026-10-15 18:35 CT",
+  "external_number": "+13147952661",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 57,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "some of their concerns are either movers not arriving on time or damages to their items or any of this or concerns.",
+    "two_layers_deep": "Customer said 'No' to concerns; Joanna acknowledged and moved to probing. No follow-up depth attempted.",
+    "value_days": "we can actually save at least, you know, $80 to $100 if we're going to do it on a Sunday. So it's $20 per hour cheaper if we're going to do it on a Sunday. [Savings stated as hourly rate, not total dollar amount; flexibility was asked.]",
+    "rate_lock_then_ask": "would you like our help for this move on Saturday? [Asked before establishing rate lock or no-deposit commitment; customer immediately pivoted to email quote.]"
+  },
+  "top_strength": "Joanna gathered detailed logistics thoroughly\u2014floor level, walking distances at both ends, all furniture items, parking access\u2014and confirmed box count and packing needs, painting a complete picture of the move.",
+  "coaching_note": "The ask for the business came with no rate-lock or no-deposit anchor, came too early in step 5, and was immediately softened when the customer asked for an email; return to the card's sequence (pricing framing, estimate, value days, prep check) before asking, and commit to the hard ask without a built-in out."
+}

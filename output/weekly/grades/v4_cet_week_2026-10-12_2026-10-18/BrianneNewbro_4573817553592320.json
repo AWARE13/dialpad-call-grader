@@ -1,0 +1,32 @@
+{
+  "call_id": "4573817553592320",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 7.6,
+  "datetime_ct": "2026-10-12 17:41 CT",
+  "external_number": "+18329677660",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "most of our customers usually have two concerns one the movers not being on time for their move or to damage to their items or is that are those any concerns of yours?",
+    "two_layers_deep": "Customer said 'that would be the same' but rep never followed with a second layer probe like 'tell me more about that' or silence to let them elaborate.",
+    "value_days": "No mention of different days, pricing options, or date flexibility to reduce cost.",
+    "rate_lock_then_ask": "Rep said 'no deposit that required to get on our schedule so no risk and securing your spot and there's also no charges or fees to change the date or cancel if need be' but then moved directly to estimate and never asked 'Would you like our help with your move?' Instead ended with 'would you like us to help you out with that move on December 1st?' which is softened and customer responded 'Is there any way that I could call you back and then confirm?' \u2014 rep accepted without pressing."
+  },
+  "top_strength": "Rep gathered complete logistics details (addresses, square footage, rooms, special items, walking distances) and handled the packing/box count conversation smoothly, pivoting appropriately when the customer clarified they only wanted furniture moved.",
+  "coaching_note": "Step 2 lacked depth \u2014 when the customer confirmed the two concerns, rep moved straight to promises without asking 'tell me more about that' or holding silence to let them elaborate; also Step 6 and Step 7 were skipped entirely (no final concerns check, no genuine rate lock before a plain ask, no confirmation of booking details), and Step 5 never mentioned Value Days or the pricing contrast."
+}

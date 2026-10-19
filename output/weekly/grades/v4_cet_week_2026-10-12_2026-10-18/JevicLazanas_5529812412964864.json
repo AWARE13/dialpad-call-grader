@@ -1,0 +1,33 @@
+{
+  "call_id": "5529812412964864",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 15.5,
+  "datetime_ct": "2026-10-12 18:03 CT",
+  "external_number": "+17049682249",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 16,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 78,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into probing after Three Promises without asking about customer's primary concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by the customer; customer explicitly said 'I don't have any, any major concerns.'",
+    "value_days": "Jevic: 'So originally the date that we have here on your profile is Saturday November 7th, so for the type of move you have, okay, for Saturday rate, alright we charge an hour rate of $210 per hour...then for Sunday, $202 per hour for two movers and then, oh, it's the same, Sunday to Thursday, sorry, Sunday to Thursday, it's $202 so it's just $8 difference.' Later: 'Yeah, but now you know, let's go ahead and let me walk you through the pricing.' Offered savings but as hourly difference not total dollar amount; no explicit flexibility ask.",
+    "rate_lock_then_ask": "Jevic: 'Alright, perfect. So I'll go ahead and arrange this on Saturday. November 7th and the time is between 8:30 AM to 9:00 AM.' and 'Alright so yeah, so let me go ahead and save it.' The ask ('would you like our help') came before rate lock/no deposit language. Rate lock/deposit protection not explicitly stated before booking."
+  },
+  "top_strength": "Jevic delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full terms, asked permission first, and confirmed the customer understood with 'Does that put those to rest?'",
+  "coaching_note": "Ask the two-concerns question early (before probing starts), and always offer Value Days savings as a total dollar amount with an explicit flexibility ask before moving to estimate; save the rate-lock and no-deposit reassurance for just before the final ask, not after booking."
+}

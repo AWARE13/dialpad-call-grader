@@ -1,0 +1,30 @@
+{
+  "call_id": "5066535385997312",
+  "rep_name": "Zhang Pammit",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 13.2,
+  "datetime_ct": "2026-10-18 15:14 CT",
+  "external_number": "+13136236311",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 6,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 81,
+  "pass": true,
+  "na_fallbacks_used": [],
+  "evidence_quotes": {
+    "two_concerns_question": "We talked to a lot of people everyday and both of them have one or two concerns. Either the movers are not showing up on time or damage to their items or are there either of those or concern for you?",
+    "two_layers_deep": "Customer said: 'Yeah, absolutely, both one time damage the items as well as extra cost, right? That, that's the other thing that move I've seen it in the past, I moved the ton in-state. Cross across country et cetera. So I need to be, I need to understand exactly what the cost is gonna be exactly what the incremental cost are if any so, so, yes.' Rep responded only with mm-hmm acknowledgments, no follow-up probe like 'tell me more about that'",
+    "promises_delivered": "On-Time Guarantee: 'if we're late we start discounting your move immediately... we take fifty dollars off right away on the first hour and 25 dollars more every half hour after that' and No Worries Damage Coverage: 'no why damage coverage... everything gets padded before it leaves the room... up to 2000 dollars per move... that is to repay repair replace and reimburse for your items and no extra cost that's already included on the early weight'",
+    "closes_the_loop": "Rep did not ask 'Does that put those to rest?' or equivalent after delivering both promises",
+    "routing_to_walkthrough": "Rep said: 'So just wanted to let you know that your time is valuable' then moved directly into detailed logistics gathering about the three locations (home, storage unit, apartment), special items (smokers, safe), access concerns, floor levels, distances. When customer could not be present for walkthrough, rep said: 'But do you have like a photos or a list of items that we're moving?' and 'If you can be able to send us like a photos or the videos of the items then from there we can be able to give you an estimate. I can send you a link wherein you can upload this once that's already been uploaded then we'll review it and get in touch with you as soon as we can.' Clean routing to photo-based walkthrough with upload link sent via text."
+  },
+  "top_strength": "Rep delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full terms and clarity, directly addressing the customer's stated concerns about reliability and damage protection.",
+  "coaching_note": "When the customer raised concerns in step 2, rep acknowledged with only 'mm-hmm' instead of going two layers deep with 'tell me more about that' \u2014 this shallow follow-up cost understanding of what was really driving the customer's anxiety about cost overruns."
+}

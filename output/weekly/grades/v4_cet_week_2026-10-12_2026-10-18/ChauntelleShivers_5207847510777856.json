@@ -1,0 +1,34 @@
+{
+  "call_id": "5207847510777856",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 6.7,
+  "datetime_ct": "2026-10-17 16:57 CT",
+  "external_number": "+16199228667",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 42,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Customer led with pricing concern and date availability, rep never proactively asked about the two concerns (movers showing up on time or damage to items).",
+    "two_layers_deep": "Not applicable \u2014 rep never asked the two-concerns question, so no concerns were surfaced for two-layer follow-up.",
+    "value_days": "Not addressed. Rep confirmed 1:00-1:30 arrival window on October 23rd but never identified which Value Day branch applied or offered flexibility around the date for savings.",
+    "rate_lock_then_ask": "Rate lock and no deposit mentioned: 'So like we don't have any kind of like deposits or anything like that. We don't even have cancellation fees so the truck is free to reserve and then if anything changes, then yeah, you could just text us, call us or email us and let us know.' Customer then said 'no, I'll just go ahead and book it' \u2014 the ask was implicit in the customer's own response rather than explicitly asked by rep."
+  },
+  "top_strength": "Chauntelle clearly explained the pricing model (hourly rate, two-mover standard, prorated 15-minute increments) and confidently addressed the customer's confusion about the $700 estimate versus actual cost, building trust around billing transparency.",
+  "coaching_note": "Never asked the two-concerns question or probed for concerns before jumping into logistics and pricing; skip the quid pro quo framing entirely and go straight to answering the customer's pre-formed questions rather than setting the call agenda first."
+}

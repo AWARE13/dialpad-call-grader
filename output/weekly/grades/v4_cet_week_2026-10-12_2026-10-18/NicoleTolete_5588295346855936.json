@@ -1,0 +1,31 @@
+{
+  "call_id": "5588295346855936",
+  "rep_name": "Nicole Tolete",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 15.5,
+  "datetime_ct": "2026-10-12 17:57 CT",
+  "external_number": "+17137422254",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 14,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 58,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Nicole never asked the recognizable two-concerns question about movers showing up on time or damage. The customer raised damage concern unprompted, but Nicole did not use the structured opener.",
+    "two_layers_deep": "Customer said 'I'm just worried about the damage to my electronics cause that's something I experience before.' Nicole acknowledged and pivoted to solutions (insurance, padding) rather than going two layers deep with 'tell me more about that' and silence.",
+    "value_days": "Nicole mentioned 'we have different rate depending on the day of the move' and customer said 'I've heard Tuesday Wednesdays are cheaper.' Nicole then stated 'Monday to Thursday is the cheapest' but never calculated or offered a specific dollar saving, and asked no flexibility question about moving earlier in the week.",
+    "rate_lock_then_ask": "Nicole said 'to secure a spot, there's no deposit required if you have to reschedule or cancel, no fees for that either. And would you like me to get you on the schedule?' The rate lock and no-deposit framing were present but the ask was softened \u2014 it was conditional ('if you have to reschedule') and came after the deposit mention, not a plain 'Would you like our help with your move?'"
+  },
+  "top_strength": "Nicole delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full terms early in the call when the customer raised damage concerns, directly addressing the customer's stated anxiety.",
+  "coaching_note": "Use the structured two-concerns question ('either the movers not showing up on time, or damage to their items') at the start of step 2 before any probing, and when a customer raises a concern, go two layers deep with silence before moving to solutions."
+}

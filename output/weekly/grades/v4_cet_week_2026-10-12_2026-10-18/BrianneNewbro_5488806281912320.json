@@ -1,0 +1,31 @@
+{
+  "call_id": "5488806281912320",
+  "rep_name": "Brianne Newbro",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 7.8,
+  "datetime_ct": "2026-10-15 16:42 CT",
+  "external_number": "+15129681080",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 7,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "most of our customers have two concerns when moving first the movers being on time or two damage, their items when being moved are any of these the concern for you?",
+    "two_layers_deep": "Rep acknowledged concern (damage) but moved immediately into pricing/solution rather than asking follow-up like 'tell me more about that' or sitting in silence for customer to elaborate.",
+    "value_days": "if you're flexible we do have our value rate. So like if you could do Monday through Thursday, the rate goes down to $208. \u2014 Offered as hourly difference ($222 to $208 = $14/hr) rather than total dollar amount for the move.",
+    "rate_lock_then_ask": "there's no deposit required to get on our schedule and there are no fees or charges to change the date are canceled. Would you like us to help you with that move on Friday October 23rd?"
+  },
+  "top_strength": "Brianne gathered logistics details thoroughly and systematically, covering special items, both addresses, property type, floor access, furniture inventory and box count with clear follow-up questions.",
+  "coaching_note": "Step 2 needs a real pause after the concern is named \u2014 when Shannon raised damage concern, Brianne jumped straight to the No Worries pitch instead of asking 'tell me more about that' and holding silence; and Step 6 was skipped entirely \u2014 no final concerns check means Shannon never got heard on any remaining worries before the ask."
+}

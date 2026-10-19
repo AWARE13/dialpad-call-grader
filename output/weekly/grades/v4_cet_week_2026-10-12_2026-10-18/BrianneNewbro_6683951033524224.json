@@ -1,0 +1,31 @@
+{
+  "call_id": "6683951033524224",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.5,
+  "datetime_ct": "2026-10-12 15:21 CT",
+  "external_number": "+19083109148",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Most of our customers have two concerns when the movers not being on time for the move or to damage to their items when being moved or any of these a concern for you?",
+    "two_layers_deep": "Customer said 'Why wouldn't they be a concern?' and 'Am I really looking for someone to do that? I could have my husband do it?' \u2014 rep acknowledged but did not dig deeper with follow-up questions or silence.",
+    "value_days": "No mention of value days, date flexibility, or any pricing alternative to the Sunday November 15th rate of $210/hour.",
+    "rate_lock_then_ask": "Rep stated 'there's no deposit required to get on our schedule' and 'no fees or charges to change or cancel that move,' then asked 'Would you like us to help you with that move?' but customer deflected with 'Well if you can send me a quote, I would appreciate it' and rep accepted without re-asking or confirming booking details."
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details in a natural, conversational flow and delivered both promises (on-time guarantee and no-worries damage coverage) with full transparency on terms.",
+  "coaching_note": "Add a genuine final concerns check in step 6 before closing, and when the customer deflects from booking, circle back to secure a commitment instead of defaulting to 'I'll send the quote' \u2014 the quote without the ask leaves money on the table."
+}

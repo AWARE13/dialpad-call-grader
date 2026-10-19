@@ -1,0 +1,31 @@
+{
+  "call_id": "6597518497193984",
+  "rep_name": "Zhang Pammit",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 19.1,
+  "datetime_ct": "2026-10-16 17:01 CT",
+  "external_number": "+12162170395",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 97,
+  "pass": true,
+  "na_fallbacks_used": [
+    "value_days"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people everyday and most of them have one or two concerns either the movers are not showing up on time or damage to their items or either of those. So concern for you.",
+    "two_layers_deep": "Julia raises time concern (kids getting home from school), rep reflects and customer expands to damage concerns with detailed description of the armoire/glass doors/hallway access problem. Rep digs deeper: 'Can you be able to send us like a photo of the stairs and also the arm wall just to, so we can also check it with the branch.'",
+    "value_days": "Customer selected Monday the 19th which appears to be the requested date; no cheaper alternative day was offered, so N/A applies",
+    "rate_lock_then_ask": "there's no deposit record, no risk securing your spot in case if you wanted to reschedule or to cancel, then all you have to do is just simply give us a call at anytime. Would you like me to lock that in for you?"
+  },
+  "top_strength": "Rep delivered a textbook two-layer deep follow-up on the customer's concerns, starting with time sensitivity for school pickup, then thoroughly probing the damage risk with the armoire/glass doors/narrow hallway access, and concluding with a concrete photo request for branch review.",
+  "coaching_note": "The quid pro quo framing at step 1 was present but rushed\u2014rep did not clearly wait for an affirmative yes before moving into fact-gathering, which weakens the opening contract and reduces perceived value of the 10-15 minute commitment."
+}

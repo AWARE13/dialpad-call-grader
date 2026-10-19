@@ -1,0 +1,31 @@
+{
+  "call_id": "6549516766191616",
+  "rep_name": "Brianne Newbro",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 17.1,
+  "datetime_ct": "2026-10-13 14:14 CT",
+  "external_number": "+12548556446",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 15,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 76,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "most of our customers do have one of two concerns with movers and a lot of times that's movers not being on time or damage to their items are any of those a concern for you with this move",
+    "two_layers_deep": "Customer said 'More of the damage than the time' and rep pivoted immediately to promises without asking 'tell me more about that' or similar follow-up",
+    "value_days": "We have our value days that are Monday through Thursday so you think that's a little bit of a better rate than the weekends... for seven hours we look two budget between $1,519 and then for the eight hours would be $1,711",
+    "rate_lock_then_ask": "there is no deposit required again to get on our schedule no fees to change the date if need be... Did you want me to go ahead and secure your spot on the schedule or do you want to go ahead and give me that video and then we can chat?"
+  },
+  "top_strength": "Brianne gathered thorough logistics details, asked the two-concerns question upfront, delivered both damage and on-time promises with terms, and confirmed the booking with complete arrival window and address details.",
+  "coaching_note": "When the customer raises a concern at step 2, dig at least two layers deep with follow-up questions before pivoting to the promises \u2014 'More of the damage' needed a 'tell me more about that' to surface what specifically worries her about damage before jumping to coverage details."
+}

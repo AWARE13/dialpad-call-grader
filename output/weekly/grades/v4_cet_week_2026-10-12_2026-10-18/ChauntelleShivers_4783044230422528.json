@@ -1,0 +1,33 @@
+{
+  "call_id": "4783044230422528",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 10.8,
+  "datetime_ct": "2026-10-13 15:24 CT",
+  "external_number": "+19566053565",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep went straight into logistics probing without the two-concerns opener.",
+    "two_layers_deep": "Customer raised concerns about deposit/payment method and washer-dryer placement. Rep answered each directly but did not probe deeper with follow-up questions like 'tell me more about that.'",
+    "value_days": "Never addressed. No mention of day-of-week pricing options, cheaper days, or date flexibility.",
+    "rate_lock_then_ask": "Never asked for the business. Rep confirmed date and sent confirmation email but never delivered rate lock promise, no-deposit promise, or asked 'Would you like our help with your move?'"
+  },
+  "top_strength": "Rep built strong rapport, handled customer questions directly and conversationally, and captured detailed logistics (addresses, floor, walking distance, furniture list, box count, bed size) without feeling like a checklist.",
+  "coaching_note": "You skipped the two-concerns question at step 2, never delivered the full Two Promises (on-time guarantee and damage coverage with terms), didn't ask 'How do you feel about that?' after the estimate, and never actually asked for the business \u2014 you transitioned straight to confirmation without the ask step."
+}

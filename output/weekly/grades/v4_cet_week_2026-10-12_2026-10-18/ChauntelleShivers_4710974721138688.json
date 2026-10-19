@@ -1,0 +1,33 @@
+{
+  "call_id": "4710974721138688",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 7.3,
+  "datetime_ct": "2026-10-14 13:46 CT",
+  "external_number": "+15093858003",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep asked 'do you have any top of mind like questions concern from any kind of previous experiences' but this is open-ended, not the two-concerns framing.",
+    "two_layers_deep": "No concerns were raised by the customer, so N/A.",
+    "value_days": "Not addressed. Rep mentions 'we do on this particular day have a couple of trucks left' but does not identify the branch (Best Value Day, Value Day, or Peak) or offer any dollar saving or date flexibility question.",
+    "rate_lock_then_ask": "Never asked. Rep offered to send the quote via email and said 'you absolutely can respond to that email and just say hey Shany I'm ready' but never presented rate lock, no-deposit language, or an explicit 'Would you like our help with your move?' close. The customer deferred to finalize via email without booking on the call."
+  },
+  "top_strength": "Chauntelle efficiently gathered all the key logistics details (addresses, parking access, furniture inventory, TV size, box count) and delivered a clear estimate range ($666\u2013$888) with a personalized time window (3\u20134 hours) based on drive time and scope.",
+  "coaching_note": "You skipped the two-concerns question entirely, never delivered the On-Time Guarantee promise, didn't offer Value Days savings, and didn't ask for the business on the call \u2014 the customer left with only an email quote and no booking; rebuild around asking for concerns up front and closing with the rate-lock / no-deposit / plain ask sequence before offering email as a backup."
+}

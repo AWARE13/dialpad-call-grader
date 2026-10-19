@@ -1,0 +1,31 @@
+{
+  "call_id": "6277623026851840",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 22.2,
+  "datetime_ct": "2026-10-12 17:50 CT",
+  "external_number": "+14693527201",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 12,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "You know what, I will just double-check with my manager about the loading on the pot, I think he's going to be fine with that but it's just that there's a liable the issue sir... So you know what, I talk to a lot of people everyday. Most of them have like one or two concerns when it comes to moving number one usually is a worried that the movers are not gonna show up on time or an elect not show up at all or they're gonna damage their items or any of these concern for you.",
+    "two_layers_deep": "Rachel said 'Yeah, I'm showing up. Yes, of course. Both of those would be concerning.' Jules responded 'Great, well.' and immediately pivoted to delivering promises instead of asking follow-up questions like 'tell me more about that' \u2014 no probing into what specifically concerned her about timing or damage.",
+    "value_days": "Sunday the eighteenth was the original request. Jules offered alternative dates (seventeenth, nineteenth, twenty-fourth, twenty-fifth) due to elevator availability constraints, but never framed these as Value Days with dollar savings or asked about date flexibility to save money. The conversation was driven by the customer's elevator booking window, not by Jules identifying cheaper days and offering total dollar savings.",
+    "rate_lock_then_ask": "Jules never mentioned a rate lock or 'no deposit' commitment. He moved directly to booking logistics without securing the customer's agreement to move forward: 'Alright. Well, I'll book it right now for the two guys and one truck and I'll give you a call in a bit about the about the second part of the move.' There was no explicit ask like 'Would you like our help with your move?' and no commitment language about protecting the quoted rate."
+  },
+  "top_strength": "Jules gathered comprehensive logistics details (addresses, floor level, item inventory, box count, pod contents, delivery constraints) and delivered both promises (On-Time Guarantee with specific dollar amounts, and No Worries Damage Coverage with $2,000 coverage built into the rate) clearly and early in the call.",
+  "coaching_note": "After the customer confirmed both concerns were real, Jules moved immediately into the promises without digging deeper into what was behind those concerns ('tell me more about that')\u2014missing the opportunity to personalize his pitch to her specific worries about timing and damage."
+}

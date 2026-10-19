@@ -1,0 +1,38 @@
+{
+  "call_id": "6665761524064256",
+  "rep_name": "Nicole Tolete",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 14.2,
+  "datetime_ct": "2026-10-14 17:36 CT",
+  "external_number": "+19726397225",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 77,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Nicole: 'Hi, this is Nicole from Einstein nerving company. Am I speaking with Amy?' / Later: 'once again this is Nicole. Thank you so much for choosing Einstein. Moving take care. And you have a great day Amy.'",
+    "quid_pro_quo": "No time-boxed framing or dependable-quote promise delivered before committing to the walkthrough.",
+    "two_concerns_question": "Never asked. Rep jumped straight to walkthrough routing.",
+    "promises_delivered": "No Worries Damage Coverage ($2,000 per move, no deductible): 'we have no worries, damage coverage. We provide up to $2,000 per move. To repair, replace or reimburse for any accidental damages.' / On-Time Guarantee: 'we have on time guarantee. If we cannot make it in the time window that we arrange, we immediately start discounting money of your final bill.' Both delivered in recognizable form.",
+    "closes_the_loop": "Rep did not ask 'Does that put those to rest?' or equivalent.",
+    "concern_led_opening": "No concern-led opening like 'What items in this move are you most concerned about?' Logistics gathered included: moving date (Nov 3), packing request, square footage context (~1700), room count context (some empty rooms), special items (washer/dryer staying, books mentioned). Walking distance not confirmed, additional spaces (garage/shed) not probed.",
+    "packing_and_box_count": "Packing service asked and discussed extensively ('do you need us to pack your entire home or just partial packing'). Box count never asked.",
+    "value_days": "Not applicable to walkthrough routing; no pricing given.",
+    "rate_lock_then_ask": "Not applicable to walkthrough routing.",
+    "booking_confirmed": "Virtual walkthrough booked for Wednesday October 21st at 9:00 AM with link to follow. Moving dates confirmed: Monday Nov 2 (packing), Tuesday Nov 3 (move). Addresses confirmed (217 South Village Drive, McKinney TX 75072 to 5609 Edmont Drive, McKinney TX 75071). Phone (972-639-7225) and email (Amy@asquaredmedia.net) confirmed. Driveway parking confirmed for both. No crew size discussed or confirmed; no notes left about customer concerns."
+  },
+  "top_strength": "Nicole successfully routed the call to a virtual walkthrough, secured a confirmed appointment with date and time, and delivered both promises (damage coverage and on-time guarantee) before scheduling, providing full transparency on pricing structure, hourly rates, and materials costs.",
+  "coaching_note": "Step 1 missing the quid pro quo entirely\u2014the rep jumped straight into walkthrough routing without time-boxing the discovery, explaining what the walkthrough would accomplish, or getting an explicit yes before proceeding; Step 2 never asked the two-concerns question, which should have opened the discovery even on a walkthrough call; Step 3 did not close the loop with 'Does that put those to rest?' after delivering the promises; Step 4 lacked a concern-led opening and never asked about box count or walking distance details."
+}

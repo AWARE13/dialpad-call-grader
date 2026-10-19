@@ -1,0 +1,33 @@
+{
+  "call_id": "4862503300145152",
+  "rep_name": "Joanna Ballon",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 17.2,
+  "datetime_ct": "2026-10-18 20:13 CT",
+  "external_number": "+18132057704",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 10,
+  "total_score": 68,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Joanna moved directly into logistics probing.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer in step 2.",
+    "value_days": "Not addressed. Joanna quoted Saturday the 31st at $111/hour per mover, $222/hour for two men, with estimated 6\u20138 hour job ($1,776 total). No mention of cheaper days or date flexibility.",
+    "rate_lock_then_ask": "Rate lock and no deposit stated first: 'no deposit required payment is only upon completion of the move.' Then ask: 'Would you like your help for this move on the thirty first?' Customer said yes. However, the ask came with a built-in conditional (first job of the day timing), not a plain ask."
+  },
+  "top_strength": "Joanna gathered logistics comprehensively (addresses, property details, floor plan, room breakdown, special items, packing status, box count, parking access) and confirmed all booking details at the end, leaving nothing vague.",
+  "coaching_note": "Ask the two-concerns question before probing logistics\u2014this is the primary opener for step 2 and anchors the entire conversation to what matters to the customer. Currently you are jumping straight to the checklist."
+}

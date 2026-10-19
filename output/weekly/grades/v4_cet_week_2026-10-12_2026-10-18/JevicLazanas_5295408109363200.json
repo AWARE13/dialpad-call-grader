@@ -1,0 +1,34 @@
+{
+  "call_id": "5295408109363200",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.3,
+  "datetime_ct": "2026-10-13 19:38 CT",
+  "external_number": "+16503875593",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 48,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly from address confirmation into furniture and room inventory.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer in step 2.",
+    "value_days": "Not addressed. Rep gave estimate range of $810\u2013$1,020 for 3.5\u20134.5 hours but never mentioned whether Sunday is a peak or value day.",
+    "rate_lock_then_ask": "Never asked. Rep said 'Will there be anything else that I can help you with today?' and customer said 'Nope, that's it.' No rate lock mentioned, no explicit ask for the business. This was already a booked appointment (customer called to follow up on an online booking), but the rep never re-confirmed the booking or asked for payment/confirmation to proceed."
+  },
+  "top_strength": "Jevic gathered comprehensive logistics details systematically \u2014 furniture list, room count, elevator access, building distances, addresses, and box count \u2014 creating a solid foundation for an accurate personalized estimate.",
+  "coaching_note": "This was a follow-up call on an existing booking, not a fresh sales call, which shaped the flow; however, the rep skipped the two-concerns question entirely, delivered no promises (On-Time Guarantee or No Worries Coverage), never asked about value days, and ended with a throwaway 'anything else' instead of an intentional close \u2014 missing six of the card's seven core steps."
+}

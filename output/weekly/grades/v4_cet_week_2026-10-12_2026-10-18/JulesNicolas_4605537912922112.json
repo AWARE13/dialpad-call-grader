@@ -1,0 +1,33 @@
+{
+  "call_id": "4605537912922112",
+  "rep_name": "Jules Nicolas",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 5.1,
+  "datetime_ct": "2026-10-13 21:00 CT",
+  "external_number": "+12147249044",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 3,
+  "total_score": 34,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into pricing.",
+    "two_layers_deep": "N/A \u2014 no concerns raised during the call.",
+    "value_days": "Not addressed. Rep mentioned 'Tuesday' but did not identify a Value Days branch or offer a day-of-week savings.",
+    "rate_lock_then_ask": "Rep said 'Do you want to get this moved scheduled?' with no prior rate lock or no-deposit statement. The ask is present but weak and unframed."
+  },
+  "top_strength": "Jules clearly explained the all-inclusive hourly pricing model with the trip fee transparency, making the cost structure understandable and building trust through fee disclosure.",
+  "coaching_note": "This call skipped the entire discovery backbone \u2014 no two-concerns question, no probing for what mattered to Sandy, no promises about on-time or damage protection \u2014 and jumped straight to pricing and logistics, missing the chance to frame the value and address what was actually on the customer's mind before asking for the business."
+}

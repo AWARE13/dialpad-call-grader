@@ -1,0 +1,32 @@
+{
+  "call_id": "4603708636438528",
+  "rep_name": "Amy Arbasa",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 10.7,
+  "datetime_ct": "2026-10-18 19:56 CT",
+  "external_number": "+13474044346",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 13,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Amy moves directly into logistics probing without asking about top-of-mind concerns.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by Amy in step 2, though Mohammed raised a significant concern about floor protection in step 5.",
+    "value_days": "Amy mentions Friday is fully booked and Saturday is available at $218 vs Sunday at $206. She states the price difference but does not frame it as a total dollar savings or ask about date flexibility in the scripted way. Mohammed initiated the day-flexibility question himself.",
+    "rate_lock_then_ask": "Amy says 'we don't require any deposits, no rebooking no cancellation fees. Would you like us to help out with this move?' The rate lock and no-deposit framing is present but comes across as a brief add-on rather than a permission-based lead-in, and the ask itself is soft \u2014 Mohammed deflects to email confirmation and asks follow-up questions instead of booking."
+  },
+  "top_strength": "Amy gathered comprehensive logistics details (floor count, walking distances, full inventory list, parking specifics) and provided a clear all-inclusive hourly rate breakdown with transparent fees and the 2.5-hour minimum spelled out.",
+  "coaching_note": "Amy skipped the two-concerns question entirely and moved straight into logistics probing; add that opening to step 2 and deliver both the On-Time Guarantee and No Worries Damage Coverage in step 3 before moving to probing \u2014 these two promises answer the customer's actual concern about floor protection and should land much earlier to build trust."
+}

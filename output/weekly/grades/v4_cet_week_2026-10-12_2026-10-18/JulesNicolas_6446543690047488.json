@@ -1,0 +1,33 @@
+{
+  "call_id": "6446543690047488",
+  "rep_name": "Jules Nicolas",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 5.2,
+  "datetime_ct": "2026-10-15 18:47 CT",
+  "external_number": "+18179396773",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 2,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 43,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into estimate delivery with no concern discovery.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised because the question was never asked.",
+    "value_days": "Not addressed. Rep mentions 27th and 28th are available but does not frame them against cheaper alternatives or ask about date flexibility.",
+    "rate_lock_then_ask": "Rep states no deposit required and payment after move: 'So we didn't require any deposit. We will only take payment after the move is completed.' Then asks to get scheduled: 'the last thing I need to get this scheduled, if do you have the address for the storage unit?' \u2014 this is closer to booking logistics than an explicit ask like 'Would you like our help with your move?'"
+  },
+  "top_strength": "Jules successfully closed the booking, confirmed key details (storage address, dates, arrival window), and explained the all-inclusive pricing model clearly, positioning Einstein's rate structure as simpler than hourly competitors with hidden fees.",
+  "coaching_note": "This was a follow-up call where Jules skipped discovery entirely \u2014 no two-concerns question, no concern-led probing, no Two Promises step, and no final concerns check. On the next similar call, open with the two-concerns question even if you've spoken before, deliver the promises before the estimate, and close with 'What's still concerning you about this move?' before asking for the business."
+}

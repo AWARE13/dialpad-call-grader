@@ -1,0 +1,33 @@
+{
+  "call_id": "6604030697316352",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 6.9,
+  "datetime_ct": "2026-10-14 18:56 CT",
+  "external_number": "+17138395848",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 43,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep never surfaced the two primary concerns (on-time arrival, damage to items) that drive the sales call framework.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by customer, so no layering was possible.",
+    "value_days": "Not addressed. Rep mentioned morning (8:00\u20138:30) and afternoon (1:00\u20131:30) availability but never identified which was a Best Value Day or offered a dollar savings for date flexibility.",
+    "rate_lock_then_ask": "Rep said 'We don't require any kind of deposit. No upfront costs you don't pay for anything until after the move is done. So free to reserve, free to cancel, free to move the time so just super straightforward.' But then never asked 'Would you like our help with your move?' Instead ended with an email send and a request callback: 'So you have that information. And then depending on what that conversation is you can, text us, call us or you can reply to the email and say, yup, let's go ahead and get that on the books.' This is a built-in out, not a close.'"
+  },
+  "top_strength": "Chauntelle gathered the move details systematically (unit location and floor, items being moved, destination address and floor, elevator reservation needs) and delivered a credible estimate range ($545\u2013$830, anchored to the 2.5-hour minimum) with all-inclusive pricing transparency ($190/hour + $70 trip fee).",
+  "coaching_note": "This call missed the two biggest moments in the Einstein framework: never ask the two-concerns question that uncovers what the customer actually cares about, and never deliver the On-Time Guarantee and No Worries Damage Coverage promises that answer those concerns \u2014 then end the call with a passive email-and-callback instead of asking for the business outright."
+}

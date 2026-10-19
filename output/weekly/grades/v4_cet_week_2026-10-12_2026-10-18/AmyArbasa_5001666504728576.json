@@ -1,0 +1,31 @@
+{
+  "call_id": "5001666504728576",
+  "rep_name": "Amy Arbasa",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 13.9,
+  "datetime_ct": "2026-10-13 20:29 CT",
+  "external_number": "+17404170147",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 19,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 2,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talk to a lot of people everyday and most of them would share one or two concerns. Either the worried that the movers won't show up on time or they're going to damage their items. What about you, would, this, would either have this a concern to you or do you have any specific concern in mind?",
+    "two_layers_deep": "Amy asked what concerns the customer had (damage to items, mirrors, dining table), then immediately moved into offering help rather than probing deeper with 'tell me more about that' or similar follow-up",
+    "value_days": "Your selected date falls on a Wednesday, October 21st. So the hourly rate for that is $102.102 per hour per mover... If you want to move from Monday to Thursday, that's our cheapest rate. Our best value days, your selected date falls on a Wednesday, October 21st. (Amy identified the day but did not calculate or offer a specific dollar savings for moving to a cheaper day, nor did she ask about flexibility)",
+    "rate_lock_then_ask": "And if you guys are ready, we don't require any deposits, no rebooking, no cancellation fees... If you have any questions or your wife has any questions you know where to call me, okay? (Rate lock mentioned but no explicit ask for the business, only an open ending that allows the customer to defer)"
+  },
+  "top_strength": "Amy thoroughly gathered logistics details and property information, covering addresses, property types, special items, and storage location with systematic probing that showed strong understanding of what drives move complexity.",
+  "coaching_note": "Step 3 (Two Promises) was entirely skipped \u2014 after hearing the customer's damage concerns, Amy pivoted directly to pricing without delivering the On-Time Guarantee or No Worries Damage Coverage, missing the opportunity to address the exact concerns the customer had just named."
+}

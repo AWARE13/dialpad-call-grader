@@ -1,0 +1,32 @@
+{
+  "call_id": "6110455746306048",
+  "rep_name": "Jevic Lazanas",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 15.6,
+  "datetime_ct": "2026-10-14 20:11 CT",
+  "external_number": "+14792828648",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 16,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 18,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 79,
+  "pass": false,
+  "na_fallbacks_used": [
+    "value_days",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "we talked to a lot of people everyday and most of them have two or two concerns. So either the mover is not showing up on time or damage to their items are either of those a concern for you.",
+    "two_layers_deep": "Customer raised damage concern, rep acknowledged with 'Mm-hmm right Mm-hmm Mm-hmm okay. That's duly noted, sir.' but did not ask follow-up like 'tell me more about that' or probe the concern deeper before moving to the promise.",
+    "value_days": "you've selected Tuesday. Just so you know, you've selected one of our best value days which means you're getting our lowest available pricing for the week that's Monday to Thursday.",
+    "rate_lock_then_ask": "No rate lock or deposit language was stated before the ask. Rep went directly to 'would you like to go ahead would you like our help with your upcoming move?' This violates the v4 order which requires rate lock/no deposit stated first."
+  },
+  "top_strength": "Jevic delivered a complete, personalized estimate with strong pricing framing (hourly model, all-inclusive, fees disclosed upfront), proper anchoring for a two-bedroom apartment with specific concerns noted, and successfully closed the booking with full details confirmed.",
+  "coaching_note": "Step 6 final concerns check was entirely skipped \u2014 rep moved straight from the estimate to confirming the appointment without asking 'What's still concerning you about this move?' or the catch-all 'Anything coming with you we haven't talked about?'"
+}

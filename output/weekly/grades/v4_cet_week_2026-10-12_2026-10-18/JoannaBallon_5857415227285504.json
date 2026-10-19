@@ -1,0 +1,32 @@
+{
+  "call_id": "5857415227285504",
+  "rep_name": "Joanna Ballon",
+  "branch": "Tampa Einstein Moving Company",
+  "duration_min": 12.2,
+  "datetime_ct": "2026-10-18 16:58 CT",
+  "external_number": "+18659347005",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 20,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Joanna: 'Of course, since we talked to a lot of customers everyday, usually their Concerns are either movers not arriving on time or damages to their Adams or any of this, or concerns as well.' Abby: 'Yeah, I would say damaging anything.'",
+    "two_layers_deep": "Joanna: 'Tell me more about it. Any experience in the past that you probably, you know, had issues with.' Abby provides detail about out-of-state move and attention to wrapping. Joanna then reflects and adds context about their wrapping service.",
+    "value_days": "Joanna: 'if we're going to do your move on a Saturday that's $100 per hour per mover... Sunday to Thursdays are usually our lowest hourly rate... we can save up to $8 per hour. Are your dates flexible or that Saturday is really like the preferred date.' Abby confirms flexibility. But Joanna then says 'for now let's just stick to the Saturday' and does NOT give the savings as a total dollar amount (e.g., 'that would save you approximately $40-64 total on this move').",
+    "rate_lock_then_ask": "Joanna: 'Okay, so would that be, you said would you like our help for this move on the 5th of December?' This is phrased as a weak ask without first establishing rate lock or no deposit. Abby responds non-committally: 'We're definitely interested, this is our first day starting to look into movers. Are you able to email me that information.' Joanna then says 'no problem' and provides email follow-up instead of pushing the ask or clarifying rate lock/no deposit terms before the customer leaves."
+  },
+  "top_strength": "Joanna gathered exceptionally detailed logistics across both addresses (floor levels, elevator/stairs, walking distances, property types, room breakdown, special items like large plants) and confirmed all of it with Abby, setting up an accurate estimate.",
+  "coaching_note": "Step 6 and 7 need immediate focus: never skip the final concerns check (this call jumped straight to asking for the business), and establish rate lock + no deposit explicitly before the ask itself, not after the customer has already said they want to shop around."
+}

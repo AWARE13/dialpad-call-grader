@@ -1,0 +1,33 @@
+{
+  "call_id": "4763000723251200",
+  "rep_name": "Zhang Pammit",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 8.2,
+  "datetime_ct": "2026-10-14 21:31 CT",
+  "external_number": "+13522840968",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 0,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 45,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Rep never asked the two-concerns question or any open-ended equivalent about damage/reliability/timing concerns.",
+    "two_layers_deep": "Customer raised a concern about needing temporary storage and multi-leg delivery logistics, but rep only acknowledged it as an operational note without probing deeper into what the customer was most worried about.",
+    "value_days": "Rep mentioned Saturday availability and $102/hour rate but never offered a cheaper alternative day or discussed value days at all.",
+    "rate_lock_then_ask": "Rep said 'there's no deposit record, no risk and securing your spot' (rate lock/no deposit) and then asked 'Can we go ahead and secure the spot for Saturday morning at 9' \u2014 this is a direct ask that follows the rate lock statement."
+  },
+  "top_strength": "Rep successfully recovered and booked a repeat customer who had used Einstein two years prior, and handled a complex multi-leg logistics request (temporary BNB storage with later delivery to final address) without abandoning the call.",
+  "coaching_note": "You skipped the two-concerns question and all probing for what mattered most to this customer \u2014 you went straight into confirming old details and logistics instead of re-qualifying their current state; this is exactly the pattern the new card fixes by moving Two Concerns and Two Promises earlier in the call."
+}

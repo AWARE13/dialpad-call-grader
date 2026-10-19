@@ -1,0 +1,34 @@
+{
+  "call_id": "5204164052033536",
+  "rep_name": "Jevic Lazanas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 15.9,
+  "datetime_ct": "2026-10-15 21:14 CT",
+  "external_number": "+13472248064",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 0,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 56,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Jevic: 'you know, what, we talked to a lot of people everyday and most of them have one or you know, one or two concerns either the movers not showing up on time or you know damaging their items or either those of those a concern for you.' Customer: 'No.'",
+    "two_layers_deep": "Customer raised no concerns (said 'No' to both), so no follow-up opportunity; scored n/a.",
+    "value_days": "No pricing discussion occurred; no mention of Value Days, day branches, or date flexibility.",
+    "rate_lock_then_ask": "Call terminated due to audio loss before rep reached Step 7. No rate lock, no deposit language, no ask for the business."
+  },
+  "top_strength": "Jevic delivered both the On-Time Guarantee and No Worries Damage Coverage promises completely and clearly with full terms ($50 first hour, $25 per half hour; $2,000 per move, no deductible, built-in), then asked 'Does that put those to rest?' to close the loop.",
+  "coaching_note": "The call dropped before you reached the estimate and ask \u2014 but in the gaps: you never gave a pricing framing or estimate anchor, never mentioned packing services follow-up (customer asked about packing but you didn't circle back to box count), and the probing skipped the concern-led opening ('What items are you most concerned about?') that should anchor the logistics questions."
+}

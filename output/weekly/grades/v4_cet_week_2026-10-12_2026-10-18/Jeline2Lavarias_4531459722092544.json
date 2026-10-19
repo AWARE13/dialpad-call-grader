@@ -1,0 +1,34 @@
+{
+  "call_id": "4531459722092544",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Houston Einstein Moving Company",
+  "duration_min": 10.8,
+  "datetime_ct": "2026-10-12 15:41 CT",
+  "external_number": "+16083470969",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 0,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into logistics probing without raising the two-concerns opener about reliability or damage.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during the call.",
+    "value_days": "Not addressed. Rep never discussed the calendar, day-of-week pricing, or whether a cheaper date existed. Customer is booked on Sunday November 1st with no pricing context offered.",
+    "rate_lock_then_ask": "Rep said 'we do not require any deposit' but never mentioned rate lock, never asked 'Would you like our help with your move?' or any direct ask for the business. Instead: 'if you have any questions you can just reply to that email or if you want to proceed booking just let us know.' This is a built-in out, not a plain ask."
+  },
+  "top_strength": "Jeline gathered comprehensive logistics details methodically \u2014 addresses, floor counts, walking distances (using the school-bus analogy), furniture inventory, box count, and access concerns \u2014 covering nearly everything the step 4 card requires.",
+  "coaching_note": "This call skipped the entire foundation of the Einstein sale: never asked about the customer's concerns (step 2), never delivered the two promises (step 3), never framed pricing or gave an estimate (step 5), and ended with a soft opt-in instead of a direct ask (step 7). Before the next call, review the first 3 minutes of the card \u2014 the two-concerns question and the promises are what separate Einstein from a generic quote line."
+}

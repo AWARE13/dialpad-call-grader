@@ -1,0 +1,33 @@
+{
+  "call_id": "6482542841339904",
+  "rep_name": "Jules Nicolas",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 19.6,
+  "datetime_ct": "2026-10-13 20:17 CT",
+  "external_number": "+14693186439",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 57,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. The rep never asks the standard two-concerns opening about movers not showing up on time or damage to items.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer in step 2 because the question was never asked.",
+    "value_days": "Not addressed. The rep schedules Saturday afternoon (11:30\u20131:30 PM) but never discusses whether a different day would be cheaper or offers any value-day framing.",
+    "rate_lock_then_ask": "Jules: 'I do not need any deposit. You only pay after everything is completed with the, with the actual time use for the move and by the way we only accept debit or credit cards.' and then 'You know what, I'll book this for you right now.' The rep does lock in no deposit before confirming the booking, which satisfies the order requirement."
+  },
+  "top_strength": "Jules handled the customer's emotional distress with genuine empathy and reassurance, built strong rapport, and successfully booked the move while gathering all required logistics details.",
+  "coaching_note": "Skip the two-concerns opening entirely (Step 2) and the prep-framing temperature check (Step 5), both of which are critical to the v4 card; and add a final-concerns check before closing instead of moving straight to booking confirmation."
+}

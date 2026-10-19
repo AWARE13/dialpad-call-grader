@@ -1,0 +1,34 @@
+{
+  "call_id": "4526959758188544",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 22.8,
+  "datetime_ct": "2026-10-13 14:01 CT",
+  "external_number": "+12626176857",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 10,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep said 'I talked to a ton of people all the time with concerns or questions, so I would love to kind of kick the call off with that. Do you have any of those that I can address right off the top?' but customer said no, and rep pivoted to pricing/availability without the card's two-concerns frame.",
+    "two_layers_deep": "N/A \u2014 no concerns raised by customer in step 2.",
+    "value_days": "Not addressed. Rep never asked about date flexibility or offered cheaper alternatives to December 30th.",
+    "rate_lock_then_ask": "Rate lock and no-deposit-first: 'it is free to reserve the truck. It's also free to cancel the truck. It's free to make modification but you don't pay for anything with ein sign until after your move is complete.' Then explicit ask: 'did you want to at least go ahead and reserve that truck?' Customer: 'Yeah, I think we do that.'",
+    "promises": "Damage coverage mentioned: 'we do allow. Up to $2,000 for any kind of incidentals which is a lot more generous than a lot of companies.' On-time guarantee mentioned: 'we do have our on time guarantee so that just means that if we don't arrive like in the timeframe, but we set the money is automatically deducted off of your final checkout which is always sweet to save money.' But no permission lead-in asked, and no 'does that put those to rest?' close. Terms were stated but not framed as promises to the customer's concern."
+  },
+  "top_strength": "Chauntelle gathered comprehensive logistics details (origin, destination, multiple stops, walking distances, furniture inventory, special considerations) with a concern-led probing approach that felt natural and customer-focused.",
+  "coaching_note": "Step 2 is missing entirely \u2014 the rep asked an open-ended concerns question but did not use the card's two-concerns frame (movers not showing up on time, or damage to items), and when the customer said no, the rep skipped straight to pricing without applying the Two Promises step as the entry point for that discussion."
+}

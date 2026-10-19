@@ -1,0 +1,34 @@
+{
+  "call_id": "5154326704857088",
+  "rep_name": "Arden 2Asilo",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 10.2,
+  "datetime_ct": "2026-10-13 14:38 CT",
+  "external_number": "+18177338530",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 12,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 5,
+  "total_score": 78,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talked to a lot of people everyday and most of them have one or two concerns now either the movers are not showing up on time or damage to their item or either of this a concern for you.",
+    "two_layers_deep": "N/A \u2014 customer raised no concerns at step 2.",
+    "value_days": "I still have one slot available for Saturday 24th of October. I can book you for the afternoon slot. No deposit regard always a member with Einstein. \u2014 No mention of other available dates, cheaper days, or date flexibility. No Value Days framing at all.",
+    "rate_lock_then_ask": "No deposit regard always a member with Einstein. You only pay the actual move is done. [Then customer says] Yup, I'm actually all good for now. I appreciate that. If you could just send that quote to my email that would be perfect. \u2014 Rate lock was mentioned, but the customer was never asked for the business. When he asked for the quote to be emailed, Arden accepted without the explicit ask."
+  },
+  "top_strength": "Arden gathered complete logistics details with a clear concern-led opening, asked about special items (paintings), and delivered both promises fully\u2014On-Time Guarantee with specific percentages and No Worries Damage Coverage with all terms ($2,000, no deductible, no fine print, built in).",
+  "coaching_note": "Never skip the explicit ask for the business\u2014when the customer said 'just send the quote to email,' Arden should have said 'Would you like our help with your move?' before agreeing to email it; also missing: no temperature check after the estimate, no final concerns check at step 6, and no Value Days discussion despite Saturday being offered."
+}

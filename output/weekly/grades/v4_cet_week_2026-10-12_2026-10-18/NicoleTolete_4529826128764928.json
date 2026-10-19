@@ -1,0 +1,35 @@
+{
+  "call_id": "4529826128764928",
+  "rep_name": "Nicole Tolete",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 8.4,
+  "datetime_ct": "2026-10-13 18:02 CT",
+  "external_number": "+15122993369",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 72,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "call_type_determination": "Nicole said 'Usually for office moves we do a virtual walkthrough it's like a video call on your preferred time and date. So we can identify how many movers and how many trucks you will be needing' \u2014 this is the walkthrough branch routing from step 1",
+    "name_asked_and_used": "Nicole asked 'Hi, this is Nicole from Einstein Levin, how may I help you?' and Linda volunteered 'Hi, my name is Linda'. Nicole used Linda's name at the end: 'Take care and you have a great day Linda.'",
+    "two_concerns_question": "Never asked. Nicole moved straight into logistics and inventory after offering the walkthrough option.",
+    "logistics_gathered": "Linda provided: items needing disassembly (2, 3 piece desks), quantity (7 desks), same-building move (second to third floor), elevator availability, buffet cabinet details, and prep notes (monitors/items removed beforehand, nothing packed inside furniture)",
+    "packing_and_box_count": "Not asked. Office environment with furniture and desks, not residential packing scenario.",
+    "promises_not_delivered": "No mention of On-Time Guarantee or No Worries Damage Coverage. No permission lead-in asking before sharing how Einstein works.",
+    "rate_lock_and_no_deposit_mentioned": "Nicole said 'there's no deposit required if you have to reschedule or cancel no fees for that either' \u2014 but this came during booking confirmation, not as part of an ask for the business. The call was routed to walkthrough before the ask step was reached."
+  },
+  "top_strength": "Nicole successfully gathered detailed logistics (disassembly needs, furniture count, floor layout, elevator access, customer prep level) and correctly identified this as an office move requiring a virtual walkthrough before quoting, keeping the customer engaged throughout the inventory upload and photo review process.",
+  "coaching_note": "On future walkthrough-router calls, complete step 2 (the two-concerns question) and step 3 (both promises with permission lead-in and closing ask) before routing to the walkthrough, since the v4 card places both those steps before probing and they are now graded on walkthrough calls rather than auto-credited."
+}

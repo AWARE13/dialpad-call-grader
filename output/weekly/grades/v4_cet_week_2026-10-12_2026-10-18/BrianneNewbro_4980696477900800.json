@@ -1,0 +1,31 @@
+{
+  "call_id": "4980696477900800",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 18.6,
+  "datetime_ct": "2026-10-13 15:48 CT",
+  "external_number": "+15128930306",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 59,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "most of our customers do have concerns with moving to, to or the top when being the mover is not showing up on time and then to damage to their items or any of these concerns for you on this move.",
+    "two_layers_deep": "Customer stated 'not a concern but I I hope, have the comment time and nothing is damaged' \u2014 rep acknowledged but did not probe deeper with follow-up questions.",
+    "value_days": "No value days discussion; customer selected November 1st and rep did not identify the day of week or offer an alternative cheaper day.",
+    "rate_lock_then_ask": "and no deposit required to get on our schedule and no fees to change the date or cancel the move. Would you like us to help you with that move on Sunday?"
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details systematically (addresses, floors, elevator access, special items, box count, multiple stops) and delivered both damage coverage and on-time guarantee promises early with clear terms.",
+  "coaching_note": "Step 2 needs a genuine second layer of probing\u2014when the customer said 'not a concern,' Brianne should have asked 'tell me more about that' to understand what they meant by hoping for timely arrival and no damage, rather than moving straight to the promises."
+}

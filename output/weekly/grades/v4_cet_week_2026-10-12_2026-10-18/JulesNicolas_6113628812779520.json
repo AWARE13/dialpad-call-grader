@@ -1,0 +1,33 @@
+{
+  "call_id": "6113628812779520",
+  "rep_name": "Jules Nicolas",
+  "branch": "Garland Einstein Moving Company",
+  "duration_min": 8.9,
+  "datetime_ct": "2026-10-15 20:27 CT",
+  "external_number": "+12147348045",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 37,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly from name collection into logistics probing.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during step 2.",
+    "value_days": "Never mentioned. Rep did not address whether November 4th was a Value Day or offer date flexibility savings.",
+    "rate_lock_then_ask": "Never present. Rep scheduled the move without stating rate lock, no deposit, or asking 'Would you like our help with your move?' The customer was booked with 'I can get you scheduled for November 4th starting around 8:30 to nine in the morning, does that time work for you?' \u2014 a time confirmation, not an explicit ask for the business."
+  },
+  "top_strength": "Jules gathered logistics details efficiently and gave the customer a concrete, anchored estimate ($808 for ~4 hours, $505 minimum) that directly referenced their prior move for personalization.",
+  "coaching_note": "Step 2 (Two Concerns) and Step 3 (Two Promises) were both skipped entirely \u2014 ask the two-concerns question before probing, then deliver the On-Time Guarantee and No Worries Damage Coverage before pricing, and this customer who used you before would hear how you stand behind your work."
+}

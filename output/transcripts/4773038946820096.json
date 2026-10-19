@@ -1,0 +1,712 @@
+{
+  "call_id": "4591868753780736",
+  "lines": [
+    {
+      "content": "Good afternoon, this is Joanna. Am I speaking with Clayton?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:56:34.466389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item_v2",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:56:34.466389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ai_csat_reboot_ineligible",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:56:34.466389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_disposition",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:56:34.466389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:56:34.466389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "whole_call_summary_fragment",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:56:34.466389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:56:36.247389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:56:37.807389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "Yes ma'am, you are.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T17:56:38.542445",
+      "type": "transcript"
+    },
+    {
+      "content": "Hi Clayton. Thank you so much for calling us back. We actually receive your quotation request about an upcoming move. So we just need to ask you some questions about it so we can give you a more personalized estimate, it might take about ten to fifteen minutes, if that's okay? Awesome, thank you and I know that you've used us before. So thank you so much for considering us again for this move. So I just need to check, of course the inventory list where we're coming from. So the address that we're coming from is 8700. Bro lane and then that's a one bedroom apartment going to 7631. US dash 290 in Austin, is that correct?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:56:40.466389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "call_purpose",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:56:40.466389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:56:41.327389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:56:48.007389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "Okay.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T17:56:52.942445",
+      "type": "transcript"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:57:17.567389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:57:18.207389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "That's correct. Yes.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T17:57:19.342445",
+      "type": "transcript"
+    },
+    {
+      "content": "Perfect, thank you. And then, the address that we're coming from is a one bedroom apartment. How many square feet apartment is this one?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:57:20.666389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:57:27.687389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "They're each about 750.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T17:57:28.942445",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, and it's on the third floor. We don't have elevators, just stairs, is that right? That's alright. And then aside from your one bedroom, typical one bedroom furniture, bed dresser night stand. Do you have any other furniture in there as well? Office study?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:57:30.866389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "That's correct. Yeah.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T17:57:36.742445",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "I mean, there's a desk and then just some large boxes full of stuff.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T17:57:48.742445",
+      "type": "transcript"
+    },
+    {
+      "content": "I see. And then in your living room aside from the typical couch, coffee table T-V-T-V stand. Anything else you might want to add?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:57:53.666389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "No, no, just, you know, bedroom first for that and like I said the desk and that's it.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T17:58:03.142445",
+      "type": "transcript"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:58:04.466389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay, just to confirm, we don't have anything in the balcony, no garage appliance to be moved.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:58:08.066389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "No, no, you're.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T17:58:15.142445",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, thank you so much. Mm-hmm. Okay. Since we're doing the stairs, just take note that our limit is about \u00a3300. Do you reckon you have anything of that size? Safe workout equipment?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:58:17.066389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:58:25.447389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:58:26.607389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "No, I mean it's just, I mean I guess I, I've never wait a sofa that I mean, as long as that's under that limit then I think we're good, I assume.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T17:58:29.542445",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Thank you and for packing, do you need help with packing as well or everything is all packed good to go?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:58:40.466389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:58:44.927389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "No, I'll do all the packing and I just need you guys to grab the some big boxes and the big furniture.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T17:58:48.142445",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "call_purpose",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T17:58:48.142445",
+      "type": "moment"
+    },
+    {
+      "content": "Mm-hmm yes sir, typically it we might end up with fifteen to 25 boxes in total. Do you think that's about the number of boxes we need to move for you as well?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:58:54.866389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:59:01.687389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:59:05.287389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "It would be less than that but yeah.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T17:59:05.542445",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay, I'll just put it around fifteen for now and just one last question. How far are we parking from the stairs on the ground floor once go us about thirty to forty feet. Do you think it's just within that business? I'm a little bit further.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:59:08.066389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "Okay.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T17:59:11.542445",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "No, it's easily within that distance. The first department as well. Actually, I haven't seen the second apartment. I can let you know Tuesday morning but the first one you are like right at the base of the stairs.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T17:59:23.542445",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:59:24.047389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "That's good.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:59:26.066389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:59:28.247389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:59:30.266389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:59:33.266389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "That's perfect and once we get to the third floor is it already your door, your apartment or just a little bit further to.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:59:36.266389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:59:36.607389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "That's about fifteen feet from the top of the stairs maybe.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T17:59:42.142445",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Great. And for the new apartment that's fine. Of course the only difference it would make if it's a little bit further, we might just need more time. So if it's really longer walk, then just let us know. So we can just adjust it accordingly. Okay, and is it, is it about the same size in terms of the apartment in terms of square footage?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T17:59:46.466389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "Okay, okay.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T17:59:57.742445",
+      "type": "transcript"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:00:00.607389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "Yes, yes, it is.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:00:06.142445",
+      "type": "transcript"
+    },
+    {
+      "content": "Okay. Alright. Thank you. And let's see, I think that's pretty much everything I need for now. Of course, we still charge by the hour for the services we offer. You're looking at doing it on Tuesday already. This coming Tuesday, is that right?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:00:09.266389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "Yeah, Tuesday afternoon 2:00 PM would be preferred if we can do that.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:00:24.142445",
+      "type": "transcript"
+    },
+    {
+      "content": "Afternoon. Mm-hmm.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:00:26.666389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "time",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:00:27.199445",
+      "type": "moment"
+    },
+    {
+      "content": "Okay. Now in the afternoon, 2:00 PM on the pickup location or is that the time that you can access the new place?",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:00:29.666389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "time",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:00:32.287389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "question",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:00:34.447389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "I can access any place in the morning but I won't be available till one at the earliest. If not 2:00 PM.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:00:37.342445",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:00:39.007389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "time",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:00:42.719445",
+      "type": "moment"
+    },
+    {
+      "content": "I see. Okay, so we actually provided to our arrival window, I'll put you on the schedule between 12:30 and 230 I'll just need to leave a note that the later would be preferred. Okay, but the guys will definitely call you once they're on the way. So again still charged by the hour for the services we offer, if we're doing it on Tuesday, it's $104 per hour per mover, so for two minutes, $208 per hour, which already includes the two men and the truck, all the wrap to protect your furniture. If you need help with this assembly, reassembly taxes, insurance, credit card fees, all of that is already in the price. So the only thing outside of the hourly rate is a one time transportation fee of $75 but aside from that everything's all.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:00:43.466389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "Okay.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:00:45.742445",
+      "type": "transcript"
+    },
+    {
+      "content": "time",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:00:49.287389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "Okay.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:00:54.142445",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:01:02.967389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:01:07.007389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "Okay.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:01:20.542445",
+      "type": "transcript"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:01:25.327389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Already included in the rate and we'll still include our no worries damage coverage providing you the $2,000 coverage for any accidental damages.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:01:28.466389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:01:35.967389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "Okay.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:01:39.142445",
+      "type": "transcript"
+    },
+    {
+      "content": "Meet your feature, we'll send you the names ahead of time. Again we don't take daly contract workers and of course on time guarantee if we run late, we provide discounts for your move of course clay and all that's all already in the price is, is the stairs we don't charge for the stairwell fees, transport this assembly reassembly fees is all in the price and the credit card fees to too. Now for the club. It will only start once we arrive at your pickup location open the contract for you, of course, you can have us for as long as you need us for any move. There's just a two and a half hour minimum. If we go over we only charge in fifteen minute intervals. So that's just about it. Okay. Now for this move typically a one bedroom apartment usually takes two and a half to three and a half hours to complete but of course, since we're doing stairs for both locations for now I'll just put your move more to three to four hour mark. Which is an estimated budget of $907 including the transportation fee but of course it will take shorter than that, of course you only pay for how long it takes after the minimum. So the shorter it will be a person over the cost.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:01:39.727389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "action_item",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:01:41.407389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:01:48.247389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:01:48.887389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:01:56.967389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "Okay.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:02:03.742445",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "Hello.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:02:17.542445",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:02:19.087389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "Okay.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:02:20.542445",
+      "type": "transcript"
+    },
+    {
+      "content": "monologuing",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:02:28.167389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:02:33.247389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "speaking_too_quickly",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:02:33.887389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "currency",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:02:37.927389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "Cost, okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:02:48.266389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "Okay, perfect.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:02:49.342445",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "positive_sentiment",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:02:49.342445",
+      "type": "moment"
+    },
+    {
+      "content": "Alright. Okay, may I please have your apartment numbers if you have the new 12 for, that's okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:02:50.666389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "I'll have to get back to you on the new one. Do you when you're pulling it from is 231.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:02:55.942445",
+      "type": "transcript"
+    },
+    {
+      "content": "That's alright. Mm-hmm. 231. Okay, so that's just about it. We're all getting set again. Arrival between 123230 I'll put a note closer 2:00 PM is preferred but the guys will definitely call you just to give you a heads-up and yeah, payment is only a pound completion of the move, okay.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:02:59.666389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "time",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:03:10.807389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "Perfect. Alright. Sounds good.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:03:19.342445",
+      "type": "transcript"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "positive_sentiment",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:03:19.342445",
+      "type": "moment"
+    },
+    {
+      "content": "Alright, thanks so much Clayton we'll see you this Tuesday. Have a good day. Okay? Bye-bye.",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:03:20.666389",
+      "type": "transcript",
+      "user_id": "4658269278552064"
+    },
+    {
+      "content": "ner",
+      "name": "Joanna Ballon",
+      "time": "2026-10-18T18:03:22.407389",
+      "type": "moment",
+      "user_id": "4658269278552064"
+    },
+    {
+      "contact_id": "agxzfnViZXItdm9pY2VyFAsSB0NvbnRhY3QYgID8oOzV-AoM",
+      "content": "Thanks, you too, bye-bye.",
+      "name": "Clayton Shouse",
+      "time": "2026-10-18T18:03:25.342445",
+      "type": "transcript"
+    }
+  ]
+}

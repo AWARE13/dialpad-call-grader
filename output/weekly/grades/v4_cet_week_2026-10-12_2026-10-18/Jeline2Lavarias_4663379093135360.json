@@ -1,0 +1,35 @@
+{
+  "call_id": "4663379093135360",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 6.0,
+  "datetime_ct": "2026-10-13 16:36 CT",
+  "external_number": "+17746446624",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 72,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Jeline asks 'What's your first and last name?' and customer responds 'Kayla Bao' but the name is never used again in the call",
+    "quid_pro_quo": "No framing given. Rep jumps directly into data collection: 'whether you planning to move ma'am? So I can check the availability'",
+    "two_concerns_question": "Never asked. Rep moves straight into logistics questions",
+    "concern_led_opening": "Rep does not use a concern-led opening like 'What items are you most concerned about?' Instead begins with 'whether you planning to move' and proceeds through a structured checklist",
+    "logistics_gathered": "Comprehensive details collected: date (Friday Nov 6), property type (house), local move (6 min), square footage (1700 pickup, 2000 dropoff), stories (1 and 2), bedrooms (2+office), garage items (mower, toolchest, grill), driveway access at both ends, box count range discussed",
+    "packing_and_box_count": "Box count asked: 'normally ma'am for a 1700 square feet house receive 55 to 65 boxes. Do you think you would fall within that range...' Packing services never asked",
+    "walkthrough_routing": "Rep correctly identifies move qualifies for walkthrough (destination is 2000 sqft) and offers it: 'Ma'am by any chance, are you available to do a virtual walkthrough? So it's like a video call so I can see the house access as well as the other furniture that we will be moving.' Customer accepts and rep confirms: 'Alright! We can do it right now. I'll just send you a text message with the link...'"
+  },
+  "top_strength": "Jeline gathered comprehensive logistics details systematically and correctly identified when the move qualified for a virtual walkthrough, then cleanly routed to the next step with clear next steps (text link, 1-2 minute wait).",
+  "coaching_note": "Before collecting logistics, establish the customer's concerns first using the two-concerns question, and always use the customer's name at least once more during the call to build rapport \u2014 you had Kayla's name but never said it again after the introduction."
+}

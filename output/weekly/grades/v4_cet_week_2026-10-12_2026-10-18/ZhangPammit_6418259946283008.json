@@ -1,0 +1,37 @@
+{
+  "call_id": "6418259946283008",
+  "rep_name": "Zhang Pammit",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 7.4,
+  "datetime_ct": "2026-10-14 19:48 CT",
+  "external_number": "+15125776435",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 8,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 10,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 98,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep asked 'Is it a convenient time to talk?' but customer name (Brian Gannon) was never obtained or used by rep; rep never asked 'What is your name?' or equivalent.",
+    "quid_pro_quo": "Rep: 'It looks like we have availability within your timeframe. So next is to put together an estimate, I just have some questions about your move. Specifically. This will take about ten to fifteen minutes of your time. So you can walk away with a quote you can depend on instead of just a guest. Does that sounds good to you?' Customer: 'Yeah, sounds great.' \u2014 time-boxed, promise of dependable quote, customer yes obtained.",
+    "two_concerns_question": "Rep: 'We talk, we talked to a lot of people everyday and most of them have one or two concerns either the movers are not showing up on time or damage to their items or either of those concern for you.' Customer: 'No.' \u2014 Asked before any logistics probing started.",
+    "promises_delivered": "On-Time Guarantee: 'If we're late, we start discounting your move immediately. If you don't make on that agreed upon arrival window we take $50 off right away on the first hour then $25 more every half hour after that.' No Worries Damage Coverage: 'Everything gets padded before it leaves the room...on rare location if something gets damaged or any mishaps or any accidental damage are no worry damage coverage kicks in, automatically, that's up to 2000 dollars per move...There's no extra cost, no deductibles, no fine prints billed right into your rate.'",
+    "closes_the_loop": "Rep: 'How does that sound good to you?' \u2014 asked after both promises.",
+    "concern_led_opening": "Rep did not ask 'What items in this move are you most concerned about?' or equivalent; jumped directly into address confirmation. However, logistics gathered extensively: two locations confirmed (2310 McNee Street, 2216 Scott Street), property types (two-story house and two-story townhome), bedrooms (3), additional rooms (garage with specific items: two shelving units, toolbox, couches), parking (driveway/alley at origin, street/alley at destination), access concerns (none noted), destination floor level.",
+    "packing_and_box_count": "Packing: Rep asked 'So just to make sure you're looking to packing, is it like packing the full house?' Customer: 'Yes, yup.' Box count: Rep stated 'a typical back count is 140 to 180 boxes' and noted customer is moving only partial household due to splitting between New York and Austin.",
+    "value_days": "No pricing discussion occurred; call routed to virtual walkthrough. Customer booked October 22 but rep never discussed whether this was a Best Value Day or offered alternative dates with savings.",
+    "walkthrough_routing": "Rep: 'I just wanted to let you know that basically based on your home size. Normally we do a virtual walkthrough in that way, we would just base it on the items that through your moving. And also we can be able to know the things that we're also packing. Do you have time to complete the virtual walk for you today?' Customer confirmed. Rep sent walkthrough link and instructed customer to hang up phone to join. Call ended with walkthrough session beginning \u2014 clean routing to the next step."
+  },
+  "top_strength": "The rep delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full details and specific dollar amounts in clean, confident language, and gathered comprehensive logistics details (two full addresses, property types, bedroom/room count, garage specifics, parking, destination floor level, and packing needs) without missing material.",
+  "coaching_note": "Obtain and use the customer's name early \u2014 you asked 'Is it a convenient time to talk?' but never asked 'What is your name?', so Brian Gannon's name stayed uncaptured and unused throughout the entire call."
+}

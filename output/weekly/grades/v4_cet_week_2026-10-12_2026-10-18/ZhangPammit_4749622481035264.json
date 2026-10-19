@@ -1,0 +1,32 @@
+{
+  "call_id": "4749622481035264",
+  "rep_name": "Zhang Pammit",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 12.0,
+  "datetime_ct": "2026-10-13 22:16 CT",
+  "external_number": "+18179089500",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 11,
+  "step5_the_estimate": 12,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 8,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly from quid pro quo into logistics probing without the primary opener about movers not showing up or damage to items.",
+    "two_layers_deep": "Customer raised multiple concerns in step 6 about inefficient packing and incomplete moves from previous Einstein move, and about pad deposits. Rep acknowledged and responded substantively to both, providing reassurance on truck capacity and clarifying pad deposit policy.",
+    "value_days": "Not addressed. Rep gave estimate for Friday November 6th without exploring whether other days in that week offered savings or asking about date flexibility.",
+    "rate_lock_then_ask": "Rate lock and no deposit mentioned first: 'We can be able to book her slot as early as 8:30 AM to 9:00 AM, where there's no deposit required, no Rist and securing your spot in case if you wanted to reschedule or to cancel then all you have to do is just simply give us a call at anytime. Would you like me to lock that in for you.' Plain ask follows in correct order."
+  },
+  "top_strength": "Rep delivered full pricing transparency with all three framing elements (hourly contrast with all-inclusive model, no-notes line, fee transparency and 15-minute increment detail) and gave a personalized, anchored estimate tied to the customer's specific two-unit storage situation, showing mastery of step 5.",
+  "coaching_note": "Step 2 is missing entirely \u2014 the two-concerns question was never asked before probing started, which means the call never surfaced customer priorities until the customer volunteered a complaint about the previous move; ask the concern-led opener early to anchor the entire conversation on what matters to them."
+}

@@ -1,0 +1,34 @@
+{
+  "call_id": "6213789954121728",
+  "rep_name": "Joanna Ballon",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 5.2,
+  "datetime_ct": "2026-10-18 14:47 CT",
+  "external_number": "+12142359717",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 11,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 39,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved straight to logistics after initial probing.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer.",
+    "value_days": "Rep stated: 'Our Fridays and Saturdays are regular rates was our Sundays to Thursdays would be our lowest hourly rates.' Rates given ($102 vs $111) and flexibility confirmed ('your dates are flexible').",
+    "rate_lock_then_ask": "Rep never asked for the business. Call ended with Darius saying 'Okay, thank you so much. Bye.' and rep responding only 'Thank you.' No rate lock, no deposit language, no explicit ask."
+  },
+  "top_strength": "Joanna clearly explained the pricing structure early, breaking down hourly rates by day of week, itemizing what was included in the rate (wrapping, insurance, fees), and ensuring the customer understood the total cost picture before moving forward.",
+  "coaching_note": "You must ask the two-concerns question (on-time reliability and damage protection) before diving into logistics, then deliver the two promises (On-Time Guarantee and No Worries Damage Coverage) with permission, and finish every call with an explicit ask for the business \u2014 this call had neither the concerns discovery nor the close."
+}

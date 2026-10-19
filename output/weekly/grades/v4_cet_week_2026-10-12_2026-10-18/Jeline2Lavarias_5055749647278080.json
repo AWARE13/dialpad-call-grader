@@ -1,0 +1,32 @@
+{
+  "call_id": "5055749647278080",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 9.5,
+  "datetime_ct": "2026-10-14 13:58 CT",
+  "external_number": "+15127487934",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 12,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 5,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "We talked to a lot of people everyday and most of them have one of two concerns either the mover is not showing up on time or they might damage to their items are either of those a concern for you.",
+    "two_layers_deep": "Customer raised damage concern; rep acknowledged with 'Well, yes, I'm actually about to share you that we actually have additional coverage' and pivoted immediately to promises without follow-up probing like 'tell me more about that' or genuine silence.",
+    "value_days": "No mention of whether October 23rd is a Best Value Day, cheaper alternatives, date flexibility, or any dollar savings comparison.",
+    "rate_lock_then_ask": "Rep said 'we do not require any deposit so no risk and securing your spot' and 'if ever that you wanted to proceed booking with us just reply to that email' but never asked plainly 'Would you like our help with your move?' The customer was offered email reply as an out rather than being asked directly for the business on the call."
+  },
+  "top_strength": "Jeline gathered thorough logistics details across both pickup and delivery addresses, asked the two-concerns question early, and delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with specific terms intact.",
+  "coaching_note": "When a customer raises a concern at step 2, dig at least two layers deep with follow-up silence before pivoting to promises\u2014'damage has been a concern in the past' deserved 'tell me more about that' before the damage coverage pitch, and step 6 needs a genuine 'What's still concerning you?' not 'Do you have any questions?', plus you must ask the ask: 'Would you like our help with your move?' on the call, not invite them to email back."
+}

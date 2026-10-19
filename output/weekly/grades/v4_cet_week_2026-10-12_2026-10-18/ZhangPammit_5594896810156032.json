@@ -1,0 +1,35 @@
+{
+  "call_id": "5594896810156032",
+  "rep_name": "Zhang Pammit",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 5.7,
+  "datetime_ct": "2026-10-17 19:22 CT",
+  "external_number": "+15165082675",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 8,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 80,
+  "pass": true,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked": "Hi good afternoon this is Ma from Einstein moving I'm looking to speak with Rehena.",
+    "quid_pro_quo": "So basically I'm actually just calling in because we have saw your quote request online. So we just wanted to ask you a few questions in order for us to give you an accurate code that you can depend on this would take within the to ten to fifteen minutes of your time. Would that be okay?",
+    "two_concerns_question": "NOT ASKED - no recognizable version of the two-concern opener about reliability or damage",
+    "promises_delivered": "NONE - no On-Time Guarantee or No Worries Damage Coverage mentioned at any point",
+    "logistics_gathered": "Home sizes 1790 sq ft (2-story) and 2249 sq ft (3-story), 3 bedrooms first location / 4 bedrooms second location, library with books, parking on street vs garage/public parking, boxes 55-65 range, full-house packing requested",
+    "packing_and_box_count": "do you need help in packing like, between the small items into your boxes like kitchen was or clothings, is it packing the full house? Yeah. Yup. Yeah, I will want, yes, I would want an estimate packing the full house. / typical backs count based on your home size. Upon checking here is we're about 55 to 65 boxes. Do you feel that you fall within that range?",
+    "walkthrough_routing": "based, based on your home size normally, we do a virtual walkthrough. In that way, we will just base it on the items that we're moving. Do you have time to complete the virtual walkthrough today?"
+  },
+  "top_strength": "Rep gathered comprehensive logistics details across both locations and cleanly routed the call to a virtual walkthrough with confirmed next steps (FaceTime link sent, customer ready to proceed).",
+  "coaching_note": "The two-concerns question and both promises must be delivered before routing to the walkthrough \u2014 Step 2 and Step 3 are required on all calls, even when the move qualifies for a walkthrough; currently neither was addressed."
+}

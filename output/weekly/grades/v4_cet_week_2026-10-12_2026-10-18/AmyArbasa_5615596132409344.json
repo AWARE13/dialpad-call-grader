@@ -1,0 +1,32 @@
+{
+  "call_id": "5615596132409344",
+  "rep_name": "Amy Arbasa",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 6.8,
+  "datetime_ct": "2026-10-15 17:34 CT",
+  "external_number": "+15128258116",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 14,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 16,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 61,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "most of them would mention that they have one or two concerns either they're worried that the movers won't show up on time or they're gonna get their items damaged. What about you, Barbara?",
+    "two_layers_deep": "Customer said 'we don't want that to happen but we trust you want what that happened' \u2014 Amy immediately pivoted to the promises instead of probing deeper with 'tell me more about that'",
+    "value_days": "for your requested day to Monday is actually one of our best value days meaning, it's the cheapest one of the cheapest rate that we offer. So that would be $208 per hour",
+    "rate_lock_then_ask": "Rate lock and deposit terms were never mentioned. No explicit ask for the business. Customer said 'No, I think I'll pass on that. But thank you very much' and call ended."
+  },
+  "top_strength": "Amy delivered both promises (On-Time Guarantee and No Worries Damage Coverage) with full terms and fee transparency, and correctly identified Monday as a Best Value Day with the dollar-anchored rate, establishing credibility early.",
+  "coaching_note": "After the customer expressed damage concerns, Amy should have asked 'tell me more about that' to go two layers deep instead of jumping straight into the promise delivery; and the call ended without a step 6 concerns check, a prep framing, a temperature check, or any ask for the business at all \u2014 the customer declined and Amy let them leave without attempting to overcome the objection or confirm next steps."
+}

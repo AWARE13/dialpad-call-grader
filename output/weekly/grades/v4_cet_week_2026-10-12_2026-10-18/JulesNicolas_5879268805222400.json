@@ -1,0 +1,33 @@
+{
+  "call_id": "5879268805222400",
+  "rep_name": "Jules Nicolas",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 5.4,
+  "datetime_ct": "2026-10-15 15:16 CT",
+  "external_number": "+13105926342",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 3,
+  "total_score": 42,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep jumped directly to logistics confirmation without asking the two-concerns opener.",
+    "two_layers_deep": "No concerns were surfaced, so this is N/A.",
+    "value_days": "Not addressed. Rep never asked about or offered any alternative dates or value-day savings.",
+    "rate_lock_then_ask": "Rep mentioned no deposit and no credit card fees, but never asked for the business explicitly. Stated 'I'll send you a confirmation email' and 'we'll see you on November 6th' with no clear closing ask like 'Would you like our help with your move?' The rate lock ($20/hour, no additional fees) was mentioned early but out of order relative to any ask."
+  },
+  "top_strength": "Jules quickly confirmed all the move logistics (origin, destination, floor levels, special items, arrival window) and resolved a customer concern about opening the pod facility without pushing back\u2014demonstrating strong logistics probing and customer accommodation.",
+  "coaching_note": "Jules never asked the two-concerns question, never delivered the On-Time Guarantee or No Worries Damage promises, never offered value-day savings, and never explicitly asked for the business\u2014instead assuming the close by saying 'I'll send you a confirmation email.' The card requires these steps before booking confirmation."
+}

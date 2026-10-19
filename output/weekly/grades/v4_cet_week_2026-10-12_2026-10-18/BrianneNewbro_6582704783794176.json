@@ -1,0 +1,33 @@
+{
+  "call_id": "6582704783794176",
+  "rep_name": "Brianne Newbro",
+  "branch": "North Austin Einstein Moving Company",
+  "duration_min": 11.4,
+  "datetime_ct": "2026-10-13 16:53 CT",
+  "external_number": "+15123695999",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 2,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 3,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 0,
+  "total_score": 35,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moves directly from collecting names and dates into logistics probing.",
+    "two_layers_deep": "Not applicable \u2014 no concerns were raised because the two-concerns question was never asked.",
+    "value_days": "Rep mentions 'Friday' as a preferred day and offers 'the afternoon slot available for the move' on the 16th, but never identifies which of the three branches (Best Value, Good Value, or Standard) the customer is on, never calculates a dollar saving, and never asks about date flexibility.",
+    "rate_lock_then_ask": "Rep gives two price points ('the 555 and then if we go to the three and a half, it's 777') but never mentions rate lock, never mentions no deposit, and never asks 'Would you like our help with your move?' The call ends with 'Do you all have any questions for me while you have me on the line?' \u2014 a throwaway closing with no ask for the business."
+  },
+  "top_strength": "Brianne gathered logistics systematically and confirmed multiple details (pickup address, destination address with unit number, floor, stair access, walking distance, box count estimate) despite a three-way conversation and incomplete information from the customer.",
+  "coaching_note": "This call is missing the core selling framework: no two-concerns discovery, no promises (On-Time Guarantee or Damage Coverage), no pricing framing or value positioning, no rate-lock offer, and no explicit ask for the business \u2014 it ends instead with a polite throwaway question that allows the customer to say no by saying nothing."
+}

@@ -1,0 +1,33 @@
+{
+  "call_id": "6176574580498432",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 9.0,
+  "datetime_ct": "2026-10-14 15:46 CT",
+  "external_number": "+19562033858",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 10,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 50,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep never asked about on-time reliability or damage concerns before moving into logistics probing.",
+    "two_layers_deep": "Not applicable \u2014 no concerns were raised by customer in step 2 because the question was never asked.",
+    "value_days": "Not addressed. Rep gave estimate ($550 to $742) with no mention of day-of-week pricing options or flexibility.",
+    "rate_lock_then_ask": "Weak. Rep said 'this is a confirmed booking for Sunday at 2:18 in the afternoon' but never stated rate lock or no-deposit guarantee before the implicit ask. The booking appears assumed rather than explicitly requested."
+  },
+  "top_strength": "Jeline gathered comprehensive logistics details (floor level, walking distances, furniture inventory, special items, both addresses) with good follow-up probing, and gave a personalized estimate range that reflected what she learned.",
+  "coaching_note": "Never ask for the two biggest concerns (on-time arrival and damage protection) \u2014 this is the card's primary discovery ask and is worth 8 points. Also missing: the two promises (On-Time Guarantee and No Worries Damage Coverage) should come before probing, prep framing with temperature check, and an explicit rate-lock / no-deposit statement before the actual ask."
+}

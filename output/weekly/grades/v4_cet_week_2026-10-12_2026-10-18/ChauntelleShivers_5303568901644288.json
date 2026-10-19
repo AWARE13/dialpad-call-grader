@@ -1,0 +1,34 @@
+{
+  "call_id": "5303568901644288",
+  "rep_name": "Chauntelle Shivers",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 8.5,
+  "datetime_ct": "2026-10-16 14:18 CT",
+  "external_number": "+18454809032",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 5,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 47,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Not asked. Rep moved directly into packing discussion without asking about concerns like reliability or damage protection.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised by the customer during discovery.",
+    "value_days": "Not addressed. Rep discussed October 23rd and 22nd but never mentioned Value Days pricing, cheaper day alternatives, or date flexibility savings.",
+    "rate_lock_then_ask": "Never asked. Rep said 'I'll send you a text message as soon as well send me' and closed without asking for the business, mentioning rate lock, no deposit policy, or confirming booking details."
+  },
+  "top_strength": "Chauntelle gathered detailed logistics efficiently (two-bedroom apartment, second floor, unit 209, packing preferences, two different packing scenarios) and provided clear, itemized estimates for both full-pack and partial-pack options with hourly breakdowns.",
+  "coaching_note": "Never asked the two-concerns question at the start of step 2, never delivered the Two Promises (On-Time Guarantee and No Worries Damage Coverage), skipped the entire Value Days discussion, and critically \u2014 never asked for the business or confirmed any booking details before ending the call."
+}

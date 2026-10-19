@@ -1,0 +1,33 @@
+{
+  "call_id": "6440332324282368",
+  "rep_name": "Brianne Newbro",
+  "branch": "South Austin Einstein Moving Company",
+  "duration_min": 11.6,
+  "datetime_ct": "2026-10-16 14:32 CT",
+  "external_number": "+15129131572",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 7,
+  "step2_their_concerns": 25,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 10,
+  "total_score": 77,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "And sherry we talked to a lot of people everyday and most of them have one or two concerns with their move. Either the mover is not showing up on time or damage to their items or any of these concern for you.",
+    "two_layers_deep": "Customer answered 'Honestly. No, not really.' so no concerns were raised \u2014 N/A applies.",
+    "value_days": "No mention of alternative days or value days pricing; rep only quoted the requested Monday November 16th at $208/hr.",
+    "rate_lock_then_ask": "There's no deposit required to get on our schedule like I said, so no risk and securing your spot... would you like us to help you with that move on Monday the sixteenth."
+  },
+  "top_strength": "Brianne delivered both promises (On-Time Guarantee with specific dollar amounts, and No Worries Damage Coverage at $2,000 with no deductible) in full detail, and unprompted provided excellent specificity on the TV protection with the padded bag detail that directly addressed the customer's stated concern.",
+  "coaching_note": "Brianne never asked the final concerns check at step 6 ('What's still concerning you about this move?') \u2014 she moved straight from the estimate confirmation to sending the email, missing the second bookend that helps ensure no objections remain."
+}

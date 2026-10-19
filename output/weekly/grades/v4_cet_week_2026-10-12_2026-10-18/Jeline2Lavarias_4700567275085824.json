@@ -1,0 +1,35 @@
+{
+  "call_id": "4700567275085824",
+  "rep_name": "Jeline 2Lavarias",
+  "branch": "McKinney Einstein Moving Company",
+  "duration_min": 10.9,
+  "datetime_ct": "2026-10-15 17:56 CT",
+  "external_number": "+19168492900",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 8,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Rep: 'Hi, good afternoon, this is juline with Einstein moving. Am I speaking with Kaleen?' Customer: 'Yes, hi, how are you?' Rep never uses the name again.",
+    "quid_pro_quo": "No framing given about 10-15 minute timeframe or dependable quote. Rep goes straight into conversation.",
+    "two_concerns_question": "Never asked. Rep launches into logistics and conversation without the two-concerns opener.",
+    "concern_led_opening": "Rep asks clarifying questions about items but never opens with 'What items in this move are you most concerned about?' or similar concern-led framing.",
+    "box_count": "Asked: 'do you think you would fall within that range?' for 20-30 boxes, customer responds 'about 35 boxes in the garage. And then there's gonna be another one.' Packing question never asked.",
+    "two_promises": "Neither On-Time Guarantee nor No Worries Damage Coverage mentioned at any point in the call.",
+    "routing_to_walkthrough": "Rep: 'By any chance, are you available to do a virtual walkthrough? So it's like a video call just for me to see how large the furniture are as well as the items from the garage. Are you available to do it?' Customer agrees. Rep confirms: 'I'll just send you a text message with a link so just click on that link and then you'll be routed to our video call.'"
+  },
+  "top_strength": "Rep correctly identified that a virtual walkthrough was appropriate for this move (high box count, multiple appliances, ambiguous furniture sizing) and secured customer agreement to proceed, which is the appropriate routing decision for a complex 1-bedroom load.",
+  "coaching_note": "Before routing to walkthrough, deliver the quid pro quo framing (time commitment + dependable quote promise) and never skip the two-concerns question and Two Promises \u2014 these are foundational trust-builders that should land before any detail gathering or routing decision, even on walkthrough-bound calls."
+}

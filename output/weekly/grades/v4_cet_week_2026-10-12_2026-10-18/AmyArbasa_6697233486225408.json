@@ -1,0 +1,32 @@
+{
+  "call_id": "6697233486225408",
+  "rep_name": "Amy Arbasa",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 8.5,
+  "datetime_ct": "2026-10-18 18:04 CT",
+  "external_number": "+12539939018",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 5,
+  "step2_their_concerns": 8,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 0,
+  "total_score": 44,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern",
+    "booking_confirmed"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "I'd also like to know cause we talked to a lot of people everyday, our clients would mention either one or two concerns. Either, you know, they're worried the movers not showing up on time or causing damages to their items. What about you or either of those concern for you.",
+    "two_layers_deep": "Customer stated concerns were resolved by website research and flexible schedule; Amy accepted this without probing deeper (e.g., 'tell me more about' or follow-up silence).",
+    "value_days": "No value days offered. Dalton picked Friday afternoon; Amy noted it but never identified the Value Days branch or offered savings on an alternate day.",
+    "rate_lock_then_ask": "No rate lock or no-deposit mention. No explicit ask for the business. Call ended with 'at least you have a reference if anything changes you can call me at this number' after customer indicated intent to decline."
+  },
+  "top_strength": "Amy delivered both Two Promises (On-Time Guarantee with specific discount amounts and No Worries Damage Coverage with $2,000 coverage, no deductible, built-in) fully and clearly before probing, establishing trust early.",
+  "coaching_note": "Step 5 critical miss: the pricing framing lacked the contrasting comparison (how competitors' add-on model differs from your all-inclusive rate), and when the customer objected to price, Amy had no anchor, no personalization tied to their stated concerns, and no prep-framing to justify the difference \u2014 the call ended without ever attempting to move past the sticker shock."
+}

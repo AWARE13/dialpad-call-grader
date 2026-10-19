@@ -1,0 +1,33 @@
+{
+  "call_id": "6506312096325632",
+  "rep_name": "Brianne Newbro",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 9.5,
+  "datetime_ct": "2026-10-13 18:27 CT",
+  "external_number": "+13039134363",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 15,
+  "step5_the_estimate": 7,
+  "step6_concerns_again": 3,
+  "step7_ask_for_the_business": 3,
+  "total_score": 49,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved straight into probing after name collection.",
+    "two_layers_deep": "N/A \u2014 no concerns were raised because the two-concerns question was never asked.",
+    "value_days": "Never addressed. Rep offered two time windows (8:30-9:00 AM and 12:30-2:30 PM) but did not identify which day was cheaper or offer any dollar savings.",
+    "rate_lock_then_ask": "Rate lock and no deposit mentioned ('no deposit required to get on our schedule and no risk and securing your spot and then also we do not have any charges, or fees to change the dates or cancel the move') but the ask itself was soft and vague: 'would you like to get on the schedule for let's see what day would say Monday October 19th?' \u2014 built-in out with the tentative framing and no explicit close like 'Would you like our help with your move?'"
+  },
+  "top_strength": "Brianne gathered comprehensive logistics details efficiently and confirmed nearly all the essential information (addresses, property types, storage contents, parking access) with minimal backtracking, showing strong situational awareness and follow-through.",
+  "coaching_note": "Step 2 must come immediately after the quid pro quo: ask the two-concerns question before any probing starts, so you can shape the entire conversation around what actually matters to Caitlin, and then deliver the Two Promises while she's still most engaged."
+}

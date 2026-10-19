@@ -1,0 +1,32 @@
+{
+  "call_id": "5111340088467456",
+  "rep_name": "Brianne Newbro",
+  "branch": "Leander Einstein Moving Company",
+  "duration_min": 10.9,
+  "datetime_ct": "2026-10-13 15:22 CT",
+  "external_number": "+15126949383",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 2,
+  "step7_ask_for_the_business": 3,
+  "total_score": 37,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into logistics after name/email.",
+    "two_layers_deep": "N/A \u2014 no concerns were probed for depth.",
+    "value_days": "Rep mentioned 'Monday or Tuesday or Wednesday should be the same as $192' but never addressed value days or date flexibility savings.",
+    "rate_lock_then_ask": "Rep said 'there's no deposit required to get on the schedule and no fees are charges to change the date or cancel the move' but never asked 'Would you like our help with your move?' The customer self-initiated booking: 'Can we put us on a schedule for the third?'"
+  },
+  "top_strength": "Brianne gathered good logistics detail about the safe, furniture pieces, and special considerations despite not using a concern-led opening, and she empathetically validated the customer's concerns about time and effort.",
+  "coaching_note": "This call skipped the two core bookend moments: never asked the two-concerns question at step 2, and never delivered the Two Promises (On-Time Guarantee and No Worries Damage Coverage) before probing\u2014both are load-bearing for trust and differentiation, and both came before pricing on the v4 card for a reason."
+}

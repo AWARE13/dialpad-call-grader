@@ -1,0 +1,31 @@
+{
+  "call_id": "5762152940740608",
+  "rep_name": "Zhang Pammit",
+  "branch": "Dallas Einstein Moving Company",
+  "duration_min": 12.7,
+  "datetime_ct": "2026-10-15 20:03 CT",
+  "external_number": "+12143357968",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 10,
+  "step2_their_concerns": 16,
+  "step3_two_promises": 8,
+  "step4_probing_for_details": 13,
+  "step5_the_estimate": 9,
+  "step6_concerns_again": 5,
+  "step7_ask_for_the_business": 8,
+  "total_score": 69,
+  "pass": false,
+  "na_fallbacks_used": [
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "So, we talked to a lot of people everyday and most of them have like one or two concerns either the movers are not showing up on time or damage to their items, or either of those a concern for you.",
+    "two_layers_deep": "Rep: Let's see. So, from what I'm hearing, is that both of these are concerns for you. Customer response was minimal \u2014 'Sure, I think that's the normal concerns of anyone movie' \u2014 and rep moved directly to Two Promises without digging deeper with follow-up questions like 'tell me more about that' or probing what specific situations worried the customer.",
+    "value_days": "No mention of cheaper days or date flexibility. Rep simply offered 8:30\u20139:00 AM Tuesday slot with no comparison to other available times or cost savings.",
+    "rate_lock_then_ask": "Yeah, so just wanted to let you know that we can be able to book her slot on next Tuesday as early as 8:30 AM to 9:00 AM, wherein there's no deposit record, no risk in your spot in case if you wanted to reschedule or to cancel then all you have to do is just simply give us a call at anytime. Would you like me to lock that in for you?"
+  },
+  "top_strength": "Roselyn delivered both promises (On-Time Guarantee with specific discounts and No Worries Damage Coverage with $2,000 coverage, no deductible) with clear, recognizable phrasing and permission framing before pivoting to probing.",
+  "coaching_note": "After the customer named their concerns, go two layers deep with follow-up questions ('tell me more about that') and silence before moving to the promises \u2014 right now you summarized and pivoted too quickly, leaving the emotional weight of their concerns unexplored."
+}

@@ -1,0 +1,39 @@
+{
+  "call_id": "4613524064870400",
+  "rep_name": "Jevic Lazanas",
+  "branch": "Fort Worth Einstein Moving Company",
+  "duration_min": 7.3,
+  "datetime_ct": "2026-10-12 14:11 CT",
+  "external_number": "+15088010669",
+  "call_type": "walkthrough_scheduler",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 20,
+  "step6_concerns_again": 10,
+  "step7_ask_for_the_business": 10,
+  "total_score": 67,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection"
+  ],
+  "evidence_quotes": {
+    "name_asked_and_used": "Jevic: 'And may I know who am I'm speaking with, please.' Anthony: 'Yup, Tony.' Jevic: 'Tony. Thank you Tony and Tony.'",
+    "quid_pro_quo": "No quid pro quo framing present. Rep went directly into logistics gathering without time-boxing the call or promising a dependable quote.",
+    "two_concerns_question": "Never asked. Rep moved directly into address and property details without asking about customer's primary concerns.",
+    "two_layers_deep": "Not applicable\u2014no concerns were raised by the customer during this call.",
+    "active_listening_reflection": "Not applicable\u2014no concerns were raised to reflect back.",
+    "promises_delivered": "Neither On-Time Guarantee nor No Worries Damage Coverage were mentioned.",
+    "closes_the_loop": "No 'Does that put those to rest?' or equivalent asked.",
+    "concern_led_opening": "Rep asked 'How many stories are there' and 'How many bedrooms?' but never asked 'What items in this move are you most concerned about?' or equivalent concern-led opening.",
+    "logistics_gathered": "Partial. Rep gathered: move date (Nov 7), both addresses, both properties are 2-story, 4 bedrooms, truck access (driveway and street). Did not ask about special items, walking distances, number of rooms, additional stops, or other details.",
+    "packing_and_box_count": "Neither packing nor box count were asked.",
+    "walkthrough_routing": "Jevic: 'Alright. Okay, so Tony since this is con definitely a large move. So, I'll go ahead and refer you to our large move specialist who can quote this accurately.' Rep then transferred the call with a promise of callback within the day. The move is 3,600 sq ft (partial, but still substantial) and triggered the large-move specialist routing."
+  },
+  "top_strength": "Rep successfully gathered the customer's name and used it multiple times throughout the call, and correctly identified the move size and routed it to a large-move specialist rather than attempting to quote a move outside the rep's scope.",
+  "coaching_note": "Before routing to the specialist, deliver the quid pro quo framing to set expectation, ask the two-concerns question to understand what matters to this customer, and deliver both promises so the specialist knows what ground has been covered\u2014these steps should land in the first few minutes before the transfer."
+}

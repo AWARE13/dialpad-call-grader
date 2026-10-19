@@ -1,0 +1,33 @@
+{
+  "call_id": "5635304695046144",
+  "rep_name": "Nicole Tolete",
+  "branch": "San Antonio Einstein Moving Company",
+  "duration_min": 10.9,
+  "datetime_ct": "2026-10-12 21:37 CT",
+  "external_number": "+16173067282",
+  "call_type": "full_sales_call",
+  "skip_reason": null,
+  "rubric_version": "v4-simplified",
+  "step1_open": 4,
+  "step2_their_concerns": 17,
+  "step3_two_promises": 0,
+  "step4_probing_for_details": 6,
+  "step5_the_estimate": 5,
+  "step6_concerns_again": 8,
+  "step7_ask_for_the_business": 0,
+  "total_score": 40,
+  "pass": false,
+  "na_fallbacks_used": [
+    "two_layers_deep",
+    "active_listening_reflection",
+    "followup_on_remaining_concern"
+  ],
+  "evidence_quotes": {
+    "two_concerns_question": "Never asked. Rep moved directly into clarifying items on inventory without probing for customer's primary concerns about the move.",
+    "two_layers_deep": "N/A \u2014 no concerns were asked for at the beginning of the call.",
+    "value_days": "Never mentioned. Rep presented the estimate ($934 for 4.5 hours) with no discussion of day-of-week pricing, cheaper alternative days, or date flexibility.",
+    "rate_lock_then_ask": "Never asked for the business. Rep confirmed details and said 'I will see you on Monday November 2nd' but never delivered a rate lock promise, no deposit statement, or explicit ask like 'Would you like our help with your move?' The booking appears to have already been made on a prior call \u2014 this call is a clarification/update call on an existing reservation."
+  },
+  "top_strength": "Nicole gathered an extensive, detailed inventory of items the customer couldn't fit in her car (file cabinet, nightstands, trampoline, rack, lamps, walking pad, TV stand, divider, bench seat) and updated the estimate thoughtfully by adding 30 minutes, showing care for accuracy.",
+  "coaching_note": "This was a follow-up/clarification call, not a fresh sales call \u2014 the estimate had already been quoted by a colleague and the booking was already on the books for Monday 11/2. Nicole should have recognized this early and treated it differently, but for a full sales call evaluation: never skip the two-concerns question at the start, and always deliver both promises (On-Time Guarantee and No Worries Damage Coverage) before diving into details."
+}
